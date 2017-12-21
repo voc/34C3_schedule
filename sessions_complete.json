@@ -990,6 +990,56 @@
             "1514563200"
         ]
     }, 
+    "Session:TeaHouse# 7693dc19e24497ef3c885347bbef9e3c": {
+        "Held in language": [
+            "en - English"
+        ], 
+        "Has start time": [
+            "1514638800"
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [
+            "https://teahouse.homecomputing.fr/"
+        ], 
+        "Has description": [], 
+        "Has session type": [
+            "Meeting"
+        ], 
+        "Has session location": [
+            {
+                "fulltext": "Assembly:TeaHouse", 
+                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Assembly:TeaHouse", 
+                "namespace": 504, 
+                "exists": true
+            }
+        ], 
+        "Has subtitle": [
+            "\u03b5xodus reveals hidden trackers in Android applications"
+        ], 
+        "Is organized by": [
+            {
+                "fulltext": "User:Sanpi", 
+                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/User:Sanpi", 
+                "namespace": 2, 
+                "exists": true
+            }
+        ], 
+        "Has title": [
+            "TeaHouse"
+        ], 
+        "Has duration": [
+            20
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:TeaHouse", 
+        "Has end time": [
+            "1514640000"
+        ]
+    }, 
     "Session:Rights&Freedoms# 90242e2ab459b0f24bac973e7d219018": {
         "Held in language": [
             "de - German", 
@@ -9352,54 +9402,52 @@
             "1514566800"
         ]
     }, 
-    "Session:TeaHouse# 7693dc19e24497ef3c885347bbef9e3c": {
+    "Session:Lehrerstammtisch# 77b9de2e2b01c9ef09e33b36564e9d93": {
         "Held in language": [
-            "en - English"
+            "de - German"
         ], 
         "Has start time": [
-            "1514638800"
+            "1514404800"
         ], 
         "Has event track": [
             "Session"
         ], 
-        "Has website": [
-            "https://teahouse.homecomputing.fr/"
-        ], 
+        "Has website": [], 
         "Has description": [], 
         "Has session type": [
             "Meeting"
         ], 
         "Has session location": [
             {
-                "fulltext": "Assembly:TeaHouse", 
-                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Assembly:TeaHouse", 
-                "namespace": 504, 
+                "fulltext": "Room:Lecture room 12", 
+                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Room:Lecture_room_12", 
+                "namespace": 516, 
                 "exists": true
             }
         ], 
         "Has subtitle": [
-            "\u03b5xodus reveals hidden trackers in Android applications"
+            "the teachers meeting"
         ], 
         "Is organized by": [
             {
-                "fulltext": "User:Sanpi", 
-                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/User:Sanpi", 
+                "fulltext": "User:Gigo", 
+                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/User:Gigo", 
                 "namespace": 2, 
                 "exists": true
             }
         ], 
         "Has title": [
-            "TeaHouse"
+            "Lehrerstammtisch"
         ], 
         "Has duration": [
-            20
+            60
         ], 
         "Has color": [
             "#0099ab"
         ], 
-        "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:TeaHouse", 
+        "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:Lehrerstammtisch", 
         "Has end time": [
-            "1514640000"
+            "1514408400"
         ]
     }, 
     "Session:Public Money? Public Code!# 7bc03c32ffe0f8f68c3117754f284ec6": {
