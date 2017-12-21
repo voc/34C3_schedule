@@ -272,50 +272,6 @@
             "1514475000"
         ]
     }, 
-    "Session:Rights&Freedoms# ff1be5cfe3163d65c0b67b03bea3358b": {
-        "Held in language": [
-            "de - German", 
-            "en - English"
-        ], 
-        "Has start time": [
-            "1514570400"
-        ], 
-        "Has event track": [
-            "Session"
-        ], 
-        "Has website": [], 
-        "Has description": [
-            "Rights & Freedoms Cluster Stage Programme"
-        ], 
-        "Has session type": [
-            "Talk"
-        ], 
-        "Has session location": [
-            {
-                "fulltext": "Room:Hall 3", 
-                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Room:Hall_3", 
-                "namespace": 516, 
-                "exists": true
-            }
-        ], 
-        "Has subtitle": [
-            "Net Neutrality measurement (Epicenter.works)"
-        ], 
-        "Is organized by": [], 
-        "Has title": [
-            "Rights&Freedoms"
-        ], 
-        "Has duration": [
-            60
-        ], 
-        "Has color": [
-            "#0099ab"
-        ], 
-        "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:Rights%26Freedoms", 
-        "Has end time": [
-            "1514574000"
-        ]
-    }, 
     "Session:Disrupt!# 258de97cfe0ad248ba702c8bb269b7ba": {
         "Held in language": [], 
         "Has start time": [
@@ -435,6 +391,50 @@
         "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:Smart_Cities_-_reality_or_fata_morgana_%3F", 
         "Has end time": [
             "1514570400"
+        ]
+    }, 
+    "Session:Rights&Freedoms# 26ca774a69bd8e793903651c6e3641f4": {
+        "Held in language": [
+            "de - German", 
+            "en - English"
+        ], 
+        "Has start time": [
+            "1514473200"
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [], 
+        "Has description": [
+            "Rights & Freedoms Cluster Stage Programme"
+        ], 
+        "Has session type": [
+            "Talk"
+        ], 
+        "Has session location": [
+            {
+                "fulltext": "Room:Hall 3", 
+                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Room:Hall_3", 
+                "namespace": 516, 
+                "exists": true
+            }
+        ], 
+        "Has subtitle": [
+            "Digital security training for newbies (EFF)"
+        ], 
+        "Is organized by": [], 
+        "Has title": [
+            "Rights&Freedoms"
+        ], 
+        "Has duration": [
+            30
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:Rights%26Freedoms", 
+        "Has end time": [
+            "1514475000"
         ]
     }, 
     "Session:TeaHouse# 7a841b7b6267edebee6beda43d57980e": {
@@ -874,13 +874,13 @@
             "1514649600"
         ]
     }, 
-    "Session:Rights&Freedoms# 71b010fe09eae1799fb2889302d28977": {
+    "Session:Rights&Freedoms# 90242e2ab459b0f24bac973e7d219018": {
         "Held in language": [
             "de - German", 
             "en - English"
         ], 
         "Has start time": [
-            "1514581200"
+            "1514570400"
         ], 
         "Has event track": [
             "Session"
@@ -901,7 +901,7 @@
             }
         ], 
         "Has subtitle": [
-            "Wie die fl\u00e4chendeckende\nGesichtserkennung sich in unser Datenschutzgesetz eingeschlichen hat (Frank, Datenschutzraum) (in German)"
+            "DYI: Net Neutrality enforcement in the EU (Epicenter.works)"
         ], 
         "Is organized by": [], 
         "Has title": [
@@ -915,7 +915,7 @@
         ], 
         "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:Rights%26Freedoms", 
         "Has end time": [
-            "1514584800"
+            "1514574000"
         ]
     }, 
     "Session:Calliope Workshops# 3f0972aaf2c8b1e411d0858f8e05bd61": {
@@ -1009,50 +1009,6 @@
         "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:We_dont_need_new_texts_-_we_need_new_languages", 
         "Has end time": [
             "1514476800"
-        ]
-    }, 
-    "Session:Rights&Freedoms# b790c83d34db7748b18cf4ff0ca4d91d": {
-        "Held in language": [
-            "de - German", 
-            "en - English"
-        ], 
-        "Has start time": [
-            "1514487600"
-        ], 
-        "Has event track": [
-            "Session"
-        ], 
-        "Has website": [], 
-        "Has description": [
-            "Rights & Freedoms Cluster Stage Programme"
-        ], 
-        "Has session type": [
-            "Talk"
-        ], 
-        "Has session location": [
-            {
-                "fulltext": "Room:Hall 3", 
-                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Room:Hall_3", 
-                "namespace": 516, 
-                "exists": true
-            }
-        ], 
-        "Has subtitle": [
-            "Onlincensorship.org: social media content takedowns (EFF)"
-        ], 
-        "Is organized by": [], 
-        "Has title": [
-            "Rights&Freedoms"
-        ], 
-        "Has duration": [
-            60
-        ], 
-        "Has color": [
-            "#0099ab"
-        ], 
-        "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:Rights%26Freedoms", 
-        "Has end time": [
-            "1514491200"
         ]
     }, 
     "Session:Hacking with wget# 518ebf05c1b341666502a5a4658f7522": {
@@ -1781,48 +1737,52 @@
             "1514489400"
         ]
     }, 
-    "Session:Rights&Freedoms# 2c89ef38688f743751e3c0a5cbc03990": {
+    "Session:When the Dutch secret service knocks on your door# e6e8d9f7a886263a5c4bf250c837694b": {
         "Held in language": [
-            "de - German", 
             "en - English"
         ], 
         "Has start time": [
-            "1514403000"
+            "1514469600"
         ], 
         "Has event track": [
             "Session"
         ], 
         "Has website": [], 
         "Has description": [
-            "Rights & Freedoms Cluster Stage Programme"
+            "This is a story of when the Dutch secret service knocked on my door just after OHM2013, what some of the events that lead up to this, our guesses on why they did this and how to create an environment where we can talk about these things instead of keeping silent."
         ], 
-        "Has session type": [
-            "Talk"
-        ], 
+        "Has session type": [], 
         "Has session location": [
             {
-                "fulltext": "Room:Hall 3", 
-                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Room:Hall_3", 
+                "fulltext": "Room:Lecture room 11", 
+                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Room:Lecture_room_11", 
                 "namespace": 516, 
                 "exists": true
             }
         ], 
         "Has subtitle": [
-            "Algorithmic Transparency (EFF)"
+            "Lecture/discussion"
         ], 
-        "Is organized by": [], 
+        "Is organized by": [
+            {
+                "fulltext": "User:DrWhax2", 
+                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/User:DrWhax2", 
+                "namespace": 2, 
+                "exists": true
+            }
+        ], 
         "Has title": [
-            "Rights&Freedoms"
+            "When the Dutch secret service knocks on your door"
         ], 
         "Has duration": [
-            30
+            60
         ], 
         "Has color": [
             "#0099ab"
         ], 
-        "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:Rights%26Freedoms", 
+        "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:When_the_Dutch_secret_service_knocks_on_your_door", 
         "Has end time": [
-            "1514404800"
+            "1514473200"
         ]
     }, 
     "Session:Letter writing to prisoners, sitting in jail for hacking# b0a6aea18dd2184a6e7e6a6c2e1dd956": {
@@ -2815,45 +2775,52 @@
             "1514464200"
         ]
     }, 
-    "Session:Learning to draw for techies# f92cb42a4beb517b9e0e584ed40c682f": {
+    "Session:Video Game Development Meetup# 55b1c1ce1b633caca9a4b58ff6c3cdbc": {
         "Held in language": [
             "en - English"
         ], 
         "Has start time": [
-            "1514466000"
+            "1514484000"
         ], 
         "Has event track": [
             "Session"
         ], 
         "Has website": [], 
         "Has description": [
-            "We will learn mental models and techniques that anybody can use to learn how to draw and improve. You will not think of drawing as an entirely abstract, fuzzy process anymore. Also, we are going to draw cute animals."
+            "We're a bunch of people who participated in the game jam \"Ludum Dare\" this year. Whether you're curious about video game development, or a seasoned indie game developer \u2013 let's meet, talk about our experiences, and play each others' games! :)"
         ], 
         "Has session type": [
-            "Workshop"
+            "Meeting"
         ], 
         "Has session location": [
             {
-                "fulltext": "Komona Coral Reef", 
-                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Komona_Coral_Reef", 
-                "namespace": 0, 
-                "exists": false
+                "fulltext": "Room:Seminar room 13", 
+                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Room:Seminar_room_13", 
+                "namespace": 516, 
+                "exists": true
             }
         ], 
         "Has subtitle": [], 
-        "Is organized by": [], 
+        "Is organized by": [
+            {
+                "fulltext": "User:Blinry", 
+                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/User:Blinry", 
+                "namespace": 2, 
+                "exists": true
+            }
+        ], 
         "Has title": [
-            "Learning to draw for techies"
+            "Video Game Development Meetup"
         ], 
         "Has duration": [
-            120
+            60
         ], 
         "Has color": [
             "#0099ab"
         ], 
-        "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:Learning_to_draw_for_techies", 
+        "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:Video_Game_Development_Meetup", 
         "Has end time": [
-            "1514473200"
+            "1514487600"
         ]
     }, 
     "Session:Chaos-Notizen# f90aa84469346a8747b774faaf1509e0": {
@@ -3529,51 +3496,7 @@
             "1514484000"
         ]
     }, 
-    "Session:Rights&Freedoms# 92a5362a63e3aa20179709d772775fb7": {
-        "Held in language": [
-            "de - German", 
-            "en - English"
-        ], 
-        "Has start time": [
-            "1514390400"
-        ], 
-        "Has event track": [
-            "Session"
-        ], 
-        "Has website": [], 
-        "Has description": [
-            "Rights & Freedoms Cluster Stage Programme"
-        ], 
-        "Has session type": [
-            "Talk"
-        ], 
-        "Has session location": [
-            {
-                "fulltext": "Room:Hall 3", 
-                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Room:Hall_3", 
-                "namespace": 516, 
-                "exists": true
-            }
-        ], 
-        "Has subtitle": [
-            "Risk and privacy threats induced by digital currencies (Oussema Settala)"
-        ], 
-        "Is organized by": [], 
-        "Has title": [
-            "Rights&Freedoms"
-        ], 
-        "Has duration": [
-            60
-        ], 
-        "Has color": [
-            "#0099ab"
-        ], 
-        "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:Rights%26Freedoms", 
-        "Has end time": [
-            "1514394000"
-        ]
-    }, 
-    "Session:Rights&Freedoms# 069c4f154c93662a7728c75adbf78f63": {
+    "Session:Rights&Freedoms# 24247c27998e20a524ac41fa48d069a9": {
         "Held in language": [
             "de - German", 
             "en - English"
@@ -3600,7 +3523,7 @@
             }
         ], 
         "Has subtitle": [
-            "pretty Easy privacy (p\u2261p) for Thunderbird via Enigmail: Using pEp in a\nJavaScript environment\" (pEp Foundation)"
+            "pretty Easy privacy (p\u2261p) for Thunderbird via Enigmail: Using pEp in aJavaScript environment\" (pEp Foundation)"
         ], 
         "Is organized by": [], 
         "Has title": [
@@ -5142,6 +5065,50 @@
             "1514492100"
         ]
     }, 
+    "Session:Rights&Freedoms# 2b85c8fda090fd6e670aaaa0bcf961d1": {
+        "Held in language": [
+            "de - German", 
+            "en - English"
+        ], 
+        "Has start time": [
+            "1514390400"
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [], 
+        "Has description": [
+            "Rights & Freedoms Cluster Stage Programme"
+        ], 
+        "Has session type": [
+            "Talk"
+        ], 
+        "Has session location": [
+            {
+                "fulltext": "Room:Hall 3", 
+                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Room:Hall_3", 
+                "namespace": 516, 
+                "exists": true
+            }
+        ], 
+        "Has subtitle": [
+            "Will the monetary system change? Privacy and Risk implications of digital currencies, and decentralized digital monetary systems (Oussema Settala)"
+        ], 
+        "Is organized by": [], 
+        "Has title": [
+            "Rights&Freedoms"
+        ], 
+        "Has duration": [
+            60
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:Rights%26Freedoms", 
+        "Has end time": [
+            "1514394000"
+        ]
+    }, 
     "Session:How does artificial intelligence accomplish the feat of learning? (Wondrous Mathematics)# 92d5dba90bd489895fba597a036bfb18": {
         "Held in language": [
             "en - English"
@@ -5481,6 +5448,47 @@
         "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:Security_Without_Borders", 
         "Has end time": [
             "1514409300"
+        ]
+    }, 
+    "Session:Learning to draw for techies# 1b0d5f254b1639f1052f7aed85e465d0": {
+        "Held in language": [
+            "en - English"
+        ], 
+        "Has start time": [
+            "1514462400"
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [], 
+        "Has description": [
+            "We will learn mental models and techniques that anybody can use to learn how to draw and improve. You will not think of drawing as an entirely abstract, fuzzy process anymore. Also, we are going to draw cute animals."
+        ], 
+        "Has session type": [
+            "Workshop"
+        ], 
+        "Has session location": [
+            {
+                "fulltext": "Komona Coral Reef", 
+                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Komona_Coral_Reef", 
+                "namespace": 0, 
+                "exists": false
+            }
+        ], 
+        "Has subtitle": [], 
+        "Is organized by": [], 
+        "Has title": [
+            "Learning to draw for techies"
+        ], 
+        "Has duration": [
+            105
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:Learning_to_draw_for_techies", 
+        "Has end time": [
+            "1514468700"
         ]
     }, 
     "Session:IOSRE# b605d239e676c5c3ac5a4f595c8d429a": {
@@ -6120,50 +6128,6 @@
             "1514480400"
         ]
     }, 
-    "Session:Rights&Freedoms# 1cb78ca56635c2fccce6556fbabc1a5a": {
-        "Held in language": [
-            "de - German", 
-            "en - English"
-        ], 
-        "Has start time": [
-            "1514473200"
-        ], 
-        "Has event track": [
-            "Session"
-        ], 
-        "Has website": [], 
-        "Has description": [
-            "Rights & Freedoms Cluster Stage Programme"
-        ], 
-        "Has session type": [
-            "Talk"
-        ], 
-        "Has session location": [
-            {
-                "fulltext": "Room:Hall 3", 
-                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Room:Hall_3", 
-                "namespace": 516, 
-                "exists": true
-            }
-        ], 
-        "Has subtitle": [
-            "Digital security training for newbies (EFF)"
-        ], 
-        "Is organized by": [], 
-        "Has title": [
-            "Rights&Freedoms"
-        ], 
-        "Has duration": [
-            60
-        ], 
-        "Has color": [
-            "#0099ab"
-        ], 
-        "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:Rights%26Freedoms", 
-        "Has end time": [
-            "1514476800"
-        ]
-    }, 
     "Session:Lingua Latina# 54f8ff628e7ef0f89e7cde07acd83923": {
         "Held in language": [
             "en - English"
@@ -6394,6 +6358,50 @@
         "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:Warum_Trump_tickt_wie_er_tickt", 
         "Has end time": [
             "1514584800"
+        ]
+    }, 
+    "Session:Rights&Freedoms# 16e12c3b8ed13fcddaa63a0f90e3dbdd": {
+        "Held in language": [
+            "de - German", 
+            "en - English"
+        ], 
+        "Has start time": [
+            "1514494800"
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [], 
+        "Has description": [
+            "Rights & Freedoms Cluster Stage Programme"
+        ], 
+        "Has session type": [
+            "Talk"
+        ], 
+        "Has session location": [
+            {
+                "fulltext": "Room:Hall 3", 
+                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Room:Hall_3", 
+                "namespace": 516, 
+                "exists": true
+            }
+        ], 
+        "Has subtitle": [
+            "Big Brother Awards - a great tool to build awareness and have fun (Digitalcourage)"
+        ], 
+        "Is organized by": [], 
+        "Has title": [
+            "Rights&Freedoms"
+        ], 
+        "Has duration": [
+            60
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:Rights%26Freedoms", 
+        "Has end time": [
+            "1514498400"
         ]
     }, 
     "Session:Rights&Freedoms# 5fd64ea1f41934e8d5a7ce3c81402a9c": {
@@ -7000,6 +7008,50 @@
         "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:TeaHouse", 
         "Has end time": [
             "1514393100"
+        ]
+    }, 
+    "Session:Rights&Freedoms# 0f803030e6095ba28f9fcb90bc437d54": {
+        "Held in language": [
+            "de - German", 
+            "en - English"
+        ], 
+        "Has start time": [
+            "1514581200"
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [], 
+        "Has description": [
+            "Rights & Freedoms Cluster Stage Programme"
+        ], 
+        "Has session type": [
+            "Talk"
+        ], 
+        "Has session location": [
+            {
+                "fulltext": "Room:Hall 3", 
+                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Room:Hall_3", 
+                "namespace": 516, 
+                "exists": true
+            }
+        ], 
+        "Has subtitle": [
+            "Wie die fl\u00e4chendeckendeGesichtserkennung sich in unser Datenschutzgesetz eingeschlichen hat (Frank, Datenschutzraum) (in German)"
+        ], 
+        "Is organized by": [], 
+        "Has title": [
+            "Rights&Freedoms"
+        ], 
+        "Has duration": [
+            60
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:Rights%26Freedoms", 
+        "Has end time": [
+            "1514584800"
         ]
     }, 
     "Session:Delta Chat# 10a829599c665cc9491dbe1b569831b0": {
@@ -7942,6 +7994,55 @@
             "1514388600"
         ]
     }, 
+    "Session:T3sserakt: Secushare# b6fdc2bf1b1691d68c8ef7669e4b5fcd": {
+        "Held in language": [
+            "de - German", 
+            "en - English"
+        ], 
+        "Has start time": [
+            "1514386800"
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [
+            "http://youbroketheinternet.org/"
+        ], 
+        "Has description": [
+            "Modeling trust in a distributed private social network"
+        ], 
+        "Has session type": [], 
+        "Has session location": [
+            {
+                "fulltext": "Room:Chaos West Stage", 
+                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Room:Chaos_West_Stage", 
+                "namespace": 516, 
+                "exists": true
+            }
+        ], 
+        "Has subtitle": [], 
+        "Is organized by": [
+            {
+                "fulltext": "User:Nanooq", 
+                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/User:Nanooq", 
+                "namespace": 2, 
+                "exists": true
+            }
+        ], 
+        "Has title": [
+            "T3sserakt: Secushare"
+        ], 
+        "Has duration": [
+            45
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:T3sserakt:_Secushare", 
+        "Has end time": [
+            "1514389500"
+        ]
+    }, 
     "Session:Haecksen Happy Hour# 1f856d59015c130a0bb45f4eb86e7d77": {
         "Held in language": [], 
         "Has start time": [
@@ -8346,7 +8447,7 @@
         ], 
         "Has website": [], 
         "Has description": [
-            "Tracking users and managing their online identity across multiple services is the cornerstone of the dominance of the Internet by the big OTTs. Currently, Google, Facebook and other companies who live off user data monetization are the only ones offering Internet-wide single-sign-on services to average users; these services build more walled gardens which give no choice, no rights and no freedoms to the users. This is why it is strategically important to create an open alternative: a federated, public, free identity infrastructure for the Internet that would give users the same level of convenience and security, but empower them to choose their identity provider and control which personal information is shared and to whom. The session will discuss the problem and introduce the work done in this regard within the DomainID project, looking for community feedback and participation."
+            "Tracking users and managing their online identity across multiple services is the cornerstone of the dominance of the Internet by the big OTTs. Currently, Google, Facebook and other companies who live off user data monetization are the only ones offering Internet-wide single-sign-on services to average users; these services build more walled gardens which give no choice, no rights and no freedoms to the users. This is why it is strategically important to create an open alternative: a federated, public, free identity infrastructure for the Internet that would give users the same level of convenience and security, but empower them to choose their identity provider and control which personal information is shared and to whom. \n\nThe session will open with a general presentation, including data, of how the big OTTs are growing and focusing their revenue sources on advertising and on tracking online identities, centralizing the economy of the Internet and of the world, to prove how crucial this issue is. Then, the talk will discuss introduce the work done within the DomainID/iNetID project to create a decentralized public identity infrastructure for the open Internet, going into technical details on the proposed architecture, and looking for community feedback and participation."
         ], 
         "Has session type": [
             "Talk"
@@ -8900,54 +9001,6 @@
         "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:Rights%26Freedoms", 
         "Has end time": [
             "1514559600"
-        ]
-    }, 
-    "Session:When the Dutch secret service knocks on your door# e6e8d9f7a886263a5c4bf250c837694b": {
-        "Held in language": [
-            "en - English"
-        ], 
-        "Has start time": [
-            "1514469600"
-        ], 
-        "Has event track": [
-            "Session"
-        ], 
-        "Has website": [], 
-        "Has description": [
-            "This is a story of when the Dutch secret service knocked on my door just after OHM2013, what some of the events that lead up to this, our guesses on why they did this and how to create an environment where we can talk about these things instead of keeping silent."
-        ], 
-        "Has session type": [], 
-        "Has session location": [
-            {
-                "fulltext": "Room:Lecture room 11", 
-                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Room:Lecture_room_11", 
-                "namespace": 516, 
-                "exists": true
-            }
-        ], 
-        "Has subtitle": [
-            "Lecture/discussion"
-        ], 
-        "Is organized by": [
-            {
-                "fulltext": "User:DrWhax2", 
-                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/User:DrWhax2", 
-                "namespace": 2, 
-                "exists": true
-            }
-        ], 
-        "Has title": [
-            "When the Dutch secret service knocks on your door"
-        ], 
-        "Has duration": [
-            60
-        ], 
-        "Has color": [
-            "#0099ab"
-        ], 
-        "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:When_the_Dutch_secret_service_knocks_on_your_door", 
-        "Has end time": [
-            "1514473200"
         ]
     }, 
     "Session:Letter writing to prisoners, sitting in jail for hacking# 05a17317e0bca1ab5b1bfdbab6a7959b": {
@@ -9679,52 +9732,48 @@
             "1514566800"
         ]
     }, 
-    "Session:Video Game Development Meetup# 55b1c1ce1b633caca9a4b58ff6c3cdbc": {
+    "Session:Rights&Freedoms# 5e25974ce994e974478efc5878cd88f9": {
         "Held in language": [
+            "de - German", 
             "en - English"
         ], 
         "Has start time": [
-            "1514484000"
+            "1514489400"
         ], 
         "Has event track": [
             "Session"
         ], 
         "Has website": [], 
         "Has description": [
-            "We're a bunch of people who participated in the game jam \"Ludum Dare\" this year. Whether you're curious about video game development, or a seasoned indie game developer \u2013 let's meet, talk about our experiences, and play each others' games! :)"
+            "Rights & Freedoms Cluster Stage Programme"
         ], 
         "Has session type": [
-            "Meeting"
+            "Talk"
         ], 
         "Has session location": [
             {
-                "fulltext": "Room:Seminar room 13", 
-                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Room:Seminar_room_13", 
+                "fulltext": "Room:Hall 3", 
+                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Room:Hall_3", 
                 "namespace": 516, 
                 "exists": true
             }
         ], 
-        "Has subtitle": [], 
-        "Is organized by": [
-            {
-                "fulltext": "User:Blinry", 
-                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/User:Blinry", 
-                "namespace": 2, 
-                "exists": true
-            }
+        "Has subtitle": [
+            "Onlincensorship.org: social media content takedowns (EFF)"
         ], 
+        "Is organized by": [], 
         "Has title": [
-            "Video Game Development Meetup"
+            "Rights&Freedoms"
         ], 
         "Has duration": [
-            60
+            30
         ], 
         "Has color": [
             "#0099ab"
         ], 
-        "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:Video_Game_Development_Meetup", 
+        "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:Rights%26Freedoms", 
         "Has end time": [
-            "1514487600"
+            "1514491200"
         ]
     }, 
     "Session:Cryptoparty# 3d80e5d4f5e14f9d3afdf15acff751f5": {
@@ -9888,6 +9937,50 @@
         "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:Reclaim_Club_Culture", 
         "Has end time": [
             "1514383200"
+        ]
+    }, 
+    "Session:Rights&Freedoms# 770364a66d84ea7904329e43013561e7": {
+        "Held in language": [
+            "de - German", 
+            "en - English"
+        ], 
+        "Has start time": [
+            "1514401200"
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [], 
+        "Has description": [
+            "Rights & Freedoms Cluster Stage Programme"
+        ], 
+        "Has session type": [
+            "Talk"
+        ], 
+        "Has session location": [
+            {
+                "fulltext": "Room:Hall 3", 
+                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Room:Hall_3", 
+                "namespace": 516, 
+                "exists": true
+            }
+        ], 
+        "Has subtitle": [
+            "Algorithmic Transparency (EFF)"
+        ], 
+        "Is organized by": [], 
+        "Has title": [
+            "Rights&Freedoms"
+        ], 
+        "Has duration": [
+            30
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:Rights%26Freedoms", 
+        "Has end time": [
+            "1514403000"
         ]
     }, 
     "Session:Initiate 34c3# 8ab81e64d32b3015a9dccfd6fdc36910": {

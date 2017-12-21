@@ -15,7 +15,7 @@
                     "rooms": {
                         "Seminar room 14-15": [
                             {
-                                "id": 1016, 
+                                "id": 1017, 
                                 "guid": "e54328ce-06f7-5578-bccb-0653404d932e", 
                                 "logo": null, 
                                 "date": "2017-12-26T13:00:00+01:00", 
@@ -36,7 +36,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1017, 
+                                "id": 1018, 
                                 "guid": "3b5cf5d2-7d5d-51ba-8798-dc60e10c8985", 
                                 "logo": null, 
                                 "date": "2017-12-26T19:30:00+01:00", 
@@ -57,7 +57,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1018, 
+                                "id": 1019, 
                                 "guid": "5e7bb2b0-f5ea-598b-9f57-a08f05420984", 
                                 "logo": null, 
                                 "date": "2017-12-26T20:15:00+01:00", 
@@ -80,7 +80,7 @@
                         ], 
                         "Lecture room 11": [
                             {
-                                "id": 1005, 
+                                "id": 1006, 
                                 "guid": "c70e49b3-48f5-5f25-b17c-85568b1e2c71", 
                                 "logo": null, 
                                 "date": "2017-12-26T23:30:00+01:00", 
@@ -108,7 +108,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1006, 
+                                "id": 1007, 
                                 "guid": "7056fe08-61b2-560e-b144-f57b1f5256f2", 
                                 "logo": null, 
                                 "date": "2017-12-26T21:30:00+01:00", 
@@ -136,7 +136,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1204, 
+                                "id": 1207, 
                                 "guid": "2f8b0e3d-e4bc-56f3-a96d-3c7559fd753f", 
                                 "logo": null, 
                                 "date": "2017-12-26T20:00:00+01:00", 
@@ -221,7 +221,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1131, 
+                                "id": 1132, 
                                 "guid": "92c6963b-c7d7-5d65-a3f8-2f1368aadbd4", 
                                 "logo": null, 
                                 "date": "2017-12-27T18:00:00+01:00", 
@@ -242,7 +242,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1210, 
+                                "id": 1211, 
                                 "guid": "60b5bdfd-9d8a-5bcc-a0a7-f2fc485459b5", 
                                 "logo": null, 
                                 "date": "2017-12-27T20:00:00+01:00", 
@@ -266,7 +266,7 @@
                         ], 
                         "Lecture room 11": [
                             {
-                                "id": 1007, 
+                                "id": 1008, 
                                 "guid": "57c9ce09-56a0-5dbd-9af8-186b9ef6e3d7", 
                                 "logo": null, 
                                 "date": "2017-12-27T20:15:00+01:00", 
@@ -294,7 +294,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1205, 
+                                "id": 1208, 
                                 "guid": "ff42e72c-d902-5009-b2dd-f7c515811d70", 
                                 "logo": null, 
                                 "date": "2017-12-27T17:30:00+01:00", 
@@ -340,7 +340,7 @@
                         ], 
                         "Chaos West Stage": [
                             {
-                                "id": 1092, 
+                                "id": 1091, 
                                 "guid": "d068b1a6-c17f-5567-8feb-0bbf3ac1605e", 
                                 "logo": null, 
                                 "date": "2017-12-28T00:00:00+01:00", 
@@ -367,7 +367,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1093, 
+                                "id": 1092, 
                                 "guid": "0c5205d7-14bd-55a8-9fb8-3c570997e5fc", 
                                 "logo": null, 
                                 "date": "2017-12-28T02:30:00+01:00", 
@@ -448,11 +448,39 @@
                                     "http://secushare.cheettyiapsyciew.onion", 
                                     "https://events.ccc.de/congress/2017/wiki/index.php/Session:Scalable_and_privacy-respectful_distributed_systems"
                                 ]
+                            }, 
+                            {
+                                "id": 1181, 
+                                "guid": "ec65b872-b406-5cad-8ebb-4098abc2b4b6", 
+                                "logo": null, 
+                                "date": "2017-12-27T15:00:00+01:00", 
+                                "start": "15:00", 
+                                "duration": "0:45", 
+                                "room": "Chaos West Stage", 
+                                "slug": "", 
+                                "title": "T3sserakt: Secushare", 
+                                "subtitle": "", 
+                                "track": "self organized sessions", 
+                                "type": "", 
+                                "language": "de", 
+                                "abstract": "", 
+                                "description": "Modeling trust in a distributed private social network", 
+                                "persons": [
+                                    {
+                                        "id": 0, 
+                                        "url": "https://events.ccc.de/congress/2017/wiki/index.php/User:Nanooq", 
+                                        "public_name": "Nanooq"
+                                    }
+                                ], 
+                                "links": [
+                                    "http://youbroketheinternet.org/", 
+                                    "https://events.ccc.de/congress/2017/wiki/index.php/Session:T3sserakt:_Secushare"
+                                ]
                             }
                         ], 
                         "Lecture room 12": [
                             {
-                                "id": 1225, 
+                                "id": 1226, 
                                 "guid": "c3ae84a2-4239-573e-8712-28ec5fcb18b4", 
                                 "logo": null, 
                                 "date": "2017-12-27T16:00:00+01:00", 
@@ -483,6 +511,27 @@
                         "Komona D.Ressrosa": [
                             {
                                 "id": 1129, 
+                                "guid": "85e6926e-998d-509d-992b-cc104b501052", 
+                                "logo": null, 
+                                "date": "2017-12-27T12:00:00+01:00", 
+                                "start": "12:00", 
+                                "duration": "2:00", 
+                                "room": "Komona D.Ressrosa", 
+                                "slug": "", 
+                                "title": "Reclaim Club Culture", 
+                                "subtitle": "", 
+                                "track": "self organized sessions", 
+                                "type": "", 
+                                "language": "", 
+                                "abstract": "", 
+                                "description": "", 
+                                "persons": [], 
+                                "links": [
+                                    "https://events.ccc.de/congress/2017/wiki/index.php/Session:Reclaim_Club_Culture"
+                                ]
+                            }, 
+                            {
+                                "id": 1130, 
                                 "guid": "74a2566e-cdec-5996-83cc-b997997aaedf", 
                                 "logo": null, 
                                 "date": "2017-12-27T14:00:00+01:00", 
@@ -503,7 +552,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1130, 
+                                "id": 1131, 
                                 "guid": "183915b2-1e94-51e8-860a-f4004ae51015", 
                                 "logo": null, 
                                 "date": "2017-12-27T16:00:00+01:00", 
@@ -524,32 +573,11 @@
                                 ]
                             }, 
                             {
-                                "id": 1132, 
+                                "id": 1133, 
                                 "guid": "382e2923-182d-5ecb-adca-4863697bd8fd", 
                                 "logo": null, 
                                 "date": "2017-12-27T20:00:00+01:00", 
                                 "start": "20:00", 
-                                "duration": "2:00", 
-                                "room": "Komona D.Ressrosa", 
-                                "slug": "", 
-                                "title": "Reclaim Club Culture", 
-                                "subtitle": "", 
-                                "track": "self organized sessions", 
-                                "type": "", 
-                                "language": "", 
-                                "abstract": "", 
-                                "description": "", 
-                                "persons": [], 
-                                "links": [
-                                    "https://events.ccc.de/congress/2017/wiki/index.php/Session:Reclaim_Club_Culture"
-                                ]
-                            }, 
-                            {
-                                "id": 1133, 
-                                "guid": "85e6926e-998d-509d-992b-cc104b501052", 
-                                "logo": null, 
-                                "date": "2017-12-27T12:00:00+01:00", 
-                                "start": "12:00", 
                                 "duration": "2:00", 
                                 "room": "Komona D.Ressrosa", 
                                 "slug": "", 
@@ -590,6 +618,27 @@
                         "Seminar room 14-15": [
                             {
                                 "id": 1015, 
+                                "guid": "a8254a36-ca09-5c68-8e0b-1399b8a94247", 
+                                "logo": null, 
+                                "date": "2017-12-27T16:30:00+01:00", 
+                                "start": "16:30", 
+                                "duration": "0:45", 
+                                "room": "Seminar room 14-15", 
+                                "slug": "", 
+                                "title": "Angel Meeting", 
+                                "subtitle": "Angel meeting Day 1", 
+                                "track": "self organized sessions", 
+                                "type": "meeting", 
+                                "language": "en", 
+                                "abstract": "", 
+                                "description": "Daily meetings of the Angel crew.", 
+                                "persons": [], 
+                                "links": [
+                                    "https://events.ccc.de/congress/2017/wiki/index.php/Session:Angel_Meeting"
+                                ]
+                            }, 
+                            {
+                                "id": 1016, 
                                 "guid": "a7083f65-5e8b-52cb-b008-af59762bb115", 
                                 "logo": null, 
                                 "date": "2017-12-27T17:15:00+01:00", 
@@ -610,32 +659,11 @@
                                 ]
                             }, 
                             {
-                                "id": 1019, 
+                                "id": 1020, 
                                 "guid": "579eab72-fbd6-5ba7-ad7a-59bcab0272ad", 
                                 "logo": null, 
                                 "date": "2017-12-27T12:45:00+01:00", 
                                 "start": "12:45", 
-                                "duration": "0:45", 
-                                "room": "Seminar room 14-15", 
-                                "slug": "", 
-                                "title": "Angel Meeting", 
-                                "subtitle": "Angel meeting Day 1", 
-                                "track": "self organized sessions", 
-                                "type": "meeting", 
-                                "language": "en", 
-                                "abstract": "", 
-                                "description": "Daily meetings of the Angel crew.", 
-                                "persons": [], 
-                                "links": [
-                                    "https://events.ccc.de/congress/2017/wiki/index.php/Session:Angel_Meeting"
-                                ]
-                            }, 
-                            {
-                                "id": 1020, 
-                                "guid": "a8254a36-ca09-5c68-8e0b-1399b8a94247", 
-                                "logo": null, 
-                                "date": "2017-12-27T16:30:00+01:00", 
-                                "start": "16:30", 
                                 "duration": "0:45", 
                                 "room": "Seminar room 14-15", 
                                 "slug": "", 
@@ -738,7 +766,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1182, 
+                                "id": 1183, 
                                 "guid": "70006092-2467-59c6-ba3f-b65bb1aca56f", 
                                 "logo": null, 
                                 "date": "2017-12-27T18:00:00+01:00", 
@@ -836,154 +864,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1137, 
-                                "guid": "c935a033-b060-5588-819e-ad96e215b4c4", 
-                                "logo": null, 
-                                "date": "2017-12-27T13:00:00+01:00", 
-                                "start": "13:00", 
-                                "duration": "1:00", 
-                                "room": "Hall 3", 
-                                "slug": "", 
-                                "title": "Rights&Freedoms", 
-                                "subtitle": "WebVR for non-coders (Elio Qoshi)", 
-                                "track": "self organized sessions", 
-                                "type": "talk", 
-                                "language": "de", 
-                                "abstract": "", 
-                                "description": "Rights & Freedoms Cluster Stage Programme", 
-                                "persons": [], 
-                                "links": [
-                                    "https://events.ccc.de/congress/2017/wiki/index.php/Session:Rights%26Freedoms"
-                                ]
-                            }, 
-                            {
-                                "id": 1141, 
-                                "guid": "fe29864f-f90d-566b-becd-18910b6e9fef", 
-                                "logo": null, 
-                                "date": "2017-12-27T18:00:00+01:00", 
-                                "start": "18:00", 
-                                "duration": "1:00", 
-                                "room": "Hall 3", 
-                                "slug": "", 
-                                "title": "Rights&Freedoms", 
-                                "subtitle": "pretty Easy privacy (p\u2261p) for Thunderbird via Enigmail: Using pEp in a\nJavaScript environment\" (pEp Foundation)", 
-                                "track": "self organized sessions", 
-                                "type": "talk", 
-                                "language": "de", 
-                                "abstract": "", 
-                                "description": "Rights & Freedoms Cluster Stage Programme", 
-                                "persons": [], 
-                                "links": [
-                                    "https://events.ccc.de/congress/2017/wiki/index.php/Session:Rights%26Freedoms"
-                                ]
-                            }, 
-                            {
-                                "id": 1143, 
-                                "guid": "bdb7c9c8-1503-5b20-9dd0-9a552b972083", 
-                                "logo": null, 
-                                "date": "2017-12-27T14:00:00+01:00", 
-                                "start": "14:00", 
-                                "duration": "1:00", 
-                                "room": "Hall 3", 
-                                "slug": "", 
-                                "title": "Rights&Freedoms", 
-                                "subtitle": "Newpipe (Chris Schabesberger)", 
-                                "track": "self organized sessions", 
-                                "type": "talk", 
-                                "language": "de", 
-                                "abstract": "", 
-                                "description": "Rights & Freedoms Cluster Stage Programme", 
-                                "persons": [], 
-                                "links": [
-                                    "https://events.ccc.de/congress/2017/wiki/index.php/Session:Rights%26Freedoms"
-                                ]
-                            }, 
-                            {
-                                "id": 1146, 
-                                "guid": "fdd4a8e5-345d-5265-8a5e-b0930b1a2f61", 
-                                "logo": null, 
-                                "date": "2017-12-27T19:00:00+01:00", 
-                                "start": "19:00", 
-                                "duration": "0:30", 
-                                "room": "Hall 3", 
-                                "slug": "", 
-                                "title": "Rights&Freedoms", 
-                                "subtitle": "Jabber/XMPP: past, present and future (Daniel Gultsch)", 
-                                "track": "self organized sessions", 
-                                "type": "talk", 
-                                "language": "de", 
-                                "abstract": "", 
-                                "description": "Rights & Freedoms Cluster Stage Programme", 
-                                "persons": [], 
-                                "links": [
-                                    "https://events.ccc.de/congress/2017/wiki/index.php/Session:Rights%26Freedoms"
-                                ]
-                            }, 
-                            {
-                                "id": 1148, 
-                                "guid": "50b06132-ac64-5d1b-9e21-9b9206a2fbab", 
-                                "logo": null, 
-                                "date": "2017-12-27T15:00:00+01:00", 
-                                "start": "15:00", 
-                                "duration": "1:00", 
-                                "room": "Hall 3", 
-                                "slug": "", 
-                                "title": "Rights&Freedoms", 
-                                "subtitle": "The upsurge of exceptional state politics and the downfall of digital human rights in Turkey (Alternatif Bilisim)", 
-                                "track": "self organized sessions", 
-                                "type": "talk", 
-                                "language": "de", 
-                                "abstract": "", 
-                                "description": "Rights & Freedoms Cluster Stage Programme", 
-                                "persons": [], 
-                                "links": [
-                                    "https://events.ccc.de/congress/2017/wiki/index.php/Session:Rights%26Freedoms"
-                                ]
-                            }, 
-                            {
-                                "id": 1151, 
-                                "guid": "5e5eac9a-6921-53b2-a463-cfa9945554bb", 
-                                "logo": null, 
-                                "date": "2017-12-27T19:30:00+01:00", 
-                                "start": "19:30", 
-                                "duration": "0:30", 
-                                "room": "Hall 3", 
-                                "slug": "", 
-                                "title": "Rights&Freedoms", 
-                                "subtitle": "Algorithmic Transparency (EFF)", 
-                                "track": "self organized sessions", 
-                                "type": "talk", 
-                                "language": "de", 
-                                "abstract": "", 
-                                "description": "Rights & Freedoms Cluster Stage Programme", 
-                                "persons": [], 
-                                "links": [
-                                    "https://events.ccc.de/congress/2017/wiki/index.php/Session:Rights%26Freedoms"
-                                ]
-                            }, 
-                            {
-                                "id": 1153, 
-                                "guid": "27a7570d-bc28-5ab7-8a83-52fc4e34e5da", 
-                                "logo": null, 
-                                "date": "2017-12-27T16:00:00+01:00", 
-                                "start": "16:00", 
-                                "duration": "1:00", 
-                                "room": "Hall 3", 
-                                "slug": "", 
-                                "title": "Rights&Freedoms", 
-                                "subtitle": "Risk and privacy threats induced by digital currencies (Oussema Settala)", 
-                                "track": "self organized sessions", 
-                                "type": "talk", 
-                                "language": "de", 
-                                "abstract": "", 
-                                "description": "Rights & Freedoms Cluster Stage Programme", 
-                                "persons": [], 
-                                "links": [
-                                    "https://events.ccc.de/congress/2017/wiki/index.php/Session:Rights%26Freedoms"
-                                ]
-                            }, 
-                            {
-                                "id": 1156, 
+                                "id": 1136, 
                                 "guid": "d0283db9-4795-5742-8d8c-7a0a4ea8a851", 
                                 "logo": null, 
                                 "date": "2017-12-27T20:00:00+01:00", 
@@ -1004,16 +885,16 @@
                                 ]
                             }, 
                             {
-                                "id": 1158, 
-                                "guid": "baceccd4-703e-51c2-8966-665a6fb4cbb8", 
+                                "id": 1139, 
+                                "guid": "bdb7c9c8-1503-5b20-9dd0-9a552b972083", 
                                 "logo": null, 
-                                "date": "2017-12-27T17:00:00+01:00", 
-                                "start": "17:00", 
-                                "duration": "0:30", 
+                                "date": "2017-12-27T14:00:00+01:00", 
+                                "start": "14:00", 
+                                "duration": "1:00", 
                                 "room": "Hall 3", 
                                 "slug": "", 
                                 "title": "Rights&Freedoms", 
-                                "subtitle": "Design in Free Software & Open Source (Dina Michl & Victoria Bondarchuk)", 
+                                "subtitle": "Newpipe (Chris Schabesberger)", 
                                 "track": "self organized sessions", 
                                 "type": "talk", 
                                 "language": "de", 
@@ -1025,7 +906,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1161, 
+                                "id": 1141, 
                                 "guid": "afff08fe-3768-5263-9f17-e75477367bf1", 
                                 "logo": null, 
                                 "date": "2017-12-27T21:00:00+01:00", 
@@ -1046,7 +927,91 @@
                                 ]
                             }, 
                             {
-                                "id": 1163, 
+                                "id": 1144, 
+                                "guid": "50b06132-ac64-5d1b-9e21-9b9206a2fbab", 
+                                "logo": null, 
+                                "date": "2017-12-27T15:00:00+01:00", 
+                                "start": "15:00", 
+                                "duration": "1:00", 
+                                "room": "Hall 3", 
+                                "slug": "", 
+                                "title": "Rights&Freedoms", 
+                                "subtitle": "The upsurge of exceptional state politics and the downfall of digital human rights in Turkey (Alternatif Bilisim)", 
+                                "track": "self organized sessions", 
+                                "type": "talk", 
+                                "language": "de", 
+                                "abstract": "", 
+                                "description": "Rights & Freedoms Cluster Stage Programme", 
+                                "persons": [], 
+                                "links": [
+                                    "https://events.ccc.de/congress/2017/wiki/index.php/Session:Rights%26Freedoms"
+                                ]
+                            }, 
+                            {
+                                "id": 1146, 
+                                "guid": "fe29864f-f90d-566b-becd-18910b6e9fef", 
+                                "logo": null, 
+                                "date": "2017-12-27T18:00:00+01:00", 
+                                "start": "18:00", 
+                                "duration": "1:00", 
+                                "room": "Hall 3", 
+                                "slug": "", 
+                                "title": "Rights&Freedoms", 
+                                "subtitle": "pretty Easy privacy (p\u2261p) for Thunderbird via Enigmail: Using pEp in aJavaScript environment\" (pEp Foundation)", 
+                                "track": "self organized sessions", 
+                                "type": "talk", 
+                                "language": "de", 
+                                "abstract": "", 
+                                "description": "Rights & Freedoms Cluster Stage Programme", 
+                                "persons": [], 
+                                "links": [
+                                    "https://events.ccc.de/congress/2017/wiki/index.php/Session:Rights%26Freedoms"
+                                ]
+                            }, 
+                            {
+                                "id": 1150, 
+                                "guid": "baceccd4-703e-51c2-8966-665a6fb4cbb8", 
+                                "logo": null, 
+                                "date": "2017-12-27T17:00:00+01:00", 
+                                "start": "17:00", 
+                                "duration": "0:30", 
+                                "room": "Hall 3", 
+                                "slug": "", 
+                                "title": "Rights&Freedoms", 
+                                "subtitle": "Design in Free Software & Open Source (Dina Michl & Victoria Bondarchuk)", 
+                                "track": "self organized sessions", 
+                                "type": "talk", 
+                                "language": "de", 
+                                "abstract": "", 
+                                "description": "Rights & Freedoms Cluster Stage Programme", 
+                                "persons": [], 
+                                "links": [
+                                    "https://events.ccc.de/congress/2017/wiki/index.php/Session:Rights%26Freedoms"
+                                ]
+                            }, 
+                            {
+                                "id": 1152, 
+                                "guid": "fdd4a8e5-345d-5265-8a5e-b0930b1a2f61", 
+                                "logo": null, 
+                                "date": "2017-12-27T19:00:00+01:00", 
+                                "start": "19:00", 
+                                "duration": "0:30", 
+                                "room": "Hall 3", 
+                                "slug": "", 
+                                "title": "Rights&Freedoms", 
+                                "subtitle": "Algorithmic Transparency (EFF)", 
+                                "track": "self organized sessions", 
+                                "type": "talk", 
+                                "language": "de", 
+                                "abstract": "", 
+                                "description": "Rights & Freedoms Cluster Stage Programme", 
+                                "persons": [], 
+                                "links": [
+                                    "https://events.ccc.de/congress/2017/wiki/index.php/Session:Rights%26Freedoms"
+                                ]
+                            }, 
+                            {
+                                "id": 1155, 
                                 "guid": "12601af9-c84e-5114-b88d-db263f5bec53", 
                                 "logo": null, 
                                 "date": "2017-12-27T17:30:00+01:00", 
@@ -1056,6 +1021,69 @@
                                 "slug": "", 
                                 "title": "Rights&Freedoms", 
                                 "subtitle": "Are NAT translations respecting proportionality and data retention principles? (Hermes Center)", 
+                                "track": "self organized sessions", 
+                                "type": "talk", 
+                                "language": "de", 
+                                "abstract": "", 
+                                "description": "Rights & Freedoms Cluster Stage Programme", 
+                                "persons": [], 
+                                "links": [
+                                    "https://events.ccc.de/congress/2017/wiki/index.php/Session:Rights%26Freedoms"
+                                ]
+                            }, 
+                            {
+                                "id": 1159, 
+                                "guid": "27a7570d-bc28-5ab7-8a83-52fc4e34e5da", 
+                                "logo": null, 
+                                "date": "2017-12-27T16:00:00+01:00", 
+                                "start": "16:00", 
+                                "duration": "1:00", 
+                                "room": "Hall 3", 
+                                "slug": "", 
+                                "title": "Rights&Freedoms", 
+                                "subtitle": "Will the monetary system change? Privacy and Risk implications of digital currencies, and decentralized digital monetary systems (Oussema Settala)", 
+                                "track": "self organized sessions", 
+                                "type": "talk", 
+                                "language": "de", 
+                                "abstract": "", 
+                                "description": "Rights & Freedoms Cluster Stage Programme", 
+                                "persons": [], 
+                                "links": [
+                                    "https://events.ccc.de/congress/2017/wiki/index.php/Session:Rights%26Freedoms"
+                                ]
+                            }, 
+                            {
+                                "id": 1152, 
+                                "guid": "fdd4a8e5-345d-5265-8a5e-b0930b1a2f61", 
+                                "logo": null, 
+                                "date": "2017-12-27T19:00:00+01:00", 
+                                "start": "19:00", 
+                                "duration": "0:30", 
+                                "room": "Hall 3", 
+                                "slug": "", 
+                                "title": "Rights&Freedoms", 
+                                "subtitle": "Jabber/XMPP: past, present and future (Daniel Gultsch)", 
+                                "track": "self organized sessions", 
+                                "type": "talk", 
+                                "language": "de", 
+                                "abstract": "", 
+                                "description": "Rights & Freedoms Cluster Stage Programme", 
+                                "persons": [], 
+                                "links": [
+                                    "https://events.ccc.de/congress/2017/wiki/index.php/Session:Rights%26Freedoms"
+                                ]
+                            }, 
+                            {
+                                "id": 1162, 
+                                "guid": "c935a033-b060-5588-819e-ad96e215b4c4", 
+                                "logo": null, 
+                                "date": "2017-12-27T13:00:00+01:00", 
+                                "start": "13:00", 
+                                "duration": "1:00", 
+                                "room": "Hall 3", 
+                                "slug": "", 
+                                "title": "Rights&Freedoms", 
+                                "subtitle": "WebVR for non-coders (Elio Qoshi)", 
                                 "track": "self organized sessions", 
                                 "type": "talk", 
                                 "language": "de", 
@@ -1121,7 +1149,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1202, 
+                                "id": 1203, 
                                 "guid": "0e9c1416-9b4a-5627-be10-8ab149fe1206", 
                                 "logo": null, 
                                 "date": "2017-12-27T21:00:00+01:00", 
@@ -1151,7 +1179,7 @@
                         ], 
                         "Kidspace": [
                             {
-                                "id": 1203, 
+                                "id": 1204, 
                                 "guid": "b979aa39-50ff-54c7-a17d-945bf83aeae8", 
                                 "logo": null, 
                                 "date": "2017-12-27T12:00:00+01:00", 
@@ -1202,7 +1230,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1104, 
+                                "id": 1103, 
                                 "guid": "2b3fb994-576c-5fc8-bd05-f7c7e71b8230", 
                                 "logo": null, 
                                 "date": "2017-12-27T12:00:00+01:00", 
@@ -1223,7 +1251,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1212, 
+                                "id": 1213, 
                                 "guid": "880dd927-8bf9-5ebc-84b1-37121654115a", 
                                 "logo": null, 
                                 "date": "2017-12-27T18:00:00+01:00", 
@@ -1478,7 +1506,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1216, 
+                                "id": 1217, 
                                 "guid": "7deba670-d85a-53ba-a5a5-184064dc1208", 
                                 "logo": null, 
                                 "date": "2017-12-28T14:00:00+01:00", 
@@ -1501,7 +1529,7 @@
                         ], 
                         "Lecture room 11": [
                             {
-                                "id": 1008, 
+                                "id": 1009, 
                                 "guid": "9452bad6-06a6-506c-b740-21af51da4a73", 
                                 "logo": null, 
                                 "date": "2017-12-28T20:15:00+01:00", 
@@ -1584,7 +1612,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1206, 
+                                "id": 1205, 
                                 "guid": "bb98f348-61fe-52b9-b6e7-6ac5c24534f5", 
                                 "logo": null, 
                                 "date": "2017-12-28T17:30:00+01:00", 
@@ -1605,7 +1633,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1217, 
+                                "id": 1218, 
                                 "guid": "b0a5441a-2022-58fd-ab31-740bfb48653c", 
                                 "logo": null, 
                                 "date": "2017-12-28T14:00:00+01:00", 
@@ -1888,16 +1916,16 @@
                                 ]
                             }, 
                             {
-                                "id": 1089, 
-                                "guid": "a7c4f9c1-bdb4-5ff8-8220-58c29ee276bf", 
+                                "id": 1093, 
+                                "guid": "1b240710-e09b-5c29-876b-e99c165989b4", 
                                 "logo": null, 
-                                "date": "2017-12-29T02:00:00+01:00", 
-                                "start": "02:00", 
+                                "date": "2017-12-29T00:00:00+01:00", 
+                                "start": "00:00", 
                                 "duration": "2:00", 
                                 "room": "Chaos West Stage", 
                                 "slug": "", 
                                 "title": "Klangteppich", 
-                                "subtitle": "bam DJ set", 
+                                "subtitle": "DJ PorCus DJ set", 
                                 "track": "self organized sessions", 
                                 "type": "other", 
                                 "language": "de", 
@@ -1916,15 +1944,15 @@
                             }, 
                             {
                                 "id": 1094, 
-                                "guid": "1b240710-e09b-5c29-876b-e99c165989b4", 
+                                "guid": "a7c4f9c1-bdb4-5ff8-8220-58c29ee276bf", 
                                 "logo": null, 
-                                "date": "2017-12-29T00:00:00+01:00", 
-                                "start": "00:00", 
+                                "date": "2017-12-29T02:00:00+01:00", 
+                                "start": "02:00", 
                                 "duration": "2:00", 
                                 "room": "Chaos West Stage", 
                                 "slug": "", 
                                 "title": "Klangteppich", 
-                                "subtitle": "DJ PorCus DJ set", 
+                                "subtitle": "bam DJ set", 
                                 "track": "self organized sessions", 
                                 "type": "other", 
                                 "language": "de", 
@@ -1972,7 +2000,7 @@
                         ], 
                         "Komona D.Ressrosa": [
                             {
-                                "id": 1002, 
+                                "id": 1001, 
                                 "guid": "31a7f6d3-ad00-52fd-a045-6fb1d24094c2", 
                                 "logo": null, 
                                 "date": "2017-12-28T12:00:00+01:00", 
@@ -2099,7 +2127,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1220, 
+                                "id": 1221, 
                                 "guid": "9df8017b-a809-5dc5-9221-877630ad3c36", 
                                 "logo": null, 
                                 "date": "2017-12-28T14:00:00+01:00", 
@@ -2406,7 +2434,7 @@
                                 "type": "talk", 
                                 "language": "en", 
                                 "abstract": "", 
-                                "description": "Tracking users and managing their online identity across multiple services is the cornerstone of the dominance of the Internet by the big OTTs. Currently, Google, Facebook and other companies who live off user data monetization are the only ones offering Internet-wide single-sign-on services to average users; these services build more walled gardens which give no choice, no rights and no freedoms to the users. This is why it is strategically important to create an open alternative: a federated, public, free identity infrastructure for the Internet that would give users the same level of convenience and security, but empower them to choose their identity provider and control which personal information is shared and to whom. The session will discuss the problem and introduce the work done in this regard within the DomainID project, looking for community feedback and participation.", 
+                                "description": "Tracking users and managing their online identity across multiple services is the cornerstone of the dominance of the Internet by the big OTTs. Currently, Google, Facebook and other companies who live off user data monetization are the only ones offering Internet-wide single-sign-on services to average users; these services build more walled gardens which give no choice, no rights and no freedoms to the users. This is why it is strategically important to create an open alternative: a federated, public, free identity infrastructure for the Internet that would give users the same level of convenience and security, but empower them to choose their identity provider and control which personal information is shared and to whom. \n\nThe session will open with a general presentation, including data, of how the big OTTs are growing and focusing their revenue sources on advertising and on tracking online identities, centralizing the economy of the Internet and of the world, to prove how crucial this issue is. Then, the talk will discuss introduce the work done within the DomainID/iNetID project to create a decentralized public identity infrastructure for the open Internet, going into technical details on the proposed architecture, and looking for community feedback and participation.", 
                                 "persons": [
                                     {
                                         "id": 0, 
@@ -2474,7 +2502,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1136, 
+                                "id": 1140, 
                                 "guid": "182a4ddd-b48c-5559-a8e8-1fa31f657a4f", 
                                 "logo": null, 
                                 "date": "2017-12-28T18:00:00+01:00", 
@@ -2495,70 +2523,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1138, 
-                                "guid": "0177372c-765f-5605-8441-d1ed0d637b7b", 
-                                "logo": null, 
-                                "date": "2017-12-28T13:00:00+01:00", 
-                                "start": "13:00", 
-                                "duration": "1:00", 
-                                "room": "Hall 3", 
-                                "slug": "", 
-                                "title": "Rights&Freedoms", 
-                                "subtitle": "Take e-voting away from Europe (Hermes Center)", 
-                                "track": "self organized sessions", 
-                                "type": "talk", 
-                                "language": "de", 
-                                "abstract": "", 
-                                "description": "Rights & Freedoms Cluster Stage Programme", 
-                                "persons": [], 
-                                "links": [
-                                    "https://events.ccc.de/congress/2017/wiki/index.php/Session:Rights%26Freedoms"
-                                ]
-                            }, 
-                            {
-                                "id": 1142, 
-                                "guid": "a04e61e6-2dcc-59d4-ab9e-73758eab3f39", 
-                                "logo": null, 
-                                "date": "2017-12-28T19:00:00+01:00", 
-                                "start": "19:00", 
-                                "duration": "1:00", 
-                                "room": "Hall 3", 
-                                "slug": "", 
-                                "title": "Rights&Freedoms", 
-                                "subtitle": "Onlincensorship.org: social media content takedowns (EFF)", 
-                                "track": "self organized sessions", 
-                                "type": "talk", 
-                                "language": "de", 
-                                "abstract": "", 
-                                "description": "Rights & Freedoms Cluster Stage Programme", 
-                                "persons": [], 
-                                "links": [
-                                    "https://events.ccc.de/congress/2017/wiki/index.php/Session:Rights%26Freedoms"
-                                ]
-                            }, 
-                            {
-                                "id": 1144, 
-                                "guid": "c1e23d9b-e400-5583-a6d1-1852540192ae", 
-                                "logo": null, 
-                                "date": "2017-12-28T14:00:00+01:00", 
-                                "start": "14:00", 
-                                "duration": "1:00", 
-                                "room": "Hall 3", 
-                                "slug": "", 
-                                "title": "Rights&Freedoms", 
-                                "subtitle": "Privacy aware city navigation with free software (Redon Skikuli)", 
-                                "track": "self organized sessions", 
-                                "type": "talk", 
-                                "language": "de", 
-                                "abstract": "", 
-                                "description": "Rights & Freedoms Cluster Stage Programme", 
-                                "persons": [], 
-                                "links": [
-                                    "https://events.ccc.de/congress/2017/wiki/index.php/Session:Rights%26Freedoms"
-                                ]
-                            }, 
-                            {
-                                "id": 1147, 
+                                "id": 1145, 
                                 "guid": "03e735b7-b277-5a51-a9ec-7f75c02df342", 
                                 "logo": null, 
                                 "date": "2017-12-28T20:00:00+01:00", 
@@ -2579,12 +2544,75 @@
                                 ]
                             }, 
                             {
+                                "id": 1147, 
+                                "guid": "0177372c-765f-5605-8441-d1ed0d637b7b", 
+                                "logo": null, 
+                                "date": "2017-12-28T13:00:00+01:00", 
+                                "start": "13:00", 
+                                "duration": "1:00", 
+                                "room": "Hall 3", 
+                                "slug": "", 
+                                "title": "Rights&Freedoms", 
+                                "subtitle": "Take e-voting away from Europe (Hermes Center)", 
+                                "track": "self organized sessions", 
+                                "type": "talk", 
+                                "language": "de", 
+                                "abstract": "", 
+                                "description": "Rights & Freedoms Cluster Stage Programme", 
+                                "persons": [], 
+                                "links": [
+                                    "https://events.ccc.de/congress/2017/wiki/index.php/Session:Rights%26Freedoms"
+                                ]
+                            }, 
+                            {
                                 "id": 1149, 
+                                "guid": "89a4980b-84c9-5f80-8ae5-6fb9d0589627", 
+                                "logo": null, 
+                                "date": "2017-12-28T21:00:00+01:00", 
+                                "start": "21:00", 
+                                "duration": "1:00", 
+                                "room": "Hall 3", 
+                                "slug": "", 
+                                "title": "Rights&Freedoms", 
+                                "subtitle": "Big Brother Awards - a great tool to build awareness and have fun (Digitalcourage)", 
+                                "track": "self organized sessions", 
+                                "type": "talk", 
+                                "language": "de", 
+                                "abstract": "", 
+                                "description": "Rights & Freedoms Cluster Stage Programme", 
+                                "persons": [], 
+                                "links": [
+                                    "https://events.ccc.de/congress/2017/wiki/index.php/Session:Rights%26Freedoms"
+                                ]
+                            }, 
+                            {
+                                "id": 1153, 
+                                "guid": "c1e23d9b-e400-5583-a6d1-1852540192ae", 
+                                "logo": null, 
+                                "date": "2017-12-28T14:00:00+01:00", 
+                                "start": "14:00", 
+                                "duration": "1:00", 
+                                "room": "Hall 3", 
+                                "slug": "", 
+                                "title": "Rights&Freedoms", 
+                                "subtitle": "Privacy aware city navigation with free software (Redon Skikuli)", 
+                                "track": "self organized sessions", 
+                                "type": "talk", 
+                                "language": "de", 
+                                "abstract": "", 
+                                "description": "Rights & Freedoms Cluster Stage Programme", 
+                                "persons": [], 
+                                "links": [
+                                    "https://events.ccc.de/congress/2017/wiki/index.php/Session:Rights%26Freedoms"
+                                ]
+                            }, 
+                            {
+                                "id": 1157, 
                                 "guid": "02afee29-c6dc-5c9b-8272-daadd5ae1033", 
                                 "logo": null, 
                                 "date": "2017-12-28T15:00:00+01:00", 
                                 "start": "15:00", 
-                                "duration": "1:00", 
+                                "duration": "0:30", 
                                 "room": "Hall 3", 
                                 "slug": "", 
                                 "title": "Rights&Freedoms", 
@@ -2600,7 +2628,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1154, 
+                                "id": 1158, 
                                 "guid": "e564991e-2090-539f-90a2-143ffd6adea4", 
                                 "logo": null, 
                                 "date": "2017-12-28T16:00:00+01:00", 
@@ -2621,7 +2649,28 @@
                                 ]
                             }, 
                             {
-                                "id": 1159, 
+                                "id": 1161, 
+                                "guid": "fc385c0e-9308-5760-bfcb-812587df1b1b", 
+                                "logo": null, 
+                                "date": "2017-12-28T19:30:00+01:00", 
+                                "start": "19:30", 
+                                "duration": "0:30", 
+                                "room": "Hall 3", 
+                                "slug": "", 
+                                "title": "Rights&Freedoms", 
+                                "subtitle": "Onlincensorship.org: social media content takedowns (EFF)", 
+                                "track": "self organized sessions", 
+                                "type": "talk", 
+                                "language": "de", 
+                                "abstract": "", 
+                                "description": "Rights & Freedoms Cluster Stage Programme", 
+                                "persons": [], 
+                                "links": [
+                                    "https://events.ccc.de/congress/2017/wiki/index.php/Session:Rights%26Freedoms"
+                                ]
+                            }, 
+                            {
+                                "id": 1163, 
                                 "guid": "1f85b519-8492-5b21-9106-3ff36c12950f", 
                                 "logo": null, 
                                 "date": "2017-12-28T17:00:00+01:00", 
@@ -2645,34 +2694,6 @@
                         "Kidspace": [
                             {
                                 "id": 1029, 
-                                "guid": "e90958fe-1796-589d-8e22-189e9e5d815a", 
-                                "logo": null, 
-                                "date": "2017-12-28T12:00:00+01:00", 
-                                "start": "12:00", 
-                                "duration": "1:00", 
-                                "room": "Kidspace", 
-                                "slug": "", 
-                                "title": "Calliope Workshops", 
-                                "subtitle": "Calliope Workshop 1", 
-                                "track": "self organized sessions", 
-                                "type": "workshop", 
-                                "language": "de", 
-                                "abstract": "", 
-                                "description": "Kinder ab 8 Jahren sind herzlich willkommen ihre ersten Erfahrungen mit dem Programmieren zu machen.", 
-                                "persons": [
-                                    {
-                                        "id": 0, 
-                                        "url": "https://events.ccc.de/congress/2017/wiki/index.php/User:DerMicha", 
-                                        "public_name": "DerMicha"
-                                    }
-                                ], 
-                                "links": [
-                                    "http://calliope.cc", 
-                                    "https://events.ccc.de/congress/2017/wiki/index.php/Session:Calliope_Workshops"
-                                ]
-                            }, 
-                            {
-                                "id": 1030, 
                                 "guid": "90d22d6b-356f-5dd6-8a63-7b5b125ecec4", 
                                 "logo": null, 
                                 "date": "2017-12-28T13:30:00+01:00", 
@@ -2700,7 +2721,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1031, 
+                                "id": 1030, 
                                 "guid": "606c80b1-96fd-5c3b-a326-d79f4a459754", 
                                 "logo": null, 
                                 "date": "2017-12-28T15:00:00+01:00", 
@@ -2710,6 +2731,34 @@
                                 "slug": "", 
                                 "title": "Calliope Workshops", 
                                 "subtitle": "Calliope Workshop 3", 
+                                "track": "self organized sessions", 
+                                "type": "workshop", 
+                                "language": "de", 
+                                "abstract": "", 
+                                "description": "Kinder ab 8 Jahren sind herzlich willkommen ihre ersten Erfahrungen mit dem Programmieren zu machen.", 
+                                "persons": [
+                                    {
+                                        "id": 0, 
+                                        "url": "https://events.ccc.de/congress/2017/wiki/index.php/User:DerMicha", 
+                                        "public_name": "DerMicha"
+                                    }
+                                ], 
+                                "links": [
+                                    "http://calliope.cc", 
+                                    "https://events.ccc.de/congress/2017/wiki/index.php/Session:Calliope_Workshops"
+                                ]
+                            }, 
+                            {
+                                "id": 1031, 
+                                "guid": "e90958fe-1796-589d-8e22-189e9e5d815a", 
+                                "logo": null, 
+                                "date": "2017-12-28T12:00:00+01:00", 
+                                "start": "12:00", 
+                                "duration": "1:00", 
+                                "room": "Kidspace", 
+                                "slug": "", 
+                                "title": "Calliope Workshops", 
+                                "subtitle": "Calliope Workshop 1", 
                                 "track": "self organized sessions", 
                                 "type": "workshop", 
                                 "language": "de", 
@@ -2780,7 +2829,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1105, 
+                                "id": 1104, 
                                 "guid": "e8bb9837-0e65-5162-bcc3-1eed43dba665", 
                                 "logo": null, 
                                 "date": "2017-12-28T12:00:00+01:00", 
@@ -2822,7 +2871,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1215, 
+                                "id": 1216, 
                                 "guid": "88af4d81-1c8b-5b2e-9610-ddd10a8952db", 
                                 "logo": null, 
                                 "date": "2017-12-28T14:00:00+01:00", 
@@ -2971,7 +3020,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1213, 
+                                "id": 1214, 
                                 "guid": "27599550-13c5-519f-96c3-038a2ef89094", 
                                 "logo": null, 
                                 "date": "2017-12-28T18:00:00+01:00", 
@@ -3050,7 +3099,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1181, 
+                                "id": 1182, 
                                 "guid": "1384ce4e-af63-5b6a-abe5-7f61f987f3f6", 
                                 "logo": null, 
                                 "date": "2017-12-29T18:00:00+01:00", 
@@ -3073,12 +3122,12 @@
                         ], 
                         "Lecture room 11": [
                             {
-                                "id": 1009, 
-                                "guid": "283816dd-0e5c-5f4b-8d11-eab7df9dd9e6", 
+                                "id": 1005, 
+                                "guid": "907b57ee-34e3-5a75-bade-870786959429", 
                                 "logo": null, 
-                                "date": "2017-12-29T20:15:00+01:00", 
-                                "start": "20:15", 
-                                "duration": "1:45", 
+                                "date": "2017-12-29T13:30:00+01:00", 
+                                "start": "13:30", 
+                                "duration": "1:00", 
                                 "room": "Lecture room 11", 
                                 "slug": "", 
                                 "title": "A/V Angel Meeting", 
@@ -3102,11 +3151,11 @@
                             }, 
                             {
                                 "id": 1010, 
-                                "guid": "907b57ee-34e3-5a75-bade-870786959429", 
+                                "guid": "283816dd-0e5c-5f4b-8d11-eab7df9dd9e6", 
                                 "logo": null, 
-                                "date": "2017-12-29T13:30:00+01:00", 
-                                "start": "13:30", 
-                                "duration": "1:00", 
+                                "date": "2017-12-29T20:15:00+01:00", 
+                                "start": "20:15", 
+                                "duration": "1:45", 
                                 "room": "Lecture room 11", 
                                 "slug": "", 
                                 "title": "A/V Angel Meeting", 
@@ -3249,7 +3298,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1222, 
+                                "id": 1223, 
                                 "guid": "e5516ab8-8f92-59c9-9d5d-f1b665ab35e0", 
                                 "logo": null, 
                                 "date": "2017-12-29T13:45:00+01:00", 
@@ -3400,7 +3449,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1090, 
+                                "id": 1089, 
                                 "guid": "2b9dfcee-6864-51d5-a401-7b92abca7c24", 
                                 "logo": null, 
                                 "date": "2017-12-30T00:00:00+01:00", 
@@ -3427,7 +3476,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1091, 
+                                "id": 1090, 
                                 "guid": "7c60a2b4-64a8-505b-89b1-5c94bc2fc7a4", 
                                 "logo": null, 
                                 "date": "2017-12-30T02:00:00+01:00", 
@@ -3484,7 +3533,7 @@
                         ], 
                         "Komona D.Ressrosa": [
                             {
-                                "id": 1001, 
+                                "id": 1002, 
                                 "guid": "4c027fc5-bfea-59e4-8e99-627efe06a8da", 
                                 "logo": null, 
                                 "date": "2017-12-29T20:00:00+01:00", 
@@ -3603,7 +3652,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1214, 
+                                "id": 1215, 
                                 "guid": "09214919-2a1a-5e58-ac8f-cf733ad06d7f", 
                                 "logo": null, 
                                 "date": "2017-12-29T20:00:00+01:00", 
@@ -3624,7 +3673,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1221, 
+                                "id": 1222, 
                                 "guid": "314b790b-ea14-5234-961b-1e6f505e3171", 
                                 "logo": null, 
                                 "date": "2017-12-29T14:00:00+01:00", 
@@ -3751,7 +3800,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1207, 
+                                "id": 1206, 
                                 "guid": "f3a30985-fc90-51f2-baa3-a07d034bffcc", 
                                 "logo": null, 
                                 "date": "2017-12-29T17:30:00+01:00", 
@@ -3930,7 +3979,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1140, 
+                                "id": 1137, 
                                 "guid": "5ff78d98-328e-57a7-a534-f1b98c5373a7", 
                                 "logo": null, 
                                 "date": "2017-12-29T16:00:00+01:00", 
@@ -3951,7 +4000,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1145, 
+                                "id": 1138, 
                                 "guid": "f7078cfa-d45e-5dc5-bf27-4eb49a3a5b75", 
                                 "logo": null, 
                                 "date": "2017-12-29T18:00:00+01:00", 
@@ -3960,7 +4009,7 @@
                                 "room": "Hall 3", 
                                 "slug": "", 
                                 "title": "Rights&Freedoms", 
-                                "subtitle": "Net Neutrality measurement (Epicenter.works)", 
+                                "subtitle": "DYI: Net Neutrality enforcement in the EU (Epicenter.works)", 
                                 "track": "self organized sessions", 
                                 "type": "talk", 
                                 "language": "de", 
@@ -3972,7 +4021,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1150, 
+                                "id": 1142, 
                                 "guid": "d7436cc5-5628-5ac7-aa40-ff7f4717a68c", 
                                 "logo": null, 
                                 "date": "2017-12-29T19:00:00+01:00", 
@@ -3993,16 +4042,16 @@
                                 ]
                             }, 
                             {
-                                "id": 1152, 
-                                "guid": "c61cff35-8ec9-5cf8-92f9-cd9cb7c570b0", 
+                                "id": 1143, 
+                                "guid": "85fdb89c-85d8-527b-8020-273d1f7a3396", 
                                 "logo": null, 
-                                "date": "2017-12-29T13:00:00+01:00", 
-                                "start": "13:00", 
+                                "date": "2017-12-29T21:00:00+01:00", 
+                                "start": "21:00", 
                                 "duration": "1:00", 
                                 "room": "Hall 3", 
                                 "slug": "", 
                                 "title": "Rights&Freedoms", 
-                                "subtitle": "Information security theater vs. Investigative journalism (Rysiek, OCCRP)", 
+                                "subtitle": "Wie die fl\u00e4chendeckendeGesichtserkennung sich in unser Datenschutzgesetz eingeschlichen hat (Frank, Datenschutzraum) (in German)", 
                                 "track": "self organized sessions", 
                                 "type": "talk", 
                                 "language": "de", 
@@ -4014,7 +4063,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1155, 
+                                "id": 1148, 
                                 "guid": "710a02ad-8aa0-556c-854b-3f4f414183bd", 
                                 "logo": null, 
                                 "date": "2017-12-29T20:00:00+01:00", 
@@ -4035,7 +4084,28 @@
                                 ]
                             }, 
                             {
-                                "id": 1157, 
+                                "id": 1151, 
+                                "guid": "c61cff35-8ec9-5cf8-92f9-cd9cb7c570b0", 
+                                "logo": null, 
+                                "date": "2017-12-29T13:00:00+01:00", 
+                                "start": "13:00", 
+                                "duration": "1:00", 
+                                "room": "Hall 3", 
+                                "slug": "", 
+                                "title": "Rights&Freedoms", 
+                                "subtitle": "Information security theater vs. Investigative journalism (Rysiek, OCCRP)", 
+                                "track": "self organized sessions", 
+                                "type": "talk", 
+                                "language": "de", 
+                                "abstract": "", 
+                                "description": "Rights & Freedoms Cluster Stage Programme", 
+                                "persons": [], 
+                                "links": [
+                                    "https://events.ccc.de/congress/2017/wiki/index.php/Session:Rights%26Freedoms"
+                                ]
+                            }, 
+                            {
+                                "id": 1156, 
                                 "guid": "8b2819b8-579d-5bea-a291-93a126841ff2", 
                                 "logo": null, 
                                 "date": "2017-12-29T14:00:00+01:00", 
@@ -4057,27 +4127,6 @@
                             }, 
                             {
                                 "id": 1160, 
-                                "guid": "85fdb89c-85d8-527b-8020-273d1f7a3396", 
-                                "logo": null, 
-                                "date": "2017-12-29T21:00:00+01:00", 
-                                "start": "21:00", 
-                                "duration": "1:00", 
-                                "room": "Hall 3", 
-                                "slug": "", 
-                                "title": "Rights&Freedoms", 
-                                "subtitle": "Wie die fl\u00e4chendeckende\nGesichtserkennung sich in unser Datenschutzgesetz eingeschlichen hat (Frank, Datenschutzraum) (in German)", 
-                                "track": "self organized sessions", 
-                                "type": "talk", 
-                                "language": "de", 
-                                "abstract": "", 
-                                "description": "Rights & Freedoms Cluster Stage Programme", 
-                                "persons": [], 
-                                "links": [
-                                    "https://events.ccc.de/congress/2017/wiki/index.php/Session:Rights%26Freedoms"
-                                ]
-                            }, 
-                            {
-                                "id": 1162, 
                                 "guid": "c01aa0c7-e68c-59e1-9ea1-7745a39290cd", 
                                 "logo": null, 
                                 "date": "2017-12-29T15:00:00+01:00", 
@@ -4133,7 +4182,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1106, 
+                                "id": 1105, 
                                 "guid": "10212045-6915-56e7-803a-eb1503b1f4da", 
                                 "logo": null, 
                                 "date": "2017-12-29T12:00:00+01:00", 
@@ -4309,7 +4358,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1201, 
+                                "id": 1202, 
                                 "guid": "4c233853-7dfb-514c-90b1-d36132376db6", 
                                 "logo": null, 
                                 "date": "2017-12-29T15:00:00+01:00", 
@@ -4346,7 +4395,7 @@
                     "rooms": {
                         "Komona Coral Reef": [
                             {
-                                "id": 1223, 
+                                "id": 1224, 
                                 "guid": "39ff4e97-ab24-5404-b129-f804123be05c", 
                                 "logo": null, 
                                 "date": "2017-12-30T14:00:00+01:00", 
@@ -4425,7 +4474,7 @@
                         ], 
                         "Chaos West Stage": [
                             {
-                                "id": 1224, 
+                                "id": 1225, 
                                 "guid": "e325f164-7ec9-522b-ae1f-4ff4d99ab41c", 
                                 "logo": null, 
                                 "date": "2017-12-30T14:00:00+01:00", 
@@ -4564,7 +4613,7 @@
                         ], 
                         "Hall 3": [
                             {
-                                "id": 1139, 
+                                "id": 1154, 
                                 "guid": "50839139-1141-5cc7-a824-24d7584a0344", 
                                 "logo": null, 
                                 "date": "2017-12-30T14:00:00+01:00", 
@@ -4587,7 +4636,7 @@
                         ], 
                         "Komona Blue Princess": [
                             {
-                                "id": 1103, 
+                                "id": 1106, 
                                 "guid": "d1a7d374-fc58-5d8f-beef-fb8ab818b5db", 
                                 "logo": null, 
                                 "date": "2017-12-30T12:00:00+01:00", 
