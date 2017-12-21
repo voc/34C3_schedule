@@ -1127,6 +1127,56 @@
             "1514476800"
         ]
     }, 
+    "Session:\u201cHow To Survice 34C3\u201d CryptoParty# f3f3ed2e5fe9956db5790f4bcc0494c7": {
+        "Held in language": [
+            "en - English"
+        ], 
+        "Has start time": [
+            "1514644200"
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [
+            "https://www.cryptoparty.in/34c3"
+        ], 
+        "Has description": [
+            "Privacy is the space in which ideas are developed, to retreat into whenever you want. This space is not only physical but digital as well. Governments and companies don't want to respect that so we become active ourselves.\n\nThe goal of this hands-on session is to pass on knowledge about protecting yourself in the digital space. This can include encrypted communication, preventing being tracked while browsing the web and general security advice for computers and smartphones."
+        ], 
+        "Has session type": [
+            "Hands-On"
+        ], 
+        "Has session location": [
+            {
+                "fulltext": "Room:Lecture room 12", 
+                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Room:Lecture_room_12", 
+                "namespace": 516, 
+                "exists": true
+            }
+        ], 
+        "Has subtitle": [], 
+        "Is organized by": [
+            {
+                "fulltext": "User:Dawning-sun", 
+                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/User:Dawning-sun", 
+                "namespace": 2, 
+                "exists": true
+            }
+        ], 
+        "Has title": [
+            "\u201cHow To Survice 34C3\u201d CryptoParty"
+        ], 
+        "Has duration": [
+            150
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:%E2%80%9CHow_To_Survice_34C3%E2%80%9D_CryptoParty", 
+        "Has end time": [
+            "1514653200"
+        ]
+    }, 
     "Session:Hacking with wget# 518ebf05c1b341666502a5a4658f7522": {
         "Held in language": [
             "en - English"
@@ -6310,49 +6360,6 @@
             "1514390400"
         ]
     }, 
-    "Session:Future of Communities - Unchained Chamas!# b8785e9091c23456e30a6ea679df33e3": {
-        "Held in language": [
-            "en - English"
-        ], 
-        "Has start time": [], 
-        "Has event track": [
-            "Session"
-        ], 
-        "Has website": [
-            "http://chamapesa.com"
-        ], 
-        "Has description": [
-            "Current approaches on identity all fall short. Either they violate privacy or they are easy to hack. To form a distributed communtiy on the internet we need identities and trust. This talk describes how to build trustdeep community structures that provide identity. A trip from CAcert over African Chamas to blockchains"
-        ], 
-        "Has session type": [
-            "Talk"
-        ], 
-        "Has session location": [], 
-        "Has subtitle": [], 
-        "Is organized by": [
-            {
-                "fulltext": "User:Katzazi", 
-                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/User:Katzazi", 
-                "namespace": 2, 
-                "exists": true
-            }, 
-            {
-                "fulltext": "User:Iang", 
-                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/User:Iang", 
-                "namespace": 2, 
-                "exists": true
-            }
-        ], 
-        "Has title": [
-            "Future of Communities - Unchained Chamas!"
-        ], 
-        "Has duration": [], 
-        "Has color": [
-            "#0099ab"
-        ], 
-        "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:Future_of_Communities_-_Unchained_Chamas!", 
-        "Has end time": []
-    }, 
     "Session:Cryptoparties, specialized content, and creative outreach# 71a713f9c816491aebdb104bfa8eecc5": {
         "Held in language": [
             "en - English"
@@ -8725,6 +8732,56 @@
             "1514494800"
         ]
     }, 
+    "Session:TeaHouse# cf0a2a52d2dce7d7d19bd4d69ba6b5c6": {
+        "Held in language": [
+            "en - English"
+        ], 
+        "Has start time": [
+            "1514552400"
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [
+            "https://teahouse.homecomputing.fr/"
+        ], 
+        "Has description": [], 
+        "Has session type": [
+            "Meeting"
+        ], 
+        "Has session location": [
+            {
+                "fulltext": "Assembly:TeaHouse", 
+                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Assembly:TeaHouse", 
+                "namespace": 504, 
+                "exists": true
+            }
+        ], 
+        "Has subtitle": [
+            "The future of Digital Security education"
+        ], 
+        "Is organized by": [
+            {
+                "fulltext": "User:Sanpi", 
+                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/User:Sanpi", 
+                "namespace": 2, 
+                "exists": true
+            }
+        ], 
+        "Has title": [
+            "TeaHouse"
+        ], 
+        "Has duration": [
+            45
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:TeaHouse", 
+        "Has end time": [
+            "1514555100"
+        ]
+    }, 
     "Session:D Town, Christopher: Eigenes HackLab bauen!# b68fd9cc434114bcf9eb06cd008ffe4a": {
         "Held in language": [
             "en - English"
@@ -10645,54 +10702,60 @@
             "1514664000"
         ]
     }, 
-    "Session:TeaHouse# cf0a2a52d2dce7d7d19bd4d69ba6b5c6": {
+    "Session:Future of Communities - Unchained Chamas!# 1e54b30566ea53a4c79fa20ff1902c92": {
         "Held in language": [
             "en - English"
         ], 
         "Has start time": [
-            "1514552400"
+            "1514574000"
         ], 
         "Has event track": [
             "Session"
         ], 
         "Has website": [
-            "https://teahouse.homecomputing.fr/"
+            "http://chamapesa.com"
         ], 
-        "Has description": [], 
+        "Has description": [
+            "Current approaches on identity all fall short. Either they violate privacy or they are easy to hack. To form a distributed communtiy on the internet we need identities and trust. This talk describes how to build trustdeep community structures that provide identity. A trip from CAcert over African Chamas to blockchains"
+        ], 
         "Has session type": [
-            "Meeting"
+            "Talk"
         ], 
         "Has session location": [
             {
-                "fulltext": "Assembly:TeaHouse", 
-                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Assembly:TeaHouse", 
-                "namespace": 504, 
+                "fulltext": "Room:Lecture room 11", 
+                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Room:Lecture_room_11", 
+                "namespace": 516, 
                 "exists": true
             }
         ], 
-        "Has subtitle": [
-            "The future of Digital Security education"
-        ], 
+        "Has subtitle": [], 
         "Is organized by": [
             {
-                "fulltext": "User:Sanpi", 
-                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/User:Sanpi", 
+                "fulltext": "User:Katzazi", 
+                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/User:Katzazi", 
+                "namespace": 2, 
+                "exists": true
+            }, 
+            {
+                "fulltext": "User:Iang", 
+                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/User:Iang", 
                 "namespace": 2, 
                 "exists": true
             }
         ], 
         "Has title": [
-            "TeaHouse"
+            "Future of Communities - Unchained Chamas!"
         ], 
         "Has duration": [
-            45
+            75
         ], 
         "Has color": [
             "#0099ab"
         ], 
-        "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:TeaHouse", 
+        "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:Future_of_Communities_-_Unchained_Chamas!", 
         "Has end time": [
-            "1514555100"
+            "1514578500"
         ]
     }
 }
