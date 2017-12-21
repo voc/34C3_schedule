@@ -753,47 +753,48 @@
             "1514563200"
         ]
     }, 
-    "Session:Throwies# e27ebec0de39dbae7585138a3b649bff": {
+    "Session:Rights&Freedoms# 08cbd229ef6be994de9537572a8c6b50": {
         "Held in language": [
-            "de - German"
+            "de - German", 
+            "en - English"
         ], 
         "Has start time": [
-            "1514376000"
+            "1514487600"
         ], 
         "Has event track": [
             "Session"
         ], 
         "Has website": [], 
         "Has description": [
-            "Ein Throwie ist eine LED, die durch eine Knopfzellenbatterie zum Leuchten gebracht wird und an die man einen Magneten klebt."
+            "Rights & Freedoms Cluster Stage Programme"
         ], 
         "Has session type": [
-            "Hands-On"
+            "Talk"
         ], 
         "Has session location": [
             {
-                "fulltext": "Room:Kidspace", 
-                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Room:Kidspace", 
+                "fulltext": "Room:Hall 3", 
+                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Room:Hall_3", 
                 "namespace": 516, 
                 "exists": true
             }
         ], 
         "Has subtitle": [
-            "Throwies Basteln"
+            "Onlincensorship.org: social media content takedowns (EFF)"
         ], 
         "Is organized by": [], 
         "Has title": [
-            "Throwies"
+            "Rights&Freedoms"
         ], 
         "Has duration": [
-            360
+            30
         ], 
         "Has color": [
             "#0099ab"
         ], 
-        "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:Throwies", 
+        "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:Rights%26Freedoms", 
         "Has end time": [
-            "1514397600"
+            "1514489400"
         ]
     }, 
     "Session:TeaHouse# 8efd15e8c5b9047b2ee27f7e03ffc0e5": {
@@ -1737,52 +1738,48 @@
             "1514489400"
         ]
     }, 
-    "Session:When the Dutch secret service knocks on your door# e6e8d9f7a886263a5c4bf250c837694b": {
+    "Session:Rights&Freedoms# 2c89ef38688f743751e3c0a5cbc03990": {
         "Held in language": [
+            "de - German", 
             "en - English"
         ], 
         "Has start time": [
-            "1514469600"
+            "1514403000"
         ], 
         "Has event track": [
             "Session"
         ], 
         "Has website": [], 
         "Has description": [
-            "This is a story of when the Dutch secret service knocked on my door just after OHM2013, what some of the events that lead up to this, our guesses on why they did this and how to create an environment where we can talk about these things instead of keeping silent."
+            "Rights & Freedoms Cluster Stage Programme"
         ], 
-        "Has session type": [], 
+        "Has session type": [
+            "Talk"
+        ], 
         "Has session location": [
             {
-                "fulltext": "Room:Lecture room 11", 
-                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Room:Lecture_room_11", 
+                "fulltext": "Room:Hall 3", 
+                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Room:Hall_3", 
                 "namespace": 516, 
                 "exists": true
             }
         ], 
         "Has subtitle": [
-            "Lecture/discussion"
+            "Algorithmic Transparency (EFF)"
         ], 
-        "Is organized by": [
-            {
-                "fulltext": "User:DrWhax2", 
-                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/User:DrWhax2", 
-                "namespace": 2, 
-                "exists": true
-            }
-        ], 
+        "Is organized by": [], 
         "Has title": [
-            "When the Dutch secret service knocks on your door"
+            "Rights&Freedoms"
         ], 
         "Has duration": [
-            60
+            30
         ], 
         "Has color": [
             "#0099ab"
         ], 
-        "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:When_the_Dutch_secret_service_knocks_on_your_door", 
+        "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:Rights%26Freedoms", 
         "Has end time": [
-            "1514473200"
+            "1514404800"
         ]
     }, 
     "Session:Letter writing to prisoners, sitting in jail for hacking# b0a6aea18dd2184a6e7e6a6c2e1dd956": {
@@ -3008,6 +3005,54 @@
             "1514671200"
         ]
     }, 
+    "Session:Tor relays operators meetup# 87080a7dabdb640f413f7cb229cb306e": {
+        "Held in language": [
+            "en - English"
+        ], 
+        "Has start time": [
+            "1514499300"
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [], 
+        "Has description": [
+            "Connecting people who run Tor relays, people who would like to run Tor relays, and people generally interested in what we are doing."
+        ], 
+        "Has session type": [
+            "Discussion"
+        ], 
+        "Has session location": [
+            {
+                "fulltext": "Room:Lecture room 11", 
+                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Room:Lecture_room_11", 
+                "namespace": 516, 
+                "exists": true
+            }
+        ], 
+        "Has subtitle": [], 
+        "Is organized by": [
+            {
+                "fulltext": "User:Nicoo", 
+                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/User:Nicoo", 
+                "namespace": 2, 
+                "exists": true
+            }
+        ], 
+        "Has title": [
+            "Tor relays operators meetup"
+        ], 
+        "Has duration": [
+            105
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:Tor_relays_operators_meetup", 
+        "Has end time": [
+            "1514505600"
+        ]
+    }, 
     "Session:(what is) Transformative Justice for Communities# e06c52463becdef4b73bc2483ee73bb0": {
         "Held in language": [
             "en - English"
@@ -3131,50 +3176,6 @@
         "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:Reclaim_Club_Culture", 
         "Has end time": [
             "1514397600"
-        ]
-    }, 
-    "Session:Rights&Freedoms# 92d381ba31e63917a2889aa743d2b2c4": {
-        "Held in language": [
-            "de - German", 
-            "en - English"
-        ], 
-        "Has start time": [
-            "1514574000"
-        ], 
-        "Has event track": [
-            "Session"
-        ], 
-        "Has website": [], 
-        "Has description": [
-            "Rights & Freedoms Cluster Stage Programme"
-        ], 
-        "Has session type": [
-            "Talk"
-        ], 
-        "Has session location": [
-            {
-                "fulltext": "Room:Hall 3", 
-                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Room:Hall_3", 
-                "namespace": 516, 
-                "exists": true
-            }
-        ], 
-        "Has subtitle": [
-            "Public money? Public code! (Polina Malaja and Katharina Nocun)"
-        ], 
-        "Is organized by": [], 
-        "Has title": [
-            "Rights&Freedoms"
-        ], 
-        "Has duration": [
-            60
-        ], 
-        "Has color": [
-            "#0099ab"
-        ], 
-        "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:Rights%26Freedoms", 
-        "Has end time": [
-            "1514577600"
         ]
     }, 
     "Session:Talks# 8c3500a10da1a56fe538738ad1c21dde": {
@@ -3326,13 +3327,13 @@
             "1514478600"
         ]
     }, 
-    "Session:Rights&Freedoms# 770364a66d84ea7904329e43013561e7": {
+    "Session:Rights&Freedoms# 92d381ba31e63917a2889aa743d2b2c4": {
         "Held in language": [
             "de - German", 
             "en - English"
         ], 
         "Has start time": [
-            "1514401200"
+            "1514574000"
         ], 
         "Has event track": [
             "Session"
@@ -3353,21 +3354,21 @@
             }
         ], 
         "Has subtitle": [
-            "Algorithmic Transparency (EFF)"
+            "Public money? Public code! (Polina Malaja and Katharina Nocun)"
         ], 
         "Is organized by": [], 
         "Has title": [
             "Rights&Freedoms"
         ], 
         "Has duration": [
-            30
+            60
         ], 
         "Has color": [
             "#0099ab"
         ], 
         "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:Rights%26Freedoms", 
         "Has end time": [
-            "1514403000"
+            "1514577600"
         ]
     }, 
     "Session:Newpipe# 1a072767ca874cfe7fca82413e129a3d": {
@@ -4349,6 +4350,49 @@
         "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:Chaos_Macht_Schule_L%C3%B6tworkshop", 
         "Has end time": [
             "1514484000"
+        ]
+    }, 
+    "Session:Throwies# e27ebec0de39dbae7585138a3b649bff": {
+        "Held in language": [
+            "de - German"
+        ], 
+        "Has start time": [
+            "1514376000"
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [], 
+        "Has description": [
+            "Ein Throwie ist eine LED, die durch eine Knopfzellenbatterie zum Leuchten gebracht wird und an die man einen Magneten klebt."
+        ], 
+        "Has session type": [
+            "Hands-On"
+        ], 
+        "Has session location": [
+            {
+                "fulltext": "Room:Kidspace", 
+                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Room:Kidspace", 
+                "namespace": 516, 
+                "exists": true
+            }
+        ], 
+        "Has subtitle": [
+            "Throwies Basteln"
+        ], 
+        "Is organized by": [], 
+        "Has title": [
+            "Throwies"
+        ], 
+        "Has duration": [
+            360
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:Throwies", 
+        "Has end time": [
+            "1514397600"
         ]
     }, 
     "Session:TALEnet bidirectional QA# 400b48d0ad0404e470c08ea289be4ce2": {
@@ -9047,6 +9091,54 @@
             "1514559600"
         ]
     }, 
+    "Session:When the Dutch secret service knocks on your door# e6e8d9f7a886263a5c4bf250c837694b": {
+        "Held in language": [
+            "en - English"
+        ], 
+        "Has start time": [
+            "1514469600"
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [], 
+        "Has description": [
+            "This is a story of when the Dutch secret service knocked on my door just after OHM2013, what some of the events that lead up to this, our guesses on why they did this and how to create an environment where we can talk about these things instead of keeping silent."
+        ], 
+        "Has session type": [], 
+        "Has session location": [
+            {
+                "fulltext": "Room:Lecture room 11", 
+                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Room:Lecture_room_11", 
+                "namespace": 516, 
+                "exists": true
+            }
+        ], 
+        "Has subtitle": [
+            "Lecture/discussion"
+        ], 
+        "Is organized by": [
+            {
+                "fulltext": "User:DrWhax2", 
+                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/User:DrWhax2", 
+                "namespace": 2, 
+                "exists": true
+            }
+        ], 
+        "Has title": [
+            "When the Dutch secret service knocks on your door"
+        ], 
+        "Has duration": [
+            60
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:When_the_Dutch_secret_service_knocks_on_your_door", 
+        "Has end time": [
+            "1514473200"
+        ]
+    }, 
     "Session:Letter writing to prisoners, sitting in jail for hacking# 05a17317e0bca1ab5b1bfdbab6a7959b": {
         "Held in language": [
             "en - English"
@@ -9774,50 +9866,6 @@
         "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:Fixing_mass_surveillance:_one_court_case_at_a_time!", 
         "Has end time": [
             "1514566800"
-        ]
-    }, 
-    "Session:Rights&Freedoms# 5e25974ce994e974478efc5878cd88f9": {
-        "Held in language": [
-            "de - German", 
-            "en - English"
-        ], 
-        "Has start time": [
-            "1514489400"
-        ], 
-        "Has event track": [
-            "Session"
-        ], 
-        "Has website": [], 
-        "Has description": [
-            "Rights & Freedoms Cluster Stage Programme"
-        ], 
-        "Has session type": [
-            "Talk"
-        ], 
-        "Has session location": [
-            {
-                "fulltext": "Room:Hall 3", 
-                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Room:Hall_3", 
-                "namespace": 516, 
-                "exists": true
-            }
-        ], 
-        "Has subtitle": [
-            "Onlincensorship.org: social media content takedowns (EFF)"
-        ], 
-        "Is organized by": [], 
-        "Has title": [
-            "Rights&Freedoms"
-        ], 
-        "Has duration": [
-            30
-        ], 
-        "Has color": [
-            "#0099ab"
-        ], 
-        "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:Rights%26Freedoms", 
-        "Has end time": [
-            "1514491200"
         ]
     }, 
     "Session:Cryptoparty# 3d80e5d4f5e14f9d3afdf15acff751f5": {
