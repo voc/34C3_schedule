@@ -4279,56 +4279,6 @@
             "1514469600"
         ]
     }, 
-    "Session:TeaHouse# cc64ad0dd577584c0cda7fdcc9514239": {
-        "Held in language": [
-            "en - English"
-        ], 
-        "Has start time": [
-            "1514383200"
-        ], 
-        "Has event track": [
-            "Session"
-        ], 
-        "Has website": [
-            "https://teahouse.homecomputing.fr/"
-        ], 
-        "Has description": [], 
-        "Has session type": [
-            "Meeting"
-        ], 
-        "Has session location": [
-            {
-                "fulltext": "Assembly:TeaHouse", 
-                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Assembly:TeaHouse", 
-                "namespace": 504, 
-                "exists": true
-            }
-        ], 
-        "Has subtitle": [
-            "State of website censorship in France and elsewhere ?"
-        ], 
-        "Is organized by": [
-            {
-                "fulltext": "User:Sanpi", 
-                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/User:Sanpi", 
-                "namespace": 2, 
-                "exists": true
-            }
-        ], 
-        "Has title": [
-            "TeaHouse"
-        ], 
-        "Has duration": [
-            60
-        ], 
-        "Has color": [
-            "#0099ab"
-        ], 
-        "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:TeaHouse", 
-        "Has end time": [
-            "1514386800"
-        ]
-    }, 
     "Session:Open Source DJing# 06d147bb5730e3e2f8f3ee4459d594ce": {
         "Held in language": [], 
         "Has start time": [
@@ -5275,6 +5225,56 @@
             "1514485800"
         ]
     }, 
+    "Session:TeaHouse# 7ba0aa55eaffb89b77ee77e479b6d115": {
+        "Held in language": [
+            "en - English"
+        ], 
+        "Has start time": [
+            "1514385000"
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [
+            "https://teahouse.homecomputing.fr/"
+        ], 
+        "Has description": [], 
+        "Has session type": [
+            "Meeting"
+        ], 
+        "Has session location": [
+            {
+                "fulltext": "Assembly:TeaHouse", 
+                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Assembly:TeaHouse", 
+                "namespace": 504, 
+                "exists": true
+            }
+        ], 
+        "Has subtitle": [
+            "State of website censorship in France and elsewhere ?"
+        ], 
+        "Is organized by": [
+            {
+                "fulltext": "User:Sanpi", 
+                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/User:Sanpi", 
+                "namespace": 2, 
+                "exists": true
+            }
+        ], 
+        "Has title": [
+            "TeaHouse"
+        ], 
+        "Has duration": [
+            60
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:TeaHouse", 
+        "Has end time": [
+            "1514388600"
+        ]
+    }, 
     "Session:Anarchist hackers - Hispagatos International anarchist-hacker collective# f4e3df0aa42144573fba6a03c70378e1": {
         "Held in language": [
             "en - English", 
@@ -5567,42 +5567,44 @@
             "1514463600"
         ]
     }, 
-    "Session:When the Dutch secret service knocks on your door# e6e8d9f7a886263a5c4bf250c837694b": {
+    "Session:TeaHouse# 984940c7e6a50ae16d8d4f509c61042c": {
         "Held in language": [
             "en - English"
         ], 
         "Has start time": [
-            "1514469600"
+            "1514394000"
         ], 
         "Has event track": [
             "Session"
         ], 
-        "Has website": [], 
-        "Has description": [
-            "This is a story of when the Dutch secret service knocked on my door just after OHM2013, what some of the events that lead up to this, our guesses on why they did this and how to create an environment where we can talk about these things instead of keeping silent."
+        "Has website": [
+            "https://teahouse.homecomputing.fr/"
         ], 
-        "Has session type": [], 
+        "Has description": [], 
+        "Has session type": [
+            "Meeting"
+        ], 
         "Has session location": [
             {
-                "fulltext": "Room:Lecture room 11", 
-                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Room:Lecture_room_11", 
-                "namespace": 516, 
+                "fulltext": "Assembly:TeaHouse", 
+                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Assembly:TeaHouse", 
+                "namespace": 504, 
                 "exists": true
             }
         ], 
         "Has subtitle": [
-            "Lecture/discussion"
+            "HACKING ANXIETY!!1!11"
         ], 
         "Is organized by": [
             {
-                "fulltext": "User:DrWhax2", 
-                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/User:DrWhax2", 
+                "fulltext": "User:Sanpi", 
+                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/User:Sanpi", 
                 "namespace": 2, 
                 "exists": true
             }
         ], 
         "Has title": [
-            "When the Dutch secret service knocks on your door"
+            "TeaHouse"
         ], 
         "Has duration": [
             60
@@ -5610,9 +5612,9 @@
         "Has color": [
             "#0099ab"
         ], 
-        "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:When_the_Dutch_secret_service_knocks_on_your_door", 
+        "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:TeaHouse", 
         "Has end time": [
-            "1514473200"
+            "1514397600"
         ]
     }, 
     "Session:Commie Curious# 4083424951ec2d4c30940e5e425c4f91": {
@@ -6749,6 +6751,56 @@
         "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:A/V_Angel_Meeting", 
         "Has end time": [
             "1514332800"
+        ]
+    }, 
+    "Session:TeaHouse# f2c2fba8a69fee47a8f5f878d17fe759": {
+        "Held in language": [
+            "en - English"
+        ], 
+        "Has start time": [
+            "1514379600"
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [
+            "https://teahouse.homecomputing.fr/"
+        ], 
+        "Has description": [], 
+        "Has session type": [
+            "Meeting"
+        ], 
+        "Has session location": [
+            {
+                "fulltext": "Assembly:TeaHouse", 
+                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Assembly:TeaHouse", 
+                "namespace": 504, 
+                "exists": true
+            }
+        ], 
+        "Has subtitle": [
+            "Welcome to the TeaHouse"
+        ], 
+        "Is organized by": [
+            {
+                "fulltext": "User:Sanpi", 
+                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/User:Sanpi", 
+                "namespace": 2, 
+                "exists": true
+            }
+        ], 
+        "Has title": [
+            "TeaHouse"
+        ], 
+        "Has duration": [
+            45
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:TeaHouse", 
+        "Has end time": [
+            "1514382300"
         ]
     }, 
     "Session:Angel Meeting# 949ca654b341e5cc91ea397f1bd640f1": {
@@ -8635,56 +8687,6 @@
             "1514575380"
         ]
     }, 
-    "Session:TeaHouse# 6186dd58d50a459aea82ac68abe4ca9f": {
-        "Held in language": [
-            "en - English"
-        ], 
-        "Has start time": [
-            "1514385000"
-        ], 
-        "Has event track": [
-            "Session"
-        ], 
-        "Has website": [
-            "https://teahouse.homecomputing.fr/"
-        ], 
-        "Has description": [], 
-        "Has session type": [
-            "Meeting"
-        ], 
-        "Has session location": [
-            {
-                "fulltext": "Assembly:TeaHouse", 
-                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Assembly:TeaHouse", 
-                "namespace": 504, 
-                "exists": true
-            }
-        ], 
-        "Has subtitle": [
-            "HACKING ANXIETY!!1!11"
-        ], 
-        "Is organized by": [
-            {
-                "fulltext": "User:Sanpi", 
-                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/User:Sanpi", 
-                "namespace": 2, 
-                "exists": true
-            }
-        ], 
-        "Has title": [
-            "TeaHouse"
-        ], 
-        "Has duration": [
-            60
-        ], 
-        "Has color": [
-            "#0099ab"
-        ], 
-        "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:TeaHouse", 
-        "Has end time": [
-            "1514388600"
-        ]
-    }, 
     "Session:T3sserakt: Secushare# b6fdc2bf1b1691d68c8ef7669e4b5fcd": {
         "Held in language": [
             "de - German", 
@@ -9778,6 +9780,54 @@
         "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:Introduction_to_Latex", 
         "Has end time": [
             "1514395800"
+        ]
+    }, 
+    "Session:When the Dutch secret service knocks on your door# e6e8d9f7a886263a5c4bf250c837694b": {
+        "Held in language": [
+            "en - English"
+        ], 
+        "Has start time": [
+            "1514469600"
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [], 
+        "Has description": [
+            "This is a story of when the Dutch secret service knocked on my door just after OHM2013, what some of the events that lead up to this, our guesses on why they did this and how to create an environment where we can talk about these things instead of keeping silent."
+        ], 
+        "Has session type": [], 
+        "Has session location": [
+            {
+                "fulltext": "Room:Lecture room 11", 
+                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Room:Lecture_room_11", 
+                "namespace": 516, 
+                "exists": true
+            }
+        ], 
+        "Has subtitle": [
+            "Lecture/discussion"
+        ], 
+        "Is organized by": [
+            {
+                "fulltext": "User:DrWhax2", 
+                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/User:DrWhax2", 
+                "namespace": 2, 
+                "exists": true
+            }
+        ], 
+        "Has title": [
+            "When the Dutch secret service knocks on your door"
+        ], 
+        "Has duration": [
+            60
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:When_the_Dutch_secret_service_knocks_on_your_door", 
+        "Has end time": [
+            "1514473200"
         ]
     }, 
     "Session:LEAP Platform for VPN and email providers# 1bc999943f1e27dc8a94353ce3f8b7ef": {
