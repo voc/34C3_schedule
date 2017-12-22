@@ -5864,52 +5864,48 @@
             "1514323800"
         ]
     }, 
-    "Session:Tor relays operators meetup# a2e78738746accec8fc83b3bbf438638": {
+    "Session:Rights&Freedoms# 8d40ba0c72fb41af93b60cbf39709221": {
         "Held in language": [
+            "de - German", 
             "en - English"
         ], 
         "Has start time": [
-            "1514399400"
+            "1514466000"
         ], 
         "Has event track": [
             "Session"
         ], 
         "Has website": [], 
         "Has description": [
-            "Connecting people who run Tor relays, people who would like to run Tor relays, and people generally interested in what we are doing."
+            "Rights & Freedoms Cluster Stage Programme"
         ], 
         "Has session type": [
-            "Discussion"
+            "Talk"
         ], 
         "Has session location": [
             {
-                "fulltext": "Room:Lecture room 11", 
-                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Room:Lecture_room_11", 
+                "fulltext": "Room:Hall 3", 
+                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Room:Hall_3", 
                 "namespace": 516, 
                 "exists": true
             }
         ], 
-        "Has subtitle": [], 
-        "Is organized by": [
-            {
-                "fulltext": "User:Nicoo", 
-                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/User:Nicoo", 
-                "namespace": 2, 
-                "exists": true
-            }
+        "Has subtitle": [
+            "Take e-voting away from Europe (Hermes Center)"
         ], 
+        "Is organized by": [], 
         "Has title": [
-            "Tor relays operators meetup"
+            "Rights&Freedoms"
         ], 
         "Has duration": [
-            100
+            60
         ], 
         "Has color": [
             "#0099ab"
         ], 
-        "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:Tor_relays_operators_meetup", 
+        "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:Rights%26Freedoms", 
         "Has end time": [
-            "1514405400"
+            "1514469600"
         ]
     }, 
     "Session:Security Without Borders# 77b19904bc175785c30273f753eee496": {
@@ -7448,49 +7444,33 @@
             "1514649600"
         ]
     }, 
-    "Session:Rights&Freedoms# 8d40ba0c72fb41af93b60cbf39709221": {
+    "Session:CMS Tutoren Briefing# 7ed5e318742a2d9b2b5acdad6183b2cd": {
         "Held in language": [
-            "de - German", 
-            "en - English"
+            "de - German"
         ], 
-        "Has start time": [
-            "1514466000"
-        ], 
+        "Has start time": [], 
         "Has event track": [
             "Session"
         ], 
         "Has website": [], 
         "Has description": [
-            "Rights & Freedoms Cluster Stage Programme"
+            "CMS Tutoren Briefing"
         ], 
         "Has session type": [
-            "Talk"
+            "Workshop"
         ], 
-        "Has session location": [
-            {
-                "fulltext": "Room:Hall 3", 
-                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Room:Hall_3", 
-                "namespace": 516, 
-                "exists": true
-            }
-        ], 
-        "Has subtitle": [
-            "Take e-voting away from Europe (Hermes Center)"
-        ], 
+        "Has session location": [], 
+        "Has subtitle": [], 
         "Is organized by": [], 
         "Has title": [
-            "Rights&Freedoms"
+            "CMS Tutoren Briefing"
         ], 
-        "Has duration": [
-            60
-        ], 
+        "Has duration": [], 
         "Has color": [
             "#0099ab"
         ], 
-        "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:Rights%26Freedoms", 
-        "Has end time": [
-            "1514469600"
-        ]
+        "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:CMS_Tutoren_Briefing", 
+        "Has end time": []
     }, 
     "Session:KinkyGeeks Bondage Workshop# 2db53fa6cda163e06db198dd075df5ff": {
         "Held in language": [
@@ -10194,6 +10174,54 @@
         "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:Network_hacks_for_smart_attacks", 
         "Has end time": [
             "1514581200"
+        ]
+    }, 
+    "Session:Tor relays operators meetup# a2e78738746accec8fc83b3bbf438638": {
+        "Held in language": [
+            "en - English"
+        ], 
+        "Has start time": [
+            "1514399400"
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [], 
+        "Has description": [
+            "Connecting people who run Tor relays, people who would like to run Tor relays, and people generally interested in what we are doing."
+        ], 
+        "Has session type": [
+            "Discussion"
+        ], 
+        "Has session location": [
+            {
+                "fulltext": "Room:Lecture room 11", 
+                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Room:Lecture_room_11", 
+                "namespace": 516, 
+                "exists": true
+            }
+        ], 
+        "Has subtitle": [], 
+        "Is organized by": [
+            {
+                "fulltext": "User:Nicoo", 
+                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/User:Nicoo", 
+                "namespace": 2, 
+                "exists": true
+            }
+        ], 
+        "Has title": [
+            "Tor relays operators meetup"
+        ], 
+        "Has duration": [
+            100
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:Tor_relays_operators_meetup", 
+        "Has end time": [
+            "1514405400"
         ]
     }, 
     "Session:Reclaim Club Culture# d18178dc7a647281cd7e535c4dfac1c0": {
