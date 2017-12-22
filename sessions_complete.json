@@ -5821,22 +5821,63 @@
             "1514422800"
         ]
     }, 
-    "Session:Translation Team# fcc867db792db69c38b8e1fb2c006589": {
+    "Session:CMS Tutoren Briefing# 9b1b229bc4229efaef2ff1a45665410b": {
         "Held in language": [
-            "en - English"
+            "de - German"
         ], 
         "Has start time": [
-            "1514318400"
+            "1514386800"
         ], 
         "Has event track": [
             "Session"
         ], 
         "Has website": [], 
         "Has description": [
-            "Daily orga meeting of the Translation Angel crew."
+            "CMS Tutoren Briefing"
         ], 
         "Has session type": [
-            "Meeting"
+            "Workshop"
+        ], 
+        "Has session location": [
+            {
+                "fulltext": "Room:Seminar room 14-15", 
+                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Room:Seminar_room_14-15", 
+                "namespace": 516, 
+                "exists": true
+            }
+        ], 
+        "Has subtitle": [], 
+        "Is organized by": [], 
+        "Has title": [
+            "CMS Tutoren Briefing"
+        ], 
+        "Has duration": [
+            60
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:CMS_Tutoren_Briefing", 
+        "Has end time": [
+            "1514390400"
+        ]
+    }, 
+    "Session:Tor relays operators meetup# a2e78738746accec8fc83b3bbf438638": {
+        "Held in language": [
+            "en - English"
+        ], 
+        "Has start time": [
+            "1514399400"
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [], 
+        "Has description": [
+            "Connecting people who run Tor relays, people who would like to run Tor relays, and people generally interested in what we are doing."
+        ], 
+        "Has session type": [
+            "Discussion"
         ], 
         "Has session location": [
             {
@@ -5846,66 +5887,27 @@
                 "exists": true
             }
         ], 
-        "Has subtitle": [
-            "Translation Angel Meeting Day 0"
-        ], 
-        "Is organized by": [], 
-        "Has title": [
-            "Translation Team"
-        ], 
-        "Has duration": [
-            90
-        ], 
-        "Has color": [
-            "#0099ab"
-        ], 
-        "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:Translation_Team", 
-        "Has end time": [
-            "1514323800"
-        ]
-    }, 
-    "Session:Rights&Freedoms# 8d40ba0c72fb41af93b60cbf39709221": {
-        "Held in language": [
-            "de - German", 
-            "en - English"
-        ], 
-        "Has start time": [
-            "1514466000"
-        ], 
-        "Has event track": [
-            "Session"
-        ], 
-        "Has website": [], 
-        "Has description": [
-            "Rights & Freedoms Cluster Stage Programme"
-        ], 
-        "Has session type": [
-            "Talk"
-        ], 
-        "Has session location": [
+        "Has subtitle": [], 
+        "Is organized by": [
             {
-                "fulltext": "Room:Hall 3", 
-                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Room:Hall_3", 
-                "namespace": 516, 
+                "fulltext": "User:Nicoo", 
+                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/User:Nicoo", 
+                "namespace": 2, 
                 "exists": true
             }
         ], 
-        "Has subtitle": [
-            "Take e-voting away from Europe (Hermes Center)"
-        ], 
-        "Is organized by": [], 
         "Has title": [
-            "Rights&Freedoms"
+            "Tor relays operators meetup"
         ], 
         "Has duration": [
-            60
+            100
         ], 
         "Has color": [
             "#0099ab"
         ], 
-        "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:Rights%26Freedoms", 
+        "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:Tor_relays_operators_meetup", 
         "Has end time": [
-            "1514469600"
+            "1514405400"
         ]
     }, 
     "Session:Security Without Borders# 77b19904bc175785c30273f753eee496": {
@@ -7308,55 +7310,60 @@
             "1514412000"
         ]
     }, 
-    "Session:A/V Angel Meeting# cfae41ef06cf48c907d63a56a72f8e52": {
+    "Session:Delta Chat# 10a829599c665cc9491dbe1b569831b0": {
         "Held in language": [
-            "de - German", 
             "en - English"
         ], 
         "Has start time": [
-            "1514492100"
+            "1514556000"
         ], 
         "Has event track": [
             "Session"
         ], 
         "Has website": [
-            "https://c3voc.de"
+            "https://delta.chat/en/"
         ], 
-        "Has description": [
-            "Daily A/V Angel Meeting: Feedback and Shift Distribution"
-        ], 
+        "Has description": [], 
         "Has session type": [
-            "Meeting"
+            "Workshop"
         ], 
         "Has session location": [
             {
-                "fulltext": "Room:Lecture room 11", 
-                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Room:Lecture_room_11", 
+                "fulltext": "Room:Komona Blue Princess", 
+                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Room:Komona_Blue_Princess", 
                 "namespace": 516, 
                 "exists": true
             }
         ], 
-        "Has subtitle": [], 
+        "Has subtitle": [
+            "Try out Delta Chat with us ... usable like Telegram, but decentralized and with open community"
+        ], 
         "Is organized by": [
             {
-                "fulltext": "User:Jwacalex", 
-                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/User:Jwacalex", 
+                "fulltext": "User:Compl4xx", 
+                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/User:Compl4xx", 
+                "namespace": 2, 
+                "exists": true
+            }, 
+            {
+                "fulltext": "User:Xeniax", 
+                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/User:Xeniax", 
                 "namespace": 2, 
                 "exists": true
             }
         ], 
         "Has title": [
-            "A/V Angel Meeting"
+            "Delta Chat"
         ], 
         "Has duration": [
-            105
+            120
         ], 
         "Has color": [
             "#0099ab"
         ], 
-        "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:A/V_Angel_Meeting", 
+        "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:Delta_Chat", 
         "Has end time": [
-            "1514498400"
+            "1514563200"
         ]
     }, 
     "Session:Flashing (Fair-)phones with Custom Roms, F-Droid etc.# 177611079993329b87c2b63f781a069f": {
@@ -7444,33 +7451,49 @@
             "1514649600"
         ]
     }, 
-    "Session:CMS Tutoren Briefing# 7ed5e318742a2d9b2b5acdad6183b2cd": {
+    "Session:Rights&Freedoms# 8d40ba0c72fb41af93b60cbf39709221": {
         "Held in language": [
-            "de - German"
+            "de - German", 
+            "en - English"
         ], 
-        "Has start time": [], 
+        "Has start time": [
+            "1514466000"
+        ], 
         "Has event track": [
             "Session"
         ], 
         "Has website": [], 
         "Has description": [
-            "CMS Tutoren Briefing"
+            "Rights & Freedoms Cluster Stage Programme"
         ], 
         "Has session type": [
-            "Workshop"
+            "Talk"
         ], 
-        "Has session location": [], 
-        "Has subtitle": [], 
+        "Has session location": [
+            {
+                "fulltext": "Room:Hall 3", 
+                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Room:Hall_3", 
+                "namespace": 516, 
+                "exists": true
+            }
+        ], 
+        "Has subtitle": [
+            "Take e-voting away from Europe (Hermes Center)"
+        ], 
         "Is organized by": [], 
         "Has title": [
-            "CMS Tutoren Briefing"
+            "Rights&Freedoms"
         ], 
-        "Has duration": [], 
+        "Has duration": [
+            60
+        ], 
         "Has color": [
             "#0099ab"
         ], 
-        "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:CMS_Tutoren_Briefing", 
-        "Has end time": []
+        "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:Rights%26Freedoms", 
+        "Has end time": [
+            "1514469600"
+        ]
     }, 
     "Session:KinkyGeeks Bondage Workshop# 2db53fa6cda163e06db198dd075df5ff": {
         "Held in language": [
@@ -7663,60 +7686,55 @@
             "1514584800"
         ]
     }, 
-    "Session:Delta Chat# 10a829599c665cc9491dbe1b569831b0": {
+    "Session:A/V Angel Meeting# cfae41ef06cf48c907d63a56a72f8e52": {
         "Held in language": [
+            "de - German", 
             "en - English"
         ], 
         "Has start time": [
-            "1514556000"
+            "1514492100"
         ], 
         "Has event track": [
             "Session"
         ], 
         "Has website": [
-            "https://delta.chat/en/"
+            "https://c3voc.de"
         ], 
-        "Has description": [], 
+        "Has description": [
+            "Daily A/V Angel Meeting: Feedback and Shift Distribution"
+        ], 
         "Has session type": [
-            "Workshop"
+            "Meeting"
         ], 
         "Has session location": [
             {
-                "fulltext": "Room:Komona Blue Princess", 
-                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Room:Komona_Blue_Princess", 
+                "fulltext": "Room:Lecture room 11", 
+                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Room:Lecture_room_11", 
                 "namespace": 516, 
                 "exists": true
             }
         ], 
-        "Has subtitle": [
-            "Try out Delta Chat with us ... usable like Telegram, but decentralized and with open community"
-        ], 
+        "Has subtitle": [], 
         "Is organized by": [
             {
-                "fulltext": "User:Compl4xx", 
-                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/User:Compl4xx", 
-                "namespace": 2, 
-                "exists": true
-            }, 
-            {
-                "fulltext": "User:Xeniax", 
-                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/User:Xeniax", 
+                "fulltext": "User:Jwacalex", 
+                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/User:Jwacalex", 
                 "namespace": 2, 
                 "exists": true
             }
         ], 
         "Has title": [
-            "Delta Chat"
+            "A/V Angel Meeting"
         ], 
         "Has duration": [
-            120
+            105
         ], 
         "Has color": [
             "#0099ab"
         ], 
-        "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:Delta_Chat", 
+        "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:A/V_Angel_Meeting", 
         "Has end time": [
-            "1514563200"
+            "1514498400"
         ]
     }, 
     "Session:Nextcloud Dev Q&A# 909935d057a044949b2a170debc2b816": {
@@ -10176,54 +10194,6 @@
             "1514581200"
         ]
     }, 
-    "Session:Tor relays operators meetup# a2e78738746accec8fc83b3bbf438638": {
-        "Held in language": [
-            "en - English"
-        ], 
-        "Has start time": [
-            "1514399400"
-        ], 
-        "Has event track": [
-            "Session"
-        ], 
-        "Has website": [], 
-        "Has description": [
-            "Connecting people who run Tor relays, people who would like to run Tor relays, and people generally interested in what we are doing."
-        ], 
-        "Has session type": [
-            "Discussion"
-        ], 
-        "Has session location": [
-            {
-                "fulltext": "Room:Lecture room 11", 
-                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Room:Lecture_room_11", 
-                "namespace": 516, 
-                "exists": true
-            }
-        ], 
-        "Has subtitle": [], 
-        "Is organized by": [
-            {
-                "fulltext": "User:Nicoo", 
-                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/User:Nicoo", 
-                "namespace": 2, 
-                "exists": true
-            }
-        ], 
-        "Has title": [
-            "Tor relays operators meetup"
-        ], 
-        "Has duration": [
-            100
-        ], 
-        "Has color": [
-            "#0099ab"
-        ], 
-        "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:Tor_relays_operators_meetup", 
-        "Has end time": [
-            "1514405400"
-        ]
-    }, 
     "Session:Reclaim Club Culture# d18178dc7a647281cd7e535c4dfac1c0": {
         "Held in language": [], 
         "Has start time": [
@@ -10410,6 +10380,49 @@
         "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:TeaHouse", 
         "Has end time": [
             "1514555100"
+        ]
+    }, 
+    "Session:Translation Team# fcc867db792db69c38b8e1fb2c006589": {
+        "Held in language": [
+            "en - English"
+        ], 
+        "Has start time": [
+            "1514318400"
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [], 
+        "Has description": [
+            "Daily orga meeting of the Translation Angel crew."
+        ], 
+        "Has session type": [
+            "Meeting"
+        ], 
+        "Has session location": [
+            {
+                "fulltext": "Room:Lecture room 11", 
+                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Room:Lecture_room_11", 
+                "namespace": 516, 
+                "exists": true
+            }
+        ], 
+        "Has subtitle": [
+            "Translation Angel Meeting Day 0"
+        ], 
+        "Is organized by": [], 
+        "Has title": [
+            "Translation Team"
+        ], 
+        "Has duration": [
+            90
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:Translation_Team", 
+        "Has end time": [
+            "1514323800"
         ]
     }, 
     "Session:SecureDrop# 69b671b72c08c38b86b56562d2772cb3": {
