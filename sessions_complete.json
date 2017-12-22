@@ -1084,99 +1084,6 @@
             "1514574000"
         ]
     }, 
-    "Session:Calliope Workshops# 3f0972aaf2c8b1e411d0858f8e05bd61": {
-        "Held in language": [
-            "de - German"
-        ], 
-        "Has start time": [
-            "1514467800"
-        ], 
-        "Has event track": [
-            "Session"
-        ], 
-        "Has website": [
-            "http://calliope.cc"
-        ], 
-        "Has description": [
-            "Kinder ab 8 Jahren sind herzlich willkommen ihre ersten Erfahrungen mit dem Programmieren zu machen."
-        ], 
-        "Has session type": [
-            "Workshop"
-        ], 
-        "Has session location": [
-            {
-                "fulltext": "Room:Kidspace", 
-                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Room:Kidspace", 
-                "namespace": 516, 
-                "exists": true
-            }
-        ], 
-        "Has subtitle": [
-            "Calliope Workshop 2"
-        ], 
-        "Is organized by": [
-            {
-                "fulltext": "User:DerMicha", 
-                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/User:DerMicha", 
-                "namespace": 2, 
-                "exists": true
-            }
-        ], 
-        "Has title": [
-            "Calliope Workshops"
-        ], 
-        "Has duration": [
-            60
-        ], 
-        "Has color": [
-            "#0099ab"
-        ], 
-        "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:Calliope_Workshops", 
-        "Has end time": [
-            "1514471400"
-        ]
-    }, 
-    "Session:We dont need new texts - we need new languages# 7464d54515aa241fcc4816370a22ee96": {
-        "Held in language": [
-            "en - English"
-        ], 
-        "Has start time": [
-            "1514469600"
-        ], 
-        "Has event track": [
-            "Session"
-        ], 
-        "Has website": [], 
-        "Has description": [
-            "session: We don't need new texts - we need new languages (Ronne M\u00fcbeck)"
-        ], 
-        "Has session type": [
-            "Workshop"
-        ], 
-        "Has session location": [
-            {
-                "fulltext": "Room:Komona Coral Reef", 
-                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Room:Komona_Coral_Reef", 
-                "namespace": 516, 
-                "exists": true
-            }
-        ], 
-        "Has subtitle": [], 
-        "Is organized by": [], 
-        "Has title": [
-            "We dont need new texts - we need new languages"
-        ], 
-        "Has duration": [
-            120
-        ], 
-        "Has color": [
-            "#0099ab"
-        ], 
-        "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:We_dont_need_new_texts_-_we_need_new_languages", 
-        "Has end time": [
-            "1514476800"
-        ]
-    }, 
     "Session:\u201cHow To Survice 34C3\u201d CryptoParty# f3f3ed2e5fe9956db5790f4bcc0494c7": {
         "Held in language": [
             "en - English"
@@ -1225,6 +1132,47 @@
         "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:%E2%80%9CHow_To_Survice_34C3%E2%80%9D_CryptoParty", 
         "Has end time": [
             "1514653200"
+        ]
+    }, 
+    "Session:We dont need new texts - we need new languages# 7464d54515aa241fcc4816370a22ee96": {
+        "Held in language": [
+            "en - English"
+        ], 
+        "Has start time": [
+            "1514469600"
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [], 
+        "Has description": [
+            "session: We don't need new texts - we need new languages (Ronne M\u00fcbeck)"
+        ], 
+        "Has session type": [
+            "Workshop"
+        ], 
+        "Has session location": [
+            {
+                "fulltext": "Room:Komona Coral Reef", 
+                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Room:Komona_Coral_Reef", 
+                "namespace": 516, 
+                "exists": true
+            }
+        ], 
+        "Has subtitle": [], 
+        "Is organized by": [], 
+        "Has title": [
+            "We dont need new texts - we need new languages"
+        ], 
+        "Has duration": [
+            120
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:We_dont_need_new_texts_-_we_need_new_languages", 
+        "Has end time": [
+            "1514476800"
         ]
     }, 
     "Session:Hacking with wget# 518ebf05c1b341666502a5a4658f7522": {
@@ -1748,6 +1696,51 @@
             "1514480400"
         ]
     }, 
+    "Session:Calliope Workshops# db2ed82b44dd9b15536193cfd83cd9d7": {
+        "Held in language": [
+            "de - German"
+        ], 
+        "Has start time": [
+            "1514467800"
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [
+            "http://calliope.cc"
+        ], 
+        "Has description": [
+            "Kinder ab 8 Jahren sind herzlich willkommen ihre ersten Erfahrungen mit dem Programmieren zu machen."
+        ], 
+        "Has session type": [
+            "Workshop"
+        ], 
+        "Has session location": [], 
+        "Has subtitle": [
+            "Calliope Workshop 2"
+        ], 
+        "Is organized by": [
+            {
+                "fulltext": "User:DerMicha", 
+                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/User:DerMicha", 
+                "namespace": 2, 
+                "exists": true
+            }
+        ], 
+        "Has title": [
+            "Calliope Workshops"
+        ], 
+        "Has duration": [
+            60
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:Calliope_Workshops", 
+        "Has end time": [
+            "1514471400"
+        ]
+    }, 
     "Session:All Creatures Welcome# 968f6e75f0138497017042e9a0fd67c9": {
         "Held in language": [
             "de - German", 
@@ -2115,56 +2108,6 @@
         "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:We_don%27t_need_new_texts_-_we_need_new_languages", 
         "Has end time": [
             "1514476800"
-        ]
-    }, 
-    "Session:Numerical Weather Prediction Tutorial# f6c1e9a8afa8b59448a312ac4b32a14d": {
-        "Held in language": [
-            "en - English"
-        ], 
-        "Has start time": [
-            "1514455200"
-        ], 
-        "Has event track": [
-            "Session"
-        ], 
-        "Has website": [
-            "https://www.hacknology.de/vortrag/2016/wrf/"
-        ], 
-        "Has description": [
-            "A workshop about running your own Numerical Weather Prediction (NWP) model."
-        ], 
-        "Has session type": [
-            "Workshop"
-        ], 
-        "Has session location": [
-            {
-                "fulltext": "Room:Seminar room 13", 
-                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Room:Seminar_room_13", 
-                "namespace": 516, 
-                "exists": true
-            }
-        ], 
-        "Has subtitle": [], 
-        "Is organized by": [
-            {
-                "fulltext": "User:Tecer", 
-                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/User:Tecer", 
-                "namespace": 2, 
-                "exists": true
-            }
-        ], 
-        "Has title": [
-            "Numerical Weather Prediction Tutorial"
-        ], 
-        "Has duration": [
-            180
-        ], 
-        "Has color": [
-            "#0099ab"
-        ], 
-        "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:Numerical_Weather_Prediction_Tutorial", 
-        "Has end time": [
-            "1514466000"
         ]
     }, 
     "Session:Angel Meeting# 0b79bad7a661afbdc25c73a0d7835d4d": {
@@ -8959,56 +8902,54 @@
             "1514505600"
         ]
     }, 
-    "Session:Calliope Workshops# e842764194dcabf66703ca163b608c3d": {
+    "Session:Surface mount electronics assembly for terrified beginners# 6ff33d8db23dd8a5029232b0c4a66bc4": {
         "Held in language": [
-            "de - German"
+            "en - English"
         ], 
         "Has start time": [
-            "1514462400"
+            "1514394000"
         ], 
         "Has event track": [
             "Session"
         ], 
-        "Has website": [
-            "http://calliope.cc"
-        ], 
+        "Has website": [], 
         "Has description": [
-            "Kinder ab 8 Jahren sind herzlich willkommen ihre ersten Erfahrungen mit dem Programmieren zu machen."
+            "Surface mount electronics for terrified beginners. Learn to assemble tiny parts on circuit boards by building a working power supply. Anyone can do it. Yes, even you who never touched anything electronic before. 90-100mins, 20\u20ac/kit, avoid caffeine immediately before. Max 20 participants per session, there will be a PAPER!!1! signup list in the hardware hacking area."
         ], 
         "Has session type": [
             "Workshop"
         ], 
         "Has session location": [
             {
-                "fulltext": "Room:Kidspace", 
-                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Room:Kidspace", 
-                "namespace": 516, 
+                "fulltext": "Assembly:HardwareHackingArea", 
+                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Assembly:HardwareHackingArea", 
+                "namespace": 504, 
                 "exists": true
             }
         ], 
         "Has subtitle": [
-            "Calliope Workshop 1"
+            "Day 1 Session 3"
         ], 
         "Is organized by": [
             {
-                "fulltext": "User:DerMicha", 
-                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/User:DerMicha", 
+                "fulltext": "User:Kliment", 
+                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/User:Kliment", 
                 "namespace": 2, 
                 "exists": true
             }
         ], 
         "Has title": [
-            "Calliope Workshops"
+            "Surface mount electronics assembly for terrified beginners"
         ], 
         "Has duration": [
-            60
+            90
         ], 
         "Has color": [
             "#0099ab"
         ], 
-        "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:Calliope_Workshops", 
+        "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:Surface_mount_electronics_assembly_for_terrified_beginners", 
         "Has end time": [
-            "1514466000"
+            "1514399400"
         ]
     }, 
     "Session:SPREE:PUBLIK/Nonstop Schwitzen# 70d1f6a95afce1b17eec80233f6baa7d": {
@@ -9128,54 +9069,49 @@
             "1514494800"
         ]
     }, 
-    "Session:Surface mount electronics assembly for terrified beginners# 6ff33d8db23dd8a5029232b0c4a66bc4": {
+    "Session:Calliope Workshops# 52c48182ddefb6fe1f3dad4a82d1b627": {
         "Held in language": [
-            "en - English"
+            "de - German"
         ], 
         "Has start time": [
-            "1514394000"
+            "1514473200"
         ], 
         "Has event track": [
             "Session"
         ], 
-        "Has website": [], 
+        "Has website": [
+            "http://calliope.cc"
+        ], 
         "Has description": [
-            "Surface mount electronics for terrified beginners. Learn to assemble tiny parts on circuit boards by building a working power supply. Anyone can do it. Yes, even you who never touched anything electronic before. 90-100mins, 20\u20ac/kit, avoid caffeine immediately before. Max 20 participants per session, there will be a PAPER!!1! signup list in the hardware hacking area."
+            "Kinder ab 8 Jahren sind herzlich willkommen ihre ersten Erfahrungen mit dem Programmieren zu machen."
         ], 
         "Has session type": [
             "Workshop"
         ], 
-        "Has session location": [
-            {
-                "fulltext": "Assembly:HardwareHackingArea", 
-                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Assembly:HardwareHackingArea", 
-                "namespace": 504, 
-                "exists": true
-            }
-        ], 
+        "Has session location": [], 
         "Has subtitle": [
-            "Day 1 Session 3"
+            "Calliope Workshop 3"
         ], 
         "Is organized by": [
             {
-                "fulltext": "User:Kliment", 
-                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/User:Kliment", 
+                "fulltext": "User:DerMicha", 
+                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/User:DerMicha", 
                 "namespace": 2, 
                 "exists": true
             }
         ], 
         "Has title": [
-            "Surface mount electronics assembly for terrified beginners"
+            "Calliope Workshops"
         ], 
         "Has duration": [
-            90
+            60
         ], 
         "Has color": [
             "#0099ab"
         ], 
-        "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:Surface_mount_electronics_assembly_for_terrified_beginners", 
+        "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:Calliope_Workshops", 
         "Has end time": [
-            "1514399400"
+            "1514476800"
         ]
     }, 
     "Session:D Town, Christopher: Eigenes HackLab bauen!# b68fd9cc434114bcf9eb06cd008ffe4a": {
@@ -10060,47 +9996,54 @@
             "1514550600"
         ]
     }, 
-    "Session:Letter writing to prisoners, sitting in jail for hacking# 05a17317e0bca1ab5b1bfdbab6a7959b": {
+    "Session:Numerical Weather Prediction Tutorial# f6c1e9a8afa8b59448a312ac4b32a14d": {
         "Held in language": [
             "en - English"
         ], 
         "Has start time": [
-            "1514548800"
+            "1514455200"
         ], 
         "Has event track": [
             "Session"
         ], 
-        "Has website": [], 
+        "Has website": [
+            "https://www.hacknology.de/vortrag/2016/wrf/"
+        ], 
         "Has description": [
-            "Hacktivism from time to time leads to imprisonment and repressions. There are several people right now siting in jail that consider themselves anarchist or did actions that are supported by anarchist community. Not to let those people alone in prison we would like to have every day 1 hour around the table, where we get to know the stories of imprisoned activists and write them some words of support with postcards/letters.  You don't need any special skills for that. The postcards will be there for you."
+            "A workshop about running your own Numerical Weather Prediction (NWP) model."
         ], 
         "Has session type": [
             "Workshop"
         ], 
         "Has session location": [
             {
-                "fulltext": "Room:Komona Blue Princess", 
-                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Room:Komona_Blue_Princess", 
+                "fulltext": "Room:Seminar room 13", 
+                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Room:Seminar_room_13", 
                 "namespace": 516, 
                 "exists": true
             }
         ], 
-        "Has subtitle": [
-            "Day 3"
+        "Has subtitle": [], 
+        "Is organized by": [
+            {
+                "fulltext": "User:Tecer", 
+                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/User:Tecer", 
+                "namespace": 2, 
+                "exists": true
+            }
         ], 
-        "Is organized by": [], 
         "Has title": [
-            "Letter writing to prisoners, sitting in jail for hacking"
+            "Numerical Weather Prediction Tutorial"
         ], 
         "Has duration": [
-            30
+            180
         ], 
         "Has color": [
             "#0099ab"
         ], 
-        "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:Letter_writing_to_prisoners,_sitting_in_jail_for_hacking", 
+        "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:Numerical_Weather_Prediction_Tutorial", 
         "Has end time": [
-            "1514550600"
+            "1514466000"
         ]
     }, 
     "Session:TeaHouse# 30e2206422188eb511ffe87cbb4b29ed": {
@@ -10229,6 +10172,51 @@
         "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:Reclaim_Club_Culture", 
         "Has end time": [
             "1514390400"
+        ]
+    }, 
+    "Session:Calliope Workshops# d5d1ea980da4f21d95826c95fc0a0a47": {
+        "Held in language": [
+            "de - German"
+        ], 
+        "Has start time": [
+            "1514462400"
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [
+            "http://calliope.cc"
+        ], 
+        "Has description": [
+            "Kinder ab 8 Jahren sind herzlich willkommen ihre ersten Erfahrungen mit dem Programmieren zu machen."
+        ], 
+        "Has session type": [
+            "Workshop"
+        ], 
+        "Has session location": [], 
+        "Has subtitle": [
+            "Calliope Workshop 1"
+        ], 
+        "Is organized by": [
+            {
+                "fulltext": "User:DerMicha", 
+                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/User:DerMicha", 
+                "namespace": 2, 
+                "exists": true
+            }
+        ], 
+        "Has title": [
+            "Calliope Workshops"
+        ], 
+        "Has duration": [
+            60
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:Calliope_Workshops", 
+        "Has end time": [
+            "1514466000"
         ]
     }, 
     "Session:Scalable and privacy-respectful distributed systems# 2ee867ae6b0544e5919217bc0bcdf55b": {
@@ -11302,56 +11290,47 @@
             "1514557800"
         ]
     }, 
-    "Session:Calliope Workshops# 4d6f6ef50cf52eac7d0e0a8d8a12960f": {
+    "Session:Letter writing to prisoners, sitting in jail for hacking# 05a17317e0bca1ab5b1bfdbab6a7959b": {
         "Held in language": [
-            "de - German"
+            "en - English"
         ], 
         "Has start time": [
-            "1514473200"
+            "1514548800"
         ], 
         "Has event track": [
             "Session"
         ], 
-        "Has website": [
-            "http://calliope.cc"
-        ], 
+        "Has website": [], 
         "Has description": [
-            "Kinder ab 8 Jahren sind herzlich willkommen ihre ersten Erfahrungen mit dem Programmieren zu machen."
+            "Hacktivism from time to time leads to imprisonment and repressions. There are several people right now siting in jail that consider themselves anarchist or did actions that are supported by anarchist community. Not to let those people alone in prison we would like to have every day 1 hour around the table, where we get to know the stories of imprisoned activists and write them some words of support with postcards/letters.  You don't need any special skills for that. The postcards will be there for you."
         ], 
         "Has session type": [
             "Workshop"
         ], 
         "Has session location": [
             {
-                "fulltext": "Room:Kidspace", 
-                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Room:Kidspace", 
+                "fulltext": "Room:Komona Blue Princess", 
+                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Room:Komona_Blue_Princess", 
                 "namespace": 516, 
                 "exists": true
             }
         ], 
         "Has subtitle": [
-            "Calliope Workshop 3"
+            "Day 3"
         ], 
-        "Is organized by": [
-            {
-                "fulltext": "User:DerMicha", 
-                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/User:DerMicha", 
-                "namespace": 2, 
-                "exists": true
-            }
-        ], 
+        "Is organized by": [], 
         "Has title": [
-            "Calliope Workshops"
+            "Letter writing to prisoners, sitting in jail for hacking"
         ], 
         "Has duration": [
-            60
+            30
         ], 
         "Has color": [
             "#0099ab"
         ], 
-        "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:Calliope_Workshops", 
+        "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:Letter_writing_to_prisoners,_sitting_in_jail_for_hacking", 
         "Has end time": [
-            "1514476800"
+            "1514550600"
         ]
     }, 
     "Session:RHIZOM festival: an intro to everything for everyone for nothing# 5f787719ed7e8dc844f7dac831271136": {
