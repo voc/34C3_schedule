@@ -329,6 +329,54 @@
             "1514475000"
         ]
     }, 
+    "Session:Video Game Development Meetup# 55b1c1ce1b633caca9a4b58ff6c3cdbc": {
+        "Held in language": [
+            "en - English"
+        ], 
+        "Has start time": [
+            "1514484000"
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [], 
+        "Has description": [
+            "We're a bunch of people who participated in the game jam \"Ludum Dare\" this year. Whether you're curious about video game development, or a seasoned indie game developer \u2013 let's meet, talk about our experiences, and play each others' games! :)"
+        ], 
+        "Has session type": [
+            "Meeting"
+        ], 
+        "Has session location": [
+            {
+                "fulltext": "Room:Seminar room 13", 
+                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Room:Seminar_room_13", 
+                "namespace": 516, 
+                "exists": true
+            }
+        ], 
+        "Has subtitle": [], 
+        "Is organized by": [
+            {
+                "fulltext": "User:Blinry", 
+                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/User:Blinry", 
+                "namespace": 2, 
+                "exists": true
+            }
+        ], 
+        "Has title": [
+            "Video Game Development Meetup"
+        ], 
+        "Has duration": [
+            60
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:Video_Game_Development_Meetup", 
+        "Has end time": [
+            "1514487600"
+        ]
+    }, 
     "Session:Disrupt!# 258de97cfe0ad248ba702c8bb269b7ba": {
         "Held in language": [], 
         "Has start time": [
@@ -2248,6 +2296,58 @@
             "1514383200"
         ]
     }, 
+    "Session:ArduinoForTotalNewbies# 6ae5b686924eb6485d48a3973f59860f": {
+        "Held in language": [
+            "en - English"
+        ], 
+        "Has start time": [
+            "1514552400"
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [
+            "http://cornfieldelectronics.com/cfe/projects/tvbg_arduino/tvbg_arduino_workshop.php"
+        ], 
+        "Has description": [
+            "''Learn Arduino using TV-B-Gone as an example project''<br />\n<br />\nYou've probably heard lots about '''Arduino'''. But if you don't know what it is, or how you can use it to do all sorts of cool things, then this fun and easy workshop is for you. As an example project, we'll be creating a '''TV-B-Gone''' remote control out of an '''Arduino''' you can take home with you.<br />\n<br />\n''(This is one of many cool things happening throughout 34C3 in the huge '''Hardware Hacking Area!)'''''<br />\n<br />\nThis workshop will be given twice<br />(both identical):<br />\n&nbsp;&nbsp;&nbsp;Day 2: 28-Dec, 1pm - 4:30pm<br />\n&nbsp;&nbsp;&nbsp;Day 3: 29-Dec, 1pm - 4:30pm<br />"
+        ], 
+        "Has session type": [
+            "Workshop"
+        ], 
+        "Has session location": [
+            {
+                "fulltext": "Assembly:HardwareHackingArea", 
+                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Assembly:HardwareHackingArea", 
+                "namespace": 504, 
+                "exists": true
+            }
+        ], 
+        "Has subtitle": [
+            "Day 3"
+        ], 
+        "Is organized by": [
+            {
+                "fulltext": "User:Maltman23", 
+                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/User:Maltman23", 
+                "namespace": 2, 
+                "exists": true
+            }
+        ], 
+        "Has title": [
+            "ArduinoForTotalNewbies"
+        ], 
+        "Has duration": [
+            210
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:ArduinoForTotalNewbies", 
+        "Has end time": [
+            "1514565000"
+        ]
+    }, 
     "Session:Tiptoi-Hacking# a57958f4a8f84b86d64f512daf4b76f9": {
         "Held in language": [], 
         "Has start time": [], 
@@ -3034,52 +3134,50 @@
             "1514464200"
         ]
     }, 
-    "Session:Video Game Development Meetup# 55b1c1ce1b633caca9a4b58ff6c3cdbc": {
+    "Session:Trickmisch# 66aa03a04b28efa1999a8a64b305df86": {
         "Held in language": [
-            "en - English"
+            "de - German"
         ], 
         "Has start time": [
-            "1514484000"
+            "1514379600"
         ], 
         "Has event track": [
             "Session"
         ], 
-        "Has website": [], 
+        "Has website": [
+            "http://www.trickmisch.de", 
+            "http://www.trixmix.tv"
+        ], 
         "Has description": [
-            "We're a bunch of people who participated in the game jam \"Ludum Dare\" this year. Whether you're curious about video game development, or a seasoned indie game developer \u2013 let's meet, talk about our experiences, and play each others' games! :)"
+            "auf Trixmix.tv k\u00f6nnen eigene Trickfilme online erstellt werden. Daf\u00fcr kann man eigene Zeichnungen erstellen oder sich aus dem kollektiv erstellten Bildw\u00f6rterbuch bedienen."
         ], 
         "Has session type": [
-            "Meeting"
+            "Workshop"
         ], 
         "Has session location": [
             {
-                "fulltext": "Room:Seminar room 13", 
-                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Room:Seminar_room_13", 
-                "namespace": 516, 
+                "fulltext": "Assembly:Kidspace", 
+                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Assembly:Kidspace", 
+                "namespace": 504, 
                 "exists": true
             }
         ], 
-        "Has subtitle": [], 
-        "Is organized by": [
-            {
-                "fulltext": "User:Blinry", 
-                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/User:Blinry", 
-                "namespace": 2, 
-                "exists": true
-            }
+        "Has subtitle": [
+            "Trickfilm Workshop"
         ], 
+        "Is organized by": [], 
         "Has title": [
-            "Video Game Development Meetup"
+            "Trickmisch"
         ], 
         "Has duration": [
-            60
+            240
         ], 
         "Has color": [
             "#0099ab"
         ], 
-        "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:Video_Game_Development_Meetup", 
+        "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:Trickmisch", 
         "Has end time": [
-            "1514487600"
+            "1514394000"
         ]
     }, 
     "Session:Chaos-Notizen# f90aa84469346a8747b774faaf1509e0": {
@@ -9583,50 +9681,56 @@
             "1514574000"
         ]
     }, 
-    "Session:Trickmisch# 66aa03a04b28efa1999a8a64b305df86": {
+    "Session:ArduinoForTotalNewbies# 3588429a6f8752483105fbd13c3854e6": {
         "Held in language": [
-            "de - German"
+            "en - English"
         ], 
         "Has start time": [
-            "1514379600"
+            "1514466000"
         ], 
         "Has event track": [
             "Session"
         ], 
         "Has website": [
-            "http://www.trickmisch.de", 
-            "http://www.trixmix.tv"
+            "http://cornfieldelectronics.com/cfe/projects/tvbg_arduino/tvbg_arduino_workshop.php"
         ], 
         "Has description": [
-            "auf Trixmix.tv k\u00f6nnen eigene Trickfilme online erstellt werden. Daf\u00fcr kann man eigene Zeichnungen erstellen oder sich aus dem kollektiv erstellten Bildw\u00f6rterbuch bedienen."
+            "''Learn Arduino using TV-B-Gone as an example project''<br />\n<br />\nYou've probably heard lots about '''Arduino'''. But if you don't know what it is, or how you can use it to do all sorts of cool things, then this fun and easy workshop is for you. As an example project, we'll be creating a '''TV-B-Gone''' remote control out of an '''Arduino''' you can take home with you.<br />\n<br />\n''(This is one of many cool things happening throughout 34C3 in the huge '''Hardware Hacking Area!)'''''<br />\n<br />\nThis workshop will be given twice<br />(both identical):<br />\n&nbsp;&nbsp;&nbsp;Day 2: 28-Dec, 1pm - 4:30pm<br />\n&nbsp;&nbsp;&nbsp;Day 3: 29-Dec, 1pm - 4:30pm<br />"
         ], 
         "Has session type": [
             "Workshop"
         ], 
         "Has session location": [
             {
-                "fulltext": "Assembly:Kidspace", 
-                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Assembly:Kidspace", 
+                "fulltext": "Assembly:HardwareHackingArea", 
+                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Assembly:HardwareHackingArea", 
                 "namespace": 504, 
                 "exists": true
             }
         ], 
         "Has subtitle": [
-            "Trickfilm Workshop"
+            "Day 2"
         ], 
-        "Is organized by": [], 
+        "Is organized by": [
+            {
+                "fulltext": "User:Maltman23", 
+                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/User:Maltman23", 
+                "namespace": 2, 
+                "exists": true
+            }
+        ], 
         "Has title": [
-            "Trickmisch"
+            "ArduinoForTotalNewbies"
         ], 
         "Has duration": [
-            240
+            210
         ], 
         "Has color": [
             "#0099ab"
         ], 
-        "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:Trickmisch", 
+        "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:ArduinoForTotalNewbies", 
         "Has end time": [
-            "1514394000"
+            "1514478600"
         ]
     }, 
     "Session:Ybti+wefixthenet# a0b76e267b2605e6208c0b8ed65d9ec7": {
