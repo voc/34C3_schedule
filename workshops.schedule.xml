@@ -112,7 +112,7 @@
           <link>https://events.ccc.de/congress/2017/wiki/index.php/Session:A/V_Angel_Meeting</link>
         </links>
       </event>
-      <event id="1235" guid="2f8b0e3d-e4bc-56f3-a96d-3c7559fd753f">
+      <event id="1236" guid="2f8b0e3d-e4bc-56f3-a96d-3c7559fd753f">
         <logo/>
         <date>2017-12-26T20:00:00+01:00</date>
         <start>20:00</start>
@@ -220,7 +220,7 @@ This meeting is mandatory if you want to be a Stagemanager during 34C3.</descrip
           <link>https://events.ccc.de/congress/2017/wiki/index.php/Session:Reclaim_Club_Culture</link>
         </links>
       </event>
-      <event id="1241" guid="60b5bdfd-9d8a-5bcc-a0a7-f2fc485459b5">
+      <event id="1242" guid="60b5bdfd-9d8a-5bcc-a0a7-f2fc485459b5">
         <logo/>
         <date>2017-12-27T20:00:00+01:00</date>
         <start>20:00</start>
@@ -266,7 +266,7 @@ It takes about 30 minutes to copy a fullsize adult leg. We will have two hours s
           <link>https://events.ccc.de/congress/2017/wiki/index.php/Session:A/V_Angel_Meeting</link>
         </links>
       </event>
-      <event id="1234" guid="a7db74b6-1abd-56ab-9545-98de748d071c">
+      <event id="1235" guid="a7db74b6-1abd-56ab-9545-98de748d071c">
         <logo/>
         <date>2017-12-27T18:30:00+01:00</date>
         <start>18:30</start>
@@ -287,7 +287,7 @@ It takes about 30 minutes to copy a fullsize adult leg. We will have two hours s
           <link>https://events.ccc.de/congress/2017/wiki/index.php/Session:Tor_relays_operators_meetup</link>
         </links>
       </event>
-      <event id="1236" guid="ff42e72c-d902-5009-b2dd-f7c515811d70">
+      <event id="1237" guid="ff42e72c-d902-5009-b2dd-f7c515811d70">
         <logo/>
         <date>2017-12-27T17:30:00+01:00</date>
         <start>17:30</start>
@@ -417,6 +417,30 @@ Let's scale up distributed systems while maintaining metadata protection and pri
           <link>https://events.ccc.de/congress/2017/wiki/index.php/Session:Scalable_and_privacy-respectful_distributed_systems</link>
         </links>
       </event>
+      <event id="1232" guid="c9c33929-ced3-5893-8f18-71339111ef64">
+        <logo/>
+        <date>2017-12-27T14:00:00+01:00</date>
+        <start>14:00</start>
+        <duration>0:45</duration>
+        <room>Chaos West Stage</room>
+        <slug/>
+        <title>Three Ways to Enhance Metadata Protection Beyond Tor</title>
+        <subtitle>secushare.org</subtitle>
+        <track>self organized sessions</track>
+        <type>talk</type>
+        <language>en</language>
+        <abstract/>
+        <description>1. the *cover traffic* from file sharing, DHT and eventually multicast;
+2. the *framing* of application data,
+3. *mixnets* for high-latency applications.</description>
+        <persons>
+          <person id="0" href="https://events.ccc.de/congress/2017/wiki/index.php/User:LynX">LynX</person>
+        </persons>
+        <links>
+          <link>http://secushare.cheettyiapsyciew.onion/anonymity</link>
+          <link>https://events.ccc.de/congress/2017/wiki/index.php/Session:Three_Ways_to_Enhance_Metadata_Protection_Beyond_Tor</link>
+        </links>
+      </event>
     </room>
     <room name="Lecture room 12">
       <event id="1116" guid="805f28ee-8c13-5a2a-9055-8b04072dc1dd">
@@ -440,7 +464,7 @@ Let's scale up distributed systems while maintaining metadata protection and pri
           <link>https://events.ccc.de/congress/2017/wiki/index.php/Session:Lehrerstammtisch</link>
         </links>
       </event>
-      <event id="1258" guid="c3ae84a2-4239-573e-8712-28ec5fcb18b4">
+      <event id="1259" guid="c3ae84a2-4239-573e-8712-28ec5fcb18b4">
         <logo/>
         <date>2017-12-27T16:00:00+01:00</date>
         <start>16:00</start>
@@ -1086,7 +1110,7 @@ happened this year, and what will happen in the next year.</description>
       </event>
     </room>
     <room name="Kidspace">
-      <event id="1232" guid="b979aa39-50ff-54c7-a17d-945bf83aeae8">
+      <event id="1233" guid="b979aa39-50ff-54c7-a17d-945bf83aeae8">
         <logo/>
         <date>2017-12-27T12:00:00+01:00</date>
         <start>12:00</start>
@@ -1105,7 +1129,7 @@ happened this year, and what will happen in the next year.</description>
           <link>https://events.ccc.de/congress/2017/wiki/index.php/Session:Throwies</link>
         </links>
       </event>
-      <event id="1240" guid="f6f5392f-9e66-5113-9ba4-1adb4475403f">
+      <event id="1241" guid="f6f5392f-9e66-5113-9ba4-1adb4475403f">
         <logo/>
         <date>2017-12-27T13:00:00+01:00</date>
         <start>13:00</start>
@@ -1169,7 +1193,7 @@ happened this year, and what will happen in the next year.</description>
           <link>https://events.ccc.de/congress/2017/wiki/index.php/Session:Letter_writing_to_prisoners,_sitting_in_jail_for_hacking</link>
         </links>
       </event>
-      <event id="1243" guid="880dd927-8bf9-5ebc-84b1-37121654115a">
+      <event id="1244" guid="880dd927-8bf9-5ebc-84b1-37121654115a">
         <logo/>
         <date>2017-12-27T18:00:00+01:00</date>
         <start>18:00</start>
@@ -1385,7 +1409,7 @@ This session will help you with any questions how to install an provider instanc
           <link>https://events.ccc.de/congress/2017/wiki/index.php/Session:Structures_for_self_organised_societies</link>
         </links>
       </event>
-      <event id="1247" guid="7deba670-d85a-53ba-a5a5-184064dc1208">
+      <event id="1248" guid="7deba670-d85a-53ba-a5a5-184064dc1208">
         <logo/>
         <date>2017-12-28T14:00:00+01:00</date>
         <start>14:00</start>
@@ -1471,7 +1495,7 @@ This session will help you with any questions how to install an provider instanc
           <link>https://events.ccc.de/congress/2017/wiki/index.php/Session:KinkyGeeks_Bondage_Workshop</link>
         </links>
       </event>
-      <event id="1237" guid="bb98f348-61fe-52b9-b6e7-6ac5c24534f5">
+      <event id="1238" guid="bb98f348-61fe-52b9-b6e7-6ac5c24534f5">
         <logo/>
         <date>2017-12-28T17:30:00+01:00</date>
         <start>17:30</start>
@@ -1490,7 +1514,7 @@ This session will help you with any questions how to install an provider instanc
           <link>https://events.ccc.de/congress/2017/wiki/index.php/Session:Translation_Team</link>
         </links>
       </event>
-      <event id="1248" guid="b0a5441a-2022-58fd-ab31-740bfb48653c">
+      <event id="1249" guid="b0a5441a-2022-58fd-ab31-740bfb48653c">
         <logo/>
         <date>2017-12-28T14:00:00+01:00</date>
         <start>14:00</start>
@@ -2100,7 +2124,7 @@ Du bist ein Fan der drei Fragezeichen? Du suchst Gleichgesinnte oder hoffst, das
           <link>https://events.ccc.de/congress/2017/wiki/index.php/Session:Sind_wir_schon_Cyborgs%3F</link>
         </links>
       </event>
-      <event id="1251" guid="9df8017b-a809-5dc5-9221-877630ad3c36">
+      <event id="1252" guid="9df8017b-a809-5dc5-9221-877630ad3c36">
         <logo/>
         <date>2017-12-28T14:00:00+01:00</date>
         <start>14:00</start>
@@ -2465,7 +2489,7 @@ Bausätze Löten</description>
           <link>https://events.ccc.de/congress/2017/wiki/index.php/Session:Chaos_Macht_Schule_L%C3%B6tworkshop</link>
         </links>
       </event>
-      <event id="1239" guid="239583dc-ae23-53c7-8a47-1b6940e4ea3d">
+      <event id="1240" guid="239583dc-ae23-53c7-8a47-1b6940e4ea3d">
         <logo/>
         <date>2017-12-28T12:00:00+01:00</date>
         <start>12:00</start>
@@ -2548,7 +2572,7 @@ Bausätze Löten</description>
           <link>https://events.ccc.de/congress/2017/wiki/index.php/Session:Radio_Neu</link>
         </links>
       </event>
-      <event id="1246" guid="88af4d81-1c8b-5b2e-9610-ddd10a8952db">
+      <event id="1247" guid="88af4d81-1c8b-5b2e-9610-ddd10a8952db">
         <logo/>
         <date>2017-12-28T14:00:00+01:00</date>
         <start>14:00</start>
@@ -2673,7 +2697,7 @@ Bausätze Löten</description>
           <link>https://events.ccc.de/congress/2017/wiki/index.php/Session:Sorting_data_by_formulas</link>
         </links>
       </event>
-      <event id="1244" guid="27599550-13c5-519f-96c3-038a2ef89094">
+      <event id="1245" guid="27599550-13c5-519f-96c3-038a2ef89094">
         <logo/>
         <date>2017-12-28T18:00:00+01:00</date>
         <start>18:00</start>
@@ -2926,7 +2950,7 @@ Bausätze Löten</description>
           <link>https://events.ccc.de/congress/2017/wiki/index.php/Session:Regiotreffen</link>
         </links>
       </event>
-      <event id="1233" guid="afefe179-71ad-598d-8feb-77c22e109cc2">
+      <event id="1234" guid="afefe179-71ad-598d-8feb-77c22e109cc2">
         <logo/>
         <date>2017-12-29T22:00:00+01:00</date>
         <start>22:00</start>
@@ -2948,7 +2972,7 @@ Bausätze Löten</description>
           <link>https://events.ccc.de/congress/2017/wiki/index.php/Session:Tor_Q%26A</link>
         </links>
       </event>
-      <event id="1253" guid="e5516ab8-8f92-59c9-9d5d-f1b665ab35e0">
+      <event id="1254" guid="e5516ab8-8f92-59c9-9d5d-f1b665ab35e0">
         <logo/>
         <date>2017-12-29T13:45:00+01:00</date>
         <start>13:45</start>
@@ -3158,7 +3182,7 @@ Bausätze Löten</description>
           <link>https://events.ccc.de/congress/2017/wiki/index.php/Session:Limlug:_In_der_Weihnachtsb%C3%A4ckerei_-_Data_Science_und_Kekse</link>
         </links>
       </event>
-      <event id="1255" guid="2c598879-fce7-5c4e-ab68-b964390b0636">
+      <event id="1256" guid="2c598879-fce7-5c4e-ab68-b964390b0636">
         <logo/>
         <date>2017-12-29T14:00:00+01:00</date>
         <start>14:00</start>
@@ -3180,7 +3204,7 @@ Bausätze Löten</description>
           <link>https://events.ccc.de/congress/2017/wiki/index.php/Session:Ybti%2Bwefixthenet</link>
         </links>
       </event>
-      <event id="1256" guid="6d977631-37df-5373-a05b-7465faa06531">
+      <event id="1257" guid="6d977631-37df-5373-a05b-7465faa06531">
         <logo/>
         <date>2017-12-29T18:00:00+01:00</date>
         <start>18:00</start>
@@ -3463,7 +3487,7 @@ This session will help you with any questions how to install an provider instanc
           <link>https://events.ccc.de/congress/2017/wiki/index.php/Session:MASKIERTE_GRUPPENDYNAMIK</link>
         </links>
       </event>
-      <event id="1245" guid="09214919-2a1a-5e58-ac8f-cf733ad06d7f">
+      <event id="1246" guid="09214919-2a1a-5e58-ac8f-cf733ad06d7f">
         <logo/>
         <date>2017-12-29T20:00:00+01:00</date>
         <start>20:00</start>
@@ -3482,7 +3506,7 @@ This session will help you with any questions how to install an provider instanc
           <link>https://events.ccc.de/congress/2017/wiki/index.php/Session:Warum_Trump_tickt_wie_er_tickt</link>
         </links>
       </event>
-      <event id="1252" guid="314b790b-ea14-5234-961b-1e6f505e3171">
+      <event id="1253" guid="314b790b-ea14-5234-961b-1e6f505e3171">
         <logo/>
         <date>2017-12-29T14:00:00+01:00</date>
         <start>14:00</start>
@@ -3606,7 +3630,7 @@ This session will help you with any questions how to install an provider instanc
           <link>https://events.ccc.de/congress/2017/wiki/index.php/Session:Interledger:_Streaming_Micropayments_%2B_Connecting_(Crypto)Currencies</link>
         </links>
       </event>
-      <event id="1238" guid="f3a30985-fc90-51f2-baa3-a07d034bffcc">
+      <event id="1239" guid="f3a30985-fc90-51f2-baa3-a07d034bffcc">
         <logo/>
         <date>2017-12-29T17:30:00+01:00</date>
         <start>17:30</start>
@@ -4021,7 +4045,7 @@ Ich möchte dieses Konzept gerne mit Kindern umsetzen; ohne Computer ;0)</descri
   </day>
   <day date="2017-12-30" index="5" end="2017-12-30T23:00:00+01:00" start="2017-12-30T06:00:00+01:00">
     <room name="Komona Coral Reef">
-      <event id="1254" guid="39ff4e97-ab24-5404-b129-f804123be05c">
+      <event id="1255" guid="39ff4e97-ab24-5404-b129-f804123be05c">
         <logo/>
         <date>2017-12-30T14:00:00+01:00</date>
         <start>14:00</start>
@@ -4089,7 +4113,7 @@ Learn the legal frame of self defence in Germany/Switzerland, the communication 
       </event>
     </room>
     <room name="Lecture room 12">
-      <event id="1257" guid="42b4266c-806b-5eb0-a07d-f4e76e804a79">
+      <event id="1258" guid="42b4266c-806b-5eb0-a07d-f4e76e804a79">
         <logo/>
         <date>2017-12-30T14:30:00+01:00</date>
         <start>14:30</start>

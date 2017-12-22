@@ -136,7 +136,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1235, 
+                                "id": 1236, 
                                 "guid": "2f8b0e3d-e4bc-56f3-a96d-3c7559fd753f", 
                                 "logo": null, 
                                 "date": "2017-12-26T20:00:00+01:00", 
@@ -271,7 +271,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1241, 
+                                "id": 1242, 
                                 "guid": "60b5bdfd-9d8a-5bcc-a0a7-f2fc485459b5", 
                                 "logo": null, 
                                 "date": "2017-12-27T20:00:00+01:00", 
@@ -323,7 +323,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1234, 
+                                "id": 1235, 
                                 "guid": "a7db74b6-1abd-56ab-9545-98de748d071c", 
                                 "logo": null, 
                                 "date": "2017-12-27T18:30:00+01:00", 
@@ -350,7 +350,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1236, 
+                                "id": 1237, 
                                 "guid": "ff42e72c-d902-5009-b2dd-f7c515811d70", 
                                 "logo": null, 
                                 "date": "2017-12-27T17:30:00+01:00", 
@@ -504,6 +504,34 @@
                                     "http://secushare.cheettyiapsyciew.onion", 
                                     "https://events.ccc.de/congress/2017/wiki/index.php/Session:Scalable_and_privacy-respectful_distributed_systems"
                                 ]
+                            }, 
+                            {
+                                "id": 1232, 
+                                "guid": "c9c33929-ced3-5893-8f18-71339111ef64", 
+                                "logo": null, 
+                                "date": "2017-12-27T14:00:00+01:00", 
+                                "start": "14:00", 
+                                "duration": "0:45", 
+                                "room": "Chaos West Stage", 
+                                "slug": "", 
+                                "title": "Three Ways to Enhance Metadata Protection Beyond Tor", 
+                                "subtitle": "secushare.org", 
+                                "track": "self organized sessions", 
+                                "type": "talk", 
+                                "language": "en", 
+                                "abstract": "", 
+                                "description": "1. the *cover traffic* from file sharing, DHT and eventually multicast;\n2. the *framing* of application data,\n3. *mixnets* for high-latency applications.", 
+                                "persons": [
+                                    {
+                                        "id": 0, 
+                                        "url": "https://events.ccc.de/congress/2017/wiki/index.php/User:LynX", 
+                                        "public_name": "LynX"
+                                    }
+                                ], 
+                                "links": [
+                                    "http://secushare.cheettyiapsyciew.onion/anonymity", 
+                                    "https://events.ccc.de/congress/2017/wiki/index.php/Session:Three_Ways_to_Enhance_Metadata_Protection_Beyond_Tor"
+                                ]
                             }
                         ], 
                         "Lecture room 12": [
@@ -535,7 +563,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1258, 
+                                "id": 1259, 
                                 "guid": "c3ae84a2-4239-573e-8712-28ec5fcb18b4", 
                                 "logo": null, 
                                 "date": "2017-12-27T16:00:00+01:00", 
@@ -1258,7 +1286,7 @@
                         ], 
                         "Kidspace": [
                             {
-                                "id": 1232, 
+                                "id": 1233, 
                                 "guid": "b979aa39-50ff-54c7-a17d-945bf83aeae8", 
                                 "logo": null, 
                                 "date": "2017-12-27T12:00:00+01:00", 
@@ -1279,7 +1307,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1240, 
+                                "id": 1241, 
                                 "guid": "f6f5392f-9e66-5113-9ba4-1adb4475403f", 
                                 "logo": null, 
                                 "date": "2017-12-27T13:00:00+01:00", 
@@ -1353,7 +1381,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1243, 
+                                "id": 1244, 
                                 "guid": "880dd927-8bf9-5ebc-84b1-37121654115a", 
                                 "logo": null, 
                                 "date": "2017-12-27T18:00:00+01:00", 
@@ -1609,7 +1637,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1247, 
+                                "id": 1248, 
                                 "guid": "7deba670-d85a-53ba-a5a5-184064dc1208", 
                                 "logo": null, 
                                 "date": "2017-12-28T14:00:00+01:00", 
@@ -1715,7 +1743,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1237, 
+                                "id": 1238, 
                                 "guid": "bb98f348-61fe-52b9-b6e7-6ac5c24534f5", 
                                 "logo": null, 
                                 "date": "2017-12-28T17:30:00+01:00", 
@@ -1736,7 +1764,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1248, 
+                                "id": 1249, 
                                 "guid": "b0a5441a-2022-58fd-ab31-740bfb48653c", 
                                 "logo": null, 
                                 "date": "2017-12-28T14:00:00+01:00", 
@@ -2448,7 +2476,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1251, 
+                                "id": 1252, 
                                 "guid": "9df8017b-a809-5dc5-9221-877630ad3c36", 
                                 "logo": null, 
                                 "date": "2017-12-28T14:00:00+01:00", 
@@ -2875,7 +2903,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1239, 
+                                "id": 1240, 
                                 "guid": "239583dc-ae23-53c7-8a47-1b6940e4ea3d", 
                                 "logo": null, 
                                 "date": "2017-12-28T12:00:00+01:00", 
@@ -2970,7 +2998,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1246, 
+                                "id": 1247, 
                                 "guid": "88af4d81-1c8b-5b2e-9610-ddd10a8952db", 
                                 "logo": null, 
                                 "date": "2017-12-28T14:00:00+01:00", 
@@ -3119,7 +3147,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1244, 
+                                "id": 1245, 
                                 "guid": "27599550-13c5-519f-96c3-038a2ef89094", 
                                 "logo": null, 
                                 "date": "2017-12-28T18:00:00+01:00", 
@@ -3430,7 +3458,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1233, 
+                                "id": 1234, 
                                 "guid": "afefe179-71ad-598d-8feb-77c22e109cc2", 
                                 "logo": null, 
                                 "date": "2017-12-29T22:00:00+01:00", 
@@ -3458,7 +3486,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1253, 
+                                "id": 1254, 
                                 "guid": "e5516ab8-8f92-59c9-9d5d-f1b665ab35e0", 
                                 "logo": null, 
                                 "date": "2017-12-29T13:45:00+01:00", 
@@ -3712,7 +3740,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1255, 
+                                "id": 1256, 
                                 "guid": "2c598879-fce7-5c4e-ab68-b964390b0636", 
                                 "logo": null, 
                                 "date": "2017-12-29T14:00:00+01:00", 
@@ -3740,7 +3768,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1256, 
+                                "id": 1257, 
                                 "guid": "6d977631-37df-5373-a05b-7465faa06531", 
                                 "logo": null, 
                                 "date": "2017-12-29T18:00:00+01:00", 
@@ -4059,7 +4087,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1245, 
+                                "id": 1246, 
                                 "guid": "09214919-2a1a-5e58-ac8f-cf733ad06d7f", 
                                 "logo": null, 
                                 "date": "2017-12-29T20:00:00+01:00", 
@@ -4080,7 +4108,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1252, 
+                                "id": 1253, 
                                 "guid": "314b790b-ea14-5234-961b-1e6f505e3171", 
                                 "logo": null, 
                                 "date": "2017-12-29T14:00:00+01:00", 
@@ -4228,7 +4256,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1238, 
+                                "id": 1239, 
                                 "guid": "f3a30985-fc90-51f2-baa3-a07d034bffcc", 
                                 "logo": null, 
                                 "date": "2017-12-29T17:30:00+01:00", 
@@ -4699,7 +4727,7 @@
                     "rooms": {
                         "Komona Coral Reef": [
                             {
-                                "id": 1254, 
+                                "id": 1255, 
                                 "guid": "39ff4e97-ab24-5404-b129-f804123be05c", 
                                 "logo": null, 
                                 "date": "2017-12-30T14:00:00+01:00", 
@@ -4778,7 +4806,7 @@
                         ], 
                         "Lecture room 12": [
                             {
-                                "id": 1257, 
+                                "id": 1258, 
                                 "guid": "42b4266c-806b-5eb0-a07d-f4e76e804a79", 
                                 "logo": null, 
                                 "date": "2017-12-30T14:30:00+01:00", 

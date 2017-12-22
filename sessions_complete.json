@@ -2535,6 +2535,58 @@
             "1514606400"
         ]
     }, 
+    "Session:Three Ways to Enhance Metadata Protection Beyond Tor# 25f2f9fab8376f6993b7d51e80d4172d": {
+        "Held in language": [
+            "en - English"
+        ], 
+        "Has start time": [
+            "1514383200"
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [
+            "http://secushare.cheettyiapsyciew.onion/anonymity"
+        ], 
+        "Has description": [
+            "1. the *cover traffic* from file sharing, DHT and eventually multicast;\n2. the *framing* of application data,\n3. *mixnets* for high-latency applications."
+        ], 
+        "Has session type": [
+            "Talk"
+        ], 
+        "Has session location": [
+            {
+                "fulltext": "Room:Chaos West Stage", 
+                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Room:Chaos_West_Stage", 
+                "namespace": 516, 
+                "exists": true
+            }
+        ], 
+        "Has subtitle": [
+            "secushare.org"
+        ], 
+        "Is organized by": [
+            {
+                "fulltext": "User:LynX", 
+                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/User:LynX", 
+                "namespace": 2, 
+                "exists": true
+            }
+        ], 
+        "Has title": [
+            "Three Ways to Enhance Metadata Protection Beyond Tor"
+        ], 
+        "Has duration": [
+            45
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:Three_Ways_to_Enhance_Metadata_Protection_Beyond_Tor", 
+        "Has end time": [
+            "1514385900"
+        ]
+    }, 
     "Session:MASKIERTE GRUPPENDYNAMIK# 82cd529b840464c1341742edb5852bd7": {
         "Held in language": [
             "de - German"
@@ -10596,7 +10648,7 @@
                 "fulltext": "User:LynX", 
                 "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/User:LynX", 
                 "namespace": 2, 
-                "exists": false
+                "exists": true
             }
         ], 
         "Has title": [
