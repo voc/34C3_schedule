@@ -6052,45 +6052,55 @@
             "1514409300"
         ]
     }, 
-    "Session:Learning to draw for techies# 1b0d5f254b1639f1052f7aed85e465d0": {
+    "Session:Hessentrojaner Meetup# 633a78ebe0699f4dcdaad66afc0861f5": {
         "Held in language": [
+            "de - German", 
             "en - English"
         ], 
         "Has start time": [
-            "1514462400"
+            "1514482200"
         ], 
         "Has event track": [
             "Session"
         ], 
-        "Has website": [], 
+        "Has website": [
+            "http://www.hessentrojaner.de"
+        ], 
         "Has description": [
-            "We will learn mental models and techniques that anybody can use to learn how to draw and improve. You will not think of drawing as an entirely abstract, fuzzy process anymore. Also, we are going to draw cute animals."
+            "Lasst uns \u00fcber den geplanten Staatstrojaner f\u00fcr den Verfassungsschutz in Hessen sprechen (www.hessentrojaner.de). Wir wollen ein wenig auf die bisherigen Geschehnisse zur\u00fcckblicken und nat\u00fcrlich auch \u00fcber das weitere Vorgehen reden. Nat\u00fcrlich freuen wir uns auch \u00fcber Besucher aus anderen Bundesl\u00e4ndern (insb. aus NRW ;))."
         ], 
         "Has session type": [
-            "Workshop"
+            "Meeting"
         ], 
         "Has session location": [
             {
-                "fulltext": "Komona Coral Reef", 
-                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Komona_Coral_Reef", 
-                "namespace": 0, 
-                "exists": false
+                "fulltext": "Room:Seminar room 14-15", 
+                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Room:Seminar_room_14-15", 
+                "namespace": 516, 
+                "exists": true
             }
         ], 
         "Has subtitle": [], 
-        "Is organized by": [], 
+        "Is organized by": [
+            {
+                "fulltext": "User:Fluxx", 
+                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/User:Fluxx", 
+                "namespace": 2, 
+                "exists": true
+            }
+        ], 
         "Has title": [
-            "Learning to draw for techies"
+            "Hessentrojaner Meetup"
         ], 
         "Has duration": [
-            105
+            30
         ], 
         "Has color": [
             "#0099ab"
         ], 
-        "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:Learning_to_draw_for_techies", 
+        "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:Hessentrojaner_Meetup", 
         "Has end time": [
-            "1514468700"
+            "1514484000"
         ]
     }, 
     "Session:IOSRE# b605d239e676c5c3ac5a4f595c8d429a": {
@@ -8561,6 +8571,47 @@
         "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:Interledger:_Streaming_Micropayments_%2B_Connecting_(Crypto)Currencies", 
         "Has end time": [
             "1514575800"
+        ]
+    }, 
+    "Session:Learning to draw for techies# 1b0d5f254b1639f1052f7aed85e465d0": {
+        "Held in language": [
+            "en - English"
+        ], 
+        "Has start time": [
+            "1514462400"
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [], 
+        "Has description": [
+            "We will learn mental models and techniques that anybody can use to learn how to draw and improve. You will not think of drawing as an entirely abstract, fuzzy process anymore. Also, we are going to draw cute animals."
+        ], 
+        "Has session type": [
+            "Workshop"
+        ], 
+        "Has session location": [
+            {
+                "fulltext": "Komona Coral Reef", 
+                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Komona_Coral_Reef", 
+                "namespace": 0, 
+                "exists": false
+            }
+        ], 
+        "Has subtitle": [], 
+        "Is organized by": [], 
+        "Has title": [
+            "Learning to draw for techies"
+        ], 
+        "Has duration": [
+            105
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:Learning_to_draw_for_techies", 
+        "Has end time": [
+            "1514468700"
         ]
     }, 
     "Session:Surface mount electronics assembly for terrified beginners# 0e0fcee06f056fd5928c4db233a77151": {
