@@ -3063,13 +3063,13 @@
             "1514464200"
         ]
     }, 
-    "Session:Rights&Freedoms# 2c5fb29f216d4f6be50530c8fd10d418": {
+    "Session:Rights&Freedoms# 8c02998822f5427a1c1889e3cd5c325b": {
         "Held in language": [
             "de - German", 
             "en - English"
         ], 
         "Has start time": [
-            "1514469600"
+            "1514574000"
         ], 
         "Has event track": [
             "Session"
@@ -3090,7 +3090,7 @@
             }
         ], 
         "Has subtitle": [
-            "Privacy aware city navigation with free software (Redon Skikuli)"
+            "Public money? Public code! (Polina Malaja and Katharina Nocun)"
         ], 
         "Is organized by": [], 
         "Has title": [
@@ -3104,7 +3104,7 @@
         ], 
         "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:Rights%26Freedoms", 
         "Has end time": [
-            "1514473200"
+            "1514577600"
         ]
     }, 
     "Session:Chaos-Notizen# f90aa84469346a8747b774faaf1509e0": {
@@ -3648,6 +3648,50 @@
         "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:Geschichten_aus_dem_Krieg", 
         "Has end time": [
             "1514478600"
+        ]
+    }, 
+    "Session:Rights&Freedoms# 2c5fb29f216d4f6be50530c8fd10d418": {
+        "Held in language": [
+            "de - German", 
+            "en - English"
+        ], 
+        "Has start time": [
+            "1514469600"
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [], 
+        "Has description": [
+            "Rights & Freedoms Cluster Stage Programme"
+        ], 
+        "Has session type": [
+            "Talk"
+        ], 
+        "Has session location": [
+            {
+                "fulltext": "Room:CCL Hall 3", 
+                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Room:CCL_Hall_3", 
+                "namespace": 516, 
+                "exists": true
+            }
+        ], 
+        "Has subtitle": [
+            "Privacy aware city navigation with free software (Redon Skikuli)"
+        ], 
+        "Is organized by": [], 
+        "Has title": [
+            "Rights&Freedoms"
+        ], 
+        "Has duration": [
+            60
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:Rights%26Freedoms", 
+        "Has end time": [
+            "1514473200"
         ]
     }, 
     "Session:Newpipe# 1a072767ca874cfe7fca82413e129a3d": {
@@ -4974,6 +5018,43 @@
             "1514570400"
         ]
     }, 
+    "Session:Reclaim Club Culture# ead610a04177afef415f9de102ff84c2": {
+        "Held in language": [], 
+        "Has start time": [
+            "1514390400"
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [], 
+        "Has description": [], 
+        "Has session type": [], 
+        "Has session location": [
+            {
+                "fulltext": "Room:Komona D.Ressrosa", 
+                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Room:Komona_D.Ressrosa", 
+                "namespace": 516, 
+                "exists": true
+            }
+        ], 
+        "Has subtitle": [
+            "Soundradikalit\u00e4t und Clubkommunalit\u00e4t (Jukebox Utopia (WiseUp) und Lukas Fakegruber (Shituationist Institute))"
+        ], 
+        "Is organized by": [], 
+        "Has title": [
+            "Reclaim Club Culture"
+        ], 
+        "Has duration": [
+            120
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:Reclaim_Club_Culture", 
+        "Has end time": [
+            "1514397600"
+        ]
+    }, 
     "Session:Whisky# 2ad663eff9687e07f176548adda735f3": {
         "Held in language": [
             "de - German", 
@@ -5158,39 +5239,47 @@
             "1514487600"
         ]
     }, 
-    "Session:Reclaim Club Culture# 0a195ee617e4287076d5bd4c367cb74f": {
-        "Held in language": [], 
+    "Session:Translation Team# 1c363592c43291321798eb23c0b115f0": {
+        "Held in language": [
+            "en - English"
+        ], 
         "Has start time": [
-            "1514390400"
+            "1514482200"
         ], 
         "Has event track": [
             "Session"
         ], 
         "Has website": [], 
-        "Has description": [], 
-        "Has session type": [], 
+        "Has description": [
+            "Daily orga meeting of the Translation Angel crew."
+        ], 
+        "Has session type": [
+            "Meeting"
+        ], 
         "Has session location": [
             {
-                "fulltext": "Room:Komona D.Ressrosa", 
-                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Room:Komona_D.Ressrosa", 
+                "fulltext": "Room:Lecture room 11", 
+                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Room:Lecture_room_11", 
                 "namespace": 516, 
                 "exists": true
             }
         ], 
-        "Has subtitle": [], 
+        "Has subtitle": [
+            "Translation Angel Meeting Day 2"
+        ], 
         "Is organized by": [], 
         "Has title": [
-            "Reclaim Club Culture"
+            "Translation Team"
         ], 
         "Has duration": [
-            120
+            60
         ], 
         "Has color": [
             "#0099ab"
         ], 
-        "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:Reclaim_Club_Culture", 
+        "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:Translation_Team", 
         "Has end time": [
-            "1514397600"
+            "1514485800"
         ]
     }, 
     "Session:TeaHouse# 7ba0aa55eaffb89b77ee77e479b6d115": {
@@ -7141,49 +7230,6 @@
             "1514565900"
         ]
     }, 
-    "Session:Translation Team# 1c363592c43291321798eb23c0b115f0": {
-        "Held in language": [
-            "en - English"
-        ], 
-        "Has start time": [
-            "1514482200"
-        ], 
-        "Has event track": [
-            "Session"
-        ], 
-        "Has website": [], 
-        "Has description": [
-            "Daily orga meeting of the Translation Angel crew."
-        ], 
-        "Has session type": [
-            "Meeting"
-        ], 
-        "Has session location": [
-            {
-                "fulltext": "Room:Lecture room 11", 
-                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Room:Lecture_room_11", 
-                "namespace": 516, 
-                "exists": true
-            }
-        ], 
-        "Has subtitle": [
-            "Translation Angel Meeting Day 2"
-        ], 
-        "Is organized by": [], 
-        "Has title": [
-            "Translation Team"
-        ], 
-        "Has duration": [
-            60
-        ], 
-        "Has color": [
-            "#0099ab"
-        ], 
-        "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:Translation_Team", 
-        "Has end time": [
-            "1514485800"
-        ]
-    }, 
     "Session:Bitmask/LEAP workshop# e2df524a90bdfc10594f96e0b013a7e2": {
         "Held in language": [
             "en - English"
@@ -8435,50 +8481,6 @@
         "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:Rights%26Freedoms", 
         "Has end time": [
             "1514480400"
-        ]
-    }, 
-    "Session:Rights&Freedoms# 8c02998822f5427a1c1889e3cd5c325b": {
-        "Held in language": [
-            "de - German", 
-            "en - English"
-        ], 
-        "Has start time": [
-            "1514574000"
-        ], 
-        "Has event track": [
-            "Session"
-        ], 
-        "Has website": [], 
-        "Has description": [
-            "Rights & Freedoms Cluster Stage Programme"
-        ], 
-        "Has session type": [
-            "Talk"
-        ], 
-        "Has session location": [
-            {
-                "fulltext": "Room:CCL Hall 3", 
-                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Room:CCL_Hall_3", 
-                "namespace": 516, 
-                "exists": true
-            }
-        ], 
-        "Has subtitle": [
-            "Public money? Public code! (Polina Malaja and Katharina Nocun)"
-        ], 
-        "Is organized by": [], 
-        "Has title": [
-            "Rights&Freedoms"
-        ], 
-        "Has duration": [
-            60
-        ], 
-        "Has color": [
-            "#0099ab"
-        ], 
-        "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:Rights%26Freedoms", 
-        "Has end time": [
-            "1514577600"
         ]
     }, 
     "Session:Language Confusion# 9ff2d643a1059a5236f74bbfc8ff1ae8": {
