@@ -3415,13 +3415,13 @@
             "1514505540"
         ]
     }, 
-    "Session:Rights&Freedoms# 81655bd36bd56fe173104843095c2ba2": {
+    "Session:Rights&Freedoms# 7d2d86410076ca427ce948aed1a2d7eb": {
         "Held in language": [
             "de - German", 
             "en - English"
         ], 
         "Has start time": [
-            "1514480400"
+            "1514563200"
         ], 
         "Has event track": [
             "Session"
@@ -3442,21 +3442,21 @@
             }
         ], 
         "Has subtitle": [
-            "Strategic litigation in Germany- complaints to stop mass surveillance (Ulf Buermeyer, GFF)"
+            "Fixing mass surveillance: one court case at a time! (Exegetes)"
         ], 
         "Is organized by": [], 
         "Has title": [
             "Rights&Freedoms"
         ], 
         "Has duration": [
-            60
+            120
         ], 
         "Has color": [
             "#0099ab"
         ], 
         "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:Rights%26Freedoms", 
         "Has end time": [
-            "1514484000"
+            "1514570400"
         ]
     }, 
     "Session:Talks# 8c3500a10da1a56fe538738ad1c21dde": {
@@ -5404,54 +5404,89 @@
             "1514492100"
         ]
     }, 
-    "Session:Surface mount electronics assembly for terrified beginners# b9662feda3a9298d69da418721273cd7": {
-        "Held in language": [
-            "en - English"
-        ], 
+    "Session:\"Pen&Paper\" Game Jam# eec53af46aac3187e8d93b805bf562a4": {
+        "Held in language": [], 
         "Has start time": [
-            "1514575800"
+            "1514631600"
         ], 
         "Has event track": [
             "Session"
         ], 
         "Has website": [], 
         "Has description": [
-            "Surface mount electronics for terrified beginners. Learn to assemble tiny parts on circuit boards by building a working power supply. Anyone can do it. Yes, even you who never touched anything electronic before. 90-100mins, 20\u20ac/kit, avoid caffeine immediately before. Max 20 participants per session, there will be a PAPER!!1! signup list in the hardware hacking area."
+            "Ich w\u00fcrde gernen einen Workshop organisieren, genauer einen pen&paper mini \"Game Jam\".\nHierbei finden sich normalerweise aus allen Disziplinen der Gamesbranche Beteiligte zusammen um in einem lockeren Umfeld Spiele/Spielideen zu entwickeln.\nIch m\u00f6chte dieses Konzept gerne mit Kindern umsetzen; ohne Computer ;0)"
         ], 
         "Has session type": [
-            "Workshop"
+            "Game"
         ], 
         "Has session location": [
             {
-                "fulltext": "Assembly:HardwareHackingArea", 
-                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Assembly:HardwareHackingArea", 
-                "namespace": 504, 
+                "fulltext": "Room:Kidspace", 
+                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Room:Kidspace", 
+                "namespace": 516, 
                 "exists": true
             }
         ], 
         "Has subtitle": [
-            "Day 3 Session 3"
+            "Workshop"
         ], 
-        "Is organized by": [
-            {
-                "fulltext": "User:Kliment", 
-                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/User:Kliment", 
-                "namespace": 2, 
-                "exists": true
-            }
-        ], 
+        "Is organized by": [], 
         "Has title": [
-            "Surface mount electronics assembly for terrified beginners"
+            "\"Pen&Paper\" Game Jam"
         ], 
         "Has duration": [
-            90
+            60
         ], 
         "Has color": [
             "#0099ab"
         ], 
-        "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:Surface_mount_electronics_assembly_for_terrified_beginners", 
+        "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:%22Pen%26Paper%22_Game_Jam", 
         "Has end time": [
-            "1514581200"
+            "1514635200"
+        ]
+    }, 
+    "Session:Rights&Freedoms# 81655bd36bd56fe173104843095c2ba2": {
+        "Held in language": [
+            "de - German", 
+            "en - English"
+        ], 
+        "Has start time": [
+            "1514480400"
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [], 
+        "Has description": [
+            "Rights & Freedoms Cluster Stage Programme"
+        ], 
+        "Has session type": [
+            "Talk"
+        ], 
+        "Has session location": [
+            {
+                "fulltext": "Room:CCL Hall 3", 
+                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Room:CCL_Hall_3", 
+                "namespace": 516, 
+                "exists": true
+            }
+        ], 
+        "Has subtitle": [
+            "Strategic litigation in Germany- complaints to stop mass surveillance (Ulf Buermeyer, GFF)"
+        ], 
+        "Is organized by": [], 
+        "Has title": [
+            "Rights&Freedoms"
+        ], 
+        "Has duration": [
+            60
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:Rights%26Freedoms", 
+        "Has end time": [
+            "1514484000"
         ]
     }, 
     "Session:How does artificial intelligence accomplish the feat of learning? (Wondrous Mathematics)# 92d5dba90bd489895fba597a036bfb18": {
@@ -5980,6 +6015,54 @@
             "1514491200"
         ]
     }, 
+    "Session:Replicant Install Fest# 93ac2bc2002e160cb09a006d7e23d4ff": {
+        "Held in language": [
+            "en - English"
+        ], 
+        "Has start time": [
+            "1514556000"
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [], 
+        "Has description": [
+            "Replicant is a 100% Free Software operating system for mobile devices. We are two hackers that help you to choose freedom and run your phone with Replicant!"
+        ], 
+        "Has session type": [
+            "Hands-On"
+        ], 
+        "Has session location": [
+            {
+                "fulltext": "Room:Lecture room 12", 
+                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Room:Lecture_room_12", 
+                "namespace": 516, 
+                "exists": true
+            }
+        ], 
+        "Has subtitle": [], 
+        "Is organized by": [
+            {
+                "fulltext": "User:Eal", 
+                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/User:Eal", 
+                "namespace": 2, 
+                "exists": true
+            }
+        ], 
+        "Has title": [
+            "Replicant Install Fest"
+        ], 
+        "Has duration": [
+            180
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:Replicant_Install_Fest", 
+        "Has end time": [
+            "1514566800"
+        ]
+    }, 
     "Session:The many applications of digital certificates# 29d88031ebeb02df5a9a861825eb89fb": {
         "Held in language": [
             "en - English"
@@ -6124,8 +6207,10 @@
             "1514496600"
         ]
     }, 
-    "Session:\"Pen&Paper\" Game Jam# 96b2c42aa0a15382412fe26012f3b3b6": {
-        "Held in language": [], 
+    "Session:Surface mount electronics assembly for terrified beginners# 6b3acfa8d44f2c81a768de9e7de8f3bd": {
+        "Held in language": [
+            "en - English"
+        ], 
         "Has start time": [
             "1514631600"
         ], 
@@ -6134,35 +6219,42 @@
         ], 
         "Has website": [], 
         "Has description": [
-            "Ich w\u00fcrde gernen einen Workshop organisieren, genauer einen pen&paper mini \"Game Jam\".\nHierbei finden sich normalerweise aus allen Disziplinen der Gamesbranche Beteiligte zusammen um in einem lockeren Umfeld Spiele/Spielideen zu entwickeln.\nIch m\u00f6chte dieses Konzept gerne mit Kindern umsetzen; ohne Computer ;0)"
+            "Surface mount electronics for terrified beginners. Learn to assemble tiny parts on circuit boards by building a working power supply. Anyone can do it. Yes, even you who never touched anything electronic before. 90-100mins, 20\u20ac/kit, avoid caffeine immediately before. Max 20 participants per session, there will be a PAPER!!1! signup list in the hardware hacking area."
         ], 
         "Has session type": [
-            "Game"
+            "Workshop"
         ], 
         "Has session location": [
             {
-                "fulltext": "Room:Kidspace", 
-                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Room:Kidspace", 
-                "namespace": 516, 
+                "fulltext": "Assembly:HardwareHackingArea", 
+                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Assembly:HardwareHackingArea", 
+                "namespace": 504, 
                 "exists": true
             }
         ], 
         "Has subtitle": [
-            "\"Pen&Paper\" Game workshop"
+            "Day 4 Session 1"
         ], 
-        "Is organized by": [], 
+        "Is organized by": [
+            {
+                "fulltext": "User:Kliment", 
+                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/User:Kliment", 
+                "namespace": 2, 
+                "exists": true
+            }
+        ], 
         "Has title": [
-            "\"Pen&Paper\" Game Jam"
+            "Surface mount electronics assembly for terrified beginners"
         ], 
         "Has duration": [
-            60
+            90
         ], 
         "Has color": [
             "#0099ab"
         ], 
-        "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:%22Pen%26Paper%22_Game_Jam", 
+        "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:Surface_mount_electronics_assembly_for_terrified_beginners", 
         "Has end time": [
-            "1514635200"
+            "1514637000"
         ]
     }, 
     "Session:MASKIERTE GRUPPENDYNAMIK (Henk)# 7cb07c12459e8a2ae4ec16da6ebe09af": {
@@ -7839,6 +7931,56 @@
             "1514487600"
         ]
     }, 
+    "Session:Surface mount electronics assembly for terrified beginners# b9662feda3a9298d69da418721273cd7": {
+        "Held in language": [
+            "en - English"
+        ], 
+        "Has start time": [
+            "1514575800"
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [], 
+        "Has description": [
+            "Surface mount electronics for terrified beginners. Learn to assemble tiny parts on circuit boards by building a working power supply. Anyone can do it. Yes, even you who never touched anything electronic before. 90-100mins, 20\u20ac/kit, avoid caffeine immediately before. Max 20 participants per session, there will be a PAPER!!1! signup list in the hardware hacking area."
+        ], 
+        "Has session type": [
+            "Workshop"
+        ], 
+        "Has session location": [
+            {
+                "fulltext": "Assembly:HardwareHackingArea", 
+                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Assembly:HardwareHackingArea", 
+                "namespace": 504, 
+                "exists": true
+            }
+        ], 
+        "Has subtitle": [
+            "Day 3 Session 3"
+        ], 
+        "Is organized by": [
+            {
+                "fulltext": "User:Kliment", 
+                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/User:Kliment", 
+                "namespace": 2, 
+                "exists": true
+            }
+        ], 
+        "Has title": [
+            "Surface mount electronics assembly for terrified beginners"
+        ], 
+        "Has duration": [
+            90
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:Surface_mount_electronics_assembly_for_terrified_beginners", 
+        "Has end time": [
+            "1514581200"
+        ]
+    }, 
     "Session:TeaHouse# 6f1b570a5c0e6471dc60d210b99c5ccf": {
         "Held in language": [
             "en - English"
@@ -8472,56 +8614,6 @@
         "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:Rights%26Freedoms", 
         "Has end time": [
             "1514577600"
-        ]
-    }, 
-    "Session:LearnToSolder# c7632129e25e12e1d275256f608ee1ba": {
-        "Held in language": [
-            "en - English"
-        ], 
-        "Has start time": [
-            "1514631600"
-        ], 
-        "Has event track": [
-            "Session"
-        ], 
-        "Has website": [], 
-        "Has description": [
-            "Learn to Solder!  A large variety of way cool kits are available, all designed for total beginners to complete successfully -- and intriguing enough for the total hardware geek.<br />\n<br />\n<span style=\"color:orange\">'''''This ongoing workshop will be happening concurrently with lots of other way cool workshops at the Hardware Hacking Area!'''''</span>"
-        ], 
-        "Has session type": [
-            "Workshop"
-        ], 
-        "Has session location": [
-            {
-                "fulltext": "Assembly:HardwareHackingArea", 
-                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Assembly:HardwareHackingArea", 
-                "namespace": 504, 
-                "exists": true
-            }
-        ], 
-        "Has subtitle": [
-            "Day 4"
-        ], 
-        "Is organized by": [
-            {
-                "fulltext": "User:Maltman23", 
-                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/User:Maltman23", 
-                "namespace": 2, 
-                "exists": true
-            }
-        ], 
-        "Has title": [
-            "LearnToSolder"
-        ], 
-        "Has duration": [
-            239
-        ], 
-        "Has color": [
-            "#0099ab"
-        ], 
-        "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:LearnToSolder", 
-        "Has end time": [
-            "1514645940"
         ]
     }, 
     "Session:Language Confusion# 9ff2d643a1059a5236f74bbfc8ff1ae8": {
@@ -9366,45 +9458,54 @@
             "1514476800"
         ]
     }, 
-    "Session:\"Pen&Paper\" Game Jam# d46abd7ab88f65e6cea1d1fad369a55f": {
-        "Held in language": [], 
+    "Session:LearnToSolder# c7632129e25e12e1d275256f608ee1ba": {
+        "Held in language": [
+            "en - English"
+        ], 
         "Has start time": [
-            "1514563200"
+            "1514631600"
         ], 
         "Has event track": [
             "Session"
         ], 
         "Has website": [], 
         "Has description": [
-            "Ich w\u00fcrde gernen einen Workshop organisieren, genauer einen pen&paper mini \"Game Jam\".\nHierbei finden sich normalerweise aus allen Disziplinen der Gamesbranche Beteiligte zusammen um in einem lockeren Umfeld Spiele/Spielideen zu entwickeln.\nIch m\u00f6chte dieses Konzept gerne mit Kindern umsetzen; ohne Computer ;0)"
+            "Learn to Solder!  A large variety of way cool kits are available, all designed for total beginners to complete successfully -- and intriguing enough for the total hardware geek.<br />\n<br />\n<span style=\"color:orange\">'''''This ongoing workshop will be happening concurrently with lots of other way cool workshops at the Hardware Hacking Area!'''''</span>"
         ], 
         "Has session type": [
-            "Game"
+            "Workshop"
         ], 
         "Has session location": [
             {
-                "fulltext": "Room:Kidspace", 
-                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Room:Kidspace", 
-                "namespace": 516, 
+                "fulltext": "Assembly:HardwareHackingArea", 
+                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Assembly:HardwareHackingArea", 
+                "namespace": 504, 
                 "exists": true
             }
         ], 
         "Has subtitle": [
-            "\"Pen&Paper\" Game workshop"
+            "Day 4"
         ], 
-        "Is organized by": [], 
+        "Is organized by": [
+            {
+                "fulltext": "User:Maltman23", 
+                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/User:Maltman23", 
+                "namespace": 2, 
+                "exists": true
+            }
+        ], 
         "Has title": [
-            "\"Pen&Paper\" Game Jam"
+            "LearnToSolder"
         ], 
         "Has duration": [
-            60
+            239
         ], 
         "Has color": [
             "#0099ab"
         ], 
-        "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:%22Pen%26Paper%22_Game_Jam", 
+        "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:LearnToSolder", 
         "Has end time": [
-            "1514566800"
+            "1514645940"
         ]
     }, 
     "Session:D Town, Christopher: Eigenes HackLab bauen!# b68fd9cc434114bcf9eb06cd008ffe4a": {
@@ -9866,56 +9967,6 @@
             "1514552400"
         ]
     }, 
-    "Session:Surface mount electronics assembly for terrified beginners# 6b3acfa8d44f2c81a768de9e7de8f3bd": {
-        "Held in language": [
-            "en - English"
-        ], 
-        "Has start time": [
-            "1514631600"
-        ], 
-        "Has event track": [
-            "Session"
-        ], 
-        "Has website": [], 
-        "Has description": [
-            "Surface mount electronics for terrified beginners. Learn to assemble tiny parts on circuit boards by building a working power supply. Anyone can do it. Yes, even you who never touched anything electronic before. 90-100mins, 20\u20ac/kit, avoid caffeine immediately before. Max 20 participants per session, there will be a PAPER!!1! signup list in the hardware hacking area."
-        ], 
-        "Has session type": [
-            "Workshop"
-        ], 
-        "Has session location": [
-            {
-                "fulltext": "Assembly:HardwareHackingArea", 
-                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Assembly:HardwareHackingArea", 
-                "namespace": 504, 
-                "exists": true
-            }
-        ], 
-        "Has subtitle": [
-            "Day 4 Session 1"
-        ], 
-        "Is organized by": [
-            {
-                "fulltext": "User:Kliment", 
-                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/User:Kliment", 
-                "namespace": 2, 
-                "exists": true
-            }
-        ], 
-        "Has title": [
-            "Surface mount electronics assembly for terrified beginners"
-        ], 
-        "Has duration": [
-            90
-        ], 
-        "Has color": [
-            "#0099ab"
-        ], 
-        "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:Surface_mount_electronics_assembly_for_terrified_beginners", 
-        "Has end time": [
-            "1514637000"
-        ]
-    }, 
     "Session:Surface mount electronics assembly for terrified beginners# ad2d4bc330a74b93d6809890a817b609": {
         "Held in language": [
             "en - English"
@@ -10289,6 +10340,47 @@
         "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:Numerical_Weather_Prediction_Tutorial", 
         "Has end time": [
             "1514466000"
+        ]
+    }, 
+    "Session:\"Pen&Paper\" Game Jam# 33dbda9e61f8c463561dada21f411495": {
+        "Held in language": [], 
+        "Has start time": [
+            "1514563200"
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [], 
+        "Has description": [
+            "Ich w\u00fcrde gernen einen Workshop organisieren, genauer einen pen&paper mini \"Game Jam\".\nHierbei finden sich normalerweise aus allen Disziplinen der Gamesbranche Beteiligte zusammen um in einem lockeren Umfeld Spiele/Spielideen zu entwickeln.\nIch m\u00f6chte dieses Konzept gerne mit Kindern umsetzen; ohne Computer ;0)"
+        ], 
+        "Has session type": [
+            "Game"
+        ], 
+        "Has session location": [
+            {
+                "fulltext": "Room:Kidspace", 
+                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Room:Kidspace", 
+                "namespace": 516, 
+                "exists": true
+            }
+        ], 
+        "Has subtitle": [
+            "Workshop"
+        ], 
+        "Is organized by": [], 
+        "Has title": [
+            "\"Pen&Paper\" Game Jam"
+        ], 
+        "Has duration": [
+            60
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:%22Pen%26Paper%22_Game_Jam", 
+        "Has end time": [
+            "1514566800"
         ]
     }, 
     "Session:TeaHouse# 3b9675c6c129f5dd9d1dce92e58818f2": {
@@ -10996,52 +11088,45 @@
             "1514435400"
         ]
     }, 
-    "Session:Replicant Install Fest# 93ac2bc2002e160cb09a006d7e23d4ff": {
-        "Held in language": [
-            "en - English"
-        ], 
+    "Session:\"Pen&Paper\" Game Jam# 10928c30e28d8033fa0ff229def0486e": {
+        "Held in language": [], 
         "Has start time": [
-            "1514556000"
+            "1514548800"
         ], 
         "Has event track": [
             "Session"
         ], 
         "Has website": [], 
         "Has description": [
-            "Replicant is a 100% Free Software operating system for mobile devices. We are two hackers that help you to choose freedom and run your phone with Replicant!"
+            "Ich w\u00fcrde gernen einen Workshop organisieren, genauer einen pen&paper mini \"Game Jam\".\nHierbei finden sich normalerweise aus allen Disziplinen der Gamesbranche Beteiligte zusammen um in einem lockeren Umfeld Spiele/Spielideen zu entwickeln.\nIch m\u00f6chte dieses Konzept gerne mit Kindern umsetzen; ohne Computer ;0)"
         ], 
         "Has session type": [
-            "Hands-On"
+            "Game"
         ], 
         "Has session location": [
             {
-                "fulltext": "Room:Lecture room 12", 
-                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Room:Lecture_room_12", 
+                "fulltext": "Room:Kidspace", 
+                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Room:Kidspace", 
                 "namespace": 516, 
                 "exists": true
             }
         ], 
-        "Has subtitle": [], 
-        "Is organized by": [
-            {
-                "fulltext": "User:Eal", 
-                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/User:Eal", 
-                "namespace": 2, 
-                "exists": true
-            }
+        "Has subtitle": [
+            "Workshop"
         ], 
+        "Is organized by": [], 
         "Has title": [
-            "Replicant Install Fest"
+            "\"Pen&Paper\" Game Jam"
         ], 
         "Has duration": [
-            180
+            60
         ], 
         "Has color": [
             "#0099ab"
         ], 
-        "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:Replicant_Install_Fest", 
+        "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:%22Pen%26Paper%22_Game_Jam", 
         "Has end time": [
-            "1514566800"
+            "1514552400"
         ]
     }, 
     "Session:HTML, CSS and a little bit# a1b06aa9b150f5d18d992322e1b9f6d5": {
@@ -11365,47 +11450,6 @@
         "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:TeaHouse", 
         "Has end time": [
             "1514495700"
-        ]
-    }, 
-    "Session:\"Pen&Paper\" Game Jam# 741ff1625f03002bfe4f1595c37bc9f3": {
-        "Held in language": [], 
-        "Has start time": [
-            "1514548800"
-        ], 
-        "Has event track": [
-            "Session"
-        ], 
-        "Has website": [], 
-        "Has description": [
-            "Ich w\u00fcrde gernen einen Workshop organisieren, genauer einen pen&paper mini \"Game Jam\".\nHierbei finden sich normalerweise aus allen Disziplinen der Gamesbranche Beteiligte zusammen um in einem lockeren Umfeld Spiele/Spielideen zu entwickeln.\nIch m\u00f6chte dieses Konzept gerne mit Kindern umsetzen; ohne Computer ;0)"
-        ], 
-        "Has session type": [
-            "Game"
-        ], 
-        "Has session location": [
-            {
-                "fulltext": "Room:Kidspace", 
-                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Room:Kidspace", 
-                "namespace": 516, 
-                "exists": true
-            }
-        ], 
-        "Has subtitle": [
-            "\"Pen&Paper\" Game workshop"
-        ], 
-        "Is organized by": [], 
-        "Has title": [
-            "\"Pen&Paper\" Game Jam"
-        ], 
-        "Has duration": [
-            60
-        ], 
-        "Has color": [
-            "#0099ab"
-        ], 
-        "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:%22Pen%26Paper%22_Game_Jam", 
-        "Has end time": [
-            "1514552400"
         ]
     }, 
     "Session:Mietsh\u00e4usersyndikat was ist das?# 6e24fb2d386c015174232a15d414d17d": {
@@ -11760,50 +11804,6 @@
         "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:A/V_Angel_Meeting", 
         "Has end time": [
             "1514557800"
-        ]
-    }, 
-    "Session:Rights&Freedoms# 7d2d86410076ca427ce948aed1a2d7eb": {
-        "Held in language": [
-            "de - German", 
-            "en - English"
-        ], 
-        "Has start time": [
-            "1514563200"
-        ], 
-        "Has event track": [
-            "Session"
-        ], 
-        "Has website": [], 
-        "Has description": [
-            "Rights & Freedoms Cluster Stage Programme"
-        ], 
-        "Has session type": [
-            "Talk"
-        ], 
-        "Has session location": [
-            {
-                "fulltext": "Room:CCL Hall 3", 
-                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Room:CCL_Hall_3", 
-                "namespace": 516, 
-                "exists": true
-            }
-        ], 
-        "Has subtitle": [
-            "Fixing mass surveillance: one court case at a time! (Exegetes)"
-        ], 
-        "Is organized by": [], 
-        "Has title": [
-            "Rights&Freedoms"
-        ], 
-        "Has duration": [
-            120
-        ], 
-        "Has color": [
-            "#0099ab"
-        ], 
-        "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:Rights%26Freedoms", 
-        "Has end time": [
-            "1514570400"
         ]
     }, 
     "Session:Rights&Freedoms# a53729d2c0e8aa22efa92967b930a8ff": {
