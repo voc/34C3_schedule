@@ -3467,13 +3467,13 @@
             "1514505540"
         ]
     }, 
-    "Session:Rights&Freedoms# 81655bd36bd56fe173104843095c2ba2": {
+    "Session:Rights&Freedoms# 7d2d86410076ca427ce948aed1a2d7eb": {
         "Held in language": [
             "de - German", 
             "en - English"
         ], 
         "Has start time": [
-            "1514480400"
+            "1514563200"
         ], 
         "Has event track": [
             "Session"
@@ -3494,21 +3494,21 @@
             }
         ], 
         "Has subtitle": [
-            "Strategic litigation in Germany- complaints to stop mass surveillance (Ulf Buermeyer, GFF)"
+            "Fixing mass surveillance: one court case at a time! (Exegetes)"
         ], 
         "Is organized by": [], 
         "Has title": [
             "Rights&Freedoms"
         ], 
         "Has duration": [
-            60
+            120
         ], 
         "Has color": [
             "#0099ab"
         ], 
         "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:Rights%26Freedoms", 
         "Has end time": [
-            "1514484000"
+            "1514570400"
         ]
     }, 
     "Session:Talks# 8c3500a10da1a56fe538738ad1c21dde": {
@@ -5495,6 +5495,50 @@
         "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:%22Pen%26Paper%22_Game_Jam", 
         "Has end time": [
             "1514635200"
+        ]
+    }, 
+    "Session:Rights&Freedoms# 81655bd36bd56fe173104843095c2ba2": {
+        "Held in language": [
+            "de - German", 
+            "en - English"
+        ], 
+        "Has start time": [
+            "1514480400"
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [], 
+        "Has description": [
+            "Rights & Freedoms Cluster Stage Programme"
+        ], 
+        "Has session type": [
+            "Talk"
+        ], 
+        "Has session location": [
+            {
+                "fulltext": "Room:CCL Hall 3", 
+                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Room:CCL_Hall_3", 
+                "namespace": 516, 
+                "exists": true
+            }
+        ], 
+        "Has subtitle": [
+            "Strategic litigation in Germany- complaints to stop mass surveillance (Ulf Buermeyer, GFF)"
+        ], 
+        "Is organized by": [], 
+        "Has title": [
+            "Rights&Freedoms"
+        ], 
+        "Has duration": [
+            60
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:Rights%26Freedoms", 
+        "Has end time": [
+            "1514484000"
         ]
     }, 
     "Session:How does artificial intelligence accomplish the feat of learning? (Wondrous Mathematics)# 92d5dba90bd489895fba597a036bfb18": {
@@ -9643,6 +9687,64 @@
             "1514391300"
         ]
     }, 
+    "Session:Privacy-Oriented Distributed Networking for an Ethical Internet# f08d5172c8a79263b9787b2e3188f72a": {
+        "Held in language": [
+            "en - English"
+        ], 
+        "Has start time": [
+            "1514394000"
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [
+            "https://gnunet.org"
+        ], 
+        "Has description": [
+            "How can distributed systems be the decentralized alternative we have been hoping for? And why are blockchains only one out of fifty building blocks of a distributed Internet?"
+        ], 
+        "Has session type": [
+            "Talk"
+        ], 
+        "Has session location": [
+            {
+                "fulltext": "Room:Chaos West Stage", 
+                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Room:Chaos_West_Stage", 
+                "namespace": 516, 
+                "exists": true
+            }
+        ], 
+        "Has subtitle": [
+            "including 50 subsystems of GNUnet"
+        ], 
+        "Is organized by": [
+            {
+                "fulltext": "User:LynX", 
+                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/User:LynX", 
+                "namespace": 2, 
+                "exists": true
+            }, 
+            {
+                "fulltext": "User:Grothoff", 
+                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/User:Grothoff", 
+                "namespace": 2, 
+                "exists": false
+            }
+        ], 
+        "Has title": [
+            "Privacy-Oriented Distributed Networking for an Ethical Internet"
+        ], 
+        "Has duration": [
+            60
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:Privacy-Oriented_Distributed_Networking_for_an_Ethical_Internet", 
+        "Has end time": [
+            "1514397600"
+        ]
+    }, 
     "Session:TeaHouse# 9db04c86be34dca3efeb156b2876d085": {
         "Held in language": [
             "en - English"
@@ -11763,50 +11865,6 @@
         "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:A/V_Angel_Meeting", 
         "Has end time": [
             "1514557800"
-        ]
-    }, 
-    "Session:Rights&Freedoms# 7d2d86410076ca427ce948aed1a2d7eb": {
-        "Held in language": [
-            "de - German", 
-            "en - English"
-        ], 
-        "Has start time": [
-            "1514563200"
-        ], 
-        "Has event track": [
-            "Session"
-        ], 
-        "Has website": [], 
-        "Has description": [
-            "Rights & Freedoms Cluster Stage Programme"
-        ], 
-        "Has session type": [
-            "Talk"
-        ], 
-        "Has session location": [
-            {
-                "fulltext": "Room:CCL Hall 3", 
-                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Room:CCL_Hall_3", 
-                "namespace": 516, 
-                "exists": true
-            }
-        ], 
-        "Has subtitle": [
-            "Fixing mass surveillance: one court case at a time! (Exegetes)"
-        ], 
-        "Is organized by": [], 
-        "Has title": [
-            "Rights&Freedoms"
-        ], 
-        "Has duration": [
-            120
-        ], 
-        "Has color": [
-            "#0099ab"
-        ], 
-        "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:Rights%26Freedoms", 
-        "Has end time": [
-            "1514570400"
         ]
     }, 
     "Session:Rights&Freedoms# a53729d2c0e8aa22efa92967b930a8ff": {
