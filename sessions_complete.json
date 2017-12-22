@@ -3182,13 +3182,13 @@
             "1514464200"
         ]
     }, 
-    "Session:Rights&Freedoms# 8c02998822f5427a1c1889e3cd5c325b": {
+    "Session:Rights&Freedoms# 2c5fb29f216d4f6be50530c8fd10d418": {
         "Held in language": [
             "de - German", 
             "en - English"
         ], 
         "Has start time": [
-            "1514574000"
+            "1514469600"
         ], 
         "Has event track": [
             "Session"
@@ -3209,7 +3209,7 @@
             }
         ], 
         "Has subtitle": [
-            "Public money? Public code! (Polina Malaja and Katharina Nocun)"
+            "Privacy aware city navigation with free software (Redon Skikuli)"
         ], 
         "Is organized by": [], 
         "Has title": [
@@ -3223,7 +3223,7 @@
         ], 
         "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:Rights%26Freedoms", 
         "Has end time": [
-            "1514577600"
+            "1514473200"
         ]
     }, 
     "Session:Chaos-Notizen# f90aa84469346a8747b774faaf1509e0": {
@@ -3767,50 +3767,6 @@
         "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:Geschichten_aus_dem_Krieg", 
         "Has end time": [
             "1514478600"
-        ]
-    }, 
-    "Session:Rights&Freedoms# 2c5fb29f216d4f6be50530c8fd10d418": {
-        "Held in language": [
-            "de - German", 
-            "en - English"
-        ], 
-        "Has start time": [
-            "1514469600"
-        ], 
-        "Has event track": [
-            "Session"
-        ], 
-        "Has website": [], 
-        "Has description": [
-            "Rights & Freedoms Cluster Stage Programme"
-        ], 
-        "Has session type": [
-            "Talk"
-        ], 
-        "Has session location": [
-            {
-                "fulltext": "Room:CCL Hall 3", 
-                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Room:CCL_Hall_3", 
-                "namespace": 516, 
-                "exists": true
-            }
-        ], 
-        "Has subtitle": [
-            "Privacy aware city navigation with free software (Redon Skikuli)"
-        ], 
-        "Is organized by": [], 
-        "Has title": [
-            "Rights&Freedoms"
-        ], 
-        "Has duration": [
-            60
-        ], 
-        "Has color": [
-            "#0099ab"
-        ], 
-        "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:Rights%26Freedoms", 
-        "Has end time": [
-            "1514473200"
         ]
     }, 
     "Session:Newpipe# 1a072767ca874cfe7fca82413e129a3d": {
@@ -8748,6 +8704,51 @@
             "1514319300"
         ]
     }, 
+    "Session:Calliope Workshops# 52c48182ddefb6fe1f3dad4a82d1b627": {
+        "Held in language": [
+            "de - German"
+        ], 
+        "Has start time": [
+            "1514473200"
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [
+            "http://calliope.cc"
+        ], 
+        "Has description": [
+            "Kinder ab 8 Jahren sind herzlich willkommen ihre ersten Erfahrungen mit dem Programmieren zu machen."
+        ], 
+        "Has session type": [
+            "Workshop"
+        ], 
+        "Has session location": [], 
+        "Has subtitle": [
+            "Calliope Workshop 3"
+        ], 
+        "Is organized by": [
+            {
+                "fulltext": "User:DerMicha", 
+                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/User:DerMicha", 
+                "namespace": 2, 
+                "exists": true
+            }
+        ], 
+        "Has title": [
+            "Calliope Workshops"
+        ], 
+        "Has duration": [
+            60
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:Calliope_Workshops", 
+        "Has end time": [
+            "1514476800"
+        ]
+    }, 
     "Session:Insulin hackers meetup# 70a44b8fcad3008a554616fe831c56ff": {
         "Held in language": [
             "de - German", 
@@ -8841,6 +8842,50 @@
         "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:Rights%26Freedoms", 
         "Has end time": [
             "1514480400"
+        ]
+    }, 
+    "Session:Rights&Freedoms# 8c02998822f5427a1c1889e3cd5c325b": {
+        "Held in language": [
+            "de - German", 
+            "en - English"
+        ], 
+        "Has start time": [
+            "1514574000"
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [], 
+        "Has description": [
+            "Rights & Freedoms Cluster Stage Programme"
+        ], 
+        "Has session type": [
+            "Talk"
+        ], 
+        "Has session location": [
+            {
+                "fulltext": "Room:CCL Hall 3", 
+                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Room:CCL_Hall_3", 
+                "namespace": 516, 
+                "exists": true
+            }
+        ], 
+        "Has subtitle": [
+            "Public money? Public code! (Polina Malaja and Katharina Nocun)"
+        ], 
+        "Is organized by": [], 
+        "Has title": [
+            "Rights&Freedoms"
+        ], 
+        "Has duration": [
+            60
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:Rights%26Freedoms", 
+        "Has end time": [
+            "1514577600"
         ]
     }, 
     "Session:Language Confusion# 9ff2d643a1059a5236f74bbfc8ff1ae8": {
@@ -9591,49 +9636,47 @@
             "1514494800"
         ]
     }, 
-    "Session:Calliope Workshops# 52c48182ddefb6fe1f3dad4a82d1b627": {
+    "Session:BeA - das neue Anwaltspostfach# abc5465f35280b431f1e8a4f47f9c9d8": {
         "Held in language": [
             "de - German"
         ], 
         "Has start time": [
-            "1514473200"
+            "1514550600"
         ], 
         "Has event track": [
             "Session"
         ], 
-        "Has website": [
-            "http://calliope.cc"
-        ], 
+        "Has website": [], 
         "Has description": [
-            "Kinder ab 8 Jahren sind herzlich willkommen ihre ersten Erfahrungen mit dem Programmieren zu machen."
+            "Ab dem 1.1.2018 wird das besondere elektronische Anwaltspostfach (beA), quasi DE-Mail f\u00fcr Anw\u00e4lte, verpflichtend eingef\u00fchrt, Anw\u00e4lte m\u00fcssen dar\u00fcber Schriftsetze empfangen.\n\nIn diesem talk m\u00f6chte ich grob skizzieren, wie das System funktioniert und wie es um die Sicherheit bestellt ist."
         ], 
         "Has session type": [
-            "Workshop"
+            "Talk"
         ], 
-        "Has session location": [], 
-        "Has subtitle": [
-            "Calliope Workshop 3"
-        ], 
-        "Is organized by": [
+        "Has session location": [
             {
-                "fulltext": "User:DerMicha", 
-                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/User:DerMicha", 
-                "namespace": 2, 
+                "fulltext": "Room:Seminar room 14-15", 
+                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Room:Seminar_room_14-15", 
+                "namespace": 516, 
                 "exists": true
             }
         ], 
+        "Has subtitle": [
+            "Wie sicher ist der beA?"
+        ], 
+        "Is organized by": [], 
         "Has title": [
-            "Calliope Workshops"
+            "BeA - das neue Anwaltspostfach"
         ], 
         "Has duration": [
-            60
+            30
         ], 
         "Has color": [
             "#0099ab"
         ], 
-        "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:Calliope_Workshops", 
+        "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:BeA_-_das_neue_Anwaltspostfach", 
         "Has end time": [
-            "1514476800"
+            "1514552400"
         ]
     }, 
     "Session:LearnToSolder# c7632129e25e12e1d275256f608ee1ba": {
