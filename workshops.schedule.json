@@ -396,16 +396,16 @@
                         ], 
                         "Chaos West Stage": [
                             {
-                                "id": 1093, 
-                                "guid": "0c5205d7-14bd-55a8-9fb8-3c570997e5fc", 
+                                "id": 1096, 
+                                "guid": "d068b1a6-c17f-5567-8feb-0bbf3ac1605e", 
                                 "logo": null, 
-                                "date": "2017-12-28T02:30:00+01:00", 
-                                "start": "02:30", 
-                                "duration": "2:00", 
+                                "date": "2017-12-28T00:00:00+01:00", 
+                                "start": "00:00", 
+                                "duration": "2:30", 
                                 "room": "Chaos West Stage", 
                                 "slug": "", 
                                 "title": "Klangteppich", 
-                                "subtitle": "faheus DJ set", 
+                                "subtitle": "CouchSofa DJ set", 
                                 "track": "self organized sessions", 
                                 "type": "other", 
                                 "language": "de", 
@@ -423,16 +423,16 @@
                                 ]
                             }, 
                             {
-                                "id": 1098, 
-                                "guid": "d068b1a6-c17f-5567-8feb-0bbf3ac1605e", 
+                                "id": 1097, 
+                                "guid": "0c5205d7-14bd-55a8-9fb8-3c570997e5fc", 
                                 "logo": null, 
-                                "date": "2017-12-28T00:00:00+01:00", 
-                                "start": "00:00", 
-                                "duration": "2:30", 
+                                "date": "2017-12-28T02:30:00+01:00", 
+                                "start": "02:30", 
+                                "duration": "2:00", 
                                 "room": "Chaos West Stage", 
                                 "slug": "", 
                                 "title": "Klangteppich", 
-                                "subtitle": "CouchSofa DJ set", 
+                                "subtitle": "faheus DJ set", 
                                 "track": "self organized sessions", 
                                 "type": "other", 
                                 "language": "de", 
@@ -990,28 +990,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1144, 
-                                "guid": "fe29864f-f90d-566b-becd-18910b6e9fef", 
-                                "logo": null, 
-                                "date": "2017-12-27T18:00:00+01:00", 
-                                "start": "18:00", 
-                                "duration": "1:00", 
-                                "room": "Hall 3", 
-                                "slug": "", 
-                                "title": "Rights&Freedoms", 
-                                "subtitle": "pretty Easy privacy (p\u2261p) for Thunderbird via Enigmail: Using pEp in aJavaScript environment\" (pEp Foundation)", 
-                                "track": "self organized sessions", 
-                                "type": "talk", 
-                                "language": "de", 
-                                "abstract": "", 
-                                "description": "Rights & Freedoms Cluster Stage Programme", 
-                                "persons": [], 
-                                "links": [
-                                    "https://events.ccc.de/congress/2017/wiki/index.php/Session:Rights%26Freedoms"
-                                ]
-                            }, 
-                            {
-                                "id": 1147, 
+                                "id": 1148, 
                                 "guid": "fdd4a8e5-345d-5265-8a5e-b0930b1a2f61", 
                                 "logo": null, 
                                 "date": "2017-12-27T19:00:00+01:00", 
@@ -1032,7 +1011,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1148, 
+                                "id": 1149, 
                                 "guid": "c935a033-b060-5588-819e-ad96e215b4c4", 
                                 "logo": null, 
                                 "date": "2017-12-27T13:00:00+01:00", 
@@ -1053,70 +1032,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1152, 
-                                "guid": "d0283db9-4795-5742-8d8c-7a0a4ea8a851", 
-                                "logo": null, 
-                                "date": "2017-12-27T20:00:00+01:00", 
-                                "start": "20:00", 
-                                "duration": "1:00", 
-                                "room": "Hall 3", 
-                                "slug": "", 
-                                "title": "Rights&Freedoms", 
-                                "subtitle": "Social networking, powered by Free Software (Tobias Diekershoff)", 
-                                "track": "self organized sessions", 
-                                "type": "talk", 
-                                "language": "de", 
-                                "abstract": "", 
-                                "description": "Rights & Freedoms Cluster Stage Programme", 
-                                "persons": [], 
-                                "links": [
-                                    "https://events.ccc.de/congress/2017/wiki/index.php/Session:Rights%26Freedoms"
-                                ]
-                            }, 
-                            {
-                                "id": 1153, 
-                                "guid": "bdb7c9c8-1503-5b20-9dd0-9a552b972083", 
-                                "logo": null, 
-                                "date": "2017-12-27T14:00:00+01:00", 
-                                "start": "14:00", 
-                                "duration": "1:00", 
-                                "room": "Hall 3", 
-                                "slug": "", 
-                                "title": "Rights&Freedoms", 
-                                "subtitle": "Newpipe (Chris Schabesberger)", 
-                                "track": "self organized sessions", 
-                                "type": "talk", 
-                                "language": "de", 
-                                "abstract": "", 
-                                "description": "Rights & Freedoms Cluster Stage Programme", 
-                                "persons": [], 
-                                "links": [
-                                    "https://events.ccc.de/congress/2017/wiki/index.php/Session:Rights%26Freedoms"
-                                ]
-                            }, 
-                            {
-                                "id": 1157, 
-                                "guid": "afff08fe-3768-5263-9f17-e75477367bf1", 
-                                "logo": null, 
-                                "date": "2017-12-27T21:00:00+01:00", 
-                                "start": "21:00", 
-                                "duration": "1:00", 
-                                "room": "Hall 3", 
-                                "slug": "", 
-                                "title": "Rights&Freedoms", 
-                                "subtitle": "The many applications of digital certificates (Thomas Ruddy)", 
-                                "track": "self organized sessions", 
-                                "type": "talk", 
-                                "language": "de", 
-                                "abstract": "", 
-                                "description": "Rights & Freedoms Cluster Stage Programme", 
-                                "persons": [], 
-                                "links": [
-                                    "https://events.ccc.de/congress/2017/wiki/index.php/Session:Rights%26Freedoms"
-                                ]
-                            }, 
-                            {
-                                "id": 1158, 
+                                "id": 1151, 
                                 "guid": "5e5eac9a-6921-53b2-a463-cfa9945554bb", 
                                 "logo": null, 
                                 "date": "2017-12-27T19:30:00+01:00", 
@@ -1137,7 +1053,70 @@
                                 ]
                             }, 
                             {
-                                "id": 1159, 
+                                "id": 1154, 
+                                "guid": "d0283db9-4795-5742-8d8c-7a0a4ea8a851", 
+                                "logo": null, 
+                                "date": "2017-12-27T20:00:00+01:00", 
+                                "start": "20:00", 
+                                "duration": "1:00", 
+                                "room": "Hall 3", 
+                                "slug": "", 
+                                "title": "Rights&Freedoms", 
+                                "subtitle": "Social networking, powered by Free Software (Tobias Diekershoff)", 
+                                "track": "self organized sessions", 
+                                "type": "talk", 
+                                "language": "de", 
+                                "abstract": "", 
+                                "description": "Rights & Freedoms Cluster Stage Programme", 
+                                "persons": [], 
+                                "links": [
+                                    "https://events.ccc.de/congress/2017/wiki/index.php/Session:Rights%26Freedoms"
+                                ]
+                            }, 
+                            {
+                                "id": 1155, 
+                                "guid": "bdb7c9c8-1503-5b20-9dd0-9a552b972083", 
+                                "logo": null, 
+                                "date": "2017-12-27T14:00:00+01:00", 
+                                "start": "14:00", 
+                                "duration": "1:00", 
+                                "room": "Hall 3", 
+                                "slug": "", 
+                                "title": "Rights&Freedoms", 
+                                "subtitle": "Newpipe (Chris Schabesberger)", 
+                                "track": "self organized sessions", 
+                                "type": "talk", 
+                                "language": "de", 
+                                "abstract": "", 
+                                "description": "Rights & Freedoms Cluster Stage Programme", 
+                                "persons": [], 
+                                "links": [
+                                    "https://events.ccc.de/congress/2017/wiki/index.php/Session:Rights%26Freedoms"
+                                ]
+                            }, 
+                            {
+                                "id": 1160, 
+                                "guid": "afff08fe-3768-5263-9f17-e75477367bf1", 
+                                "logo": null, 
+                                "date": "2017-12-27T21:00:00+01:00", 
+                                "start": "21:00", 
+                                "duration": "1:00", 
+                                "room": "Hall 3", 
+                                "slug": "", 
+                                "title": "Rights&Freedoms", 
+                                "subtitle": "The many applications of digital certificates (Thomas Ruddy)", 
+                                "track": "self organized sessions", 
+                                "type": "talk", 
+                                "language": "de", 
+                                "abstract": "", 
+                                "description": "Rights & Freedoms Cluster Stage Programme", 
+                                "persons": [], 
+                                "links": [
+                                    "https://events.ccc.de/congress/2017/wiki/index.php/Session:Rights%26Freedoms"
+                                ]
+                            }, 
+                            {
+                                "id": 1161, 
                                 "guid": "50b06132-ac64-5d1b-9e21-9b9206a2fbab", 
                                 "logo": null, 
                                 "date": "2017-12-27T15:00:00+01:00", 
@@ -1158,7 +1137,28 @@
                                 ]
                             }, 
                             {
-                                "id": 1165, 
+                                "id": 1163, 
+                                "guid": "27a7570d-bc28-5ab7-8a83-52fc4e34e5da", 
+                                "logo": null, 
+                                "date": "2017-12-27T16:00:00+01:00", 
+                                "start": "16:00", 
+                                "duration": "1:00", 
+                                "room": "Hall 3", 
+                                "slug": "", 
+                                "title": "Rights&Freedoms", 
+                                "subtitle": "Will the monetary system change? Privacy and Risk implications of digital currencies, and decentralized digital monetary systems (nsb)", 
+                                "track": "self organized sessions", 
+                                "type": "talk", 
+                                "language": "de", 
+                                "abstract": "", 
+                                "description": "Rights & Freedoms Cluster Stage Programme", 
+                                "persons": [], 
+                                "links": [
+                                    "https://events.ccc.de/congress/2017/wiki/index.php/Session:Rights%26Freedoms"
+                                ]
+                            }, 
+                            {
+                                "id": 1166, 
                                 "guid": "baceccd4-703e-51c2-8966-665a6fb4cbb8", 
                                 "logo": null, 
                                 "date": "2017-12-27T17:00:00+01:00", 
@@ -1179,16 +1179,16 @@
                                 ]
                             }, 
                             {
-                                "id": 1170, 
-                                "guid": "27a7570d-bc28-5ab7-8a83-52fc4e34e5da", 
+                                "id": 1168, 
+                                "guid": "fe29864f-f90d-566b-becd-18910b6e9fef", 
                                 "logo": null, 
-                                "date": "2017-12-27T16:00:00+01:00", 
-                                "start": "16:00", 
+                                "date": "2017-12-27T18:00:00+01:00", 
+                                "start": "18:00", 
                                 "duration": "1:00", 
                                 "room": "Hall 3", 
                                 "slug": "", 
                                 "title": "Rights&Freedoms", 
-                                "subtitle": "Will the monetary system change? Privacy and Risk implications of digital currencies, and decentralized digital monetary systems (nsb)", 
+                                "subtitle": "pretty Easy privacy (p\u2261p) for Thunderbird via Enigmail: Using pEp in aJavaScript environment\" (pEp Foundation)", 
                                 "track": "self organized sessions", 
                                 "type": "talk", 
                                 "language": "de", 
@@ -2022,16 +2022,16 @@
                                 ]
                             }, 
                             {
-                                "id": 1094, 
-                                "guid": "1b240710-e09b-5c29-876b-e99c165989b4", 
+                                "id": 1093, 
+                                "guid": "a7c4f9c1-bdb4-5ff8-8220-58c29ee276bf", 
                                 "logo": null, 
-                                "date": "2017-12-29T00:00:00+01:00", 
-                                "start": "00:00", 
+                                "date": "2017-12-29T02:00:00+01:00", 
+                                "start": "02:00", 
                                 "duration": "2:00", 
                                 "room": "Chaos West Stage", 
                                 "slug": "", 
                                 "title": "Klangteppich", 
-                                "subtitle": "DJ PorCus DJ set", 
+                                "subtitle": "bam DJ set", 
                                 "track": "self organized sessions", 
                                 "type": "other", 
                                 "language": "de", 
@@ -2049,16 +2049,16 @@
                                 ]
                             }, 
                             {
-                                "id": 1095, 
-                                "guid": "a7c4f9c1-bdb4-5ff8-8220-58c29ee276bf", 
+                                "id": 1098, 
+                                "guid": "1b240710-e09b-5c29-876b-e99c165989b4", 
                                 "logo": null, 
-                                "date": "2017-12-29T02:00:00+01:00", 
-                                "start": "02:00", 
+                                "date": "2017-12-29T00:00:00+01:00", 
+                                "start": "00:00", 
                                 "duration": "2:00", 
                                 "room": "Chaos West Stage", 
                                 "slug": "", 
                                 "title": "Klangteppich", 
-                                "subtitle": "bam DJ set", 
+                                "subtitle": "DJ PorCus DJ set", 
                                 "track": "self organized sessions", 
                                 "type": "other", 
                                 "language": "de", 
@@ -2635,6 +2635,27 @@
                                 ]
                             }, 
                             {
+                                "id": 1144, 
+                                "guid": "02afee29-c6dc-5c9b-8272-daadd5ae1033", 
+                                "logo": null, 
+                                "date": "2017-12-28T15:00:00+01:00", 
+                                "start": "15:00", 
+                                "duration": "0:30", 
+                                "room": "Hall 3", 
+                                "slug": "", 
+                                "title": "Rights&Freedoms", 
+                                "subtitle": "Digital security training for newbies (EFF)", 
+                                "track": "self organized sessions", 
+                                "type": "talk", 
+                                "language": "de", 
+                                "abstract": "", 
+                                "description": "Rights & Freedoms Cluster Stage Programme", 
+                                "persons": [], 
+                                "links": [
+                                    "https://events.ccc.de/congress/2017/wiki/index.php/Session:Rights%26Freedoms"
+                                ]
+                            }, 
+                            {
                                 "id": 1146, 
                                 "guid": "e564991e-2090-539f-90a2-143ffd6adea4", 
                                 "logo": null, 
@@ -2656,28 +2677,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1149, 
-                                "guid": "02afee29-c6dc-5c9b-8272-daadd5ae1033", 
-                                "logo": null, 
-                                "date": "2017-12-28T15:00:00+01:00", 
-                                "start": "15:00", 
-                                "duration": "0:30", 
-                                "room": "Hall 3", 
-                                "slug": "", 
-                                "title": "Rights&Freedoms", 
-                                "subtitle": "Digital security training for newbies (EFF)", 
-                                "track": "self organized sessions", 
-                                "type": "talk", 
-                                "language": "de", 
-                                "abstract": "", 
-                                "description": "Rights & Freedoms Cluster Stage Programme", 
-                                "persons": [], 
-                                "links": [
-                                    "https://events.ccc.de/congress/2017/wiki/index.php/Session:Rights%26Freedoms"
-                                ]
-                            }, 
-                            {
-                                "id": 1151, 
+                                "id": 1152, 
                                 "guid": "1f85b519-8492-5b21-9106-3ff36c12950f", 
                                 "logo": null, 
                                 "date": "2017-12-28T17:00:00+01:00", 
@@ -2698,70 +2698,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1156, 
-                                "guid": "182a4ddd-b48c-5559-a8e8-1fa31f657a4f", 
-                                "logo": null, 
-                                "date": "2017-12-28T18:00:00+01:00", 
-                                "start": "18:00", 
-                                "duration": "1:00", 
-                                "room": "Hall 3", 
-                                "slug": "", 
-                                "title": "Rights&Freedoms", 
-                                "subtitle": "Hacking with Wget (Hanno B\u00f6ck)", 
-                                "track": "self organized sessions", 
-                                "type": "talk", 
-                                "language": "de", 
-                                "abstract": "", 
-                                "description": "Rights & Freedoms Cluster Stage Programme", 
-                                "persons": [], 
-                                "links": [
-                                    "https://events.ccc.de/congress/2017/wiki/index.php/Session:Rights%26Freedoms"
-                                ]
-                            }, 
-                            {
-                                "id": 1162, 
-                                "guid": "03e735b7-b277-5a51-a9ec-7f75c02df342", 
-                                "logo": null, 
-                                "date": "2017-12-28T20:00:00+01:00", 
-                                "start": "20:00", 
-                                "duration": "1:00", 
-                                "room": "Hall 3", 
-                                "slug": "", 
-                                "title": "Rights&Freedoms", 
-                                "subtitle": "A public identity infrastructure to defend the open Internet (Vittorio Bertolo)", 
-                                "track": "self organized sessions", 
-                                "type": "talk", 
-                                "language": "de", 
-                                "abstract": "", 
-                                "description": "Rights & Freedoms Cluster Stage Programme", 
-                                "persons": [], 
-                                "links": [
-                                    "https://events.ccc.de/congress/2017/wiki/index.php/Session:Rights%26Freedoms"
-                                ]
-                            }, 
-                            {
-                                "id": 1163, 
-                                "guid": "0177372c-765f-5605-8441-d1ed0d637b7b", 
-                                "logo": null, 
-                                "date": "2017-12-28T13:00:00+01:00", 
-                                "start": "13:00", 
-                                "duration": "1:00", 
-                                "room": "Hall 3", 
-                                "slug": "", 
-                                "title": "Rights&Freedoms", 
-                                "subtitle": "Take e-voting away from Europe (Hermes Center)", 
-                                "track": "self organized sessions", 
-                                "type": "talk", 
-                                "language": "de", 
-                                "abstract": "", 
-                                "description": "Rights & Freedoms Cluster Stage Programme", 
-                                "persons": [], 
-                                "links": [
-                                    "https://events.ccc.de/congress/2017/wiki/index.php/Session:Rights%26Freedoms"
-                                ]
-                            }, 
-                            {
-                                "id": 1164, 
+                                "id": 1157, 
                                 "guid": "a04e61e6-2dcc-59d4-ab9e-73758eab3f39", 
                                 "logo": null, 
                                 "date": "2017-12-28T19:00:00+01:00", 
@@ -2782,7 +2719,28 @@
                                 ]
                             }, 
                             {
-                                "id": 1166, 
+                                "id": 1158, 
+                                "guid": "182a4ddd-b48c-5559-a8e8-1fa31f657a4f", 
+                                "logo": null, 
+                                "date": "2017-12-28T18:00:00+01:00", 
+                                "start": "18:00", 
+                                "duration": "1:00", 
+                                "room": "Hall 3", 
+                                "slug": "", 
+                                "title": "Rights&Freedoms", 
+                                "subtitle": "Hacking with Wget (Hanno B\u00f6ck)", 
+                                "track": "self organized sessions", 
+                                "type": "talk", 
+                                "language": "de", 
+                                "abstract": "", 
+                                "description": "Rights & Freedoms Cluster Stage Programme", 
+                                "persons": [], 
+                                "links": [
+                                    "https://events.ccc.de/congress/2017/wiki/index.php/Session:Rights%26Freedoms"
+                                ]
+                            }, 
+                            {
+                                "id": 1159, 
                                 "guid": "89a4980b-84c9-5f80-8ae5-6fb9d0589627", 
                                 "logo": null, 
                                 "date": "2017-12-28T21:00:00+01:00", 
@@ -2803,7 +2761,49 @@
                                 ]
                             }, 
                             {
-                                "id": 1169, 
+                                "id": 1164, 
+                                "guid": "03e735b7-b277-5a51-a9ec-7f75c02df342", 
+                                "logo": null, 
+                                "date": "2017-12-28T20:00:00+01:00", 
+                                "start": "20:00", 
+                                "duration": "1:00", 
+                                "room": "Hall 3", 
+                                "slug": "", 
+                                "title": "Rights&Freedoms", 
+                                "subtitle": "A public identity infrastructure to defend the open Internet (Vittorio Bertolo)", 
+                                "track": "self organized sessions", 
+                                "type": "talk", 
+                                "language": "de", 
+                                "abstract": "", 
+                                "description": "Rights & Freedoms Cluster Stage Programme", 
+                                "persons": [], 
+                                "links": [
+                                    "https://events.ccc.de/congress/2017/wiki/index.php/Session:Rights%26Freedoms"
+                                ]
+                            }, 
+                            {
+                                "id": 1165, 
+                                "guid": "0177372c-765f-5605-8441-d1ed0d637b7b", 
+                                "logo": null, 
+                                "date": "2017-12-28T13:00:00+01:00", 
+                                "start": "13:00", 
+                                "duration": "1:00", 
+                                "room": "Hall 3", 
+                                "slug": "", 
+                                "title": "Rights&Freedoms", 
+                                "subtitle": "Take e-voting away from Europe (Hermes Center)", 
+                                "track": "self organized sessions", 
+                                "type": "talk", 
+                                "language": "de", 
+                                "abstract": "", 
+                                "description": "Rights & Freedoms Cluster Stage Programme", 
+                                "persons": [], 
+                                "links": [
+                                    "https://events.ccc.de/congress/2017/wiki/index.php/Session:Rights%26Freedoms"
+                                ]
+                            }, 
+                            {
+                                "id": 1170, 
                                 "guid": "c1e23d9b-e400-5583-a6d1-1852540192ae", 
                                 "logo": null, 
                                 "date": "2017-12-28T14:00:00+01:00", 
@@ -3636,7 +3636,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1096, 
+                                "id": 1094, 
                                 "guid": "2b9dfcee-6864-51d5-a401-7b92abca7c24", 
                                 "logo": null, 
                                 "date": "2017-12-30T00:00:00+01:00", 
@@ -3663,7 +3663,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1097, 
+                                "id": 1095, 
                                 "guid": "7c60a2b4-64a8-505b-89b1-5c94bc2fc7a4", 
                                 "logo": null, 
                                 "date": "2017-12-30T02:00:00+01:00", 
@@ -4243,6 +4243,27 @@
                                 ]
                             }, 
                             {
+                                "id": 1147, 
+                                "guid": "f7078cfa-d45e-5dc5-bf27-4eb49a3a5b75", 
+                                "logo": null, 
+                                "date": "2017-12-29T18:00:00+01:00", 
+                                "start": "18:00", 
+                                "duration": "1:00", 
+                                "room": "Hall 3", 
+                                "slug": "", 
+                                "title": "Rights&Freedoms", 
+                                "subtitle": "DYI: Net Neutrality enforcement in the EU (Epicenter.works)", 
+                                "track": "self organized sessions", 
+                                "type": "talk", 
+                                "language": "de", 
+                                "abstract": "", 
+                                "description": "Rights & Freedoms Cluster Stage Programme", 
+                                "persons": [], 
+                                "links": [
+                                    "https://events.ccc.de/congress/2017/wiki/index.php/Session:Rights%26Freedoms"
+                                ]
+                            }, 
+                            {
                                 "id": 1150, 
                                 "guid": "c01aa0c7-e68c-59e1-9ea1-7745a39290cd", 
                                 "logo": null, 
@@ -4264,49 +4285,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1154, 
-                                "guid": "f7078cfa-d45e-5dc5-bf27-4eb49a3a5b75", 
-                                "logo": null, 
-                                "date": "2017-12-29T18:00:00+01:00", 
-                                "start": "18:00", 
-                                "duration": "1:00", 
-                                "room": "Hall 3", 
-                                "slug": "", 
-                                "title": "Rights&Freedoms", 
-                                "subtitle": "DYI: Net Neutrality enforcement in the EU (Epicenter.works)", 
-                                "track": "self organized sessions", 
-                                "type": "talk", 
-                                "language": "de", 
-                                "abstract": "", 
-                                "description": "Rights & Freedoms Cluster Stage Programme", 
-                                "persons": [], 
-                                "links": [
-                                    "https://events.ccc.de/congress/2017/wiki/index.php/Session:Rights%26Freedoms"
-                                ]
-                            }, 
-                            {
-                                "id": 1155, 
-                                "guid": "5ff78d98-328e-57a7-a534-f1b98c5373a7", 
-                                "logo": null, 
-                                "date": "2017-12-29T16:00:00+01:00", 
-                                "start": "16:00", 
-                                "duration": "2:00", 
-                                "room": "Hall 3", 
-                                "slug": "", 
-                                "title": "Rights&Freedoms", 
-                                "subtitle": "Fixing mass surveillance: one court case at a time! (Exegetes)", 
-                                "track": "self organized sessions", 
-                                "type": "talk", 
-                                "language": "de", 
-                                "abstract": "", 
-                                "description": "Rights & Freedoms Cluster Stage Programme", 
-                                "persons": [], 
-                                "links": [
-                                    "https://events.ccc.de/congress/2017/wiki/index.php/Session:Rights%26Freedoms"
-                                ]
-                            }, 
-                            {
-                                "id": 1160, 
+                                "id": 1153, 
                                 "guid": "85fdb89c-85d8-527b-8020-273d1f7a3396", 
                                 "logo": null, 
                                 "date": "2017-12-29T21:00:00+01:00", 
@@ -4327,7 +4306,28 @@
                                 ]
                             }, 
                             {
-                                "id": 1161, 
+                                "id": 1156, 
+                                "guid": "5ff78d98-328e-57a7-a534-f1b98c5373a7", 
+                                "logo": null, 
+                                "date": "2017-12-29T16:00:00+01:00", 
+                                "start": "16:00", 
+                                "duration": "2:00", 
+                                "room": "Hall 3", 
+                                "slug": "", 
+                                "title": "Rights&Freedoms", 
+                                "subtitle": "Fixing mass surveillance: one court case at a time! (Exegetes)", 
+                                "track": "self organized sessions", 
+                                "type": "talk", 
+                                "language": "de", 
+                                "abstract": "", 
+                                "description": "Rights & Freedoms Cluster Stage Programme", 
+                                "persons": [], 
+                                "links": [
+                                    "https://events.ccc.de/congress/2017/wiki/index.php/Session:Rights%26Freedoms"
+                                ]
+                            }, 
+                            {
+                                "id": 1162, 
                                 "guid": "d7436cc5-5628-5ac7-aa40-ff7f4717a68c", 
                                 "logo": null, 
                                 "date": "2017-12-29T19:00:00+01:00", 
@@ -4369,7 +4369,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1168, 
+                                "id": 1169, 
                                 "guid": "c61cff35-8ec9-5cf8-92f9-cd9cb7c570b0", 
                                 "logo": null, 
                                 "date": "2017-12-29T13:00:00+01:00", 
