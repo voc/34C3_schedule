@@ -3063,13 +3063,13 @@
             "1514464200"
         ]
     }, 
-    "Session:Rights&Freedoms# 2c5fb29f216d4f6be50530c8fd10d418": {
+    "Session:Rights&Freedoms# 8c02998822f5427a1c1889e3cd5c325b": {
         "Held in language": [
             "de - German", 
             "en - English"
         ], 
         "Has start time": [
-            "1514469600"
+            "1514574000"
         ], 
         "Has event track": [
             "Session"
@@ -3090,7 +3090,7 @@
             }
         ], 
         "Has subtitle": [
-            "Privacy aware city navigation with free software (Redon Skikuli)"
+            "Public money? Public code! (Polina Malaja and Katharina Nocun)"
         ], 
         "Is organized by": [], 
         "Has title": [
@@ -3104,7 +3104,7 @@
         ], 
         "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:Rights%26Freedoms", 
         "Has end time": [
-            "1514473200"
+            "1514577600"
         ]
     }, 
     "Session:Chaos-Notizen# f90aa84469346a8747b774faaf1509e0": {
@@ -3650,6 +3650,50 @@
             "1514478600"
         ]
     }, 
+    "Session:Rights&Freedoms# 2c5fb29f216d4f6be50530c8fd10d418": {
+        "Held in language": [
+            "de - German", 
+            "en - English"
+        ], 
+        "Has start time": [
+            "1514469600"
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [], 
+        "Has description": [
+            "Rights & Freedoms Cluster Stage Programme"
+        ], 
+        "Has session type": [
+            "Talk"
+        ], 
+        "Has session location": [
+            {
+                "fulltext": "Room:CCL Hall 3", 
+                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Room:CCL_Hall_3", 
+                "namespace": 516, 
+                "exists": true
+            }
+        ], 
+        "Has subtitle": [
+            "Privacy aware city navigation with free software (Redon Skikuli)"
+        ], 
+        "Is organized by": [], 
+        "Has title": [
+            "Rights&Freedoms"
+        ], 
+        "Has duration": [
+            60
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:Rights%26Freedoms", 
+        "Has end time": [
+            "1514473200"
+        ]
+    }, 
     "Session:Newpipe# 1a072767ca874cfe7fca82413e129a3d": {
         "Held in language": [
             "en - English"
@@ -3872,7 +3916,7 @@
             "1514390400"
         ]
     }, 
-    "Session:Trickmisch# 8164e15ad43a65977887cb1c8c3762d3": {
+    "Session:Trickmisch# 83d3b7f23b17e9adae0af60941eabe94": {
         "Held in language": [
             "de - German"
         ], 
@@ -3894,9 +3938,9 @@
         ], 
         "Has session location": [
             {
-                "fulltext": "Assembly:Kidspace", 
-                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Assembly:Kidspace", 
-                "namespace": 504, 
+                "fulltext": "Room:Kidspace", 
+                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Room:Kidspace", 
+                "namespace": 516, 
                 "exists": true
             }
         ], 
@@ -8439,50 +8483,6 @@
             "1514480400"
         ]
     }, 
-    "Session:Rights&Freedoms# 8c02998822f5427a1c1889e3cd5c325b": {
-        "Held in language": [
-            "de - German", 
-            "en - English"
-        ], 
-        "Has start time": [
-            "1514574000"
-        ], 
-        "Has event track": [
-            "Session"
-        ], 
-        "Has website": [], 
-        "Has description": [
-            "Rights & Freedoms Cluster Stage Programme"
-        ], 
-        "Has session type": [
-            "Talk"
-        ], 
-        "Has session location": [
-            {
-                "fulltext": "Room:CCL Hall 3", 
-                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Room:CCL_Hall_3", 
-                "namespace": 516, 
-                "exists": true
-            }
-        ], 
-        "Has subtitle": [
-            "Public money? Public code! (Polina Malaja and Katharina Nocun)"
-        ], 
-        "Is organized by": [], 
-        "Has title": [
-            "Rights&Freedoms"
-        ], 
-        "Has duration": [
-            60
-        ], 
-        "Has color": [
-            "#0099ab"
-        ], 
-        "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:Rights%26Freedoms", 
-        "Has end time": [
-            "1514577600"
-        ]
-    }, 
     "Session:Language Confusion# 9ff2d643a1059a5236f74bbfc8ff1ae8": {
         "Held in language": [], 
         "Has start time": [
@@ -9693,6 +9693,52 @@
         "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:Lehrerstammtisch", 
         "Has end time": [
             "1514408400"
+        ]
+    }, 
+    "Session:Trickmisch# edb2989e4021b4f67c909659a0640527": {
+        "Held in language": [
+            "de - German"
+        ], 
+        "Has start time": [
+            "1514379600"
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [
+            "http://www.trickmisch.de", 
+            "http://www.trixmix.tv"
+        ], 
+        "Has description": [
+            "auf Trixmix.tv k\u00f6nnen eigene Trickfilme online erstellt werden. Daf\u00fcr kann man eigene Zeichnungen erstellen oder sich aus dem kollektiv erstellten Bildw\u00f6rterbuch bedienen."
+        ], 
+        "Has session type": [
+            "Workshop"
+        ], 
+        "Has session location": [
+            {
+                "fulltext": "Room:Kidspace", 
+                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Room:Kidspace", 
+                "namespace": 516, 
+                "exists": true
+            }
+        ], 
+        "Has subtitle": [
+            "Trickfilm Workshop"
+        ], 
+        "Is organized by": [], 
+        "Has title": [
+            "Trickmisch"
+        ], 
+        "Has duration": [
+            240
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:Trickmisch", 
+        "Has end time": [
+            "1514394000"
         ]
     }, 
     "Session:Public Money? Public Code!# 7bc03c32ffe0f8f68c3117754f284ec6": {
@@ -11187,52 +11233,6 @@
         "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:Cryptoparty", 
         "Has end time": [
             "1514397600"
-        ]
-    }, 
-    "Session:Trickmisch# 66aa03a04b28efa1999a8a64b305df86": {
-        "Held in language": [
-            "de - German"
-        ], 
-        "Has start time": [
-            "1514379600"
-        ], 
-        "Has event track": [
-            "Session"
-        ], 
-        "Has website": [
-            "http://www.trickmisch.de", 
-            "http://www.trixmix.tv"
-        ], 
-        "Has description": [
-            "auf Trixmix.tv k\u00f6nnen eigene Trickfilme online erstellt werden. Daf\u00fcr kann man eigene Zeichnungen erstellen oder sich aus dem kollektiv erstellten Bildw\u00f6rterbuch bedienen."
-        ], 
-        "Has session type": [
-            "Workshop"
-        ], 
-        "Has session location": [
-            {
-                "fulltext": "Assembly:Kidspace", 
-                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Assembly:Kidspace", 
-                "namespace": 504, 
-                "exists": true
-            }
-        ], 
-        "Has subtitle": [
-            "Trickfilm Workshop"
-        ], 
-        "Is organized by": [], 
-        "Has title": [
-            "Trickmisch"
-        ], 
-        "Has duration": [
-            240
-        ], 
-        "Has color": [
-            "#0099ab"
-        ], 
-        "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:Trickmisch", 
-        "Has end time": [
-            "1514394000"
         ]
     }, 
     "Session:TeaHouse# 3a7866305284101511df285fea236606": {
