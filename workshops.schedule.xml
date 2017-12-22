@@ -831,7 +831,7 @@ happened this year, and what will happen in the next year.</description>
           <link>https://events.ccc.de/congress/2017/wiki/index.php/Session:Newpipe</link>
         </links>
       </event>
-      <event id="1149" guid="c935a033-b060-5588-819e-ad96e215b4c4">
+      <event id="1148" guid="c935a033-b060-5588-819e-ad96e215b4c4">
         <logo/>
         <date>2017-12-27T13:00:00+01:00</date>
         <start>13:00</start>
@@ -907,7 +907,7 @@ happened this year, and what will happen in the next year.</description>
           <link>https://events.ccc.de/congress/2017/wiki/index.php/Session:Rights%26Freedoms</link>
         </links>
       </event>
-      <event id="1156" guid="fe29864f-f90d-566b-becd-18910b6e9fef">
+      <event id="1157" guid="fe29864f-f90d-566b-becd-18910b6e9fef">
         <logo/>
         <date>2017-12-27T18:00:00+01:00</date>
         <start>18:00</start>
@@ -983,26 +983,7 @@ happened this year, and what will happen in the next year.</description>
           <link>https://events.ccc.de/congress/2017/wiki/index.php/Session:Rights%26Freedoms</link>
         </links>
       </event>
-      <event id="1169" guid="5e5eac9a-6921-53b2-a463-cfa9945554bb">
-        <logo/>
-        <date>2017-12-27T19:30:00+01:00</date>
-        <start>19:30</start>
-        <duration>0:30</duration>
-        <room>Hall 3</room>
-        <slug/>
-        <title>Rights&amp;Freedoms</title>
-        <subtitle>Algorithmic Transparency (EFF)</subtitle>
-        <track>self organized sessions</track>
-        <type>talk</type>
-        <language>de</language>
-        <abstract/>
-        <description>Rights &amp; Freedoms Cluster Stage Programme</description>
-        <persons/>
-        <links>
-          <link>https://events.ccc.de/congress/2017/wiki/index.php/Session:Rights%26Freedoms</link>
-        </links>
-      </event>
-      <event id="1170" guid="12601af9-c84e-5114-b88d-db263f5bec53">
+      <event id="1169" guid="12601af9-c84e-5114-b88d-db263f5bec53">
         <logo/>
         <date>2017-12-27T17:30:00+01:00</date>
         <start>17:30</start>
@@ -1021,7 +1002,26 @@ happened this year, and what will happen in the next year.</description>
           <link>https://events.ccc.de/congress/2017/wiki/index.php/Session:Rights%26Freedoms</link>
         </links>
       </event>
-      <event id="1176" guid="fdd4a8e5-345d-5265-8a5e-b0930b1a2f61">
+      <event id="1171" guid="5e5eac9a-6921-53b2-a463-cfa9945554bb">
+        <logo/>
+        <date>2017-12-27T19:30:00+01:00</date>
+        <start>19:30</start>
+        <duration>0:30</duration>
+        <room>Hall 3</room>
+        <slug/>
+        <title>Rights&amp;Freedoms</title>
+        <subtitle>Algorithmic Transparency (EFF)</subtitle>
+        <track>self organized sessions</track>
+        <type>talk</type>
+        <language>de</language>
+        <abstract/>
+        <description>Rights &amp; Freedoms Cluster Stage Programme</description>
+        <persons/>
+        <links>
+          <link>https://events.ccc.de/congress/2017/wiki/index.php/Session:Rights%26Freedoms</link>
+        </links>
+      </event>
+      <event id="1175" guid="fdd4a8e5-345d-5265-8a5e-b0930b1a2f61">
         <logo/>
         <date>2017-12-27T19:00:00+01:00</date>
         <start>19:00</start>
@@ -2246,7 +2246,7 @@ find physical POIs and buy goods without giving away your real identity.*</descr
           <link>https://events.ccc.de/congress/2017/wiki/index.php/Session:Privacy_aware_city_navigation_with_Free_Software</link>
         </links>
       </event>
-      <event id="1148" guid="89a4980b-84c9-5f80-8ae5-6fb9d0589627">
+      <event id="1150" guid="89a4980b-84c9-5f80-8ae5-6fb9d0589627">
         <logo/>
         <date>2017-12-28T21:00:00+01:00</date>
         <start>21:00</start>
@@ -2284,7 +2284,7 @@ find physical POIs and buy goods without giving away your real identity.*</descr
           <link>https://events.ccc.de/congress/2017/wiki/index.php/Session:Rights%26Freedoms</link>
         </links>
       </event>
-      <event id="1157" guid="182a4ddd-b48c-5559-a8e8-1fa31f657a4f">
+      <event id="1156" guid="182a4ddd-b48c-5559-a8e8-1fa31f657a4f">
         <logo/>
         <date>2017-12-28T18:00:00+01:00</date>
         <start>18:00</start>
@@ -2303,15 +2303,15 @@ find physical POIs and buy goods without giving away your real identity.*</descr
           <link>https://events.ccc.de/congress/2017/wiki/index.php/Session:Rights%26Freedoms</link>
         </links>
       </event>
-      <event id="1161" guid="02afee29-c6dc-5c9b-8272-daadd5ae1033">
+      <event id="1161" guid="03e735b7-b277-5a51-a9ec-7f75c02df342">
         <logo/>
-        <date>2017-12-28T15:00:00+01:00</date>
-        <start>15:00</start>
-        <duration>0:30</duration>
+        <date>2017-12-28T20:00:00+01:00</date>
+        <start>20:00</start>
+        <duration>1:00</duration>
         <room>Hall 3</room>
         <slug/>
         <title>Rights&amp;Freedoms</title>
-        <subtitle>Digital security training for newbies (EFF)</subtitle>
+        <subtitle>A public identity infrastructure to defend the open Internet (Vittorio Bertolo)</subtitle>
         <track>self organized sessions</track>
         <type>talk</type>
         <language>de</language>
@@ -2322,15 +2322,15 @@ find physical POIs and buy goods without giving away your real identity.*</descr
           <link>https://events.ccc.de/congress/2017/wiki/index.php/Session:Rights%26Freedoms</link>
         </links>
       </event>
-      <event id="1162" guid="03e735b7-b277-5a51-a9ec-7f75c02df342">
+      <event id="1162" guid="02afee29-c6dc-5c9b-8272-daadd5ae1033">
         <logo/>
-        <date>2017-12-28T20:00:00+01:00</date>
-        <start>20:00</start>
-        <duration>1:00</duration>
+        <date>2017-12-28T15:00:00+01:00</date>
+        <start>15:00</start>
+        <duration>0:30</duration>
         <room>Hall 3</room>
         <slug/>
         <title>Rights&amp;Freedoms</title>
-        <subtitle>A public identity infrastructure to defend the open Internet (Vittorio Bertolo)</subtitle>
+        <subtitle>Digital security training for newbies (EFF)</subtitle>
         <track>self organized sessions</track>
         <type>talk</type>
         <language>de</language>
@@ -2398,7 +2398,7 @@ find physical POIs and buy goods without giving away your real identity.*</descr
           <link>https://events.ccc.de/congress/2017/wiki/index.php/Session:Rights%26Freedoms</link>
         </links>
       </event>
-      <event id="1175" guid="a04e61e6-2dcc-59d4-ab9e-73758eab3f39">
+      <event id="1176" guid="a04e61e6-2dcc-59d4-ab9e-73758eab3f39">
         <logo/>
         <date>2017-12-28T19:00:00+01:00</date>
         <start>19:00</start>
@@ -3562,7 +3562,7 @@ More information about this project:
           <link>https://events.ccc.de/congress/2017/wiki/index.php/Session:Public_Money%3F_Public_Code!</link>
         </links>
       </event>
-      <event id="1150" guid="c01aa0c7-e68c-59e1-9ea1-7745a39290cd">
+      <event id="1149" guid="c01aa0c7-e68c-59e1-9ea1-7745a39290cd">
         <logo/>
         <date>2017-12-29T15:00:00+01:00</date>
         <start>15:00</start>
@@ -3638,26 +3638,7 @@ More information about this project:
           <link>https://events.ccc.de/congress/2017/wiki/index.php/Session:Rights%26Freedoms</link>
         </links>
       </event>
-      <event id="1166" guid="f7078cfa-d45e-5dc5-bf27-4eb49a3a5b75">
-        <logo/>
-        <date>2017-12-29T18:00:00+01:00</date>
-        <start>18:00</start>
-        <duration>1:00</duration>
-        <room>Hall 3</room>
-        <slug/>
-        <title>Rights&amp;Freedoms</title>
-        <subtitle>DYI: Net Neutrality enforcement in the EU (Epicenter.works)</subtitle>
-        <track>self organized sessions</track>
-        <type>talk</type>
-        <language>de</language>
-        <abstract/>
-        <description>Rights &amp; Freedoms Cluster Stage Programme</description>
-        <persons/>
-        <links>
-          <link>https://events.ccc.de/congress/2017/wiki/index.php/Session:Rights%26Freedoms</link>
-        </links>
-      </event>
-      <event id="1167" guid="c61cff35-8ec9-5cf8-92f9-cd9cb7c570b0">
+      <event id="1166" guid="c61cff35-8ec9-5cf8-92f9-cd9cb7c570b0">
         <logo/>
         <date>2017-12-29T13:00:00+01:00</date>
         <start>13:00</start>
@@ -3676,15 +3657,15 @@ More information about this project:
           <link>https://events.ccc.de/congress/2017/wiki/index.php/Session:Rights%26Freedoms</link>
         </links>
       </event>
-      <event id="1172" guid="85fdb89c-85d8-527b-8020-273d1f7a3396">
+      <event id="1167" guid="f7078cfa-d45e-5dc5-bf27-4eb49a3a5b75">
         <logo/>
-        <date>2017-12-29T21:00:00+01:00</date>
-        <start>21:00</start>
+        <date>2017-12-29T18:00:00+01:00</date>
+        <start>18:00</start>
         <duration>1:00</duration>
         <room>Hall 3</room>
         <slug/>
         <title>Rights&amp;Freedoms</title>
-        <subtitle>Wie die flächendeckendeGesichtserkennung sich in unser Datenschutzgesetz eingeschlichen hat (Frank, Datenschutzraum) (in German)</subtitle>
+        <subtitle>DYI: Net Neutrality enforcement in the EU (Epicenter.works)</subtitle>
         <track>self organized sessions</track>
         <type>talk</type>
         <language>de</language>
@@ -3695,7 +3676,7 @@ More information about this project:
           <link>https://events.ccc.de/congress/2017/wiki/index.php/Session:Rights%26Freedoms</link>
         </links>
       </event>
-      <event id="1173" guid="8b2819b8-579d-5bea-a291-93a126841ff2">
+      <event id="1172" guid="8b2819b8-579d-5bea-a291-93a126841ff2">
         <logo/>
         <date>2017-12-29T14:00:00+01:00</date>
         <start>14:00</start>
@@ -3704,6 +3685,25 @@ More information about this project:
         <slug/>
         <title>Rights&amp;Freedoms</title>
         <subtitle>Digital Anonimity for Whistleblowing (Hermes Center)</subtitle>
+        <track>self organized sessions</track>
+        <type>talk</type>
+        <language>de</language>
+        <abstract/>
+        <description>Rights &amp; Freedoms Cluster Stage Programme</description>
+        <persons/>
+        <links>
+          <link>https://events.ccc.de/congress/2017/wiki/index.php/Session:Rights%26Freedoms</link>
+        </links>
+      </event>
+      <event id="1173" guid="85fdb89c-85d8-527b-8020-273d1f7a3396">
+        <logo/>
+        <date>2017-12-29T21:00:00+01:00</date>
+        <start>21:00</start>
+        <duration>1:00</duration>
+        <room>Hall 3</room>
+        <slug/>
+        <title>Rights&amp;Freedoms</title>
+        <subtitle>Wie die flächendeckendeGesichtserkennung sich in unser Datenschutzgesetz eingeschlichen hat (Frank, Datenschutzraum) (in German)</subtitle>
         <track>self organized sessions</track>
         <type>talk</type>
         <language>de</language>
@@ -4103,7 +4103,7 @@ The goal of this hands-on session is to pass on knowledge about protecting yours
       </event>
     </room>
     <room name="Hall 3">
-      <event id="1171" guid="50839139-1141-5cc7-a824-24d7584a0344">
+      <event id="1170" guid="50839139-1141-5cc7-a824-24d7584a0344">
         <logo/>
         <date>2017-12-30T14:00:00+01:00</date>
         <start>14:00</start>

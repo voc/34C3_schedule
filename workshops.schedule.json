@@ -969,7 +969,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1149, 
+                                "id": 1148, 
                                 "guid": "c935a033-b060-5588-819e-ad96e215b4c4", 
                                 "logo": null, 
                                 "date": "2017-12-27T13:00:00+01:00", 
@@ -1053,7 +1053,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1156, 
+                                "id": 1157, 
                                 "guid": "fe29864f-f90d-566b-becd-18910b6e9fef", 
                                 "logo": null, 
                                 "date": "2017-12-27T18:00:00+01:00", 
@@ -1138,27 +1138,6 @@
                             }, 
                             {
                                 "id": 1169, 
-                                "guid": "5e5eac9a-6921-53b2-a463-cfa9945554bb", 
-                                "logo": null, 
-                                "date": "2017-12-27T19:30:00+01:00", 
-                                "start": "19:30", 
-                                "duration": "0:30", 
-                                "room": "Hall 3", 
-                                "slug": "", 
-                                "title": "Rights&Freedoms", 
-                                "subtitle": "Algorithmic Transparency (EFF)", 
-                                "track": "self organized sessions", 
-                                "type": "talk", 
-                                "language": "de", 
-                                "abstract": "", 
-                                "description": "Rights & Freedoms Cluster Stage Programme", 
-                                "persons": [], 
-                                "links": [
-                                    "https://events.ccc.de/congress/2017/wiki/index.php/Session:Rights%26Freedoms"
-                                ]
-                            }, 
-                            {
-                                "id": 1170, 
                                 "guid": "12601af9-c84e-5114-b88d-db263f5bec53", 
                                 "logo": null, 
                                 "date": "2017-12-27T17:30:00+01:00", 
@@ -1179,7 +1158,28 @@
                                 ]
                             }, 
                             {
-                                "id": 1176, 
+                                "id": 1171, 
+                                "guid": "5e5eac9a-6921-53b2-a463-cfa9945554bb", 
+                                "logo": null, 
+                                "date": "2017-12-27T19:30:00+01:00", 
+                                "start": "19:30", 
+                                "duration": "0:30", 
+                                "room": "Hall 3", 
+                                "slug": "", 
+                                "title": "Rights&Freedoms", 
+                                "subtitle": "Algorithmic Transparency (EFF)", 
+                                "track": "self organized sessions", 
+                                "type": "talk", 
+                                "language": "de", 
+                                "abstract": "", 
+                                "description": "Rights & Freedoms Cluster Stage Programme", 
+                                "persons": [], 
+                                "links": [
+                                    "https://events.ccc.de/congress/2017/wiki/index.php/Session:Rights%26Freedoms"
+                                ]
+                            }, 
+                            {
+                                "id": 1175, 
                                 "guid": "fdd4a8e5-345d-5265-8a5e-b0930b1a2f61", 
                                 "logo": null, 
                                 "date": "2017-12-27T19:00:00+01:00", 
@@ -2635,7 +2635,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1148, 
+                                "id": 1150, 
                                 "guid": "89a4980b-84c9-5f80-8ae5-6fb9d0589627", 
                                 "logo": null, 
                                 "date": "2017-12-28T21:00:00+01:00", 
@@ -2677,7 +2677,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1157, 
+                                "id": 1156, 
                                 "guid": "182a4ddd-b48c-5559-a8e8-1fa31f657a4f", 
                                 "logo": null, 
                                 "date": "2017-12-28T18:00:00+01:00", 
@@ -2699,15 +2699,15 @@
                             }, 
                             {
                                 "id": 1161, 
-                                "guid": "02afee29-c6dc-5c9b-8272-daadd5ae1033", 
+                                "guid": "03e735b7-b277-5a51-a9ec-7f75c02df342", 
                                 "logo": null, 
-                                "date": "2017-12-28T15:00:00+01:00", 
-                                "start": "15:00", 
-                                "duration": "0:30", 
+                                "date": "2017-12-28T20:00:00+01:00", 
+                                "start": "20:00", 
+                                "duration": "1:00", 
                                 "room": "Hall 3", 
                                 "slug": "", 
                                 "title": "Rights&Freedoms", 
-                                "subtitle": "Digital security training for newbies (EFF)", 
+                                "subtitle": "A public identity infrastructure to defend the open Internet (Vittorio Bertolo)", 
                                 "track": "self organized sessions", 
                                 "type": "talk", 
                                 "language": "de", 
@@ -2720,15 +2720,15 @@
                             }, 
                             {
                                 "id": 1162, 
-                                "guid": "03e735b7-b277-5a51-a9ec-7f75c02df342", 
+                                "guid": "02afee29-c6dc-5c9b-8272-daadd5ae1033", 
                                 "logo": null, 
-                                "date": "2017-12-28T20:00:00+01:00", 
-                                "start": "20:00", 
-                                "duration": "1:00", 
+                                "date": "2017-12-28T15:00:00+01:00", 
+                                "start": "15:00", 
+                                "duration": "0:30", 
                                 "room": "Hall 3", 
                                 "slug": "", 
                                 "title": "Rights&Freedoms", 
-                                "subtitle": "A public identity infrastructure to defend the open Internet (Vittorio Bertolo)", 
+                                "subtitle": "Digital security training for newbies (EFF)", 
                                 "track": "self organized sessions", 
                                 "type": "talk", 
                                 "language": "de", 
@@ -2803,7 +2803,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1175, 
+                                "id": 1176, 
                                 "guid": "a04e61e6-2dcc-59d4-ab9e-73758eab3f39", 
                                 "logo": null, 
                                 "date": "2017-12-28T19:00:00+01:00", 
@@ -4166,7 +4166,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1150, 
+                                "id": 1149, 
                                 "guid": "c01aa0c7-e68c-59e1-9ea1-7745a39290cd", 
                                 "logo": null, 
                                 "date": "2017-12-29T15:00:00+01:00", 
@@ -4251,27 +4251,6 @@
                             }, 
                             {
                                 "id": 1166, 
-                                "guid": "f7078cfa-d45e-5dc5-bf27-4eb49a3a5b75", 
-                                "logo": null, 
-                                "date": "2017-12-29T18:00:00+01:00", 
-                                "start": "18:00", 
-                                "duration": "1:00", 
-                                "room": "Hall 3", 
-                                "slug": "", 
-                                "title": "Rights&Freedoms", 
-                                "subtitle": "DYI: Net Neutrality enforcement in the EU (Epicenter.works)", 
-                                "track": "self organized sessions", 
-                                "type": "talk", 
-                                "language": "de", 
-                                "abstract": "", 
-                                "description": "Rights & Freedoms Cluster Stage Programme", 
-                                "persons": [], 
-                                "links": [
-                                    "https://events.ccc.de/congress/2017/wiki/index.php/Session:Rights%26Freedoms"
-                                ]
-                            }, 
-                            {
-                                "id": 1167, 
                                 "guid": "c61cff35-8ec9-5cf8-92f9-cd9cb7c570b0", 
                                 "logo": null, 
                                 "date": "2017-12-29T13:00:00+01:00", 
@@ -4292,16 +4271,37 @@
                                 ]
                             }, 
                             {
-                                "id": 1172, 
-                                "guid": "85fdb89c-85d8-527b-8020-273d1f7a3396", 
+                                "id": 1167, 
+                                "guid": "f7078cfa-d45e-5dc5-bf27-4eb49a3a5b75", 
                                 "logo": null, 
-                                "date": "2017-12-29T21:00:00+01:00", 
-                                "start": "21:00", 
+                                "date": "2017-12-29T18:00:00+01:00", 
+                                "start": "18:00", 
                                 "duration": "1:00", 
                                 "room": "Hall 3", 
                                 "slug": "", 
                                 "title": "Rights&Freedoms", 
-                                "subtitle": "Wie die fl\u00e4chendeckendeGesichtserkennung sich in unser Datenschutzgesetz eingeschlichen hat (Frank, Datenschutzraum) (in German)", 
+                                "subtitle": "DYI: Net Neutrality enforcement in the EU (Epicenter.works)", 
+                                "track": "self organized sessions", 
+                                "type": "talk", 
+                                "language": "de", 
+                                "abstract": "", 
+                                "description": "Rights & Freedoms Cluster Stage Programme", 
+                                "persons": [], 
+                                "links": [
+                                    "https://events.ccc.de/congress/2017/wiki/index.php/Session:Rights%26Freedoms"
+                                ]
+                            }, 
+                            {
+                                "id": 1172, 
+                                "guid": "8b2819b8-579d-5bea-a291-93a126841ff2", 
+                                "logo": null, 
+                                "date": "2017-12-29T14:00:00+01:00", 
+                                "start": "14:00", 
+                                "duration": "1:00", 
+                                "room": "Hall 3", 
+                                "slug": "", 
+                                "title": "Rights&Freedoms", 
+                                "subtitle": "Digital Anonimity for Whistleblowing (Hermes Center)", 
                                 "track": "self organized sessions", 
                                 "type": "talk", 
                                 "language": "de", 
@@ -4314,15 +4314,15 @@
                             }, 
                             {
                                 "id": 1173, 
-                                "guid": "8b2819b8-579d-5bea-a291-93a126841ff2", 
+                                "guid": "85fdb89c-85d8-527b-8020-273d1f7a3396", 
                                 "logo": null, 
-                                "date": "2017-12-29T14:00:00+01:00", 
-                                "start": "14:00", 
+                                "date": "2017-12-29T21:00:00+01:00", 
+                                "start": "21:00", 
                                 "duration": "1:00", 
                                 "room": "Hall 3", 
                                 "slug": "", 
                                 "title": "Rights&Freedoms", 
-                                "subtitle": "Digital Anonimity for Whistleblowing (Hermes Center)", 
+                                "subtitle": "Wie die fl\u00e4chendeckendeGesichtserkennung sich in unser Datenschutzgesetz eingeschlichen hat (Frank, Datenschutzraum) (in German)", 
                                 "track": "self organized sessions", 
                                 "type": "talk", 
                                 "language": "de", 
@@ -4800,7 +4800,7 @@
                         ], 
                         "Hall 3": [
                             {
-                                "id": 1171, 
+                                "id": 1170, 
                                 "guid": "50839139-1141-5cc7-a824-24d7584a0344", 
                                 "logo": null, 
                                 "date": "2017-12-30T14:00:00+01:00", 
