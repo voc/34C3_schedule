@@ -2356,27 +2356,6 @@
                             }, 
                             {
                                 "id": 1150, 
-                                "guid": "12601af9-c84e-5114-b88d-db263f5bec53", 
-                                "logo": null, 
-                                "date": "2017-12-27T17:30:00+01:00", 
-                                "start": "17:30", 
-                                "duration": "0:30", 
-                                "room": "Hall 3", 
-                                "slug": "", 
-                                "title": "Rights&Freedoms", 
-                                "subtitle": "Are NAT translations respecting proportionality and data retention principles? (Hermes Center)", 
-                                "track": "self organized sessions", 
-                                "type": "talk", 
-                                "language": "de", 
-                                "abstract": "", 
-                                "description": "Rights & Freedoms Cluster Stage Programme", 
-                                "persons": [], 
-                                "links": [
-                                    "https://events.ccc.de/congress/2017/wiki/index.php/Session:Rights%26Freedoms"
-                                ]
-                            }, 
-                            {
-                                "id": 1152, 
                                 "guid": "5e5eac9a-6921-53b2-a463-cfa9945554bb", 
                                 "logo": null, 
                                 "date": "2017-12-27T19:30:00+01:00", 
@@ -2397,7 +2376,28 @@
                                 ]
                             }, 
                             {
-                                "id": 1156, 
+                                "id": 1151, 
+                                "guid": "12601af9-c84e-5114-b88d-db263f5bec53", 
+                                "logo": null, 
+                                "date": "2017-12-27T17:30:00+01:00", 
+                                "start": "17:30", 
+                                "duration": "0:30", 
+                                "room": "Hall 3", 
+                                "slug": "", 
+                                "title": "Rights&Freedoms", 
+                                "subtitle": "Are NAT translations respecting proportionality and data retention principles? (Hermes Center)", 
+                                "track": "self organized sessions", 
+                                "type": "talk", 
+                                "language": "de", 
+                                "abstract": "", 
+                                "description": "Rights & Freedoms Cluster Stage Programme", 
+                                "persons": [], 
+                                "links": [
+                                    "https://events.ccc.de/congress/2017/wiki/index.php/Session:Rights%26Freedoms"
+                                ]
+                            }, 
+                            {
+                                "id": 1157, 
                                 "guid": "fdd4a8e5-345d-5265-8a5e-b0930b1a2f61", 
                                 "logo": null, 
                                 "date": "2017-12-27T19:00:00+01:00", 
@@ -2418,7 +2418,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1158, 
+                                "id": 1159, 
                                 "guid": "c935a033-b060-5588-819e-ad96e215b4c4", 
                                 "logo": null, 
                                 "date": "2017-12-27T13:00:00+01:00", 
@@ -2502,7 +2502,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1167, 
+                                "id": 1166, 
                                 "guid": "fe29864f-f90d-566b-becd-18910b6e9fef", 
                                 "logo": null, 
                                 "date": "2017-12-27T18:00:00+01:00", 
@@ -3240,7 +3240,7 @@
                         ], 
                         "Assembly:TeaHouse": [
                             {
-                                "id": 1205, 
+                                "id": 1206, 
                                 "guid": "8fa91722-f766-5f89-b6d7-0ea77ccedde3", 
                                 "logo": null, 
                                 "date": "2017-12-27T13:00:00+01:00", 
@@ -3268,7 +3268,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1210, 
+                                "id": 1211, 
                                 "guid": "d108def6-d06e-5aa3-b602-318159d7617b", 
                                 "logo": null, 
                                 "date": "2017-12-27T14:30:00+01:00", 
@@ -3296,7 +3296,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1214, 
+                                "id": 1215, 
                                 "guid": "7adeda34-568c-5a3e-9cb2-1a9ee24fe255", 
                                 "logo": null, 
                                 "date": "2017-12-27T17:00:00+01:00", 
@@ -5287,7 +5287,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1157, 
+                                "id": 1156, 
                                 "guid": "a04e61e6-2dcc-59d4-ab9e-73758eab3f39", 
                                 "logo": null, 
                                 "date": "2017-12-28T19:00:00+01:00", 
@@ -5308,7 +5308,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1160, 
+                                "id": 1158, 
                                 "guid": "89a4980b-84c9-5f80-8ae5-6fb9d0589627", 
                                 "logo": null, 
                                 "date": "2017-12-28T21:00:00+01:00", 
@@ -5350,7 +5350,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1166, 
+                                "id": 1167, 
                                 "guid": "182a4ddd-b48c-5559-a8e8-1fa31f657a4f", 
                                 "logo": null, 
                                 "date": "2017-12-28T18:00:00+01:00", 
@@ -5372,15 +5372,15 @@
                             }, 
                             {
                                 "id": 1171, 
-                                "guid": "03e735b7-b277-5a51-a9ec-7f75c02df342", 
+                                "guid": "02afee29-c6dc-5c9b-8272-daadd5ae1033", 
                                 "logo": null, 
-                                "date": "2017-12-28T20:00:00+01:00", 
-                                "start": "20:00", 
-                                "duration": "1:00", 
+                                "date": "2017-12-28T15:00:00+01:00", 
+                                "start": "15:00", 
+                                "duration": "0:30", 
                                 "room": "Hall 3", 
                                 "slug": "", 
                                 "title": "Rights&Freedoms", 
-                                "subtitle": "A public identity infrastructure to defend the open Internet (Vittorio Bertolo)", 
+                                "subtitle": "Digital security training for newbies (EFF)", 
                                 "track": "self organized sessions", 
                                 "type": "talk", 
                                 "language": "de", 
@@ -5393,15 +5393,15 @@
                             }, 
                             {
                                 "id": 1172, 
-                                "guid": "02afee29-c6dc-5c9b-8272-daadd5ae1033", 
+                                "guid": "03e735b7-b277-5a51-a9ec-7f75c02df342", 
                                 "logo": null, 
-                                "date": "2017-12-28T15:00:00+01:00", 
-                                "start": "15:00", 
-                                "duration": "0:30", 
+                                "date": "2017-12-28T20:00:00+01:00", 
+                                "start": "20:00", 
+                                "duration": "1:00", 
                                 "room": "Hall 3", 
                                 "slug": "", 
                                 "title": "Rights&Freedoms", 
-                                "subtitle": "Digital security training for newbies (EFF)", 
+                                "subtitle": "A public identity infrastructure to defend the open Internet (Vittorio Bertolo)", 
                                 "track": "self organized sessions", 
                                 "type": "talk", 
                                 "language": "de", 
@@ -6862,7 +6862,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1206, 
+                                "id": 1205, 
                                 "guid": "31362e0c-fa84-54f1-9aa6-a7a17ed1ccef", 
                                 "logo": null, 
                                 "date": "2017-12-28T14:30:00+01:00", 
@@ -6918,7 +6918,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1215, 
+                                "id": 1214, 
                                 "guid": "82a31627-ecbc-5f9a-9f02-9bba54909390", 
                                 "logo": null, 
                                 "date": "2017-12-28T19:00:00+01:00", 
@@ -9970,27 +9970,6 @@
                             }, 
                             {
                                 "id": 1147, 
-                                "guid": "c61cff35-8ec9-5cf8-92f9-cd9cb7c570b0", 
-                                "logo": null, 
-                                "date": "2017-12-29T13:00:00+01:00", 
-                                "start": "13:00", 
-                                "duration": "1:00", 
-                                "room": "Hall 3", 
-                                "slug": "", 
-                                "title": "Rights&Freedoms", 
-                                "subtitle": "Information security theater vs. Investigative journalism (Rysiek, OCCRP)", 
-                                "track": "self organized sessions", 
-                                "type": "talk", 
-                                "language": "de", 
-                                "abstract": "", 
-                                "description": "Rights & Freedoms Cluster Stage Programme", 
-                                "persons": [], 
-                                "links": [
-                                    "https://events.ccc.de/congress/2017/wiki/index.php/Session:Rights%26Freedoms"
-                                ]
-                            }, 
-                            {
-                                "id": 1148, 
                                 "guid": "f7078cfa-d45e-5dc5-bf27-4eb49a3a5b75", 
                                 "logo": null, 
                                 "date": "2017-12-29T18:00:00+01:00", 
@@ -10011,16 +9990,16 @@
                                 ]
                             }, 
                             {
-                                "id": 1153, 
-                                "guid": "8b2819b8-579d-5bea-a291-93a126841ff2", 
+                                "id": 1148, 
+                                "guid": "c61cff35-8ec9-5cf8-92f9-cd9cb7c570b0", 
                                 "logo": null, 
-                                "date": "2017-12-29T14:00:00+01:00", 
-                                "start": "14:00", 
+                                "date": "2017-12-29T13:00:00+01:00", 
+                                "start": "13:00", 
                                 "duration": "1:00", 
                                 "room": "Hall 3", 
                                 "slug": "", 
                                 "title": "Rights&Freedoms", 
-                                "subtitle": "Digital Anonimity for Whistleblowing (Hermes Center)", 
+                                "subtitle": "Information security theater vs. Investigative journalism (Rysiek, OCCRP)", 
                                 "track": "self organized sessions", 
                                 "type": "talk", 
                                 "language": "de", 
@@ -10032,7 +10011,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1154, 
+                                "id": 1153, 
                                 "guid": "85fdb89c-85d8-527b-8020-273d1f7a3396", 
                                 "logo": null, 
                                 "date": "2017-12-29T21:00:00+01:00", 
@@ -10053,7 +10032,28 @@
                                 ]
                             }, 
                             {
-                                "id": 1159, 
+                                "id": 1154, 
+                                "guid": "8b2819b8-579d-5bea-a291-93a126841ff2", 
+                                "logo": null, 
+                                "date": "2017-12-29T14:00:00+01:00", 
+                                "start": "14:00", 
+                                "duration": "1:00", 
+                                "room": "Hall 3", 
+                                "slug": "", 
+                                "title": "Rights&Freedoms", 
+                                "subtitle": "Digital Anonimity for Whistleblowing (Hermes Center)", 
+                                "track": "self organized sessions", 
+                                "type": "talk", 
+                                "language": "de", 
+                                "abstract": "", 
+                                "description": "Rights & Freedoms Cluster Stage Programme", 
+                                "persons": [], 
+                                "links": [
+                                    "https://events.ccc.de/congress/2017/wiki/index.php/Session:Rights%26Freedoms"
+                                ]
+                            }, 
+                            {
+                                "id": 1160, 
                                 "guid": "c01aa0c7-e68c-59e1-9ea1-7745a39290cd", 
                                 "logo": null, 
                                 "date": "2017-12-29T15:00:00+01:00", 
@@ -11673,7 +11673,7 @@
                         ], 
                         "Hall 3": [
                             {
-                                "id": 1151, 
+                                "id": 1152, 
                                 "guid": "50839139-1141-5cc7-a824-24d7584a0344", 
                                 "logo": null, 
                                 "date": "2017-12-30T14:00:00+01:00", 
