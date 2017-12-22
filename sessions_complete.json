@@ -240,52 +240,54 @@
             "1514475000"
         ]
     }, 
-    "Session:Video Game Development Meetup# 55b1c1ce1b633caca9a4b58ff6c3cdbc": {
+    "Session:Intro to Arduino Shield Soldering and Programing# e7cf26cf3d60536df83f3270eb6d0c9e": {
         "Held in language": [
             "en - English"
         ], 
         "Has start time": [
-            "1514484000"
+            "1514568600"
         ], 
         "Has event track": [
             "Session"
         ], 
-        "Has website": [], 
+        "Has website": [
+            "http://hammeshacks.com/intro/"
+        ], 
         "Has description": [
-            "We're a bunch of people who participated in the game jam \"Ludum Dare\" this year. Whether you're curious about video game development, or a seasoned indie game developer \u2013 let's meet, talk about our experiences, and play each others' games! :)"
+            "The Intro to Arduino shield is a simple kit which plugs into an Arduino Uno or similar. It includes a button, light sensor (LDR) and red green blue LED. The LED can be controlled as a digitial or an analog output, the button is a digitial input and the sensor is an analog input."
         ], 
         "Has session type": [
-            "Meeting"
+            "Workshop"
         ], 
         "Has session location": [
             {
-                "fulltext": "Room:Seminar room 13", 
-                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Room:Seminar_room_13", 
-                "namespace": 516, 
+                "fulltext": "Assembly:HardwareHackingArea", 
+                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Assembly:HardwareHackingArea", 
+                "namespace": 504, 
                 "exists": true
             }
         ], 
         "Has subtitle": [], 
         "Is organized by": [
             {
-                "fulltext": "User:Blinry", 
-                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/User:Blinry", 
+                "fulltext": "User:Hammes Hacks", 
+                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/User:Hammes_Hacks", 
                 "namespace": 2, 
                 "exists": true
             }
         ], 
         "Has title": [
-            "Video Game Development Meetup"
+            "Intro to Arduino Shield Soldering and Programing"
         ], 
         "Has duration": [
-            60
+            150
         ], 
         "Has color": [
             "#0099ab"
         ], 
-        "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:Video_Game_Development_Meetup", 
+        "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:Intro_to_Arduino_Shield_Soldering_and_Programing", 
         "Has end time": [
-            "1514487600"
+            "1514577600"
         ]
     }, 
     "Session:Disrupt!# 258de97cfe0ad248ba702c8bb269b7ba": {
@@ -323,49 +325,47 @@
             "1514397600"
         ]
     }, 
-    "Session:Intro to Arduino Shield Soldering and Programing# 82bbb861393b205daca421169b9315dd": {
-        "Held in language": [
-            "en - English"
+    "Session:Smart Cities - reality or fata morgana ?# fe227fc9d8394753e8bbaea0154ae3ad": {
+        "Held in language": [], 
+        "Has start time": [
+            "1514563200"
         ], 
-        "Has start time": [], 
         "Has event track": [
             "Session"
         ], 
-        "Has website": [
-            "http://hammeshacks.com/intro/"
-        ], 
-        "Has description": [
-            "The Intro to Arduino shield is a simple kit which plugs into an Arduino Uno or similar. It includes a button, light sensor (LDR) and red green blue LED. The LED can be controlled as a digitial or an analog output, the button is a digitial input and the sensor is an analog input."
-        ], 
-        "Has session type": [
-            "Workshop"
-        ], 
+        "Has website": [], 
+        "Has description": [], 
+        "Has session type": [], 
         "Has session location": [
             {
-                "fulltext": "Assembly:HardwareHackingArea", 
-                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Assembly:HardwareHackingArea", 
-                "namespace": 504, 
+                "fulltext": "Room:Komona Aquarius", 
+                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Room:Komona_Aquarius", 
+                "namespace": 516, 
                 "exists": true
             }
         ], 
         "Has subtitle": [], 
         "Is organized by": [
             {
-                "fulltext": "User:Hammes Hacks", 
-                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/User:Hammes_Hacks", 
+                "fulltext": "User:Webmind", 
+                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/User:Webmind", 
                 "namespace": 2, 
                 "exists": true
             }
         ], 
         "Has title": [
-            "Intro to Arduino Shield Soldering and Programing"
+            "Smart Cities - reality or fata morgana ?"
         ], 
-        "Has duration": [], 
+        "Has duration": [
+            120
+        ], 
         "Has color": [
             "#0099ab"
         ], 
-        "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:Intro_to_Arduino_Shield_Soldering_and_Programing", 
-        "Has end time": []
+        "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:Smart_Cities_-_reality_or_fata_morgana_%3F", 
+        "Has end time": [
+            "1514570400"
+        ]
     }, 
     "Session:TeaHouse# 7a841b7b6267edebee6beda43d57980e": {
         "Held in language": [
@@ -1106,50 +1106,6 @@
             "1514476800"
         ]
     }, 
-    "Session:Intro to Arduino Shield Soldering and Programing# 911ac5cb16e18633309a2894787595be": {
-        "Held in language": [
-            "en - English"
-        ], 
-        "Has start time": [], 
-        "Has event track": [
-            "Session"
-        ], 
-        "Has website": [
-            "http://hammeshacks.com/intro/"
-        ], 
-        "Has description": [
-            "The Intro to Arduino shield is a simple kit which plugs into an Arduino Uno or similar. It includes a button, light sensor (LDR) and red green blue LED. The LED can be controlled as a digitial or an analog output, the button is a digitial input and the sensor is an analog input."
-        ], 
-        "Has session type": [
-            "Workshop"
-        ], 
-        "Has session location": [
-            {
-                "fulltext": "Assembly:HardwareHackingArea", 
-                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Assembly:HardwareHackingArea", 
-                "namespace": 504, 
-                "exists": true
-            }
-        ], 
-        "Has subtitle": [], 
-        "Is organized by": [
-            {
-                "fulltext": "User:Hammes Hacks", 
-                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/User:Hammes_Hacks", 
-                "namespace": 2, 
-                "exists": true
-            }
-        ], 
-        "Has title": [
-            "Intro to Arduino Shield Soldering and Programing"
-        ], 
-        "Has duration": [], 
-        "Has color": [
-            "#0099ab"
-        ], 
-        "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:Intro_to_Arduino_Shield_Soldering_and_Programing", 
-        "Has end time": []
-    }, 
     "Session:Hacking with wget# 518ebf05c1b341666502a5a4658f7522": {
         "Held in language": [
             "en - English"
@@ -1882,45 +1838,48 @@
             "1514559600"
         ]
     }, 
-    "Session:Sind wir schon Cyborgs?# 01e6306f7ac314bd37fa86aa04fc7cef": {
+    "Session:Rights&Freedoms# 7d2d86410076ca427ce948aed1a2d7eb": {
         "Held in language": [
-            "de - German"
+            "de - German", 
+            "en - English"
         ], 
         "Has start time": [
-            "1514487600"
+            "1514563200"
         ], 
         "Has event track": [
             "Session"
         ], 
         "Has website": [], 
         "Has description": [
-            "Sind wir schon cyborgs oder warum wir eine kulturelle techno-Revolution brauchen! (Anna)"
+            "Rights & Freedoms Cluster Stage Programme"
         ], 
         "Has session type": [
-            "Workshop"
+            "Talk"
         ], 
         "Has session location": [
             {
-                "fulltext": "Room:Komona D.Ressrosa", 
-                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Room:Komona_D.Ressrosa", 
+                "fulltext": "Room:CCL Hall 3", 
+                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Room:CCL_Hall_3", 
                 "namespace": 516, 
                 "exists": true
             }
         ], 
-        "Has subtitle": [], 
+        "Has subtitle": [
+            "Fixing mass surveillance: one court case at a time! (Exegetes)"
+        ], 
         "Is organized by": [], 
         "Has title": [
-            "Sind wir schon Cyborgs?"
+            "Rights&Freedoms"
         ], 
         "Has duration": [
-            60
+            120
         ], 
         "Has color": [
             "#0099ab"
         ], 
-        "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:Sind_wir_schon_Cyborgs%3F", 
+        "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:Rights%26Freedoms", 
         "Has end time": [
-            "1514491200"
+            "1514570400"
         ]
     }, 
     "Session:Radio Neu# 213796d14c33cb22564157bc8e341f24": {
@@ -2587,46 +2546,56 @@
             "1514606400"
         ]
     }, 
-    "Session:Smart Cities - reality or fata morgana ?# fe227fc9d8394753e8bbaea0154ae3ad": {
-        "Held in language": [], 
+    "Session:Three Ways to Enhance Metadata Protection Beyond Tor# 25f2f9fab8376f6993b7d51e80d4172d": {
+        "Held in language": [
+            "en - English"
+        ], 
         "Has start time": [
-            "1514563200"
+            "1514383200"
         ], 
         "Has event track": [
             "Session"
         ], 
-        "Has website": [], 
-        "Has description": [], 
-        "Has session type": [], 
+        "Has website": [
+            "http://secushare.cheettyiapsyciew.onion/anonymity"
+        ], 
+        "Has description": [
+            "1. the *cover traffic* from file sharing, DHT and eventually multicast;\n2. the *framing* of application data,\n3. *mixnets* for high-latency applications."
+        ], 
+        "Has session type": [
+            "Talk"
+        ], 
         "Has session location": [
             {
-                "fulltext": "Room:Komona Aquarius", 
-                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Room:Komona_Aquarius", 
+                "fulltext": "Room:Chaos West Stage", 
+                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Room:Chaos_West_Stage", 
                 "namespace": 516, 
                 "exists": true
             }
         ], 
-        "Has subtitle": [], 
+        "Has subtitle": [
+            "secushare.org"
+        ], 
         "Is organized by": [
             {
-                "fulltext": "User:Webmind", 
-                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/User:Webmind", 
+                "fulltext": "User:LynX", 
+                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/User:LynX", 
                 "namespace": 2, 
                 "exists": true
             }
         ], 
         "Has title": [
-            "Smart Cities - reality or fata morgana ?"
+            "Three Ways to Enhance Metadata Protection Beyond Tor"
         ], 
         "Has duration": [
-            120
+            45
         ], 
         "Has color": [
             "#0099ab"
         ], 
-        "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:Smart_Cities_-_reality_or_fata_morgana_%3F", 
+        "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:Three_Ways_to_Enhance_Metadata_Protection_Beyond_Tor", 
         "Has end time": [
-            "1514570400"
+            "1514385900"
         ]
     }, 
     "Session:MASKIERTE GRUPPENDYNAMIK# 82cd529b840464c1341742edb5852bd7": {
@@ -3515,13 +3484,13 @@
             "1514505540"
         ]
     }, 
-    "Session:Rights&Freedoms# 7d2d86410076ca427ce948aed1a2d7eb": {
+    "Session:Rights&Freedoms# 81655bd36bd56fe173104843095c2ba2": {
         "Held in language": [
             "de - German", 
             "en - English"
         ], 
         "Has start time": [
-            "1514563200"
+            "1514480400"
         ], 
         "Has event track": [
             "Session"
@@ -3542,21 +3511,21 @@
             }
         ], 
         "Has subtitle": [
-            "Fixing mass surveillance: one court case at a time! (Exegetes)"
+            "Strategic litigation in Germany- complaints to stop mass surveillance (Ulf Buermeyer, GFF)"
         ], 
         "Is organized by": [], 
         "Has title": [
             "Rights&Freedoms"
         ], 
         "Has duration": [
-            120
+            60
         ], 
         "Has color": [
             "#0099ab"
         ], 
         "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:Rights%26Freedoms", 
         "Has end time": [
-            "1514570400"
+            "1514484000"
         ]
     }, 
     "Session:Talks# 8c3500a10da1a56fe538738ad1c21dde": {
@@ -3835,49 +3804,55 @@
             "1514404800"
         ]
     }, 
-    "Session:Intro to Arduino Shield Soldering and Programing# 93038902e29ef847c25e030a3086dc20": {
+    "Session:TeaHouse# 8977caad1706e1d547740aa18536c7a8": {
         "Held in language": [
             "en - English"
         ], 
-        "Has start time": [], 
+        "Has start time": [
+            "1514635200"
+        ], 
         "Has event track": [
             "Session"
         ], 
         "Has website": [
-            "http://hammeshacks.com/intro/"
+            "https://teahouse.homecomputing.fr/"
         ], 
-        "Has description": [
-            "The Intro to Arduino shield is a simple kit which plugs into an Arduino Uno or similar. It includes a button, light sensor (LDR) and red green blue LED. The LED can be controlled as a digitial or an analog output, the button is a digitial input and the sensor is an analog input."
-        ], 
+        "Has description": [], 
         "Has session type": [
-            "Workshop"
+            "Meeting"
         ], 
         "Has session location": [
             {
-                "fulltext": "Assembly:HardwareHackingArea", 
-                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Assembly:HardwareHackingArea", 
+                "fulltext": "Assembly:TeaHouse", 
+                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Assembly:TeaHouse", 
                 "namespace": 504, 
                 "exists": true
             }
         ], 
-        "Has subtitle": [], 
+        "Has subtitle": [
+            "Updating Security in a Box"
+        ], 
         "Is organized by": [
             {
-                "fulltext": "User:Hammes Hacks", 
-                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/User:Hammes_Hacks", 
+                "fulltext": "User:Sanpi", 
+                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/User:Sanpi", 
                 "namespace": 2, 
                 "exists": true
             }
         ], 
         "Has title": [
-            "Intro to Arduino Shield Soldering and Programing"
+            "TeaHouse"
         ], 
-        "Has duration": [], 
+        "Has duration": [
+            30
+        ], 
         "Has color": [
             "#0099ab"
         ], 
-        "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:Intro_to_Arduino_Shield_Soldering_and_Programing", 
-        "Has end time": []
+        "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:TeaHouse", 
+        "Has end time": [
+            "1514637000"
+        ]
     }, 
     "Session:WireGuard# 7ff5d04bbb77fd089e25000888fd3ac3": {
         "Held in language": [
@@ -5539,50 +5514,6 @@
             "1514635200"
         ]
     }, 
-    "Session:Rights&Freedoms# 81655bd36bd56fe173104843095c2ba2": {
-        "Held in language": [
-            "de - German", 
-            "en - English"
-        ], 
-        "Has start time": [
-            "1514480400"
-        ], 
-        "Has event track": [
-            "Session"
-        ], 
-        "Has website": [], 
-        "Has description": [
-            "Rights & Freedoms Cluster Stage Programme"
-        ], 
-        "Has session type": [
-            "Talk"
-        ], 
-        "Has session location": [
-            {
-                "fulltext": "Room:CCL Hall 3", 
-                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Room:CCL_Hall_3", 
-                "namespace": 516, 
-                "exists": true
-            }
-        ], 
-        "Has subtitle": [
-            "Strategic litigation in Germany- complaints to stop mass surveillance (Ulf Buermeyer, GFF)"
-        ], 
-        "Is organized by": [], 
-        "Has title": [
-            "Rights&Freedoms"
-        ], 
-        "Has duration": [
-            60
-        ], 
-        "Has color": [
-            "#0099ab"
-        ], 
-        "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:Rights%26Freedoms", 
-        "Has end time": [
-            "1514484000"
-        ]
-    }, 
     "Session:How does artificial intelligence accomplish the feat of learning? (Wondrous Mathematics)# 92d5dba90bd489895fba597a036bfb18": {
         "Held in language": [
             "en - English"
@@ -5978,6 +5909,56 @@
             "1514469600"
         ]
     }, 
+    "Session:Intro to Arduino Shield Soldering and Programing# f4982a3bc780a7944bd23a537d3eb48e": {
+        "Held in language": [
+            "en - English"
+        ], 
+        "Has start time": [
+            "1514482200"
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [
+            "http://hammeshacks.com/intro/"
+        ], 
+        "Has description": [
+            "The Intro to Arduino shield is a simple kit which plugs into an Arduino Uno or similar. It includes a button, light sensor (LDR) and red green blue LED. The LED can be controlled as a digitial or an analog output, the button is a digitial input and the sensor is an analog input."
+        ], 
+        "Has session type": [
+            "Workshop"
+        ], 
+        "Has session location": [
+            {
+                "fulltext": "Assembly:HardwareHackingArea", 
+                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Assembly:HardwareHackingArea", 
+                "namespace": 504, 
+                "exists": true
+            }
+        ], 
+        "Has subtitle": [], 
+        "Is organized by": [
+            {
+                "fulltext": "User:Hammes Hacks", 
+                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/User:Hammes_Hacks", 
+                "namespace": 2, 
+                "exists": true
+            }
+        ], 
+        "Has title": [
+            "Intro to Arduino Shield Soldering and Programing"
+        ], 
+        "Has duration": [
+            150
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:Intro_to_Arduino_Shield_Soldering_and_Programing", 
+        "Has end time": [
+            "1514491200"
+        ]
+    }, 
     "Session:Security Without Borders# 77b19904bc175785c30273f753eee496": {
         "Held in language": [], 
         "Has start time": [
@@ -6349,6 +6330,56 @@
         "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:Surface_mount_electronics_assembly_for_terrified_beginners", 
         "Has end time": [
             "1514637000"
+        ]
+    }, 
+    "Session:Intro to Arduino Shield Soldering and Programing# e4c70255991c1a267efa244e50afb06b": {
+        "Held in language": [
+            "en - English"
+        ], 
+        "Has start time": [
+            "1514395800"
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [
+            "http://hammeshacks.com/intro/"
+        ], 
+        "Has description": [
+            "The Intro to Arduino shield is a simple kit which plugs into an Arduino Uno or similar. It includes a button, light sensor (LDR) and red green blue LED. The LED can be controlled as a digitial or an analog output, the button is a digitial input and the sensor is an analog input."
+        ], 
+        "Has session type": [
+            "Workshop"
+        ], 
+        "Has session location": [
+            {
+                "fulltext": "Assembly:HardwareHackingArea", 
+                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Assembly:HardwareHackingArea", 
+                "namespace": 504, 
+                "exists": true
+            }
+        ], 
+        "Has subtitle": [], 
+        "Is organized by": [
+            {
+                "fulltext": "User:Hammes Hacks", 
+                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/User:Hammes_Hacks", 
+                "namespace": 2, 
+                "exists": true
+            }
+        ], 
+        "Has title": [
+            "Intro to Arduino Shield Soldering and Programing"
+        ], 
+        "Has duration": [
+            150
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:Intro_to_Arduino_Shield_Soldering_and_Programing", 
+        "Has end time": [
+            "1514404800"
         ]
     }, 
     "Session:MASKIERTE GRUPPENDYNAMIK (Henk)# 7cb07c12459e8a2ae4ec16da6ebe09af": {
@@ -7953,56 +7984,6 @@
             "1514574000"
         ]
     }, 
-    "Session:TeaHouse# 8977caad1706e1d547740aa18536c7a8": {
-        "Held in language": [
-            "en - English"
-        ], 
-        "Has start time": [
-            "1514635200"
-        ], 
-        "Has event track": [
-            "Session"
-        ], 
-        "Has website": [
-            "https://teahouse.homecomputing.fr/"
-        ], 
-        "Has description": [], 
-        "Has session type": [
-            "Meeting"
-        ], 
-        "Has session location": [
-            {
-                "fulltext": "Assembly:TeaHouse", 
-                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Assembly:TeaHouse", 
-                "namespace": 504, 
-                "exists": true
-            }
-        ], 
-        "Has subtitle": [
-            "Updating Security in a Box"
-        ], 
-        "Is organized by": [
-            {
-                "fulltext": "User:Sanpi", 
-                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/User:Sanpi", 
-                "namespace": 2, 
-                "exists": true
-            }
-        ], 
-        "Has title": [
-            "TeaHouse"
-        ], 
-        "Has duration": [
-            30
-        ], 
-        "Has color": [
-            "#0099ab"
-        ], 
-        "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:TeaHouse", 
-        "Has end time": [
-            "1514637000"
-        ]
-    }, 
     "Session:SPREE:PUBLIK/Nonstop Schwitzen# 70d1f6a95afce1b17eec80233f6baa7d": {
         "Held in language": [], 
         "Has start time": [
@@ -8036,6 +8017,54 @@
         "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:SPREE:PUBLIK/Nonstop_Schwitzen", 
         "Has end time": [
             "1514404800"
+        ]
+    }, 
+    "Session:Video Game Development Meetup# 55b1c1ce1b633caca9a4b58ff6c3cdbc": {
+        "Held in language": [
+            "en - English"
+        ], 
+        "Has start time": [
+            "1514484000"
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [], 
+        "Has description": [
+            "We're a bunch of people who participated in the game jam \"Ludum Dare\" this year. Whether you're curious about video game development, or a seasoned indie game developer \u2013 let's meet, talk about our experiences, and play each others' games! :)"
+        ], 
+        "Has session type": [
+            "Meeting"
+        ], 
+        "Has session location": [
+            {
+                "fulltext": "Room:Seminar room 13", 
+                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Room:Seminar_room_13", 
+                "namespace": 516, 
+                "exists": true
+            }
+        ], 
+        "Has subtitle": [], 
+        "Is organized by": [
+            {
+                "fulltext": "User:Blinry", 
+                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/User:Blinry", 
+                "namespace": 2, 
+                "exists": true
+            }
+        ], 
+        "Has title": [
+            "Video Game Development Meetup"
+        ], 
+        "Has duration": [
+            60
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:Video_Game_Development_Meetup", 
+        "Has end time": [
+            "1514487600"
         ]
     }, 
     "Session:OParl: ein Datenstandard, um politische Entscheidungen transparent zu machen# 879d7918bdf4074183d266ed233bbb2b": {
@@ -10126,6 +10155,47 @@
             "1514552400"
         ]
     }, 
+    "Session:Sind wir schon Cyborgs?# 01e6306f7ac314bd37fa86aa04fc7cef": {
+        "Held in language": [
+            "de - German"
+        ], 
+        "Has start time": [
+            "1514487600"
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [], 
+        "Has description": [
+            "Sind wir schon cyborgs oder warum wir eine kulturelle techno-Revolution brauchen! (Anna)"
+        ], 
+        "Has session type": [
+            "Workshop"
+        ], 
+        "Has session location": [
+            {
+                "fulltext": "Room:Komona D.Ressrosa", 
+                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Room:Komona_D.Ressrosa", 
+                "namespace": 516, 
+                "exists": true
+            }
+        ], 
+        "Has subtitle": [], 
+        "Is organized by": [], 
+        "Has title": [
+            "Sind wir schon Cyborgs?"
+        ], 
+        "Has duration": [
+            60
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:Sind_wir_schon_Cyborgs%3F", 
+        "Has end time": [
+            "1514491200"
+        ]
+    }, 
     "Session:Surface mount electronics assembly for terrified beginners# ad2d4bc330a74b93d6809890a817b609": {
         "Held in language": [
             "en - English"
@@ -11681,58 +11751,6 @@
             "1514383200"
         ]
     }, 
-    "Session:Three Ways to Enhance Metadata Protection Beyond Tor# 25f2f9fab8376f6993b7d51e80d4172d": {
-        "Held in language": [
-            "en - English"
-        ], 
-        "Has start time": [
-            "1514383200"
-        ], 
-        "Has event track": [
-            "Session"
-        ], 
-        "Has website": [
-            "http://secushare.cheettyiapsyciew.onion/anonymity"
-        ], 
-        "Has description": [
-            "1. the *cover traffic* from file sharing, DHT and eventually multicast;\n2. the *framing* of application data,\n3. *mixnets* for high-latency applications."
-        ], 
-        "Has session type": [
-            "Talk"
-        ], 
-        "Has session location": [
-            {
-                "fulltext": "Room:Chaos West Stage", 
-                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Room:Chaos_West_Stage", 
-                "namespace": 516, 
-                "exists": true
-            }
-        ], 
-        "Has subtitle": [
-            "secushare.org"
-        ], 
-        "Is organized by": [
-            {
-                "fulltext": "User:LynX", 
-                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/User:LynX", 
-                "namespace": 2, 
-                "exists": true
-            }
-        ], 
-        "Has title": [
-            "Three Ways to Enhance Metadata Protection Beyond Tor"
-        ], 
-        "Has duration": [
-            45
-        ], 
-        "Has color": [
-            "#0099ab"
-        ], 
-        "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:Three_Ways_to_Enhance_Metadata_Protection_Beyond_Tor", 
-        "Has end time": [
-            "1514385900"
-        ]
-    }, 
     "Session:LearnToSolder# 7766fab88776d627083edf2937c733c9": {
         "Held in language": [
             "en - English"
@@ -12017,6 +12035,56 @@
             "1514557800"
         ]
     }, 
+    "Session:Intro to Arduino Shield Soldering and Programing# d26cab8099cfd6607b674c516bfb2a1f": {
+        "Held in language": [
+            "en - English"
+        ], 
+        "Has start time": [
+            "1514638800"
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [
+            "http://hammeshacks.com/intro/"
+        ], 
+        "Has description": [
+            "The Intro to Arduino shield is a simple kit which plugs into an Arduino Uno or similar. It includes a button, light sensor (LDR) and red green blue LED. The LED can be controlled as a digitial or an analog output, the button is a digitial input and the sensor is an analog input."
+        ], 
+        "Has session type": [
+            "Workshop"
+        ], 
+        "Has session location": [
+            {
+                "fulltext": "Assembly:HardwareHackingArea", 
+                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Assembly:HardwareHackingArea", 
+                "namespace": 504, 
+                "exists": true
+            }
+        ], 
+        "Has subtitle": [], 
+        "Is organized by": [
+            {
+                "fulltext": "User:Hammes Hacks", 
+                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/User:Hammes_Hacks", 
+                "namespace": 2, 
+                "exists": true
+            }
+        ], 
+        "Has title": [
+            "Intro to Arduino Shield Soldering and Programing"
+        ], 
+        "Has duration": [
+            150
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:Intro_to_Arduino_Shield_Soldering_and_Programing", 
+        "Has end time": [
+            "1514647800"
+        ]
+    }, 
     "Session:Rights&Freedoms# a53729d2c0e8aa22efa92967b930a8ff": {
         "Held in language": [
             "de - German", 
@@ -12194,49 +12262,5 @@
         "Has end time": [
             "1514578500"
         ]
-    }, 
-    "Session:Intro to Arduino Shield Soldering and Programing# 247ed8ad6aea13f163bd5277eb64be92": {
-        "Held in language": [
-            "en - English"
-        ], 
-        "Has start time": [], 
-        "Has event track": [
-            "Session"
-        ], 
-        "Has website": [
-            "http://hammeshacks.com/intro/"
-        ], 
-        "Has description": [
-            "The Intro to Arduino shield is a simple kit which plugs into an Arduino Uno or similar. It includes a button, light sensor (LDR) and red green blue LED. The LED can be controlled as a digitial or an analog output, the button is a digitial input and the sensor is an analog input."
-        ], 
-        "Has session type": [
-            "Workshop"
-        ], 
-        "Has session location": [
-            {
-                "fulltext": "Assembly:HardwareHackingArea", 
-                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Assembly:HardwareHackingArea", 
-                "namespace": 504, 
-                "exists": true
-            }
-        ], 
-        "Has subtitle": [], 
-        "Is organized by": [
-            {
-                "fulltext": "User:Hammes Hacks", 
-                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/User:Hammes_Hacks", 
-                "namespace": 2, 
-                "exists": true
-            }
-        ], 
-        "Has title": [
-            "Intro to Arduino Shield Soldering and Programing"
-        ], 
-        "Has duration": [], 
-        "Has color": [
-            "#0099ab"
-        ], 
-        "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:Intro_to_Arduino_Shield_Soldering_and_Programing", 
-        "Has end time": []
     }
 }
