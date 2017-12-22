@@ -3487,39 +3487,54 @@
             "1514397600"
         ]
     }, 
-    "Session:Reclaim Club Culture# 0a195ee617e4287076d5bd4c367cb74f": {
-        "Held in language": [], 
+    "Session:LearnToSolder# 21bf4d1df804dd07f071f3e5a646fcda": {
+        "Held in language": [
+            "en - English"
+        ], 
         "Has start time": [
-            "1514390400"
+            "1514458800"
         ], 
         "Has event track": [
             "Session"
         ], 
         "Has website": [], 
-        "Has description": [], 
-        "Has session type": [], 
+        "Has description": [
+            "Learn to Solder!  A large variety of way cool kits are available, all designed for total beginners to complete successfully -- and intriguing enough for the total hardware geek.<br />\n<br />\n<span style=\"color:orange\">'''''This ongoing workshop will be happening concurrently with lots of other way cool workshops at the Hardware Hacking Area!'''''</span>"
+        ], 
+        "Has session type": [
+            "Workshop"
+        ], 
         "Has session location": [
             {
-                "fulltext": "Room:Komona D.Ressrosa", 
-                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Room:Komona_D.Ressrosa", 
-                "namespace": 516, 
+                "fulltext": "Assembly:HardwareHackingArea", 
+                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Assembly:HardwareHackingArea", 
+                "namespace": 504, 
                 "exists": true
             }
         ], 
-        "Has subtitle": [], 
-        "Is organized by": [], 
+        "Has subtitle": [
+            "Day 2"
+        ], 
+        "Is organized by": [
+            {
+                "fulltext": "User:Maltman23", 
+                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/User:Maltman23", 
+                "namespace": 2, 
+                "exists": true
+            }
+        ], 
         "Has title": [
-            "Reclaim Club Culture"
+            "LearnToSolder"
         ], 
         "Has duration": [
-            120
+            779
         ], 
         "Has color": [
             "#0099ab"
         ], 
-        "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:Reclaim_Club_Culture", 
+        "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:LearnToSolder", 
         "Has end time": [
-            "1514397600"
+            "1514505540"
         ]
     }, 
     "Session:Talks# 8c3500a10da1a56fe538738ad1c21dde": {
@@ -5273,47 +5288,39 @@
             "1514487600"
         ]
     }, 
-    "Session:Translation Team# 1c363592c43291321798eb23c0b115f0": {
-        "Held in language": [
-            "en - English"
-        ], 
+    "Session:Reclaim Club Culture# 0a195ee617e4287076d5bd4c367cb74f": {
+        "Held in language": [], 
         "Has start time": [
-            "1514482200"
+            "1514390400"
         ], 
         "Has event track": [
             "Session"
         ], 
         "Has website": [], 
-        "Has description": [
-            "Daily orga meeting of the Translation Angel crew."
-        ], 
-        "Has session type": [
-            "Meeting"
-        ], 
+        "Has description": [], 
+        "Has session type": [], 
         "Has session location": [
             {
-                "fulltext": "Room:Lecture room 11", 
-                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Room:Lecture_room_11", 
+                "fulltext": "Room:Komona D.Ressrosa", 
+                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Room:Komona_D.Ressrosa", 
                 "namespace": 516, 
                 "exists": true
             }
         ], 
-        "Has subtitle": [
-            "Translation Angel Meeting Day 2"
-        ], 
+        "Has subtitle": [], 
         "Is organized by": [], 
         "Has title": [
-            "Translation Team"
+            "Reclaim Club Culture"
         ], 
         "Has duration": [
-            60
+            120
         ], 
         "Has color": [
             "#0099ab"
         ], 
-        "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:Translation_Team", 
+        "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:Reclaim_Club_Culture", 
         "Has end time": [
-            "1514485800"
+            "1514397600"
         ]
     }, 
     "Session:TeaHouse# 7ba0aa55eaffb89b77ee77e479b6d115": {
@@ -5955,52 +5962,48 @@
             "1514390400"
         ]
     }, 
-    "Session:Tor relays operators meetup# a2e78738746accec8fc83b3bbf438638": {
+    "Session:Rights&Freedoms# 8d40ba0c72fb41af93b60cbf39709221": {
         "Held in language": [
+            "de - German", 
             "en - English"
         ], 
         "Has start time": [
-            "1514399400"
+            "1514466000"
         ], 
         "Has event track": [
             "Session"
         ], 
         "Has website": [], 
         "Has description": [
-            "Connecting people who run Tor relays, people who would like to run Tor relays, and people generally interested in what we are doing."
+            "Rights & Freedoms Cluster Stage Programme"
         ], 
         "Has session type": [
-            "Discussion"
+            "Talk"
         ], 
         "Has session location": [
             {
-                "fulltext": "Room:Lecture room 11", 
-                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Room:Lecture_room_11", 
+                "fulltext": "Room:Hall 3", 
+                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Room:Hall_3", 
                 "namespace": 516, 
                 "exists": true
             }
         ], 
-        "Has subtitle": [], 
-        "Is organized by": [
-            {
-                "fulltext": "User:Nicoo", 
-                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/User:Nicoo", 
-                "namespace": 2, 
-                "exists": true
-            }
+        "Has subtitle": [
+            "Take e-voting away from Europe (Hermes Center)"
         ], 
+        "Is organized by": [], 
         "Has title": [
-            "Tor relays operators meetup"
+            "Rights&Freedoms"
         ], 
         "Has duration": [
-            100
+            60
         ], 
         "Has color": [
             "#0099ab"
         ], 
-        "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:Tor_relays_operators_meetup", 
+        "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:Rights%26Freedoms", 
         "Has end time": [
-            "1514405400"
+            "1514469600"
         ]
     }, 
     "Session:Security Without Borders# 77b19904bc175785c30273f753eee496": {
@@ -7252,6 +7255,49 @@
             "1514565900"
         ]
     }, 
+    "Session:Translation Team# 1c363592c43291321798eb23c0b115f0": {
+        "Held in language": [
+            "en - English"
+        ], 
+        "Has start time": [
+            "1514482200"
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [], 
+        "Has description": [
+            "Daily orga meeting of the Translation Angel crew."
+        ], 
+        "Has session type": [
+            "Meeting"
+        ], 
+        "Has session location": [
+            {
+                "fulltext": "Room:Lecture room 11", 
+                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Room:Lecture_room_11", 
+                "namespace": 516, 
+                "exists": true
+            }
+        ], 
+        "Has subtitle": [
+            "Translation Angel Meeting Day 2"
+        ], 
+        "Is organized by": [], 
+        "Has title": [
+            "Translation Team"
+        ], 
+        "Has duration": [
+            60
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:Translation_Team", 
+        "Has end time": [
+            "1514485800"
+        ]
+    }, 
     "Session:Bitmask/LEAP workshop# e2df524a90bdfc10594f96e0b013a7e2": {
         "Held in language": [
             "en - English"
@@ -7494,48 +7540,54 @@
             "1514649600"
         ]
     }, 
-    "Session:Rights&Freedoms# 8d40ba0c72fb41af93b60cbf39709221": {
+    "Session:LearnToSolder# 7052f89f76993ab804a37a55da818529": {
         "Held in language": [
-            "de - German", 
             "en - English"
         ], 
         "Has start time": [
-            "1514466000"
+            "1514394000"
         ], 
         "Has event track": [
             "Session"
         ], 
         "Has website": [], 
         "Has description": [
-            "Rights & Freedoms Cluster Stage Programme"
+            "Learn to Solder!  A large variety of way cool kits are available, all designed for total beginners to complete successfully -- and intriguing enough for the total hardware geek.<br />\n<br />\n<span style=\"color:orange\">'''''This ongoing workshop will be happening concurrently with lots of other way cool workshops at the Hardware Hacking Area!'''''</span>"
         ], 
         "Has session type": [
-            "Talk"
+            "Workshop"
         ], 
         "Has session location": [
             {
-                "fulltext": "Room:Hall 3", 
-                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Room:Hall_3", 
-                "namespace": 516, 
+                "fulltext": "Assembly:HardwareHackingArea", 
+                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Assembly:HardwareHackingArea", 
+                "namespace": 504, 
                 "exists": true
             }
         ], 
         "Has subtitle": [
-            "Take e-voting away from Europe (Hermes Center)"
+            "Day 1"
         ], 
-        "Is organized by": [], 
+        "Is organized by": [
+            {
+                "fulltext": "User:Maltman23", 
+                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/User:Maltman23", 
+                "namespace": 2, 
+                "exists": true
+            }
+        ], 
         "Has title": [
-            "Rights&Freedoms"
+            "LearnToSolder"
         ], 
         "Has duration": [
-            60
+            419
         ], 
         "Has color": [
             "#0099ab"
         ], 
-        "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:Rights%26Freedoms", 
+        "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:LearnToSolder", 
         "Has end time": [
-            "1514469600"
+            "1514419140"
         ]
     }, 
     "Session:KinkyGeeks Bondage Workshop# 2db53fa6cda163e06db198dd075df5ff": {
@@ -9212,6 +9264,56 @@
             "1514476800"
         ]
     }, 
+    "Session:LearnToSolder# c7632129e25e12e1d275256f608ee1ba": {
+        "Held in language": [
+            "en - English"
+        ], 
+        "Has start time": [
+            "1514631600"
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [], 
+        "Has description": [
+            "Learn to Solder!  A large variety of way cool kits are available, all designed for total beginners to complete successfully -- and intriguing enough for the total hardware geek.<br />\n<br />\n<span style=\"color:orange\">'''''This ongoing workshop will be happening concurrently with lots of other way cool workshops at the Hardware Hacking Area!'''''</span>"
+        ], 
+        "Has session type": [
+            "Workshop"
+        ], 
+        "Has session location": [
+            {
+                "fulltext": "Assembly:HardwareHackingArea", 
+                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Assembly:HardwareHackingArea", 
+                "namespace": 504, 
+                "exists": true
+            }
+        ], 
+        "Has subtitle": [
+            "Day 4"
+        ], 
+        "Is organized by": [
+            {
+                "fulltext": "User:Maltman23", 
+                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/User:Maltman23", 
+                "namespace": 2, 
+                "exists": true
+            }
+        ], 
+        "Has title": [
+            "LearnToSolder"
+        ], 
+        "Has duration": [
+            239
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:LearnToSolder", 
+        "Has end time": [
+            "1514645940"
+        ]
+    }, 
     "Session:D Town, Christopher: Eigenes HackLab bauen!# b68fd9cc434114bcf9eb06cd008ffe4a": {
         "Held in language": [
             "en - English"
@@ -10243,6 +10345,54 @@
             "1514581200"
         ]
     }, 
+    "Session:Tor relays operators meetup# a2e78738746accec8fc83b3bbf438638": {
+        "Held in language": [
+            "en - English"
+        ], 
+        "Has start time": [
+            "1514399400"
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [], 
+        "Has description": [
+            "Connecting people who run Tor relays, people who would like to run Tor relays, and people generally interested in what we are doing."
+        ], 
+        "Has session type": [
+            "Discussion"
+        ], 
+        "Has session location": [
+            {
+                "fulltext": "Room:Lecture room 11", 
+                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Room:Lecture_room_11", 
+                "namespace": 516, 
+                "exists": true
+            }
+        ], 
+        "Has subtitle": [], 
+        "Is organized by": [
+            {
+                "fulltext": "User:Nicoo", 
+                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/User:Nicoo", 
+                "namespace": 2, 
+                "exists": true
+            }
+        ], 
+        "Has title": [
+            "Tor relays operators meetup"
+        ], 
+        "Has duration": [
+            100
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:Tor_relays_operators_meetup", 
+        "Has end time": [
+            "1514405400"
+        ]
+    }, 
     "Session:Reclaim Club Culture# d18178dc7a647281cd7e535c4dfac1c0": {
         "Held in language": [], 
         "Has start time": [
@@ -11202,6 +11352,56 @@
         "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:Reclaim_Club_Culture", 
         "Has end time": [
             "1514383200"
+        ]
+    }, 
+    "Session:LearnToSolder# 7766fab88776d627083edf2937c733c9": {
+        "Held in language": [
+            "en - English"
+        ], 
+        "Has start time": [
+            "1514545200"
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [], 
+        "Has description": [
+            "Learn to Solder!  A large variety of way cool kits are available, all designed for total beginners to complete successfully -- and intriguing enough for the total hardware geek.<br />\n<br />\n<span style=\"color:orange\">'''''This ongoing workshop will be happening concurrently with lots of other way cool workshops at the Hardware Hacking Area!'''''</span>"
+        ], 
+        "Has session type": [
+            "Workshop"
+        ], 
+        "Has session location": [
+            {
+                "fulltext": "Assembly:HardwareHackingArea", 
+                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Assembly:HardwareHackingArea", 
+                "namespace": 504, 
+                "exists": true
+            }
+        ], 
+        "Has subtitle": [
+            "Day 3"
+        ], 
+        "Is organized by": [
+            {
+                "fulltext": "User:Maltman23", 
+                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/User:Maltman23", 
+                "namespace": 2, 
+                "exists": true
+            }
+        ], 
+        "Has title": [
+            "LearnToSolder"
+        ], 
+        "Has duration": [
+            779
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:LearnToSolder", 
+        "Has end time": [
+            "1514591940"
         ]
     }, 
     "Session:Initiate 34c3# 8ab81e64d32b3015a9dccfd6fdc36910": {
