@@ -691,45 +691,47 @@
             "1514563200"
         ]
     }, 
-    "Session:Hackademia - research presentations# 7575c413f867b209d0adbd3606399aa5": {
+    "Session:Throwies# e27ebec0de39dbae7585138a3b649bff": {
         "Held in language": [
-            "en - English"
+            "de - German"
         ], 
         "Has start time": [
-            "1514397600"
+            "1514376000"
         ], 
         "Has event track": [
             "Session"
         ], 
         "Has website": [], 
         "Has description": [
-            "A space for academics researching people, technology and infrastructure to present and discuss their research."
+            "Ein Throwie ist eine LED, die durch eine Knopfzellenbatterie zum Leuchten gebracht wird und an die man einen Magneten klebt."
         ], 
         "Has session type": [
-            "Talk"
+            "Hands-On"
         ], 
         "Has session location": [
             {
-                "fulltext": "Room:Seminar room 14-15", 
-                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Room:Seminar_room_14-15", 
+                "fulltext": "Room:Kidspace", 
+                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Room:Kidspace", 
                 "namespace": 516, 
                 "exists": true
             }
         ], 
-        "Has subtitle": [], 
+        "Has subtitle": [
+            "Throwies Basteln"
+        ], 
         "Is organized by": [], 
         "Has title": [
-            "Hackademia - research presentations"
+            "Throwies"
         ], 
         "Has duration": [
-            120
+            360
         ], 
         "Has color": [
             "#0099ab"
         ], 
-        "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:Hackademia_-_research_presentations", 
+        "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:Throwies", 
         "Has end time": [
-            "1514404800"
+            "1514397600"
         ]
     }, 
     "Session:TeaHouse# 8efd15e8c5b9047b2ee27f7e03ffc0e5": {
@@ -3063,13 +3065,13 @@
             "1514464200"
         ]
     }, 
-    "Session:Rights&Freedoms# 8c02998822f5427a1c1889e3cd5c325b": {
+    "Session:Rights&Freedoms# 2c5fb29f216d4f6be50530c8fd10d418": {
         "Held in language": [
             "de - German", 
             "en - English"
         ], 
         "Has start time": [
-            "1514574000"
+            "1514469600"
         ], 
         "Has event track": [
             "Session"
@@ -3090,7 +3092,7 @@
             }
         ], 
         "Has subtitle": [
-            "Public money? Public code! (Polina Malaja and Katharina Nocun)"
+            "Privacy aware city navigation with free software (Redon Skikuli)"
         ], 
         "Is organized by": [], 
         "Has title": [
@@ -3104,7 +3106,7 @@
         ], 
         "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:Rights%26Freedoms", 
         "Has end time": [
-            "1514577600"
+            "1514473200"
         ]
     }, 
     "Session:Chaos-Notizen# f90aa84469346a8747b774faaf1509e0": {
@@ -3648,50 +3650,6 @@
         "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:Geschichten_aus_dem_Krieg", 
         "Has end time": [
             "1514478600"
-        ]
-    }, 
-    "Session:Rights&Freedoms# 2c5fb29f216d4f6be50530c8fd10d418": {
-        "Held in language": [
-            "de - German", 
-            "en - English"
-        ], 
-        "Has start time": [
-            "1514469600"
-        ], 
-        "Has event track": [
-            "Session"
-        ], 
-        "Has website": [], 
-        "Has description": [
-            "Rights & Freedoms Cluster Stage Programme"
-        ], 
-        "Has session type": [
-            "Talk"
-        ], 
-        "Has session location": [
-            {
-                "fulltext": "Room:CCL Hall 3", 
-                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Room:CCL_Hall_3", 
-                "namespace": 516, 
-                "exists": true
-            }
-        ], 
-        "Has subtitle": [
-            "Privacy aware city navigation with free software (Redon Skikuli)"
-        ], 
-        "Is organized by": [], 
-        "Has title": [
-            "Rights&Freedoms"
-        ], 
-        "Has duration": [
-            60
-        ], 
-        "Has color": [
-            "#0099ab"
-        ], 
-        "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:Rights%26Freedoms", 
-        "Has end time": [
-            "1514473200"
         ]
     }, 
     "Session:Newpipe# 1a072767ca874cfe7fca82413e129a3d": {
@@ -4632,49 +4590,6 @@
         "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:Chaos_Macht_Schule_L%C3%B6tworkshop", 
         "Has end time": [
             "1514484000"
-        ]
-    }, 
-    "Session:Throwies# e27ebec0de39dbae7585138a3b649bff": {
-        "Held in language": [
-            "de - German"
-        ], 
-        "Has start time": [
-            "1514376000"
-        ], 
-        "Has event track": [
-            "Session"
-        ], 
-        "Has website": [], 
-        "Has description": [
-            "Ein Throwie ist eine LED, die durch eine Knopfzellenbatterie zum Leuchten gebracht wird und an die man einen Magneten klebt."
-        ], 
-        "Has session type": [
-            "Hands-On"
-        ], 
-        "Has session location": [
-            {
-                "fulltext": "Room:Kidspace", 
-                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Room:Kidspace", 
-                "namespace": 516, 
-                "exists": true
-            }
-        ], 
-        "Has subtitle": [
-            "Throwies Basteln"
-        ], 
-        "Is organized by": [], 
-        "Has title": [
-            "Throwies"
-        ], 
-        "Has duration": [
-            360
-        ], 
-        "Has color": [
-            "#0099ab"
-        ], 
-        "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:Throwies", 
-        "Has end time": [
-            "1514397600"
         ]
     }, 
     "Session:Rights&Freedoms# aa69175a918f15a6f3475aff688d9916": {
@@ -6631,6 +6546,47 @@
             "1514568600"
         ]
     }, 
+    "Session:Hackademia - research presentations# fbe96b3db6707668398aecad04cb6bb9": {
+        "Held in language": [
+            "en - English"
+        ], 
+        "Has start time": [
+            "1514541600"
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [], 
+        "Has description": [
+            "A space for academics researching people, technology and infrastructure to present and discuss their research."
+        ], 
+        "Has session type": [
+            "Talk"
+        ], 
+        "Has session location": [
+            {
+                "fulltext": "Room:Seminar room 14-15", 
+                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Room:Seminar_room_14-15", 
+                "namespace": 516, 
+                "exists": true
+            }
+        ], 
+        "Has subtitle": [], 
+        "Is organized by": [], 
+        "Has title": [
+            "Hackademia - research presentations"
+        ], 
+        "Has duration": [
+            120
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:Hackademia_-_research_presentations", 
+        "Has end time": [
+            "1514548800"
+        ]
+    }, 
     "Session:Chaos macht Schule L\u00f6tworkshop# 4fba0b7dc820b254ecd18c2d50c75481": {
         "Held in language": [
             "de - German", 
@@ -8481,6 +8437,50 @@
         "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:Rights%26Freedoms", 
         "Has end time": [
             "1514480400"
+        ]
+    }, 
+    "Session:Rights&Freedoms# 8c02998822f5427a1c1889e3cd5c325b": {
+        "Held in language": [
+            "de - German", 
+            "en - English"
+        ], 
+        "Has start time": [
+            "1514574000"
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [], 
+        "Has description": [
+            "Rights & Freedoms Cluster Stage Programme"
+        ], 
+        "Has session type": [
+            "Talk"
+        ], 
+        "Has session location": [
+            {
+                "fulltext": "Room:CCL Hall 3", 
+                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Room:CCL_Hall_3", 
+                "namespace": 516, 
+                "exists": true
+            }
+        ], 
+        "Has subtitle": [
+            "Public money? Public code! (Polina Malaja and Katharina Nocun)"
+        ], 
+        "Is organized by": [], 
+        "Has title": [
+            "Rights&Freedoms"
+        ], 
+        "Has duration": [
+            60
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:Rights%26Freedoms", 
+        "Has end time": [
+            "1514577600"
         ]
     }, 
     "Session:Language Confusion# 9ff2d643a1059a5236f74bbfc8ff1ae8": {
