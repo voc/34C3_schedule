@@ -13,75 +13,11 @@
                     "index": 0, 
                     "day_end": "2017-12-27T04:00:00+01:00", 
                     "rooms": {
-                        "Seminar room 14-15": [
-                            {
-                                "id": 1021, 
-                                "guid": "e54328ce-06f7-5578-bccb-0653404d932e", 
-                                "logo": null, 
-                                "date": "2017-12-26T13:00:00+01:00", 
-                                "start": "13:00", 
-                                "duration": "0:45", 
-                                "room": "Seminar room 14-15", 
-                                "slug": "", 
-                                "title": "Angel Meeting", 
-                                "subtitle": "Build-up and welcome meeting Day 0", 
-                                "track": "self organized sessions", 
-                                "type": "meeting", 
-                                "language": "en", 
-                                "abstract": "", 
-                                "description": "Daily meetings of the Angel crew.", 
-                                "persons": [], 
-                                "links": [
-                                    "https://events.ccc.de/congress/2017/wiki/index.php/Session:Angel_Meeting"
-                                ]
-                            }, 
-                            {
-                                "id": 1022, 
-                                "guid": "3b5cf5d2-7d5d-51ba-8798-dc60e10c8985", 
-                                "logo": null, 
-                                "date": "2017-12-26T19:30:00+01:00", 
-                                "start": "19:30", 
-                                "duration": "0:45", 
-                                "room": "Seminar room 14-15", 
-                                "slug": "", 
-                                "title": "Angel Meeting", 
-                                "subtitle": "Welcome meeting Day 0", 
-                                "track": "self organized sessions", 
-                                "type": "meeting", 
-                                "language": "en", 
-                                "abstract": "", 
-                                "description": "Daily meetings of the Angel crew.", 
-                                "persons": [], 
-                                "links": [
-                                    "https://events.ccc.de/congress/2017/wiki/index.php/Session:Angel_Meeting"
-                                ]
-                            }, 
-                            {
-                                "id": 1023, 
-                                "guid": "5e7bb2b0-f5ea-598b-9f57-a08f05420984", 
-                                "logo": null, 
-                                "date": "2017-12-26T20:15:00+01:00", 
-                                "start": "20:15", 
-                                "duration": "0:45", 
-                                "room": "Seminar room 14-15", 
-                                "slug": "", 
-                                "title": "Angel Meeting", 
-                                "subtitle": "Introduction meeting for new angels Day 0", 
-                                "track": "self organized sessions", 
-                                "type": "meeting", 
-                                "language": "en", 
-                                "abstract": "", 
-                                "description": "Daily meetings of the Angel crew.", 
-                                "persons": [], 
-                                "links": [
-                                    "https://events.ccc.de/congress/2017/wiki/index.php/Session:Angel_Meeting"
-                                ]
-                            }
-                        ], 
+                        "Komona Coral Reef": [], 
                         "Lecture room 11": [
                             {
-                                "id": 1010, 
-                                "guid": "c70e49b3-48f5-5f25-b17c-85568b1e2c71", 
+                                "id": 1008, 
+                                "guid": "3e6ca324-cc11-4403-b0ce-bd621d931cd6", 
                                 "logo": null, 
                                 "date": "2017-12-26T23:30:00+01:00", 
                                 "start": "23:30", 
@@ -108,8 +44,8 @@
                                 ]
                             }, 
                             {
-                                "id": 1011, 
-                                "guid": "7056fe08-61b2-560e-b144-f57b1f5256f2", 
+                                "id": 1009, 
+                                "guid": "4e77ac4f-012b-4132-8079-c16fd0f600fd", 
                                 "logo": null, 
                                 "date": "2017-12-26T21:30:00+01:00", 
                                 "start": "21:30", 
@@ -136,7 +72,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1249, 
+                                "id": 1215, 
                                 "guid": "2f8b0e3d-e4bc-56f3-a96d-3c7559fd753f", 
                                 "logo": null, 
                                 "date": "2017-12-26T20:00:00+01:00", 
@@ -157,10 +93,11 @@
                                 ]
                             }
                         ], 
+                        "Hive Stage": [], 
                         "Lecture room 12": [
                             {
-                                "id": 1205, 
-                                "guid": "076bdbce-3209-5c62-b09b-c7679f80b0a1", 
+                                "id": 1191, 
+                                "guid": "9d07fde4-75d1-460e-888d-7857c952beef", 
                                 "logo": null, 
                                 "date": "2017-12-26T20:15:00+01:00", 
                                 "start": "20:15", 
@@ -185,7 +122,79 @@
                                     "https://events.ccc.de/congress/2017/wiki/index.php/Session:Stagemanager_Introduction-Meeting"
                                 ]
                             }
-                        ]
+                        ], 
+                        "Chaos West Stage": [], 
+                        "CCL Hall 3": [], 
+                        "Komona D.Ressrosa": [], 
+                        "Seminar room 14-15": [
+                            {
+                                "id": 1015, 
+                                "guid": "5e7bb2b0-f5ea-598b-9f57-a08f05420984", 
+                                "logo": null, 
+                                "date": "2017-12-26T20:15:00+01:00", 
+                                "start": "20:15", 
+                                "duration": "0:45", 
+                                "room": "Seminar room 14-15", 
+                                "slug": "", 
+                                "title": "Angel Meeting", 
+                                "subtitle": "Introduction meeting for new angels Day 0", 
+                                "track": "self organized sessions", 
+                                "type": "meeting", 
+                                "language": "en", 
+                                "abstract": "", 
+                                "description": "Daily meetings of the Angel crew.", 
+                                "persons": [], 
+                                "links": [
+                                    "https://events.ccc.de/congress/2017/wiki/index.php/Session:Angel_Meeting"
+                                ]
+                            }, 
+                            {
+                                "id": 1019, 
+                                "guid": "e54328ce-06f7-5578-bccb-0653404d932e", 
+                                "logo": null, 
+                                "date": "2017-12-26T13:00:00+01:00", 
+                                "start": "13:00", 
+                                "duration": "0:45", 
+                                "room": "Seminar room 14-15", 
+                                "slug": "", 
+                                "title": "Angel Meeting", 
+                                "subtitle": "Build-up and welcome meeting Day 0", 
+                                "track": "self organized sessions", 
+                                "type": "meeting", 
+                                "language": "en", 
+                                "abstract": "", 
+                                "description": "Daily meetings of the Angel crew.", 
+                                "persons": [], 
+                                "links": [
+                                    "https://events.ccc.de/congress/2017/wiki/index.php/Session:Angel_Meeting"
+                                ]
+                            }, 
+                            {
+                                "id": 1020, 
+                                "guid": "3b5cf5d2-7d5d-51ba-8798-dc60e10c8985", 
+                                "logo": null, 
+                                "date": "2017-12-26T19:30:00+01:00", 
+                                "start": "19:30", 
+                                "duration": "0:45", 
+                                "room": "Seminar room 14-15", 
+                                "slug": "", 
+                                "title": "Angel Meeting", 
+                                "subtitle": "Welcome meeting Day 0", 
+                                "track": "self organized sessions", 
+                                "type": "meeting", 
+                                "language": "en", 
+                                "abstract": "", 
+                                "description": "Daily meetings of the Angel crew.", 
+                                "persons": [], 
+                                "links": [
+                                    "https://events.ccc.de/congress/2017/wiki/index.php/Session:Angel_Meeting"
+                                ]
+                            }
+                        ], 
+                        "Komona Aquarius": [], 
+                        "Kidspace": [], 
+                        "Komona Blue Princess": [], 
+                        "Seminar room 13": []
                     }, 
                     "day_start": "2017-12-26T06:00:00+01:00"
                 }, 
@@ -196,8 +205,8 @@
                     "rooms": {
                         "Komona Coral Reef": [
                             {
-                                "id": 1003, 
-                                "guid": "d69bd087-6714-5e14-8ea6-189d73bdcd36", 
+                                "id": 1002, 
+                                "guid": "e577cff8-0824-48cd-9fe4-4c60f11f1ec6", 
                                 "logo": null, 
                                 "date": "2017-12-27T14:00:00+01:00", 
                                 "start": "14:00", 
@@ -223,8 +232,8 @@
                                 ]
                             }, 
                             {
-                                "id": 1049, 
-                                "guid": "271e2bf5-81d3-5472-94dd-5493194493f8", 
+                                "id": 1045, 
+                                "guid": "f9f6c980-43ad-4ca5-b0ce-af9306f514a7", 
                                 "logo": null, 
                                 "date": "2017-12-27T16:00:00+01:00", 
                                 "start": "16:00", 
@@ -250,8 +259,8 @@
                                 ]
                             }, 
                             {
-                                "id": 1158, 
-                                "guid": "92c6963b-c7d7-5d65-a3f8-2f1368aadbd4", 
+                                "id": 1145, 
+                                "guid": "939c5253-417d-40b3-afe1-9b7cef1bf932", 
                                 "logo": null, 
                                 "date": "2017-12-27T18:00:00+01:00", 
                                 "start": "18:00", 
@@ -271,8 +280,8 @@
                                 ]
                             }, 
                             {
-                                "id": 1253, 
-                                "guid": "60b5bdfd-9d8a-5bcc-a0a7-f2fc485459b5", 
+                                "id": 1221, 
+                                "guid": "5096ea2a-f75e-4223-9034-6c708dbfed76", 
                                 "logo": null, 
                                 "date": "2017-12-27T20:00:00+01:00", 
                                 "start": "20:00", 
@@ -295,8 +304,8 @@
                         ], 
                         "Lecture room 11": [
                             {
-                                "id": 1012, 
-                                "guid": "57c9ce09-56a0-5dbd-9af8-186b9ef6e3d7", 
+                                "id": 1010, 
+                                "guid": "f5f69c30-2863-4817-a663-b248274c87ac", 
                                 "logo": null, 
                                 "date": "2017-12-27T20:15:00+01:00", 
                                 "start": "20:15", 
@@ -323,8 +332,8 @@
                                 ]
                             }, 
                             {
-                                "id": 1246, 
-                                "guid": "a7db74b6-1abd-56ab-9545-98de748d071c", 
+                                "id": 1214, 
+                                "guid": "57bf0ee7-7526-490d-9c83-375b932bb03c", 
                                 "logo": null, 
                                 "date": "2017-12-27T18:30:00+01:00", 
                                 "start": "18:30", 
@@ -350,7 +359,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1250, 
+                                "id": 1216, 
                                 "guid": "ff42e72c-d902-5009-b2dd-f7c515811d70", 
                                 "logo": null, 
                                 "date": "2017-12-27T17:30:00+01:00", 
@@ -373,8 +382,8 @@
                         ], 
                         "Hive Stage": [
                             {
-                                "id": 1080, 
-                                "guid": "5cd52265-8611-5184-acaf-994a8b4f09da", 
+                                "id": 1076, 
+                                "guid": "48916eab-e41b-4b18-b46d-febbaee3f021", 
                                 "logo": null, 
                                 "date": "2017-12-27T16:00:00+01:00", 
                                 "start": "16:00", 
@@ -394,10 +403,67 @@
                                 ]
                             }
                         ], 
+                        "Lecture room 12": [
+                            {
+                                "id": 1111, 
+                                "guid": "e0e9d627-5661-42a8-9b1c-f5619c3e2515", 
+                                "logo": null, 
+                                "date": "2017-12-27T20:00:00+01:00", 
+                                "start": "20:00", 
+                                "duration": "1:00", 
+                                "room": "Lecture room 12", 
+                                "slug": "", 
+                                "title": "Lehrerstammtisch", 
+                                "subtitle": "the teachers meeting", 
+                                "track": "self organized sessions", 
+                                "type": "meeting", 
+                                "language": "de", 
+                                "abstract": "", 
+                                "description": "After a great start at the 33c3, the teachers meeting continues this year!", 
+                                "persons": [
+                                    {
+                                        "id": 0, 
+                                        "url": "https://events.ccc.de/congress/2017/wiki/index.php/User:Gigo", 
+                                        "public_name": "Gigo"
+                                    }
+                                ], 
+                                "links": [
+                                    "https://events.ccc.de/congress/2017/wiki/index.php/Session:Lehrerstammtisch"
+                                ]
+                            }, 
+                            {
+                                "id": 1238, 
+                                "guid": "def1b880-7e56-415c-a57b-73b5acda9b5a", 
+                                "logo": null, 
+                                "date": "2017-12-27T16:00:00+01:00", 
+                                "start": "16:00", 
+                                "duration": "2:30", 
+                                "room": "Lecture room 12", 
+                                "slug": "", 
+                                "title": "\u201cHow To Survice 34C3\u201d CryptoParty", 
+                                "subtitle": "", 
+                                "track": "self organized sessions", 
+                                "type": "hands-on", 
+                                "language": "en", 
+                                "abstract": "", 
+                                "description": "Privacy is the space in which ideas are developed, to retreat into whenever you want. This space is not only physical but digital as well. Governments and companies don't want to respect that so we become active ourselves.\n\nThe goal of this hands-on session is to pass on knowledge about protecting yourself in the digital space. This can include encrypted communication, preventing being tracked while browsing the web and general security advice for computers and smartphones.", 
+                                "persons": [
+                                    {
+                                        "id": 0, 
+                                        "url": "https://events.ccc.de/congress/2017/wiki/index.php/User:Dawning-sun", 
+                                        "public_name": "Dawning-sun"
+                                    }
+                                ], 
+                                "links": [
+                                    "https://www.cryptoparty.in/34c3", 
+                                    "https://events.ccc.de/congress/2017/wiki/index.php/Session:%E2%80%9CHow_To_Survice_34C3%E2%80%9D_CryptoParty"
+                                ]
+                            }
+                        ], 
                         "Chaos West Stage": [
                             {
-                                "id": 1109, 
-                                "guid": "d068b1a6-c17f-5567-8feb-0bbf3ac1605e", 
+                                "id": 1103, 
+                                "guid": "bc39559b-0b24-4b27-9e1f-4b76d52cb1a8", 
                                 "logo": null, 
                                 "date": "2017-12-28T00:00:00+01:00", 
                                 "start": "00:00", 
@@ -423,8 +489,8 @@
                                 ]
                             }, 
                             {
-                                "id": 1110, 
-                                "guid": "0c5205d7-14bd-55a8-9fb8-3c570997e5fc", 
+                                "id": 1104, 
+                                "guid": "cbc32a2c-1f29-44a9-a232-0f458f979813", 
                                 "logo": null, 
                                 "date": "2017-12-28T02:30:00+01:00", 
                                 "start": "02:30", 
@@ -450,8 +516,8 @@
                                 ]
                             }, 
                             {
-                                "id": 1139, 
-                                "guid": "419de876-3721-53c6-8ed7-fd8a3ba01790", 
+                                "id": 1126, 
+                                "guid": "0d34f2e7-4595-408b-bac8-b762757c074d", 
                                 "logo": null, 
                                 "date": "2017-12-27T15:00:00+01:00", 
                                 "start": "15:00", 
@@ -478,8 +544,8 @@
                                 ]
                             }, 
                             {
-                                "id": 1152, 
-                                "guid": "e697bd31-dcab-5a9f-8d67-7c5681beb6ef", 
+                                "id": 1139, 
+                                "guid": "eaad2e23-34f6-4711-8d68-6d497eea064b", 
                                 "logo": null, 
                                 "date": "2017-12-27T17:00:00+01:00", 
                                 "start": "17:00", 
@@ -511,8 +577,8 @@
                                 ]
                             }, 
                             {
-                                "id": 1193, 
-                                "guid": "2859aad9-e708-5df7-99da-e7dea50777a0", 
+                                "id": 1179, 
+                                "guid": "9b58c10d-8973-438f-ae19-50dde6321b5e", 
                                 "logo": null, 
                                 "date": "2017-12-27T16:00:00+01:00", 
                                 "start": "16:00", 
@@ -539,8 +605,8 @@
                                 ]
                             }, 
                             {
-                                "id": 1243, 
-                                "guid": "c9c33929-ced3-5893-8f18-71339111ef64", 
+                                "id": 1211, 
+                                "guid": "95f73cd1-2284-4c7f-9139-02782ab39b61", 
                                 "logo": null, 
                                 "date": "2017-12-27T14:00:00+01:00", 
                                 "start": "14:00", 
@@ -567,67 +633,10 @@
                                 ]
                             }
                         ], 
-                        "Lecture room 12": [
-                            {
-                                "id": 1124, 
-                                "guid": "805f28ee-8c13-5a2a-9055-8b04072dc1dd", 
-                                "logo": null, 
-                                "date": "2017-12-27T20:00:00+01:00", 
-                                "start": "20:00", 
-                                "duration": "1:00", 
-                                "room": "Lecture room 12", 
-                                "slug": "", 
-                                "title": "Lehrerstammtisch", 
-                                "subtitle": "the teachers meeting", 
-                                "track": "self organized sessions", 
-                                "type": "meeting", 
-                                "language": "de", 
-                                "abstract": "", 
-                                "description": "After a great start at the 33c3, the teachers meeting continues this year!", 
-                                "persons": [
-                                    {
-                                        "id": 0, 
-                                        "url": "https://events.ccc.de/congress/2017/wiki/index.php/User:Gigo", 
-                                        "public_name": "Gigo"
-                                    }
-                                ], 
-                                "links": [
-                                    "https://events.ccc.de/congress/2017/wiki/index.php/Session:Lehrerstammtisch"
-                                ]
-                            }, 
-                            {
-                                "id": 1270, 
-                                "guid": "c3ae84a2-4239-573e-8712-28ec5fcb18b4", 
-                                "logo": null, 
-                                "date": "2017-12-27T16:00:00+01:00", 
-                                "start": "16:00", 
-                                "duration": "2:30", 
-                                "room": "Lecture room 12", 
-                                "slug": "", 
-                                "title": "\u201cHow To Survice 34C3\u201d CryptoParty", 
-                                "subtitle": "", 
-                                "track": "self organized sessions", 
-                                "type": "hands-on", 
-                                "language": "en", 
-                                "abstract": "", 
-                                "description": "Privacy is the space in which ideas are developed, to retreat into whenever you want. This space is not only physical but digital as well. Governments and companies don't want to respect that so we become active ourselves.\n\nThe goal of this hands-on session is to pass on knowledge about protecting yourself in the digital space. This can include encrypted communication, preventing being tracked while browsing the web and general security advice for computers and smartphones.", 
-                                "persons": [
-                                    {
-                                        "id": 0, 
-                                        "url": "https://events.ccc.de/congress/2017/wiki/index.php/User:Dawning-sun", 
-                                        "public_name": "Dawning-sun"
-                                    }
-                                ], 
-                                "links": [
-                                    "https://www.cryptoparty.in/34c3", 
-                                    "https://events.ccc.de/congress/2017/wiki/index.php/Session:%E2%80%9CHow_To_Survice_34C3%E2%80%9D_CryptoParty"
-                                ]
-                            }
-                        ], 
                         "CCL Hall 3": [
                             {
-                                "id": 1165, 
-                                "guid": "d0283db9-4795-5742-8d8c-7a0a4ea8a851", 
+                                "id": 1150, 
+                                "guid": "a1de5914-4649-4613-b1b1-716106c43f29", 
                                 "logo": null, 
                                 "date": "2017-12-27T20:00:00+01:00", 
                                 "start": "20:00", 
@@ -647,8 +656,8 @@
                                 ]
                             }, 
                             {
-                                "id": 1166, 
-                                "guid": "baceccd4-703e-51c2-8966-665a6fb4cbb8", 
+                                "id": 1152, 
+                                "guid": "848eb8ac-cc0b-4747-862b-d4aa466fc6f9", 
                                 "logo": null, 
                                 "date": "2017-12-27T17:00:00+01:00", 
                                 "start": "17:00", 
@@ -668,8 +677,8 @@
                                 ]
                             }, 
                             {
-                                "id": 1170, 
-                                "guid": "afff08fe-3768-5263-9f17-e75477367bf1", 
+                                "id": 1155, 
+                                "guid": "b6aeee73-c559-42aa-b5f1-4aaa1303d051", 
                                 "logo": null, 
                                 "date": "2017-12-27T21:00:00+01:00", 
                                 "start": "21:00", 
@@ -689,8 +698,8 @@
                                 ]
                             }, 
                             {
-                                "id": 1171, 
-                                "guid": "12601af9-c84e-5114-b88d-db263f5bec53", 
+                                "id": 1157, 
+                                "guid": "f8c6d10a-3129-4d2c-8806-d5c0732e2851", 
                                 "logo": null, 
                                 "date": "2017-12-27T17:30:00+01:00", 
                                 "start": "17:30", 
@@ -710,8 +719,8 @@
                                 ]
                             }, 
                             {
-                                "id": 1173, 
-                                "guid": "c935a033-b060-5588-819e-ad96e215b4c4", 
+                                "id": 1159, 
+                                "guid": "9a031988-bf7d-45f1-bc41-f3751dc059a7", 
                                 "logo": null, 
                                 "date": "2017-12-27T13:00:00+01:00", 
                                 "start": "13:00", 
@@ -731,8 +740,8 @@
                                 ]
                             }, 
                             {
-                                "id": 1177, 
-                                "guid": "fe29864f-f90d-566b-becd-18910b6e9fef", 
+                                "id": 1163, 
+                                "guid": "c49ebd93-7ffe-4aa0-8764-0ebba26294a6", 
                                 "logo": null, 
                                 "date": "2017-12-27T18:00:00+01:00", 
                                 "start": "18:00", 
@@ -752,8 +761,8 @@
                                 ]
                             }, 
                             {
-                                "id": 1179, 
-                                "guid": "bdb7c9c8-1503-5b20-9dd0-9a552b972083", 
+                                "id": 1165, 
+                                "guid": "b9ea5336-f739-4170-a424-208041a7e313", 
                                 "logo": null, 
                                 "date": "2017-12-27T14:00:00+01:00", 
                                 "start": "14:00", 
@@ -773,8 +782,8 @@
                                 ]
                             }, 
                             {
-                                "id": 1183, 
-                                "guid": "fdd4a8e5-345d-5265-8a5e-b0930b1a2f61", 
+                                "id": 1169, 
+                                "guid": "50d74ede-d47d-4ae9-9716-3af4f2dce067", 
                                 "logo": null, 
                                 "date": "2017-12-27T19:00:00+01:00", 
                                 "start": "19:00", 
@@ -794,8 +803,8 @@
                                 ]
                             }, 
                             {
-                                "id": 1185, 
-                                "guid": "50b06132-ac64-5d1b-9e21-9b9206a2fbab", 
+                                "id": 1171, 
+                                "guid": "d5e27e43-b64d-4166-8f5d-beb35700fd55", 
                                 "logo": null, 
                                 "date": "2017-12-27T15:00:00+01:00", 
                                 "start": "15:00", 
@@ -815,8 +824,8 @@
                                 ]
                             }, 
                             {
-                                "id": 1189, 
-                                "guid": "5e5eac9a-6921-53b2-a463-cfa9945554bb", 
+                                "id": 1174, 
+                                "guid": "efceaf28-5108-4b04-86a3-c214437c0adf", 
                                 "logo": null, 
                                 "date": "2017-12-27T19:30:00+01:00", 
                                 "start": "19:30", 
@@ -836,8 +845,8 @@
                                 ]
                             }, 
                             {
-                                "id": 1190, 
-                                "guid": "27a7570d-bc28-5ab7-8a83-52fc4e34e5da", 
+                                "id": 1176, 
+                                "guid": "8f90513f-3cf8-4444-8b99-d376d70974c6", 
                                 "logo": null, 
                                 "date": "2017-12-27T16:00:00+01:00", 
                                 "start": "16:00", 
@@ -859,50 +868,8 @@
                         ], 
                         "Komona D.Ressrosa": [
                             {
-                                "id": 1156, 
-                                "guid": "85e6926e-998d-509d-992b-cc104b501052", 
-                                "logo": null, 
-                                "date": "2017-12-27T12:00:00+01:00", 
-                                "start": "12:00", 
-                                "duration": "2:00", 
-                                "room": "Komona D.Ressrosa", 
-                                "slug": "", 
-                                "title": "Reclaim Club Culture", 
-                                "subtitle": "", 
-                                "track": "self organized sessions", 
-                                "type": "", 
-                                "language": "", 
-                                "abstract": "", 
-                                "description": "", 
-                                "persons": [], 
-                                "links": [
-                                    "https://events.ccc.de/congress/2017/wiki/index.php/Session:Reclaim_Club_Culture"
-                                ]
-                            }, 
-                            {
-                                "id": 1157, 
-                                "guid": "74a2566e-cdec-5996-83cc-b997997aaedf", 
-                                "logo": null, 
-                                "date": "2017-12-27T14:00:00+01:00", 
-                                "start": "14:00", 
-                                "duration": "2:00", 
-                                "room": "Komona D.Ressrosa", 
-                                "slug": "", 
-                                "title": "Reclaim Club Culture", 
-                                "subtitle": "", 
-                                "track": "self organized sessions", 
-                                "type": "", 
-                                "language": "", 
-                                "abstract": "", 
-                                "description": "", 
-                                "persons": [], 
-                                "links": [
-                                    "https://events.ccc.de/congress/2017/wiki/index.php/Session:Reclaim_Club_Culture"
-                                ]
-                            }, 
-                            {
-                                "id": 1159, 
-                                "guid": "382e2923-182d-5ecb-adca-4863697bd8fd", 
+                                "id": 1143, 
+                                "guid": "1191f1bd-7e79-40a2-aff6-6d843352ab47", 
                                 "logo": null, 
                                 "date": "2017-12-27T20:00:00+01:00", 
                                 "start": "20:00", 
@@ -922,8 +889,50 @@
                                 ]
                             }, 
                             {
-                                "id": 1160, 
-                                "guid": "9908b992-6869-578a-96fb-8436d78b4938", 
+                                "id": 1144, 
+                                "guid": "06e9351c-7ff5-459a-8591-2d5297faf847", 
+                                "logo": null, 
+                                "date": "2017-12-27T12:00:00+01:00", 
+                                "start": "12:00", 
+                                "duration": "2:00", 
+                                "room": "Komona D.Ressrosa", 
+                                "slug": "", 
+                                "title": "Reclaim Club Culture", 
+                                "subtitle": "", 
+                                "track": "self organized sessions", 
+                                "type": "", 
+                                "language": "", 
+                                "abstract": "", 
+                                "description": "", 
+                                "persons": [], 
+                                "links": [
+                                    "https://events.ccc.de/congress/2017/wiki/index.php/Session:Reclaim_Club_Culture"
+                                ]
+                            }, 
+                            {
+                                "id": 1143, 
+                                "guid": "1191f1bd-7e79-40a2-aff6-6d843352ab47", 
+                                "logo": null, 
+                                "date": "2017-12-27T14:00:00+01:00", 
+                                "start": "14:00", 
+                                "duration": "2:00", 
+                                "room": "Komona D.Ressrosa", 
+                                "slug": "", 
+                                "title": "Reclaim Club Culture", 
+                                "subtitle": "", 
+                                "track": "self organized sessions", 
+                                "type": "", 
+                                "language": "", 
+                                "abstract": "", 
+                                "description": "", 
+                                "persons": [], 
+                                "links": [
+                                    "https://events.ccc.de/congress/2017/wiki/index.php/Session:Reclaim_Club_Culture"
+                                ]
+                            }, 
+                            {
+                                "id": 1146, 
+                                "guid": "cb60417e-6d98-4409-9495-8df6a6513dc9", 
                                 "logo": null, 
                                 "date": "2017-12-27T16:00:00+01:00", 
                                 "start": "16:00", 
@@ -943,8 +952,8 @@
                                 ]
                             }, 
                             {
-                                "id": 1192, 
-                                "guid": "b7d05866-6aed-501f-bc51-ce6040844298", 
+                                "id": 1178, 
+                                "guid": "62018051-4a1e-454e-893b-8c022804f0ca", 
                                 "logo": null, 
                                 "date": "2017-12-27T18:00:00+01:00", 
                                 "start": "18:00", 
@@ -966,7 +975,7 @@
                         ], 
                         "Seminar room 14-15": [
                             {
-                                "id": 1018, 
+                                "id": 1016, 
                                 "guid": "579eab72-fbd6-5ba7-ad7a-59bcab0272ad", 
                                 "logo": null, 
                                 "date": "2017-12-27T12:45:00+01:00", 
@@ -987,7 +996,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1019, 
+                                "id": 1017, 
                                 "guid": "a8254a36-ca09-5c68-8e0b-1399b8a94247", 
                                 "logo": null, 
                                 "date": "2017-12-27T16:30:00+01:00", 
@@ -1008,7 +1017,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1020, 
+                                "id": 1018, 
                                 "guid": "a7083f65-5e8b-52cb-b008-af59762bb115", 
                                 "logo": null, 
                                 "date": "2017-12-27T17:15:00+01:00", 
@@ -1029,8 +1038,8 @@
                                 ]
                             }, 
                             {
-                                "id": 1036, 
-                                "guid": "3d10d645-80f7-5efa-bf14-ad0fc1cf102d", 
+                                "id": 1033, 
+                                "guid": "33a96a14-72c3-47fa-83bc-b60a7c6220ff", 
                                 "logo": null, 
                                 "date": "2017-12-27T15:00:00+01:00", 
                                 "start": "15:00", 
@@ -1051,7 +1060,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1105, 
+                                "id": 1099, 
                                 "guid": "cf5a1d0b-91b1-56af-a2ff-0ad16ab06330", 
                                 "logo": null, 
                                 "date": "2017-12-27T20:00:00+01:00", 
@@ -1074,8 +1083,8 @@
                         ], 
                         "Komona Aquarius": [
                             {
-                                "id": 1056, 
-                                "guid": "05f878df-b590-5545-a958-2475526e510b", 
+                                "id": 1052, 
+                                "guid": "d2a60248-3c0d-4992-bdfe-caad0797c68c", 
                                 "logo": null, 
                                 "date": "2017-12-27T16:00:00+01:00", 
                                 "start": "16:00", 
@@ -1095,8 +1104,8 @@
                                 ]
                             }, 
                             {
-                                "id": 1075, 
-                                "guid": "b3b8033f-15af-54ea-b32b-023c72b36345", 
+                                "id": 1071, 
+                                "guid": "99298b62-255d-41a8-80b0-3f34b7f85f16", 
                                 "logo": null, 
                                 "date": "2017-12-27T14:00:00+01:00", 
                                 "start": "14:00", 
@@ -1116,8 +1125,8 @@
                                 ]
                             }, 
                             {
-                                "id": 1138, 
-                                "guid": "e2416fb4-c256-5b02-9ea2-6dfb418a0b3e", 
+                                "id": 1125, 
+                                "guid": "990fb289-6bc4-4ea9-8c3d-a63ea6c2c93b", 
                                 "logo": null, 
                                 "date": "2017-12-27T12:00:00+01:00", 
                                 "start": "12:00", 
@@ -1137,8 +1146,8 @@
                                 ]
                             }, 
                             {
-                                "id": 1220, 
-                                "guid": "70006092-2467-59c6-ba3f-b65bb1aca56f", 
+                                "id": 1201, 
+                                "guid": "fc985daf-a593-4070-a87e-32b3353cda82", 
                                 "logo": null, 
                                 "date": "2017-12-27T18:00:00+01:00", 
                                 "start": "18:00", 
@@ -1160,8 +1169,8 @@
                         ], 
                         "Hall 3": [
                             {
-                                "id": 1053, 
-                                "guid": "397f0999-58e3-54c9-a080-7665af9bc675", 
+                                "id": 1049, 
+                                "guid": "2d576915-8881-4220-b91f-a575e84365cf", 
                                 "logo": null, 
                                 "date": "2017-12-27T17:00:00+01:00", 
                                 "start": "17:00", 
@@ -1187,8 +1196,8 @@
                                 ]
                             }, 
                             {
-                                "id": 1100, 
-                                "guid": "998f667f-7f43-52f0-b60a-b4bf4f984205", 
+                                "id": 1094, 
+                                "guid": "d1088faa-be44-487e-a11d-6019bb7f52d0", 
                                 "logo": null, 
                                 "date": "2017-12-27T19:00:00+01:00", 
                                 "start": "19:00", 
@@ -1208,8 +1217,8 @@
                                 ]
                             }, 
                             {
-                                "id": 1143, 
-                                "guid": "72423e19-c49d-5593-abf2-5ad2052a87e4", 
+                                "id": 1130, 
+                                "guid": "f4bcf778-9d7b-4a70-82ce-8fef17ea43ac", 
                                 "logo": null, 
                                 "date": "2017-12-27T14:00:00+01:00", 
                                 "start": "14:00", 
@@ -1235,8 +1244,8 @@
                                 ]
                             }, 
                             {
-                                "id": 1198, 
-                                "guid": "48eada87-4c87-56ae-be47-f0712d96c712", 
+                                "id": 1184, 
+                                "guid": "0bae5bc6-440f-4b77-a00e-c7864c7962ea", 
                                 "logo": null, 
                                 "date": "2017-12-27T13:00:00+01:00", 
                                 "start": "13:00", 
@@ -1262,8 +1271,8 @@
                                 ]
                             }, 
                             {
-                                "id": 1203, 
-                                "guid": "81ea2fa2-4d78-5c14-9f86-78937d2897fa", 
+                                "id": 1189, 
+                                "guid": "0b858e21-fefa-4d2c-bc3a-7e14436808a0", 
                                 "logo": null, 
                                 "date": "2017-12-27T20:00:00+01:00", 
                                 "start": "20:00", 
@@ -1289,8 +1298,8 @@
                                 ]
                             }, 
                             {
-                                "id": 1242, 
-                                "guid": "0e9c1416-9b4a-5627-be10-8ab149fe1206", 
+                                "id": 1210, 
+                                "guid": "fdb3606b-97ef-4496-a29b-a6a1e03c9796", 
                                 "logo": null, 
                                 "date": "2017-12-27T21:00:00+01:00", 
                                 "start": "21:00", 
@@ -1319,8 +1328,8 @@
                         ], 
                         "Kidspace": [
                             {
-                                "id": 1244, 
-                                "guid": "b979aa39-50ff-54c7-a17d-945bf83aeae8", 
+                                "id": 1212, 
+                                "guid": "970319ef-2202-480f-ab77-12ebd1a901c2", 
                                 "logo": null, 
                                 "date": "2017-12-27T12:00:00+01:00", 
                                 "start": "12:00", 
@@ -1340,8 +1349,8 @@
                                 ]
                             }, 
                             {
-                                "id": 1251, 
-                                "guid": "f6f5392f-9e66-5113-9ba4-1adb4475403f", 
+                                "id": 1219, 
+                                "guid": "d75d1ea5-b3e1-4f52-ad73-3eb0e99b7dea", 
                                 "logo": null, 
                                 "date": "2017-12-27T13:00:00+01:00", 
                                 "start": "13:00", 
@@ -1365,8 +1374,8 @@
                         ], 
                         "Komona Blue Princess": [
                             {
-                                "id": 1016, 
-                                "guid": "d0027517-c94f-5144-87c9-7135bebf4ff4", 
+                                "id": 1014, 
+                                "guid": "604ff957-cc9f-4bde-b138-feae84fa0202", 
                                 "logo": null, 
                                 "date": "2017-12-27T20:00:00+01:00", 
                                 "start": "20:00", 
@@ -1393,8 +1402,8 @@
                                 ]
                             }, 
                             {
-                                "id": 1065, 
-                                "guid": "427695d4-da30-5b1a-8b70-f487f690a681", 
+                                "id": 1061, 
+                                "guid": "3a1610dc-4f63-4d3d-9ec1-1c3f8ed063e7", 
                                 "logo": null, 
                                 "date": "2017-12-27T16:00:00+01:00", 
                                 "start": "16:00", 
@@ -1415,8 +1424,8 @@
                                 ]
                             }, 
                             {
-                                "id": 1130, 
-                                "guid": "2b3fb994-576c-5fc8-bd05-f7c7e71b8230", 
+                                "id": 1114, 
+                                "guid": "b664d297-2966-43e5-9f77-8a31b9544fac", 
                                 "logo": null, 
                                 "date": "2017-12-27T12:00:00+01:00", 
                                 "start": "12:00", 
@@ -1436,8 +1445,8 @@
                                 ]
                             }, 
                             {
-                                "id": 1255, 
-                                "guid": "880dd927-8bf9-5ebc-84b1-37121654115a", 
+                                "id": 1223, 
+                                "guid": "dd529f5f-4f94-4fda-a4dc-abe0a2f9f68a", 
                                 "logo": null, 
                                 "date": "2017-12-27T18:00:00+01:00", 
                                 "start": "18:00", 
@@ -1459,8 +1468,8 @@
                         ], 
                         "Seminar room 13": [
                             {
-                                "id": 1032, 
-                                "guid": "2f00554f-2f32-5a78-a162-dda13b9080ea", 
+                                "id": 1029, 
+                                "guid": "c1bfe6b4-68b4-40a4-b76b-b88d600286a0", 
                                 "logo": null, 
                                 "date": "2017-12-27T17:30:00+01:00", 
                                 "start": "17:30", 
@@ -1492,7 +1501,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1089, 
+                                "id": 1085, 
                                 "guid": "322651e0-ad94-574b-b609-d5bc07ea5662", 
                                 "logo": null, 
                                 "date": "2017-12-27T15:30:00+01:00", 
@@ -1513,7 +1522,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1099, 
+                                "id": 1093, 
                                 "guid": "c96846b3-f6bc-5c48-a542-d12e3bf4cc15", 
                                 "logo": null, 
                                 "date": "2017-12-27T16:30:00+01:00", 
@@ -1535,8 +1544,8 @@
                                 ]
                             }, 
                             {
-                                "id": 1115, 
-                                "guid": "260c4b07-a2ab-5e01-aa5a-b477055490b4", 
+                                "id": 1029, 
+                                "guid": "c1bfe6b4-68b4-40a4-b76b-b88d600286a0", 
                                 "logo": null, 
                                 "date": "2017-12-27T17:30:00+01:00", 
                                 "start": "17:30", 
@@ -1568,8 +1577,8 @@
                                 ]
                             }, 
                             {
-                                "id": 1197, 
-                                "guid": "8fad52c1-fa5c-5b15-ad01-f28c3ab5ec03", 
+                                "id": 1183, 
+                                "guid": "16098a31-339d-482a-9cac-55a2b174cbae", 
                                 "logo": null, 
                                 "date": "2017-12-27T19:45:00+01:00", 
                                 "start": "19:45", 
@@ -1606,8 +1615,8 @@
                     "rooms": {
                         "Komona Coral Reef": [
                             {
-                                "id": 1007, 
-                                "guid": "cc4a2201-0d82-58f6-8c5c-061a9224cd3e", 
+                                "id": 1006, 
+                                "guid": "d91c9ab4-0da2-43ef-8f77-9734820566d5", 
                                 "logo": null, 
                                 "date": "2017-12-28T18:00:00+01:00", 
                                 "start": "18:00", 
@@ -1633,8 +1642,8 @@
                                 ]
                             }, 
                             {
-                                "id": 1078, 
-                                "guid": "db4a5ab2-c6d4-5448-b74d-6355ec95c4bd", 
+                                "id": 1074, 
+                                "guid": "4f923383-61ee-4648-b40d-c66930b695a8", 
                                 "logo": null, 
                                 "date": "2017-12-28T16:00:00+01:00", 
                                 "start": "16:00", 
@@ -1654,8 +1663,8 @@
                                 ]
                             }, 
                             {
-                                "id": 1098, 
-                                "guid": "2106ac9e-89f8-5873-96c1-0db85308d9e4", 
+                                "id": 1092, 
+                                "guid": "26fb04e5-0e55-4a74-9126-c251614367c9", 
                                 "logo": null, 
                                 "date": "2017-12-28T14:00:00+01:00", 
                                 "start": "14:00", 
@@ -1675,8 +1684,8 @@
                                 ]
                             }, 
                             {
-                                "id": 1208, 
-                                "guid": "fbdd5294-6bbe-5a3c-99f8-1f3c1a088a4b", 
+                                "id": 1194, 
+                                "guid": "36605ace-ee29-4261-8b5b-0678e77440da", 
                                 "logo": null, 
                                 "date": "2017-12-28T20:00:00+01:00", 
                                 "start": "20:00", 
@@ -1702,8 +1711,8 @@
                                 ]
                             }, 
                             {
-                                "id": 1259, 
-                                "guid": "7deba670-d85a-53ba-a5a5-184064dc1208", 
+                                "id": 1227, 
+                                "guid": "580f142f-ac61-4002-82e9-cfae56219554", 
                                 "logo": null, 
                                 "date": "2017-12-28T14:00:00+01:00", 
                                 "start": "14:00", 
@@ -1725,8 +1734,8 @@
                         ], 
                         "Lecture room 11": [
                             {
-                                "id": 1013, 
-                                "guid": "9452bad6-06a6-506c-b740-21af51da4a73", 
+                                "id": 1007, 
+                                "guid": "2b6595ff-c32b-44aa-9bda-e411e5911162", 
                                 "logo": null, 
                                 "date": "2017-12-28T20:15:00+01:00", 
                                 "start": "20:15", 
@@ -1753,7 +1762,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1041, 
+                                "id": 1037, 
                                 "guid": "f7cb074e-f579-5a3d-a5fb-97bd03cf9d2b", 
                                 "logo": null, 
                                 "date": "2017-12-28T18:30:00+01:00", 
@@ -1780,8 +1789,8 @@
                                 ]
                             }, 
                             {
-                                "id": 1106, 
-                                "guid": "f45d3b29-216d-51d8-ba60-bfdf8789d8af", 
+                                "id": 1101, 
+                                "guid": "07142f3d-b450-4cac-94c7-9bb95f78339b", 
                                 "logo": null, 
                                 "date": "2017-12-28T15:00:00+01:00", 
                                 "start": "15:00", 
@@ -1808,7 +1817,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1247, 
+                                "id": 1217, 
                                 "guid": "bb98f348-61fe-52b9-b6e7-6ac5c24534f5", 
                                 "logo": null, 
                                 "date": "2017-12-28T17:30:00+01:00", 
@@ -1829,8 +1838,8 @@
                                 ]
                             }, 
                             {
-                                "id": 1260, 
-                                "guid": "b0a5441a-2022-58fd-ab31-740bfb48653c", 
+                                "id": 1228, 
+                                "guid": "e4264add-ccb6-46dd-8a9d-281f639ca1b3", 
                                 "logo": null, 
                                 "date": "2017-12-28T14:00:00+01:00", 
                                 "start": "14:00", 
@@ -1856,10 +1865,11 @@
                                 ]
                             }
                         ], 
+                        "Hive Stage": [], 
                         "Lecture room 12": [
                             {
-                                "id": 1014, 
-                                "guid": "48992ef1-9346-5596-94cb-2fd5379b0850", 
+                                "id": 1011, 
+                                "guid": "3a60d0e5-d4e4-4757-9fe1-3ac1f75e0e55", 
                                 "logo": null, 
                                 "date": "2017-12-28T20:30:00+01:00", 
                                 "start": "20:30", 
@@ -1880,8 +1890,8 @@
                                 ]
                             }, 
                             {
-                                "id": 1066, 
-                                "guid": "67286356-2cbb-57af-87a1-16fa53ba73d0", 
+                                "id": 1062, 
+                                "guid": "966bca46-17e6-4136-a382-6ccf3fb51bbc", 
                                 "logo": null, 
                                 "date": "2017-12-28T14:00:00+01:00", 
                                 "start": "14:00", 
@@ -1908,7 +1918,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1067, 
+                                "id": 1063, 
                                 "guid": "11858c32-44c9-5669-a970-5865207dab1d", 
                                 "logo": null, 
                                 "date": "2017-12-28T15:30:00+01:00", 
@@ -1929,7 +1939,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1068, 
+                                "id": 1064, 
                                 "guid": "77132cab-30e6-5bff-94ba-15dc01ca0529", 
                                 "logo": null, 
                                 "date": "2017-12-28T17:00:00+01:00", 
@@ -1950,8 +1960,8 @@
                                 ]
                             }, 
                             {
-                                "id": 1081, 
-                                "guid": "faedc3fa-b579-540c-97f8-8bdfe99078ca", 
+                                "id": 1077, 
+                                "guid": "b7a26940-9f6e-43ad-b0ce-b90b23ee6a74", 
                                 "logo": null, 
                                 "date": "2017-12-28T17:30:00+01:00", 
                                 "start": "17:30", 
@@ -1971,8 +1981,8 @@
                                 ]
                             }, 
                             {
-                                "id": 1093, 
-                                "guid": "e057d2e6-a3b6-5dab-95e1-a3fd08ae7b0f", 
+                                "id": 1089, 
+                                "guid": "58011bbc-8a3c-4b8b-a8f5-753abf676aa0", 
                                 "logo": null, 
                                 "date": "2017-12-28T12:30:00+01:00", 
                                 "start": "12:30", 
@@ -1998,8 +2008,8 @@
                                 ]
                             }, 
                             {
-                                "id": 1102, 
-                                "guid": "38eb70b3-02a7-5735-a7de-14bc43370bca", 
+                                "id": 1096, 
+                                "guid": "e8540e23-bfa9-4635-a00e-d4f458ecb364", 
                                 "logo": null, 
                                 "date": "2017-12-28T11:00:00+01:00", 
                                 "start": "11:00", 
@@ -2028,8 +2038,8 @@
                         ], 
                         "Chaos West Stage": [
                             {
-                                "id": 1043, 
-                                "guid": "3104ab1c-4dbf-5729-8557-2fb3517059a5", 
+                                "id": 1039, 
+                                "guid": "5232d29f-03a1-4e01-9bff-2219086116b2", 
                                 "logo": null, 
                                 "date": "2017-12-28T09:00:00+01:00", 
                                 "start": "09:00", 
@@ -2056,8 +2066,8 @@
                                 ]
                             }, 
                             {
-                                "id": 1050, 
-                                "guid": "c2c2e32a-ccb3-5a4b-b198-86a63bceab67", 
+                                "id": 1046, 
+                                "guid": "9d9a35ff-5c8d-4dae-b4ec-933364166b34", 
                                 "logo": null, 
                                 "date": "2017-12-28T20:00:00+01:00", 
                                 "start": "20:00", 
@@ -2084,8 +2094,8 @@
                                 ]
                             }, 
                             {
-                                "id": 1072, 
-                                "guid": "743535c7-7523-5d80-b525-9dccce42ca6d", 
+                                "id": 1068, 
+                                "guid": "c8d51705-3289-4122-8389-e1d2b3ae17dc", 
                                 "logo": null, 
                                 "date": "2017-12-28T22:00:00+01:00", 
                                 "start": "22:00", 
@@ -2112,8 +2122,8 @@
                                 ]
                             }, 
                             {
-                                "id": 1111, 
-                                "guid": "1b240710-e09b-5c29-876b-e99c165989b4", 
+                                "id": 1102, 
+                                "guid": "11832e8c-2e41-4c8d-8ed8-a908d5638480", 
                                 "logo": null, 
                                 "date": "2017-12-29T00:00:00+01:00", 
                                 "start": "00:00", 
@@ -2139,8 +2149,8 @@
                                 ]
                             }, 
                             {
-                                "id": 1112, 
-                                "guid": "a7c4f9c1-bdb4-5ff8-8220-58c29ee276bf", 
+                                "id": 1102, 
+                                "guid": "11832e8c-2e41-4c8d-8ed8-a908d5638480", 
                                 "logo": null, 
                                 "date": "2017-12-29T02:00:00+01:00", 
                                 "start": "02:00", 
@@ -2166,8 +2176,8 @@
                                 ]
                             }, 
                             {
-                                "id": 1140, 
-                                "guid": "38d5c560-7024-591c-8acf-2247e6139373", 
+                                "id": 1127, 
+                                "guid": "eb2fd7f0-8d67-40ff-b833-9131ee61b73d", 
                                 "logo": null, 
                                 "date": "2017-12-28T19:00:00+01:00", 
                                 "start": "19:00", 
@@ -2196,8 +2206,8 @@
                         ], 
                         "CCL Hall 3": [
                             {
-                                "id": 1163, 
-                                "guid": "e564991e-2090-539f-90a2-143ffd6adea4", 
+                                "id": 1149, 
+                                "guid": "092ae74e-8fda-49c2-a247-f444f59864d0", 
                                 "logo": null, 
                                 "date": "2017-12-28T16:00:00+01:00", 
                                 "start": "16:00", 
@@ -2217,8 +2227,8 @@
                                 ]
                             }, 
                             {
-                                "id": 1168, 
-                                "guid": "1f85b519-8492-5b21-9106-3ff36c12950f", 
+                                "id": 1154, 
+                                "guid": "d7d75ccf-f380-4a59-a18b-92ae6083fb8a", 
                                 "logo": null, 
                                 "date": "2017-12-28T17:00:00+01:00", 
                                 "start": "17:00", 
@@ -2238,8 +2248,8 @@
                                 ]
                             }, 
                             {
-                                "id": 1174, 
-                                "guid": "182a4ddd-b48c-5559-a8e8-1fa31f657a4f", 
+                                "id": 1160, 
+                                "guid": "e10a0ba6-3492-4be5-b4b6-87a42987f8d9", 
                                 "logo": null, 
                                 "date": "2017-12-28T18:00:00+01:00", 
                                 "start": "18:00", 
@@ -2259,8 +2269,8 @@
                                 ]
                             }, 
                             {
-                                "id": 1176, 
-                                "guid": "0177372c-765f-5605-8441-d1ed0d637b7b", 
+                                "id": 1161, 
+                                "guid": "cb719734-0650-4539-928a-ac4577eb588c", 
                                 "logo": null, 
                                 "date": "2017-12-28T13:00:00+01:00", 
                                 "start": "13:00", 
@@ -2280,8 +2290,8 @@
                                 ]
                             }, 
                             {
-                                "id": 1180, 
-                                "guid": "a04e61e6-2dcc-59d4-ab9e-73758eab3f39", 
+                                "id": 1166, 
+                                "guid": "93fa9255-e0a0-457e-a569-cb6b88776793", 
                                 "logo": null, 
                                 "date": "2017-12-28T19:00:00+01:00", 
                                 "start": "19:00", 
@@ -2301,29 +2311,8 @@
                                 ]
                             }, 
                             {
-                                "id": 1181, 
-                                "guid": "89a4980b-84c9-5f80-8ae5-6fb9d0589627", 
-                                "logo": null, 
-                                "date": "2017-12-28T21:00:00+01:00", 
-                                "start": "21:00", 
-                                "duration": "1:00", 
-                                "room": "CCL Hall 3", 
-                                "slug": "", 
-                                "title": "Rights&Freedoms", 
-                                "subtitle": "Big Brother Awards - a great tool to build awareness and have fun (Digitalcourage)", 
-                                "track": "self organized sessions", 
-                                "type": "talk", 
-                                "language": "de", 
-                                "abstract": "", 
-                                "description": "Rights & Freedoms Cluster Stage Programme", 
-                                "persons": [], 
-                                "links": [
-                                    "https://events.ccc.de/congress/2017/wiki/index.php/Session:Rights%26Freedoms"
-                                ]
-                            }, 
-                            {
-                                "id": 1182, 
-                                "guid": "c1e23d9b-e400-5583-a6d1-1852540192ae", 
+                                "id": 1167, 
+                                "guid": "091822e6-feeb-436a-82a1-941a1662b1e3", 
                                 "logo": null, 
                                 "date": "2017-12-28T14:00:00+01:00", 
                                 "start": "14:00", 
@@ -2343,8 +2332,29 @@
                                 ]
                             }, 
                             {
-                                "id": 1186, 
-                                "guid": "03e735b7-b277-5a51-a9ec-7f75c02df342", 
+                                "id": 1168, 
+                                "guid": "de3c670b-1478-4606-ad7f-cc781a5f6514", 
+                                "logo": null, 
+                                "date": "2017-12-28T21:00:00+01:00", 
+                                "start": "21:00", 
+                                "duration": "1:00", 
+                                "room": "CCL Hall 3", 
+                                "slug": "", 
+                                "title": "Rights&Freedoms", 
+                                "subtitle": "Big Brother Awards - a great tool to build awareness and have fun (Digitalcourage)", 
+                                "track": "self organized sessions", 
+                                "type": "talk", 
+                                "language": "de", 
+                                "abstract": "", 
+                                "description": "Rights & Freedoms Cluster Stage Programme", 
+                                "persons": [], 
+                                "links": [
+                                    "https://events.ccc.de/congress/2017/wiki/index.php/Session:Rights%26Freedoms"
+                                ]
+                            }, 
+                            {
+                                "id": 1172, 
+                                "guid": "b2d45f0d-95c3-4a8e-bf4e-a59db8006232", 
                                 "logo": null, 
                                 "date": "2017-12-28T20:00:00+01:00", 
                                 "start": "20:00", 
@@ -2364,8 +2374,8 @@
                                 ]
                             }, 
                             {
-                                "id": 1187, 
-                                "guid": "02afee29-c6dc-5c9b-8272-daadd5ae1033", 
+                                "id": 1173, 
+                                "guid": "add8feaa-74d7-44f2-acca-c6902671a1a6", 
                                 "logo": null, 
                                 "date": "2017-12-28T15:00:00+01:00", 
                                 "start": "15:00", 
@@ -2387,8 +2397,8 @@
                         ], 
                         "Komona D.Ressrosa": [
                             {
-                                "id": 1005, 
-                                "guid": "31a7f6d3-ad00-52fd-a045-6fb1d24094c2", 
+                                "id": 1004, 
+                                "guid": "c7aaf89d-f423-44fd-8adb-0cc83f9c7715", 
                                 "logo": null, 
                                 "date": "2017-12-28T12:00:00+01:00", 
                                 "start": "12:00", 
@@ -2408,8 +2418,8 @@
                                 ]
                             }, 
                             {
-                                "id": 1015, 
-                                "guid": "b3c968a9-8077-5d14-8254-c589e0b953af", 
+                                "id": 1012, 
+                                "guid": "196fb76d-6555-418a-bf69-fe76d11fb3a9", 
                                 "logo": null, 
                                 "date": "2017-12-28T20:00:00+01:00", 
                                 "start": "20:00", 
@@ -2429,8 +2439,8 @@
                                 ]
                             }, 
                             {
-                                "id": 1051, 
-                                "guid": "1663fcd2-e776-540c-8f76-bd8ce109a6e7", 
+                                "id": 1047, 
+                                "guid": "aad78386-f6ce-4054-88c8-8b8051fb2b21", 
                                 "logo": null, 
                                 "date": "2017-12-28T20:00:00+01:00", 
                                 "start": "20:00", 
@@ -2451,8 +2461,8 @@
                                 ]
                             }, 
                             {
-                                "id": 1054, 
-                                "guid": "efda4a66-9eb4-5a03-9445-d4c1a4651e5e", 
+                                "id": 1050, 
+                                "guid": "e082c108-e859-48a5-b39f-1291dddd30c5", 
                                 "logo": null, 
                                 "date": "2017-12-28T13:30:00+01:00", 
                                 "start": "13:30", 
@@ -2478,8 +2488,8 @@
                                 ]
                             }, 
                             {
-                                "id": 1055, 
-                                "guid": "0d79053d-e098-5e9b-8a3e-6c99febd2bd8", 
+                                "id": 1051, 
+                                "guid": "e4d026f9-12c3-4e4a-b901-3bfcc1cb9908", 
                                 "logo": null, 
                                 "date": "2017-12-28T16:00:00+01:00", 
                                 "start": "16:00", 
@@ -2499,8 +2509,8 @@
                                 ]
                             }, 
                             {
-                                "id": 1135, 
-                                "guid": "c88034c4-863a-57f6-aacd-e5aa03c2bba8", 
+                                "id": 1122, 
+                                "guid": "1c5ded7d-1373-419f-a3f5-d087ed0c3970", 
                                 "logo": null, 
                                 "date": "2017-12-28T18:00:00+01:00", 
                                 "start": "18:00", 
@@ -2520,8 +2530,8 @@
                                 ]
                             }, 
                             {
-                                "id": 1199, 
-                                "guid": "cc8bcecc-f40f-5455-9726-b5f4b3038761", 
+                                "id": 1185, 
+                                "guid": "1c5ded7d-1373-419f-a3f5-d087ed0c3971", 
                                 "logo": null, 
                                 "date": "2017-12-28T19:00:00+01:00", 
                                 "start": "19:00", 
@@ -2541,8 +2551,8 @@
                                 ]
                             }, 
                             {
-                                "id": 1263, 
-                                "guid": "9df8017b-a809-5dc5-9221-877630ad3c36", 
+                                "id": 1231, 
+                                "guid": "af1ca733-a445-4f6c-947b-a7e79b77f0ba", 
                                 "logo": null, 
                                 "date": "2017-12-28T14:00:00+01:00", 
                                 "start": "14:00", 
@@ -2564,8 +2574,8 @@
                         ], 
                         "Seminar room 14-15": [
                             {
-                                "id": 1028, 
-                                "guid": "315c1791-9344-536d-bd52-f3e735645dbb", 
+                                "id": 1025, 
+                                "guid": "000d509f-3335-45f0-ba9a-9f017e528c72", 
                                 "logo": null, 
                                 "date": "2017-12-28T13:00:00+01:00", 
                                 "start": "13:00", 
@@ -2602,8 +2612,8 @@
                                 ]
                             }, 
                             {
-                                "id": 1045, 
-                                "guid": "fabe6dbf-bd13-5dfe-a0e0-3f865eddb587", 
+                                "id": 1041, 
+                                "guid": "ee541a7b-3886-4af8-b9aa-6003ef1f78d2", 
                                 "logo": null, 
                                 "date": "2017-12-28T16:00:00+01:00", 
                                 "start": "16:00", 
@@ -2629,8 +2639,8 @@
                                 ]
                             }, 
                             {
-                                "id": 1061, 
-                                "guid": "164e742b-ca1e-5491-99f8-110306a9d72a", 
+                                "id": 1057, 
+                                "guid": "3fb92ba5-8a34-4596-94c7-7961c73d06e9", 
                                 "logo": null, 
                                 "date": "2017-12-28T18:00:00+01:00", 
                                 "start": "18:00", 
@@ -2656,8 +2666,8 @@
                                 ]
                             }, 
                             {
-                                "id": 1079, 
-                                "guid": "dc915fdc-4eaa-5003-9bdb-5d0f609ae086", 
+                                "id": 1075, 
+                                "guid": "01f41bb9-3dac-4445-baa1-89a4def018d8", 
                                 "logo": null, 
                                 "date": "2017-12-28T17:30:00+01:00", 
                                 "start": "17:30", 
@@ -2684,8 +2694,8 @@
                                 ]
                             }, 
                             {
-                                "id": 1082, 
-                                "guid": "f89bd6d0-1daf-5bd1-9ea9-b1e58021a998", 
+                                "id": 1078, 
+                                "guid": "5b9d681d-a0ad-4a3a-aa88-ab18d9c2927b", 
                                 "logo": null, 
                                 "date": "2017-12-28T11:30:00+01:00", 
                                 "start": "11:30", 
@@ -2711,8 +2721,8 @@
                                 ]
                             }, 
                             {
-                                "id": 1146, 
-                                "guid": "e2abaaca-03b2-54d5-9adc-588ea03df9cb", 
+                                "id": 1133, 
+                                "guid": "b8e83cf2-69fe-4880-9c19-b889b4e5d8d3", 
                                 "logo": null, 
                                 "date": "2017-12-28T18:00:00+01:00", 
                                 "start": "18:00", 
@@ -2735,8 +2745,8 @@
                         ], 
                         "Komona Aquarius": [
                             {
-                                "id": 1030, 
-                                "guid": "3a0ab5c9-eb82-57e6-88a2-23c6ae2ac10b", 
+                                "id": 1027, 
+                                "guid": "562e3fe9-232c-48c9-a4a6-946d21df55c3", 
                                 "logo": null, 
                                 "date": "2017-12-28T14:00:00+01:00", 
                                 "start": "14:00", 
@@ -2756,8 +2766,8 @@
                                 ]
                             }, 
                             {
-                                "id": 1086, 
-                                "guid": "a667aaad-ee1f-52fa-9f17-cc753a660f7b", 
+                                "id": 1082, 
+                                "guid": "dd8a2a9a-8408-4dd9-a627-f2d2e585c26b", 
                                 "logo": null, 
                                 "date": "2017-12-28T20:00:00+01:00", 
                                 "start": "20:00", 
@@ -2784,8 +2794,8 @@
                                 ]
                             }, 
                             {
-                                "id": 1088, 
-                                "guid": "8f0d751e-387d-556e-b9a1-8959bff1ec23", 
+                                "id": 1084, 
+                                "guid": "d61cdfa4-3ead-4326-ad8c-99eaa210bbb2", 
                                 "logo": null, 
                                 "date": "2017-12-28T16:00:00+01:00", 
                                 "start": "16:00", 
@@ -2811,8 +2821,8 @@
                                 ]
                             }, 
                             {
-                                "id": 1147, 
-                                "guid": "afa91e76-cad1-53d3-bc27-a7f4f4bf3988", 
+                                "id": 1134, 
+                                "guid": "ec28e4b7-b47f-48c9-a944-d5045f8a0b96", 
                                 "logo": null, 
                                 "date": "2017-12-28T18:00:00+01:00", 
                                 "start": "18:00", 
@@ -2832,8 +2842,8 @@
                                 ]
                             }, 
                             {
-                                "id": 1194, 
-                                "guid": "fc3f3a5d-3fe4-5872-a81e-80c39a2e9869", 
+                                "id": 1180, 
+                                "guid": "90e4dc9d-fa68-400a-a202-c0d2714d4c1c", 
                                 "logo": null, 
                                 "date": "2017-12-28T13:00:00+01:00", 
                                 "start": "13:00", 
@@ -2862,8 +2872,8 @@
                         ], 
                         "Hall 3": [
                             {
-                                "id": 1006, 
-                                "guid": "8618e0aa-5ae3-51c8-b64b-0c45e5f3655f", 
+                                "id": 1005, 
+                                "guid": "5722c95d-d24a-45ac-982e-f9d77d59ea7a", 
                                 "logo": null, 
                                 "date": "2017-12-28T20:00:00+01:00", 
                                 "start": "20:00", 
@@ -2889,8 +2899,8 @@
                                 ]
                             }, 
                             {
-                                "id": 1070, 
-                                "guid": "305e3b9d-989d-594b-a62a-4abb3372ade3", 
+                                "id": 1066, 
+                                "guid": "9fda5967-d77b-4921-8e5c-5bed196c6172", 
                                 "logo": null, 
                                 "date": "2017-12-28T18:00:00+01:00", 
                                 "start": "18:00", 
@@ -2916,8 +2926,8 @@
                                 ]
                             }, 
                             {
-                                "id": 1151, 
-                                "guid": "af21d588-ad67-5614-adfa-8fb421cd5918", 
+                                "id": 1138, 
+                                "guid": "158cead9-fedc-4200-ac79-48e118c39244", 
                                 "logo": null, 
                                 "date": "2017-12-28T14:00:00+01:00", 
                                 "start": "14:00", 
@@ -2946,7 +2956,7 @@
                         ], 
                         "Kidspace": [
                             {
-                                "id": 1042, 
+                                "id": 1038, 
                                 "guid": "a6cb4623-d515-5e73-a957-39c6c56de1d7", 
                                 "logo": null, 
                                 "date": "2017-12-28T10:00:00+01:00", 
@@ -2968,8 +2978,8 @@
                                 ]
                             }, 
                             {
-                                "id": 1252, 
-                                "guid": "239583dc-ae23-53c7-8a47-1b6940e4ea3d", 
+                                "id": 1220, 
+                                "guid": "478676ae-916e-4012-9cce-f71ef82aac04", 
                                 "logo": null, 
                                 "date": "2017-12-28T12:00:00+01:00", 
                                 "start": "12:00", 
@@ -2993,8 +3003,8 @@
                         ], 
                         "Komona Blue Princess": [
                             {
-                                "id": 1017, 
-                                "guid": "8c5dc95a-357d-56c7-a048-83f35cc4ed58", 
+                                "id": 1013, 
+                                "guid": "7fb99fd0-8292-45d4-b4bb-43a32faa9549", 
                                 "logo": null, 
                                 "date": "2017-12-28T20:00:00+01:00", 
                                 "start": "20:00", 
@@ -3021,8 +3031,8 @@
                                 ]
                             }, 
                             {
-                                "id": 1127, 
-                                "guid": "e8bb9837-0e65-5162-bcc3-1eed43dba665", 
+                                "id": 1115, 
+                                "guid": "78b6af67-7c9d-460a-ac37-0428a4178e00", 
                                 "logo": null, 
                                 "date": "2017-12-28T12:00:00+01:00", 
                                 "start": "12:00", 
@@ -3042,8 +3052,8 @@
                                 ]
                             }, 
                             {
-                                "id": 1155, 
-                                "guid": "18b81723-5618-5ad5-9a58-672f89db2aee", 
+                                "id": 1142, 
+                                "guid": "e1deb2cd-b1b7-450e-8535-55647bbca8a6", 
                                 "logo": null, 
                                 "date": "2017-12-28T18:00:00+01:00", 
                                 "start": "18:00", 
@@ -3063,8 +3073,8 @@
                                 ]
                             }, 
                             {
-                                "id": 1202, 
-                                "guid": "1b370f94-d32a-5b49-8d18-88aaaf3d752f", 
+                                "id": 1188, 
+                                "guid": "70ee38ff-7fc7-4a77-bff0-b6e800f21f81", 
                                 "logo": null, 
                                 "date": "2017-12-28T16:00:00+01:00", 
                                 "start": "16:00", 
@@ -3091,8 +3101,8 @@
                                 ]
                             }, 
                             {
-                                "id": 1258, 
-                                "guid": "88af4d81-1c8b-5b2e-9610-ddd10a8952db", 
+                                "id": 1226, 
+                                "guid": "bcb7aed8-2d17-4481-8d47-20741a3b3cae", 
                                 "logo": null, 
                                 "date": "2017-12-28T14:00:00+01:00", 
                                 "start": "14:00", 
@@ -3120,8 +3130,8 @@
                         ], 
                         "Seminar room 13": [
                             {
-                                "id": 1046, 
-                                "guid": "c22c9fde-4a0a-55bb-8f9b-c41cc03c761f", 
+                                "id": 1042, 
+                                "guid": "75c32db9-0e93-44c6-af0e-3d8cb45f12e7", 
                                 "logo": null, 
                                 "date": "2017-12-28T15:00:00+01:00", 
                                 "start": "15:00", 
@@ -3142,7 +3152,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1118, 
+                                "id": 1107, 
                                 "guid": "b0893f0f-96be-5d0d-aa10-e994a631f2d6", 
                                 "logo": null, 
                                 "date": "2017-12-28T13:00:00+01:00", 
@@ -3163,8 +3173,8 @@
                                 ]
                             }, 
                             {
-                                "id": 1145, 
-                                "guid": "8ea0c2df-6917-56ac-8f40-94077bb04dc5", 
+                                "id": 1132, 
+                                "guid": "3c6e963d-f1f7-4620-b8da-2e3dad27f51e", 
                                 "logo": null, 
                                 "date": "2017-12-28T10:00:00+01:00", 
                                 "start": "10:00", 
@@ -3191,7 +3201,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1149, 
+                                "id": 1136, 
                                 "guid": "806965c6-12da-5d0f-911d-716224940b6c", 
                                 "logo": null, 
                                 "date": "2017-12-28T17:00:00+01:00", 
@@ -3219,7 +3229,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1204, 
+                                "id": 1190, 
                                 "guid": "d9e37733-add6-5977-84fa-fe995bb3bc0d", 
                                 "logo": null, 
                                 "date": "2017-12-28T14:00:00+01:00", 
@@ -3240,8 +3250,8 @@
                                 ]
                             }, 
                             {
-                                "id": 1256, 
-                                "guid": "27599550-13c5-519f-96c3-038a2ef89094", 
+                                "id": 1224, 
+                                "guid": "77f34cbf-f0df-47b1-b235-b405c07ac7cd", 
                                 "logo": null, 
                                 "date": "2017-12-28T18:00:00+01:00", 
                                 "start": "18:00", 
@@ -3277,8 +3287,8 @@
                     "rooms": {
                         "Komona Coral Reef": [
                             {
-                                "id": 1077, 
-                                "guid": "259b48a0-9cf2-56f2-8293-a62c80c5f96e", 
+                                "id": 1073, 
+                                "guid": "5827fd18-7bbf-4c9d-a2db-de0b5afb12d0", 
                                 "logo": null, 
                                 "date": "2017-12-29T16:00:00+01:00", 
                                 "start": "16:00", 
@@ -3298,8 +3308,8 @@
                                 ]
                             }, 
                             {
-                                "id": 1085, 
-                                "guid": "916afad9-ac54-59f1-b694-0d2d3ffb3c2b", 
+                                "id": 1081, 
+                                "guid": "6b5e45f7-bc89-48b4-b92a-b514dea70f90", 
                                 "logo": null, 
                                 "date": "2017-12-29T14:00:00+01:00", 
                                 "start": "14:00", 
@@ -3319,8 +3329,8 @@
                                 ]
                             }, 
                             {
-                                "id": 1219, 
-                                "guid": "1384ce4e-af63-5b6a-abe5-7f61f987f3f6", 
+                                "id": 1200, 
+                                "guid": "7be53b3d-4e07-4327-a4de-62ffd4bc6ca8", 
                                 "logo": null, 
                                 "date": "2017-12-29T18:00:00+01:00", 
                                 "start": "18:00", 
@@ -3342,8 +3352,8 @@
                         ], 
                         "Lecture room 11": [
                             {
-                                "id": 1008, 
-                                "guid": "283816dd-0e5c-5f4b-8d11-eab7df9dd9e6", 
+                                "id": 1007, 
+                                "guid": "2b6595ff-c32b-44aa-9bda-e411e5911162", 
                                 "logo": null, 
                                 "date": "2017-12-29T20:15:00+01:00", 
                                 "start": "20:15", 
@@ -3370,8 +3380,8 @@
                                 ]
                             }, 
                             {
-                                "id": 1009, 
-                                "guid": "907b57ee-34e3-5a75-bade-870786959429", 
+                                "id": 1007, 
+                                "guid": "2b6595ff-c32b-44aa-9bda-e411e5911162", 
                                 "logo": null, 
                                 "date": "2017-12-29T13:30:00+01:00", 
                                 "start": "13:30", 
@@ -3398,8 +3408,8 @@
                                 ]
                             }, 
                             {
-                                "id": 1024, 
-                                "guid": "a87bf4f8-a8a1-5c87-9562-657e30906954", 
+                                "id": 1021, 
+                                "guid": "c95ed0ee-b001-4475-923d-d67a6bb7dff1", 
                                 "logo": null, 
                                 "date": "2017-12-29T12:00:00+01:00", 
                                 "start": "12:00", 
@@ -3420,8 +3430,8 @@
                                 ]
                             }, 
                             {
-                                "id": 1064, 
-                                "guid": "2bd5147b-e8d5-5909-9c97-5a2c1482c6f2", 
+                                "id": 1060, 
+                                "guid": "7cfa0f1d-6bbb-419f-9dd9-f331e5b773b7", 
                                 "logo": null, 
                                 "date": "2017-12-29T19:00:00+01:00", 
                                 "start": "19:00", 
@@ -3453,7 +3463,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1073, 
+                                "id": 1069, 
                                 "guid": "0ae5f121-5f8d-5d1e-bf6c-429be9ea00e1", 
                                 "logo": null, 
                                 "date": "2017-12-29T13:00:00+01:00", 
@@ -3474,8 +3484,8 @@
                                 ]
                             }, 
                             {
-                                "id": 1107, 
-                                "guid": "556c481f-ce39-521e-a80e-2715606dbd8f", 
+                                "id": 1100, 
+                                "guid": "e3d9d5b4-b35d-4828-b7af-6cdf33b438cf", 
                                 "logo": null, 
                                 "date": "2017-12-29T23:59:00+01:00", 
                                 "start": "23:59", 
@@ -3502,8 +3512,8 @@
                                 ]
                             }, 
                             {
-                                "id": 1132, 
-                                "guid": "57c9a206-59ec-5e4d-9f61-dd111629d5f4", 
+                                "id": 1119, 
+                                "guid": "cc8c60bb-2c29-4bf7-8844-5470470c5935", 
                                 "logo": null, 
                                 "date": "2017-12-29T15:30:00+01:00", 
                                 "start": "15:30", 
@@ -3529,7 +3539,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1161, 
+                                "id": 1147, 
                                 "guid": "24916f94-82d4-5573-b831-f0cc81891754", 
                                 "logo": null, 
                                 "date": "2017-12-29T17:00:00+01:00", 
@@ -3551,8 +3561,8 @@
                                 ]
                             }, 
                             {
-                                "id": 1245, 
-                                "guid": "afefe179-71ad-598d-8feb-77c22e109cc2", 
+                                "id": 1213, 
+                                "guid": "af24303a-71b5-4887-a93d-e12f95ffbe22", 
                                 "logo": null, 
                                 "date": "2017-12-29T22:00:00+01:00", 
                                 "start": "22:00", 
@@ -3579,8 +3589,8 @@
                                 ]
                             }, 
                             {
-                                "id": 1265, 
-                                "guid": "e5516ab8-8f92-59c9-9d5d-f1b665ab35e0", 
+                                "id": 1233, 
+                                "guid": "053ee696-3bcc-4c33-92f2-330bb687f008", 
                                 "logo": null, 
                                 "date": "2017-12-29T13:45:00+01:00", 
                                 "start": "13:45", 
@@ -3601,9 +3611,10 @@
                                 ]
                             }
                         ], 
+                        "Hive Stage": [], 
                         "Lecture room 12": [
                             {
-                                "id": 1025, 
+                                "id": 1022, 
                                 "guid": "41957fb4-f68b-5703-a91f-4fce7a77ca7f", 
                                 "logo": null, 
                                 "date": "2017-12-29T17:00:00+01:00", 
@@ -3624,8 +3635,8 @@
                                 ]
                             }, 
                             {
-                                "id": 1058, 
-                                "guid": "1be638ef-c394-542a-818c-44ed33c1f3c0", 
+                                "id": 1054, 
+                                "guid": "f8c99603-0459-4199-af0e-18a5c6c8528c", 
                                 "logo": null, 
                                 "date": "2017-12-29T11:30:00+01:00", 
                                 "start": "11:30", 
@@ -3651,8 +3662,8 @@
                                 ]
                             }, 
                             {
-                                "id": 1137, 
-                                "guid": "096560dd-8457-5d02-b100-f6860c85ef84", 
+                                "id": 1124, 
+                                "guid": "7eca5104-3a60-412d-904f-920285df3428", 
                                 "logo": null, 
                                 "date": "2017-12-29T18:00:00+01:00", 
                                 "start": "18:00", 
@@ -3672,8 +3683,8 @@
                                 ]
                             }, 
                             {
-                                "id": 1142, 
-                                "guid": "8b3b8ca2-7d5f-5823-af0c-90038c46aa18", 
+                                "id": 1129, 
+                                "guid": "250f6aec-1814-47b4-8396-c292ec198174", 
                                 "logo": null, 
                                 "date": "2017-12-29T19:30:00+01:00", 
                                 "start": "19:30", 
@@ -3694,8 +3705,8 @@
                                 ]
                             }, 
                             {
-                                "id": 1162, 
-                                "guid": "6d5135dc-82fb-53fb-b6f4-095ef0b561eb", 
+                                "id": 1148, 
+                                "guid": "a4441595-d79f-4625-8f0d-037c8eb05877", 
                                 "logo": null, 
                                 "date": "2017-12-29T14:00:00+01:00", 
                                 "start": "14:00", 
@@ -3723,8 +3734,8 @@
                         ], 
                         "Chaos West Stage": [
                             {
-                                "id": 1090, 
-                                "guid": "1256ecf5-d8e2-5d94-baab-9e9e0e988cd0", 
+                                "id": 1086, 
+                                "guid": "9b04713a-5181-44bf-aa1e-b89d4c4ca303", 
                                 "logo": null, 
                                 "date": "2017-12-29T17:00:00+01:00", 
                                 "start": "17:00", 
@@ -3751,35 +3762,8 @@
                                 ]
                             }, 
                             {
-                                "id": 1108, 
-                                "guid": "7c60a2b4-64a8-505b-89b1-5c94bc2fc7a4", 
-                                "logo": null, 
-                                "date": "2017-12-30T02:00:00+01:00", 
-                                "start": "02:00", 
-                                "duration": "2:00", 
-                                "room": "Chaos West Stage", 
-                                "slug": "", 
-                                "title": "Klangteppich", 
-                                "subtitle": "Alexeyan DJ set", 
-                                "track": "self organized sessions", 
-                                "type": "other", 
-                                "language": "de", 
-                                "abstract": "", 
-                                "description": "Come over and meet us at our cozy music lounge in hall 2! Proudly presented by Chaos West", 
-                                "persons": [
-                                    {
-                                        "id": 0, 
-                                        "url": "https://events.ccc.de/congress/2017/wiki/index.php/User:Bam", 
-                                        "public_name": "Bam"
-                                    }
-                                ], 
-                                "links": [
-                                    "https://events.ccc.de/congress/2017/wiki/index.php/Session:Klangteppich"
-                                ]
-                            }, 
-                            {
-                                "id": 1113, 
-                                "guid": "2b9dfcee-6864-51d5-a401-7b92abca7c24", 
+                                "id": 1102, 
+                                "guid": "11832e8c-2e41-4c8d-8ed8-a908d5638480", 
                                 "logo": null, 
                                 "date": "2017-12-30T00:00:00+01:00", 
                                 "start": "00:00", 
@@ -3805,8 +3789,35 @@
                                 ]
                             }, 
                             {
-                                "id": 1131, 
-                                "guid": "94ef8da5-ae23-5157-aecf-ed38dbe6dfc1", 
+                                "id": 1102, 
+                                "guid": "11832e8c-2e41-4c8d-8ed8-a908d5638480", 
+                                "logo": null, 
+                                "date": "2017-12-30T02:00:00+01:00", 
+                                "start": "02:00", 
+                                "duration": "2:00", 
+                                "room": "Chaos West Stage", 
+                                "slug": "", 
+                                "title": "Klangteppich", 
+                                "subtitle": "Alexeyan DJ set", 
+                                "track": "self organized sessions", 
+                                "type": "other", 
+                                "language": "de", 
+                                "abstract": "", 
+                                "description": "Come over and meet us at our cozy music lounge in hall 2! Proudly presented by Chaos West", 
+                                "persons": [
+                                    {
+                                        "id": 0, 
+                                        "url": "https://events.ccc.de/congress/2017/wiki/index.php/User:Bam", 
+                                        "public_name": "Bam"
+                                    }
+                                ], 
+                                "links": [
+                                    "https://events.ccc.de/congress/2017/wiki/index.php/Session:Klangteppich"
+                                ]
+                            }, 
+                            {
+                                "id": 1118, 
+                                "guid": "4ba2d739-a838-4c14-bf49-057095a649f5", 
                                 "logo": null, 
                                 "date": "2017-12-29T16:00:00+01:00", 
                                 "start": "16:00", 
@@ -3833,8 +3844,8 @@
                                 ]
                             }, 
                             {
-                                "id": 1267, 
-                                "guid": "2c598879-fce7-5c4e-ab68-b964390b0636", 
+                                "id": 1235, 
+                                "guid": "2908d355-9054-4c8f-8a7f-33e677435c1d", 
                                 "logo": null, 
                                 "date": "2017-12-29T14:00:00+01:00", 
                                 "start": "14:00", 
@@ -3861,8 +3872,8 @@
                                 ]
                             }, 
                             {
-                                "id": 1268, 
-                                "guid": "6d977631-37df-5373-a05b-7465faa06531", 
+                                "id": 1236, 
+                                "guid": "cc28d9e0-c2e8-4e48-862e-5e5f489eb214", 
                                 "logo": null, 
                                 "date": "2017-12-29T18:00:00+01:00", 
                                 "start": "18:00", 
@@ -3891,8 +3902,8 @@
                         ], 
                         "CCL Hall 3": [
                             {
-                                "id": 1164, 
-                                "guid": "710a02ad-8aa0-556c-854b-3f4f414183bd", 
+                                "id": 1151, 
+                                "guid": "48ea0d19-03cd-4cea-b436-46892ae393ad", 
                                 "logo": null, 
                                 "date": "2017-12-29T20:00:00+01:00", 
                                 "start": "20:00", 
@@ -3912,8 +3923,8 @@
                                 ]
                             }, 
                             {
-                                "id": 1167, 
-                                "guid": "8b2819b8-579d-5bea-a291-93a126841ff2", 
+                                "id": 1153, 
+                                "guid": "2364a815-ad04-427d-8877-1c4e3931f4be", 
                                 "logo": null, 
                                 "date": "2017-12-29T14:00:00+01:00", 
                                 "start": "14:00", 
@@ -3933,8 +3944,8 @@
                                 ]
                             }, 
                             {
-                                "id": 1169, 
-                                "guid": "85fdb89c-85d8-527b-8020-273d1f7a3396", 
+                                "id": 1156, 
+                                "guid": "65ef56f8-c667-4b9f-8a28-843f8fe7bbf0", 
                                 "logo": null, 
                                 "date": "2017-12-29T21:00:00+01:00", 
                                 "start": "21:00", 
@@ -3954,8 +3965,8 @@
                                 ]
                             }, 
                             {
-                                "id": 1172, 
-                                "guid": "c01aa0c7-e68c-59e1-9ea1-7745a39290cd", 
+                                "id": 1158, 
+                                "guid": "24e0dbc4-0042-4cce-b648-86c3092b36a8", 
                                 "logo": null, 
                                 "date": "2017-12-29T15:00:00+01:00", 
                                 "start": "15:00", 
@@ -3975,8 +3986,8 @@
                                 ]
                             }, 
                             {
-                                "id": 1178, 
-                                "guid": "5ff78d98-328e-57a7-a534-f1b98c5373a7", 
+                                "id": 1164, 
+                                "guid": "d3a4bc15-b59a-46ee-92ec-bdc95e79f295", 
                                 "logo": null, 
                                 "date": "2017-12-29T16:00:00+01:00", 
                                 "start": "16:00", 
@@ -3996,8 +4007,8 @@
                                 ]
                             }, 
                             {
-                                "id": 1184, 
-                                "guid": "f7078cfa-d45e-5dc5-bf27-4eb49a3a5b75", 
+                                "id": 1170, 
+                                "guid": "e205e42a-460e-4c11-b3a2-c764d06cb053", 
                                 "logo": null, 
                                 "date": "2017-12-29T18:00:00+01:00", 
                                 "start": "18:00", 
@@ -4017,8 +4028,8 @@
                                 ]
                             }, 
                             {
-                                "id": 1188, 
-                                "guid": "d7436cc5-5628-5ac7-aa40-ff7f4717a68c", 
+                                "id": 1175, 
+                                "guid": "4f988987-df21-4bd4-a494-bf5fff3c3f42", 
                                 "logo": null, 
                                 "date": "2017-12-29T19:00:00+01:00", 
                                 "start": "19:00", 
@@ -4038,8 +4049,8 @@
                                 ]
                             }, 
                             {
-                                "id": 1191, 
-                                "guid": "c61cff35-8ec9-5cf8-92f9-cd9cb7c570b0", 
+                                "id": 1177, 
+                                "guid": "c682fa8a-045b-4a09-8164-1b33826b8e63", 
                                 "logo": null, 
                                 "date": "2017-12-29T13:00:00+01:00", 
                                 "start": "13:00", 
@@ -4061,8 +4072,8 @@
                         ], 
                         "Komona D.Ressrosa": [
                             {
-                                "id": 1004, 
-                                "guid": "4c027fc5-bfea-59e4-8e99-627efe06a8da", 
+                                "id": 1003, 
+                                "guid": "7d403585-2692-4528-a704-128181378780", 
                                 "logo": null, 
                                 "date": "2017-12-29T20:00:00+01:00", 
                                 "start": "20:00", 
@@ -4082,8 +4093,8 @@
                                 ]
                             }, 
                             {
-                                "id": 1033, 
-                                "guid": "48f4e3ab-a6d2-5598-80c6-4f1ad73270f4", 
+                                "id": 1030, 
+                                "guid": "132a2ee9-72fe-439c-a06f-28ad608bb663", 
                                 "logo": null, 
                                 "date": "2017-12-29T16:00:00+01:00", 
                                 "start": "16:00", 
@@ -4103,8 +4114,8 @@
                                 ]
                             }, 
                             {
-                                "id": 1116, 
-                                "guid": "08822a25-607d-5c83-b557-a5a412a3fc96", 
+                                "id": 1106, 
+                                "guid": "6f1ecbd7-fa2a-4a61-a70b-2edd2055e061", 
                                 "logo": null, 
                                 "date": "2017-12-29T12:00:00+01:00", 
                                 "start": "12:00", 
@@ -4136,8 +4147,8 @@
                                 ]
                             }, 
                             {
-                                "id": 1117, 
-                                "guid": "a60e5dd4-51cb-5c32-bb4e-15a1b49888e0", 
+                                "id": 1106, 
+                                "guid": "6f1ecbd7-fa2a-4a61-a70b-2edd2055e061", 
                                 "logo": null, 
                                 "date": "2017-12-29T12:00:00+01:00", 
                                 "start": "12:00", 
@@ -4164,8 +4175,8 @@
                                 ]
                             }, 
                             {
-                                "id": 1134, 
-                                "guid": "944e0ba6-0a38-5a7a-984a-e38aff640cb0", 
+                                "id": 1121, 
+                                "guid": "e3785f2b-4bc8-4a8b-9e38-b57425503760", 
                                 "logo": null, 
                                 "date": "2017-12-29T18:00:00+01:00", 
                                 "start": "18:00", 
@@ -4185,8 +4196,8 @@
                                 ]
                             }, 
                             {
-                                "id": 1257, 
-                                "guid": "09214919-2a1a-5e58-ac8f-cf733ad06d7f", 
+                                "id": 1225, 
+                                "guid": "151ec08c-5139-46fb-b1b6-180187577fb8", 
                                 "logo": null, 
                                 "date": "2017-12-29T20:00:00+01:00", 
                                 "start": "20:00", 
@@ -4206,8 +4217,8 @@
                                 ]
                             }, 
                             {
-                                "id": 1264, 
-                                "guid": "314b790b-ea14-5234-961b-1e6f505e3171", 
+                                "id": 1232, 
+                                "guid": "da930b1f-96d6-47fa-adad-d979ab30e241", 
                                 "logo": null, 
                                 "date": "2017-12-29T14:00:00+01:00", 
                                 "start": "14:00", 
@@ -4229,8 +4240,8 @@
                         ], 
                         "Seminar room 14-15": [
                             {
-                                "id": 1029, 
-                                "guid": "710967e8-ea2b-5a4a-923b-2177e2506378", 
+                                "id": 1026, 
+                                "guid": "e7d29e30-123b-4840-a2fc-e6674ad6c455", 
                                 "logo": null, 
                                 "date": "2017-12-29T12:30:00+01:00", 
                                 "start": "12:30", 
@@ -4250,7 +4261,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1035, 
+                                "id": 1032, 
                                 "guid": "c63a1771-2b28-5874-8704-11aea986ada1", 
                                 "logo": null, 
                                 "date": "2017-12-29T15:00:00+01:00", 
@@ -4278,8 +4289,8 @@
                                 ]
                             }, 
                             {
-                                "id": 1048, 
-                                "guid": "ca2f4421-eb0d-5409-8bb3-6694d32a3589", 
+                                "id": 1044, 
+                                "guid": "0ccb5d1a-0251-48a9-9dbd-334dfb5d87f8", 
                                 "logo": null, 
                                 "date": "2017-12-29T16:30:00+01:00", 
                                 "start": "16:30", 
@@ -4299,8 +4310,8 @@
                                 ]
                             }, 
                             {
-                                "id": 1069, 
-                                "guid": "9c86d460-12b5-59cb-aa1e-cd6f82bd95f7", 
+                                "id": 1065, 
+                                "guid": "48a313db-b580-4989-b28b-c4e9c6703db5", 
                                 "logo": null, 
                                 "date": "2017-12-29T10:00:00+01:00", 
                                 "start": "10:00", 
@@ -4320,8 +4331,8 @@
                                 ]
                             }, 
                             {
-                                "id": 1091, 
-                                "guid": "7a3c3a03-c47d-50a9-9b73-6f93ede795ad", 
+                                "id": 1087, 
+                                "guid": "0dd4caa9-88c2-4eca-80e5-76aeac1389c3", 
                                 "logo": null, 
                                 "date": "2017-12-29T14:00:00+01:00", 
                                 "start": "14:00", 
@@ -4347,8 +4358,8 @@
                                 ]
                             }, 
                             {
-                                "id": 1092, 
-                                "guid": "90e6db65-5594-57ae-9ae3-59379cb794c7", 
+                                "id": 1088, 
+                                "guid": "9723b386-1590-4df3-b629-5d1872722dfc", 
                                 "logo": null, 
                                 "date": "2017-12-29T18:30:00+01:00", 
                                 "start": "18:30", 
@@ -4375,7 +4386,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1248, 
+                                "id": 1218, 
                                 "guid": "f3a30985-fc90-51f2-baa3-a07d034bffcc", 
                                 "logo": null, 
                                 "date": "2017-12-29T17:30:00+01:00", 
@@ -4398,8 +4409,8 @@
                         ], 
                         "Komona Aquarius": [
                             {
-                                "id": 1057, 
-                                "guid": "d5226eb3-7634-54f6-9010-9cb056843574", 
+                                "id": 1053, 
+                                "guid": "df40b110-57ee-47dc-ad9f-a7362e9b7aae", 
                                 "logo": null, 
                                 "date": "2017-12-29T18:00:00+01:00", 
                                 "start": "18:00", 
@@ -4426,8 +4437,8 @@
                                 ]
                             }, 
                             {
-                                "id": 1114, 
-                                "guid": "802795d9-a0f3-5b97-b4ba-c7a3d13c0837", 
+                                "id": 1105, 
+                                "guid": "ad5a4bef-1192-4ba8-97c0-8cf03e82193b", 
                                 "logo": null, 
                                 "date": "2017-12-29T20:00:00+01:00", 
                                 "start": "20:00", 
@@ -4447,8 +4458,8 @@
                                 ]
                             }, 
                             {
-                                "id": 1195, 
-                                "guid": "d902b542-a16e-5318-b033-136a8b707078", 
+                                "id": 1181, 
+                                "guid": "49011248-141e-4210-a699-975f6e7a1a1b", 
                                 "logo": null, 
                                 "date": "2017-12-29T12:00:00+01:00", 
                                 "start": "12:00", 
@@ -4468,8 +4479,8 @@
                                 ]
                             }, 
                             {
-                                "id": 1201, 
-                                "guid": "57917565-c15c-5bc0-bedc-5386bbd6028a", 
+                                "id": 1187, 
+                                "guid": "d475f861-e899-42a7-835b-f5d70fdeeb6a", 
                                 "logo": null, 
                                 "date": "2017-12-29T16:00:00+01:00", 
                                 "start": "16:00", 
@@ -4497,8 +4508,8 @@
                         ], 
                         "Hall 3": [
                             {
-                                "id": 1060, 
-                                "guid": "e768dcf9-7606-508e-a30d-d87ec33129c9", 
+                                "id": 1056, 
+                                "guid": "591d02bd-8ceb-4dd7-81dc-d0c674fd84fc", 
                                 "logo": null, 
                                 "date": "2017-12-29T16:00:00+01:00", 
                                 "start": "16:00", 
@@ -4526,8 +4537,8 @@
                                 ]
                             }, 
                             {
-                                "id": 1153, 
-                                "guid": "82281a9a-4a8d-5b76-8538-2c681d02304a", 
+                                "id": 1140, 
+                                "guid": "e11a7802-f227-4ea0-90c8-b8491914b755", 
                                 "logo": null, 
                                 "date": "2017-12-29T19:00:00+01:00", 
                                 "start": "19:00", 
@@ -4557,7 +4568,7 @@
                         "Kidspace": [
                             {
                                 "id": 1001, 
-                                "guid": "87e10368-2e8a-56a9-8d27-4b04b2c1cb42", 
+                                "guid": "d6665d6a-b44e-44f0-a0aa-31f5f716caf0", 
                                 "logo": null, 
                                 "date": "2017-12-29T12:00:00+01:00", 
                                 "start": "12:00", 
@@ -4577,8 +4588,8 @@
                                 ]
                             }, 
                             {
-                                "id": 1002, 
-                                "guid": "648b73b1-3449-5d2c-a4a5-902f16596bfb", 
+                                "id": 1000, 
+                                "guid": "53d056a4-aeb6-4814-ace4-a8a60345340d", 
                                 "logo": null, 
                                 "date": "2017-12-29T16:00:00+01:00", 
                                 "start": "16:00", 
@@ -4600,8 +4611,8 @@
                         ], 
                         "Komona Blue Princess": [
                             {
-                                "id": 1052, 
-                                "guid": "3b08dbb8-1419-5b5a-8eb2-73fb28c9e476", 
+                                "id": 1048, 
+                                "guid": "e6289dc2-301f-4975-9132-5798b71ca725", 
                                 "logo": null, 
                                 "date": "2017-12-29T14:00:00+01:00", 
                                 "start": "14:00", 
@@ -4633,8 +4644,8 @@
                                 ]
                             }, 
                             {
-                                "id": 1128, 
-                                "guid": "10212045-6915-56e7-803a-eb1503b1f4da", 
+                                "id": 1116, 
+                                "guid": "01830be1-2a28-424f-a6f4-5668b463b6e3", 
                                 "logo": null, 
                                 "date": "2017-12-29T12:00:00+01:00", 
                                 "start": "12:00", 
@@ -4654,8 +4665,8 @@
                                 ]
                             }, 
                             {
-                                "id": 1200, 
-                                "guid": "fe111219-d99b-5d46-aa15-c2f1658eb730", 
+                                "id": 1186, 
+                                "guid": "dbad8017-1e66-4163-bf58-8b79076dc647", 
                                 "logo": null, 
                                 "date": "2017-12-29T16:00:00+01:00", 
                                 "start": "16:00", 
@@ -4677,8 +4688,8 @@
                         ], 
                         "Seminar room 13": [
                             {
-                                "id": 1059, 
-                                "guid": "72863ad3-edb4-531a-928d-0d892a595434", 
+                                "id": 1055, 
+                                "guid": "5e6c41fb-373c-4a00-ba8b-4f4af7bea1e8", 
                                 "logo": null, 
                                 "date": "2017-12-29T20:00:00+01:00", 
                                 "start": "20:00", 
@@ -4699,8 +4710,8 @@
                                 ]
                             }, 
                             {
-                                "id": 1101, 
-                                "guid": "c096366e-2aea-5491-b2ef-2caad7fe83ae", 
+                                "id": 1095, 
+                                "guid": "bbc38995-f7c5-453b-a572-1be0ea022b1f", 
                                 "logo": null, 
                                 "date": "2017-12-29T14:00:00+01:00", 
                                 "start": "14:00", 
@@ -4726,8 +4737,8 @@
                                 ]
                             }, 
                             {
-                                "id": 1125, 
-                                "guid": "01775bbb-3551-5395-a7ba-27dbbdd31ea7", 
+                                "id": 1112, 
+                                "guid": "0d5446c8-3e00-4936-a635-f054adfb177a", 
                                 "logo": null, 
                                 "date": "2017-12-29T17:00:00+01:00", 
                                 "start": "17:00", 
@@ -4753,8 +4764,8 @@
                                 ]
                             }, 
                             {
-                                "id": 1144, 
-                                "guid": "a70e7907-6deb-5bf2-be6d-dbdadc8d86bb", 
+                                "id": 1131, 
+                                "guid": "fc0879a9-4dd5-4965-8d39-59d916c985b6", 
                                 "logo": null, 
                                 "date": "2017-12-29T18:00:00+01:00", 
                                 "start": "18:00", 
@@ -4781,7 +4792,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1150, 
+                                "id": 1137, 
                                 "guid": "7b304f74-bdf9-576b-970c-920e8adcea4f", 
                                 "logo": null, 
                                 "date": "2017-12-29T16:00:00+01:00", 
@@ -4809,8 +4820,8 @@
                                 ]
                             }, 
                             {
-                                "id": 1241, 
-                                "guid": "4c233853-7dfb-514c-90b1-d36132376db6", 
+                                "id": 1209, 
+                                "guid": "044193f8-1a18-441d-acba-2d4e32159a4a", 
                                 "logo": null, 
                                 "date": "2017-12-29T15:00:00+01:00", 
                                 "start": "15:00", 
@@ -4846,8 +4857,8 @@
                     "rooms": {
                         "Komona Coral Reef": [
                             {
-                                "id": 1266, 
-                                "guid": "39ff4e97-ab24-5404-b129-f804123be05c", 
+                                "id": 1234, 
+                                "guid": "6e77d278-f184-4c70-83a0-6a2208d4d269", 
                                 "logo": null, 
                                 "date": "2017-12-30T14:00:00+01:00", 
                                 "start": "14:00", 
@@ -4869,8 +4880,8 @@
                         ], 
                         "Lecture room 11": [
                             {
-                                "id": 1040, 
-                                "guid": "c9ce100d-907c-5f62-b32f-ac62786a150a", 
+                                "id": 1036, 
+                                "guid": "ae0da13d-e3ac-4d98-8a47-b0b65002b045", 
                                 "logo": null, 
                                 "date": "2017-12-30T14:00:00+01:00", 
                                 "start": "14:00", 
@@ -4896,8 +4907,8 @@
                                 ]
                             }, 
                             {
-                                "id": 1074, 
-                                "guid": "8d205466-321c-551c-8755-aacb8ef04bdf", 
+                                "id": 1070, 
+                                "guid": "c44ea15b-230e-468d-b6cb-6f1cf3aa165b", 
                                 "logo": null, 
                                 "date": "2017-12-30T16:00:00+01:00", 
                                 "start": "16:00", 
@@ -4923,10 +4934,11 @@
                                 ]
                             }
                         ], 
+                        "Hive Stage": [], 
                         "Lecture room 12": [
                             {
-                                "id": 1269, 
-                                "guid": "42b4266c-806b-5eb0-a07d-f4e76e804a79", 
+                                "id": 1237, 
+                                "guid": "dd59f0b8-212d-4978-8476-fffb4455bb25", 
                                 "logo": null, 
                                 "date": "2017-12-30T14:30:00+01:00", 
                                 "start": "14:30", 
@@ -4953,10 +4965,11 @@
                                 ]
                             }
                         ], 
+                        "Chaos West Stage": [], 
                         "CCL Hall 3": [
                             {
-                                "id": 1175, 
-                                "guid": "50839139-1141-5cc7-a824-24d7584a0344", 
+                                "id": 1162, 
+                                "guid": "3402fbf1-545c-4b4f-abf3-7fa4afbfed9f", 
                                 "logo": null, 
                                 "date": "2017-12-30T14:00:00+01:00", 
                                 "start": "14:00", 
@@ -4978,8 +4991,8 @@
                         ], 
                         "Komona D.Ressrosa": [
                             {
-                                "id": 1063, 
-                                "guid": "807901c8-f793-5fb4-8c74-45418dd7df99", 
+                                "id": 1059, 
+                                "guid": "79dea198-50c1-471f-93b0-736bbe0c1f15", 
                                 "logo": null, 
                                 "date": "2017-12-30T14:00:00+01:00", 
                                 "start": "14:00", 
@@ -4999,8 +5012,8 @@
                                 ]
                             }, 
                             {
-                                "id": 1207, 
-                                "guid": "dd4d16fd-2b71-55c9-919a-240966feb560", 
+                                "id": 1193, 
+                                "guid": "4539bbbe-bd6a-4baf-8322-3ed0eefbbd70", 
                                 "logo": null, 
                                 "date": "2017-12-30T20:00:00+01:00", 
                                 "start": "20:00", 
@@ -5020,10 +5033,11 @@
                                 ]
                             }
                         ], 
+                        "Seminar room 14-15": [], 
                         "Komona Aquarius": [
                             {
-                                "id": 1031, 
-                                "guid": "1621b940-765c-5725-9afe-44e98af0a417", 
+                                "id": 1028, 
+                                "guid": "a64d0200-3fc9-41d2-bd3c-5a0a423e7fca", 
                                 "logo": null, 
                                 "date": "2017-12-30T16:00:00+01:00", 
                                 "start": "16:00", 
@@ -5043,8 +5057,8 @@
                                 ]
                             }, 
                             {
-                                "id": 1076, 
-                                "guid": "aef1e43c-6cd8-57fe-b162-2c7885ae8a9e", 
+                                "id": 1072, 
+                                "guid": "9a0eb54a-058d-4d1b-93c2-d6d95ff295d1", 
                                 "logo": null, 
                                 "date": "2017-12-30T14:00:00+01:00", 
                                 "start": "14:00", 
@@ -5064,8 +5078,8 @@
                                 ]
                             }, 
                             {
-                                "id": 1154, 
-                                "guid": "93f60783-ef3e-5782-a36d-e5b809a92a34", 
+                                "id": 1141, 
+                                "guid": "cd37d0ce-53a0-437d-bd22-f953f964d943", 
                                 "logo": null, 
                                 "date": "2017-12-30T18:00:00+01:00", 
                                 "start": "18:00", 
@@ -5088,7 +5102,7 @@
                         "Kidspace": [
                             {
                                 "id": 1000, 
-                                "guid": "e504ac72-92b8-5bae-aa44-597ff40e382c", 
+                                "guid": "53d056a4-aeb6-4814-ace4-a8a60345340d", 
                                 "logo": null, 
                                 "date": "2017-12-30T11:00:00+01:00", 
                                 "start": "11:00", 
@@ -5110,8 +5124,8 @@
                         ], 
                         "Komona Blue Princess": [
                             {
-                                "id": 1129, 
-                                "guid": "d1a7d374-fc58-5d8f-beef-fb8ab818b5db", 
+                                "id": 1117, 
+                                "guid": "a3026239-aef4-4d20-bdc5-003bfbbff970", 
                                 "logo": null, 
                                 "date": "2017-12-30T12:00:00+01:00", 
                                 "start": "12:00", 
@@ -5130,7 +5144,8 @@
                                     "https://events.ccc.de/congress/2017/wiki/index.php/Session:Letter_writing_to_prisoners,_sitting_in_jail_for_hacking"
                                 ]
                             }
-                        ]
+                        ], 
+                        "Seminar room 13": []
                     }, 
                     "day_start": "2017-12-30T06:00:00+01:00"
                 }
