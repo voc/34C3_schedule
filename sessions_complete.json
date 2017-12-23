@@ -3219,6 +3219,44 @@
             "1514480400"
         ]
     }, 
+    "Session:Sorting data by formulas# fdef33a615c4394b01c7c6bcc9f540fd": {
+        "Held in language": [], 
+        "Has start time": [
+            "1514469600"
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [], 
+        "Has description": [
+            "Sorting data by formulas with spreadsheet programs (Libre Office Calc, MS Excel)"
+        ], 
+        "Has session type": [], 
+        "Has session location": [
+            {
+                "fulltext": "Room:Seminar room 13", 
+                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Room:Seminar_room_13", 
+                "namespace": 516, 
+                "exists": true
+            }
+        ], 
+        "Has subtitle": [], 
+        "Is organized by": [], 
+        "Has title": [
+            "Sorting data by formulas"
+        ], 
+        "Has duration": [
+            60
+        ], 
+        "GUID": [], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:Sorting_data_by_formulas", 
+        "Has end time": [
+            "1514473200"
+        ]
+    }, 
     "Session:Surface mount electronics assembly for terrified beginners# 0f44dfbe6b42b82bf5b31aa5e0a38afb": {
         "Held in language": [
             "en - English"
@@ -3473,13 +3511,13 @@
             "1514464200"
         ]
     }, 
-    "Session:Rights&Freedoms# 2c5fb29f216d4f6be50530c8fd10d418": {
+    "Session:Rights&Freedoms# 8c02998822f5427a1c1889e3cd5c325b": {
         "Held in language": [
             "de - German", 
             "en - English"
         ], 
         "Has start time": [
-            "1514469600"
+            "1514574000"
         ], 
         "Has event track": [
             "Session"
@@ -3500,7 +3538,7 @@
             }
         ], 
         "Has subtitle": [
-            "Privacy aware city navigation with free software (Redon Skikuli)"
+            "Public money? Public code! (Polina Malaja and Katharina Nocun)"
         ], 
         "Is organized by": [], 
         "Has title": [
@@ -3510,14 +3548,14 @@
             60
         ], 
         "GUID": [
-            "091822e6-feeb-436a-82a1-941a1662b1e3"
+            "4f988987-df21-4bd4-a494-bf5fff3c3f42"
         ], 
         "Has color": [
             "#0099ab"
         ], 
         "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:Rights%26Freedoms", 
         "Has end time": [
-            "1514473200"
+            "1514577600"
         ]
     }, 
     "Session:Chaos-Notizen# f90aa84469346a8747b774faaf1509e0": {
@@ -4134,6 +4172,53 @@
         "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:Geschichten_aus_dem_Krieg", 
         "Has end time": [
             "1514478600"
+        ]
+    }, 
+    "Session:Rights&Freedoms# 2c5fb29f216d4f6be50530c8fd10d418": {
+        "Held in language": [
+            "de - German", 
+            "en - English"
+        ], 
+        "Has start time": [
+            "1514469600"
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [], 
+        "Has description": [
+            "Rights & Freedoms Cluster Stage Programme"
+        ], 
+        "Has session type": [
+            "Talk"
+        ], 
+        "Has session location": [
+            {
+                "fulltext": "Room:CCL Hall 3", 
+                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Room:CCL_Hall_3", 
+                "namespace": 516, 
+                "exists": true
+            }
+        ], 
+        "Has subtitle": [
+            "Privacy aware city navigation with free software (Redon Skikuli)"
+        ], 
+        "Is organized by": [], 
+        "Has title": [
+            "Rights&Freedoms"
+        ], 
+        "Has duration": [
+            60
+        ], 
+        "GUID": [
+            "091822e6-feeb-436a-82a1-941a1662b1e3"
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:Rights%26Freedoms", 
+        "Has end time": [
+            "1514473200"
         ]
     }, 
     "Session:Newpipe# 1a072767ca874cfe7fca82413e129a3d": {
@@ -5182,42 +5267,58 @@
             "1514577600"
         ]
     }, 
-    "Session:Sorting data by formulas# fdef33a615c4394b01c7c6bcc9f540fd": {
-        "Held in language": [], 
+    "Session:Pirate Parties Members Meetup# 51040241547a3cf32e88db92afc2241f": {
+        "Held in language": [
+            "de - German", 
+            "en - English"
+        ], 
         "Has start time": [
-            "1514469600"
+            "1514489400"
         ], 
         "Has event track": [
             "Session"
         ], 
         "Has website": [], 
         "Has description": [
-            "Sorting data by formulas with spreadsheet programs (Libre Office Calc, MS Excel)"
+            "Connecting people who are members of one of the many Pirate Parties worldwide, people who would like to join, and people generally interested in what we are doing. It is a meetup and networking event for the members, the members of the board and we will discuss freely what is going on."
         ], 
-        "Has session type": [], 
+        "Has session type": [
+            "Discussion"
+        ], 
         "Has session location": [
             {
-                "fulltext": "Room:Seminar room 13", 
-                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Room:Seminar_room_13", 
+                "fulltext": "Room:Seminar room 14-15", 
+                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Room:Seminar_room_14-15", 
                 "namespace": 516, 
                 "exists": true
             }
         ], 
-        "Has subtitle": [], 
-        "Is organized by": [], 
+        "Has subtitle": [
+            "Pirates Meetup"
+        ], 
+        "Is organized by": [
+            {
+                "fulltext": "User:Utzer", 
+                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/User:Utzer", 
+                "namespace": 2, 
+                "exists": true
+            }
+        ], 
         "Has title": [
-            "Sorting data by formulas"
+            "Pirate Parties Members Meetup"
         ], 
         "Has duration": [
             60
         ], 
-        "GUID": [], 
+        "GUID": [
+            "3936de62-5b5b-4d2a-9a51-3a491418ced7"
+        ], 
         "Has color": [
             "#0099ab"
         ], 
-        "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:Sorting_data_by_formulas", 
+        "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:Pirate_Parties_Members_Meetup", 
         "Has end time": [
-            "1514473200"
+            "1514493000"
         ]
     }, 
     "Session:Hedonist International Networking Meeting+Workshop for 2018s Congress Convoy# 2820e42d1bc4f832aebb97de5c348a4e": {
@@ -6821,60 +6922,6 @@
             "1514412000"
         ]
     }, 
-    "Session:Pirate Parties Members Meetup# ade01615c02816caa1718135169546cb": {
-        "Held in language": [
-            "de - German", 
-            "en - English"
-        ], 
-        "Has start time": [
-            "1514489400"
-        ], 
-        "Has event track": [
-            "Session"
-        ], 
-        "Has website": [], 
-        "Has description": [
-            "Connecting people who are members of one of the many Pirate Parties worldwide, people who would like to join, and people generally interested in what we are doing. It is a meetup and networking event for the members, the members of the board and we will discuss freely what is going on."
-        ], 
-        "Has session type": [
-            "Discussion"
-        ], 
-        "Has session location": [
-            {
-                "fulltext": "Room:Seminar room 14-15", 
-                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Room:Seminar_room_14-15", 
-                "namespace": 516, 
-                "exists": true
-            }
-        ], 
-        "Has subtitle": [
-            "Pirates Meetup"
-        ], 
-        "Is organized by": [
-            {
-                "fulltext": "User:Utzer", 
-                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/User:Utzer", 
-                "namespace": 2, 
-                "exists": true
-            }
-        ], 
-        "Has title": [
-            "Pirate Parties Members Meetup"
-        ], 
-        "Has duration": [
-            45
-        ], 
-        "GUID": [
-            "3936de62-5b5b-4d2a-9a51-3a491418ced7"
-        ], 
-        "Has color": [
-            "#0099ab"
-        ], 
-        "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:Pirate_Parties_Members_Meetup", 
-        "Has end time": [
-            "1514492100"
-        ]
-    }, 
     "Session:Security Without Borders# 77b19904bc175785c30273f753eee496": {
         "Held in language": [], 
         "Has start time": [
@@ -7815,51 +7862,58 @@
             "1514494800"
         ]
     }, 
-    "Session:Rights&Freedoms# d0a03fa696098579ab28f0a90e86863b": {
+    "Session:Deanonymization and Author Recognition with Digital Humanities-Tools# 71a226cd8e44190f0752872eb2849197": {
         "Held in language": [
             "de - German", 
             "en - English"
         ], 
         "Has start time": [
-            "1514404800"
+            "1514553300"
         ], 
         "Has event track": [
             "Session"
         ], 
-        "Has website": [], 
+        "Has website": [
+            "https://hackmd.okfn.de/34c3-stylometrie?view"
+        ], 
         "Has description": [
-            "Rights & Freedoms Cluster Stage Programme"
+            "Digital Humanities research developed computational methods to attribute anonymous texts with Open Source tools. Participants will learn about the methodological foundations of authorship attribution, its possibilities and its limitations. They will then apply it hands-on to a sample text collection and / or own examples (you can bring your own text). No programing experience is required, having the R programming language installed previously would be helpful."
         ], 
         "Has session type": [
-            "Talk"
+            "Workshop"
         ], 
         "Has session location": [
             {
-                "fulltext": "Room:CCL Hall 3", 
-                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Room:CCL_Hall_3", 
-                "namespace": 516, 
+                "fulltext": "Assembly:Open Knowledge Assembly", 
+                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Assembly:Open_Knowledge_Assembly", 
+                "namespace": 504, 
                 "exists": true
             }
         ], 
-        "Has subtitle": [
-            "Social networking, powered by Free Software (Tobias Diekershoff)"
+        "Has subtitle": [], 
+        "Is organized by": [
+            {
+                "fulltext": "User:Pielstroem", 
+                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/User:Pielstroem", 
+                "namespace": 2, 
+                "exists": true
+            }
         ], 
-        "Is organized by": [], 
         "Has title": [
-            "Rights&Freedoms"
+            "Deanonymization and Author Recognition with Digital Humanities-Tools"
         ], 
         "Has duration": [
-            60
+            90
         ], 
         "GUID": [
-            "a1de5914-4649-4613-b1b1-716106c43f29"
+            "9c7ebeeb-9118-40b2-8305-25cd25b98bbf"
         ], 
         "Has color": [
             "#0099ab"
         ], 
-        "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:Rights%26Freedoms", 
+        "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:Deanonymization_and_Author_Recognition_with_Digital_Humanities-Tools", 
         "Has end time": [
-            "1514408400"
+            "1514558700"
         ]
     }, 
     "Session:A/V Angel Meeting# 445a1ffd26b65f861e78e209346f84d2": {
@@ -9699,53 +9753,6 @@
             "1514559600"
         ]
     }, 
-    "Session:Rights&Freedoms# 8c02998822f5427a1c1889e3cd5c325b": {
-        "Held in language": [
-            "de - German", 
-            "en - English"
-        ], 
-        "Has start time": [
-            "1514574000"
-        ], 
-        "Has event track": [
-            "Session"
-        ], 
-        "Has website": [], 
-        "Has description": [
-            "Rights & Freedoms Cluster Stage Programme"
-        ], 
-        "Has session type": [
-            "Talk"
-        ], 
-        "Has session location": [
-            {
-                "fulltext": "Room:CCL Hall 3", 
-                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Room:CCL_Hall_3", 
-                "namespace": 516, 
-                "exists": true
-            }
-        ], 
-        "Has subtitle": [
-            "Public money? Public code! (Polina Malaja and Katharina Nocun)"
-        ], 
-        "Is organized by": [], 
-        "Has title": [
-            "Rights&Freedoms"
-        ], 
-        "Has duration": [
-            60
-        ], 
-        "GUID": [
-            "4f988987-df21-4bd4-a494-bf5fff3c3f42"
-        ], 
-        "Has color": [
-            "#0099ab"
-        ], 
-        "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:Rights%26Freedoms", 
-        "Has end time": [
-            "1514577600"
-        ]
-    }, 
     "Session:Language Confusion# 9ff2d643a1059a5236f74bbfc8ff1ae8": {
         "Held in language": [], 
         "Has start time": [
@@ -10396,6 +10403,53 @@
         "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:Haecksen:_BringYourOwnBear_Happy_Hour", 
         "Has end time": [
             "1514505600"
+        ]
+    }, 
+    "Session:Rights&Freedoms# d0a03fa696098579ab28f0a90e86863b": {
+        "Held in language": [
+            "de - German", 
+            "en - English"
+        ], 
+        "Has start time": [
+            "1514404800"
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [], 
+        "Has description": [
+            "Rights & Freedoms Cluster Stage Programme"
+        ], 
+        "Has session type": [
+            "Talk"
+        ], 
+        "Has session location": [
+            {
+                "fulltext": "Room:CCL Hall 3", 
+                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Room:CCL_Hall_3", 
+                "namespace": 516, 
+                "exists": true
+            }
+        ], 
+        "Has subtitle": [
+            "Social networking, powered by Free Software (Tobias Diekershoff)"
+        ], 
+        "Is organized by": [], 
+        "Has title": [
+            "Rights&Freedoms"
+        ], 
+        "Has duration": [
+            60
+        ], 
+        "GUID": [
+            "a1de5914-4649-4613-b1b1-716106c43f29"
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:Rights%26Freedoms", 
+        "Has end time": [
+            "1514408400"
         ]
     }, 
     "Session:Surface mount electronics assembly for terrified beginners# 6ff33d8db23dd8a5029232b0c4a66bc4": {
