@@ -1927,45 +1927,48 @@
             "1514395800"
         ]
     }, 
-    "Session:Sind wir schon Cyborgs?# 01e6306f7ac314bd37fa86aa04fc7cef": {
+    "Session:Rights&Freedoms# 7d2d86410076ca427ce948aed1a2d7eb": {
         "Held in language": [
-            "de - German"
+            "de - German", 
+            "en - English"
         ], 
         "Has start time": [
-            "1514487600"
+            "1514563200"
         ], 
         "Has event track": [
             "Session"
         ], 
         "Has website": [], 
         "Has description": [
-            "Sind wir schon cyborgs oder warum wir eine kulturelle techno-Revolution brauchen! (Anna)"
+            "Rights & Freedoms Cluster Stage Programme"
         ], 
         "Has session type": [
-            "Workshop"
+            "Talk"
         ], 
         "Has session location": [
             {
-                "fulltext": "Room:Komona D.Ressrosa", 
-                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Room:Komona_D.Ressrosa", 
+                "fulltext": "Room:CCL Hall 3", 
+                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Room:CCL_Hall_3", 
                 "namespace": 516, 
                 "exists": true
             }
         ], 
-        "Has subtitle": [], 
+        "Has subtitle": [
+            "Fixing mass surveillance: one court case at a time! (Exegetes)"
+        ], 
         "Is organized by": [], 
         "Has title": [
-            "Sind wir schon Cyborgs?"
+            "Rights&Freedoms"
         ], 
         "Has duration": [
-            60
+            120
         ], 
         "Has color": [
             "#0099ab"
         ], 
-        "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:Sind_wir_schon_Cyborgs%3F", 
+        "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:Rights%26Freedoms", 
         "Has end time": [
-            "1514491200"
+            "1514570400"
         ]
     }, 
     "Session:Radio Neu# 213796d14c33cb22564157bc8e341f24": {
@@ -3570,13 +3573,13 @@
             "1514505540"
         ]
     }, 
-    "Session:Rights&Freedoms# 7d2d86410076ca427ce948aed1a2d7eb": {
+    "Session:Rights&Freedoms# 81655bd36bd56fe173104843095c2ba2": {
         "Held in language": [
             "de - German", 
             "en - English"
         ], 
         "Has start time": [
-            "1514563200"
+            "1514480400"
         ], 
         "Has event track": [
             "Session"
@@ -3597,21 +3600,21 @@
             }
         ], 
         "Has subtitle": [
-            "Fixing mass surveillance: one court case at a time! (Exegetes)"
+            "Strategic litigation in Germany- complaints to stop mass surveillance (Ulf Buermeyer, GFF)"
         ], 
         "Is organized by": [], 
         "Has title": [
             "Rights&Freedoms"
         ], 
         "Has duration": [
-            120
+            60
         ], 
         "Has color": [
             "#0099ab"
         ], 
         "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:Rights%26Freedoms", 
         "Has end time": [
-            "1514570400"
+            "1514484000"
         ]
     }, 
     "Session:Talks# 8c3500a10da1a56fe538738ad1c21dde": {
@@ -5650,50 +5653,6 @@
             "1514635200"
         ]
     }, 
-    "Session:Rights&Freedoms# 81655bd36bd56fe173104843095c2ba2": {
-        "Held in language": [
-            "de - German", 
-            "en - English"
-        ], 
-        "Has start time": [
-            "1514480400"
-        ], 
-        "Has event track": [
-            "Session"
-        ], 
-        "Has website": [], 
-        "Has description": [
-            "Rights & Freedoms Cluster Stage Programme"
-        ], 
-        "Has session type": [
-            "Talk"
-        ], 
-        "Has session location": [
-            {
-                "fulltext": "Room:CCL Hall 3", 
-                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Room:CCL_Hall_3", 
-                "namespace": 516, 
-                "exists": true
-            }
-        ], 
-        "Has subtitle": [
-            "Strategic litigation in Germany- complaints to stop mass surveillance (Ulf Buermeyer, GFF)"
-        ], 
-        "Is organized by": [], 
-        "Has title": [
-            "Rights&Freedoms"
-        ], 
-        "Has duration": [
-            60
-        ], 
-        "Has color": [
-            "#0099ab"
-        ], 
-        "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:Rights%26Freedoms", 
-        "Has end time": [
-            "1514484000"
-        ]
-    }, 
     "Session:How does artificial intelligence accomplish the feat of learning? (Wondrous Mathematics)# 92d5dba90bd489895fba597a036bfb18": {
         "Held in language": [
             "en - English"
@@ -5919,6 +5878,54 @@
         "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:Angel_Meeting", 
         "Has end time": [
             "1514397600"
+        ]
+    }, 
+    "Session:Meetup: hack your library# 7f5c3c8d9879cc888d75a0c292ad353d": {
+        "Held in language": [
+            "en - English"
+        ], 
+        "Has start time": [
+            "1514548800"
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [], 
+        "Has description": [
+            "You're working in a library and interested in digital education? You're wondering how to share hacking culture in libraries? Come to the meetup! Learn how to code with children, experiment electronics with Legos, create digital and free content in the library, empower the audience about digital rights, hack your library... many inspiring examples already exist. Auregann will open the discussion with a short presentations of projects that happened in French libraries over the last year, then we will be free to discuss any topic you would enjoy."
+        ], 
+        "Has session type": [
+            "Meeting"
+        ], 
+        "Has session location": [
+            {
+                "fulltext": "Assembly:Jugend hackt", 
+                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Assembly:Jugend_hackt", 
+                "namespace": 504, 
+                "exists": true
+            }
+        ], 
+        "Has subtitle": [], 
+        "Is organized by": [
+            {
+                "fulltext": "User:Auregann", 
+                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/User:Auregann", 
+                "namespace": 2, 
+                "exists": false
+            }
+        ], 
+        "Has title": [
+            "Meetup: hack your library"
+        ], 
+        "Has duration": [
+            50
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:Meetup:_hack_your_library", 
+        "Has end time": [
+            "1514551800"
         ]
     }, 
     "Session:Wie produziere ich mein eigenes H\u00f6rspiel# e54e39cc28bbd903216fa8e7f6ea653e": {
@@ -10363,6 +10370,47 @@
         "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:Angewandte_konsensdemokratie", 
         "Has end time": [
             "1514552400"
+        ]
+    }, 
+    "Session:Sind wir schon Cyborgs?# 01e6306f7ac314bd37fa86aa04fc7cef": {
+        "Held in language": [
+            "de - German"
+        ], 
+        "Has start time": [
+            "1514487600"
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [], 
+        "Has description": [
+            "Sind wir schon cyborgs oder warum wir eine kulturelle techno-Revolution brauchen! (Anna)"
+        ], 
+        "Has session type": [
+            "Workshop"
+        ], 
+        "Has session location": [
+            {
+                "fulltext": "Room:Komona D.Ressrosa", 
+                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Room:Komona_D.Ressrosa", 
+                "namespace": 516, 
+                "exists": true
+            }
+        ], 
+        "Has subtitle": [], 
+        "Is organized by": [], 
+        "Has title": [
+            "Sind wir schon Cyborgs?"
+        ], 
+        "Has duration": [
+            60
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:Sind_wir_schon_Cyborgs%3F", 
+        "Has end time": [
+            "1514491200"
         ]
     }, 
     "Session:Surface mount electronics assembly for terrified beginners# ad2d4bc330a74b93d6809890a817b609": {
