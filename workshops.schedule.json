@@ -17,34 +17,6 @@
                         "Lecture room 11": [
                             {
                                 "id": 1012, 
-                                "guid": "3e6ca324-cc11-4403-b0ce-bd621d931cd6", 
-                                "logo": null, 
-                                "date": "2017-12-26T23:30:00+01:00", 
-                                "start": "23:30", 
-                                "duration": "0:30", 
-                                "room": "Lecture room 11", 
-                                "slug": "", 
-                                "title": "A/V Angel Meeting", 
-                                "subtitle": "Shift Distribution for Day 1", 
-                                "track": "self organized sessions", 
-                                "type": "meeting", 
-                                "language": "de", 
-                                "abstract": "", 
-                                "description": "Daily A/V Angel Meeting: Feedback and Shift Distribution", 
-                                "persons": [
-                                    {
-                                        "id": 0, 
-                                        "url": "https://events.ccc.de/congress/2017/wiki/index.php/User:Jwacalex", 
-                                        "public_name": "Jwacalex"
-                                    }
-                                ], 
-                                "links": [
-                                    "https://c3voc.de", 
-                                    "https://events.ccc.de/congress/2017/wiki/index.php/Session:A/V_Angel_Meeting"
-                                ]
-                            }, 
-                            {
-                                "id": 1013, 
                                 "guid": "4e77ac4f-012b-4132-8079-c16fd0f600fd", 
                                 "logo": null, 
                                 "date": "2017-12-26T21:30:00+01:00", 
@@ -72,7 +44,35 @@
                                 ]
                             }, 
                             {
-                                "id": 1224, 
+                                "id": 1015, 
+                                "guid": "3e6ca324-cc11-4403-b0ce-bd621d931cd6", 
+                                "logo": null, 
+                                "date": "2017-12-26T23:30:00+01:00", 
+                                "start": "23:30", 
+                                "duration": "0:30", 
+                                "room": "Lecture room 11", 
+                                "slug": "", 
+                                "title": "A/V Angel Meeting", 
+                                "subtitle": "Shift Distribution for Day 1", 
+                                "track": "self organized sessions", 
+                                "type": "meeting", 
+                                "language": "de", 
+                                "abstract": "", 
+                                "description": "Daily A/V Angel Meeting: Feedback and Shift Distribution", 
+                                "persons": [
+                                    {
+                                        "id": 0, 
+                                        "url": "https://events.ccc.de/congress/2017/wiki/index.php/User:Jwacalex", 
+                                        "public_name": "Jwacalex"
+                                    }
+                                ], 
+                                "links": [
+                                    "https://c3voc.de", 
+                                    "https://events.ccc.de/congress/2017/wiki/index.php/Session:A/V_Angel_Meeting"
+                                ]
+                            }, 
+                            {
+                                "id": 1223, 
                                 "guid": "2f8b0e3d-e4bc-56f3-a96d-3c7559fd753f", 
                                 "logo": null, 
                                 "date": "2017-12-26T20:00:00+01:00", 
@@ -128,7 +128,7 @@
                         "Komona D.Ressrosa": [], 
                         "Seminar room 14-15": [
                             {
-                                "id": 1022, 
+                                "id": 1020, 
                                 "guid": "e54328ce-06f7-5578-bccb-0653404d932e", 
                                 "logo": null, 
                                 "date": "2017-12-26T13:00:00+01:00", 
@@ -149,7 +149,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1023, 
+                                "id": 1021, 
                                 "guid": "3b5cf5d2-7d5d-51ba-8798-dc60e10c8985", 
                                 "logo": null, 
                                 "date": "2017-12-26T19:30:00+01:00", 
@@ -170,7 +170,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1024, 
+                                "id": 1022, 
                                 "guid": "5e7bb2b0-f5ea-598b-9f57-a08f05420984", 
                                 "logo": null, 
                                 "date": "2017-12-26T20:15:00+01:00", 
@@ -259,7 +259,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1154, 
+                                "id": 1153, 
                                 "guid": "939c5253-417d-40b3-afe1-9b7cef1bf932", 
                                 "logo": null, 
                                 "date": "2017-12-27T18:00:00+01:00", 
@@ -304,7 +304,7 @@
                         ], 
                         "Lecture room 11": [
                             {
-                                "id": 1014, 
+                                "id": 1013, 
                                 "guid": "f5f69c30-2863-4817-a663-b248274c87ac", 
                                 "logo": null, 
                                 "date": "2017-12-27T20:15:00+01:00", 
@@ -359,7 +359,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1225, 
+                                "id": 1224, 
                                 "guid": "ff42e72c-d902-5009-b2dd-f7c515811d70", 
                                 "logo": null, 
                                 "date": "2017-12-27T17:30:00+01:00", 
@@ -432,7 +432,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1246, 
+                                "id": 1245, 
                                 "guid": "def1b880-7e56-415c-a57b-73b5acda9b5a", 
                                 "logo": null, 
                                 "date": "2017-12-27T16:00:00+01:00", 
@@ -462,16 +462,16 @@
                         ], 
                         "Chaos West Stage": [
                             {
-                                "id": 1110, 
-                                "guid": "cbc32a2c-1f29-44a9-a232-0f458f979813", 
+                                "id": 1111, 
+                                "guid": "bc39559b-0b24-4b27-9e1f-4b76d52cb1a8", 
                                 "logo": null, 
-                                "date": "2017-12-28T02:30:00+01:00", 
-                                "start": "02:30", 
-                                "duration": "2:00", 
+                                "date": "2017-12-28T00:00:00+01:00", 
+                                "start": "00:00", 
+                                "duration": "2:30", 
                                 "room": "Chaos West Stage", 
                                 "slug": "", 
                                 "title": "Klangteppich", 
-                                "subtitle": "faheus DJ set", 
+                                "subtitle": "CouchSofa DJ set", 
                                 "track": "self organized sessions", 
                                 "type": "other", 
                                 "language": "de", 
@@ -490,15 +490,15 @@
                             }, 
                             {
                                 "id": 1112, 
-                                "guid": "bc39559b-0b24-4b27-9e1f-4b76d52cb1a8", 
+                                "guid": "cbc32a2c-1f29-44a9-a232-0f458f979813", 
                                 "logo": null, 
-                                "date": "2017-12-28T00:00:00+01:00", 
-                                "start": "00:00", 
-                                "duration": "2:30", 
+                                "date": "2017-12-28T02:30:00+01:00", 
+                                "start": "02:30", 
+                                "duration": "2:00", 
                                 "room": "Chaos West Stage", 
                                 "slug": "", 
                                 "title": "Klangteppich", 
-                                "subtitle": "CouchSofa DJ set", 
+                                "subtitle": "faheus DJ set", 
                                 "track": "self organized sessions", 
                                 "type": "other", 
                                 "language": "de", 
@@ -740,7 +740,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1177, 
+                                "id": 1176, 
                                 "guid": "b9ea5336-f739-4170-a424-208041a7e313", 
                                 "logo": null, 
                                 "date": "2017-12-27T14:00:00+01:00", 
@@ -806,27 +806,6 @@
                         "Komona D.Ressrosa": [
                             {
                                 "id": 1152, 
-                                "guid": "06e9351c-7ff5-459a-8591-2d5297faf847", 
-                                "logo": null, 
-                                "date": "2017-12-27T12:00:00+01:00", 
-                                "start": "12:00", 
-                                "duration": "2:00", 
-                                "room": "Komona D.Ressrosa", 
-                                "slug": "", 
-                                "title": "Reclaim Club Culture", 
-                                "subtitle": "", 
-                                "track": "self organized sessions", 
-                                "type": "", 
-                                "language": "", 
-                                "abstract": "", 
-                                "description": "", 
-                                "persons": [], 
-                                "links": [
-                                    "https://events.ccc.de/congress/2017/wiki/index.php/Session:Reclaim_Club_Culture"
-                                ]
-                            }, 
-                            {
-                                "id": 1153, 
                                 "guid": "1191f1bd-7e79-40a2-aff6-6d843352ab47", 
                                 "logo": null, 
                                 "date": "2017-12-27T14:00:00+01:00", 
@@ -847,11 +826,32 @@
                                 ]
                             }, 
                             {
-                                "id": 1153, 
+                                "id": 1152, 
                                 "guid": "1191f1bd-7e79-40a2-aff6-6d843352ab47", 
                                 "logo": null, 
                                 "date": "2017-12-27T20:00:00+01:00", 
                                 "start": "20:00", 
+                                "duration": "2:00", 
+                                "room": "Komona D.Ressrosa", 
+                                "slug": "", 
+                                "title": "Reclaim Club Culture", 
+                                "subtitle": "", 
+                                "track": "self organized sessions", 
+                                "type": "", 
+                                "language": "", 
+                                "abstract": "", 
+                                "description": "", 
+                                "persons": [], 
+                                "links": [
+                                    "https://events.ccc.de/congress/2017/wiki/index.php/Session:Reclaim_Club_Culture"
+                                ]
+                            }, 
+                            {
+                                "id": 1154, 
+                                "guid": "06e9351c-7ff5-459a-8591-2d5297faf847", 
+                                "logo": null, 
+                                "date": "2017-12-27T12:00:00+01:00", 
+                                "start": "12:00", 
                                 "duration": "2:00", 
                                 "room": "Komona D.Ressrosa", 
                                 "slug": "", 
@@ -912,7 +912,28 @@
                         ], 
                         "Seminar room 14-15": [
                             {
-                                "id": 1020, 
+                                "id": 1023, 
+                                "guid": "579eab72-fbd6-5ba7-ad7a-59bcab0272ad", 
+                                "logo": null, 
+                                "date": "2017-12-27T12:45:00+01:00", 
+                                "start": "12:45", 
+                                "duration": "0:45", 
+                                "room": "Seminar room 14-15", 
+                                "slug": "", 
+                                "title": "Angel Meeting", 
+                                "subtitle": "Angel meeting Day 1", 
+                                "track": "self organized sessions", 
+                                "type": "meeting", 
+                                "language": "en", 
+                                "abstract": "", 
+                                "description": "Daily meetings of the Angel crew.", 
+                                "persons": [], 
+                                "links": [
+                                    "https://events.ccc.de/congress/2017/wiki/index.php/Session:Angel_Meeting"
+                                ]
+                            }, 
+                            {
+                                "id": 1024, 
                                 "guid": "a8254a36-ca09-5c68-8e0b-1399b8a94247", 
                                 "logo": null, 
                                 "date": "2017-12-27T16:30:00+01:00", 
@@ -933,7 +954,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1021, 
+                                "id": 1025, 
                                 "guid": "a7083f65-5e8b-52cb-b008-af59762bb115", 
                                 "logo": null, 
                                 "date": "2017-12-27T17:15:00+01:00", 
@@ -943,27 +964,6 @@
                                 "slug": "", 
                                 "title": "Angel Meeting", 
                                 "subtitle": "Introduction meeting for new angels Day 1", 
-                                "track": "self organized sessions", 
-                                "type": "meeting", 
-                                "language": "en", 
-                                "abstract": "", 
-                                "description": "Daily meetings of the Angel crew.", 
-                                "persons": [], 
-                                "links": [
-                                    "https://events.ccc.de/congress/2017/wiki/index.php/Session:Angel_Meeting"
-                                ]
-                            }, 
-                            {
-                                "id": 1025, 
-                                "guid": "579eab72-fbd6-5ba7-ad7a-59bcab0272ad", 
-                                "logo": null, 
-                                "date": "2017-12-27T12:45:00+01:00", 
-                                "start": "12:45", 
-                                "duration": "0:45", 
-                                "room": "Seminar room 14-15", 
-                                "slug": "", 
-                                "title": "Angel Meeting", 
-                                "subtitle": "Angel meeting Day 1", 
                                 "track": "self organized sessions", 
                                 "type": "meeting", 
                                 "language": "en", 
@@ -1361,7 +1361,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1124, 
+                                "id": 1122, 
                                 "guid": "b664d297-2966-43e5-9f77-8a31b9544fac", 
                                 "logo": null, 
                                 "date": "2017-12-27T12:00:00+01:00", 
@@ -1727,7 +1727,7 @@
                         ], 
                         "Lecture room 11": [
                             {
-                                "id": 1015, 
+                                "id": 1014, 
                                 "guid": "2b6595ff-c32b-44aa-9bda-e411e5911162", 
                                 "logo": null, 
                                 "date": "2017-12-28T20:15:00+01:00", 
@@ -1810,7 +1810,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1226, 
+                                "id": 1225, 
                                 "guid": "bb98f348-61fe-52b9-b6e7-6ac5c24534f5", 
                                 "logo": null, 
                                 "date": "2017-12-28T17:30:00+01:00", 
@@ -2115,7 +2115,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1111, 
+                                "id": 1110, 
                                 "guid": "11832e8c-2e41-4c8d-8ed8-a908d5638480", 
                                 "logo": null, 
                                 "date": "2017-12-29T00:00:00+01:00", 
@@ -2142,7 +2142,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1111, 
+                                "id": 1110, 
                                 "guid": "11832e8c-2e41-4c8d-8ed8-a908d5638480", 
                                 "logo": null, 
                                 "date": "2017-12-29T02:00:00+01:00", 
@@ -2199,7 +2199,7 @@
                         ], 
                         "CCL Hall 3": [
                             {
-                                "id": 1160, 
+                                "id": 1159, 
                                 "guid": "092ae74e-8fda-49c2-a247-f444f59864d0", 
                                 "logo": null, 
                                 "date": "2017-12-28T16:00:00+01:00", 
@@ -2220,7 +2220,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1170, 
+                                "id": 1169, 
                                 "guid": "23c6fca0-a450-47cf-8e39-888514b76355", 
                                 "logo": null, 
                                 "date": "2017-12-28T19:30:00+01:00", 
@@ -2283,7 +2283,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1175, 
+                                "id": 1177, 
                                 "guid": "de3c670b-1478-4606-ad7f-cc781a5f6514", 
                                 "logo": null, 
                                 "date": "2017-12-28T21:00:00+01:00", 
@@ -2346,7 +2346,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1184, 
+                                "id": 1183, 
                                 "guid": "add8feaa-74d7-44f2-acca-c6902671a1a6", 
                                 "logo": null, 
                                 "date": "2017-12-28T15:00:00+01:00", 
@@ -3051,7 +3051,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1125, 
+                                "id": 1123, 
                                 "guid": "78b6af67-7c9d-460a-ac37-0428a4178e00", 
                                 "logo": null, 
                                 "date": "2017-12-28T12:00:00+01:00", 
@@ -3400,7 +3400,7 @@
                         ], 
                         "Lecture room 11": [
                             {
-                                "id": 1015, 
+                                "id": 1014, 
                                 "guid": "2b6595ff-c32b-44aa-9bda-e411e5911162", 
                                 "logo": null, 
                                 "date": "2017-12-29T20:15:00+01:00", 
@@ -3428,7 +3428,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1015, 
+                                "id": 1014, 
                                 "guid": "2b6595ff-c32b-44aa-9bda-e411e5911162", 
                                 "logo": null, 
                                 "date": "2017-12-29T13:30:00+01:00", 
@@ -3810,7 +3810,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1111, 
+                                "id": 1110, 
                                 "guid": "11832e8c-2e41-4c8d-8ed8-a908d5638480", 
                                 "logo": null, 
                                 "date": "2017-12-30T00:00:00+01:00", 
@@ -3837,7 +3837,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1111, 
+                                "id": 1110, 
                                 "guid": "11832e8c-2e41-4c8d-8ed8-a908d5638480", 
                                 "logo": null, 
                                 "date": "2017-12-30T02:00:00+01:00", 
@@ -3950,7 +3950,7 @@
                         ], 
                         "CCL Hall 3": [
                             {
-                                "id": 1159, 
+                                "id": 1160, 
                                 "guid": "48ea0d19-03cd-4cea-b436-46892ae393ad", 
                                 "logo": null, 
                                 "date": "2017-12-29T20:00:00+01:00", 
@@ -3993,15 +3993,15 @@
                             }, 
                             {
                                 "id": 1163, 
-                                "guid": "65ef56f8-c667-4b9f-8a28-843f8fe7bbf0", 
+                                "guid": "d7d75ccf-f380-4a59-a18b-92ae6083fb8a", 
                                 "logo": null, 
-                                "date": "2017-12-29T21:00:00+01:00", 
-                                "start": "21:00", 
-                                "duration": "1:00", 
+                                "date": "2017-12-29T17:00:00+01:00", 
+                                "start": "17:00", 
+                                "duration": "0:30", 
                                 "room": "CCL Hall 3", 
                                 "slug": "", 
                                 "title": "Rights&Freedoms", 
-                                "subtitle": "Wie die fl\u00e4chendeckendeGesichtserkennung sich in unser Datenschutzgesetz eingeschlichen hat (Frank, Datenschutzraum) (in German)", 
+                                "subtitle": "Strategic litigation in Germany- complaints to stop mass surveillance (Ulf Buermeyer, GFF)", 
                                 "track": "self organized sessions", 
                                 "type": "talk", 
                                 "language": "de", 
@@ -4014,15 +4014,15 @@
                             }, 
                             {
                                 "id": 1164, 
-                                "guid": "d7d75ccf-f380-4a59-a18b-92ae6083fb8a", 
+                                "guid": "65ef56f8-c667-4b9f-8a28-843f8fe7bbf0", 
                                 "logo": null, 
-                                "date": "2017-12-29T17:00:00+01:00", 
-                                "start": "17:00", 
-                                "duration": "0:30", 
+                                "date": "2017-12-29T21:00:00+01:00", 
+                                "start": "21:00", 
+                                "duration": "1:00", 
                                 "room": "CCL Hall 3", 
                                 "slug": "", 
                                 "title": "Rights&Freedoms", 
-                                "subtitle": "Strategic litigation in Germany- complaints to stop mass surveillance (Ulf Buermeyer, GFF)", 
+                                "subtitle": "Wie die fl\u00e4chendeckendeGesichtserkennung sich in unser Datenschutzgesetz eingeschlichen hat (Frank, Datenschutzraum) (in German)", 
                                 "track": "self organized sessions", 
                                 "type": "talk", 
                                 "language": "de", 
@@ -4097,7 +4097,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1176, 
+                                "id": 1175, 
                                 "guid": "93fa9255-e0a0-457e-a569-cb6b88776793", 
                                 "logo": null, 
                                 "date": "2017-12-29T15:00:00+01:00", 
@@ -4139,7 +4139,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1183, 
+                                "id": 1184, 
                                 "guid": "4f988987-df21-4bd4-a494-bf5fff3c3f42", 
                                 "logo": null, 
                                 "date": "2017-12-29T19:00:00+01:00", 
@@ -4476,7 +4476,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1223, 
+                                "id": 1226, 
                                 "guid": "f3a30985-fc90-51f2-baa3-a07d034bffcc", 
                                 "logo": null, 
                                 "date": "2017-12-29T17:30:00+01:00", 
@@ -4734,7 +4734,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1122, 
+                                "id": 1124, 
                                 "guid": "01830be1-2a28-424f-a6f4-5668b463b6e3", 
                                 "logo": null, 
                                 "date": "2017-12-29T12:00:00+01:00", 
@@ -5083,7 +5083,7 @@
                         "Hive Stage": [], 
                         "Lecture room 12": [
                             {
-                                "id": 1245, 
+                                "id": 1246, 
                                 "guid": "dd59f0b8-212d-4978-8476-fffb4455bb25", 
                                 "logo": null, 
                                 "date": "2017-12-30T14:30:00+01:00", 
@@ -5114,7 +5114,7 @@
                         "Chaos West Stage": [], 
                         "CCL Hall 3": [
                             {
-                                "id": 1169, 
+                                "id": 1170, 
                                 "guid": "3402fbf1-545c-4b4f-abf3-7fa4afbfed9f", 
                                 "logo": null, 
                                 "date": "2017-12-30T14:00:00+01:00", 
@@ -5270,7 +5270,7 @@
                         ], 
                         "Komona Blue Princess": [
                             {
-                                "id": 1123, 
+                                "id": 1125, 
                                 "guid": "a3026239-aef4-4d20-bdc5-003bfbbff970", 
                                 "logo": null, 
                                 "date": "2017-12-30T12:00:00+01:00", 
