@@ -7861,49 +7861,58 @@
             "1514394900"
         ]
     }, 
-    "Session:Angel Meeting# 087caf0810655dcf8af526d96fcf113e": {
+    "Session:How to Let's Play# e53bd772eaedb7818b2db7e001fa6580": {
         "Held in language": [
-            "en - English", 
-            "de - German"
+            "de - German", 
+            "en - English"
         ], 
         "Has start time": [
-            "1514293200"
+            "1514563200"
         ], 
         "Has event track": [
             "Session"
         ], 
         "Has website": [], 
         "Has description": [
-            "Daily meetings of the Angel crew."
+            "F\u00fcr Kinder ab 10 Jahren, die gerne ihre eigenen let's Plays erstellen m\u00f6chten! Maximal 4-6 Kids, ausser wir bekommen noch Helfer! Wir gehen davon aus das Kids ihr eigene Ger\u00e4te mitbringen! Zur installation der Software (https://obsproject.com/) werden unter umst\u00e4nden kurz Eltern (Passort beauftragte) ben\u00f6tigt! Wir hatten Let's Plays f\u00fcr minecraft oder worldpainter geplant! Es gehen aber auch alle anderen bereits installierten Spiele."
         ], 
         "Has session type": [
-            "Meeting"
+            "Workshop"
         ], 
         "Has session location": [
             {
-                "fulltext": "Room:Seminar room 14-15", 
-                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Room:Seminar_room_14-15", 
-                "namespace": 516, 
+                "fulltext": "Assembly:Jugend hackt", 
+                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Assembly:Jugend_hackt", 
+                "namespace": 504, 
                 "exists": true
             }
         ], 
         "Has subtitle": [
-            "Build-up and welcome meeting Day 0"
+            "How to Let's Play /Makey-Makey"
         ], 
-        "Is organized by": [], 
+        "Is organized by": [
+            {
+                "fulltext": "User:Rupi", 
+                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/User:Rupi", 
+                "namespace": 2, 
+                "exists": true
+            }
+        ], 
         "Has title": [
-            "Angel Meeting"
+            "How to Let's Play"
         ], 
         "Has duration": [
             45
         ], 
-        "GUID": [], 
+        "GUID": [
+            "65e70b8c-02a5-41ff-936c-44052c9ee6f0"
+        ], 
         "Has color": [
             "#0099ab"
         ], 
-        "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:Angel_Meeting", 
+        "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:How_to_Let%27s_Play", 
         "Has end time": [
-            "1514295900"
+            "1514565900"
         ]
     }, 
     "Session:Warum Trump tickt wie er tickt# 94471bfa525963c117c4ae495f5deb38": {
@@ -7999,58 +8008,49 @@
             "1514563200"
         ]
     }, 
-    "Session:How to Let's Play# e53bd772eaedb7818b2db7e001fa6580": {
+    "Session:Angel Meeting# 087caf0810655dcf8af526d96fcf113e": {
         "Held in language": [
-            "de - German", 
-            "en - English"
+            "en - English", 
+            "de - German"
         ], 
         "Has start time": [
-            "1514563200"
+            "1514293200"
         ], 
         "Has event track": [
             "Session"
         ], 
         "Has website": [], 
         "Has description": [
-            "F\u00fcr Kinder ab 10 Jahren, die gerne ihre eigenen let's Plays erstellen m\u00f6chten! Maximal 4-6 Kids, ausser wir bekommen noch Helfer! Wir gehen davon aus das Kids ihr eigene Ger\u00e4te mitbringen! Zur installation der Software (https://obsproject.com/) werden unter umst\u00e4nden kurz Eltern (Passort beauftragte) ben\u00f6tigt! Wir hatten Let's Plays f\u00fcr minecraft oder worldpainter geplant! Es gehen aber auch alle anderen bereits installierten Spiele."
+            "Daily meetings of the Angel crew."
         ], 
         "Has session type": [
-            "Workshop"
+            "Meeting"
         ], 
         "Has session location": [
             {
-                "fulltext": "Assembly:Jugend hackt", 
-                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Assembly:Jugend_hackt", 
-                "namespace": 504, 
+                "fulltext": "Room:Seminar room 14-15", 
+                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Room:Seminar_room_14-15", 
+                "namespace": 516, 
                 "exists": true
             }
         ], 
         "Has subtitle": [
-            "How to Let's Play /Makey-Makey"
+            "Build-up and welcome meeting Day 0"
         ], 
-        "Is organized by": [
-            {
-                "fulltext": "User:Rupi", 
-                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/User:Rupi", 
-                "namespace": 2, 
-                "exists": true
-            }
-        ], 
+        "Is organized by": [], 
         "Has title": [
-            "How to Let's Play"
+            "Angel Meeting"
         ], 
         "Has duration": [
             45
         ], 
-        "GUID": [
-            "65e70b8c-02a5-41ff-936c-44052c9ee6f0"
-        ], 
+        "GUID": [], 
         "Has color": [
             "#0099ab"
         ], 
-        "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:How_to_Let%27s_Play", 
+        "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:Angel_Meeting", 
         "Has end time": [
-            "1514565900"
+            "1514295900"
         ]
     }, 
     "Session:Bitmask/LEAP workshop# e2df524a90bdfc10594f96e0b013a7e2": {
@@ -11207,6 +11207,57 @@
             "1514395800"
         ]
     }, 
+    "Session:When the Dutch secret service knocks on your door# e6e8d9f7a886263a5c4bf250c837694b": {
+        "Held in language": [
+            "en - English"
+        ], 
+        "Has start time": [
+            "1514469600"
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [], 
+        "Has description": [
+            "This is a story of when the Dutch secret service knocked on my door just after OHM2013, what some of the events that lead up to this, our guesses on why they did this and how to create an environment where we can talk about these things instead of keeping silent."
+        ], 
+        "Has session type": [], 
+        "Has session location": [
+            {
+                "fulltext": "Room:Lecture room 11", 
+                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Room:Lecture_room_11", 
+                "namespace": 516, 
+                "exists": true
+            }
+        ], 
+        "Has subtitle": [
+            "Lecture/discussion"
+        ], 
+        "Is organized by": [
+            {
+                "fulltext": "User:DrWhax2", 
+                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/User:DrWhax2", 
+                "namespace": 2, 
+                "exists": true
+            }
+        ], 
+        "Has title": [
+            "When the Dutch secret service knocks on your door"
+        ], 
+        "Has duration": [
+            60
+        ], 
+        "GUID": [
+            "e4264add-ccb6-46dd-8a9d-281f639ca1b3"
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:When_the_Dutch_secret_service_knocks_on_your_door", 
+        "Has end time": [
+            "1514473200"
+        ]
+    }, 
     "Session:LEAP Platform for VPN and email providers# 1bc999943f1e27dc8a94353ce3f8b7ef": {
         "Held in language": [
             "en - English"
@@ -11352,55 +11403,56 @@
             "1514520000"
         ]
     }, 
-    "Session:When the Dutch secret service knocks on your door# e6e8d9f7a886263a5c4bf250c837694b": {
+    "Session:Hilbertspace Theory \u2013 Music Theory's New Clothes# 8443cc9d717c4e3b92e5f746ef028616": {
         "Held in language": [
+            "de - German", 
             "en - English"
         ], 
         "Has start time": [
-            "1514469600"
+            "1514473200"
         ], 
         "Has event track": [
             "Session"
         ], 
         "Has website": [], 
         "Has description": [
-            "This is a story of when the Dutch secret service knocked on my door just after OHM2013, what some of the events that lead up to this, our guesses on why they did this and how to create an environment where we can talk about these things instead of keeping silent."
+            "Music theory can seem overly complicated due to a lot of old vocabulary that's not as easy to understand nowadays.\nBut using Hilbertspace theory we might be able to create a universal language for music theory that's easy to understand for anyone \u2013 anyone who is familiar with higher mathematics, that is."
         ], 
-        "Has session type": [], 
+        "Has session type": [
+            "Talk"
+        ], 
         "Has session location": [
             {
-                "fulltext": "Room:Lecture room 11", 
-                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Room:Lecture_room_11", 
-                "namespace": 516, 
+                "fulltext": "Assembly:Physikfachschaft Rostock", 
+                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Assembly:Physikfachschaft_Rostock", 
+                "namespace": 504, 
                 "exists": true
             }
         ], 
-        "Has subtitle": [
-            "Lecture/discussion"
-        ], 
+        "Has subtitle": [], 
         "Is organized by": [
             {
-                "fulltext": "User:DrWhax2", 
-                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/User:DrWhax2", 
+                "fulltext": "User:KiNaudiz", 
+                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/User:KiNaudiz", 
                 "namespace": 2, 
                 "exists": true
             }
         ], 
         "Has title": [
-            "When the Dutch secret service knocks on your door"
+            "Hilbertspace Theory \u2013 Music Theory's New Clothes"
         ], 
         "Has duration": [
-            60
+            30
         ], 
         "GUID": [
-            "e4264add-ccb6-46dd-8a9d-281f639ca1b3"
+            "4d45debe-e366-420b-bd52-85276a9d836d"
         ], 
         "Has color": [
             "#0099ab"
         ], 
-        "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:When_the_Dutch_secret_service_knocks_on_your_door", 
+        "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:Hilbertspace_Theory_%E2%80%93_Music_Theory%27s_New_Clothes", 
         "Has end time": [
-            "1514473200"
+            "1514475000"
         ]
     }, 
     "Session:Numerical Weather Prediction Tutorial# f6c1e9a8afa8b59448a312ac4b32a14d": {
