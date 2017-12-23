@@ -2097,6 +2097,50 @@
             "1514491200"
         ]
     }, 
+    "Session:Wie produziere ich mein eigenes H\u00f6rspiel# e54e39cc28bbd903216fa8e7f6ea653e": {
+        "Held in language": [
+            "de - German"
+        ], 
+        "Has start time": [
+            "1514469600"
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [], 
+        "Has description": [
+            "Wie produziere ich mein eigenes H\u00f6rspiel mit Hilfe von freeware & free sounds (Benni)"
+        ], 
+        "Has session type": [
+            "Workshop"
+        ], 
+        "Has session location": [
+            {
+                "fulltext": "Room:Komona D.Ressrosa", 
+                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Room:Komona_D.Ressrosa", 
+                "namespace": 516, 
+                "exists": true
+            }
+        ], 
+        "Has subtitle": [], 
+        "Is organized by": [], 
+        "Has title": [
+            "Wie produziere ich mein eigenes H\u00f6rspiel"
+        ], 
+        "Has duration": [
+            120
+        ], 
+        "GUID": [
+            "af1ca733-a445-4f6c-947b-a7e79b77f0ba"
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:Wie_produziere_ich_mein_eigenes_H%C3%B6rspiel", 
+        "Has end time": [
+            "1514476800"
+        ]
+    }, 
     "Session:Radio Neu# 213796d14c33cb22564157bc8e341f24": {
         "Held in language": [
             "de - German", 
@@ -6395,48 +6439,56 @@
             "1514551800"
         ]
     }, 
-    "Session:Wie produziere ich mein eigenes H\u00f6rspiel# e54e39cc28bbd903216fa8e7f6ea653e": {
+    "Session:Pirate Parties Members Meetup# 51c508256d838511e76148ddf1fb1e28": {
         "Held in language": [
-            "de - German"
+            "de - German", 
+            "en - English"
         ], 
         "Has start time": [
-            "1514469600"
+            "1514489400"
         ], 
         "Has event track": [
             "Session"
         ], 
         "Has website": [], 
         "Has description": [
-            "Wie produziere ich mein eigenes H\u00f6rspiel mit Hilfe von freeware & free sounds (Benni)"
+            "Connecting people who are members of one of the many Pirate Parties worldwide, people who would like to join, and people generally interested in what we are doing. It is a meetup and networking event for the members, the members of the board and we will discuss freely what is going on."
         ], 
         "Has session type": [
-            "Workshop"
+            "Discussion"
         ], 
         "Has session location": [
             {
-                "fulltext": "Room:Komona D.Ressrosa", 
-                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Room:Komona_D.Ressrosa", 
+                "fulltext": "Room:Seminar room 14-15", 
+                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Room:Seminar_room_14-15", 
                 "namespace": 516, 
                 "exists": true
             }
         ], 
         "Has subtitle": [], 
-        "Is organized by": [], 
+        "Is organized by": [
+            {
+                "fulltext": "User:Utzer", 
+                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/User:Utzer", 
+                "namespace": 2, 
+                "exists": true
+            }
+        ], 
         "Has title": [
-            "Wie produziere ich mein eigenes H\u00f6rspiel"
+            "Pirate Parties Members Meetup"
         ], 
         "Has duration": [
-            120
+            45
         ], 
         "GUID": [
-            "af1ca733-a445-4f6c-947b-a7e79b77f0ba"
+            "3936de62-5b5b-4d2a-9a51-3a491418ced7"
         ], 
         "Has color": [
             "#0099ab"
         ], 
-        "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:Wie_produziere_ich_mein_eigenes_H%C3%B6rspiel", 
+        "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:Pirate_Parties_Members_Meetup", 
         "Has end time": [
-            "1514476800"
+            "1514492100"
         ]
     }, 
     "Session:NerfgunBattle# 8023a891a56553c4251e5726c5e68d71": {
