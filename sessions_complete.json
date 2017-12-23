@@ -1805,6 +1805,41 @@
             "1514558700"
         ]
     }, 
+    "Session:Whisky# 2ad663eff9687e07f176548adda735f3": {
+        "Held in language": [
+            "de - German", 
+            "en - English"
+        ], 
+        "Has start time": [
+            "1514584800"
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [], 
+        "Has description": [
+            "This is the seventh incarnation of the popular whisky evening. It's fairly simple: If you enjoy good whisky with nice people, or are planing to do so, join us. We'll have the virtual chimney fire going."
+        ], 
+        "Has session type": [
+            "Hands-On"
+        ], 
+        "Has session location": [], 
+        "Has subtitle": [], 
+        "Is organized by": [], 
+        "Has title": [
+            "Whisky"
+        ], 
+        "Has duration": [
+            90
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:Whisky", 
+        "Has end time": [
+            "1514590200"
+        ]
+    }, 
     "Session:Rights&Freedoms# c7723caeeb660fad7a7fd009e4bb0f0d": {
         "Held in language": [
             "de - German", 
@@ -1849,23 +1884,29 @@
             "1514397600"
         ]
     }, 
-    "Session:Haecksenbreakfast# 513a305efb60c3ca33bf7f9fe7655b3f": {
-        "Held in language": [], 
+    "Session:GNUnet e.V. annual meeting# f7cd7c4a1b30bdeadf42747d5660c753": {
+        "Held in language": [
+            "en - English"
+        ], 
         "Has start time": [
-            "1514552400"
+            "1514390400"
         ], 
         "Has event track": [
             "Session"
         ], 
-        "Has website": [], 
-        "Has description": [
-            "Haecksenbreakfast (female* only)"
+        "Has website": [
+            "https://gnunet.org/ev"
         ], 
-        "Has session type": [], 
+        "Has description": [
+            "Annual meeting of the members of GNUnet e.V."
+        ], 
+        "Has session type": [
+            "Meeting"
+        ], 
         "Has session location": [
             {
-                "fulltext": "Room:Lecture room 11", 
-                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Room:Lecture_room_11", 
+                "fulltext": "Room:Komona Blue Princess", 
+                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Room:Komona_Blue_Princess", 
                 "namespace": 516, 
                 "exists": true
             }
@@ -1873,17 +1914,17 @@
         "Has subtitle": [], 
         "Is organized by": [], 
         "Has title": [
-            "Haecksenbreakfast"
+            "GNUnet e.V. annual meeting"
         ], 
         "Has duration": [
-            120
+            90
         ], 
         "Has color": [
             "#0099ab"
         ], 
-        "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:Haecksenbreakfast", 
+        "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:GNUnet_e.V._annual_meeting", 
         "Has end time": [
-            "1514559600"
+            "1514395800"
         ]
     }, 
     "Session:Sind wir schon Cyborgs?# 01e6306f7ac314bd37fa86aa04fc7cef": {
@@ -5082,39 +5123,54 @@
             "1514570400"
         ]
     }, 
-    "Session:Whisky# 2ad663eff9687e07f176548adda735f3": {
+    "Session:TeaHouse# 30e2206422188eb511ffe87cbb4b29ed": {
         "Held in language": [
-            "de - German", 
             "en - English"
         ], 
         "Has start time": [
-            "1514584800"
+            "1514304000"
         ], 
         "Has event track": [
             "Session"
         ], 
-        "Has website": [], 
-        "Has description": [
-            "This is the seventh incarnation of the popular whisky evening. It's fairly simple: If you enjoy good whisky with nice people, or are planing to do so, join us. We'll have the virtual chimney fire going."
+        "Has website": [
+            "https://teahouse.homecomputing.fr/"
         ], 
+        "Has description": [], 
         "Has session type": [
-            "Hands-On"
+            "Meeting"
         ], 
-        "Has session location": [], 
-        "Has subtitle": [], 
-        "Is organized by": [], 
+        "Has session location": [
+            {
+                "fulltext": "Assembly:TeaHouse", 
+                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Assembly:TeaHouse", 
+                "namespace": 504, 
+                "exists": true
+            }
+        ], 
+        "Has subtitle": [
+            "Let's talk about practicalities of internet censorship circumvention"
+        ], 
+        "Is organized by": [
+            {
+                "fulltext": "User:Sanpi", 
+                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/User:Sanpi", 
+                "namespace": 2, 
+                "exists": true
+            }
+        ], 
         "Has title": [
-            "Whisky"
+            "TeaHouse"
         ], 
         "Has duration": [
-            90
+            60
         ], 
         "Has color": [
             "#0099ab"
         ], 
-        "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:Whisky", 
+        "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:TeaHouse", 
         "Has end time": [
-            "1514590200"
+            "1514307600"
         ]
     }, 
     "Session:Stagemanager Introduction-Meeting# d967f154d0aab89bbf8b728c6ad76ca9": {
@@ -10133,54 +10189,41 @@
             "1514563200"
         ]
     }, 
-    "Session:Lehrerstammtisch# 77b9de2e2b01c9ef09e33b36564e9d93": {
-        "Held in language": [
-            "de - German"
-        ], 
+    "Session:Haecksenbreakfast# 513a305efb60c3ca33bf7f9fe7655b3f": {
+        "Held in language": [], 
         "Has start time": [
-            "1514404800"
+            "1514552400"
         ], 
         "Has event track": [
             "Session"
         ], 
         "Has website": [], 
         "Has description": [
-            "After a great start at the 33c3, the teachers meeting continues this year!"
+            "Haecksenbreakfast (female* only)"
         ], 
-        "Has session type": [
-            "Meeting"
-        ], 
+        "Has session type": [], 
         "Has session location": [
             {
-                "fulltext": "Room:Lecture room 12", 
-                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Room:Lecture_room_12", 
+                "fulltext": "Room:Lecture room 11", 
+                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Room:Lecture_room_11", 
                 "namespace": 516, 
                 "exists": true
             }
         ], 
-        "Has subtitle": [
-            "the teachers meeting"
-        ], 
-        "Is organized by": [
-            {
-                "fulltext": "User:Gigo", 
-                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/User:Gigo", 
-                "namespace": 2, 
-                "exists": true
-            }
-        ], 
+        "Has subtitle": [], 
+        "Is organized by": [], 
         "Has title": [
-            "Lehrerstammtisch"
+            "Haecksenbreakfast"
         ], 
         "Has duration": [
-            60
+            120
         ], 
         "Has color": [
             "#0099ab"
         ], 
-        "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:Lehrerstammtisch", 
+        "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:Haecksenbreakfast", 
         "Has end time": [
-            "1514408400"
+            "1514559600"
         ]
     }, 
     "Session:Trickmisch# edb2989e4021b4f67c909659a0640527": {
@@ -10788,44 +10831,44 @@
             "1514647800"
         ]
     }, 
-    "Session:TeaHouse# 30e2206422188eb511ffe87cbb4b29ed": {
+    "Session:Lehrerstammtisch# 77b9de2e2b01c9ef09e33b36564e9d93": {
         "Held in language": [
-            "en - English"
+            "de - German"
         ], 
         "Has start time": [
-            "1514304000"
+            "1514404800"
         ], 
         "Has event track": [
             "Session"
         ], 
-        "Has website": [
-            "https://teahouse.homecomputing.fr/"
+        "Has website": [], 
+        "Has description": [
+            "After a great start at the 33c3, the teachers meeting continues this year!"
         ], 
-        "Has description": [], 
         "Has session type": [
             "Meeting"
         ], 
         "Has session location": [
             {
-                "fulltext": "Assembly:TeaHouse", 
-                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Assembly:TeaHouse", 
-                "namespace": 504, 
+                "fulltext": "Room:Lecture room 12", 
+                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Room:Lecture_room_12", 
+                "namespace": 516, 
                 "exists": true
             }
         ], 
         "Has subtitle": [
-            "Let's talk about practicalities of internet censorship circumvention"
+            "the teachers meeting"
         ], 
         "Is organized by": [
             {
-                "fulltext": "User:Sanpi", 
-                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/User:Sanpi", 
+                "fulltext": "User:Gigo", 
+                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/User:Gigo", 
                 "namespace": 2, 
                 "exists": true
             }
         ], 
         "Has title": [
-            "TeaHouse"
+            "Lehrerstammtisch"
         ], 
         "Has duration": [
             60
@@ -10833,9 +10876,9 @@
         "Has color": [
             "#0099ab"
         ], 
-        "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:TeaHouse", 
+        "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:Lehrerstammtisch", 
         "Has end time": [
-            "1514307600"
+            "1514408400"
         ]
     }, 
     "Session:Network hacks for smart attacks# ce4407f68927c8001b4cf962a1b34335": {
