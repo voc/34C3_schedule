@@ -6196,27 +6196,30 @@
             "1514635200"
         ]
     }, 
-    "Session:How does artificial intelligence accomplish the feat of learning? (Wondrous Mathematics)# 92d5dba90bd489895fba597a036bfb18": {
+    "Session:42birds: Taskwarrior For Dummies# 74b639ce606abbf223b25fa40c9f2aa5": {
         "Held in language": [
+            "de - German", 
             "en - English"
         ], 
         "Has start time": [
-            "1514460600"
+            "1514368800"
         ], 
         "Has event track": [
             "Session"
         ], 
-        "Has website": [], 
+        "Has website": [
+            "https://taskwarrior.org/"
+        ], 
         "Has description": [
-            "How a mathematical breakthrough made at the end of the 17th century is the workhorse of the artificial neural networks of today"
+            "Taskwarrior is Free and Open Source Software that manages your TODO list from the command line. It is flexible, fast, and unobtrusive. It does its job then gets out of your way."
         ], 
         "Has session type": [
-            "Talk"
+            "Hands-On"
         ], 
         "Has session location": [
             {
-                "fulltext": "Room:Seminar room 14-15", 
-                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Room:Seminar_room_14-15", 
+                "fulltext": "Room:Seminar room 13", 
+                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Room:Seminar_room_13", 
                 "namespace": 516, 
                 "exists": true
             }
@@ -6224,27 +6227,81 @@
         "Has subtitle": [], 
         "Is organized by": [
             {
-                "fulltext": "User:IngoBlechschmidt", 
-                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/User:IngoBlechschmidt", 
+                "fulltext": "User:Birdy1976", 
+                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/User:Birdy1976", 
                 "namespace": 2, 
                 "exists": true
             }
         ], 
         "Has title": [
-            "How does artificial intelligence accomplish the feat of learning? (Wondrous Mathematics)"
+            "42birds: Taskwarrior For Dummies"
         ], 
         "Has duration": [
-            50
+            45
         ], 
         "GUID": [
-            "5b9d681d-a0ad-4a3a-aa88-ab18d9c2927b"
+            "6fdd6509-debd-470b-a137-e61346ce9326"
         ], 
         "Has color": [
             "#0099ab"
         ], 
-        "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:How_does_artificial_intelligence_accomplish_the_feat_of_learning%3F_(Wondrous_Mathematics)", 
+        "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:42birds:_Taskwarrior_For_Dummies", 
         "Has end time": [
-            "1514463600"
+            "1514371500"
+        ]
+    }, 
+    "Session:42birds: Dreams of the Future# c257778c8da83651602f1151ce4a13da": {
+        "Held in language": [
+            "de - German", 
+            "en - English"
+        ], 
+        "Has start time": [
+            "1514541600"
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [
+            "https://b76.ch/9633"
+        ], 
+        "Has description": [
+            "Learning in science fiction movies. This talk is just for fun\u2026 And yes, there will be school violence ;-)"
+        ], 
+        "Has session type": [
+            "Talk"
+        ], 
+        "Has session location": [
+            {
+                "fulltext": "Room:Seminar room 13", 
+                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Room:Seminar_room_13", 
+                "namespace": 516, 
+                "exists": true
+            }
+        ], 
+        "Has subtitle": [], 
+        "Is organized by": [
+            {
+                "fulltext": "User:Birdy1976", 
+                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/User:Birdy1976", 
+                "namespace": 2, 
+                "exists": true
+            }
+        ], 
+        "Has title": [
+            "42birds: Dreams of the Future"
+        ], 
+        "Has duration": [
+            45
+        ], 
+        "GUID": [
+            "a4b6a12c-a80d-4435-9a65-e8203da9fc0b"
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:42birds:_Dreams_of_the_Future", 
+        "Has end time": [
+            "1514544300"
         ]
     }, 
     "Session:TeaHouse# 984940c7e6a50ae16d8d4f509c61042c": {
@@ -9534,6 +9591,57 @@
             "1514577600"
         ]
     }, 
+    "Session:How does artificial intelligence accomplish the feat of learning? (Wondrous Mathematics)# 92d5dba90bd489895fba597a036bfb18": {
+        "Held in language": [
+            "en - English"
+        ], 
+        "Has start time": [
+            "1514460600"
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [], 
+        "Has description": [
+            "How a mathematical breakthrough made at the end of the 17th century is the workhorse of the artificial neural networks of today"
+        ], 
+        "Has session type": [
+            "Talk"
+        ], 
+        "Has session location": [
+            {
+                "fulltext": "Room:Seminar room 14-15", 
+                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Room:Seminar_room_14-15", 
+                "namespace": 516, 
+                "exists": true
+            }
+        ], 
+        "Has subtitle": [], 
+        "Is organized by": [
+            {
+                "fulltext": "User:IngoBlechschmidt", 
+                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/User:IngoBlechschmidt", 
+                "namespace": 2, 
+                "exists": true
+            }
+        ], 
+        "Has title": [
+            "How does artificial intelligence accomplish the feat of learning? (Wondrous Mathematics)"
+        ], 
+        "Has duration": [
+            50
+        ], 
+        "GUID": [
+            "5b9d681d-a0ad-4a3a-aa88-ab18d9c2927b"
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:How_does_artificial_intelligence_accomplish_the_feat_of_learning%3F_(Wondrous_Mathematics)", 
+        "Has end time": [
+            "1514463600"
+        ]
+    }, 
     "Session:Nanooq: G20 und GG\u00a720# 2d9b500b68f5b5bcb23ba5c7a090e1ab": {
         "Held in language": [
             "de - German"
@@ -11394,6 +11502,60 @@
         "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:Sind_wir_schon_Cyborgs%3F", 
         "Has end time": [
             "1514491200"
+        ]
+    }, 
+    "Session:Collapsing Cats Towards Infinity# 6a4c170c868a289f6a4eb62b39f0957c": {
+        "Held in language": [
+            "de - German", 
+            "en - English"
+        ], 
+        "Has start time": [
+            "1514379600"
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [], 
+        "Has description": [
+            "Quantum mechanics is a fascinating field of science. That's why we'd like to give you an introduction to the basics and at the same time show you some of the coolest effects that come out of very simple calculations. Feel free to bring lots of questions!"
+        ], 
+        "Has session type": [
+            "Talk"
+        ], 
+        "Has session location": [
+            {
+                "fulltext": "Assembly:Physikfachschaft Rostock", 
+                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Assembly:Physikfachschaft_Rostock", 
+                "namespace": 504, 
+                "exists": true
+            }
+        ], 
+        "Has subtitle": [
+            "Quantum Theory Explained From \u00a60>"
+        ], 
+        "Is organized by": [
+            {
+                "fulltext": "User:KiNaudiz", 
+                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/User:KiNaudiz", 
+                "namespace": 2, 
+                "exists": true
+            }
+        ], 
+        "Has title": [
+            "Collapsing Cats Towards Infinity"
+        ], 
+        "Has duration": [
+            60
+        ], 
+        "GUID": [
+            "de4d4c16-635d-447c-a192-e76705d078e0"
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:Collapsing_Cats_Towards_Infinity", 
+        "Has end time": [
+            "1514383200"
         ]
     }, 
     "Session:Surface mount electronics assembly for terrified beginners# ad2d4bc330a74b93d6809890a817b609": {
