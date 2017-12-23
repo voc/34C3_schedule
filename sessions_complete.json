@@ -2852,53 +2852,6 @@
             "1514606400"
         ]
     }, 
-    "Session:Rights&Freedoms# 15b5c2aa8acd52ec2b43116b4e91e201": {
-        "Held in language": [
-            "de - German", 
-            "en - English"
-        ], 
-        "Has start time": [
-            "1514394000"
-        ], 
-        "Has event track": [
-            "Session"
-        ], 
-        "Has website": [], 
-        "Has description": [
-            "Rights & Freedoms Cluster Stage Programme"
-        ], 
-        "Has session type": [
-            "Talk"
-        ], 
-        "Has session location": [
-            {
-                "fulltext": "Room:CCL Hall 3", 
-                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Room:CCL_Hall_3", 
-                "namespace": 516, 
-                "exists": true
-            }
-        ], 
-        "Has subtitle": [
-            "Design in Free Software & Open Source (Dina Michl & Victoria Bondarchuk)"
-        ], 
-        "Is organized by": [], 
-        "Has title": [
-            "Rights&Freedoms"
-        ], 
-        "Has duration": [
-            60
-        ], 
-        "GUID": [
-            "848eb8ac-cc0b-4747-862b-d4aa466fc6f9"
-        ], 
-        "Has color": [
-            "#0099ab"
-        ], 
-        "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:Rights%26Freedoms", 
-        "Has end time": [
-            "1514397600"
-        ]
-    }, 
     "Session:Three Ways to Enhance Metadata Protection Beyond Tor# 25f2f9fab8376f6993b7d51e80d4172d": {
         "Held in language": [
             "en - English"
@@ -3466,48 +3419,50 @@
             "1514554200"
         ]
     }, 
-    "Session:Hedonist International Networking Meeting+Workshop for 2018s Congress Convoy# 2820e42d1bc4f832aebb97de5c348a4e": {
+    "Session:Letter writing to prisoners, sitting in jail for hacking# 2b2692985b61bd9e9247bdb6f1929f3e": {
         "Held in language": [
             "en - English"
         ], 
         "Has start time": [
-            "1514476800"
+            "1514462400"
         ], 
         "Has event track": [
             "Session"
         ], 
         "Has website": [], 
         "Has description": [
-            "Hedonist International Networking Meeting & Workshop for 2018s Congress Convoy (All Interested Creatures welcome!)"
+            "Hacktivism from time to time leads to imprisonment and repressions. There are several people right now siting in jail that consider themselves anarchist or did actions that are supported by anarchist community. Not to let those people alone in prison we would like to have every day 1 hour around the table, where we get to know the stories of imprisoned activists and write them some words of support with postcards/letters.  You don't need any special skills for that. The postcards will be there for you."
         ], 
         "Has session type": [
             "Workshop"
         ], 
         "Has session location": [
             {
-                "fulltext": "Room:Komona Coral Reef", 
-                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Room:Komona_Coral_Reef", 
+                "fulltext": "Room:Komona Blue Princess", 
+                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Room:Komona_Blue_Princess", 
                 "namespace": 516, 
                 "exists": true
             }
         ], 
-        "Has subtitle": [], 
+        "Has subtitle": [
+            "Day 2"
+        ], 
         "Is organized by": [], 
         "Has title": [
-            "Hedonist International Networking Meeting+Workshop for 2018s Congress Convoy"
+            "Letter writing to prisoners, sitting in jail for hacking"
         ], 
         "Has duration": [
-            120
+            30
         ], 
         "GUID": [
-            "4f923383-61ee-4648-b40d-c66930b695a8"
+            "78b6af67-7c9d-460a-ac37-0428a4178e00"
         ], 
         "Has color": [
             "#0099ab"
         ], 
-        "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:Hedonist_International_Networking_Meeting%2BWorkshop_for_2018s_Congress_Convoy", 
+        "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:Letter_writing_to_prisoners,_sitting_in_jail_for_hacking", 
         "Has end time": [
-            "1514484000"
+            "1514464200"
         ]
     }, 
     "Session:Rights&Freedoms# 8c02998822f5427a1c1889e3cd5c325b": {
@@ -5383,57 +5338,48 @@
             "1514493000"
         ]
     }, 
-    "Session:Bin\u00e4rgewitter H\u00f6rertreffen# 3a05013644170ed8c194bc6e07530c6f": {
+    "Session:Hedonist International Networking Meeting+Workshop for 2018s Congress Convoy# 2820e42d1bc4f832aebb97de5c348a4e": {
         "Held in language": [
-            "de - German"
+            "en - English"
         ], 
         "Has start time": [
-            "1514568600"
+            "1514476800"
         ], 
         "Has event track": [
             "Session"
         ], 
-        "Has website": [
-            "http://krepel.us"
-        ], 
+        "Has website": [], 
         "Has description": [
-            "Bin\u00e4rgewitter H\u00f6rertreffen auf dem 34c3"
+            "Hedonist International Networking Meeting & Workshop for 2018s Congress Convoy (All Interested Creatures welcome!)"
         ], 
         "Has session type": [
-            "Meeting"
+            "Workshop"
         ], 
         "Has session location": [
             {
-                "fulltext": "Room:Lecture room 11", 
-                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Room:Lecture_room_11", 
+                "fulltext": "Room:Komona Coral Reef", 
+                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Room:Komona_Coral_Reef", 
                 "namespace": 516, 
                 "exists": true
             }
         ], 
         "Has subtitle": [], 
-        "Is organized by": [
-            {
-                "fulltext": "User:Makefu", 
-                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/User:Makefu", 
-                "namespace": 2, 
-                "exists": true
-            }
-        ], 
+        "Is organized by": [], 
         "Has title": [
-            "Bin\u00e4rgewitter H\u00f6rertreffen"
+            "Hedonist International Networking Meeting+Workshop for 2018s Congress Convoy"
         ], 
         "Has duration": [
-            60
+            120
         ], 
         "GUID": [
-            "b3c53743-270a-44cc-ace4-be10f070211e"
+            "4f923383-61ee-4648-b40d-c66930b695a8"
         ], 
         "Has color": [
             "#0099ab"
         ], 
-        "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:Bin%C3%A4rgewitter_H%C3%B6rertreffen", 
+        "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:Hedonist_International_Networking_Meeting%2BWorkshop_for_2018s_Congress_Convoy", 
         "Has end time": [
-            "1514572200"
+            "1514484000"
         ]
     }, 
     "Session:How to Let's Play# 776f716aa526a04f0bbb8b1c2852952a": {
@@ -5730,50 +5676,51 @@
             "1514326500"
         ]
     }, 
-    "Session:Letter writing to prisoners, sitting in jail for hacking# 2b2692985b61bd9e9247bdb6f1929f3e": {
+    "Session:Rights&Freedoms# 15b5c2aa8acd52ec2b43116b4e91e201": {
         "Held in language": [
+            "de - German", 
             "en - English"
         ], 
         "Has start time": [
-            "1514462400"
+            "1514394000"
         ], 
         "Has event track": [
             "Session"
         ], 
         "Has website": [], 
         "Has description": [
-            "Hacktivism from time to time leads to imprisonment and repressions. There are several people right now siting in jail that consider themselves anarchist or did actions that are supported by anarchist community. Not to let those people alone in prison we would like to have every day 1 hour around the table, where we get to know the stories of imprisoned activists and write them some words of support with postcards/letters.  You don't need any special skills for that. The postcards will be there for you."
+            "Rights & Freedoms Cluster Stage Programme"
         ], 
         "Has session type": [
-            "Workshop"
+            "Talk"
         ], 
         "Has session location": [
             {
-                "fulltext": "Room:Komona Blue Princess", 
-                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Room:Komona_Blue_Princess", 
+                "fulltext": "Room:CCL Hall 3", 
+                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Room:CCL_Hall_3", 
                 "namespace": 516, 
                 "exists": true
             }
         ], 
         "Has subtitle": [
-            "Day 2"
+            "Design in Free Software & Open Source (Dina Michl & Victoria Bondarchuk)"
         ], 
         "Is organized by": [], 
         "Has title": [
-            "Letter writing to prisoners, sitting in jail for hacking"
+            "Rights&Freedoms"
         ], 
         "Has duration": [
-            30
+            60
         ], 
         "GUID": [
-            "78b6af67-7c9d-460a-ac37-0428a4178e00"
+            "848eb8ac-cc0b-4747-862b-d4aa466fc6f9"
         ], 
         "Has color": [
             "#0099ab"
         ], 
-        "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:Letter_writing_to_prisoners,_sitting_in_jail_for_hacking", 
+        "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:Rights%26Freedoms", 
         "Has end time": [
-            "1514464200"
+            "1514397600"
         ]
     }, 
     "Session:A/V Angel Meeting# 5c285b4a67929ae8bde7565e8ec1dd37": {
@@ -10021,6 +9968,59 @@
             "1514559600"
         ]
     }, 
+    "Session:LearnToSolder# c7632129e25e12e1d275256f608ee1ba": {
+        "Held in language": [
+            "en - English"
+        ], 
+        "Has start time": [
+            "1514631600"
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [], 
+        "Has description": [
+            "Learn to Solder!  A large variety of way cool kits are available, all designed for total beginners to complete successfully -- and intriguing enough for the total hardware geek.<br />\n<br />\n<span style=\"color:orange\">'''''This ongoing workshop will be happening concurrently with lots of other way cool workshops at the Hardware Hacking Area!'''''</span>"
+        ], 
+        "Has session type": [
+            "Workshop"
+        ], 
+        "Has session location": [
+            {
+                "fulltext": "Assembly:HardwareHackingArea", 
+                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Assembly:HardwareHackingArea", 
+                "namespace": 504, 
+                "exists": true
+            }
+        ], 
+        "Has subtitle": [
+            "Day 4"
+        ], 
+        "Is organized by": [
+            {
+                "fulltext": "User:Maltman23", 
+                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/User:Maltman23", 
+                "namespace": 2, 
+                "exists": true
+            }
+        ], 
+        "Has title": [
+            "LearnToSolder"
+        ], 
+        "Has duration": [
+            239
+        ], 
+        "GUID": [
+            "950b4c24-8b9d-437b-bb2a-5c274e27221c"
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:LearnToSolder", 
+        "Has end time": [
+            "1514645940"
+        ]
+    }, 
     "Session:Language Confusion# 9ff2d643a1059a5236f74bbfc8ff1ae8": {
         "Held in language": [], 
         "Has start time": [
@@ -11002,57 +11002,57 @@
             "1514552400"
         ]
     }, 
-    "Session:LearnToSolder# c7632129e25e12e1d275256f608ee1ba": {
+    "Session:Bin\u00e4rgewitter H\u00f6rertreffen# efe7228a434266aa55380b4ad314ce65": {
         "Held in language": [
-            "en - English"
+            "de - German"
         ], 
         "Has start time": [
-            "1514631600"
+            "1514552400"
         ], 
         "Has event track": [
             "Session"
         ], 
-        "Has website": [], 
+        "Has website": [
+            "http://krepel.us"
+        ], 
         "Has description": [
-            "Learn to Solder!  A large variety of way cool kits are available, all designed for total beginners to complete successfully -- and intriguing enough for the total hardware geek.<br />\n<br />\n<span style=\"color:orange\">'''''This ongoing workshop will be happening concurrently with lots of other way cool workshops at the Hardware Hacking Area!'''''</span>"
+            "Bin\u00e4rgewitter H\u00f6rertreffen auf dem 34c3"
         ], 
         "Has session type": [
-            "Workshop"
+            "Meeting"
         ], 
         "Has session location": [
             {
-                "fulltext": "Assembly:HardwareHackingArea", 
-                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Assembly:HardwareHackingArea", 
-                "namespace": 504, 
+                "fulltext": "Room:Seminar room 14-15", 
+                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Room:Seminar_room_14-15", 
+                "namespace": 516, 
                 "exists": true
             }
         ], 
-        "Has subtitle": [
-            "Day 4"
-        ], 
+        "Has subtitle": [], 
         "Is organized by": [
             {
-                "fulltext": "User:Maltman23", 
-                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/User:Maltman23", 
+                "fulltext": "User:Makefu", 
+                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/User:Makefu", 
                 "namespace": 2, 
                 "exists": true
             }
         ], 
         "Has title": [
-            "LearnToSolder"
+            "Bin\u00e4rgewitter H\u00f6rertreffen"
         ], 
         "Has duration": [
-            239
+            60
         ], 
         "GUID": [
-            "950b4c24-8b9d-437b-bb2a-5c274e27221c"
+            "b3c53743-270a-44cc-ace4-be10f070211e"
         ], 
         "Has color": [
             "#0099ab"
         ], 
-        "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:LearnToSolder", 
+        "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:Bin%C3%A4rgewitter_H%C3%B6rertreffen", 
         "Has end time": [
-            "1514645940"
+            "1514556000"
         ]
     }, 
     "Session:D Town, Christopher: Eigenes HackLab bauen!# b68fd9cc434114bcf9eb06cd008ffe4a": {
