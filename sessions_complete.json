@@ -844,6 +844,53 @@
             "1514403000"
         ]
     }, 
+    "Session:Rights&Freedoms# 9233046959c118f4e37e87b811773ec8": {
+        "Held in language": [
+            "de - German", 
+            "en - English"
+        ], 
+        "Has start time": [
+            "1514489400"
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [], 
+        "Has description": [
+            "Rights & Freedoms Cluster Stage Programme"
+        ], 
+        "Has session type": [
+            "Talk"
+        ], 
+        "Has session location": [
+            {
+                "fulltext": "Room:CCL Hall 3", 
+                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Room:CCL_Hall_3", 
+                "namespace": 516, 
+                "exists": true
+            }
+        ], 
+        "Has subtitle": [
+            "Algorithmic transaprency (EFF)"
+        ], 
+        "Is organized by": [], 
+        "Has title": [
+            "Rights&Freedoms"
+        ], 
+        "Has duration": [
+            30
+        ], 
+        "GUID": [
+            "23c6fca0-a450-47cf-8e39-888514b76355"
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:Rights%26Freedoms", 
+        "Has end time": [
+            "1514491200"
+        ]
+    }, 
     "Session:Wie produziere ich mein eigenes H\u00f6rspiel mit Hilfe von freeware free sounds# e9e0f96ddae80dfb9c8724abad3fe9ea": {
         "Held in language": [
             "de - German"
@@ -1036,42 +1083,50 @@
             "1514563200"
         ]
     }, 
-    "Session:Reclaim Club Culture# d18178dc7a647281cd7e535c4dfac1c0": {
-        "Held in language": [], 
+    "Session:Throwies# e27ebec0de39dbae7585138a3b649bff": {
+        "Held in language": [
+            "de - German"
+        ], 
         "Has start time": [
-            "1514383200"
+            "1514376000"
         ], 
         "Has event track": [
             "Session"
         ], 
         "Has website": [], 
-        "Has description": [], 
-        "Has session type": [], 
+        "Has description": [
+            "Ein Throwie ist eine LED, die durch eine Knopfzellenbatterie zum Leuchten gebracht wird und an die man einen Magneten klebt."
+        ], 
+        "Has session type": [
+            "Hands-On"
+        ], 
         "Has session location": [
             {
-                "fulltext": "Room:Komona D.Ressrosa", 
-                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Room:Komona_D.Ressrosa", 
+                "fulltext": "Room:Kidspace", 
+                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Room:Kidspace", 
                 "namespace": 516, 
                 "exists": true
             }
         ], 
-        "Has subtitle": [], 
+        "Has subtitle": [
+            "Throwies Basteln"
+        ], 
         "Is organized by": [], 
         "Has title": [
-            "Reclaim Club Culture"
+            "Throwies"
         ], 
         "Has duration": [
-            120
+            360
         ], 
         "GUID": [
-            "1191f1bd-7e79-40a2-aff6-6d843352ab47"
+            "970319ef-2202-480f-ab77-12ebd1a901c2"
         ], 
         "Has color": [
             "#0099ab"
         ], 
-        "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:Reclaim_Club_Culture", 
+        "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:Throwies", 
         "Has end time": [
-            "1514390400"
+            "1514397600"
         ]
     }, 
     "Session:TeaHouse# 8efd15e8c5b9047b2ee27f7e03ffc0e5": {
@@ -4889,44 +4944,42 @@
             "1514386800"
         ]
     }, 
-    "Session:Endstation Meetup# f914d6d77b5b71d738774949fba6537e": {
-        "Held in language": [
-            "de - German", 
-            "en - English"
-        ], 
+    "Session:Reclaim Club Culture# d18178dc7a647281cd7e535c4dfac1c0": {
+        "Held in language": [], 
         "Has start time": [
-            "1514487600"
+            "1514383200"
         ], 
         "Has event track": [
             "Session"
         ], 
-        "Has website": [
-            "http://endstation.jetzt/"
+        "Has website": [], 
+        "Has description": [], 
+        "Has session type": [], 
+        "Has session location": [
+            {
+                "fulltext": "Room:Komona D.Ressrosa", 
+                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Room:Komona_D.Ressrosa", 
+                "namespace": 516, 
+                "exists": true
+            }
         ], 
-        "Has description": [
-            "Endstation is a group founded in early summer 2017 in Berlin on the matter of video surveillance in public space. Our main focus are the face recognition tests by German security authorities and the German train company (DB). We have been active during this year informing the public, press and people passing through the train station S\u00fcdkreuz (test area) and protesting publicly. \n\nWe consist of two things: the active group meeting regularly in Berlin and the mailing list which grew rapidly during this year. \nThe idea of our meetup is to talk in real life to those people on the mailing list and to other people interested in our action. \n\nWe will update this text soon and post the final time and place also through the mailing list and twitter @ENDSTATIONSUEDX"
-        ], 
-        "Has session type": [
-            "Meeting"
-        ], 
-        "Has session location": [], 
         "Has subtitle": [], 
         "Is organized by": [], 
         "Has title": [
-            "Endstation Meetup"
+            "Reclaim Club Culture"
         ], 
         "Has duration": [
-            60
+            120
         ], 
         "GUID": [
-            "23540566-7d20-47b9-b4eb-26c94990cf3b"
+            "1191f1bd-7e79-40a2-aff6-6d843352ab47"
         ], 
         "Has color": [
             "#0099ab"
         ], 
-        "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:Endstation_Meetup", 
+        "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:Reclaim_Club_Culture", 
         "Has end time": [
-            "1514491200"
+            "1514390400"
         ]
     }, 
     "Session:Rights&Freedoms# d0062f01f8be0cecb77b9ff573a599ab": {
@@ -5356,6 +5409,53 @@
         "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:Intro_to_3D_Shader_Programming", 
         "Has end time": [
             "1514467800"
+        ]
+    }, 
+    "Session:Endstation Meetup# aa3119d5061f7396ff894e0872219d20": {
+        "Held in language": [
+            "de - German", 
+            "en - English"
+        ], 
+        "Has start time": [
+            "1514476800"
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [
+            "http://endstation.jetzt/"
+        ], 
+        "Has description": [
+            "Endstation is a group founded in early summer 2017 in Berlin on the matter of video surveillance in public space. Our main focus are the face recognition tests by German security authorities and the German train company (DB). We have been active during this year informing the public, press and people passing through the train station S\u00fcdkreuz (test area) and protesting publicly. \n\nWe consist of two things: the active group meeting regularly in Berlin and the mailing list which grew rapidly during this year. \nThe idea of our meetup is to talk in real life to those people on the mailing list and to other people interested in our action. \n\nWe will meet at 1Komona BIKINI (not Coral reef) \nContact best via twitter @ENDSTATIONSUEDX"
+        ], 
+        "Has session type": [
+            "Meeting"
+        ], 
+        "Has session location": [
+            {
+                "fulltext": "Room:Komona Coral Reef", 
+                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Room:Komona_Coral_Reef", 
+                "namespace": 516, 
+                "exists": true
+            }
+        ], 
+        "Has subtitle": [], 
+        "Is organized by": [], 
+        "Has title": [
+            "Endstation Meetup"
+        ], 
+        "Has duration": [
+            120
+        ], 
+        "GUID": [
+            "23540566-7d20-47b9-b4eb-26c94990cf3b"
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:Endstation_Meetup", 
+        "Has end time": [
+            "1514484000"
         ]
     }, 
     "Session:Flunkyball# 23212d5a2e2bea16f350e71d5a07a456": {
@@ -6097,7 +6197,7 @@
         ], 
         "Has website": [], 
         "Has description": [
-            "Wir zeigen wie man mit freier Software ansprechende Let's Plays gestalten kann. In der Planung sind Let's Plays f\u00fcr Minecraft und dem Worldpainter f\u00fcr Minecraft Welten! Es gehen aber auch alle anderen bereits installierten Spiele, die gerne gespielt werden! Kinder ab 10 Jahren, die gerne ihre eigenen let's Plays erstellen m\u00f6chten! Maximal 4-6 Kids, ausser wir bekommen noch Helfer! Wir gehen davon aus das Kids ihre eigene Ger\u00e4te mitbringen! Zur installation der Software (https://obsproject.com/) werden unter umst\u00e4nden kurz Eltern (Passort beauftragte) ben\u00f6tigt!"
+            "Wir zeigen wie man mit freier Software ansprechende Let's Plays gestalten kann. In der Planung sind Let's Plays f\u00fcr Minecraft und dem Worldpainter f\u00fcr Minecraft Welten! Es gehen aber auch alle anderen bereits installierten Spiele, die gerne gespielt werden! Kinder ab 10 Jahren, die gerne ihre eigenen let's Plays erstellen m\u00f6chten! Maximal 4-6 Kids, ausser wir bekommen noch Helfer! Wir gehen davon aus das Kids ihre eigene Ger\u00e4te mitbringen! \n\nDie Software kann unter folgenden Quellen geladen und anschlie\u00dfend installiert werden:\n\n* Screenrecording Software https://obsproject.com/ (Linux,OSX und Windows)\n* Freie Bildbearbeitungssoftware https://www.gimp.org/ (Linux,OSX und Windows)\n\nF\u00fcr die Installation ist ein Administratopasswort des Rechners ben\u00f6tigt."
         ], 
         "Has session type": [
             "Workshop"
@@ -8194,52 +8294,6 @@
             "1514409300"
         ]
     }, 
-    "Session:Throwies# e27ebec0de39dbae7585138a3b649bff": {
-        "Held in language": [
-            "de - German"
-        ], 
-        "Has start time": [
-            "1514376000"
-        ], 
-        "Has event track": [
-            "Session"
-        ], 
-        "Has website": [], 
-        "Has description": [
-            "Ein Throwie ist eine LED, die durch eine Knopfzellenbatterie zum Leuchten gebracht wird und an die man einen Magneten klebt."
-        ], 
-        "Has session type": [
-            "Hands-On"
-        ], 
-        "Has session location": [
-            {
-                "fulltext": "Room:Kidspace", 
-                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Room:Kidspace", 
-                "namespace": 516, 
-                "exists": true
-            }
-        ], 
-        "Has subtitle": [
-            "Throwies Basteln"
-        ], 
-        "Is organized by": [], 
-        "Has title": [
-            "Throwies"
-        ], 
-        "Has duration": [
-            360
-        ], 
-        "GUID": [
-            "970319ef-2202-480f-ab77-12ebd1a901c2"
-        ], 
-        "Has color": [
-            "#0099ab"
-        ], 
-        "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:Throwies", 
-        "Has end time": [
-            "1514397600"
-        ]
-    }, 
     "Session:How to make chiptune with a Game Boy DMG# 6223ac61875bb7990ff445b2b89d174f": {
         "Held in language": [
             "en - English"
@@ -9281,7 +9335,7 @@
         ], 
         "Has website": [], 
         "Has description": [
-            "Wir zeigen wie man mit freier Software ansprechende Let's Plays gestalten kann. In der Planung sind Let's Plays f\u00fcr Minecraft und dem Worldpainter f\u00fcr Minecraft Welten! Es gehen aber auch alle anderen bereits installierten Spiele, die gerne gespielt werden! Kinder ab 10 Jahren, die gerne ihre eigenen let's Plays erstellen m\u00f6chten! Maximal 4-6 Kids, ausser wir bekommen noch Helfer! Wir gehen davon aus das Kids ihre eigene Ger\u00e4te mitbringen! Zur installation der Software (https://obsproject.com/) werden unter umst\u00e4nden kurz Eltern (Passort beauftragte) ben\u00f6tigt!"
+            "Wir zeigen wie man mit freier Software ansprechende Let's Plays gestalten kann. In der Planung sind Let's Plays f\u00fcr Minecraft und dem Worldpainter f\u00fcr Minecraft Welten! Es gehen aber auch alle anderen bereits installierten Spiele, die gerne gespielt werden! Kinder ab 10 Jahren, die gerne ihre eigenen let's Plays erstellen m\u00f6chten! Maximal 4-6 Kids, ausser wir bekommen noch Helfer! Wir gehen davon aus das Kids ihre eigene Ger\u00e4te mitbringen! \n\nDie Software kann unter folgenden Quellen geladen und anschlie\u00dfend installiert werden:\n\n* Screenrecording Software https://obsproject.com/ (Linux,OSX und Windows)\n* Freie Bildbearbeitungssoftware https://www.gimp.org/ (Linux,OSX und Windows)\n\nF\u00fcr die Installation ist ein Administratopasswort des Rechners ben\u00f6tigt."
         ], 
         "Has session type": [
             "Workshop"
@@ -10146,53 +10200,6 @@
         "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:Letter_writing_to_prisoners,_sitting_in_jail_for_hacking", 
         "Has end time": [
             "1514465100"
-        ]
-    }, 
-    "Session:Rights&Freedoms# fad59535ab20a100c6f2fee90ad83afd": {
-        "Held in language": [
-            "de - German", 
-            "en - English"
-        ], 
-        "Has start time": [
-            "1514574000"
-        ], 
-        "Has event track": [
-            "Session"
-        ], 
-        "Has website": [], 
-        "Has description": [
-            "Rights & Freedoms Cluster Stage Programme"
-        ], 
-        "Has session type": [
-            "Talk"
-        ], 
-        "Has session location": [
-            {
-                "fulltext": "Room:CCL Hall 3", 
-                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Room:CCL_Hall_3", 
-                "namespace": 516, 
-                "exists": true
-            }
-        ], 
-        "Has subtitle": [
-            "[https://events.ccc.de/congress/2017/wiki/index.php/Session:Public_Money%3F_Public_Code! Public money? Public code!] (Polina Malaja and Katharina Nocun)"
-        ], 
-        "Is organized by": [], 
-        "Has title": [
-            "Rights&Freedoms"
-        ], 
-        "Has duration": [
-            60
-        ], 
-        "GUID": [
-            "4f988987-df21-4bd4-a494-bf5fff3c3f42"
-        ], 
-        "Has color": [
-            "#0099ab"
-        ], 
-        "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:Rights%26Freedoms", 
-        "Has end time": [
-            "1514577600"
         ]
     }, 
     "Session:A/V Angel Meeting# cfae41ef06cf48c907d63a56a72f8e52": {
@@ -15618,13 +15625,13 @@
             "1514584800"
         ]
     }, 
-    "Session:Rights&Freedoms# 9233046959c118f4e37e87b811773ec8": {
+    "Session:Rights&Freedoms# fad59535ab20a100c6f2fee90ad83afd": {
         "Held in language": [
             "de - German", 
             "en - English"
         ], 
         "Has start time": [
-            "1514489400"
+            "1514574000"
         ], 
         "Has event track": [
             "Session"
@@ -15645,24 +15652,24 @@
             }
         ], 
         "Has subtitle": [
-            "Algorithmic transaprency (EFF)"
+            "[https://events.ccc.de/congress/2017/wiki/index.php/Session:Public_Money%3F_Public_Code! Public money? Public code!] (Polina Malaja and Katharina Nocun)"
         ], 
         "Is organized by": [], 
         "Has title": [
             "Rights&Freedoms"
         ], 
         "Has duration": [
-            30
+            60
         ], 
         "GUID": [
-            "23c6fca0-a450-47cf-8e39-888514b76355"
+            "4f988987-df21-4bd4-a494-bf5fff3c3f42"
         ], 
         "Has color": [
             "#0099ab"
         ], 
         "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:Rights%26Freedoms", 
         "Has end time": [
-            "1514491200"
+            "1514577600"
         ]
     }, 
     "Session:Howto Let's Play# 070fe8a455a900a9238622b6c1bea2bb": {
