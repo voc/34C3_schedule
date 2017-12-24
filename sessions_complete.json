@@ -2426,7 +2426,20 @@
             }
         ], 
         "Has subtitle": [], 
-        "Is organized by": [], 
+        "Is organized by": [
+            {
+                "fulltext": "User:Grothoff", 
+                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/User:Grothoff", 
+                "namespace": 2, 
+                "exists": false
+            }, 
+            {
+                "fulltext": "User:LynX", 
+                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/User:LynX", 
+                "namespace": 2, 
+                "exists": true
+            }
+        ], 
         "Has title": [
             "GNUnet e.V. annual meeting"
         ], 
@@ -15886,7 +15899,7 @@
             "http://chamapesa.com"
         ], 
         "Has description": [
-            "Current approaches on identity all fall short. Either they violate privacy or they are easy to hack. To form a distributed communtiy on the internet we need identities and trust. This talk describes how to build trustdeep community structures that provide identity. A trip from CAcert over African Chamas to blockchains"
+            "Current approaches on identity all fall short. Either they violate privacy or they are easy to hack. To form a distributed community on the internet we need identities and trust. This talk describes how to build trust-deep community structures that provide identity. A trip from CAcert over African Chamas to blockchains"
         ], 
         "Has session type": [
             "Talk"
