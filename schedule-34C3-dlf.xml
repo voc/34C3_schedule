@@ -1,0 +1,407 @@
+<schedule>
+  <version>undefined</version>
+  <conference>
+    <title>34C3 – DLF</title>
+    <acronym>34C3-dlf</acronym>
+    <days>4</days>
+    <start>2017-12-27</start>
+    <end>2017-12-30</end>
+    <timeslot_duration>00:15</timeslot_duration>
+  </conference>
+  <day index="1" date="2017-12-27" start="2017-12-27T10:00:00" end="2017-12-28T03:00:00">
+    <room name="CCL Hall 2">
+      <event id="2001" guid="555f0cd8-0fe0-5213-a087-c1539138aa40">
+        <date>2017-12-27T11:00:00</date>
+        <start>11:00</start>
+        <duration>0:20</duration>
+        <room>CCL Hall 2</room>
+        <slug>34C3-dlf-2001-der_34c3</slug>
+        <title>Der 34C3</title>
+        <subtitle/>
+        <track/>
+        <type/>
+        <language>de</language>
+        <abstract/>
+        <description>Interviewer: Manfred Kloiber</description>
+        <recording>
+          <optout>false</optout>
+          <license/>
+        </recording>
+        <persons>
+          <person id="0">Kloiber</person>
+        </persons>
+        <links/>
+      </event>
+      <event id="2016" guid="f9e17ca9-0980-5070-aa6c-3b556ca66211">
+        <date>2017-12-27T11:20:00</date>
+        <start>11:20</start>
+        <duration>0:25</duration>
+        <room>CCL Hall 2</room>
+        <slug>34C3-dlf-2016-der_34c3</slug>
+        <title>Der 34C3</title>
+        <subtitle/>
+        <track/>
+        <type/>
+        <language>de</language>
+        <abstract/>
+        <description>Interviewer: Adalbert Siniawski</description>
+        <recording>
+          <optout>false</optout>
+          <license/>
+        </recording>
+        <persons>
+          <person id="0">Sinawski</person>
+        </persons>
+        <links/>
+      </event>
+      <event id="2013" guid="26226d1d-a08d-55b3-b295-9434c811b24a">
+        <date>2017-12-27T12:00:00</date>
+        <start>12:00</start>
+        <duration>0:15</duration>
+        <room>CCL Hall 2</room>
+        <slug>34C3-dlf-2013-interview</slug>
+        <title>Interview</title>
+        <subtitle/>
+        <track/>
+        <type/>
+        <language>de</language>
+        <abstract/>
+        <description>Interviewer: Jan Rähm</description>
+        <recording>
+          <optout>false</optout>
+          <license/>
+        </recording>
+        <persons>
+          <person id="0">Rähm</person>
+        </persons>
+        <links/>
+      </event>
+      <event id="2014" guid="31370b42-b65b-5860-8bd2-12dc9ccb7b5d">
+        <date>2017-12-27T12:15:00</date>
+        <start>12:15</start>
+        <duration>0:15</duration>
+        <room>CCL Hall 2</room>
+        <slug>34C3-dlf-2014-interview</slug>
+        <title>Interview</title>
+        <subtitle/>
+        <track/>
+        <type/>
+        <language>de</language>
+        <abstract/>
+        <description>Interviewer: Jan Rähm</description>
+        <recording>
+          <optout>false</optout>
+          <license/>
+        </recording>
+        <persons>
+          <person id="0">Rähm</person>
+        </persons>
+        <links/>
+      </event>
+      <event id="2002" guid="c7e392d4-78d7-501f-82e8-4ae026411861">
+        <date>2017-12-27T14:00:00</date>
+        <start>14:00</start>
+        <duration>1:00</duration>
+        <room>CCL Hall 2</room>
+        <slug>34C3-dlf-2002-erfolgsstory_oder_armutszeugnis_breitbandpolitik_in_deutschland</slug>
+        <title>Erfolgsstory oder Armutszeugnis - Breitbandpolitik in Deutschland</title>
+        <subtitle/>
+        <track/>
+        <type/>
+        <language>de</language>
+        <abstract/>
+        <description>Es diskutieren:
+Falk Garbsch ("Nexus"), Sprecher Chaos Computer Club 
+Thomas Jarzombek, netzpolitischer Sprecher der CDU/CSU-Bundestagsfraktion 
+Peter Welchering, Journalist
+Mischa Woitscheck, Geschäftsführer des Sächsischen Städte- und Gemeindetages
+
+Moderation: Manfred Kloiber</description>
+        <recording>
+          <optout>false</optout>
+          <license/>
+        </recording>
+        <persons>
+          <person id="0">Kloiber</person>
+          <person id="0">Welchering</person>
+        </persons>
+        <links/>
+      </event>
+      <event id="2015" guid="616cbc52-8390-54ea-8839-3af7790e11d1">
+        <date>2017-12-27T16:05:00</date>
+        <start>16:05</start>
+        <duration>0:25</duration>
+        <room>CCL Hall 2</room>
+        <slug>34C3-dlf-2015-live_beitrag_in_leonardo</slug>
+        <title>Live-Beitrag in Leonardo</title>
+        <subtitle/>
+        <track/>
+        <type/>
+        <language>de</language>
+        <abstract/>
+        <description>Reporter: Jan Rähm</description>
+        <recording>
+          <optout>false</optout>
+          <license/>
+        </recording>
+        <persons>
+          <person id="0">Rähm</person>
+        </persons>
+        <links/>
+      </event>
+      <event id="2003" guid="0e9a7526-0bf6-533d-8f83-94e4d1fb4d8f">
+        <date>2017-12-27T16:35:00</date>
+        <start>16:35</start>
+        <duration>0:25</duration>
+        <room>CCL Hall 2</room>
+        <slug>34C3-dlf-2003-live_beitrag_in_forschung_aktuell</slug>
+        <title>Live-Beitrag in Forschung Aktuell</title>
+        <subtitle/>
+        <track/>
+        <type/>
+        <language>de</language>
+        <abstract/>
+        <description>Reporter: Manfred Kloiber</description>
+        <recording>
+          <optout>false</optout>
+          <license/>
+        </recording>
+        <persons>
+          <person id="0">Kloiber</person>
+        </persons>
+        <links/>
+      </event>
+      <event id="2004" guid="528e7ef5-72c6-55d1-9c21-3920add376a1">
+        <date>2017-12-27T17:00:00</date>
+        <start>17:00</start>
+        <duration>1:00</duration>
+        <room>CCL Hall 2</room>
+        <slug>34C3-dlf-2004-studiogespraech</slug>
+        <title>Studiogespräch</title>
+        <subtitle/>
+        <track/>
+        <type/>
+        <language>de</language>
+        <abstract/>
+        <description>Reporter: Manfred Kloiber</description>
+        <recording>
+          <optout>false</optout>
+          <license/>
+        </recording>
+        <persons>
+          <person id="0">Kloiber</person>
+          <person id="0">Welchering</person>
+          <person id="0">Rähm</person>
+        </persons>
+        <links/>
+      </event>
+    </room>
+  </day>
+  <day index="2" date="2017-12-28" start="2017-12-28T10:00:00" end="2017-12-29T03:00:00">
+    <room name="CCL Hall 2">
+      <event id="2005" guid="531e5d6b-bb6a-5f91-b3cc-ac67734ae70f">
+        <date>2017-12-28T10:10:00</date>
+        <start>10:10</start>
+        <duration>1:20</duration>
+        <room>CCL Hall 2</room>
+        <slug>34C3-dlf-2005-_progmmieren_lernen_mit_raspberry_pi_und_co_</slug>
+        <title>"Progmmieren lernen mit Raspberry Pi und Co."</title>
+        <subtitle/>
+        <track/>
+        <type/>
+        <language>de</language>
+        <abstract/>
+        <description>mit
+Sylvia Fohrer, IT/Programmleitung VHS Hamburg
+Dirk Engling (Erdgeist), Chaos Computer Club
+Prof. Dr. Ludger Humbert, Didaktik der Informatiik, UNI Wuppertal,
+Zuschaltung WDR Dortmund
+Jan Rähm, IT-Journalist, Deutschlandfunk
+
+Moderation: Manfred Kloiber</description>
+        <recording>
+          <optout>false</optout>
+          <license/>
+        </recording>
+        <persons>
+          <person id="0">Kloiber</person>
+          <person id="0">Rähm</person>
+        </persons>
+        <links/>
+      </event>
+      <event id="2006" guid="c722d326-9297-5528-a7dd-6645ead7e8b1">
+        <date>2017-12-28T13:00:00</date>
+        <start>13:00</start>
+        <duration>0:30</duration>
+        <room>CCL Hall 2</room>
+        <slug>34C3-dlf-2006-interview_mit_kathrin_meuthen_von_deloitte</slug>
+        <title>Interview mit Kathrin Meuthen von deloitte</title>
+        <subtitle/>
+        <track/>
+        <type/>
+        <language>de</language>
+        <abstract/>
+        <description>Interviewer: Peter Welchering</description>
+        <recording>
+          <optout>false</optout>
+          <license/>
+        </recording>
+        <persons>
+          <person id="0">Welchering mit Meuthen von deloitte</person>
+        </persons>
+        <links/>
+      </event>
+      <event id="2007" guid="4f5a4ab1-ab30-5729-8b05-8865a475dd8e">
+        <date>2017-12-28T16:35:00</date>
+        <start>16:35</start>
+        <duration>0:25</duration>
+        <room>CCL Hall 2</room>
+        <slug>34C3-dlf-2007-live_beitrag_in_forschung_aktuell</slug>
+        <title>Live-Beitrag in Forschung Aktuell</title>
+        <subtitle/>
+        <track/>
+        <type/>
+        <language>de</language>
+        <abstract/>
+        <description>Reporter: Peter Welchering</description>
+        <recording>
+          <optout>false</optout>
+          <license/>
+        </recording>
+        <persons>
+          <person id="0">Welchering</person>
+        </persons>
+        <links/>
+      </event>
+      <event id="2008" guid="3b865956-5400-5ec4-81b0-028abf9495aa">
+        <date>2017-12-28T17:00:00</date>
+        <start>17:00</start>
+        <duration>1:00</duration>
+        <room>CCL Hall 2</room>
+        <slug>34C3-dlf-2008-studiogespraech</slug>
+        <title>Studiogespräch</title>
+        <subtitle/>
+        <track/>
+        <type/>
+        <language>de</language>
+        <abstract/>
+        <description>Reporter: Peter Welchering</description>
+        <recording>
+          <optout>false</optout>
+          <license/>
+        </recording>
+        <persons>
+          <person id="0">Kloiber</person>
+          <person id="0">Welchering</person>
+          <person id="0">Rähm</person>
+        </persons>
+        <links/>
+      </event>
+    </room>
+  </day>
+  <day index="3" date="2017-12-29" start="2017-12-29T10:00:00" end="2017-12-30T03:00:00">
+    <room name="CCL Hall 2">
+      <event id="2009" guid="1481e306-80a7-5abd-842c-177422a47468">
+        <date>2017-12-29T16:35:00</date>
+        <start>16:35</start>
+        <duration>0:25</duration>
+        <room>CCL Hall 2</room>
+        <slug>34C3-dlf-2009-live_beitrag_in_forschung_aktuell</slug>
+        <title>Live-Beitrag in Forschung Aktuell</title>
+        <subtitle/>
+        <track/>
+        <type/>
+        <language>de</language>
+        <abstract/>
+        <description>Reporter: Jan Rähm</description>
+        <recording>
+          <optout>false</optout>
+          <license/>
+        </recording>
+        <persons>
+          <person id="0">Rähm</person>
+        </persons>
+        <links/>
+      </event>
+      <event id="2010" guid="996b43ab-9f4c-5e9e-bdb7-9c0b7ab7bf48">
+        <date>2017-12-29T17:00:00</date>
+        <start>17:00</start>
+        <duration>1:00</duration>
+        <room>CCL Hall 2</room>
+        <slug>34C3-dlf-2010-studiogespraech</slug>
+        <title>Studiogespräch</title>
+        <subtitle/>
+        <track/>
+        <type/>
+        <language>de</language>
+        <abstract/>
+        <description>Reporter: Jan Rähm</description>
+        <recording>
+          <optout>false</optout>
+          <license/>
+        </recording>
+        <persons>
+          <person id="0">Kloiber</person>
+          <person id="0">Welchering</person>
+          <person id="0">Rähm</person>
+        </persons>
+        <links/>
+      </event>
+    </room>
+  </day>
+  <day index="4" date="2017-12-30" start="2017-12-30T10:00:00" end="2017-12-31T03:00:00">
+    <room name="CCL Hall 2">
+      <event id="2011" guid="1c73c759-0d3b-501e-a07d-82ea10e9f40c">
+        <date>2017-12-30T13:05:00</date>
+        <start>13:05</start>
+        <duration>0:55</duration>
+        <room>CCL Hall 2</room>
+        <slug>34C3-dlf-2011-dlf_kultur_breitband</slug>
+        <title>Dlf Kultur - Breitband</title>
+        <subtitle/>
+        <track/>
+        <type/>
+        <language>de</language>
+        <abstract/>
+        <description>Reporter: Jan Rähm</description>
+        <recording>
+          <optout>false</optout>
+          <license/>
+        </recording>
+        <persons>
+          <person id="0">Wuttke</person>
+        </persons>
+        <links/>
+      </event>
+      <event id="2012" guid="bdf00168-ed69-5809-9916-a89d109c9b2c">
+        <date>2017-12-30T14:15:00</date>
+        <start>14:15</start>
+        <duration>0:30</duration>
+        <room>CCL Hall 2</room>
+        <slug>34C3-dlf-2012-_tuwat_der_34c3_in_leipzig</slug>
+        <title>"tuwat!" - Der 34C3 in Leipzig</title>
+        <subtitle/>
+        <track/>
+        <type/>
+        <language>de</language>
+        <abstract/>
+        <description>mit:
+Constanze Kurz, Chaos Computer Club
+Jan Rähm, Deutschlandfunk
+Peter welchering, Deutschlandfunk
+
+Moderation: Manfred Kloiber</description>
+        <recording>
+          <optout>false</optout>
+          <license/>
+        </recording>
+        <persons>
+          <person id="0">Kloiber</person>
+          <person id="0">Welchering</person>
+          <person id="0">Rähm</person>
+        </persons>
+        <links/>
+      </event>
+    </room>
+  </day>
+</schedule>

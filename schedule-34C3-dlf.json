@@ -1,0 +1,479 @@
+{
+    "schedule": {
+        "version": "undefined",
+        "conference": {
+            "title": "34C3 \u2013 DLF",
+            "acronym": "34C3-dlf",
+            "daysCount": 4,
+            "start": "2017-12-27",
+            "end": "2017-12-30",
+            "timeslot_duration": "00:15",
+            "days": [
+                {
+                    "index": 0,
+                    "date": "2017-12-27",
+                    "start": "2017-12-27T10:00:00",
+                    "end": "2017-12-28T03:00:00",
+                    "rooms": {
+                        "CCL Hall 2": [
+                            {
+                                "id": "2001",
+                                "guid": "555f0cd8-0fe0-5213-a087-c1539138aa40",
+                                "date": "2017-12-27T11:00:00",
+                                "start": "11:00",
+                                "duration": "0:20",
+                                "room": "CCL Hall 2",
+                                "slug": "34C3-dlf-2001-der_34c3",
+                                "title": "Der 34C3",
+                                "subtitle": "",
+                                "track": "",
+                                "type": "",
+                                "language": "de",
+                                "abstract": "",
+                                "description": "Interviewer: Manfred Kloiber",
+                                "do_not_record": false,
+                                "persons": [
+                                    {
+                                        "id": 0,
+                                        "full_public_name": "Kloiber"
+                                    }
+                                ],
+                                "links": []
+                            },
+                            {
+                                "id": "2016",
+                                "guid": "f9e17ca9-0980-5070-aa6c-3b556ca66211",
+                                "date": "2017-12-27T11:20:00",
+                                "start": "11:20",
+                                "duration": "0:25",
+                                "room": "CCL Hall 2",
+                                "slug": "34C3-dlf-2016-der_34c3",
+                                "title": "Der 34C3",
+                                "subtitle": "",
+                                "track": "",
+                                "type": "",
+                                "language": "de",
+                                "abstract": "",
+                                "description": "Interviewer: Adalbert Siniawski",
+                                "do_not_record": false,
+                                "persons": [
+                                    {
+                                        "id": 0,
+                                        "full_public_name": "Sinawski"
+                                    }
+                                ],
+                                "links": []
+                            },
+                            {
+                                "id": "2013",
+                                "guid": "26226d1d-a08d-55b3-b295-9434c811b24a",
+                                "date": "2017-12-27T12:00:00",
+                                "start": "12:00",
+                                "duration": "0:15",
+                                "room": "CCL Hall 2",
+                                "slug": "34C3-dlf-2013-interview",
+                                "title": "Interview",
+                                "subtitle": "",
+                                "track": "",
+                                "type": "",
+                                "language": "de",
+                                "abstract": "",
+                                "description": "Interviewer: Jan R\u00e4hm",
+                                "do_not_record": false,
+                                "persons": [
+                                    {
+                                        "id": 0,
+                                        "full_public_name": "R\u00e4hm"
+                                    }
+                                ],
+                                "links": []
+                            },
+                            {
+                                "id": "2014",
+                                "guid": "31370b42-b65b-5860-8bd2-12dc9ccb7b5d",
+                                "date": "2017-12-27T12:15:00",
+                                "start": "12:15",
+                                "duration": "0:15",
+                                "room": "CCL Hall 2",
+                                "slug": "34C3-dlf-2014-interview",
+                                "title": "Interview",
+                                "subtitle": "",
+                                "track": "",
+                                "type": "",
+                                "language": "de",
+                                "abstract": "",
+                                "description": "Interviewer: Jan R\u00e4hm",
+                                "do_not_record": false,
+                                "persons": [
+                                    {
+                                        "id": 0,
+                                        "full_public_name": "R\u00e4hm"
+                                    }
+                                ],
+                                "links": []
+                            },
+                            {
+                                "id": "2002",
+                                "guid": "c7e392d4-78d7-501f-82e8-4ae026411861",
+                                "date": "2017-12-27T14:00:00",
+                                "start": "14:00",
+                                "duration": "1:00",
+                                "room": "CCL Hall 2",
+                                "slug": "34C3-dlf-2002-erfolgsstory_oder_armutszeugnis_breitbandpolitik_in_deutschland",
+                                "title": "Erfolgsstory oder Armutszeugnis - Breitbandpolitik in Deutschland",
+                                "subtitle": "",
+                                "track": "",
+                                "type": "",
+                                "language": "de",
+                                "abstract": "",
+                                "description": "Es diskutieren:\nFalk Garbsch (\"Nexus\"), Sprecher Chaos Computer Club \nThomas Jarzombek,\u00a0netzpolitischer Sprecher der CDU/CSU-Bundestagsfraktion \nPeter Welchering, Journalist\nMischa Woitscheck, Gesch\u00e4ftsf\u00fchrer des S\u00e4chsischen St\u00e4dte- und Gemeindetages\n\nModeration: Manfred Kloiber",
+                                "do_not_record": false,
+                                "persons": [
+                                    {
+                                        "id": 0,
+                                        "full_public_name": "Kloiber"
+                                    },
+                                    {
+                                        "id": 0,
+                                        "full_public_name": "Welchering"
+                                    }
+                                ],
+                                "links": []
+                            },
+                            {
+                                "id": "2015",
+                                "guid": "616cbc52-8390-54ea-8839-3af7790e11d1",
+                                "date": "2017-12-27T16:05:00",
+                                "start": "16:05",
+                                "duration": "0:25",
+                                "room": "CCL Hall 2",
+                                "slug": "34C3-dlf-2015-live_beitrag_in_leonardo",
+                                "title": "Live-Beitrag in Leonardo",
+                                "subtitle": "",
+                                "track": "",
+                                "type": "",
+                                "language": "de",
+                                "abstract": "",
+                                "description": "Reporter: Jan R\u00e4hm",
+                                "do_not_record": false,
+                                "persons": [
+                                    {
+                                        "id": 0,
+                                        "full_public_name": "R\u00e4hm"
+                                    }
+                                ],
+                                "links": []
+                            },
+                            {
+                                "id": "2003",
+                                "guid": "0e9a7526-0bf6-533d-8f83-94e4d1fb4d8f",
+                                "date": "2017-12-27T16:35:00",
+                                "start": "16:35",
+                                "duration": "0:25",
+                                "room": "CCL Hall 2",
+                                "slug": "34C3-dlf-2003-live_beitrag_in_forschung_aktuell",
+                                "title": "Live-Beitrag in Forschung Aktuell",
+                                "subtitle": "",
+                                "track": "",
+                                "type": "",
+                                "language": "de",
+                                "abstract": "",
+                                "description": "Reporter: Manfred Kloiber",
+                                "do_not_record": false,
+                                "persons": [
+                                    {
+                                        "id": 0,
+                                        "full_public_name": "Kloiber"
+                                    }
+                                ],
+                                "links": []
+                            },
+                            {
+                                "id": "2004",
+                                "guid": "528e7ef5-72c6-55d1-9c21-3920add376a1",
+                                "date": "2017-12-27T17:00:00",
+                                "start": "17:00",
+                                "duration": "1:00",
+                                "room": "CCL Hall 2",
+                                "slug": "34C3-dlf-2004-studiogespraech",
+                                "title": "Studiogespr\u00e4ch",
+                                "subtitle": "",
+                                "track": "",
+                                "type": "",
+                                "language": "de",
+                                "abstract": "",
+                                "description": "Reporter: Manfred Kloiber",
+                                "do_not_record": false,
+                                "persons": [
+                                    {
+                                        "id": 0,
+                                        "full_public_name": "Kloiber"
+                                    },
+                                    {
+                                        "id": 0,
+                                        "full_public_name": "Welchering"
+                                    },
+                                    {
+                                        "id": 0,
+                                        "full_public_name": "R\u00e4hm"
+                                    }
+                                ],
+                                "links": []
+                            }
+                        ]
+                    }
+                },
+                {
+                    "index": 1,
+                    "date": "2017-12-28",
+                    "start": "2017-12-28T10:00:00",
+                    "end": "2017-12-29T03:00:00",
+                    "rooms": {
+                        "CCL Hall 2": [
+                            {
+                                "id": "2005",
+                                "guid": "531e5d6b-bb6a-5f91-b3cc-ac67734ae70f",
+                                "date": "2017-12-28T10:10:00",
+                                "start": "10:10",
+                                "duration": "1:20",
+                                "room": "CCL Hall 2",
+                                "slug": "34C3-dlf-2005-_progmmieren_lernen_mit_raspberry_pi_und_co_",
+                                "title": "\"Progmmieren lernen mit Raspberry Pi und Co.\"",
+                                "subtitle": "",
+                                "track": "",
+                                "type": "",
+                                "language": "de",
+                                "abstract": "",
+                                "description": "mit\nSylvia Fohrer, IT/Programmleitung VHS Hamburg\nDirk Engling (Erdgeist), Chaos Computer Club\nProf. Dr. Ludger Humbert, Didaktik der Informatiik, UNI Wuppertal,\nZuschaltung WDR Dortmund\nJan R\u00e4hm, IT-Journalist, Deutschlandfunk\n\nModeration: Manfred Kloiber",
+                                "do_not_record": false,
+                                "persons": [
+                                    {
+                                        "id": 0,
+                                        "full_public_name": "Kloiber"
+                                    },
+                                    {
+                                        "id": 0,
+                                        "full_public_name": "R\u00e4hm"
+                                    }
+                                ],
+                                "links": []
+                            },
+                            {
+                                "id": "2006",
+                                "guid": "c722d326-9297-5528-a7dd-6645ead7e8b1",
+                                "date": "2017-12-28T13:00:00",
+                                "start": "13:00",
+                                "duration": "0:30",
+                                "room": "CCL Hall 2",
+                                "slug": "34C3-dlf-2006-interview_mit_kathrin_meuthen_von_deloitte",
+                                "title": "Interview mit Kathrin Meuthen von deloitte",
+                                "subtitle": "",
+                                "track": "",
+                                "type": "",
+                                "language": "de",
+                                "abstract": "",
+                                "description": "Interviewer: Peter Welchering",
+                                "do_not_record": false,
+                                "persons": [
+                                    {
+                                        "id": 0,
+                                        "full_public_name": "Welchering mit Meuthen von deloitte"
+                                    }
+                                ],
+                                "links": []
+                            },
+                            {
+                                "id": "2007",
+                                "guid": "4f5a4ab1-ab30-5729-8b05-8865a475dd8e",
+                                "date": "2017-12-28T16:35:00",
+                                "start": "16:35",
+                                "duration": "0:25",
+                                "room": "CCL Hall 2",
+                                "slug": "34C3-dlf-2007-live_beitrag_in_forschung_aktuell",
+                                "title": "Live-Beitrag in Forschung Aktuell",
+                                "subtitle": "",
+                                "track": "",
+                                "type": "",
+                                "language": "de",
+                                "abstract": "",
+                                "description": "Reporter: Peter Welchering",
+                                "do_not_record": false,
+                                "persons": [
+                                    {
+                                        "id": 0,
+                                        "full_public_name": "Welchering"
+                                    }
+                                ],
+                                "links": []
+                            },
+                            {
+                                "id": "2008",
+                                "guid": "3b865956-5400-5ec4-81b0-028abf9495aa",
+                                "date": "2017-12-28T17:00:00",
+                                "start": "17:00",
+                                "duration": "1:00",
+                                "room": "CCL Hall 2",
+                                "slug": "34C3-dlf-2008-studiogespraech",
+                                "title": "Studiogespr\u00e4ch",
+                                "subtitle": "",
+                                "track": "",
+                                "type": "",
+                                "language": "de",
+                                "abstract": "",
+                                "description": "Reporter: Peter Welchering",
+                                "do_not_record": false,
+                                "persons": [
+                                    {
+                                        "id": 0,
+                                        "full_public_name": "Kloiber"
+                                    },
+                                    {
+                                        "id": 0,
+                                        "full_public_name": "Welchering"
+                                    },
+                                    {
+                                        "id": 0,
+                                        "full_public_name": "R\u00e4hm"
+                                    }
+                                ],
+                                "links": []
+                            }
+                        ]
+                    }
+                },
+                {
+                    "index": 2,
+                    "date": "2017-12-29",
+                    "start": "2017-12-29T10:00:00",
+                    "end": "2017-12-30T03:00:00",
+                    "rooms": {
+                        "CCL Hall 2": [
+                            {
+                                "id": "2009",
+                                "guid": "1481e306-80a7-5abd-842c-177422a47468",
+                                "date": "2017-12-29T16:35:00",
+                                "start": "16:35",
+                                "duration": "0:25",
+                                "room": "CCL Hall 2",
+                                "slug": "34C3-dlf-2009-live_beitrag_in_forschung_aktuell",
+                                "title": "Live-Beitrag in Forschung Aktuell",
+                                "subtitle": "",
+                                "track": "",
+                                "type": "",
+                                "language": "de",
+                                "abstract": "",
+                                "description": "Reporter: Jan R\u00e4hm",
+                                "do_not_record": false,
+                                "persons": [
+                                    {
+                                        "id": 0,
+                                        "full_public_name": "R\u00e4hm"
+                                    }
+                                ],
+                                "links": []
+                            },
+                            {
+                                "id": "2010",
+                                "guid": "996b43ab-9f4c-5e9e-bdb7-9c0b7ab7bf48",
+                                "date": "2017-12-29T17:00:00",
+                                "start": "17:00",
+                                "duration": "1:00",
+                                "room": "CCL Hall 2",
+                                "slug": "34C3-dlf-2010-studiogespraech",
+                                "title": "Studiogespr\u00e4ch",
+                                "subtitle": "",
+                                "track": "",
+                                "type": "",
+                                "language": "de",
+                                "abstract": "",
+                                "description": "Reporter: Jan R\u00e4hm",
+                                "do_not_record": false,
+                                "persons": [
+                                    {
+                                        "id": 0,
+                                        "full_public_name": "Kloiber"
+                                    },
+                                    {
+                                        "id": 0,
+                                        "full_public_name": "Welchering"
+                                    },
+                                    {
+                                        "id": 0,
+                                        "full_public_name": "R\u00e4hm"
+                                    }
+                                ],
+                                "links": []
+                            }
+                        ]
+                    }
+                },
+                {
+                    "index": 3,
+                    "date": "2017-12-30",
+                    "start": "2017-12-30T10:00:00",
+                    "end": "2017-12-31T03:00:00",
+                    "rooms": {
+                        "CCL Hall 2": [
+                            {
+                                "id": "2011",
+                                "guid": "1c73c759-0d3b-501e-a07d-82ea10e9f40c",
+                                "date": "2017-12-30T13:05:00",
+                                "start": "13:05",
+                                "duration": "0:55",
+                                "room": "CCL Hall 2",
+                                "slug": "34C3-dlf-2011-dlf_kultur_breitband",
+                                "title": "Dlf Kultur - Breitband",
+                                "subtitle": "",
+                                "track": "",
+                                "type": "",
+                                "language": "de",
+                                "abstract": "",
+                                "description": "Reporter: Jan R\u00e4hm",
+                                "do_not_record": false,
+                                "persons": [
+                                    {
+                                        "id": 0,
+                                        "full_public_name": "Wuttke"
+                                    }
+                                ],
+                                "links": []
+                            },
+                            {
+                                "id": "2012",
+                                "guid": "bdf00168-ed69-5809-9916-a89d109c9b2c",
+                                "date": "2017-12-30T14:15:00",
+                                "start": "14:15",
+                                "duration": "0:30",
+                                "room": "CCL Hall 2",
+                                "slug": "34C3-dlf-2012-_tuwat_der_34c3_in_leipzig",
+                                "title": "\"tuwat!\" - Der 34C3 in Leipzig",
+                                "subtitle": "",
+                                "track": "",
+                                "type": "",
+                                "language": "de",
+                                "abstract": "",
+                                "description": "mit:\nConstanze Kurz, Chaos Computer Club\nJan R\u00e4hm, Deutschlandfunk\nPeter welchering, Deutschlandfunk\n\nModeration: Manfred Kloiber",
+                                "do_not_record": false,
+                                "persons": [
+                                    {
+                                        "id": 0,
+                                        "full_public_name": "Kloiber"
+                                    },
+                                    {
+                                        "id": 0,
+                                        "full_public_name": "Welchering"
+                                    },
+                                    {
+                                        "id": 0,
+                                        "full_public_name": "R\u00e4hm"
+                                    }
+                                ],
+                                "links": []
+                            }
+                        ]
+                    }
+                }
+            ]
+        }
+    }
+}
