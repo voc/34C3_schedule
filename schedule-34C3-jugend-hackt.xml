@@ -1,0 +1,501 @@
+<schedule>
+  <version>0.8</version>
+  <conference>
+    <title>34C3 – Jugend hackt</title>
+    <acronym>34C3-jugend-hackt</acronym>
+    <days>4</days>
+    <start>2017-12-27</start>
+    <end>2017-12-30</end>
+    <timeslot_duration>00:15</timeslot_duration>
+  </conference>
+  <day index="1" date="2017-12-27" start="2017-12-27T10:00:00" end="2017-12-28T03:00:00">
+    <room name="Esszimmer">
+      <event id="1010" guid="8baea51d-6c66-55dc-ad37-92ec9ea924cb">
+        <date>2017-12-27T13:00:00</date>
+        <start>13:00</start>
+        <duration>1:45</duration>
+        <room>Esszimmer</room>
+        <slug>34C3-jugend-hackt-1010-howto_let_s_play</slug>
+        <title>Howto Let's Play</title>
+        <subtitle/>
+        <track/>
+        <type/>
+        <language>de</language>
+        <abstract/>
+        <description/>
+        <recording>
+          <optout>false</optout>
+          <license/>
+        </recording>
+        <persons>
+          <person id="0">Bernd</person>
+          <person id="0">Ralf (CMS)</person>
+        </persons>
+        <links/>
+      </event>
+      <event id="1012" guid="9afbee6b-dea2-57b5-86e6-f5c7064711c4">
+        <date>2017-12-27T15:00:00</date>
+        <start>15:00</start>
+        <duration>0:45</duration>
+        <room>Esszimmer</room>
+        <slug>34C3-jugend-hackt-1012-introduction_to_wikidata</slug>
+        <title>Introduction to Wikidata</title>
+        <subtitle/>
+        <track/>
+        <type/>
+        <language>en</language>
+        <abstract/>
+        <description/>
+        <recording>
+          <optout>false</optout>
+          <license/>
+        </recording>
+        <persons>
+          <person id="0">Léa</person>
+        </persons>
+        <links/>
+      </event>
+      <event id="1013" guid="9d36bad8-60d8-55ca-829f-eccd6c65153d">
+        <date>2017-12-27T16:00:00</date>
+        <start>16:00</start>
+        <duration>0:45</duration>
+        <room>Esszimmer</room>
+        <slug>34C3-jugend-hackt-1013-query_wikidata_in_sparql</slug>
+        <title>Query Wikidata in SPARQL</title>
+        <subtitle/>
+        <track/>
+        <type/>
+        <language>en</language>
+        <abstract/>
+        <description/>
+        <recording>
+          <optout>false</optout>
+          <license/>
+        </recording>
+        <persons>
+          <person id="0">Lucas</person>
+        </persons>
+        <links/>
+      </event>
+      <event id="1014" guid="8a7bd529-29d2-554c-835f-3d689b7c9f4c">
+        <date>2017-12-27T17:00:00</date>
+        <start>17:00</start>
+        <duration>0:45</duration>
+        <room>Esszimmer</room>
+        <slug>34C3-jugend-hackt-1014-request_a_query</slug>
+        <title>Request a query</title>
+        <subtitle/>
+        <track/>
+        <type/>
+        <language>en</language>
+        <abstract/>
+        <description/>
+        <recording>
+          <optout>false</optout>
+          <license/>
+        </recording>
+        <persons>
+          <person id="0">Lucas</person>
+        </persons>
+        <links/>
+      </event>
+      <event id="1015" guid="64be895b-faa3-5543-b6e0-06cf4b361229">
+        <date>2017-12-27T18:00:00</date>
+        <start>18:00</start>
+        <duration>0:45</duration>
+        <room>Esszimmer</room>
+        <slug>34C3-jugend-hackt-1015-rettedeinennahverkehr</slug>
+        <title>RettedeinenNahverkehr</title>
+        <subtitle/>
+        <track/>
+        <type/>
+        <language>de</language>
+        <abstract/>
+        <description/>
+        <recording>
+          <optout>false</optout>
+          <license/>
+        </recording>
+        <persons>
+          <person id="0">Robbi5</person>
+          <person id="0">Consti</person>
+          <person id="0">Stk</person>
+          <person id="0">Walter</person>
+        </persons>
+        <links/>
+      </event>
+    </room>
+  </day>
+  <day index="2" date="2017-12-28" start="2017-12-28T10:00:00" end="2017-12-29T03:00:00">
+    <room name="Esszimmer">
+      <event id="1020" guid="71d30e88-62ae-581d-a215-1775cc78b19f">
+        <date>2017-12-28T12:00:00</date>
+        <start>12:00</start>
+        <duration>0:45</duration>
+        <room>Esszimmer</room>
+        <slug>34C3-jugend-hackt-1020-calliope_workshops</slug>
+        <title>Calliope Workshops</title>
+        <subtitle/>
+        <track/>
+        <type/>
+        <language>de</language>
+        <abstract/>
+        <description/>
+        <recording>
+          <optout>false</optout>
+          <license/>
+        </recording>
+        <persons>
+          <person id="0">derMicha</person>
+          <person id="0">Steini</person>
+        </persons>
+        <links/>
+      </event>
+      <event id="1021" guid="40315c40-c3a5-55ba-bee6-5235fd83cb3f">
+        <date>2017-12-28T14:00:00</date>
+        <start>14:00</start>
+        <duration>2:45</duration>
+        <room>Esszimmer</room>
+        <slug>34C3-jugend-hackt-1021-jugend_cryptoparty</slug>
+        <title>Jugend-CryptoParty</title>
+        <subtitle/>
+        <track/>
+        <type/>
+        <language>de</language>
+        <abstract/>
+        <description/>
+        <recording>
+          <optout>false</optout>
+          <license/>
+        </recording>
+        <persons>
+          <person id="0">Jekaterina</person>
+        </persons>
+        <links/>
+      </event>
+      <event id="1023" guid="fb28ea9f-4d1e-535a-bbc5-776b7d634653">
+        <date>2017-12-28T16:00:00</date>
+        <start>16:00</start>
+        <duration>1:45</duration>
+        <room>Esszimmer</room>
+        <slug>34C3-jugend-hackt-1023-edulabs_workshop</slug>
+        <title>edulabs-Workshop</title>
+        <subtitle/>
+        <track/>
+        <type/>
+        <language>de</language>
+        <abstract/>
+        <description/>
+        <recording>
+          <optout>false</optout>
+          <license/>
+        </recording>
+        <persons>
+          <person id="0">Markus</person>
+          <person id="0">Max</person>
+          <person id="0">Lab-leads</person>
+          <person id="0">Gäste</person>
+        </persons>
+        <links/>
+      </event>
+      <event id="1024" guid="1268f73b-b992-5380-ab7a-31eee5e66240">
+        <date>2017-12-28T19:00:00</date>
+        <start>19:00</start>
+        <duration>0:45</duration>
+        <room>Esszimmer</room>
+        <slug>34C3-jugend-hackt-1024-oparl_workshop_technisch_</slug>
+        <title>OParl-Workshop (technisch)</title>
+        <subtitle/>
+        <track/>
+        <type/>
+        <language>de</language>
+        <abstract/>
+        <description/>
+        <recording>
+          <optout>false</optout>
+          <license/>
+        </recording>
+        <persons>
+          <person id="0">OParl Team</person>
+        </persons>
+        <links/>
+      </event>
+      <event id="1025" guid="c711f3a4-7ca2-5014-8837-602dfbb3ba21">
+        <date>2017-12-28T20:00:00</date>
+        <start>20:00</start>
+        <duration>0:45</duration>
+        <room>Esszimmer</room>
+        <slug>34C3-jugend-hackt-1025-_wie_audible_magic_hacken_</slug>
+        <title>(Wie) Audible Magic hacken?</title>
+        <subtitle/>
+        <track/>
+        <type/>
+        <language>de</language>
+        <abstract/>
+        <description/>
+        <recording>
+          <optout>false</optout>
+          <license/>
+        </recording>
+        <persons>
+          <person id="0">John</person>
+        </persons>
+        <links/>
+      </event>
+      <event id="1026" guid="47585a90-c2c9-5551-8963-2ba58fbe105f">
+        <date>2017-12-28T21:00:00</date>
+        <start>21:00</start>
+        <duration>0:45</duration>
+        <room>Esszimmer</room>
+        <slug>34C3-jugend-hackt-1026-tbd</slug>
+        <title>tbd</title>
+        <subtitle/>
+        <track/>
+        <type/>
+        <language>de</language>
+        <abstract/>
+        <description/>
+        <recording>
+          <optout>false</optout>
+          <license/>
+        </recording>
+        <persons>
+          <person id="0">John</person>
+        </persons>
+        <links/>
+      </event>
+    </room>
+    <room name="Werkstatt">
+      <event id="1022" guid="83bd4b1c-1f7b-5136-8918-70bf10f925f7">
+        <date>2017-12-28T14:00:00</date>
+        <start>14:00</start>
+        <duration>2:00</duration>
+        <room>Werkstatt</room>
+        <slug>34C3-jugend-hackt-1022-alpaka_party</slug>
+        <title>Alpaka Party</title>
+        <subtitle/>
+        <track/>
+        <type/>
+        <language>de</language>
+        <abstract/>
+        <description/>
+        <recording>
+          <optout>false</optout>
+          <license/>
+        </recording>
+        <persons>
+          <person id="0">Paula</person>
+        </persons>
+        <links/>
+      </event>
+    </room>
+  </day>
+  <day index="3" date="2017-12-29" start="2017-12-29T10:00:00" end="2017-12-30T03:00:00">
+    <room name="Esszimmer">
+      <event id="1031" guid="d45ebf5f-fafd-5ac1-83ec-ef28fcbf84b5">
+        <date>2017-12-29T12:00:00</date>
+        <start>12:00</start>
+        <duration>0:45</duration>
+        <room>Esszimmer</room>
+        <slug>34C3-jugend-hackt-1031-meetup_hack_your_library</slug>
+        <title>Meetup: hack your library</title>
+        <subtitle/>
+        <track/>
+        <type/>
+        <language>en</language>
+        <abstract/>
+        <description/>
+        <recording>
+          <optout>false</optout>
+          <license/>
+        </recording>
+        <persons>
+          <person id="0">Léa</person>
+        </persons>
+        <links/>
+      </event>
+      <event id="1032" guid="e27667bf-2dd8-5feb-a70d-ecc026c43939">
+        <date>2017-12-29T13:00:00</date>
+        <start>13:00</start>
+        <duration>1:45</duration>
+        <room>Esszimmer</room>
+        <slug>34C3-jugend-hackt-1032-workshop_deanonymisierung_und_stilometrie</slug>
+        <title>Workshop Deanonymisierung und Stilometrie</title>
+        <subtitle/>
+        <track/>
+        <type/>
+        <language>en</language>
+        <abstract/>
+        <description/>
+        <recording>
+          <optout>false</optout>
+          <license/>
+        </recording>
+        <persons>
+          <person id="0">Markus</person>
+          <person id="0">Steffen Pielström</person>
+        </persons>
+        <links/>
+      </event>
+      <event id="1033" guid="a6283a1b-6e2f-587c-94d3-c8766c56d6f6">
+        <date>2017-12-29T15:00:00</date>
+        <start>15:00</start>
+        <duration>0:45</duration>
+        <room>Esszimmer</room>
+        <slug>34C3-jugend-hackt-1033-fragdenstaat_user_treffen</slug>
+        <title>FragDenStaat-User-Treffen</title>
+        <subtitle/>
+        <track/>
+        <type/>
+        <language>de</language>
+        <abstract/>
+        <description/>
+        <recording>
+          <optout>false</optout>
+          <license/>
+        </recording>
+        <persons>
+          <person id="0">Arne</person>
+        </persons>
+        <links/>
+      </event>
+      <event id="1034" guid="687e161b-8d94-5b1c-8915-bd921f8b0475">
+        <date>2017-12-29T16:00:00</date>
+        <start>16:00</start>
+        <duration>0:45</duration>
+        <room>Esszimmer</room>
+        <slug>34C3-jugend-hackt-1034-howto_let_s_play</slug>
+        <title>Howto Let's Play</title>
+        <subtitle/>
+        <track/>
+        <type/>
+        <language>de</language>
+        <abstract/>
+        <description/>
+        <recording>
+          <optout>false</optout>
+          <license/>
+        </recording>
+        <persons>
+          <person id="0">Bernd</person>
+          <person id="0">Ralf (CMS)</person>
+        </persons>
+        <links/>
+      </event>
+      <event id="1035" guid="95d4a092-e0a5-5219-b11a-2c413a249d11">
+        <date>2017-12-29T17:00:00</date>
+        <start>17:00</start>
+        <duration>0:45</duration>
+        <room>Esszimmer</room>
+        <slug>34C3-jugend-hackt-1035-introduction_to_wikidata</slug>
+        <title>Introduction to Wikidata</title>
+        <subtitle/>
+        <track/>
+        <type/>
+        <language>en</language>
+        <abstract/>
+        <description/>
+        <recording>
+          <optout>false</optout>
+          <license/>
+        </recording>
+        <persons>
+          <person id="0">Léa</person>
+        </persons>
+        <links/>
+      </event>
+      <event id="1036" guid="a547ca07-306b-5214-bcab-5e84fa18505c">
+        <date>2017-12-29T18:00:00</date>
+        <start>18:00</start>
+        <duration>0:45</duration>
+        <room>Esszimmer</room>
+        <slug>34C3-jugend-hackt-1036-query_wikidata_in_sparql</slug>
+        <title>Query Wikidata in SPARQL</title>
+        <subtitle/>
+        <track/>
+        <type/>
+        <language>en</language>
+        <abstract/>
+        <description/>
+        <recording>
+          <optout>false</optout>
+          <license/>
+        </recording>
+        <persons>
+          <person id="0">Lucas</person>
+        </persons>
+        <links/>
+      </event>
+      <event id="1037" guid="bb1c51dc-16f6-5e01-94e2-7123b6f8eb3b">
+        <date>2017-12-29T19:00:00</date>
+        <start>19:00</start>
+        <duration>0:45</duration>
+        <room>Esszimmer</room>
+        <slug>34C3-jugend-hackt-1037-request_a_query</slug>
+        <title>Request a query</title>
+        <subtitle/>
+        <track/>
+        <type/>
+        <language>en</language>
+        <abstract/>
+        <description/>
+        <recording>
+          <optout>false</optout>
+          <license/>
+        </recording>
+        <persons>
+          <person id="0">Lucas</person>
+        </persons>
+        <links/>
+      </event>
+      <event id="1038" guid="04838098-b90c-54cf-ae82-e86cbdf2f708">
+        <date>2017-12-29T20:00:00</date>
+        <start>20:00</start>
+        <duration>0:45</duration>
+        <room>Esszimmer</room>
+        <slug>34C3-jugend-hackt-1038-infrastructure_of_wikidata</slug>
+        <title>Infrastructure of Wikidata</title>
+        <subtitle/>
+        <track/>
+        <type/>
+        <language>en</language>
+        <abstract/>
+        <description/>
+        <recording>
+          <optout>false</optout>
+          <license/>
+        </recording>
+        <persons>
+          <person id="0">Daniel</person>
+        </persons>
+        <links/>
+      </event>
+    </room>
+  </day>
+  <day index="4" date="2017-12-30" start="2017-12-30T10:00:00" end="2017-12-31T03:00:00">
+    <room name="Esszimmer">
+      <event id="1044" guid="106299f6-7d81-5343-9d55-7048cd51dcbf">
+        <date>2017-12-30T14:00:00</date>
+        <start>14:00</start>
+        <duration>0:45</duration>
+        <room>Esszimmer</room>
+        <slug>34C3-jugend-hackt-1044-talk_discussion_fish_bowl_why_did_we_stop_contributing_to_knowledge_on_the_internet_</slug>
+        <title>Talk/discussion/fish bowl: Why did we stop contributing to knowledge on the internet?</title>
+        <subtitle/>
+        <track/>
+        <type/>
+        <language>en</language>
+        <abstract/>
+        <description/>
+        <recording>
+          <optout>false</optout>
+          <license/>
+        </recording>
+        <persons>
+          <person id="0">Jens</person>
+        </persons>
+        <links/>
+      </event>
+    </room>
+  </day>
+</schedule>
