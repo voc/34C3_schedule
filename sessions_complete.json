@@ -844,53 +844,6 @@
             "1514403000"
         ]
     }, 
-    "Session:Rights&Freedoms# 9233046959c118f4e37e87b811773ec8": {
-        "Held in language": [
-            "de - German", 
-            "en - English"
-        ], 
-        "Has start time": [
-            "1514489400"
-        ], 
-        "Has event track": [
-            "Session"
-        ], 
-        "Has website": [], 
-        "Has description": [
-            "Rights & Freedoms Cluster Stage Programme"
-        ], 
-        "Has session type": [
-            "Talk"
-        ], 
-        "Has session location": [
-            {
-                "fulltext": "Room:CCL Hall 3", 
-                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Room:CCL_Hall_3", 
-                "namespace": 516, 
-                "exists": true
-            }
-        ], 
-        "Has subtitle": [
-            "Algorithmic transaprency (EFF)"
-        ], 
-        "Is organized by": [], 
-        "Has title": [
-            "Rights&Freedoms"
-        ], 
-        "Has duration": [
-            30
-        ], 
-        "GUID": [
-            "23c6fca0-a450-47cf-8e39-888514b76355"
-        ], 
-        "Has color": [
-            "#0099ab"
-        ], 
-        "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:Rights%26Freedoms", 
-        "Has end time": [
-            "1514491200"
-        ]
-    }, 
     "Session:Wie produziere ich mein eigenes H\u00f6rspiel mit Hilfe von freeware free sounds# e9e0f96ddae80dfb9c8724abad3fe9ea": {
         "Held in language": [
             "de - German"
@@ -4959,6 +4912,67 @@
         "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:Newpipe", 
         "Has end time": [
             "1514386800"
+        ]
+    }, 
+    "Session:Privacy-Oriented Distributed Networking for an Ethical Internet# 51f81fc4a01fce5eeb93bcaeb48a1582": {
+        "Held in language": [
+            "en - English"
+        ], 
+        "Has start time": [
+            "1514401200"
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [
+            "https://gnunet.org"
+        ], 
+        "Has description": [
+            "How can distributed systems be the decentralized alternative we have been hoping for? And why are blockchains only one out of fifty building blocks of a distributed Internet?"
+        ], 
+        "Has session type": [
+            "Talk"
+        ], 
+        "Has session location": [
+            {
+                "fulltext": "Room:Chaos West Stage", 
+                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Room:Chaos_West_Stage", 
+                "namespace": 516, 
+                "exists": true
+            }
+        ], 
+        "Has subtitle": [
+            "including 50 subsystems of GNUnet"
+        ], 
+        "Is organized by": [
+            {
+                "fulltext": "User:LynX", 
+                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/User:LynX", 
+                "namespace": 2, 
+                "exists": true
+            }, 
+            {
+                "fulltext": "User:Grothoff", 
+                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/User:Grothoff", 
+                "namespace": 2, 
+                "exists": false
+            }
+        ], 
+        "Has title": [
+            "Privacy-Oriented Distributed Networking for an Ethical Internet"
+        ], 
+        "Has duration": [
+            60
+        ], 
+        "GUID": [
+            "eaad2e23-34f6-4711-8d68-6d497eea064b"
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:Privacy-Oriented_Distributed_Networking_for_an_Ethical_Internet", 
+        "Has end time": [
+            "1514404800"
         ]
     }, 
     "Session:Reclaim Club Culture# d18178dc7a647281cd7e535c4dfac1c0": {
@@ -9855,6 +9869,61 @@
             "1514563200"
         ]
     }, 
+    "Session:Scalable and privacy-respectful distributed systems# 6034ce249558ad752250108efce92467": {
+        "Held in language": [
+            "en - English"
+        ], 
+        "Has start time": [
+            "1514397600"
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [
+            "http://secushare.cheettyiapsyciew.onion"
+        ], 
+        "Has description": [
+            "We tried to make federation scale. We failed.\nWe realized that cloud computing cannot be beaten by federated networks.\nLet's scale up distributed systems while maintaining metadata protection and privacy."
+        ], 
+        "Has session type": [
+            "Talk"
+        ], 
+        "Has session location": [
+            {
+                "fulltext": "Room:Chaos West Stage", 
+                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Room:Chaos_West_Stage", 
+                "namespace": 516, 
+                "exists": true
+            }
+        ], 
+        "Has subtitle": [
+            "Our chance to avoid cloud computing?"
+        ], 
+        "Is organized by": [
+            {
+                "fulltext": "User:LynX", 
+                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/User:LynX", 
+                "namespace": 2, 
+                "exists": true
+            }
+        ], 
+        "Has title": [
+            "Scalable and privacy-respectful distributed systems"
+        ], 
+        "Has duration": [
+            45
+        ], 
+        "GUID": [
+            "9b58c10d-8973-438f-ae19-50dde6321b5e"
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:Scalable_and_privacy-respectful_distributed_systems", 
+        "Has end time": [
+            "1514400300"
+        ]
+    }, 
     "Session:DLF# ac0a24542c4f3f1009b7606fd65f6fa0": {
         "Held in language": [
             "de - German"
@@ -10225,6 +10294,53 @@
         "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:Letter_writing_to_prisoners,_sitting_in_jail_for_hacking", 
         "Has end time": [
             "1514465100"
+        ]
+    }, 
+    "Session:Rights&Freedoms# fad59535ab20a100c6f2fee90ad83afd": {
+        "Held in language": [
+            "de - German", 
+            "en - English"
+        ], 
+        "Has start time": [
+            "1514574000"
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [], 
+        "Has description": [
+            "Rights & Freedoms Cluster Stage Programme"
+        ], 
+        "Has session type": [
+            "Talk"
+        ], 
+        "Has session location": [
+            {
+                "fulltext": "Room:CCL Hall 3", 
+                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Room:CCL_Hall_3", 
+                "namespace": 516, 
+                "exists": true
+            }
+        ], 
+        "Has subtitle": [
+            "[https://events.ccc.de/congress/2017/wiki/index.php/Session:Public_Money%3F_Public_Code! Public money? Public code!] (Polina Malaja and Katharina Nocun)"
+        ], 
+        "Is organized by": [], 
+        "Has title": [
+            "Rights&Freedoms"
+        ], 
+        "Has duration": [
+            60
+        ], 
+        "GUID": [
+            "4f988987-df21-4bd4-a494-bf5fff3c3f42"
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:Rights%26Freedoms", 
+        "Has end time": [
+            "1514577600"
         ]
     }, 
     "Session:A/V Angel Meeting# cfae41ef06cf48c907d63a56a72f8e52": {
@@ -12845,67 +12961,6 @@
             "1514494800"
         ]
     }, 
-    "Session:Privacy-Oriented Distributed Networking for an Ethical Internet# f08d5172c8a79263b9787b2e3188f72a": {
-        "Held in language": [
-            "en - English"
-        ], 
-        "Has start time": [
-            "1514394000"
-        ], 
-        "Has event track": [
-            "Session"
-        ], 
-        "Has website": [
-            "https://gnunet.org"
-        ], 
-        "Has description": [
-            "How can distributed systems be the decentralized alternative we have been hoping for? And why are blockchains only one out of fifty building blocks of a distributed Internet?"
-        ], 
-        "Has session type": [
-            "Talk"
-        ], 
-        "Has session location": [
-            {
-                "fulltext": "Room:Chaos West Stage", 
-                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Room:Chaos_West_Stage", 
-                "namespace": 516, 
-                "exists": true
-            }
-        ], 
-        "Has subtitle": [
-            "including 50 subsystems of GNUnet"
-        ], 
-        "Is organized by": [
-            {
-                "fulltext": "User:LynX", 
-                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/User:LynX", 
-                "namespace": 2, 
-                "exists": true
-            }, 
-            {
-                "fulltext": "User:Grothoff", 
-                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/User:Grothoff", 
-                "namespace": 2, 
-                "exists": false
-            }
-        ], 
-        "Has title": [
-            "Privacy-Oriented Distributed Networking for an Ethical Internet"
-        ], 
-        "Has duration": [
-            60
-        ], 
-        "GUID": [
-            "eaad2e23-34f6-4711-8d68-6d497eea064b"
-        ], 
-        "Has color": [
-            "#0099ab"
-        ], 
-        "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:Privacy-Oriented_Distributed_Networking_for_an_Ethical_Internet", 
-        "Has end time": [
-            "1514397600"
-        ]
-    }, 
     "Session:TeaHouse# 9db04c86be34dca3efeb156b2876d085": {
         "Held in language": [
             "en - English"
@@ -13957,61 +14012,6 @@
         "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:NerfgunBattle", 
         "Has end time": [
             "1514422800"
-        ]
-    }, 
-    "Session:Scalable and privacy-respectful distributed systems# 2ee867ae6b0544e5919217bc0bcdf55b": {
-        "Held in language": [
-            "en - English"
-        ], 
-        "Has start time": [
-            "1514390400"
-        ], 
-        "Has event track": [
-            "Session"
-        ], 
-        "Has website": [
-            "http://secushare.cheettyiapsyciew.onion"
-        ], 
-        "Has description": [
-            "We tried to make federation scale. We failed.\nWe realized that cloud computing cannot be beaten by federated networks.\nLet's scale up distributed systems while maintaining metadata protection and privacy."
-        ], 
-        "Has session type": [
-            "Talk"
-        ], 
-        "Has session location": [
-            {
-                "fulltext": "Room:Chaos West Stage", 
-                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Room:Chaos_West_Stage", 
-                "namespace": 516, 
-                "exists": true
-            }
-        ], 
-        "Has subtitle": [
-            "Our chance to avoid cloud computing?"
-        ], 
-        "Is organized by": [
-            {
-                "fulltext": "User:LynX", 
-                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/User:LynX", 
-                "namespace": 2, 
-                "exists": true
-            }
-        ], 
-        "Has title": [
-            "Scalable and privacy-respectful distributed systems"
-        ], 
-        "Has duration": [
-            45
-        ], 
-        "GUID": [
-            "9b58c10d-8973-438f-ae19-50dde6321b5e"
-        ], 
-        "Has color": [
-            "#0099ab"
-        ], 
-        "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:Scalable_and_privacy-respectful_distributed_systems", 
-        "Has end time": [
-            "1514393100"
         ]
     }, 
     "Session:Sticker meet up# 3576f5d9dd851a9f36f6585d5100860e": {
@@ -15654,13 +15654,13 @@
             "1514584800"
         ]
     }, 
-    "Session:Rights&Freedoms# fad59535ab20a100c6f2fee90ad83afd": {
+    "Session:Rights&Freedoms# 9233046959c118f4e37e87b811773ec8": {
         "Held in language": [
             "de - German", 
             "en - English"
         ], 
         "Has start time": [
-            "1514574000"
+            "1514489400"
         ], 
         "Has event track": [
             "Session"
@@ -15681,24 +15681,24 @@
             }
         ], 
         "Has subtitle": [
-            "[https://events.ccc.de/congress/2017/wiki/index.php/Session:Public_Money%3F_Public_Code! Public money? Public code!] (Polina Malaja and Katharina Nocun)"
+            "Algorithmic transaprency (EFF)"
         ], 
         "Is organized by": [], 
         "Has title": [
             "Rights&Freedoms"
         ], 
         "Has duration": [
-            60
+            30
         ], 
         "GUID": [
-            "4f988987-df21-4bd4-a494-bf5fff3c3f42"
+            "23c6fca0-a450-47cf-8e39-888514b76355"
         ], 
         "Has color": [
             "#0099ab"
         ], 
         "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:Rights%26Freedoms", 
         "Has end time": [
-            "1514577600"
+            "1514491200"
         ]
     }, 
     "Session:Howto Let's Play# 070fe8a455a900a9238622b6c1bea2bb": {
