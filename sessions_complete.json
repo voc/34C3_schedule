@@ -844,53 +844,6 @@
             "1514403000"
         ]
     }, 
-    "Session:Rights&Freedoms# 9233046959c118f4e37e87b811773ec8": {
-        "Held in language": [
-            "de - German", 
-            "en - English"
-        ], 
-        "Has start time": [
-            "1514489400"
-        ], 
-        "Has event track": [
-            "Session"
-        ], 
-        "Has website": [], 
-        "Has description": [
-            "Rights & Freedoms Cluster Stage Programme"
-        ], 
-        "Has session type": [
-            "Talk"
-        ], 
-        "Has session location": [
-            {
-                "fulltext": "Room:CCL Hall 3", 
-                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Room:CCL_Hall_3", 
-                "namespace": 516, 
-                "exists": true
-            }
-        ], 
-        "Has subtitle": [
-            "Algorithmic transaprency (EFF)"
-        ], 
-        "Is organized by": [], 
-        "Has title": [
-            "Rights&Freedoms"
-        ], 
-        "Has duration": [
-            30
-        ], 
-        "GUID": [
-            "23c6fca0-a450-47cf-8e39-888514b76355"
-        ], 
-        "Has color": [
-            "#0099ab"
-        ], 
-        "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:Rights%26Freedoms", 
-        "Has end time": [
-            "1514491200"
-        ]
-    }, 
     "Session:Wie produziere ich mein eigenes H\u00f6rspiel mit Hilfe von freeware free sounds# e9e0f96ddae80dfb9c8724abad3fe9ea": {
         "Held in language": [
             "de - German"
@@ -1734,48 +1687,57 @@
             "1514466000"
         ]
     }, 
-    "Session:Usertesting TALEnet# edd7937f9237678afcc9eec3ba7d8fdb": {
+    "Session:Komona networking gathering# 958a2e76c13c3065f130972233095271": {
         "Held in language": [
             "en - English"
         ], 
         "Has start time": [
-            "1514397600"
+            "1514498400"
         ], 
         "Has event track": [
             "Session"
         ], 
         "Has website": [], 
         "Has description": [
-            "Usertesting TALEnet (kathia)"
+            "All creatues welcome to our networking gathering. Exchange experience, struggles and strategies from different actions, cities and countries. Establish new connections. Gather with fellows. Bring snacks and drinks. Alles allen."
         ], 
         "Has session type": [
-            "Workshop"
+            "Meeting"
         ], 
         "Has session location": [
             {
-                "fulltext": "Room:Komona Blue Princess", 
-                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Room:Komona_Blue_Princess", 
+                "fulltext": "Room:Komona D.Ressrosa", 
+                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Room:Komona_D.Ressrosa", 
                 "namespace": 516, 
                 "exists": true
             }
         ], 
-        "Has subtitle": [], 
-        "Is organized by": [], 
+        "Has subtitle": [
+            "meeting room"
+        ], 
+        "Is organized by": [
+            {
+                "fulltext": "User:Katze", 
+                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/User:Katze", 
+                "namespace": 2, 
+                "exists": true
+            }
+        ], 
         "Has title": [
-            "Usertesting TALEnet"
+            "Komona networking gathering"
         ], 
         "Has duration": [
             120
         ], 
         "GUID": [
-            "dd529f5f-4f94-4fda-a4dc-abe0a2f9f68a"
+            "44955fe7-7549-4190-bdea-2e694bf75c3c"
         ], 
         "Has color": [
             "#0099ab"
         ], 
-        "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:Usertesting_TALEnet", 
+        "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:Komona_networking_gathering", 
         "Has end time": [
-            "1514404800"
+            "1514505600"
         ]
     }, 
     "Session:Modeling Trust in a Distributed Private Social Network# 1a3d1d614bc296a2cfd49ee4bf3708e0": {
@@ -5758,6 +5720,50 @@
             "1514570400"
         ]
     }, 
+    "Session:Usertesting TALEnet# edd7937f9237678afcc9eec3ba7d8fdb": {
+        "Held in language": [
+            "en - English"
+        ], 
+        "Has start time": [
+            "1514397600"
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [], 
+        "Has description": [
+            "Usertesting TALEnet (kathia)"
+        ], 
+        "Has session type": [
+            "Workshop"
+        ], 
+        "Has session location": [
+            {
+                "fulltext": "Room:Komona Blue Princess", 
+                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Room:Komona_Blue_Princess", 
+                "namespace": 516, 
+                "exists": true
+            }
+        ], 
+        "Has subtitle": [], 
+        "Is organized by": [], 
+        "Has title": [
+            "Usertesting TALEnet"
+        ], 
+        "Has duration": [
+            120
+        ], 
+        "GUID": [
+            "dd529f5f-4f94-4fda-a4dc-abe0a2f9f68a"
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:Usertesting_TALEnet", 
+        "Has end time": [
+            "1514404800"
+        ]
+    }, 
     "Session:The ultimate Free Software challenge# cfd54643eedbc7eff8cea2061824fce6": {
         "Held in language": [], 
         "Has start time": [], 
@@ -8478,6 +8484,59 @@
             "1514569500"
         ]
     }, 
+    "Session:Komona networking gathering# d95a61df8b9348df128a571a1ac9d485": {
+        "Held in language": [
+            "en - English"
+        ], 
+        "Has start time": [
+            "1514498400"
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [], 
+        "Has description": [
+            "All creatues welcome to our networking gathering. Exchange experience, struggles and strategies from different actions, cities and countries. Establish new connections. Gather with fellows. Bring snacks and drinks. Alles allen."
+        ], 
+        "Has session type": [
+            "Meeting"
+        ], 
+        "Has session location": [
+            {
+                "fulltext": "Room:Komona Coral Reef", 
+                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Room:Komona_Coral_Reef", 
+                "namespace": 516, 
+                "exists": true
+            }
+        ], 
+        "Has subtitle": [
+            "meeting room"
+        ], 
+        "Is organized by": [
+            {
+                "fulltext": "User:Katze", 
+                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/User:Katze", 
+                "namespace": 2, 
+                "exists": true
+            }
+        ], 
+        "Has title": [
+            "Komona networking gathering"
+        ], 
+        "Has duration": [
+            120
+        ], 
+        "GUID": [
+            "ffb5a08e-9d61-42e4-b5a3-002b140d652f"
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:Komona_networking_gathering", 
+        "Has end time": [
+            "1514505600"
+        ]
+    }, 
     "Session:Rights&Freedoms# 3063e1754502aed3fa8b11094252bb49": {
         "Held in language": [
             "de - German", 
@@ -10087,6 +10146,53 @@
         "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:Letter_writing_to_prisoners,_sitting_in_jail_for_hacking", 
         "Has end time": [
             "1514465100"
+        ]
+    }, 
+    "Session:Rights&Freedoms# fad59535ab20a100c6f2fee90ad83afd": {
+        "Held in language": [
+            "de - German", 
+            "en - English"
+        ], 
+        "Has start time": [
+            "1514574000"
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [], 
+        "Has description": [
+            "Rights & Freedoms Cluster Stage Programme"
+        ], 
+        "Has session type": [
+            "Talk"
+        ], 
+        "Has session location": [
+            {
+                "fulltext": "Room:CCL Hall 3", 
+                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Room:CCL_Hall_3", 
+                "namespace": 516, 
+                "exists": true
+            }
+        ], 
+        "Has subtitle": [
+            "[https://events.ccc.de/congress/2017/wiki/index.php/Session:Public_Money%3F_Public_Code! Public money? Public code!] (Polina Malaja and Katharina Nocun)"
+        ], 
+        "Is organized by": [], 
+        "Has title": [
+            "Rights&Freedoms"
+        ], 
+        "Has duration": [
+            60
+        ], 
+        "GUID": [
+            "4f988987-df21-4bd4-a494-bf5fff3c3f42"
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:Rights%26Freedoms", 
+        "Has end time": [
+            "1514577600"
         ]
     }, 
     "Session:A/V Angel Meeting# cfae41ef06cf48c907d63a56a72f8e52": {
@@ -12606,7 +12712,7 @@
             "1514391300"
         ]
     }, 
-    "Session:Ybti+wefixthenet# a0b76e267b2605e6208c0b8ed65d9ec7": {
+    "Session:SecureDrop# 69b671b72c08c38b86b56562d2772cb3": {
         "Held in language": [
             "en - English"
         ], 
@@ -12617,46 +12723,39 @@
             "Session"
         ], 
         "Has website": [
-            "http://youbroketheinternet.org/"
+            "https://securedrop.org"
         ], 
         "Has description": [
-            "youbroketheinternet/wefixthenet session to discuss and report progress on a secure, private post-Snowden era Internet"
+            "SecureDrop is an free software whistleblower submission system that media organizations can use to securely accept documents from and communicate with anonymous sources. It was originally created by the late Aaron Swartz and is currently managed by Freedom of the Press Foundation."
         ], 
         "Has session type": [
             "Talk"
         ], 
         "Has session location": [
             {
-                "fulltext": "Room:Chaos West Stage", 
-                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Room:Chaos_West_Stage", 
-                "namespace": 516, 
+                "fulltext": "Assembly:Chaos West", 
+                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Assembly:Chaos_West", 
+                "namespace": 504, 
                 "exists": true
             }
         ], 
         "Has subtitle": [], 
-        "Is organized by": [
-            {
-                "fulltext": "User:Forthy", 
-                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/User:Forthy", 
-                "namespace": 2, 
-                "exists": true
-            }
-        ], 
+        "Is organized by": [], 
         "Has title": [
-            "Ybti+wefixthenet"
+            "SecureDrop"
         ], 
         "Has duration": [
-            120
+            45
         ], 
         "GUID": [
-            "2908d355-9054-4c8f-8a7f-33e677435c1d"
+            "c74e43dc-c115-41c7-8e5a-1e881565593a"
         ], 
         "Has color": [
             "#0099ab"
         ], 
-        "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:Ybti%2Bwefixthenet", 
+        "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:SecureDrop", 
         "Has end time": [
-            "1514563200"
+            "1514558700"
         ]
     }, 
     "Session:A public identity infrastructure to defend the open Internet# 504f9729780a89eb9db2a6eade882be4": {
@@ -13248,6 +13347,59 @@
         "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:Gehen_drei_Wissenschaftler_in_eine_Kneipe", 
         "Has end time": [
             "1514474100"
+        ]
+    }, 
+    "Session:Ybti+wefixthenet# a0b76e267b2605e6208c0b8ed65d9ec7": {
+        "Held in language": [
+            "en - English"
+        ], 
+        "Has start time": [
+            "1514556000"
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [
+            "http://youbroketheinternet.org/"
+        ], 
+        "Has description": [
+            "youbroketheinternet/wefixthenet session to discuss and report progress on a secure, private post-Snowden era Internet"
+        ], 
+        "Has session type": [
+            "Talk"
+        ], 
+        "Has session location": [
+            {
+                "fulltext": "Room:Chaos West Stage", 
+                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Room:Chaos_West_Stage", 
+                "namespace": 516, 
+                "exists": true
+            }
+        ], 
+        "Has subtitle": [], 
+        "Is organized by": [
+            {
+                "fulltext": "User:Forthy", 
+                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/User:Forthy", 
+                "namespace": 2, 
+                "exists": true
+            }
+        ], 
+        "Has title": [
+            "Ybti+wefixthenet"
+        ], 
+        "Has duration": [
+            120
+        ], 
+        "GUID": [
+            "2908d355-9054-4c8f-8a7f-33e677435c1d"
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:Ybti%2Bwefixthenet", 
+        "Has end time": [
+            "1514563200"
         ]
     }, 
     "Session:Introduction to Latex# 0285c7d02be31290fc5f7e1537e54d68": {
@@ -14023,50 +14175,57 @@
             "1514323800"
         ]
     }, 
-    "Session:SecureDrop# 69b671b72c08c38b86b56562d2772cb3": {
+    "Session:Komona networking gathering# 63eb9a4d4a5a2639f2d9b1127d65def1": {
         "Held in language": [
             "en - English"
         ], 
         "Has start time": [
-            "1514556000"
+            "1514498400"
         ], 
         "Has event track": [
             "Session"
         ], 
-        "Has website": [
-            "https://securedrop.org"
-        ], 
+        "Has website": [], 
         "Has description": [
-            "SecureDrop is an free software whistleblower submission system that media organizations can use to securely accept documents from and communicate with anonymous sources. It was originally created by the late Aaron Swartz and is currently managed by Freedom of the Press Foundation."
+            "All creatues welcome to our networking gathering. Exchange experience, struggles and strategies from different actions, cities and countries. Establish new connections. Gather with fellows. Bring snacks and drinks. Alles allen."
         ], 
         "Has session type": [
-            "Talk"
+            "Meeting"
         ], 
         "Has session location": [
             {
-                "fulltext": "Assembly:Chaos West", 
-                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Assembly:Chaos_West", 
-                "namespace": 504, 
+                "fulltext": "Room:Komona Blue Princess", 
+                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Room:Komona_Blue_Princess", 
+                "namespace": 516, 
                 "exists": true
             }
         ], 
-        "Has subtitle": [], 
-        "Is organized by": [], 
+        "Has subtitle": [
+            "meeting room"
+        ], 
+        "Is organized by": [
+            {
+                "fulltext": "User:Katze", 
+                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/User:Katze", 
+                "namespace": 2, 
+                "exists": true
+            }
+        ], 
         "Has title": [
-            "SecureDrop"
+            "Komona networking gathering"
         ], 
         "Has duration": [
-            45
+            120
         ], 
         "GUID": [
-            "c74e43dc-c115-41c7-8e5a-1e881565593a"
+            "44955fe7-7549-4190-bdea-2e694bf75c3c"
         ], 
         "Has color": [
             "#0099ab"
         ], 
-        "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:SecureDrop", 
+        "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:Komona_networking_gathering", 
         "Has end time": [
-            "1514558700"
+            "1514505600"
         ]
     }, 
     "Session:TeaHouse# b823cd35f716704fc3f9b17af27e1fc9": {
@@ -15459,13 +15618,13 @@
             "1514584800"
         ]
     }, 
-    "Session:Rights&Freedoms# fad59535ab20a100c6f2fee90ad83afd": {
+    "Session:Rights&Freedoms# 9233046959c118f4e37e87b811773ec8": {
         "Held in language": [
             "de - German", 
             "en - English"
         ], 
         "Has start time": [
-            "1514574000"
+            "1514489400"
         ], 
         "Has event track": [
             "Session"
@@ -15486,24 +15645,24 @@
             }
         ], 
         "Has subtitle": [
-            "[https://events.ccc.de/congress/2017/wiki/index.php/Session:Public_Money%3F_Public_Code! Public money? Public code!] (Polina Malaja and Katharina Nocun)"
+            "Algorithmic transaprency (EFF)"
         ], 
         "Is organized by": [], 
         "Has title": [
             "Rights&Freedoms"
         ], 
         "Has duration": [
-            60
+            30
         ], 
         "GUID": [
-            "4f988987-df21-4bd4-a494-bf5fff3c3f42"
+            "23c6fca0-a450-47cf-8e39-888514b76355"
         ], 
         "Has color": [
             "#0099ab"
         ], 
         "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:Rights%26Freedoms", 
         "Has end time": [
-            "1514577600"
+            "1514491200"
         ]
     }, 
     "Session:Howto Let's Play# 070fe8a455a900a9238622b6c1bea2bb": {
