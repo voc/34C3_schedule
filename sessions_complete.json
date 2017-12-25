@@ -899,6 +899,53 @@
             "1514403000"
         ]
     }, 
+    "Session:Rights&Freedoms# 9233046959c118f4e37e87b811773ec8": {
+        "Held in language": [
+            "de - German", 
+            "en - English"
+        ], 
+        "Has start time": [
+            "1514489400"
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [], 
+        "Has description": [
+            "Rights & Freedoms Cluster Stage Programme"
+        ], 
+        "Has session type": [
+            "Talk"
+        ], 
+        "Has session location": [
+            {
+                "fulltext": "Room:CCL Hall 3", 
+                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Room:CCL_Hall_3", 
+                "namespace": 516, 
+                "exists": true
+            }
+        ], 
+        "Has subtitle": [
+            "Algorithmic transaprency (EFF)"
+        ], 
+        "Is organized by": [], 
+        "Has title": [
+            "Rights&Freedoms"
+        ], 
+        "Has duration": [
+            30
+        ], 
+        "GUID": [
+            "23c6fca0-a450-47cf-8e39-888514b76355"
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:Rights%26Freedoms", 
+        "Has end time": [
+            "1514491200"
+        ]
+    }, 
     "Session:Wie produziere ich mein eigenes H\u00f6rspiel mit Hilfe von freeware free sounds# e9e0f96ddae80dfb9c8724abad3fe9ea": {
         "Held in language": [
             "de - German"
@@ -10358,53 +10405,6 @@
             "1514465100"
         ]
     }, 
-    "Session:Rights&Freedoms# fad59535ab20a100c6f2fee90ad83afd": {
-        "Held in language": [
-            "de - German", 
-            "en - English"
-        ], 
-        "Has start time": [
-            "1514574000"
-        ], 
-        "Has event track": [
-            "Session"
-        ], 
-        "Has website": [], 
-        "Has description": [
-            "Rights & Freedoms Cluster Stage Programme"
-        ], 
-        "Has session type": [
-            "Talk"
-        ], 
-        "Has session location": [
-            {
-                "fulltext": "Room:CCL Hall 3", 
-                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Room:CCL_Hall_3", 
-                "namespace": 516, 
-                "exists": true
-            }
-        ], 
-        "Has subtitle": [
-            "[https://events.ccc.de/congress/2017/wiki/index.php/Session:Public_Money%3F_Public_Code! Public money? Public code!] (Polina Malaja and Katharina Nocun)"
-        ], 
-        "Is organized by": [], 
-        "Has title": [
-            "Rights&Freedoms"
-        ], 
-        "Has duration": [
-            60
-        ], 
-        "GUID": [
-            "4f988987-df21-4bd4-a494-bf5fff3c3f42"
-        ], 
-        "Has color": [
-            "#0099ab"
-        ], 
-        "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:Rights%26Freedoms", 
-        "Has end time": [
-            "1514577600"
-        ]
-    }, 
     "Session:A/V Angel Meeting# cfae41ef06cf48c907d63a56a72f8e52": {
         "Held in language": [
             "de - German", 
@@ -12396,6 +12396,57 @@
         "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:Initiate_34c3", 
         "Has end time": [
             "1514392200"
+        ]
+    }, 
+    "Session:Hosting Control Panels for self-managed infrastructure# 6fc614a23ab22c0955f698912e26e901": {
+        "Held in language": [
+            "en - English"
+        ], 
+        "Has start time": [
+            "1514466000"
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [], 
+        "Has description": [
+            "In these crictical days of net surveillance and abusing exploitation of users' data for private businesses profit, we need more than ever, to run and manage our own infrastructure for web and email services. In this session we want to discuss which solutions we are using for control panels, to manage accounts for our users, and let our users self-manage the services."
+        ], 
+        "Has session type": [
+            "Discussion"
+        ], 
+        "Has session location": [
+            {
+                "fulltext": "Room:Komona Blue Princess", 
+                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Room:Komona_Blue_Princess", 
+                "namespace": 516, 
+                "exists": true
+            }
+        ], 
+        "Has subtitle": [], 
+        "Is organized by": [
+            {
+                "fulltext": "User:Rama", 
+                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/User:Rama", 
+                "namespace": 2, 
+                "exists": true
+            }
+        ], 
+        "Has title": [
+            "Hosting Control Panels for self-managed infrastructure"
+        ], 
+        "Has duration": [
+            60
+        ], 
+        "GUID": [
+            "8d95795d-c437-450b-a149-c903f159d242"
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:Hosting_Control_Panels_for_self-managed_infrastructure", 
+        "Has end time": [
+            "1514469600"
         ]
     }, 
     "Session:Haecksen: BringYourOwnBear Happy Hour# f5e1743878c7a96168b603bb15877c19": {
@@ -15716,13 +15767,13 @@
             "1514584800"
         ]
     }, 
-    "Session:Rights&Freedoms# 9233046959c118f4e37e87b811773ec8": {
+    "Session:Rights&Freedoms# fad59535ab20a100c6f2fee90ad83afd": {
         "Held in language": [
             "de - German", 
             "en - English"
         ], 
         "Has start time": [
-            "1514489400"
+            "1514574000"
         ], 
         "Has event track": [
             "Session"
@@ -15743,24 +15794,24 @@
             }
         ], 
         "Has subtitle": [
-            "Algorithmic transaprency (EFF)"
+            "[https://events.ccc.de/congress/2017/wiki/index.php/Session:Public_Money%3F_Public_Code! Public money? Public code!] (Polina Malaja and Katharina Nocun)"
         ], 
         "Is organized by": [], 
         "Has title": [
             "Rights&Freedoms"
         ], 
         "Has duration": [
-            30
+            60
         ], 
         "GUID": [
-            "23c6fca0-a450-47cf-8e39-888514b76355"
+            "4f988987-df21-4bd4-a494-bf5fff3c3f42"
         ], 
         "Has color": [
             "#0099ab"
         ], 
         "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:Rights%26Freedoms", 
         "Has end time": [
-            "1514491200"
+            "1514577600"
         ]
     }, 
     "Session:Howto Let's Play# 070fe8a455a900a9238622b6c1bea2bb": {
