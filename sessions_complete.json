@@ -2800,6 +2800,60 @@
             "1514584800"
         ]
     }, 
+    "Session:Alpaka-Party# 5d71647e32c39e8e4d194ef15fffab30": {
+        "Held in language": [
+            "de - German", 
+            "en - English"
+        ], 
+        "Has start time": [
+            "1514469600"
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [
+            "https://jugendhackt.org/"
+        ], 
+        "Has description": [
+            "Zwischen 14:00 und 16:00 k\u00f6nnt ihr im Werkstattraum der Jugend hackt Assembly vorbeikommen (direkt neben dem Kidsspace). Dort bauen wir lustige, blinkende Alpaka Karten. Es bedarf keinerlei Vorkenntnisse und man kann einfach vorbei kommen. Eine Karte zu basteln dauert zwischen 10 und 15 Minuten, also perfekt um sich zwischendurch die Zeit zu vertreiben. Wir basteln die Karten so lange der Vorrat reicht :)"
+        ], 
+        "Has session type": [
+            "Hands-On"
+        ], 
+        "Has session location": [
+            {
+                "fulltext": "Assembly:Jugend hackt", 
+                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Assembly:Jugend_hackt", 
+                "namespace": 504, 
+                "exists": true
+            }
+        ], 
+        "Has subtitle": [], 
+        "Is organized by": [
+            {
+                "fulltext": "User:Rinhia", 
+                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/User:Rinhia", 
+                "namespace": 2, 
+                "exists": true
+            }
+        ], 
+        "Has title": [
+            "Alpaka-Party"
+        ], 
+        "Has duration": [
+            120
+        ], 
+        "GUID": [
+            "2908e269-d8bd-457e-b083-bf6f6652105d"
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:Alpaka-Party", 
+        "Has end time": [
+            "1514476800"
+        ]
+    }, 
     "Session:Public Money? Public Code!# 29f47c63f440794e4a427e1a270572e7": {
         "Held in language": [
             "en - English"
@@ -7910,6 +7964,59 @@
         "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:Rights%26Freedoms", 
         "Has end time": [
             "1514574000"
+        ]
+    }, 
+    "Session:Gentoo e.V. Mitgliederversammlung# fabe5a0b145491adb73ce1238b73153d": {
+        "Held in language": [
+            "de - German"
+        ], 
+        "Has start time": [
+            "1514552400"
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [
+            "https://gentoo-ev.org/"
+        ], 
+        "Has description": [
+            "(German) Mitgliederversammlung des F\u00f6rdervereins Gentoo e.V."
+        ], 
+        "Has session type": [
+            "Meeting"
+        ], 
+        "Has session location": [
+            {
+                "fulltext": "Room:Lecture room 12", 
+                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Room:Lecture_room_12", 
+                "namespace": 516, 
+                "exists": true
+            }
+        ], 
+        "Has subtitle": [], 
+        "Is organized by": [
+            {
+                "fulltext": "User:Sping", 
+                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/User:Sping", 
+                "namespace": 2, 
+                "exists": true
+            }
+        ], 
+        "Has title": [
+            "Gentoo e.V. Mitgliederversammlung"
+        ], 
+        "Has duration": [
+            60
+        ], 
+        "GUID": [
+            "83fcbf78-e721-4570-ab1b-678cb03edf73"
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:Gentoo_e.V._Mitgliederversammlung", 
+        "Has end time": [
+            "1514556000"
         ]
     }, 
     "Session:Meetup: hack your library# f4c0fe902795644053680290416a22b9": {
