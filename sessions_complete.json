@@ -1619,52 +1619,58 @@
             "1514307600"
         ]
     }, 
-    "Session:OParl: ein Datenstandard, um politische Entscheidungen transparent zu machen# b8b14d32f01198e29d282a1839ea2082": {
+    "Session:Klangteppich# 5ed523915275d4f2260d337d0decb9ca": {
         "Held in language": [
-            "de - German"
+            "de - German", 
+            "en - English"
         ], 
         "Has start time": [
-            "1514487600"
+            "1514431800"
         ], 
         "Has event track": [
             "Session"
         ], 
-        "Has website": [
-            "https://oparl.org"
-        ], 
+        "Has website": [], 
         "Has description": [
-            "OParl ist ein Datenstandard f\u00fcr kommunale Entscheidungen, welche in Ratsinformationssystemen gespeichert werden. Mit den Daten kann man Transparenz und Beteiligung vor Ort f\u00f6rdern. Auf dem 33C3 stand der Standard in den Kinderschuhen, nun findet er zunehmend Verbreitung. Wir - ein Team der Open Knowledge Foundation - wollen den Stand der Dinge pr\u00e4sentieren gemeinsam \u00fcber die Zukunft reden: Anwendungen, Standard-Weiterentwicklung, weitere Verbreitung. Anschlie\u00dfend ab 19:00 gibt es einen technischen Workshop zu OParl."
+            "Come over and meet us at our cozy music lounge in hall 2! Proudly presented by Chaos West"
         ], 
         "Has session type": [
-            "Discussion"
+            "Other"
         ], 
         "Has session location": [
             {
-                "fulltext": "Room:Esszimmer", 
-                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Room:Esszimmer", 
+                "fulltext": "Room:Chaos West Stage", 
+                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Room:Chaos_West_Stage", 
                 "namespace": 516, 
                 "exists": true
             }
         ], 
         "Has subtitle": [
-            "OParl-Workshop (technisch)"
+            "faheus DJ set"
         ], 
-        "Is organized by": [], 
+        "Is organized by": [
+            {
+                "fulltext": "User:Bam", 
+                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/User:Bam", 
+                "namespace": 2, 
+                "exists": true
+            }
+        ], 
         "Has title": [
-            "OParl: ein Datenstandard, um politische Entscheidungen transparent zu machen"
+            "Klangteppich"
         ], 
         "Has duration": [
-            45
+            120
         ], 
         "GUID": [
-            "1268f73b-b992-5380-ab7a-31eee5e66240"
+            "cbc32a2c-1f29-44a9-a232-0f458f979813"
         ], 
         "Has color": [
             "#0099ab"
         ], 
-        "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:OParl:_ein_Datenstandard,_um_politische_Entscheidungen_transparent_zu_machen", 
+        "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:Klangteppich", 
         "Has end time": [
-            "1514490300"
+            "1514439000"
         ]
     }, 
     "Session:Ki+Philosophie# bc672941293e6929ae4750e733024e82": {
@@ -1913,58 +1919,39 @@
             "1514476800"
         ]
     }, 
-    "Session:Klangteppich# 2677d2657dfebaf081045cfeed9a13f4": {
+    "Session:Nanooq: G20 und GG\u00a720# 12310e65c0bd4f56070b1e0df6878cf5": {
         "Held in language": [
-            "de - German", 
-            "en - English"
+            "de - German"
         ], 
         "Has start time": [
-            "1514419200"
+            "1514502000"
         ], 
         "Has event track": [
             "Session"
         ], 
-        "Has website": [], 
-        "Has description": [
-            "Come over and meet us at our cozy music lounge in hall 2! Proudly presented by Chaos West"
+        "Has website": [
+            "https://gitlab.com/chaos-siegen/oektion/vortrag-g20-gg20"
         ], 
-        "Has session type": [
-            "Other"
-        ], 
-        "Has session location": [
-            {
-                "fulltext": "Room:Chaos West Stage", 
-                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Room:Chaos_West_Stage", 
-                "namespace": 516, 
-                "exists": true
-            }
-        ], 
-        "Has subtitle": [
-            "CouchSofa DJ set"
-        ], 
-        "Is organized by": [
-            {
-                "fulltext": "User:Bam", 
-                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/User:Bam", 
-                "namespace": 2, 
-                "exists": true
-            }
-        ], 
+        "Has description": [], 
+        "Has session type": [], 
+        "Has session location": [], 
+        "Has subtitle": [], 
+        "Is organized by": [], 
         "Has title": [
-            "Klangteppich"
+            "Nanooq: G20 und GG\u00a720"
         ], 
         "Has duration": [
-            150
+            1
         ], 
         "GUID": [
-            "bc39559b-0b24-4b27-9e1f-4b76d52cb1a8"
+            "cb96d4a5-f42a-47d8-b1c9-9d84656daefd"
         ], 
         "Has color": [
             "#0099ab"
         ], 
-        "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:Klangteppich", 
+        "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:Nanooq:_G20_und_GG%C2%A720", 
         "Has end time": [
-            "1514428200"
+            "1514502060"
         ]
     }, 
     "Session:FAILED ARTISTS INTERNATIONAL# 36f105d21d3a7e808fa329c54ec8a3e7": {
@@ -5192,53 +5179,43 @@
             "1514408400"
         ]
     }, 
-    "Session:Trickmisch# 83d3b7f23b17e9adae0af60941eabe94": {
+    "Session:Diy-ductape-wallets# 6a3969b23e8c371d23bba78dd41d1cbb": {
         "Held in language": [
-            "de - German"
+            "en - English"
         ], 
         "Has start time": [
-            "1514462400"
+            "1514476800"
         ], 
         "Has event track": [
             "Session"
         ], 
-        "Has website": [
-            "http://www.trickmisch.de", 
-            "http://www.trixmix.tv"
-        ], 
+        "Has website": [], 
         "Has description": [
-            "auf Trixmix.tv k\u00f6nnen eigene Trickfilme online erstellt werden. Daf\u00fcr kann man eigene Zeichnungen erstellen oder sich aus dem kollektiv erstellten Bildw\u00f6rterbuch bedienen."
+            "We will buld wallets made of ductape (or german Gaffer). This will take you around 2h. We will have some examples walltets and a lot of ductape. You need todo the rest by yourself and the help of the other people.\nHere is an example:https://www.wikihow.com/Make-a-Duct-Tape-Wallet"
         ], 
         "Has session type": [
             "Workshop"
         ], 
-        "Has session location": [
-            {
-                "fulltext": "Room:Kidspace", 
-                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Room:Kidspace", 
-                "namespace": 516, 
-                "exists": true
-            }
-        ], 
+        "Has session location": [], 
         "Has subtitle": [
-            "Trickfilm Workshop"
+            "Day 2 - First Workshop"
         ], 
         "Is organized by": [], 
         "Has title": [
-            "Trickmisch"
+            "Diy-ductape-wallets"
         ], 
         "Has duration": [
-            240
+            120
         ], 
         "GUID": [
-            "478676ae-916e-4012-9cce-f71ef82aac04"
+            "04dd1d7f-2a43-4f6e-91b1-c2406b71f6e8"
         ], 
         "Has color": [
             "#0099ab"
         ], 
-        "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:Trickmisch", 
+        "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:Diy-ductape-wallets", 
         "Has end time": [
-            "1514476800"
+            "1514484000"
         ]
     }, 
     "Session:Bier & Bass# dba27ab8e0afd98c3ac6e749c1db971a": {
@@ -6819,55 +6796,50 @@
             "1514576700"
         ]
     }, 
-    "Session:Stagemanager Introduction-Meeting# d967f154d0aab89bbf8b728c6ad76ca9": {
+    "Session:Ultra low-budget 3D models that can be decorated with LEDs# 8bfb9aa54d1e725da70cd6913a291df3": {
         "Held in language": [
             "en - English"
         ], 
         "Has start time": [
-            "1514319300"
+            "1514404800"
         ], 
         "Has event track": [
             "Session"
         ], 
-        "Has website": [], 
+        "Has website": [
+            "http://anneundfrederick.de/wp-content/uploads/2014/07/Kirchenbesucher-aus-Frischhaltefolie.jpg"
+        ], 
         "Has description": [
-            "Introduction meeting for Stagemanagers. \nThis meeting is mandatory if you want to be a Stagemanager during 34C3."
+            "We will make transculent, super cheap, 3D models of our bodyparts or other stuff you bring. Kids friendly but parents should attend because the cutting out needs some help of an adult. Please bring scissors and LEDs. I will hopefully have more then one scissor there but just to be sure.\n\nIt takes about 30 minutes to copy a fullsize adult leg. We will have two hours so you can make an entire body, or what ever you want."
         ], 
         "Has session type": [
-            "Meeting"
+            "Hands-On"
         ], 
         "Has session location": [
             {
-                "fulltext": "Room:Lecture room 12", 
-                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Room:Lecture_room_12", 
+                "fulltext": "Room:Komona Coral Reef", 
+                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Room:Komona_Coral_Reef", 
                 "namespace": 516, 
                 "exists": true
             }
         ], 
         "Has subtitle": [], 
-        "Is organized by": [
-            {
-                "fulltext": "User:Katzazi", 
-                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/User:Katzazi", 
-                "namespace": 2, 
-                "exists": true
-            }
-        ], 
+        "Is organized by": [], 
         "Has title": [
-            "Stagemanager Introduction-Meeting"
+            "Ultra low-budget 3D models that can be decorated with LEDs"
         ], 
         "Has duration": [
             120
         ], 
         "GUID": [
-            "9d07fde4-75d1-460e-888d-7857c952beef"
+            "5096ea2a-f75e-4223-9034-6c708dbfed76"
         ], 
         "Has color": [
             "#0099ab"
         ], 
-        "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:Stagemanager_Introduction-Meeting", 
+        "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:Ultra_low-budget_3D_models_that_can_be_decorated_with_LEDs", 
         "Has end time": [
-            "1514326500"
+            "1514412000"
         ]
     }, 
     "Session:A/V Angel Meeting# 5c285b4a67929ae8bde7565e8ec1dd37": {
@@ -8137,39 +8109,53 @@
             "1514405400"
         ]
     }, 
-    "Session:Nanooq: G20 und GG\u00a720# 12310e65c0bd4f56070b1e0df6878cf5": {
-        "Held in language": [
-            "de - German"
-        ], 
+    "Session:Security Without Borders# 77b19904bc175785c30273f753eee496": {
+        "Held in language": [], 
         "Has start time": [
-            "1514502000"
+            "1514403900"
         ], 
         "Has event track": [
             "Session"
         ], 
         "Has website": [
-            "https://gitlab.com/chaos-siegen/oektion/vortrag-g20-gg20"
+            "https://securitywithoutborders.org/"
         ], 
-        "Has description": [], 
+        "Has description": [
+            "Meetup of people interested about Security Without Borders."
+        ], 
         "Has session type": [], 
-        "Has session location": [], 
+        "Has session location": [
+            {
+                "fulltext": "Room:Seminar room 13", 
+                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Room:Seminar_room_13", 
+                "namespace": 516, 
+                "exists": true
+            }
+        ], 
         "Has subtitle": [], 
-        "Is organized by": [], 
+        "Is organized by": [
+            {
+                "fulltext": "User:Sobotny vecer", 
+                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/User:Sobotny_vecer", 
+                "namespace": 2, 
+                "exists": true
+            }
+        ], 
         "Has title": [
-            "Nanooq: G20 und GG\u00a720"
+            "Security Without Borders"
         ], 
         "Has duration": [
-            1
+            90
         ], 
         "GUID": [
-            "cb96d4a5-f42a-47d8-b1c9-9d84656daefd"
+            "16098a31-339d-482a-9cac-55a2b174cbae"
         ], 
         "Has color": [
             "#0099ab"
         ], 
-        "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:Nanooq:_G20_und_GG%C2%A720", 
+        "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:Security_Without_Borders", 
         "Has end time": [
-            "1514502060"
+            "1514409300"
         ]
     }, 
     "Session:Hessentrojaner Meetup# 633a78ebe0699f4dcdaad66afc0861f5": {
@@ -8367,55 +8353,6 @@
             "1514412000"
         ]
     }, 
-    "Session:Security Without Borders# 77b19904bc175785c30273f753eee496": {
-        "Held in language": [], 
-        "Has start time": [
-            "1514403900"
-        ], 
-        "Has event track": [
-            "Session"
-        ], 
-        "Has website": [
-            "https://securitywithoutborders.org/"
-        ], 
-        "Has description": [
-            "Meetup of people interested about Security Without Borders."
-        ], 
-        "Has session type": [], 
-        "Has session location": [
-            {
-                "fulltext": "Room:Seminar room 13", 
-                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Room:Seminar_room_13", 
-                "namespace": 516, 
-                "exists": true
-            }
-        ], 
-        "Has subtitle": [], 
-        "Is organized by": [
-            {
-                "fulltext": "User:Sobotny vecer", 
-                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/User:Sobotny_vecer", 
-                "namespace": 2, 
-                "exists": true
-            }
-        ], 
-        "Has title": [
-            "Security Without Borders"
-        ], 
-        "Has duration": [
-            90
-        ], 
-        "GUID": [
-            "16098a31-339d-482a-9cac-55a2b174cbae"
-        ], 
-        "Has color": [
-            "#0099ab"
-        ], 
-        "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:Security_Without_Borders", 
-        "Has end time": [
-            "1514409300"
-        ]
-    }, 
     "Session:How to make chiptune with a Game Boy DMG# 6223ac61875bb7990ff445b2b89d174f": {
         "Held in language": [
             "en - English"
@@ -8467,6 +8404,59 @@
         "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:How_to_make_chiptune_with_a_Game_Boy_DMG", 
         "Has end time": [
             "1514496600"
+        ]
+    }, 
+    "Session:Surface mount electronics assembly for terrified beginners# 6b3acfa8d44f2c81a768de9e7de8f3bd": {
+        "Held in language": [
+            "en - English"
+        ], 
+        "Has start time": [
+            "1514631600"
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [], 
+        "Has description": [
+            "Surface mount electronics for terrified beginners. Learn to assemble tiny parts on circuit boards by building a working power supply. Anyone can do it. Yes, even you who never touched anything electronic before. 90-100mins, 20\u20ac/kit, avoid caffeine immediately before. Max 20 participants per session, there will be a PAPER!!1! signup list in the hardware hacking area."
+        ], 
+        "Has session type": [
+            "Workshop"
+        ], 
+        "Has session location": [
+            {
+                "fulltext": "Assembly:HardwareHackingArea", 
+                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Assembly:HardwareHackingArea", 
+                "namespace": 504, 
+                "exists": true
+            }
+        ], 
+        "Has subtitle": [
+            "Day 4 Session 1"
+        ], 
+        "Is organized by": [
+            {
+                "fulltext": "User:Kliment", 
+                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/User:Kliment", 
+                "namespace": 2, 
+                "exists": true
+            }
+        ], 
+        "Has title": [
+            "Surface mount electronics assembly for terrified beginners"
+        ], 
+        "Has duration": [
+            90
+        ], 
+        "GUID": [
+            "a9061f0d-2b54-41c9-b4de-3f499804acfb"
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:Surface_mount_electronics_assembly_for_terrified_beginners", 
+        "Has end time": [
+            "1514637000"
         ]
     }, 
     "Session:MASKIERTE GRUPPENDYNAMIK (Henk)# 7cb07c12459e8a2ae4ec16da6ebe09af": {
@@ -8919,51 +8909,52 @@
             "1514469600"
         ]
     }, 
-    "Session:Rights&Freedoms# ca83ce3037feb2b401f3a8268db6165c": {
+    "Session:OParl: ein Datenstandard, um politische Entscheidungen transparent zu machen# b8b14d32f01198e29d282a1839ea2082": {
         "Held in language": [
-            "de - German", 
-            "en - English"
+            "de - German"
         ], 
         "Has start time": [
-            "1514469600"
+            "1514487600"
         ], 
         "Has event track": [
             "Session"
         ], 
-        "Has website": [], 
+        "Has website": [
+            "https://oparl.org"
+        ], 
         "Has description": [
-            "Rights & Freedoms Cluster Stage Programme"
+            "OParl ist ein Datenstandard f\u00fcr kommunale Entscheidungen, welche in Ratsinformationssystemen gespeichert werden. Mit den Daten kann man Transparenz und Beteiligung vor Ort f\u00f6rdern. Auf dem 33C3 stand der Standard in den Kinderschuhen, nun findet er zunehmend Verbreitung. Wir - ein Team der Open Knowledge Foundation - wollen den Stand der Dinge pr\u00e4sentieren gemeinsam \u00fcber die Zukunft reden: Anwendungen, Standard-Weiterentwicklung, weitere Verbreitung. Anschlie\u00dfend ab 19:00 gibt es einen technischen Workshop zu OParl."
         ], 
         "Has session type": [
-            "Talk"
+            "Discussion"
         ], 
         "Has session location": [
             {
-                "fulltext": "Room:CCL Hall 3", 
-                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Room:CCL_Hall_3", 
+                "fulltext": "Room:Esszimmer", 
+                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Room:Esszimmer", 
                 "namespace": 516, 
                 "exists": true
             }
         ], 
         "Has subtitle": [
-            "The upsurge of exceptional state politics and the downfall of digital human rights in Turkey (Alternatif Bilisim)"
+            "OParl-Workshop (technisch)"
         ], 
         "Is organized by": [], 
         "Has title": [
-            "Rights&Freedoms"
+            "OParl: ein Datenstandard, um politische Entscheidungen transparent zu machen"
         ], 
         "Has duration": [
-            60
+            45
         ], 
         "GUID": [
-            "d5e27e43-b64d-4166-8f5d-beb35700fd55"
+            "1268f73b-b992-5380-ab7a-31eee5e66240"
         ], 
         "Has color": [
             "#0099ab"
         ], 
-        "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:Rights%26Freedoms", 
+        "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:OParl:_ein_Datenstandard,_um_politische_Entscheidungen_transparent_zu_machen", 
         "Has end time": [
-            "1514473200"
+            "1514490300"
         ]
     }, 
     "Session:Cryptoparties, specialized content, and creative outreach# 71a713f9c816491aebdb104bfa8eecc5": {
@@ -9636,6 +9627,55 @@
         "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:Join_us_now_-_a_choir_to_perform_the_Free_Software_song", 
         "Has end time": [
             "1514563200"
+        ]
+    }, 
+    "Session:Trickmisch# 83d3b7f23b17e9adae0af60941eabe94": {
+        "Held in language": [
+            "de - German"
+        ], 
+        "Has start time": [
+            "1514462400"
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [
+            "http://www.trickmisch.de", 
+            "http://www.trixmix.tv"
+        ], 
+        "Has description": [
+            "auf Trixmix.tv k\u00f6nnen eigene Trickfilme online erstellt werden. Daf\u00fcr kann man eigene Zeichnungen erstellen oder sich aus dem kollektiv erstellten Bildw\u00f6rterbuch bedienen."
+        ], 
+        "Has session type": [
+            "Workshop"
+        ], 
+        "Has session location": [
+            {
+                "fulltext": "Room:Kidspace", 
+                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Room:Kidspace", 
+                "namespace": 516, 
+                "exists": true
+            }
+        ], 
+        "Has subtitle": [
+            "Trickfilm Workshop"
+        ], 
+        "Is organized by": [], 
+        "Has title": [
+            "Trickmisch"
+        ], 
+        "Has duration": [
+            240
+        ], 
+        "GUID": [
+            "478676ae-916e-4012-9cce-f71ef82aac04"
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:Trickmisch", 
+        "Has end time": [
+            "1514476800"
         ]
     }, 
     "Session:TeaHouse# 7693dc19e24497ef3c885347bbef9e3c": {
@@ -10692,52 +10732,6 @@
         "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:Surface_mount_electronics_assembly_for_terrified_beginners", 
         "Has end time": [
             "1514581200"
-        ]
-    }, 
-    "Session:Ultra low-budget 3D models that can be decorated with LEDs# 8bfb9aa54d1e725da70cd6913a291df3": {
-        "Held in language": [
-            "en - English"
-        ], 
-        "Has start time": [
-            "1514404800"
-        ], 
-        "Has event track": [
-            "Session"
-        ], 
-        "Has website": [
-            "http://anneundfrederick.de/wp-content/uploads/2014/07/Kirchenbesucher-aus-Frischhaltefolie.jpg"
-        ], 
-        "Has description": [
-            "We will make transculent, super cheap, 3D models of our bodyparts or other stuff you bring. Kids friendly but parents should attend because the cutting out needs some help of an adult. Please bring scissors and LEDs. I will hopefully have more then one scissor there but just to be sure.\n\nIt takes about 30 minutes to copy a fullsize adult leg. We will have two hours so you can make an entire body, or what ever you want."
-        ], 
-        "Has session type": [
-            "Hands-On"
-        ], 
-        "Has session location": [
-            {
-                "fulltext": "Room:Komona Coral Reef", 
-                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Room:Komona_Coral_Reef", 
-                "namespace": 516, 
-                "exists": true
-            }
-        ], 
-        "Has subtitle": [], 
-        "Is organized by": [], 
-        "Has title": [
-            "Ultra low-budget 3D models that can be decorated with LEDs"
-        ], 
-        "Has duration": [
-            120
-        ], 
-        "GUID": [
-            "5096ea2a-f75e-4223-9034-6c708dbfed76"
-        ], 
-        "Has color": [
-            "#0099ab"
-        ], 
-        "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:Ultra_low-budget_3D_models_that_can_be_decorated_with_LEDs", 
-        "Has end time": [
-            "1514412000"
         ]
     }, 
     "Session:TeaHouse# 6f1b570a5c0e6471dc60d210b99c5ccf": {
@@ -14703,58 +14697,55 @@
             "1514649600"
         ]
     }, 
-    "Session:Klangteppich# 9947b8ac3e54c94f197444c3f2b8838c": {
+    "Session:Stagemanager Introduction-Meeting# d967f154d0aab89bbf8b728c6ad76ca9": {
         "Held in language": [
-            "de - German", 
             "en - English"
         ], 
         "Has start time": [
-            "1514428200"
+            "1514319300"
         ], 
         "Has event track": [
             "Session"
         ], 
         "Has website": [], 
         "Has description": [
-            "Come over and meet us at our cozy music lounge in hall 2! Proudly presented by Chaos West"
+            "Introduction meeting for Stagemanagers. \nThis meeting is mandatory if you want to be a Stagemanager during 34C3."
         ], 
         "Has session type": [
-            "Other"
+            "Meeting"
         ], 
         "Has session location": [
             {
-                "fulltext": "Room:Chaos West Stage", 
-                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Room:Chaos_West_Stage", 
+                "fulltext": "Room:Lecture room 12", 
+                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Room:Lecture_room_12", 
                 "namespace": 516, 
                 "exists": true
             }
         ], 
-        "Has subtitle": [
-            "faheus DJ set"
-        ], 
+        "Has subtitle": [], 
         "Is organized by": [
             {
-                "fulltext": "User:Bam", 
-                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/User:Bam", 
+                "fulltext": "User:Katzazi", 
+                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/User:Katzazi", 
                 "namespace": 2, 
                 "exists": true
             }
         ], 
         "Has title": [
-            "Klangteppich"
+            "Stagemanager Introduction-Meeting"
         ], 
         "Has duration": [
             120
         ], 
         "GUID": [
-            "cbc32a2c-1f29-44a9-a232-0f458f979813"
+            "9d07fde4-75d1-460e-888d-7857c952beef"
         ], 
         "Has color": [
             "#0099ab"
         ], 
-        "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:Klangteppich", 
+        "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:Stagemanager_Introduction-Meeting", 
         "Has end time": [
-            "1514435400"
+            "1514326500"
         ]
     }, 
     "Session:\"Pen&Paper\" Game Jam# 10928c30e28d8033fa0ff229def0486e": {
@@ -14988,57 +14979,51 @@
             "1514498400"
         ]
     }, 
-    "Session:Surface mount electronics assembly for terrified beginners# 6b3acfa8d44f2c81a768de9e7de8f3bd": {
+    "Session:Rights&Freedoms# ca83ce3037feb2b401f3a8268db6165c": {
         "Held in language": [
+            "de - German", 
             "en - English"
         ], 
         "Has start time": [
-            "1514631600"
+            "1514469600"
         ], 
         "Has event track": [
             "Session"
         ], 
         "Has website": [], 
         "Has description": [
-            "Surface mount electronics for terrified beginners. Learn to assemble tiny parts on circuit boards by building a working power supply. Anyone can do it. Yes, even you who never touched anything electronic before. 90-100mins, 20\u20ac/kit, avoid caffeine immediately before. Max 20 participants per session, there will be a PAPER!!1! signup list in the hardware hacking area."
+            "Rights & Freedoms Cluster Stage Programme"
         ], 
         "Has session type": [
-            "Workshop"
+            "Talk"
         ], 
         "Has session location": [
             {
-                "fulltext": "Assembly:HardwareHackingArea", 
-                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Assembly:HardwareHackingArea", 
-                "namespace": 504, 
+                "fulltext": "Room:CCL Hall 3", 
+                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Room:CCL_Hall_3", 
+                "namespace": 516, 
                 "exists": true
             }
         ], 
         "Has subtitle": [
-            "Day 4 Session 1"
+            "The upsurge of exceptional state politics and the downfall of digital human rights in Turkey (Alternatif Bilisim)"
         ], 
-        "Is organized by": [
-            {
-                "fulltext": "User:Kliment", 
-                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/User:Kliment", 
-                "namespace": 2, 
-                "exists": true
-            }
-        ], 
+        "Is organized by": [], 
         "Has title": [
-            "Surface mount electronics assembly for terrified beginners"
+            "Rights&Freedoms"
         ], 
         "Has duration": [
-            90
+            60
         ], 
         "GUID": [
-            "a9061f0d-2b54-41c9-b4de-3f499804acfb"
+            "d5e27e43-b64d-4166-8f5d-beb35700fd55"
         ], 
         "Has color": [
             "#0099ab"
         ], 
-        "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:Surface_mount_electronics_assembly_for_terrified_beginners", 
+        "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:Rights%26Freedoms", 
         "Has end time": [
-            "1514637000"
+            "1514473200"
         ]
     }, 
     "Session:Die Drei Fragezeichen ??? - Fans treffen sich!# b5fb00afdadd6a15ab9a8c44cd7a88b4": {
@@ -15778,6 +15763,60 @@
         "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:Limlug:_In_der_Weihnachtsb%C3%A4ckerei_-_Data_Science_und_Kekse", 
         "Has end time": [
             "1514565900"
+        ]
+    }, 
+    "Session:Klangteppich# 2840d6b6a61e8eb2baff457595374424": {
+        "Held in language": [
+            "de - German", 
+            "en - English"
+        ], 
+        "Has start time": [
+            "1514419200"
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [], 
+        "Has description": [
+            "Come over and meet us at our cozy music lounge in hall 2! Proudly presented by Chaos West"
+        ], 
+        "Has session type": [
+            "Other"
+        ], 
+        "Has session location": [
+            {
+                "fulltext": "Room:Chaos West Stage", 
+                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Room:Chaos_West_Stage", 
+                "namespace": 516, 
+                "exists": true
+            }
+        ], 
+        "Has subtitle": [
+            "CouchSofa DJ set"
+        ], 
+        "Is organized by": [
+            {
+                "fulltext": "User:Bam", 
+                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/User:Bam", 
+                "namespace": 2, 
+                "exists": true
+            }
+        ], 
+        "Has title": [
+            "Klangteppich"
+        ], 
+        "Has duration": [
+            210
+        ], 
+        "GUID": [
+            "bc39559b-0b24-4b27-9e1f-4b76d52cb1a8"
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:Klangteppich", 
+        "Has end time": [
+            "1514431800"
         ]
     }, 
     "Session:ArduinoForTotalNewbies# 3588429a6f8752483105fbd13c3854e6": {
