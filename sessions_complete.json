@@ -6355,7 +6355,7 @@
         ], 
         "Has website": [], 
         "Has description": [
-            "Wir zeigen wie man mit freier Software ansprechende Let's Plays gestalten kann. In der Planung sind Let's Plays f\u00fcr Minecraft und dem Worldpainter f\u00fcr Minecraft Welten! Es gehen aber auch alle anderen bereits installierten Spiele, die gerne gespielt werden! Kinder ab 10 Jahren, die gerne ihre eigenen let's Plays erstellen m\u00f6chten! Maximal 4-6 Kids, ausser wir bekommen noch Helfer! Wir gehen davon aus das Kids ihre eigene Ger\u00e4te mitbringen! \n\nDie Software kann unter folgenden Quellen geladen und anschlie\u00dfend installiert werden:\n\n* Screenrecording Software https://obsproject.com/ (Linux,OSX und Windows)\n* Freie Bildbearbeitungssoftware https://www.gimp.org/ (Linux,OSX und Windows)\n\n'''Achtung!''' F\u00fcr die Installation wird ein Administratorenpasswort des Rechners ben\u00f6tigt."
+            "Wir zeigen wie man mit freier Software ansprechende Let's Plays gestalten kann. In der Planung sind Let's Plays f\u00fcr Minecraft und dem Worldpainter f\u00fcr Minecraft Welten! Es gehen aber auch alle anderen bereits installierten Spiele, die gerne gespielt werden! Kinder ab 10 Jahren, die gerne ihre eigenen let's Plays erstellen m\u00f6chten! Maximal 4-6 Kids, ausser wir bekommen noch Helfer! Wir gehen davon aus das Kids ihre eigene Ger\u00e4te mitbringen! Bisher haben wir den Workshop immer auf Laptops geprobt!\n\nDie Software kann unter folgenden Quellen geladen und anschlie\u00dfend installiert werden:\n\n* Screenrecording Software https://obsproject.com/ (Linux,OSX und Windows)\n* Freie Bildbearbeitungssoftware https://www.gimp.org/ (Linux,OSX und Windows)\n\n'''Achtung!''' F\u00fcr die Installation wird ein Administratorenpasswort des Rechners ben\u00f6tigt.\n\n\nNat\u00fcrlich darf bei jeder Session auch begeistert zugesehen werden und wer kein ad\u00e4quates Ger\u00e4t dabei  hat wird sicher auch einmal die M\u00f6glichkeit bekommen zu spielen!\nDie Anmeldung erfolgt vor Ort und falls die Zeit im Jugendhack Assembly abgelaufen ist finden wir mit Sicherheit noch eine ecke im Kidspace wo wir nach Lust und Laune weiter experimentieren k\u00f6nnen!"
         ], 
         "Has session type": [
             "Workshop"
@@ -9602,7 +9602,7 @@
         ], 
         "Has website": [], 
         "Has description": [
-            "Wir zeigen wie man mit freier Software ansprechende Let's Plays gestalten kann. In der Planung sind Let's Plays f\u00fcr Minecraft und dem Worldpainter f\u00fcr Minecraft Welten! Es gehen aber auch alle anderen bereits installierten Spiele, die gerne gespielt werden! Kinder ab 10 Jahren, die gerne ihre eigenen let's Plays erstellen m\u00f6chten! Maximal 4-6 Kids, ausser wir bekommen noch Helfer! Wir gehen davon aus das Kids ihre eigene Ger\u00e4te mitbringen! \n\nDie Software kann unter folgenden Quellen geladen und anschlie\u00dfend installiert werden:\n\n* Screenrecording Software https://obsproject.com/ (Linux,OSX und Windows)\n* Freie Bildbearbeitungssoftware https://www.gimp.org/ (Linux,OSX und Windows)\n\n'''Achtung!''' F\u00fcr die Installation wird ein Administratorenpasswort des Rechners ben\u00f6tigt."
+            "Wir zeigen wie man mit freier Software ansprechende Let's Plays gestalten kann. In der Planung sind Let's Plays f\u00fcr Minecraft und dem Worldpainter f\u00fcr Minecraft Welten! Es gehen aber auch alle anderen bereits installierten Spiele, die gerne gespielt werden! Kinder ab 10 Jahren, die gerne ihre eigenen let's Plays erstellen m\u00f6chten! Maximal 4-6 Kids, ausser wir bekommen noch Helfer! Wir gehen davon aus das Kids ihre eigene Ger\u00e4te mitbringen! Bisher haben wir den Workshop immer auf Laptops geprobt!\n\nDie Software kann unter folgenden Quellen geladen und anschlie\u00dfend installiert werden:\n\n* Screenrecording Software https://obsproject.com/ (Linux,OSX und Windows)\n* Freie Bildbearbeitungssoftware https://www.gimp.org/ (Linux,OSX und Windows)\n\n'''Achtung!''' F\u00fcr die Installation wird ein Administratorenpasswort des Rechners ben\u00f6tigt.\n\n\nNat\u00fcrlich darf bei jeder Session auch begeistert zugesehen werden und wer kein ad\u00e4quates Ger\u00e4t dabei  hat wird sicher auch einmal die M\u00f6glichkeit bekommen zu spielen!\nDie Anmeldung erfolgt vor Ort und falls die Zeit im Jugendhack Assembly abgelaufen ist finden wir mit Sicherheit noch eine ecke im Kidspace wo wir nach Lust und Laune weiter experimentieren k\u00f6nnen!"
         ], 
         "Has session type": [
             "Workshop"
@@ -13972,42 +13972,55 @@
             "1514554200"
         ]
     }, 
-    "Session:Reclaim Club Culture# 435f70b0d8b0a863929e385902878bc4": {
-        "Held in language": [], 
+    "Session:Decentralized Web# 9b32d84f13db85aaa1a4f6d7a5e0cdbb": {
+        "Held in language": [
+            "en - English"
+        ], 
         "Has start time": [
-            "1514404800"
+            "1514485800"
         ], 
         "Has event track": [
             "Session"
         ], 
         "Has website": [], 
-        "Has description": [], 
-        "Has session type": [], 
+        "Has description": [
+            "Discussion about the state of the decentralized web"
+        ], 
+        "Has session type": [
+            "Discussion"
+        ], 
         "Has session location": [
             {
-                "fulltext": "Room:Komona D.Ressrosa", 
-                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Room:Komona_D.Ressrosa", 
+                "fulltext": "Room:Lecture room 12", 
+                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Room:Lecture_room_12", 
                 "namespace": 516, 
                 "exists": true
             }
         ], 
         "Has subtitle": [], 
-        "Is organized by": [], 
+        "Is organized by": [
+            {
+                "fulltext": "User:Mwarning", 
+                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/User:Mwarning", 
+                "namespace": 2, 
+                "exists": true
+            }
+        ], 
         "Has title": [
-            "Reclaim Club Culture"
+            "Decentralized Web"
         ], 
         "Has duration": [
-            120
+            60
         ], 
         "GUID": [
-            "1191f1bd-7e79-40a2-aff6-6d843352ab47"
+            "4faa3b11-b441-4b17-ab71-8c98b89a7a67"
         ], 
         "Has color": [
             "#0099ab"
         ], 
-        "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:Reclaim_Club_Culture", 
+        "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:Decentralized_Web", 
         "Has end time": [
-            "1514412000"
+            "1514489400"
         ]
     }, 
     "Session:Klangteppich# 81698583ebf8a6e48055ec8fe98a69cc": {
@@ -15282,6 +15295,44 @@
         "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:Cryptoparty", 
         "Has end time": [
             "1514397600"
+        ]
+    }, 
+    "Session:Reclaim Club Culture# 435f70b0d8b0a863929e385902878bc4": {
+        "Held in language": [], 
+        "Has start time": [
+            "1514404800"
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [], 
+        "Has description": [], 
+        "Has session type": [], 
+        "Has session location": [
+            {
+                "fulltext": "Room:Komona D.Ressrosa", 
+                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Room:Komona_D.Ressrosa", 
+                "namespace": 516, 
+                "exists": true
+            }
+        ], 
+        "Has subtitle": [], 
+        "Is organized by": [], 
+        "Has title": [
+            "Reclaim Club Culture"
+        ], 
+        "Has duration": [
+            120
+        ], 
+        "GUID": [
+            "1191f1bd-7e79-40a2-aff6-6d843352ab47"
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:Reclaim_Club_Culture", 
+        "Has end time": [
+            "1514412000"
         ]
     }, 
     "Session:Karaoke-Taxi# 95e759b544189a13f996c855094069a3": {
