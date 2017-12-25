@@ -1,6 +1,6 @@
 {
     "schedule": {
-        "version": "Bikinihaus", 
+        "version": "HAKP", 
         "base_url": "https://fahrplan.events.ccc.de/congress/2017/Fahrplan/", 
         "conference": {
             "acronym": "34c3", 
@@ -4614,6 +4614,38 @@
                                 "attachments": []
                             }, 
                             {
+                                "url": "https://fahrplan.events.ccc.de/congress/2017/Fahrplan/events/9297.html", 
+                                "id": 9297, 
+                                "guid": "2dd1ed02-2a4f-4c15-93e5-6d171fea74df", 
+                                "logo": null, 
+                                "date": "2017-12-28T18:30:00+01:00", 
+                                "start": "18:30", 
+                                "duration": "01:00", 
+                                "room": "Saal Borg", 
+                                "slug": "34c3-9297-the_snowden_refugees_under_surveillance_in_hong_kong", 
+                                "title": "The Snowden Refugees under Surveillance in Hong Kong", 
+                                "subtitle": "A Rapidly Emerging Police State and Imminent Deportation to Sri Lanka and Philippines", 
+                                "track": "Ethics, Society & Politics", 
+                                "type": "lecture", 
+                                "language": "en", 
+                                "abstract": "The Snowden Refugees\u2019 actions to protect the world\u2019s most significant whistle blower of the 21st Century, amounts to an expression of Political Opinion. Since September 2016, the Snowden Refugees have been systematically targeted and persecuted by the Hong Kong government based on that political opinion.", 
+                                "description": "After the Oliver Stone film \u201cSnowden\u201d was released in September 2016, the world learned about Edward Snowden having been provided a safe haven and refuge in Hong Kong by the destitute \u201cSnowden Refugees\u201d.\r\nInstead of being recognized as brave individuals who selflessly protected Mr Snowden, the Hong Kong government launched a systematic campaign to harass, oppress and punish the Snowden Refugees, with a view to deport them from Hong Kong as quickly as possible.\r\nBy October 2017, the Hong Kong government had utilized the Social Welfare Department, its Swiss based Contractor International Social Services, and the Immigration Department to target and punish the Snowden Refugees. These well-planned systemic efforts escalated with the Hong Kong police targeting the Snowden Refugees, instead of providing protection to them.\r\nThe Hong Kong government has been aggressively seeking to rapidly remove Vanessa and her stateless daughter to the Philippines under conditions of a nation-wide state of emergency, martial law in Mindanao and a recently catalyzed nation-wide civil war with the National People\u2019s Army. In the name of a war on drugs, President Duterte directed the well-planned and systematic use of torture, arbitrary arrest and detention, enforced disappearances and extra-judicial killings of tens of thousands of innocent civilians including politicians, with no end in sight. His actions amount to crimes against humanity.\r\nThe Hong Kong government also seeks to deport the Sri Lankan Snowden Refugees to a country accused of having committed war crimes, crimes against humanity and genocide, with its current Prime Minister Ranil Wickremesinghe accused of being complicit in war crimes and crimes against humanity. Today Sri Lanka is plagued by systemic use of torture, arbitrary arrest and detention, enforced disappearances and extrajudicial killings with no end in sight. \r\nIn the above context, the Hong Kong government has failed to protect the Snowden Refugees and in fact have taken steps to put them in harms\u2019 way both in Hong Kong and their countries of origin.", 
+                                "recording_license": "", 
+                                "do_not_record": false, 
+                                "persons": [
+                                    {
+                                        "id": 7259, 
+                                        "public_name": "Robert Tibbo"
+                                    }, 
+                                    {
+                                        "id": 8026, 
+                                        "public_name": "Edward Snowden"
+                                    }
+                                ], 
+                                "links": [], 
+                                "attachments": []
+                            }, 
+                            {
                                 "url": "https://fahrplan.events.ccc.de/congress/2017/Fahrplan/events/8730.html", 
                                 "id": 8730, 
                                 "guid": "7308816a-1e3d-4dc6-99e8-b512da95bcf1", 
@@ -8772,7 +8804,7 @@
                                 "type": "lecture", 
                                 "language": "en", 
                                 "abstract": "Airborne wind energy is the attempt to bring the digital revolution to the production of energy. It means that we convert the power of high-altitude winds into electricity by autonomously controlled aircraft which are connected to the ground via a tether.\r\nThis technology can be a key element to finally power the world by clean energy only. In this talk we will explain the physical foundations, give an overview of the current status and show you how to build an experimental system by yourself: it involves hacking an off-the-shelf model aircraft and its autopilot based on the open and free Ardupilot framework.", 
-                                "description": "It is hard to argue that energy is not the very heart of humankind\u2019s\r\nmajor challenge. Up to now it is largely unscratched by a digital\r\nrevolution -- the main power sources of the world are remarkably dumb.\r\n\r\nWe are about to change this. In this talk, we will present what we think will disrupt energy production. We're not talking about retrofitting the power grid with yet some more insecure 'smart' component. This is about predictably available renewable energy called Airborne Wind Energy (AWE): autonomous flying drones at high altitudes can harvest the wind\u2019s energy cheaper than any wind turbine, and most importantly:\r\nit can be done almost everywhere and almost all the time, solving the two major technological and geopolitical challenges of sustainable\r\nenergy production, which has rattled the world for decades. We are\r\nconvinced that humans should power the world by clean energy only, and we think AWE can be a key element to do just that. In\r\nthis talk, we will cover the physical foundations, introduce a few of the control algorithms and the challenges associated with very strong forces acting on very light objects. We will also shed a light on the progress of leaders in the field such as Ampyx Power and Google Makani.\r\n \r\nBut there is more to it: Using the `AWEsome' project, we will show you how to build an open source wind drone for yourself by hacking a model plane and its autopilot based on the open and free Ardupilot framework. While its energy production will be rather limited, it serves a lot of useful purposes: For example, it paves the way to test crazy new ideas of start, landing and flight modes on a cheap disposable platform and is a training playground for flight operations.\r\nMaybe by the time of the next Chaos Communication Camp, you will have joined us and we can fly our wind energy harvesting robots together -- and save the world, all at the same time.\r\n", 
+                                "description": "It is hard to argue that energy is not the very heart of humankind\u2019s major challenge. Up to now it is largely unscratched by a digital revolution -- the main power sources of the world are remarkably dumb.\r\n\r\nWe are about to change this. In this talk, we will present what we think will disrupt energy production. We're not talking about retrofitting the power grid with yet some more insecure 'smart' component. This is about predictably available renewable energy called Airborne Wind Energy (AWE): autonomous flying drones at high altitudes can harvest the wind\u2019s energy cheaper than any wind turbine, and most importantly: it can be done almost everywhere and almost all the time, solving the two major technological and geopolitical challenges of sustainable energy production, which has rattled the world for decades. We are convinced that humans should power the world by clean energy only, and we think AWE can be a key element to do just that. In this talk, we will cover the physical foundations, introduce a few of the control algorithms and the challenges associated with very strong forces acting on very light objects. We will also shed a light on the progress of leaders in the field such as Ampyx Power and Google Makani.\r\n \r\nBut there is more to it: Using the `AWEsome' project, we will show you how to build an open source wind drone for yourself by hacking a model plane and its autopilot based on the open and free Ardupilot framework. While its energy production will be rather limited, it serves a lot of useful purposes: For example, it paves the way to test crazy new ideas of start, landing and flight modes on a cheap disposable platform and is a training playground for flight operations.\r\n\r\nMaybe by the time of the next Chaos Communication Camp, you will have joined us and we can fly our wind energy harvesting robots together -- and save the world, all at the same time.", 
                                 "recording_license": "CC BY 4.0", 
                                 "do_not_record": false, 
                                 "persons": [
