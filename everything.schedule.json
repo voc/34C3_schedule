@@ -1823,7 +1823,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1196, 
+                                "id": 1195, 
                                 "guid": "939c5253-417d-40b3-afe1-9b7cef1bf932", 
                                 "logo": null, 
                                 "date": "2017-12-27T18:00:00+01:00", 
@@ -1868,7 +1868,7 @@
                         ], 
                         "Lecture room 11": [
                             {
-                                "id": 1017, 
+                                "id": 1015, 
                                 "guid": "f5f69c30-2863-4817-a663-b248274c87ac", 
                                 "logo": null, 
                                 "date": "2017-12-27T20:15:00+01:00", 
@@ -1969,7 +1969,7 @@
                         ], 
                         "Chaos West Stage": [
                             {
-                                "id": 1143, 
+                                "id": 1142, 
                                 "guid": "bc39559b-0b24-4b27-9e1f-4b76d52cb1a8", 
                                 "logo": null, 
                                 "date": "2017-12-28T00:00:00+01:00", 
@@ -1996,7 +1996,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1144, 
+                                "id": 1143, 
                                 "guid": "cbc32a2c-1f29-44a9-a232-0f458f979813", 
                                 "logo": null, 
                                 "date": "2017-12-28T03:30:00+01:00", 
@@ -2344,7 +2344,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1212, 
+                                "id": 1211, 
                                 "guid": "a1de5914-4649-4613-b1b1-716106c43f29", 
                                 "logo": null, 
                                 "date": "2017-12-27T20:00:00+01:00", 
@@ -2386,7 +2386,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1217, 
+                                "id": 1216, 
                                 "guid": "b6aeee73-c559-42aa-b5f1-4aaa1303d051", 
                                 "logo": null, 
                                 "date": "2017-12-27T21:00:00+01:00", 
@@ -2536,29 +2536,8 @@
                                 "id": 1194, 
                                 "guid": "1191f1bd-7e79-40a2-aff6-6d843352ab47", 
                                 "logo": null, 
-                                "date": "2017-12-27T20:00:00+01:00", 
-                                "start": "20:00", 
-                                "duration": "2:00", 
-                                "room": "Komona D.Ressrosa", 
-                                "slug": "", 
-                                "title": "Reclaim Club Culture", 
-                                "subtitle": "", 
-                                "track": "self organized sessions", 
-                                "type": "", 
-                                "language": "", 
-                                "abstract": "", 
-                                "description": "", 
-                                "persons": [], 
-                                "links": [
-                                    "https://events.ccc.de/congress/2017/wiki/index.php/Session:Reclaim_Club_Culture"
-                                ]
-                            }, 
-                            {
-                                "id": 1195, 
-                                "guid": "06e9351c-7ff5-459a-8591-2d5297faf847", 
-                                "logo": null, 
-                                "date": "2017-12-27T12:00:00+01:00", 
-                                "start": "12:00", 
+                                "date": "2017-12-27T14:00:00+01:00", 
+                                "start": "14:00", 
                                 "duration": "2:00", 
                                 "room": "Komona D.Ressrosa", 
                                 "slug": "", 
@@ -2578,8 +2557,29 @@
                                 "id": 1194, 
                                 "guid": "1191f1bd-7e79-40a2-aff6-6d843352ab47", 
                                 "logo": null, 
-                                "date": "2017-12-27T14:00:00+01:00", 
-                                "start": "14:00", 
+                                "date": "2017-12-27T20:00:00+01:00", 
+                                "start": "20:00", 
+                                "duration": "2:00", 
+                                "room": "Komona D.Ressrosa", 
+                                "slug": "", 
+                                "title": "Reclaim Club Culture", 
+                                "subtitle": "", 
+                                "track": "self organized sessions", 
+                                "type": "", 
+                                "language": "", 
+                                "abstract": "", 
+                                "description": "", 
+                                "persons": [], 
+                                "links": [
+                                    "https://events.ccc.de/congress/2017/wiki/index.php/Session:Reclaim_Club_Culture"
+                                ]
+                            }, 
+                            {
+                                "id": 1196, 
+                                "guid": "06e9351c-7ff5-459a-8591-2d5297faf847", 
+                                "logo": null, 
+                                "date": "2017-12-27T12:00:00+01:00", 
+                                "start": "12:00", 
                                 "duration": "2:00", 
                                 "room": "Komona D.Ressrosa", 
                                 "slug": "", 
@@ -2642,7 +2642,7 @@
                         ], 
                         "Seminar room 14-15": [
                             {
-                                "id": 1024, 
+                                "id": 1026, 
                                 "guid": "579eab72-fbd6-5ba7-ad7a-59bcab0272ad", 
                                 "logo": null, 
                                 "date": "2017-12-27T12:45:00+01:00", 
@@ -2663,7 +2663,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1025, 
+                                "id": 1027, 
                                 "guid": "a8254a36-ca09-5c68-8e0b-1399b8a94247", 
                                 "logo": null, 
                                 "date": "2017-12-27T16:30:00+01:00", 
@@ -2684,7 +2684,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1026, 
+                                "id": 1028, 
                                 "guid": "a7083f65-5e8b-52cb-b008-af59762bb115", 
                                 "logo": null, 
                                 "date": "2017-12-27T17:15:00+01:00", 
@@ -2903,7 +2903,7 @@
                         ], 
                         "Komona Blue Princess": [
                             {
-                                "id": 1021, 
+                                "id": 1022, 
                                 "guid": "604ff957-cc9f-4bde-b138-feae84fa0202", 
                                 "logo": null, 
                                 "date": "2017-12-27T20:00:00+01:00", 
@@ -3742,16 +3742,16 @@
                                 ]
                             }, 
                             {
-                                "id": 1249, 
-                                "guid": "106c752f-7697-4981-b5f5-c5821d1f9cf4", 
+                                "id": 1247, 
+                                "guid": "7b07e29a-77f7-492d-9633-ed5c0fd10b9a", 
                                 "logo": null, 
-                                "date": "2017-12-27T15:00:00+01:00", 
-                                "start": "15:00", 
+                                "date": "2017-12-27T17:00:00+01:00", 
+                                "start": "17:00", 
                                 "duration": "1:30", 
                                 "room": "Assembly:HardwareHackingArea", 
                                 "slug": "", 
                                 "title": "Surface mount electronics assembly for terrified beginners", 
-                                "subtitle": "Day 1 Session 2", 
+                                "subtitle": "Day 1 Session 3", 
                                 "track": "self organized sessions", 
                                 "type": "workshop", 
                                 "language": "en", 
@@ -3769,16 +3769,16 @@
                                 ]
                             }, 
                             {
-                                "id": 1247, 
-                                "guid": "7b07e29a-77f7-492d-9633-ed5c0fd10b9a", 
+                                "id": 1249, 
+                                "guid": "106c752f-7697-4981-b5f5-c5821d1f9cf4", 
                                 "logo": null, 
-                                "date": "2017-12-27T17:00:00+01:00", 
-                                "start": "17:00", 
+                                "date": "2017-12-27T15:00:00+01:00", 
+                                "start": "15:00", 
                                 "duration": "1:30", 
                                 "room": "Assembly:HardwareHackingArea", 
                                 "slug": "", 
                                 "title": "Surface mount electronics assembly for terrified beginners", 
-                                "subtitle": "Day 1 Session 3", 
+                                "subtitle": "Day 1 Session 2", 
                                 "track": "self organized sessions", 
                                 "type": "workshop", 
                                 "language": "en", 
@@ -3849,7 +3849,7 @@
                         ], 
                         "Assembly:TeaHouse": [
                             {
-                                "id": 1257, 
+                                "id": 1256, 
                                 "guid": "2fe2c9a3-8e76-4542-afb8-6505fed72094", 
                                 "logo": null, 
                                 "date": "2017-12-27T13:00:00+01:00", 
@@ -3877,7 +3877,35 @@
                                 ]
                             }, 
                             {
-                                "id": 1258, 
+                                "id": 1259, 
+                                "guid": "ef3bcca2-42bc-4bb0-a326-70e277316094", 
+                                "logo": null, 
+                                "date": "2017-12-27T14:30:00+01:00", 
+                                "start": "14:30", 
+                                "duration": "1:00", 
+                                "room": "Assembly:TeaHouse", 
+                                "slug": "", 
+                                "title": "TeaHouse", 
+                                "subtitle": "State of website censorship in France and elsewhere ?", 
+                                "track": "self organized sessions", 
+                                "type": "meeting", 
+                                "language": "en", 
+                                "abstract": "", 
+                                "description": "", 
+                                "persons": [
+                                    {
+                                        "id": 0, 
+                                        "url": "https://events.ccc.de/congress/2017/wiki/index.php/User:Sanpi", 
+                                        "public_name": "Sanpi"
+                                    }
+                                ], 
+                                "links": [
+                                    "https://teahouse.homecomputing.fr/", 
+                                    "https://events.ccc.de/congress/2017/wiki/index.php/Session:TeaHouse"
+                                ]
+                            }, 
+                            {
+                                "id": 1260, 
                                 "guid": "0684a69d-9796-4946-9955-84cfafe8cb64", 
                                 "logo": null, 
                                 "date": "2017-12-27T16:00:00+01:00", 
@@ -3906,62 +3934,6 @@
                             }, 
                             {
                                 "id": 1260, 
-                                "guid": "ef3bcca2-42bc-4bb0-a326-70e277316094", 
-                                "logo": null, 
-                                "date": "2017-12-27T14:30:00+01:00", 
-                                "start": "14:30", 
-                                "duration": "1:00", 
-                                "room": "Assembly:TeaHouse", 
-                                "slug": "", 
-                                "title": "TeaHouse", 
-                                "subtitle": "State of website censorship in France and elsewhere ?", 
-                                "track": "self organized sessions", 
-                                "type": "meeting", 
-                                "language": "en", 
-                                "abstract": "", 
-                                "description": "", 
-                                "persons": [
-                                    {
-                                        "id": 0, 
-                                        "url": "https://events.ccc.de/congress/2017/wiki/index.php/User:Sanpi", 
-                                        "public_name": "Sanpi"
-                                    }
-                                ], 
-                                "links": [
-                                    "https://teahouse.homecomputing.fr/", 
-                                    "https://events.ccc.de/congress/2017/wiki/index.php/Session:TeaHouse"
-                                ]
-                            }, 
-                            {
-                                "id": 1258, 
-                                "guid": "0684a69d-9796-4946-9955-84cfafe8cb64", 
-                                "logo": null, 
-                                "date": "2017-12-27T19:00:00+01:00", 
-                                "start": "19:00", 
-                                "duration": "1:30", 
-                                "room": "Assembly:TeaHouse", 
-                                "slug": "", 
-                                "title": "TeaHouse", 
-                                "subtitle": "Dr. Peng saves the world", 
-                                "track": "self organized sessions", 
-                                "type": "meeting", 
-                                "language": "en", 
-                                "abstract": "", 
-                                "description": "", 
-                                "persons": [
-                                    {
-                                        "id": 0, 
-                                        "url": "https://events.ccc.de/congress/2017/wiki/index.php/User:Sanpi", 
-                                        "public_name": "Sanpi"
-                                    }
-                                ], 
-                                "links": [
-                                    "https://teahouse.homecomputing.fr/", 
-                                    "https://events.ccc.de/congress/2017/wiki/index.php/Session:TeaHouse"
-                                ]
-                            }, 
-                            {
-                                "id": 1258, 
                                 "guid": "0684a69d-9796-4946-9955-84cfafe8cb64", 
                                 "logo": null, 
                                 "date": "2017-12-27T17:00:00+01:00", 
@@ -3971,6 +3943,34 @@
                                 "slug": "", 
                                 "title": "TeaHouse", 
                                 "subtitle": "HACKING ANXIETY!!1!11", 
+                                "track": "self organized sessions", 
+                                "type": "meeting", 
+                                "language": "en", 
+                                "abstract": "", 
+                                "description": "", 
+                                "persons": [
+                                    {
+                                        "id": 0, 
+                                        "url": "https://events.ccc.de/congress/2017/wiki/index.php/User:Sanpi", 
+                                        "public_name": "Sanpi"
+                                    }
+                                ], 
+                                "links": [
+                                    "https://teahouse.homecomputing.fr/", 
+                                    "https://events.ccc.de/congress/2017/wiki/index.php/Session:TeaHouse"
+                                ]
+                            }, 
+                            {
+                                "id": 1260, 
+                                "guid": "0684a69d-9796-4946-9955-84cfafe8cb64", 
+                                "logo": null, 
+                                "date": "2017-12-27T19:00:00+01:00", 
+                                "start": "19:00", 
+                                "duration": "1:30", 
+                                "room": "Assembly:TeaHouse", 
+                                "slug": "", 
+                                "title": "TeaHouse", 
+                                "subtitle": "Dr. Peng saves the world", 
                                 "track": "self organized sessions", 
                                 "type": "meeting", 
                                 "language": "en", 
@@ -5779,7 +5779,7 @@
                         ], 
                         "Lecture room 11": [
                             {
-                                "id": 1014, 
+                                "id": 1016, 
                                 "guid": "2b6595ff-c32b-44aa-9bda-e411e5911162", 
                                 "logo": null, 
                                 "date": "2017-12-28T20:15:00+01:00", 
@@ -5861,7 +5861,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1141, 
+                                "id": 1140, 
                                 "guid": "07142f3d-b450-4cac-94c7-9bb95f78339b", 
                                 "logo": null, 
                                 "date": "2017-12-28T15:00:00+01:00", 
@@ -6024,7 +6024,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1142, 
+                                "id": 1144, 
                                 "guid": "11832e8c-2e41-4c8d-8ed8-a908d5638480", 
                                 "logo": null, 
                                 "date": "2017-12-29T00:00:00+01:00", 
@@ -6051,7 +6051,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1142, 
+                                "id": 1144, 
                                 "guid": "11832e8c-2e41-4c8d-8ed8-a908d5638480", 
                                 "logo": null, 
                                 "date": "2017-12-29T02:00:00+01:00", 
@@ -6437,7 +6437,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1222, 
+                                "id": 1221, 
                                 "guid": "cb719734-0650-4539-928a-ac4577eb588c", 
                                 "logo": null, 
                                 "date": "2017-12-28T13:00:00+01:00", 
@@ -7085,7 +7085,7 @@
                         ], 
                         "Komona Blue Princess": [
                             {
-                                "id": 1022, 
+                                "id": 1021, 
                                 "guid": "7fb99fd0-8292-45d4-b4bb-43a32faa9549", 
                                 "logo": null, 
                                 "date": "2017-12-28T20:00:00+01:00", 
@@ -8139,44 +8139,16 @@
                         ], 
                         "Assembly:TeaHouse": [
                             {
-                                "id": 1254, 
+                                "id": 1255, 
                                 "guid": "68c26941-115f-4ada-8ed5-d0e4217680cf", 
                                 "logo": null, 
-                                "date": "2017-12-28T19:00:00+01:00", 
-                                "start": "19:00", 
-                                "duration": "1:00", 
-                                "room": "Assembly:TeaHouse", 
-                                "slug": "", 
-                                "title": "TeaHouse", 
-                                "subtitle": "Stories from the Frontlines", 
-                                "track": "self organized sessions", 
-                                "type": "meeting", 
-                                "language": "en", 
-                                "abstract": "", 
-                                "description": "", 
-                                "persons": [
-                                    {
-                                        "id": 0, 
-                                        "url": "https://events.ccc.de/congress/2017/wiki/index.php/User:Sanpi", 
-                                        "public_name": "Sanpi"
-                                    }
-                                ], 
-                                "links": [
-                                    "https://teahouse.homecomputing.fr/", 
-                                    "https://events.ccc.de/congress/2017/wiki/index.php/Session:TeaHouse"
-                                ]
-                            }, 
-                            {
-                                "id": 1254, 
-                                "guid": "68c26941-115f-4ada-8ed5-d0e4217680cf", 
-                                "logo": null, 
-                                "date": "2017-12-28T20:30:00+01:00", 
-                                "start": "20:30", 
+                                "date": "2017-12-28T14:30:00+01:00", 
+                                "start": "14:30", 
                                 "duration": "0:45", 
                                 "room": "Assembly:TeaHouse", 
                                 "slug": "", 
                                 "title": "TeaHouse", 
-                                "subtitle": "Radio Dabanga Massive audience engagement in (human rights/humanitarian) reporting", 
+                                "subtitle": "Glider Ink: hacker movement in the popular culture", 
                                 "track": "self organized sessions", 
                                 "type": "meeting", 
                                 "language": "en", 
@@ -8195,7 +8167,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1259, 
+                                "id": 1258, 
                                 "guid": "fa3d8ee5-d1ff-4b29-a763-a49f7b882ceb", 
                                 "logo": null, 
                                 "date": "2017-12-28T17:30:00+01:00", 
@@ -8223,7 +8195,63 @@
                                 ]
                             }, 
                             {
-                                "id": 1254, 
+                                "id": 1255, 
+                                "guid": "68c26941-115f-4ada-8ed5-d0e4217680cf", 
+                                "logo": null, 
+                                "date": "2017-12-28T19:00:00+01:00", 
+                                "start": "19:00", 
+                                "duration": "1:00", 
+                                "room": "Assembly:TeaHouse", 
+                                "slug": "", 
+                                "title": "TeaHouse", 
+                                "subtitle": "Stories from the Frontlines", 
+                                "track": "self organized sessions", 
+                                "type": "meeting", 
+                                "language": "en", 
+                                "abstract": "", 
+                                "description": "", 
+                                "persons": [
+                                    {
+                                        "id": 0, 
+                                        "url": "https://events.ccc.de/congress/2017/wiki/index.php/User:Sanpi", 
+                                        "public_name": "Sanpi"
+                                    }
+                                ], 
+                                "links": [
+                                    "https://teahouse.homecomputing.fr/", 
+                                    "https://events.ccc.de/congress/2017/wiki/index.php/Session:TeaHouse"
+                                ]
+                            }, 
+                            {
+                                "id": 1255, 
+                                "guid": "68c26941-115f-4ada-8ed5-d0e4217680cf", 
+                                "logo": null, 
+                                "date": "2017-12-28T20:30:00+01:00", 
+                                "start": "20:30", 
+                                "duration": "0:45", 
+                                "room": "Assembly:TeaHouse", 
+                                "slug": "", 
+                                "title": "TeaHouse", 
+                                "subtitle": "Radio Dabanga Massive audience engagement in (human rights/humanitarian) reporting", 
+                                "track": "self organized sessions", 
+                                "type": "meeting", 
+                                "language": "en", 
+                                "abstract": "", 
+                                "description": "", 
+                                "persons": [
+                                    {
+                                        "id": 0, 
+                                        "url": "https://events.ccc.de/congress/2017/wiki/index.php/User:Sanpi", 
+                                        "public_name": "Sanpi"
+                                    }
+                                ], 
+                                "links": [
+                                    "https://teahouse.homecomputing.fr/", 
+                                    "https://events.ccc.de/congress/2017/wiki/index.php/Session:TeaHouse"
+                                ]
+                            }, 
+                            {
+                                "id": 1255, 
                                 "guid": "68c26941-115f-4ada-8ed5-d0e4217680cf", 
                                 "logo": null, 
                                 "date": "2017-12-28T23:00:00+01:00", 
@@ -8251,7 +8279,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1254, 
+                                "id": 1255, 
                                 "guid": "68c26941-115f-4ada-8ed5-d0e4217680cf", 
                                 "logo": null, 
                                 "date": "2017-12-28T13:00:00+01:00", 
@@ -8261,34 +8289,6 @@
                                 "slug": "", 
                                 "title": "TeaHouse", 
                                 "subtitle": "Meta Mate", 
-                                "track": "self organized sessions", 
-                                "type": "meeting", 
-                                "language": "en", 
-                                "abstract": "", 
-                                "description": "", 
-                                "persons": [
-                                    {
-                                        "id": 0, 
-                                        "url": "https://events.ccc.de/congress/2017/wiki/index.php/User:Sanpi", 
-                                        "public_name": "Sanpi"
-                                    }
-                                ], 
-                                "links": [
-                                    "https://teahouse.homecomputing.fr/", 
-                                    "https://events.ccc.de/congress/2017/wiki/index.php/Session:TeaHouse"
-                                ]
-                            }, 
-                            {
-                                "id": 1254, 
-                                "guid": "68c26941-115f-4ada-8ed5-d0e4217680cf", 
-                                "logo": null, 
-                                "date": "2017-12-28T14:30:00+01:00", 
-                                "start": "14:30", 
-                                "duration": "0:45", 
-                                "room": "Assembly:TeaHouse", 
-                                "slug": "", 
-                                "title": "TeaHouse", 
-                                "subtitle": "Glider Ink: hacker movement in the popular culture", 
                                 "track": "self organized sessions", 
                                 "type": "meeting", 
                                 "language": "en", 
@@ -10108,7 +10108,7 @@
                         ], 
                         "Lecture room 11": [
                             {
-                                "id": 1014, 
+                                "id": 1016, 
                                 "guid": "2b6595ff-c32b-44aa-9bda-e411e5911162", 
                                 "logo": null, 
                                 "date": "2017-12-29T20:15:00+01:00", 
@@ -10136,7 +10136,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1014, 
+                                "id": 1016, 
                                 "guid": "2b6595ff-c32b-44aa-9bda-e411e5911162", 
                                 "logo": null, 
                                 "date": "2017-12-29T13:30:00+01:00", 
@@ -10240,7 +10240,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1140, 
+                                "id": 1141, 
                                 "guid": "e3d9d5b4-b35d-4828-b7af-6cdf33b438cf", 
                                 "logo": null, 
                                 "date": "2017-12-29T23:59:00+01:00", 
@@ -10398,7 +10398,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1142, 
+                                "id": 1144, 
                                 "guid": "11832e8c-2e41-4c8d-8ed8-a908d5638480", 
                                 "logo": null, 
                                 "date": "2017-12-30T00:00:00+01:00", 
@@ -10425,7 +10425,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1142, 
+                                "id": 1144, 
                                 "guid": "11832e8c-2e41-4c8d-8ed8-a908d5638480", 
                                 "logo": null, 
                                 "date": "2017-12-30T02:00:00+01:00", 
@@ -10481,11 +10481,11 @@
                             }, 
                             {
                                 "id": 1291, 
-                                "guid": "cc28d9e0-c2e8-4e48-862e-5e5f489eb214", 
+                                "guid": "2908d355-9054-4c8f-8a7f-33e677435c1d", 
                                 "logo": null, 
-                                "date": "2017-12-29T18:00:00+01:00", 
-                                "start": "18:00", 
-                                "duration": "4:00", 
+                                "date": "2017-12-29T14:00:00+01:00", 
+                                "start": "14:00", 
+                                "duration": "2:00", 
                                 "room": "Chaos West Stage", 
                                 "slug": "", 
                                 "title": "Ybti+wefixthenet", 
@@ -10509,11 +10509,11 @@
                             }, 
                             {
                                 "id": 1292, 
-                                "guid": "2908d355-9054-4c8f-8a7f-33e677435c1d", 
+                                "guid": "cc28d9e0-c2e8-4e48-862e-5e5f489eb214", 
                                 "logo": null, 
-                                "date": "2017-12-29T14:00:00+01:00", 
-                                "start": "14:00", 
-                                "duration": "2:00", 
+                                "date": "2017-12-29T18:00:00+01:00", 
+                                "start": "18:00", 
+                                "duration": "4:00", 
                                 "room": "Chaos West Stage", 
                                 "slug": "", 
                                 "title": "Ybti+wefixthenet", 
@@ -10716,15 +10716,15 @@
                             }, 
                             {
                                 "id": 1206, 
-                                "guid": "4f988987-df21-4bd4-a494-bf5fff3c3f42", 
+                                "guid": "f8c6d10a-3129-4d2c-8806-d5c0732e2851", 
                                 "logo": null, 
-                                "date": "2017-12-29T19:00:00+01:00", 
-                                "start": "19:00", 
-                                "duration": "1:00", 
+                                "date": "2017-12-29T17:30:00+01:00", 
+                                "start": "17:30", 
+                                "duration": "0:30", 
                                 "room": "CCL Hall 3", 
                                 "slug": "", 
                                 "title": "Rights&Freedoms", 
-                                "subtitle": "[https://events.ccc.de/congress/2017/wiki/index.php/Session:Public_Money%3F_Public_Code! Public money? Public code!] (Polina Malaja and Katharina Nocun)", 
+                                "subtitle": "Are NAT translations respecting proportionality and data retention principles? (Hermes Center)", 
                                 "track": "self organized sessions", 
                                 "type": "talk", 
                                 "language": "de", 
@@ -10737,15 +10737,15 @@
                             }, 
                             {
                                 "id": 1207, 
-                                "guid": "f8c6d10a-3129-4d2c-8806-d5c0732e2851", 
+                                "guid": "4f988987-df21-4bd4-a494-bf5fff3c3f42", 
                                 "logo": null, 
-                                "date": "2017-12-29T17:30:00+01:00", 
-                                "start": "17:30", 
-                                "duration": "0:30", 
+                                "date": "2017-12-29T19:00:00+01:00", 
+                                "start": "19:00", 
+                                "duration": "1:00", 
                                 "room": "CCL Hall 3", 
                                 "slug": "", 
                                 "title": "Rights&Freedoms", 
-                                "subtitle": "Are NAT translations respecting proportionality and data retention principles? (Hermes Center)", 
+                                "subtitle": "[https://events.ccc.de/congress/2017/wiki/index.php/Session:Public_Money%3F_Public_Code! Public money? Public code!] (Polina Malaja and Katharina Nocun)", 
                                 "track": "self organized sessions", 
                                 "type": "talk", 
                                 "language": "de", 
@@ -10799,7 +10799,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1211, 
+                                "id": 1212, 
                                 "guid": "48ea0d19-03cd-4cea-b436-46892ae393ad", 
                                 "logo": null, 
                                 "date": "2017-12-29T20:00:00+01:00", 
@@ -10841,7 +10841,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1216, 
+                                "id": 1217, 
                                 "guid": "65ef56f8-c667-4b9f-8a28-843f8fe7bbf0", 
                                 "logo": null, 
                                 "date": "2017-12-29T21:00:00+01:00", 
@@ -12372,63 +12372,7 @@
                         ], 
                         "Assembly:TeaHouse": [
                             {
-                                "id": 1256, 
-                                "guid": "bf53e3db-dcf4-4460-b5b4-4d397b264586", 
-                                "logo": null, 
-                                "date": "2017-12-29T16:00:00+01:00", 
-                                "start": "16:00", 
-                                "duration": "1:00", 
-                                "room": "Assembly:TeaHouse", 
-                                "slug": "", 
-                                "title": "TeaHouse", 
-                                "subtitle": "CryptOps: Moving to a world with encrypted VPSs only", 
-                                "track": "self organized sessions", 
-                                "type": "meeting", 
-                                "language": "en", 
-                                "abstract": "", 
-                                "description": "", 
-                                "persons": [
-                                    {
-                                        "id": 0, 
-                                        "url": "https://events.ccc.de/congress/2017/wiki/index.php/User:Sanpi", 
-                                        "public_name": "Sanpi"
-                                    }
-                                ], 
-                                "links": [
-                                    "https://teahouse.homecomputing.fr/", 
-                                    "https://events.ccc.de/congress/2017/wiki/index.php/Session:TeaHouse"
-                                ]
-                            }, 
-                            {
-                                "id": 1255, 
-                                "guid": "622c5770-b9fc-45ef-b9fc-1533f661e3ec", 
-                                "logo": null, 
-                                "date": "2017-12-29T19:00:00+01:00", 
-                                "start": "19:00", 
-                                "duration": "2:00", 
-                                "room": "Assembly:TeaHouse", 
-                                "slug": "", 
-                                "title": "TeaHouse", 
-                                "subtitle": "Breaking Bad Crypto", 
-                                "track": "self organized sessions", 
-                                "type": "meeting", 
-                                "language": "en", 
-                                "abstract": "", 
-                                "description": "", 
-                                "persons": [
-                                    {
-                                        "id": 0, 
-                                        "url": "https://events.ccc.de/congress/2017/wiki/index.php/User:Sanpi", 
-                                        "public_name": "Sanpi"
-                                    }
-                                ], 
-                                "links": [
-                                    "https://teahouse.homecomputing.fr/", 
-                                    "https://events.ccc.de/congress/2017/wiki/index.php/Session:TeaHouse"
-                                ]
-                            }, 
-                            {
-                                "id": 1255, 
+                                "id": 1254, 
                                 "guid": "622c5770-b9fc-45ef-b9fc-1533f661e3ec", 
                                 "logo": null, 
                                 "date": "2017-12-29T13:00:00+01:00", 
@@ -12456,7 +12400,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1255, 
+                                "id": 1254, 
                                 "guid": "622c5770-b9fc-45ef-b9fc-1533f661e3ec", 
                                 "logo": null, 
                                 "date": "2017-12-29T14:30:00+01:00", 
@@ -12466,6 +12410,62 @@
                                 "slug": "", 
                                 "title": "TeaHouse", 
                                 "subtitle": "Fuck Off Google! \"Google campus\" out of Kreuzberg", 
+                                "track": "self organized sessions", 
+                                "type": "meeting", 
+                                "language": "en", 
+                                "abstract": "", 
+                                "description": "", 
+                                "persons": [
+                                    {
+                                        "id": 0, 
+                                        "url": "https://events.ccc.de/congress/2017/wiki/index.php/User:Sanpi", 
+                                        "public_name": "Sanpi"
+                                    }
+                                ], 
+                                "links": [
+                                    "https://teahouse.homecomputing.fr/", 
+                                    "https://events.ccc.de/congress/2017/wiki/index.php/Session:TeaHouse"
+                                ]
+                            }, 
+                            {
+                                "id": 1257, 
+                                "guid": "bf53e3db-dcf4-4460-b5b4-4d397b264586", 
+                                "logo": null, 
+                                "date": "2017-12-29T16:00:00+01:00", 
+                                "start": "16:00", 
+                                "duration": "1:00", 
+                                "room": "Assembly:TeaHouse", 
+                                "slug": "", 
+                                "title": "TeaHouse", 
+                                "subtitle": "CryptOps: Moving to a world with encrypted VPSs only", 
+                                "track": "self organized sessions", 
+                                "type": "meeting", 
+                                "language": "en", 
+                                "abstract": "", 
+                                "description": "", 
+                                "persons": [
+                                    {
+                                        "id": 0, 
+                                        "url": "https://events.ccc.de/congress/2017/wiki/index.php/User:Sanpi", 
+                                        "public_name": "Sanpi"
+                                    }
+                                ], 
+                                "links": [
+                                    "https://teahouse.homecomputing.fr/", 
+                                    "https://events.ccc.de/congress/2017/wiki/index.php/Session:TeaHouse"
+                                ]
+                            }, 
+                            {
+                                "id": 1254, 
+                                "guid": "622c5770-b9fc-45ef-b9fc-1533f661e3ec", 
+                                "logo": null, 
+                                "date": "2017-12-29T19:00:00+01:00", 
+                                "start": "19:00", 
+                                "duration": "2:00", 
+                                "room": "Assembly:TeaHouse", 
+                                "slug": "", 
+                                "title": "TeaHouse", 
+                                "subtitle": "Breaking Bad Crypto", 
                                 "track": "self organized sessions", 
                                 "type": "meeting", 
                                 "language": "en", 
@@ -13459,7 +13459,7 @@
                         ], 
                         "CCL Hall 3": [
                             {
-                                "id": 1221, 
+                                "id": 1222, 
                                 "guid": "3402fbf1-545c-4b4f-abf3-7fa4afbfed9f", 
                                 "logo": null, 
                                 "date": "2017-12-30T14:00:00+01:00", 
@@ -13937,7 +13937,35 @@
                         ], 
                         "Assembly:TeaHouse": [
                             {
-                                "id": 1255, 
+                                "id": 1254, 
+                                "guid": "622c5770-b9fc-45ef-b9fc-1533f661e3ec", 
+                                "logo": null, 
+                                "date": "2017-12-30T14:00:00+01:00", 
+                                "start": "14:00", 
+                                "duration": "0:20", 
+                                "room": "Assembly:TeaHouse", 
+                                "slug": "", 
+                                "title": "TeaHouse", 
+                                "subtitle": "Collection and clustering of 6,900 tweets censored in European countries in 2017", 
+                                "track": "self organized sessions", 
+                                "type": "meeting", 
+                                "language": "en", 
+                                "abstract": "", 
+                                "description": "", 
+                                "persons": [
+                                    {
+                                        "id": 0, 
+                                        "url": "https://events.ccc.de/congress/2017/wiki/index.php/User:Sanpi", 
+                                        "public_name": "Sanpi"
+                                    }
+                                ], 
+                                "links": [
+                                    "https://teahouse.homecomputing.fr/", 
+                                    "https://events.ccc.de/congress/2017/wiki/index.php/Session:TeaHouse"
+                                ]
+                            }, 
+                            {
+                                "id": 1254, 
                                 "guid": "622c5770-b9fc-45ef-b9fc-1533f661e3ec", 
                                 "logo": null, 
                                 "date": "2017-12-30T15:00:00+01:00", 
@@ -13965,7 +13993,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1255, 
+                                "id": 1254, 
                                 "guid": "622c5770-b9fc-45ef-b9fc-1533f661e3ec", 
                                 "logo": null, 
                                 "date": "2017-12-30T12:00:00+01:00", 
@@ -13993,7 +14021,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1255, 
+                                "id": 1254, 
                                 "guid": "622c5770-b9fc-45ef-b9fc-1533f661e3ec", 
                                 "logo": null, 
                                 "date": "2017-12-30T13:00:00+01:00", 
@@ -14003,34 +14031,6 @@
                                 "slug": "", 
                                 "title": "TeaHouse", 
                                 "subtitle": "\u03b5xodus reveals hidden trackers in Android applications", 
-                                "track": "self organized sessions", 
-                                "type": "meeting", 
-                                "language": "en", 
-                                "abstract": "", 
-                                "description": "", 
-                                "persons": [
-                                    {
-                                        "id": 0, 
-                                        "url": "https://events.ccc.de/congress/2017/wiki/index.php/User:Sanpi", 
-                                        "public_name": "Sanpi"
-                                    }
-                                ], 
-                                "links": [
-                                    "https://teahouse.homecomputing.fr/", 
-                                    "https://events.ccc.de/congress/2017/wiki/index.php/Session:TeaHouse"
-                                ]
-                            }, 
-                            {
-                                "id": 1255, 
-                                "guid": "622c5770-b9fc-45ef-b9fc-1533f661e3ec", 
-                                "logo": null, 
-                                "date": "2017-12-30T14:00:00+01:00", 
-                                "start": "14:00", 
-                                "duration": "0:20", 
-                                "room": "Assembly:TeaHouse", 
-                                "slug": "", 
-                                "title": "TeaHouse", 
-                                "subtitle": "Collection and clustering of 6,900 tweets censored in European countries in 2017", 
                                 "track": "self organized sessions", 
                                 "type": "meeting", 
                                 "language": "en", 
