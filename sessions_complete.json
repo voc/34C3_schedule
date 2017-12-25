@@ -899,6 +899,53 @@
             "1514403000"
         ]
     }, 
+    "Session:Rights&Freedoms# 9233046959c118f4e37e87b811773ec8": {
+        "Held in language": [
+            "de - German", 
+            "en - English"
+        ], 
+        "Has start time": [
+            "1514489400"
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [], 
+        "Has description": [
+            "Rights & Freedoms Cluster Stage Programme"
+        ], 
+        "Has session type": [
+            "Talk"
+        ], 
+        "Has session location": [
+            {
+                "fulltext": "Room:CCL Hall 3", 
+                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Room:CCL_Hall_3", 
+                "namespace": 516, 
+                "exists": true
+            }
+        ], 
+        "Has subtitle": [
+            "Algorithmic transaprency (EFF)"
+        ], 
+        "Is organized by": [], 
+        "Has title": [
+            "Rights&Freedoms"
+        ], 
+        "Has duration": [
+            30
+        ], 
+        "GUID": [
+            "23c6fca0-a450-47cf-8e39-888514b76355"
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:Rights%26Freedoms", 
+        "Has end time": [
+            "1514491200"
+        ]
+    }, 
     "Session:Wie produziere ich mein eigenes H\u00f6rspiel mit Hilfe von freeware free sounds# e9e0f96ddae80dfb9c8724abad3fe9ea": {
         "Held in language": [
             "de - German"
@@ -1321,51 +1368,48 @@
             "1514484000"
         ]
     }, 
-    "Session:Rights&Freedoms# 080e902b5d76484bfad34544ec785c38": {
-        "Held in language": [
-            "de - German", 
-            "en - English"
-        ], 
+    "Session:IT-Security Meetup# 7ccba4cf33b275c99932dee80b6570be": {
+        "Held in language": [], 
         "Has start time": [
-            "1514379600"
+            "1514574000"
         ], 
         "Has event track": [
             "Session"
         ], 
         "Has website": [], 
         "Has description": [
-            "Rights & Freedoms Cluster Stage Programme"
+            "Meet some security people from all over the world, connect & chat, exchange frustrating or fun work-related stories & have a drink with us! (right now we will bring 1-2 bottles of good whiskey, feel free to bring more) \nGathering can continue in the party area ;)\n\n--&gt; any questions? twitter.com/5ettings"
         ], 
         "Has session type": [
-            "Talk"
+            "Meeting"
         ], 
         "Has session location": [
             {
-                "fulltext": "Room:CCL Hall 3", 
-                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Room:CCL_Hall_3", 
+                "fulltext": "Room:Seminar room 13", 
+                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Room:Seminar_room_13", 
                 "namespace": 516, 
                 "exists": true
             }
         ], 
         "Has subtitle": [
-            "[https://events.ccc.de/congress/2017/wiki/index.php/Session:Self-host_your_visual_assets_with_Free_Software Self-Host your visual assets with Free Software] (Elio Qoshi)"
+            "Network & drink"
         ], 
         "Is organized by": [], 
         "Has title": [
-            "Rights&Freedoms"
+            "IT-Security Meetup"
         ], 
         "Has duration": [
             60
         ], 
         "GUID": [
-            "9a031988-bf7d-45f1-bc41-f3751dc059a7"
+            "500619ce-3e7f-4c8b-b458-8181952ec38a"
         ], 
         "Has color": [
             "#0099ab"
         ], 
-        "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:Rights%26Freedoms", 
+        "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:IT-Security_Meetup", 
         "Has end time": [
-            "1514383200"
+            "1514577600"
         ]
     }, 
     "Session:Query Wikidata in SPARQL# 68fa62db3df822abff7d6ef15b9914d3": {
@@ -10448,53 +10492,6 @@
             "1514465100"
         ]
     }, 
-    "Session:Rights&Freedoms# fad59535ab20a100c6f2fee90ad83afd": {
-        "Held in language": [
-            "de - German", 
-            "en - English"
-        ], 
-        "Has start time": [
-            "1514574000"
-        ], 
-        "Has event track": [
-            "Session"
-        ], 
-        "Has website": [], 
-        "Has description": [
-            "Rights & Freedoms Cluster Stage Programme"
-        ], 
-        "Has session type": [
-            "Talk"
-        ], 
-        "Has session location": [
-            {
-                "fulltext": "Room:CCL Hall 3", 
-                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Room:CCL_Hall_3", 
-                "namespace": 516, 
-                "exists": true
-            }
-        ], 
-        "Has subtitle": [
-            "[https://events.ccc.de/congress/2017/wiki/index.php/Session:Public_Money%3F_Public_Code! Public money? Public code!] (Polina Malaja and Katharina Nocun)"
-        ], 
-        "Is organized by": [], 
-        "Has title": [
-            "Rights&Freedoms"
-        ], 
-        "Has duration": [
-            60
-        ], 
-        "GUID": [
-            "4f988987-df21-4bd4-a494-bf5fff3c3f42"
-        ], 
-        "Has color": [
-            "#0099ab"
-        ], 
-        "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:Rights%26Freedoms", 
-        "Has end time": [
-            "1514577600"
-        ]
-    }, 
     "Session:A/V Angel Meeting# cfae41ef06cf48c907d63a56a72f8e52": {
         "Held in language": [
             "de - German", 
@@ -13349,9 +13346,10 @@
             "1514559600"
         ]
     }, 
-    "Session:Trickmisch# edb2989e4021b4f67c909659a0640527": {
+    "Session:Rights&Freedoms# 080e902b5d76484bfad34544ec785c38": {
         "Held in language": [
-            "de - German"
+            "de - German", 
+            "en - English"
         ], 
         "Has start time": [
             "1514379600"
@@ -13359,43 +13357,40 @@
         "Has event track": [
             "Session"
         ], 
-        "Has website": [
-            "http://www.trickmisch.de", 
-            "http://www.trixmix.tv"
-        ], 
+        "Has website": [], 
         "Has description": [
-            "auf Trixmix.tv k\u00f6nnen eigene Trickfilme online erstellt werden. Daf\u00fcr kann man eigene Zeichnungen erstellen oder sich aus dem kollektiv erstellten Bildw\u00f6rterbuch bedienen."
+            "Rights & Freedoms Cluster Stage Programme"
         ], 
         "Has session type": [
-            "Workshop"
+            "Talk"
         ], 
         "Has session location": [
             {
-                "fulltext": "Room:Kidspace", 
-                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Room:Kidspace", 
+                "fulltext": "Room:CCL Hall 3", 
+                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Room:CCL_Hall_3", 
                 "namespace": 516, 
                 "exists": true
             }
         ], 
         "Has subtitle": [
-            "Trickfilm Workshop"
+            "[https://events.ccc.de/congress/2017/wiki/index.php/Session:Self-host_your_visual_assets_with_Free_Software Self-Host your visual assets with Free Software] (Elio Qoshi)"
         ], 
         "Is organized by": [], 
         "Has title": [
-            "Trickmisch"
+            "Rights&Freedoms"
         ], 
         "Has duration": [
-            240
+            60
         ], 
         "GUID": [
-            "d75d1ea5-b3e1-4f52-ad73-3eb0e99b7dea"
+            "9a031988-bf7d-45f1-bc41-f3751dc059a7"
         ], 
         "Has color": [
             "#0099ab"
         ], 
-        "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:Trickmisch", 
+        "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:Rights%26Freedoms", 
         "Has end time": [
-            "1514394000"
+            "1514383200"
         ]
     }, 
     "Session:Rights&Freedoms# 1d6b496727e339a684f53dfba28b07fd": {
@@ -14215,6 +14210,55 @@
         "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:NerfgunBattle", 
         "Has end time": [
             "1514422800"
+        ]
+    }, 
+    "Session:Trickmisch# edb2989e4021b4f67c909659a0640527": {
+        "Held in language": [
+            "de - German"
+        ], 
+        "Has start time": [
+            "1514379600"
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [
+            "http://www.trickmisch.de", 
+            "http://www.trixmix.tv"
+        ], 
+        "Has description": [
+            "auf Trixmix.tv k\u00f6nnen eigene Trickfilme online erstellt werden. Daf\u00fcr kann man eigene Zeichnungen erstellen oder sich aus dem kollektiv erstellten Bildw\u00f6rterbuch bedienen."
+        ], 
+        "Has session type": [
+            "Workshop"
+        ], 
+        "Has session location": [
+            {
+                "fulltext": "Room:Kidspace", 
+                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Room:Kidspace", 
+                "namespace": 516, 
+                "exists": true
+            }
+        ], 
+        "Has subtitle": [
+            "Trickfilm Workshop"
+        ], 
+        "Is organized by": [], 
+        "Has title": [
+            "Trickmisch"
+        ], 
+        "Has duration": [
+            240
+        ], 
+        "GUID": [
+            "d75d1ea5-b3e1-4f52-ad73-3eb0e99b7dea"
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:Trickmisch", 
+        "Has end time": [
+            "1514394000"
         ]
     }, 
     "Session:Sticker meet up# 3576f5d9dd851a9f36f6585d5100860e": {
@@ -15857,13 +15901,13 @@
             "1514584800"
         ]
     }, 
-    "Session:Rights&Freedoms# 9233046959c118f4e37e87b811773ec8": {
+    "Session:Rights&Freedoms# fad59535ab20a100c6f2fee90ad83afd": {
         "Held in language": [
             "de - German", 
             "en - English"
         ], 
         "Has start time": [
-            "1514489400"
+            "1514574000"
         ], 
         "Has event track": [
             "Session"
@@ -15884,24 +15928,24 @@
             }
         ], 
         "Has subtitle": [
-            "Algorithmic transaprency (EFF)"
+            "[https://events.ccc.de/congress/2017/wiki/index.php/Session:Public_Money%3F_Public_Code! Public money? Public code!] (Polina Malaja and Katharina Nocun)"
         ], 
         "Is organized by": [], 
         "Has title": [
             "Rights&Freedoms"
         ], 
         "Has duration": [
-            30
+            60
         ], 
         "GUID": [
-            "23c6fca0-a450-47cf-8e39-888514b76355"
+            "4f988987-df21-4bd4-a494-bf5fff3c3f42"
         ], 
         "Has color": [
             "#0099ab"
         ], 
         "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:Rights%26Freedoms", 
         "Has end time": [
-            "1514491200"
+            "1514577600"
         ]
     }, 
     "Session:Howto Let's Play# 070fe8a455a900a9238622b6c1bea2bb": {
