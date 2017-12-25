@@ -5357,36 +5357,35 @@
                                 "attachments": []
                             }, 
                             {
-                                "url": "https://fahrplan.events.ccc.de/congress/2017/Fahrplan/events/9195.html", 
-                                "id": 9195, 
-                                "guid": "0dbbb546-38e6-499f-bb93-a5539d114d1d", 
-                                "logo": null, 
+                                "url": "https://fahrplan.events.ccc.de/congress/2017/Fahrplan/events/8758.html", 
+                                "id": 8758, 
+                                "guid": "275f85de-d612-4440-8755-85dee5912f12", 
+                                "logo": "/system/events/logos/000/008/758/large/IMG_0505.JPG?1506513641", 
                                 "date": "2017-12-28T18:30:00+01:00", 
                                 "start": "18:30", 
                                 "duration": "01:00", 
                                 "room": "Saal Dijkstra", 
-                                "slug": "34c3-9195-avatar", 
-                                "title": "avatar\u00b2", 
-                                "subtitle": "Towards an open source binary firmware analysis framework", 
+                                "slug": "34c3-8758-how_to_drift_with_any_car", 
+                                "title": "How to drift with any car", 
+                                "subtitle": "(without your mom yelling at you)", 
                                 "track": "Security", 
                                 "type": "lecture", 
                                 "language": "en", 
-                                "abstract": "Avatar\u00b2 is an open source framework for dynamic instrumentation and analysis of binary firmware, which was released in June 2017.\r\nThis talk does not only introduce avatar\u00b2, but also focuses on the motivation and challenges for such a tool.", 
-                                "description": "Dynamic binary instrumentation and analysis are valuable assets for security analysis and testing, and while a variety of tools exist for desktop software, the tooling landscape for analysing low-level binary firmware directly interacting with hardware is relatively empty.\r\n\r\nThis talk will first outline the key problems for developing dynamic firmware analysis tools and pinpoint different approaches to overcome those problems.\r\nThe core of this talk, however, focuses on avatar\u00b2, an open source framework built to ease firmware reversing and security analysis.\r\n\r\nIn more detail, avatar\u00b2 utilizes partial emulation to enable transparent analysis of firmware, and while the main firmware is executed inside the emulator, I/O operations to and from the hardware are commonly relayed to the actual hardware or the emulator. To realize this complex orchestration, avatar\u00b2 enables communication and state synchronization between a variety of popular tools, such as Qemu, OpenOCD, GDB, PANDA and angr.\r\n\r\nWhile the declared scope of avatar\u00b2 the is analysis of embedded firmware, this talk will also show that the framework can also be useful in other contexts, such as scripting gdb in python from outside gdb, or loading the state of a concretely executed binary into angr.", 
+                                "abstract": "Lots of research are arising from the fairly unexplored world of automative communications. Cars are no longer becoming computers, they are fully connected networks where every ECU exchanges and operates the vehicles at some point.\r\nHere is an introduction of my immersion and discussions with my car, and how I finally managed to drift (a bit) with my mom's FWD Fiat 500c.", 
+                                "description": "This talk is not only about security, but about hacking and video games. Many video games are about driving cars, whether it is for racing, or heisting and escaping the police. In this talk, we will explain how the user experience could actually be improved by connecting a car to a video game and turning it into a game controller.\r\n\r\nWe will discuss about these connected systems, how car components interact with one another, the different protocols, or anything that came to us during this journey.\r\n\r\nHowever there was one important constraint during all that experience: no car could be dismantled nor modified. The main goal of this analysis was to try doing something out of the data which could be freely recovered while plugging itself to the OBD-II port of a car. As mentioned, this resulted in the possibility of controlling a video game car through the real car, like a simulator, without the need of modifying anything in the car itself.\r\n\r\nUnfortunately, this requires a lot of gasoline to have the engine powered on and run. Moreover, gasoline is really expensive in France. So we looked for a way to reduce that cost. We actually found a nice device on the Internet to optimize the amount of gasoline used by the engine. Apparently, it works by connecting to the OBD-II port and reconfigures the engine\u2019s ECU. We looked into that to understand what was actually going on\u2026 and try to reduce the cost of the drifting.\r\n\r\nThe following points will be mentioned during the presentation:\r\nECUs\r\nCAN bus\r\nOBD-II (DTCs/PIDs)\r\nOn-top-of-CAN protocols\r\nUDS (Diagnostic/Security session)\r\nReverse engineering: the meanings of CAN messages\r\nUsing a real car as a simulator, for poories\r\nMinor details about how to create a custom game controller\r\nOBD dongle reverse engineering", 
                                 "recording_license": "CC BY 4.0", 
                                 "do_not_record": false, 
                                 "persons": [
                                     {
-                                        "id": 7837, 
-                                        "public_name": "nsr"
-                                    }
-                                ], 
-                                "links": [
+                                        "id": 7994, 
+                                        "public_name": "Guillaume Heilles"
+                                    }, 
                                     {
-                                        "url": "https://github.com/avatartwo", 
-                                        "title": "avatar2 - the source code"
+                                        "id": 7546, 
+                                        "public_name": "P1kachu"
                                     }
                                 ], 
+                                "links": [], 
                                 "attachments": []
                             }, 
                             {
@@ -8461,12 +8460,45 @@
                                 "attachments": []
                             }, 
                             {
+                                "url": "https://fahrplan.events.ccc.de/congress/2017/Fahrplan/events/8968.html", 
+                                "id": 8968, 
+                                "guid": "956cf3ed-c342-4c1d-b636-29ec3d4578d2", 
+                                "logo": null, 
+                                "date": "2017-12-29T19:45:00+01:00", 
+                                "start": "19:45", 
+                                "duration": "01:00", 
+                                "room": "Saal Adams", 
+                                "slug": "34c3-8968-are_all_bsds_created_equally", 
+                                "title": "Are all BSDs created equally? ", 
+                                "subtitle": "A survey of BSD kernel vulnerabilities.", 
+                                "track": "Security", 
+                                "type": "lecture", 
+                                "language": "en", 
+                                "abstract": "In this presentation I start off asking the question \u201eHow come there are only a handful of BSD security kernel bugs advisories released every year?\u201c and then proceed to try and look at some data from several sources.", 
+                                "description": "It should come as no surprise that those sources are fairly limited and somewhat outdated. \r\n\r\nThe presentation then moves on to try and collect some data ourselves. This is done by actively investigating and auditing. Code review, fuzzing, runtime testing on all 3 major BSD distributions [NetBSD/OpenBSD/FreeBSD]. This is done by first investigating what would be good places where the bugs might be. Once determined, a detailed review is performed of these places. Samples and demos will be shown. \r\n\r\nI end the presentation with some results and conclusions. I will list what the outcome was in terms of bugs found, and who \u2013 based on the data I now have \u2013 among the three main BSD distributions can be seen as the clear winner and loser. I will go into detail about the code quality observed and give some pointers on how to improve some code. Lastly I will try and answer the question I set out to answer (\u201eHow come there are only a handful of BSD security kernel bugs advisories released every year?\u201c).", 
+                                "recording_license": "CC BY 4.0", 
+                                "do_not_record": false, 
+                                "persons": [
+                                    {
+                                        "id": 821, 
+                                        "public_name": "Ilja van Sprundel"
+                                    }
+                                ], 
+                                "links": [], 
+                                "attachments": [
+                                    {
+                                        "url": "/system/event_attachments/attachments/000/003/262/original/bsd_kern_vulns.pptx?1507999268", 
+                                        "title": "bsd_kern_vulns.pptx"
+                                    }
+                                ]
+                            }, 
+                            {
                                 "url": "https://fahrplan.events.ccc.de/congress/2017/Fahrplan/events/8896.html", 
                                 "id": 8896, 
                                 "guid": "fa2a2506-f54d-4e3f-9fc2-e808d0a580b6", 
                                 "logo": null, 
-                                "date": "2017-12-29T19:45:00+01:00", 
-                                "start": "19:45", 
+                                "date": "2017-12-29T21:00:00+01:00", 
+                                "start": "21:00", 
                                 "duration": "01:00", 
                                 "room": "Saal Adams", 
                                 "slug": "34c3-8896-tiger_drucker_und_ein_mahnmal", 
@@ -8495,39 +8527,6 @@
                                 ], 
                                 "links": [], 
                                 "attachments": []
-                            }, 
-                            {
-                                "url": "https://fahrplan.events.ccc.de/congress/2017/Fahrplan/events/8968.html", 
-                                "id": 8968, 
-                                "guid": "956cf3ed-c342-4c1d-b636-29ec3d4578d2", 
-                                "logo": null, 
-                                "date": "2017-12-29T21:00:00+01:00", 
-                                "start": "21:00", 
-                                "duration": "01:00", 
-                                "room": "Saal Adams", 
-                                "slug": "34c3-8968-are_all_bsds_created_equally", 
-                                "title": "Are all BSDs created equally? ", 
-                                "subtitle": "A survey of BSD kernel vulnerabilities.", 
-                                "track": "Security", 
-                                "type": "lecture", 
-                                "language": "en", 
-                                "abstract": "In this presentation I start off asking the question \u201eHow come there are only a handful of BSD security kernel bugs advisories released every year?\u201c and then proceed to try and look at some data from several sources.", 
-                                "description": "It should come as no surprise that those sources are fairly limited and somewhat outdated. \r\n\r\nThe presentation then moves on to try and collect some data ourselves. This is done by actively investigating and auditing. Code review, fuzzing, runtime testing on all 3 major BSD distributions [NetBSD/OpenBSD/FreeBSD]. This is done by first investigating what would be good places where the bugs might be. Once determined, a detailed review is performed of these places. Samples and demos will be shown. \r\n\r\nI end the presentation with some results and conclusions. I will list what the outcome was in terms of bugs found, and who \u2013 based on the data I now have \u2013 among the three main BSD distributions can be seen as the clear winner and loser. I will go into detail about the code quality observed and give some pointers on how to improve some code. Lastly I will try and answer the question I set out to answer (\u201eHow come there are only a handful of BSD security kernel bugs advisories released every year?\u201c).", 
-                                "recording_license": "CC BY 4.0", 
-                                "do_not_record": false, 
-                                "persons": [
-                                    {
-                                        "id": 821, 
-                                        "public_name": "Ilja van Sprundel"
-                                    }
-                                ], 
-                                "links": [], 
-                                "attachments": [
-                                    {
-                                        "url": "/system/event_attachments/attachments/000/003/262/original/bsd_kern_vulns.pptx?1507999268", 
-                                        "title": "bsd_kern_vulns.pptx"
-                                    }
-                                ]
                             }, 
                             {
                                 "url": "https://fahrplan.events.ccc.de/congress/2017/Fahrplan/events/8965.html", 
@@ -9741,35 +9740,36 @@
                                 "attachments": []
                             }, 
                             {
-                                "url": "https://fahrplan.events.ccc.de/congress/2017/Fahrplan/events/8758.html", 
-                                "id": 8758, 
-                                "guid": "275f85de-d612-4440-8755-85dee5912f12", 
-                                "logo": "/system/events/logos/000/008/758/large/IMG_0505.JPG?1506513641", 
+                                "url": "https://fahrplan.events.ccc.de/congress/2017/Fahrplan/events/9195.html", 
+                                "id": 9195, 
+                                "guid": "0dbbb546-38e6-499f-bb93-a5539d114d1d", 
+                                "logo": null, 
                                 "date": "2017-12-29T16:30:00+01:00", 
                                 "start": "16:30", 
                                 "duration": "01:00", 
                                 "room": "Saal Dijkstra", 
-                                "slug": "34c3-8758-how_to_drift_with_any_car", 
-                                "title": "How to drift with any car", 
-                                "subtitle": "(without your mom yelling at you)", 
+                                "slug": "34c3-9195-avatar", 
+                                "title": "avatar\u00b2", 
+                                "subtitle": "Towards an open source binary firmware analysis framework", 
                                 "track": "Security", 
                                 "type": "lecture", 
                                 "language": "en", 
-                                "abstract": "Lots of research are arising from the fairly unexplored world of automative communications. Cars are no longer becoming computers, they are fully connected networks where every ECU exchanges and operates the vehicles at some point.\r\nHere is an introduction of my immersion and discussions with my car, and how I finally managed to drift (a bit) with my mom's FWD Fiat 500c.", 
-                                "description": "This talk is not only about security, but about hacking and video games. Many video games are about driving cars, whether it is for racing, or heisting and escaping the police. In this talk, we will explain how the user experience could actually be improved by connecting a car to a video game and turning it into a game controller.\r\n\r\nWe will discuss about these connected systems, how car components interact with one another, the different protocols, or anything that came to us during this journey.\r\n\r\nHowever there was one important constraint during all that experience: no car could be dismantled nor modified. The main goal of this analysis was to try doing something out of the data which could be freely recovered while plugging itself to the OBD-II port of a car. As mentioned, this resulted in the possibility of controlling a video game car through the real car, like a simulator, without the need of modifying anything in the car itself.\r\n\r\nUnfortunately, this requires a lot of gasoline to have the engine powered on and run. Moreover, gasoline is really expensive in France. So we looked for a way to reduce that cost. We actually found a nice device on the Internet to optimize the amount of gasoline used by the engine. Apparently, it works by connecting to the OBD-II port and reconfigures the engine\u2019s ECU. We looked into that to understand what was actually going on\u2026 and try to reduce the cost of the drifting.\r\n\r\nThe following points will be mentioned during the presentation:\r\nECUs\r\nCAN bus\r\nOBD-II (DTCs/PIDs)\r\nOn-top-of-CAN protocols\r\nUDS (Diagnostic/Security session)\r\nReverse engineering: the meanings of CAN messages\r\nUsing a real car as a simulator, for poories\r\nMinor details about how to create a custom game controller\r\nOBD dongle reverse engineering", 
+                                "abstract": "Avatar\u00b2 is an open source framework for dynamic instrumentation and analysis of binary firmware, which was released in June 2017.\r\nThis talk does not only introduce avatar\u00b2, but also focuses on the motivation and challenges for such a tool.", 
+                                "description": "Dynamic binary instrumentation and analysis are valuable assets for security analysis and testing, and while a variety of tools exist for desktop software, the tooling landscape for analysing low-level binary firmware directly interacting with hardware is relatively empty.\r\n\r\nThis talk will first outline the key problems for developing dynamic firmware analysis tools and pinpoint different approaches to overcome those problems.\r\nThe core of this talk, however, focuses on avatar\u00b2, an open source framework built to ease firmware reversing and security analysis.\r\n\r\nIn more detail, avatar\u00b2 utilizes partial emulation to enable transparent analysis of firmware, and while the main firmware is executed inside the emulator, I/O operations to and from the hardware are commonly relayed to the actual hardware or the emulator. To realize this complex orchestration, avatar\u00b2 enables communication and state synchronization between a variety of popular tools, such as Qemu, OpenOCD, GDB, PANDA and angr.\r\n\r\nWhile the declared scope of avatar\u00b2 the is analysis of embedded firmware, this talk will also show that the framework can also be useful in other contexts, such as scripting gdb in python from outside gdb, or loading the state of a concretely executed binary into angr.", 
                                 "recording_license": "CC BY 4.0", 
                                 "do_not_record": false, 
                                 "persons": [
                                     {
-                                        "id": 7994, 
-                                        "public_name": "Guillaume Heilles"
-                                    }, 
-                                    {
-                                        "id": 7546, 
-                                        "public_name": "P1kachu"
+                                        "id": 7837, 
+                                        "public_name": "nsr"
                                     }
                                 ], 
-                                "links": [], 
+                                "links": [
+                                    {
+                                        "url": "https://github.com/avatartwo", 
+                                        "title": "avatar2 - the source code"
+                                    }
+                                ], 
                                 "attachments": []
                             }, 
                             {

@@ -4906,38 +4906,47 @@ This talk aims to explain how particle accelerators and in particular light sour
         <links/>
         <attachments/>
       </event>
-      <event href="https://fahrplan.events.ccc.de/congress/2017/Fahrplan/events/9195.html" id="9195" guid="0dbbb546-38e6-499f-bb93-a5539d114d1d">
-        <logo/>
+      <event href="https://fahrplan.events.ccc.de/congress/2017/Fahrplan/events/8758.html" id="8758" guid="275f85de-d612-4440-8755-85dee5912f12">
+        <logo>/system/events/logos/000/008/758/large/IMG_0505.JPG?1506513641</logo>
         <date>2017-12-28T18:30:00+01:00</date>
         <start>18:30</start>
         <duration>01:00</duration>
         <room>Saal Dijkstra</room>
-        <slug>34c3-9195-avatar</slug>
-        <title>avatar²</title>
-        <subtitle>Towards an open source binary firmware analysis framework</subtitle>
+        <slug>34c3-8758-how_to_drift_with_any_car</slug>
+        <title>How to drift with any car</title>
+        <subtitle>(without your mom yelling at you)</subtitle>
         <track>Security</track>
         <type>lecture</type>
         <language>en</language>
-        <abstract>Avatar² is an open source framework for dynamic instrumentation and analysis of binary firmware, which was released in June 2017.&#13;
-This talk does not only introduce avatar², but also focuses on the motivation and challenges for such a tool.</abstract>
-        <description>Dynamic binary instrumentation and analysis are valuable assets for security analysis and testing, and while a variety of tools exist for desktop software, the tooling landscape for analysing low-level binary firmware directly interacting with hardware is relatively empty.&#13;
+        <abstract>Lots of research are arising from the fairly unexplored world of automative communications. Cars are no longer becoming computers, they are fully connected networks where every ECU exchanges and operates the vehicles at some point.&#13;
+Here is an introduction of my immersion and discussions with my car, and how I finally managed to drift (a bit) with my mom's FWD Fiat 500c.</abstract>
+        <description>This talk is not only about security, but about hacking and video games. Many video games are about driving cars, whether it is for racing, or heisting and escaping the police. In this talk, we will explain how the user experience could actually be improved by connecting a car to a video game and turning it into a game controller.&#13;
 &#13;
-This talk will first outline the key problems for developing dynamic firmware analysis tools and pinpoint different approaches to overcome those problems.&#13;
-The core of this talk, however, focuses on avatar², an open source framework built to ease firmware reversing and security analysis.&#13;
+We will discuss about these connected systems, how car components interact with one another, the different protocols, or anything that came to us during this journey.&#13;
 &#13;
-In more detail, avatar² utilizes partial emulation to enable transparent analysis of firmware, and while the main firmware is executed inside the emulator, I/O operations to and from the hardware are commonly relayed to the actual hardware or the emulator. To realize this complex orchestration, avatar² enables communication and state synchronization between a variety of popular tools, such as Qemu, OpenOCD, GDB, PANDA and angr.&#13;
+However there was one important constraint during all that experience: no car could be dismantled nor modified. The main goal of this analysis was to try doing something out of the data which could be freely recovered while plugging itself to the OBD-II port of a car. As mentioned, this resulted in the possibility of controlling a video game car through the real car, like a simulator, without the need of modifying anything in the car itself.&#13;
 &#13;
-While the declared scope of avatar² the is analysis of embedded firmware, this talk will also show that the framework can also be useful in other contexts, such as scripting gdb in python from outside gdb, or loading the state of a concretely executed binary into angr.</description>
+Unfortunately, this requires a lot of gasoline to have the engine powered on and run. Moreover, gasoline is really expensive in France. So we looked for a way to reduce that cost. We actually found a nice device on the Internet to optimize the amount of gasoline used by the engine. Apparently, it works by connecting to the OBD-II port and reconfigures the engine’s ECU. We looked into that to understand what was actually going on… and try to reduce the cost of the drifting.&#13;
+&#13;
+The following points will be mentioned during the presentation:&#13;
+ECUs&#13;
+CAN bus&#13;
+OBD-II (DTCs/PIDs)&#13;
+On-top-of-CAN protocols&#13;
+UDS (Diagnostic/Security session)&#13;
+Reverse engineering: the meanings of CAN messages&#13;
+Using a real car as a simulator, for poories&#13;
+Minor details about how to create a custom game controller&#13;
+OBD dongle reverse engineering</description>
         <recording>
           <license>CC BY 4.0</license>
           <optout>false</optout>
         </recording>
         <persons>
-          <person id="7837">nsr</person>
+          <person id="7994">Guillaume Heilles</person>
+          <person id="7546">P1kachu</person>
         </persons>
-        <links>
-          <link href="https://github.com/avatartwo">avatar2 - the source code</link>
-        </links>
+        <links/>
         <attachments/>
       </event>
       <event href="https://fahrplan.events.ccc.de/congress/2017/Fahrplan/events/9077.html" id="9077" guid="6cccf75c-93a1-48df-b9fc-843da8359bd3">
@@ -7602,37 +7611,10 @@ Finally, we will discuss what people can do to keep themselves informed, and sta
         <links/>
         <attachments/>
       </event>
-      <event href="https://fahrplan.events.ccc.de/congress/2017/Fahrplan/events/8896.html" id="8896" guid="fa2a2506-f54d-4e3f-9fc2-e808d0a580b6">
+      <event href="https://fahrplan.events.ccc.de/congress/2017/Fahrplan/events/8968.html" id="8968" guid="956cf3ed-c342-4c1d-b636-29ec3d4578d2">
         <logo/>
         <date>2017-12-29T19:45:00+01:00</date>
         <start>19:45</start>
-        <duration>01:00</duration>
-        <room>Saal Adams</room>
-        <slug>34c3-8896-tiger_drucker_und_ein_mahnmal</slug>
-        <title>Tiger, Drucker und ein Mahnmal</title>
-        <subtitle>Neues vom Zentrum für Politische Schönheit</subtitle>
-        <track>Ethics, Society &amp; Politics</track>
-        <type>lecture</type>
-        <language>de</language>
-        <abstract>Flüchtlingsfressende Tiger in Berlin, zum Diktatorensturz aufrufende Flugblätter in Istanbul und ein Mahnmal das den Rechtsextremisten Björn Höcker in seinem Thüringer Dorf heimsucht: Viel ist geschehen, seit das Zentrum für Politische Schönheit vor 3 Jahren auf dem Kongress gesprochen hat. </abstract>
-        <description>Grund genug mal wieder Bericht zu erstatten, aus dem Nähkästchen zu plaudern und unveröffentlichtes Material mit euch zu begutachten. Aber Vorsicht: das ZPS ist die einzige Organisation die von Björn Höcke das Gütesiegel "terroristische Vereinigung" verliehen bekommen hat. Es könnte also lustig werden.&#13;
-</description>
-        <recording>
-          <license>CC BY 4.0</license>
-          <optout>false</optout>
-        </recording>
-        <persons>
-          <person id="5261">Stefan Pelzer</person>
-          <person id="5266">Philipp Ruch</person>
-          <person id="8004">Morius Enden</person>
-        </persons>
-        <links/>
-        <attachments/>
-      </event>
-      <event href="https://fahrplan.events.ccc.de/congress/2017/Fahrplan/events/8968.html" id="8968" guid="956cf3ed-c342-4c1d-b636-29ec3d4578d2">
-        <logo/>
-        <date>2017-12-29T21:00:00+01:00</date>
-        <start>21:00</start>
         <duration>01:00</duration>
         <room>Saal Adams</room>
         <slug>34c3-8968-are_all_bsds_created_equally</slug>
@@ -7658,6 +7640,33 @@ I end the presentation with some results and conclusions. I will list what the o
         <attachments>
           <attachment href="/system/event_attachments/attachments/000/003/262/original/bsd_kern_vulns.pptx?1507999268">bsd_kern_vulns.pptx</attachment>
         </attachments>
+      </event>
+      <event href="https://fahrplan.events.ccc.de/congress/2017/Fahrplan/events/8896.html" id="8896" guid="fa2a2506-f54d-4e3f-9fc2-e808d0a580b6">
+        <logo/>
+        <date>2017-12-29T21:00:00+01:00</date>
+        <start>21:00</start>
+        <duration>01:00</duration>
+        <room>Saal Adams</room>
+        <slug>34c3-8896-tiger_drucker_und_ein_mahnmal</slug>
+        <title>Tiger, Drucker und ein Mahnmal</title>
+        <subtitle>Neues vom Zentrum für Politische Schönheit</subtitle>
+        <track>Ethics, Society &amp; Politics</track>
+        <type>lecture</type>
+        <language>de</language>
+        <abstract>Flüchtlingsfressende Tiger in Berlin, zum Diktatorensturz aufrufende Flugblätter in Istanbul und ein Mahnmal das den Rechtsextremisten Björn Höcker in seinem Thüringer Dorf heimsucht: Viel ist geschehen, seit das Zentrum für Politische Schönheit vor 3 Jahren auf dem Kongress gesprochen hat. </abstract>
+        <description>Grund genug mal wieder Bericht zu erstatten, aus dem Nähkästchen zu plaudern und unveröffentlichtes Material mit euch zu begutachten. Aber Vorsicht: das ZPS ist die einzige Organisation die von Björn Höcke das Gütesiegel "terroristische Vereinigung" verliehen bekommen hat. Es könnte also lustig werden.&#13;
+</description>
+        <recording>
+          <license>CC BY 4.0</license>
+          <optout>false</optout>
+        </recording>
+        <persons>
+          <person id="5261">Stefan Pelzer</person>
+          <person id="5266">Philipp Ruch</person>
+          <person id="8004">Morius Enden</person>
+        </persons>
+        <links/>
+        <attachments/>
       </event>
       <event href="https://fahrplan.events.ccc.de/congress/2017/Fahrplan/events/8965.html" id="8965" guid="8c303809-3c7c-4532-ab1e-c9a4e7c38245">
         <logo/>
@@ -8789,47 +8798,38 @@ On the day of the referendum it was expected that the Spanish police will close 
         <links/>
         <attachments/>
       </event>
-      <event href="https://fahrplan.events.ccc.de/congress/2017/Fahrplan/events/8758.html" id="8758" guid="275f85de-d612-4440-8755-85dee5912f12">
-        <logo>/system/events/logos/000/008/758/large/IMG_0505.JPG?1506513641</logo>
+      <event href="https://fahrplan.events.ccc.de/congress/2017/Fahrplan/events/9195.html" id="9195" guid="0dbbb546-38e6-499f-bb93-a5539d114d1d">
+        <logo/>
         <date>2017-12-29T16:30:00+01:00</date>
         <start>16:30</start>
         <duration>01:00</duration>
         <room>Saal Dijkstra</room>
-        <slug>34c3-8758-how_to_drift_with_any_car</slug>
-        <title>How to drift with any car</title>
-        <subtitle>(without your mom yelling at you)</subtitle>
+        <slug>34c3-9195-avatar</slug>
+        <title>avatar²</title>
+        <subtitle>Towards an open source binary firmware analysis framework</subtitle>
         <track>Security</track>
         <type>lecture</type>
         <language>en</language>
-        <abstract>Lots of research are arising from the fairly unexplored world of automative communications. Cars are no longer becoming computers, they are fully connected networks where every ECU exchanges and operates the vehicles at some point.&#13;
-Here is an introduction of my immersion and discussions with my car, and how I finally managed to drift (a bit) with my mom's FWD Fiat 500c.</abstract>
-        <description>This talk is not only about security, but about hacking and video games. Many video games are about driving cars, whether it is for racing, or heisting and escaping the police. In this talk, we will explain how the user experience could actually be improved by connecting a car to a video game and turning it into a game controller.&#13;
+        <abstract>Avatar² is an open source framework for dynamic instrumentation and analysis of binary firmware, which was released in June 2017.&#13;
+This talk does not only introduce avatar², but also focuses on the motivation and challenges for such a tool.</abstract>
+        <description>Dynamic binary instrumentation and analysis are valuable assets for security analysis and testing, and while a variety of tools exist for desktop software, the tooling landscape for analysing low-level binary firmware directly interacting with hardware is relatively empty.&#13;
 &#13;
-We will discuss about these connected systems, how car components interact with one another, the different protocols, or anything that came to us during this journey.&#13;
+This talk will first outline the key problems for developing dynamic firmware analysis tools and pinpoint different approaches to overcome those problems.&#13;
+The core of this talk, however, focuses on avatar², an open source framework built to ease firmware reversing and security analysis.&#13;
 &#13;
-However there was one important constraint during all that experience: no car could be dismantled nor modified. The main goal of this analysis was to try doing something out of the data which could be freely recovered while plugging itself to the OBD-II port of a car. As mentioned, this resulted in the possibility of controlling a video game car through the real car, like a simulator, without the need of modifying anything in the car itself.&#13;
+In more detail, avatar² utilizes partial emulation to enable transparent analysis of firmware, and while the main firmware is executed inside the emulator, I/O operations to and from the hardware are commonly relayed to the actual hardware or the emulator. To realize this complex orchestration, avatar² enables communication and state synchronization between a variety of popular tools, such as Qemu, OpenOCD, GDB, PANDA and angr.&#13;
 &#13;
-Unfortunately, this requires a lot of gasoline to have the engine powered on and run. Moreover, gasoline is really expensive in France. So we looked for a way to reduce that cost. We actually found a nice device on the Internet to optimize the amount of gasoline used by the engine. Apparently, it works by connecting to the OBD-II port and reconfigures the engine’s ECU. We looked into that to understand what was actually going on… and try to reduce the cost of the drifting.&#13;
-&#13;
-The following points will be mentioned during the presentation:&#13;
-ECUs&#13;
-CAN bus&#13;
-OBD-II (DTCs/PIDs)&#13;
-On-top-of-CAN protocols&#13;
-UDS (Diagnostic/Security session)&#13;
-Reverse engineering: the meanings of CAN messages&#13;
-Using a real car as a simulator, for poories&#13;
-Minor details about how to create a custom game controller&#13;
-OBD dongle reverse engineering</description>
+While the declared scope of avatar² the is analysis of embedded firmware, this talk will also show that the framework can also be useful in other contexts, such as scripting gdb in python from outside gdb, or loading the state of a concretely executed binary into angr.</description>
         <recording>
           <license>CC BY 4.0</license>
           <optout>false</optout>
         </recording>
         <persons>
-          <person id="7994">Guillaume Heilles</person>
-          <person id="7546">P1kachu</person>
+          <person id="7837">nsr</person>
         </persons>
-        <links/>
+        <links>
+          <link href="https://github.com/avatartwo">avatar2 - the source code</link>
+        </links>
         <attachments/>
       </event>
       <event href="https://fahrplan.events.ccc.de/congress/2017/Fahrplan/events/9142.html" id="9142" guid="ea27b2dc-d558-4fab-8406-a9db30930f8f">
