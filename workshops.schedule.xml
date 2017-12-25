@@ -10,7 +10,7 @@
   <day date="2017-12-26" index="1" end="2017-12-27T04:00:00+01:00" start="2017-12-26T06:00:00+01:00">
     <room name="Komona Coral Reef"/>
     <room name="Lecture room 11">
-      <event id="1015" guid="3e6ca324-cc11-4403-b0ce-bd621d931cd6">
+      <event id="1014" guid="3e6ca324-cc11-4403-b0ce-bd621d931cd6">
         <logo/>
         <date>2017-12-26T23:30:00+01:00</date>
         <start>23:30</start>
@@ -32,7 +32,7 @@
           <link>https://events.ccc.de/congress/2017/wiki/index.php/Session:A/V_Angel_Meeting</link>
         </links>
       </event>
-      <event id="1016" guid="4e77ac4f-012b-4132-8079-c16fd0f600fd">
+      <event id="1015" guid="4e77ac4f-012b-4132-8079-c16fd0f600fd">
         <logo/>
         <date>2017-12-26T21:30:00+01:00</date>
         <start>21:30</start>
@@ -54,7 +54,7 @@
           <link>https://events.ccc.de/congress/2017/wiki/index.php/Session:A/V_Angel_Meeting</link>
         </links>
       </event>
-      <event id="1267" guid="2f8b0e3d-e4bc-56f3-a96d-3c7559fd753f">
+      <event id="1266" guid="2f8b0e3d-e4bc-56f3-a96d-3c7559fd753f">
         <logo/>
         <date>2017-12-26T20:00:00+01:00</date>
         <start>20:00</start>
@@ -103,7 +103,7 @@ This meeting is mandatory if you want to be a Stagemanager during 34C3.</descrip
     <room name="CCL Hall 3"/>
     <room name="Komona D.Ressrosa"/>
     <room name="Seminar room 14-15">
-      <event id="1026" guid="e54328ce-06f7-5578-bccb-0653404d932e">
+      <event id="1025" guid="e54328ce-06f7-5578-bccb-0653404d932e">
         <logo/>
         <date>2017-12-26T13:00:00+01:00</date>
         <start>13:00</start>
@@ -122,7 +122,7 @@ This meeting is mandatory if you want to be a Stagemanager during 34C3.</descrip
           <link>https://events.ccc.de/congress/2017/wiki/index.php/Session:Angel_Meeting</link>
         </links>
       </event>
-      <event id="1027" guid="3b5cf5d2-7d5d-51ba-8798-dc60e10c8985">
+      <event id="1026" guid="3b5cf5d2-7d5d-51ba-8798-dc60e10c8985">
         <logo/>
         <date>2017-12-26T19:30:00+01:00</date>
         <start>19:30</start>
@@ -141,7 +141,7 @@ This meeting is mandatory if you want to be a Stagemanager during 34C3.</descrip
           <link>https://events.ccc.de/congress/2017/wiki/index.php/Session:Angel_Meeting</link>
         </links>
       </event>
-      <event id="1028" guid="5e7bb2b0-f5ea-598b-9f57-a08f05420984">
+      <event id="1027" guid="5e7bb2b0-f5ea-598b-9f57-a08f05420984">
         <logo/>
         <date>2017-12-26T20:15:00+01:00</date>
         <start>20:15</start>
@@ -253,7 +253,7 @@ It takes about 30 minutes to copy a fullsize adult leg. We will have two hours s
       </event>
     </room>
     <room name="Lecture room 11">
-      <event id="1017" guid="f5f69c30-2863-4817-a663-b248274c87ac">
+      <event id="1016" guid="f5f69c30-2863-4817-a663-b248274c87ac">
         <logo/>
         <date>2017-12-27T20:15:00+01:00</date>
         <start>20:15</start>
@@ -296,7 +296,7 @@ It takes about 30 minutes to copy a fullsize adult leg. We will have two hours s
           <link>https://events.ccc.de/congress/2017/wiki/index.php/Session:Tor_relays_operators_meetup</link>
         </links>
       </event>
-      <event id="1268" guid="ff42e72c-d902-5009-b2dd-f7c515811d70">
+      <event id="1267" guid="ff42e72c-d902-5009-b2dd-f7c515811d70">
         <logo/>
         <date>2017-12-27T17:30:00+01:00</date>
         <start>17:30</start>
@@ -1214,26 +1214,7 @@ the example of Thunderbird.</description>
       </event>
     </room>
     <room name="Seminar room 14-15">
-      <event id="1023" guid="579eab72-fbd6-5ba7-ad7a-59bcab0272ad">
-        <logo/>
-        <date>2017-12-27T12:45:00+01:00</date>
-        <start>12:45</start>
-        <duration>0:45</duration>
-        <room>Seminar room 14-15</room>
-        <slug/>
-        <title>Angel Meeting</title>
-        <subtitle>Angel meeting Day 1</subtitle>
-        <track>self organized sessions</track>
-        <type>meeting</type>
-        <language>en</language>
-        <abstract/>
-        <description>Daily meetings of the Angel crew.</description>
-        <persons/>
-        <links>
-          <link>https://events.ccc.de/congress/2017/wiki/index.php/Session:Angel_Meeting</link>
-        </links>
-      </event>
-      <event id="1024" guid="a8254a36-ca09-5c68-8e0b-1399b8a94247">
+      <event id="1023" guid="a8254a36-ca09-5c68-8e0b-1399b8a94247">
         <logo/>
         <date>2017-12-27T16:30:00+01:00</date>
         <start>16:30</start>
@@ -1252,7 +1233,7 @@ the example of Thunderbird.</description>
           <link>https://events.ccc.de/congress/2017/wiki/index.php/Session:Angel_Meeting</link>
         </links>
       </event>
-      <event id="1025" guid="a7083f65-5e8b-52cb-b008-af59762bb115">
+      <event id="1024" guid="a7083f65-5e8b-52cb-b008-af59762bb115">
         <logo/>
         <date>2017-12-27T17:15:00+01:00</date>
         <start>17:15</start>
@@ -1261,6 +1242,25 @@ the example of Thunderbird.</description>
         <slug/>
         <title>Angel Meeting</title>
         <subtitle>Introduction meeting for new angels Day 1</subtitle>
+        <track>self organized sessions</track>
+        <type>meeting</type>
+        <language>en</language>
+        <abstract/>
+        <description>Daily meetings of the Angel crew.</description>
+        <persons/>
+        <links>
+          <link>https://events.ccc.de/congress/2017/wiki/index.php/Session:Angel_Meeting</link>
+        </links>
+      </event>
+      <event id="1028" guid="579eab72-fbd6-5ba7-ad7a-59bcab0272ad">
+        <logo/>
+        <date>2017-12-27T12:45:00+01:00</date>
+        <start>12:45</start>
+        <duration>0:45</duration>
+        <room>Seminar room 14-15</room>
+        <slug/>
+        <title>Angel Meeting</title>
+        <subtitle>Angel meeting Day 1</subtitle>
         <track>self organized sessions</track>
         <type>meeting</type>
         <language>en</language>
@@ -1847,7 +1847,7 @@ Contact best via twitter @ENDSTATIONSUEDX</description>
       </event>
     </room>
     <room name="Lecture room 11">
-      <event id="1014" guid="2b6595ff-c32b-44aa-9bda-e411e5911162">
+      <event id="1017" guid="2b6595ff-c32b-44aa-9bda-e411e5911162">
         <logo/>
         <date>2017-12-28T20:15:00+01:00</date>
         <start>20:15</start>
@@ -1912,7 +1912,7 @@ Contact best via twitter @ENDSTATIONSUEDX</description>
           <link>https://events.ccc.de/congress/2017/wiki/index.php/Session:KinkyGeeks_Bondage_Workshop</link>
         </links>
       </event>
-      <event id="1265" guid="bb98f348-61fe-52b9-b6e7-6ac5c24534f5">
+      <event id="1268" guid="bb98f348-61fe-52b9-b6e7-6ac5c24534f5">
         <logo/>
         <date>2017-12-28T17:30:00+01:00</date>
         <start>17:30</start>
@@ -2612,7 +2612,7 @@ find physical POIs and buy goods without giving away your real identity.*</descr
       </event>
     </room>
     <room name="Komona D.Ressrosa">
-      <event id="1011" guid="c7aaf89d-f423-44fd-8adb-0cc83f9c7715">
+      <event id="1010" guid="c7aaf89d-f423-44fd-8adb-0cc83f9c7715">
         <logo/>
         <date>2017-12-28T12:00:00+01:00</date>
         <start>12:00</start>
@@ -3517,7 +3517,7 @@ eine Zukunft mit leeren Zellen nachdenken.</description>
       </event>
     </room>
     <room name="Lecture room 11">
-      <event id="1014" guid="2b6595ff-c32b-44aa-9bda-e411e5911162">
+      <event id="1017" guid="2b6595ff-c32b-44aa-9bda-e411e5911162">
         <logo/>
         <date>2017-12-29T20:15:00+01:00</date>
         <start>20:15</start>
@@ -3539,7 +3539,7 @@ eine Zukunft mit leeren Zellen nachdenken.</description>
           <link>https://events.ccc.de/congress/2017/wiki/index.php/Session:A/V_Angel_Meeting</link>
         </links>
       </event>
-      <event id="1014" guid="2b6595ff-c32b-44aa-9bda-e411e5911162">
+      <event id="1017" guid="2b6595ff-c32b-44aa-9bda-e411e5911162">
         <logo/>
         <date>2017-12-29T13:30:00+01:00</date>
         <start>13:30</start>
@@ -4417,7 +4417,7 @@ To do so let's have an overview of the measures' main elements that we tackle in
       </event>
     </room>
     <room name="Komona D.Ressrosa">
-      <event id="1010" guid="7d403585-2692-4528-a704-128181378780">
+      <event id="1011" guid="7d403585-2692-4528-a704-128181378780">
         <logo/>
         <date>2017-12-29T20:00:00+01:00</date>
         <start>20:00</start>
@@ -4709,7 +4709,7 @@ In diesem talk möchte ich grob skizzieren, wie das System funktioniert und wie 
           <link>https://events.ccc.de/congress/2017/wiki/index.php/Session:Interledger:_Streaming_Micropayments_%2B_Connecting_(Crypto)Currencies</link>
         </links>
       </event>
-      <event id="1266" guid="f3a30985-fc90-51f2-baa3-a07d034bffcc">
+      <event id="1265" guid="f3a30985-fc90-51f2-baa3-a07d034bffcc">
         <logo/>
         <date>2017-12-29T17:30:00+01:00</date>
         <start>17:30</start>
