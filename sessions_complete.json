@@ -8109,51 +8109,53 @@
             "1514405400"
         ]
     }, 
-    "Session:Rights&Freedoms# 9233046959c118f4e37e87b811773ec8": {
-        "Held in language": [
-            "de - German", 
-            "en - English"
-        ], 
+    "Session:Security Without Borders# 77b19904bc175785c30273f753eee496": {
+        "Held in language": [], 
         "Has start time": [
-            "1514489400"
+            "1514403900"
         ], 
         "Has event track": [
             "Session"
         ], 
-        "Has website": [], 
+        "Has website": [
+            "https://securitywithoutborders.org/"
+        ], 
         "Has description": [
-            "Rights & Freedoms Cluster Stage Programme"
+            "Meetup of people interested about Security Without Borders."
         ], 
-        "Has session type": [
-            "Talk"
-        ], 
+        "Has session type": [], 
         "Has session location": [
             {
-                "fulltext": "Room:CCL Hall 3", 
-                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Room:CCL_Hall_3", 
+                "fulltext": "Room:Seminar room 13", 
+                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Room:Seminar_room_13", 
                 "namespace": 516, 
                 "exists": true
             }
         ], 
-        "Has subtitle": [
-            "Algorithmic transaprency (EFF)"
+        "Has subtitle": [], 
+        "Is organized by": [
+            {
+                "fulltext": "User:Sobotny vecer", 
+                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/User:Sobotny_vecer", 
+                "namespace": 2, 
+                "exists": true
+            }
         ], 
-        "Is organized by": [], 
         "Has title": [
-            "Rights&Freedoms"
+            "Security Without Borders"
         ], 
         "Has duration": [
-            30
+            90
         ], 
         "GUID": [
-            "23c6fca0-a450-47cf-8e39-888514b76355"
+            "16098a31-339d-482a-9cac-55a2b174cbae"
         ], 
         "Has color": [
             "#0099ab"
         ], 
-        "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:Rights%26Freedoms", 
+        "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:Security_Without_Borders", 
         "Has end time": [
-            "1514491200"
+            "1514409300"
         ]
     }, 
     "Session:Hessentrojaner Meetup# 633a78ebe0699f4dcdaad66afc0861f5": {
@@ -8349,55 +8351,6 @@
         "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:The_many_applications_of_digital_certificates", 
         "Has end time": [
             "1514412000"
-        ]
-    }, 
-    "Session:Security Without Borders# 77b19904bc175785c30273f753eee496": {
-        "Held in language": [], 
-        "Has start time": [
-            "1514403900"
-        ], 
-        "Has event track": [
-            "Session"
-        ], 
-        "Has website": [
-            "https://securitywithoutborders.org/"
-        ], 
-        "Has description": [
-            "Meetup of people interested about Security Without Borders."
-        ], 
-        "Has session type": [], 
-        "Has session location": [
-            {
-                "fulltext": "Room:Seminar room 13", 
-                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Room:Seminar_room_13", 
-                "namespace": 516, 
-                "exists": true
-            }
-        ], 
-        "Has subtitle": [], 
-        "Is organized by": [
-            {
-                "fulltext": "User:Sobotny vecer", 
-                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/User:Sobotny_vecer", 
-                "namespace": 2, 
-                "exists": true
-            }
-        ], 
-        "Has title": [
-            "Security Without Borders"
-        ], 
-        "Has duration": [
-            90
-        ], 
-        "GUID": [
-            "16098a31-339d-482a-9cac-55a2b174cbae"
-        ], 
-        "Has color": [
-            "#0099ab"
-        ], 
-        "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:Security_Without_Borders", 
-        "Has end time": [
-            "1514409300"
         ]
     }, 
     "Session:How to make chiptune with a Game Boy DMG# 6223ac61875bb7990ff445b2b89d174f": {
@@ -12615,6 +12568,59 @@
             "1514505600"
         ]
     }, 
+    "Session:Surface mount electronics assembly for terrified beginners# 6ff33d8db23dd8a5029232b0c4a66bc4": {
+        "Held in language": [
+            "en - English"
+        ], 
+        "Has start time": [
+            "1514394000"
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [], 
+        "Has description": [
+            "Surface mount electronics for terrified beginners. Learn to assemble tiny parts on circuit boards by building a working power supply. Anyone can do it. Yes, even you who never touched anything electronic before. 90-100mins, 20\u20ac/kit, avoid caffeine immediately before. Max 20 participants per session, there will be a PAPER!!1! signup list in the hardware hacking area."
+        ], 
+        "Has session type": [
+            "Workshop"
+        ], 
+        "Has session location": [
+            {
+                "fulltext": "Assembly:HardwareHackingArea", 
+                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Assembly:HardwareHackingArea", 
+                "namespace": 504, 
+                "exists": true
+            }
+        ], 
+        "Has subtitle": [
+            "Day 1 Session 3"
+        ], 
+        "Is organized by": [
+            {
+                "fulltext": "User:Kliment", 
+                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/User:Kliment", 
+                "namespace": 2, 
+                "exists": true
+            }
+        ], 
+        "Has title": [
+            "Surface mount electronics assembly for terrified beginners"
+        ], 
+        "Has duration": [
+            90
+        ], 
+        "GUID": [
+            "7b07e29a-77f7-492d-9633-ed5c0fd10b9a"
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:Surface_mount_electronics_assembly_for_terrified_beginners", 
+        "Has end time": [
+            "1514399400"
+        ]
+    }, 
     "Session:SPREE:PUBLIK/Nonstop Schwitzen# 70d1f6a95afce1b17eec80233f6baa7d": {
         "Held in language": [], 
         "Has start time": [
@@ -12840,57 +12846,51 @@
             "1514401200"
         ]
     }, 
-    "Session:Surface mount electronics assembly for terrified beginners# 6ff33d8db23dd8a5029232b0c4a66bc4": {
+    "Session:Rights&Freedoms# fad59535ab20a100c6f2fee90ad83afd": {
         "Held in language": [
+            "de - German", 
             "en - English"
         ], 
         "Has start time": [
-            "1514394000"
+            "1514574000"
         ], 
         "Has event track": [
             "Session"
         ], 
         "Has website": [], 
         "Has description": [
-            "Surface mount electronics for terrified beginners. Learn to assemble tiny parts on circuit boards by building a working power supply. Anyone can do it. Yes, even you who never touched anything electronic before. 90-100mins, 20\u20ac/kit, avoid caffeine immediately before. Max 20 participants per session, there will be a PAPER!!1! signup list in the hardware hacking area."
+            "Rights & Freedoms Cluster Stage Programme"
         ], 
         "Has session type": [
-            "Workshop"
+            "Talk"
         ], 
         "Has session location": [
             {
-                "fulltext": "Assembly:HardwareHackingArea", 
-                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Assembly:HardwareHackingArea", 
-                "namespace": 504, 
+                "fulltext": "Room:CCL Hall 3", 
+                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Room:CCL_Hall_3", 
+                "namespace": 516, 
                 "exists": true
             }
         ], 
         "Has subtitle": [
-            "Day 1 Session 3"
+            "[https://events.ccc.de/congress/2017/wiki/index.php/Session:Public_Money%3F_Public_Code! Public money? Public code!] (Polina Malaja and Katharina Nocun)"
         ], 
-        "Is organized by": [
-            {
-                "fulltext": "User:Kliment", 
-                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/User:Kliment", 
-                "namespace": 2, 
-                "exists": true
-            }
-        ], 
+        "Is organized by": [], 
         "Has title": [
-            "Surface mount electronics assembly for terrified beginners"
+            "Rights&Freedoms"
         ], 
         "Has duration": [
-            90
+            60
         ], 
         "GUID": [
-            "7b07e29a-77f7-492d-9633-ed5c0fd10b9a"
+            "4f988987-df21-4bd4-a494-bf5fff3c3f42"
         ], 
         "Has color": [
             "#0099ab"
         ], 
-        "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:Surface_mount_electronics_assembly_for_terrified_beginners", 
+        "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:Rights%26Freedoms", 
         "Has end time": [
-            "1514399400"
+            "1514577600"
         ]
     }, 
     "Session:Bin\u00e4rgewitter H\u00f6rertreffen# efe7228a434266aa55380b4ad314ce65": {
@@ -15981,13 +15981,13 @@
             "1514584800"
         ]
     }, 
-    "Session:Rights&Freedoms# fad59535ab20a100c6f2fee90ad83afd": {
+    "Session:Rights&Freedoms# 9233046959c118f4e37e87b811773ec8": {
         "Held in language": [
             "de - German", 
             "en - English"
         ], 
         "Has start time": [
-            "1514574000"
+            "1514489400"
         ], 
         "Has event track": [
             "Session"
@@ -16008,24 +16008,24 @@
             }
         ], 
         "Has subtitle": [
-            "[https://events.ccc.de/congress/2017/wiki/index.php/Session:Public_Money%3F_Public_Code! Public money? Public code!] (Polina Malaja and Katharina Nocun)"
+            "Algorithmic transaprency (EFF)"
         ], 
         "Is organized by": [], 
         "Has title": [
             "Rights&Freedoms"
         ], 
         "Has duration": [
-            60
+            30
         ], 
         "GUID": [
-            "4f988987-df21-4bd4-a494-bf5fff3c3f42"
+            "23c6fca0-a450-47cf-8e39-888514b76355"
         ], 
         "Has color": [
             "#0099ab"
         ], 
         "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:Rights%26Freedoms", 
         "Has end time": [
-            "1514577600"
+            "1514491200"
         ]
     }, 
     "Session:Howto Let's Play# 070fe8a455a900a9238622b6c1bea2bb": {
