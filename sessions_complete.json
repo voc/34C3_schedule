@@ -1378,7 +1378,7 @@
         ], 
         "Has website": [], 
         "Has description": [
-            "Meet some security people from all over the world, connect & chat, exchange frustrating or fun work-related stories & have a drink with us! (right now we will bring 1-2 bottles of good whiskey, feel free to bring more) \nGathering can continue in the party area ;)\n\n--&gt; any questions? twitter.com/5ettings"
+            "Meet some security people from all over the world, connect & chat, exchange frustrating or fun work-related stories & have a drink with us! \n\nGathering can continue in the party area ;)"
         ], 
         "Has session type": [
             "Meeting"
@@ -1394,7 +1394,14 @@
         "Has subtitle": [
             "Network & drink"
         ], 
-        "Is organized by": [], 
+        "Is organized by": [
+            {
+                "fulltext": "User:5ettings", 
+                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/User:5ettings", 
+                "namespace": 2, 
+                "exists": true
+            }
+        ], 
         "Has title": [
             "IT-Security Meetup"
         ], 
