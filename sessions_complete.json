@@ -899,53 +899,6 @@
             "1514403000"
         ]
     }, 
-    "Session:Rights&Freedoms# 9233046959c118f4e37e87b811773ec8": {
-        "Held in language": [
-            "de - German", 
-            "en - English"
-        ], 
-        "Has start time": [
-            "1514489400"
-        ], 
-        "Has event track": [
-            "Session"
-        ], 
-        "Has website": [], 
-        "Has description": [
-            "Rights & Freedoms Cluster Stage Programme"
-        ], 
-        "Has session type": [
-            "Talk"
-        ], 
-        "Has session location": [
-            {
-                "fulltext": "Room:CCL Hall 3", 
-                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Room:CCL_Hall_3", 
-                "namespace": 516, 
-                "exists": true
-            }
-        ], 
-        "Has subtitle": [
-            "Algorithmic transaprency (EFF)"
-        ], 
-        "Is organized by": [], 
-        "Has title": [
-            "Rights&Freedoms"
-        ], 
-        "Has duration": [
-            30
-        ], 
-        "GUID": [
-            "23c6fca0-a450-47cf-8e39-888514b76355"
-        ], 
-        "Has color": [
-            "#0099ab"
-        ], 
-        "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:Rights%26Freedoms", 
-        "Has end time": [
-            "1514491200"
-        ]
-    }, 
     "Session:Wie produziere ich mein eigenes H\u00f6rspiel mit Hilfe von freeware free sounds# e9e0f96ddae80dfb9c8724abad3fe9ea": {
         "Held in language": [
             "de - German"
@@ -2554,6 +2507,50 @@
         "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:Sind_wir_schon_Cyborgs%3F", 
         "Has end time": [
             "1514491200"
+        ]
+    }, 
+    "Session:Wie produziere ich mein eigenes H\u00f6rspiel# e54e39cc28bbd903216fa8e7f6ea653e": {
+        "Held in language": [
+            "de - German"
+        ], 
+        "Has start time": [
+            "1514469600"
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [], 
+        "Has description": [
+            "Wie produziere ich mein eigenes H\u00f6rspiel mit Hilfe von freeware & free sounds (Benni)"
+        ], 
+        "Has session type": [
+            "Workshop"
+        ], 
+        "Has session location": [
+            {
+                "fulltext": "Room:Komona D.Ressrosa", 
+                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Room:Komona_D.Ressrosa", 
+                "namespace": 516, 
+                "exists": true
+            }
+        ], 
+        "Has subtitle": [], 
+        "Is organized by": [], 
+        "Has title": [
+            "Wie produziere ich mein eigenes H\u00f6rspiel"
+        ], 
+        "Has duration": [
+            120
+        ], 
+        "GUID": [
+            "af1ca733-a445-4f6c-947b-a7e79b77f0ba"
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:Wie_produziere_ich_mein_eigenes_H%C3%B6rspiel", 
+        "Has end time": [
+            "1514476800"
         ]
     }, 
     "Session:Radio Neu# 213796d14c33cb22564157bc8e341f24": {
@@ -7875,49 +7872,39 @@
             "1514399400"
         ]
     }, 
-    "Session:Wie produziere ich mein eigenes H\u00f6rspiel# e54e39cc28bbd903216fa8e7f6ea653e": {
+    "Session:Lainchan Meetup# 662e9a9620ba88db76469bba5e2c3bd3": {
         "Held in language": [
-            "de - German"
+            "de - German", 
+            "en - English"
         ], 
-        "Has start time": [
-            "1514469600"
-        ], 
+        "Has start time": [], 
         "Has event track": [
             "Session"
         ], 
-        "Has website": [], 
+        "Has website": [
+            "https://lainchan.org"
+        ], 
         "Has description": [
-            "Wie produziere ich mein eigenes H\u00f6rspiel mit Hilfe von freeware & free sounds (Benni)"
+            "A gathering of lainons at the TeaHouse"
         ], 
         "Has session type": [
-            "Workshop"
+            "Meeting"
         ], 
-        "Has session location": [
-            {
-                "fulltext": "Room:Komona D.Ressrosa", 
-                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Room:Komona_D.Ressrosa", 
-                "namespace": 516, 
-                "exists": true
-            }
-        ], 
+        "Has session location": [], 
         "Has subtitle": [], 
         "Is organized by": [], 
         "Has title": [
-            "Wie produziere ich mein eigenes H\u00f6rspiel"
+            "Lainchan Meetup"
         ], 
-        "Has duration": [
-            120
-        ], 
+        "Has duration": [], 
         "GUID": [
-            "af1ca733-a445-4f6c-947b-a7e79b77f0ba"
+            "66a66ea4-e4e9-49e3-b218-ba6a8c5cd513"
         ], 
         "Has color": [
             "#0099ab"
         ], 
-        "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:Wie_produziere_ich_mein_eigenes_H%C3%B6rspiel", 
-        "Has end time": [
-            "1514476800"
-        ]
+        "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:Lainchan_Meetup", 
+        "Has end time": []
     }, 
     "Session:Rights&Freedoms# 86406a7a2e0f4cb89922cc5c1263d902": {
         "Held in language": [
@@ -10403,6 +10390,53 @@
         "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:Letter_writing_to_prisoners,_sitting_in_jail_for_hacking", 
         "Has end time": [
             "1514465100"
+        ]
+    }, 
+    "Session:Rights&Freedoms# fad59535ab20a100c6f2fee90ad83afd": {
+        "Held in language": [
+            "de - German", 
+            "en - English"
+        ], 
+        "Has start time": [
+            "1514574000"
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [], 
+        "Has description": [
+            "Rights & Freedoms Cluster Stage Programme"
+        ], 
+        "Has session type": [
+            "Talk"
+        ], 
+        "Has session location": [
+            {
+                "fulltext": "Room:CCL Hall 3", 
+                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Room:CCL_Hall_3", 
+                "namespace": 516, 
+                "exists": true
+            }
+        ], 
+        "Has subtitle": [
+            "[https://events.ccc.de/congress/2017/wiki/index.php/Session:Public_Money%3F_Public_Code! Public money? Public code!] (Polina Malaja and Katharina Nocun)"
+        ], 
+        "Is organized by": [], 
+        "Has title": [
+            "Rights&Freedoms"
+        ], 
+        "Has duration": [
+            60
+        ], 
+        "GUID": [
+            "4f988987-df21-4bd4-a494-bf5fff3c3f42"
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:Rights%26Freedoms", 
+        "Has end time": [
+            "1514577600"
         ]
     }, 
     "Session:A/V Angel Meeting# cfae41ef06cf48c907d63a56a72f8e52": {
@@ -15767,13 +15801,13 @@
             "1514584800"
         ]
     }, 
-    "Session:Rights&Freedoms# fad59535ab20a100c6f2fee90ad83afd": {
+    "Session:Rights&Freedoms# 9233046959c118f4e37e87b811773ec8": {
         "Held in language": [
             "de - German", 
             "en - English"
         ], 
         "Has start time": [
-            "1514574000"
+            "1514489400"
         ], 
         "Has event track": [
             "Session"
@@ -15794,24 +15828,24 @@
             }
         ], 
         "Has subtitle": [
-            "[https://events.ccc.de/congress/2017/wiki/index.php/Session:Public_Money%3F_Public_Code! Public money? Public code!] (Polina Malaja and Katharina Nocun)"
+            "Algorithmic transaprency (EFF)"
         ], 
         "Is organized by": [], 
         "Has title": [
             "Rights&Freedoms"
         ], 
         "Has duration": [
-            60
+            30
         ], 
         "GUID": [
-            "4f988987-df21-4bd4-a494-bf5fff3c3f42"
+            "23c6fca0-a450-47cf-8e39-888514b76355"
         ], 
         "Has color": [
             "#0099ab"
         ], 
         "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:Rights%26Freedoms", 
         "Has end time": [
-            "1514577600"
+            "1514491200"
         ]
     }, 
     "Session:Howto Let's Play# 070fe8a455a900a9238622b6c1bea2bb": {
