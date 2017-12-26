@@ -6960,7 +6960,7 @@
         ], 
         "Has website": [], 
         "Has description": [
-            "In this workshop about Open Research/Science we want to first identify what we can do to improve any aspect of Open Research/Science (like Open Access, Open Educational Resources, Open Peer Review, Open Data, ...). We then pick one or more of these aspects and start working on solutions (Hackathon-style).\n\nThe workshop is an excellent place to connect with other people who are interested in making research and science more open.\n\nBring your own ideas and make sure to add them to https://hackmd.io/CYMwRgjApgxgbBAtMMtEBYCGwlgEzAAciYcwA7BJuoeiAMyZA=== (even better if you do so before the event)!"
+            "In this workshop about Open Research/Science we want to first identify what we can do to improve any aspect of Open Research/Science (like Open Access, Open Educational Resources, Open Peer Review, Open Data, ...). We then pick one or more of these aspects and start working on solutions (Hackathon-style).\n\nThe workshop is an excellent place to connect with other people who are interested in making research and science more open.\n\nBring your own ideas and make sure to add them to https://hackmd.io/CYMwRgjApgxgbBAtMMtEBYCGwlgEzAAciYcwA7BJuoeiAMyZA===?both (even better if you do so before the event)!"
         ], 
         "Has session type": [
             "Workshop"
@@ -14702,7 +14702,7 @@
         ], 
         "Has website": [], 
         "Has description": [
-            "We will talk a bit about our assembly and what we are doing there, exchange projects and ideas, and network with each other. This meetup is open to people of all genders, but please be mindful of how much space you are taking up. Especially if you are white, male, straight and cis, please try to actively listen instead of talking.\n\nThis is our Code of Conduct:\nhttps://events.ccc.de/congress/2015/wiki/Projects:Code_of_Conduct_of_the_Queer_Feminist_Geek_Assembly"
+            "Meetup for everyone who identifies as queer and/or feminist and/or trans* or otherwise non-{white+male+straight+cis}. We will network with each other, exchange projects and ideas and talk about the QueerFeministGeeks assembly. This meetup is open to people of all genders, but please be mindful of how much space you are taking up and let those this meeting is intended for take priority. We try to be newbie- and introvert-friendly, so please do come even if you don't know anybody yet! See our Code of Conduct below."
         ], 
         "Has session type": [
             "Meeting"
@@ -15022,6 +15022,52 @@
         ], 
         "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:Lainchan_Meetup", 
         "Has end time": []
+    }, 
+    "Session:Experience in dissecting malware# d1f4e97d90cd8aaf9945fd3622cee203": {
+        "Held in language": [
+            "de - German"
+        ], 
+        "Has start time": [
+            "1514548800"
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [], 
+        "Has description": [
+            "Sharing some results from dissecting and re-implementing a rootkit. Aim was and is to understand the decisions of the orginal authors. Work is based on a re-implementation of a well-known implant. Previous Experience in Reversing Malware strongly recommended. This more looking at the re-implementation together than a workshop."
+        ], 
+        "Has session type": [
+            "Talk"
+        ], 
+        "Has session location": [
+            {
+                "fulltext": "Room:Seminar room 13", 
+                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Room:Seminar_room_13", 
+                "namespace": 516, 
+                "exists": true
+            }
+        ], 
+        "Has subtitle": [
+            "This driver is not one of ours."
+        ], 
+        "Is organized by": [], 
+        "Has title": [
+            "Experience in dissecting malware"
+        ], 
+        "Has duration": [
+            90
+        ], 
+        "GUID": [
+            "e7ea3871-030c-4138-be40-d0814410a298"
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:Experience_in_dissecting_malware", 
+        "Has end time": [
+            "1514554200"
+        ]
     }, 
     "Session:Gentoo e.V. Mitgliederversammlung# fabe5a0b145491adb73ce1238b73153d": {
         "Held in language": [
