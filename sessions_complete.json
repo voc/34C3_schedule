@@ -6960,7 +6960,7 @@
         ], 
         "Has website": [], 
         "Has description": [
-            "In this workshop about Open Research/Science we want to first identify what we can do to improve any aspect of Open Research/Science (like Open Access, Open Educational Resources, Open Peer Review, Open Data, ...). We then pick one or more of these aspects and start working on solutions (Hackathon-style).\n\nThe workshop is an excellent place to connect with other people who are interested in making research and science more open.\n\nBring your own ideas and make sure to add them to https://hackmd.okfn.de/34c3-openscience (even better if you do so before the event)!"
+            "In this workshop about Open Research/Science we want to first identify what we can do to improve any aspect of Open Research/Science (like Open Access, Open Educational Resources, Open Peer Review, Open Data, ...). We then pick one or more of these aspects and start working on solutions (Hackathon-style).\n\nThe workshop is an excellent place to connect with other people who are interested in making research and science more open.\n\nBring your own ideas and make sure to add them to https://hackmd.io/CYMwRgjApgxgbBAtMMtEBYCGwlgEzAAciYcwA7BJuoeiAMyZA=== (even better if you do so before the event)!"
         ], 
         "Has session type": [
             "Workshop"
@@ -10313,6 +10313,46 @@
             "1514476800"
         ]
     }, 
+    "Session:Hear What You Like to Hear# f273b334c2c757291e182e98d01ff6dd": {
+        "Held in language": [
+            "en - English"
+        ], 
+        "Has start time": [], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [
+            "http://not%20yet"
+        ], 
+        "Has description": [
+            "Hear what you like to hear is a citizen science project intitiated by myself as an hearing restricted person. In this session I want to introduce to our research approach and present the Open Master Hearing Aid on a Raspberry Pi 3."
+        ], 
+        "Has session type": [
+            "Hands-On"
+        ], 
+        "Has session location": [], 
+        "Has subtitle": [], 
+        "Is organized by": [
+            {
+                "fulltext": "User:P", 
+                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/User:P", 
+                "namespace": 2, 
+                "exists": false
+            }
+        ], 
+        "Has title": [
+            "Hear What You Like to Hear"
+        ], 
+        "Has duration": [], 
+        "GUID": [
+            "fe9ff770-1bf3-4d29-ab1c-1b9655b1ba02"
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:Hear_What_You_Like_to_Hear", 
+        "Has end time": []
+    }, 
     "Session:Mietsh\u00e4usersyndikat was ist das?# 6e24fb2d386c015174232a15d414d17d": {
         "Held in language": [], 
         "Has start time": [
@@ -12858,50 +12898,6 @@
             "1514599200"
         ]
     }, 
-    "Session:Queer Feminist Geeks Gathering# a0e2a240223fa9934e13c641cac09419": {
-        "Held in language": [
-            "en - English"
-        ], 
-        "Has start time": [
-            "1514386800"
-        ], 
-        "Has event track": [
-            "Session"
-        ], 
-        "Has website": [], 
-        "Has description": [
-            "We will talk a bit about our assembly and what we are doing there, exchange projects and ideas, and network with each other. This meetup is open to people of all genders, but please be mindful of how much space you are taking up. Especially if you are white, male, straight and cis, please try to actively listen instead of talking.\n\nThis is our Code of Conduct:\nhttps://events.ccc.de/congress/2015/wiki/Projects:Code_of_Conduct_of_the_Queer_Feminist_Geek_Assembly"
-        ], 
-        "Has session type": [
-            "Meeting"
-        ], 
-        "Has session location": [
-            {
-                "fulltext": "Room:Lecture room 11", 
-                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Room:Lecture_room_11", 
-                "namespace": 516, 
-                "exists": true
-            }
-        ], 
-        "Has subtitle": [], 
-        "Is organized by": [], 
-        "Has title": [
-            "Queer Feminist Geeks Gathering"
-        ], 
-        "Has duration": [
-            60
-        ], 
-        "GUID": [
-            "2531e3ab-f5e9-43e4-993d-8f55f54cfd65"
-        ], 
-        "Has color": [
-            "#0099ab"
-        ], 
-        "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:Queer_Feminist_Geeks_Gathering", 
-        "Has end time": [
-            "1514390400"
-        ]
-    }, 
     "Session:Anarchist hackers - Hispagatos International anarchist-hacker collective# f4e3df0aa42144573fba6a03c70378e1": {
         "Held in language": [
             "en - English", 
@@ -14692,6 +14688,57 @@
         "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:Jabber/XMPP:_the_past,_the_presence_and_the_future", 
         "Has end time": [
             "1514404800"
+        ]
+    }, 
+    "Session:Queer Feminist Geeks Gathering# 23a447843be2ec68ba7f8e0cb19cd4df": {
+        "Held in language": [
+            "en - English"
+        ], 
+        "Has start time": [
+            "1514388600"
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [], 
+        "Has description": [
+            "We will talk a bit about our assembly and what we are doing there, exchange projects and ideas, and network with each other. This meetup is open to people of all genders, but please be mindful of how much space you are taking up. Especially if you are white, male, straight and cis, please try to actively listen instead of talking.\n\nThis is our Code of Conduct:\nhttps://events.ccc.de/congress/2015/wiki/Projects:Code_of_Conduct_of_the_Queer_Feminist_Geek_Assembly"
+        ], 
+        "Has session type": [
+            "Meeting"
+        ], 
+        "Has session location": [
+            {
+                "fulltext": "Room:Lecture room 11", 
+                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Room:Lecture_room_11", 
+                "namespace": 516, 
+                "exists": true
+            }
+        ], 
+        "Has subtitle": [], 
+        "Is organized by": [
+            {
+                "fulltext": "User:Ayke", 
+                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/User:Ayke", 
+                "namespace": 2, 
+                "exists": true
+            }
+        ], 
+        "Has title": [
+            "Queer Feminist Geeks Gathering"
+        ], 
+        "Has duration": [
+            90
+        ], 
+        "GUID": [
+            "2531e3ab-f5e9-43e4-993d-8f55f54cfd65"
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:Queer_Feminist_Geeks_Gathering", 
+        "Has end time": [
+            "1514394000"
         ]
     }, 
     "Session:DLF# 69f635029bc1ba823cfb6a84bea571a5": {
