@@ -1256,44 +1256,6 @@
             "1514505540"
         ]
     }, 
-    "Session:Talks# 8c3500a10da1a56fe538738ad1c21dde": {
-        "Held in language": [], 
-        "Has start time": [
-            "1514397600"
-        ], 
-        "Has event track": [
-            "Session"
-        ], 
-        "Has website": [], 
-        "Has description": [], 
-        "Has session type": [], 
-        "Has session location": [
-            {
-                "fulltext": "Room:Komona Aquarius", 
-                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Room:Komona_Aquarius", 
-                "namespace": 516, 
-                "exists": true
-            }
-        ], 
-        "Has subtitle": [], 
-        "Is organized by": [], 
-        "Has title": [
-            "Talks"
-        ], 
-        "Has duration": [
-            240
-        ], 
-        "GUID": [
-            "fc985daf-a593-4070-a87e-32b3353cda82"
-        ], 
-        "Has color": [
-            "#0099ab"
-        ], 
-        "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:Talks", 
-        "Has end time": [
-            "1514412000"
-        ]
-    }, 
     "Session:Biomimikry - von komplexen Systemen und Deepfakes# 6052f194c81865d0c9002baa9fc122b0": {
         "Held in language": [], 
         "Has start time": [
@@ -7527,6 +7489,54 @@
         "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:Wie_produziere_ich_mein_eigenes_H%C3%B6rspiel", 
         "Has end time": [
             "1514476800"
+        ]
+    }, 
+    "Session:Talks# c84f521dcbb8d8c752c87ce3567e4f03": {
+        "Held in language": [
+            "de - German"
+        ], 
+        "Has start time": [
+            "1514401200"
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [
+            "http://www.wermke-leinkauf.com/", 
+            "http://www.roccoundseinebrueder.com/", 
+            "https://felixdreesen.de/"
+        ], 
+        "Has description": [
+            "Disobedient Art / Public Space - Kunst, Politik, Intervention\n\nGrenzen\u00fcberschreitende Aktionen an scheinbar unzug\u00e4nglichen Orten,\nmedial inszenierte politische Provokation, interventionistische\nGedenkkultur...\n\nWelche M\u00f6glichkeiten, welche Grenzen hat (politische) Aktionskunst?\nWie nehmen wir uns den \u00f6ffentlichen Raum, umgehen seine Vorschriften und\nReglementierungen?\nWelche kulturellen Praxen halten wir den Spielregeln der freien\nMarktwirtschaft entgegen?\n\nPr\u00e4sentation mit\nWermke/Leinkauf \nRocco und seine Br\u00fcder \nFelix Dreesen und Leonard Rokita"
+        ], 
+        "Has session type": [
+            "Talk"
+        ], 
+        "Has session location": [
+            {
+                "fulltext": "Room:Komona Aquarius", 
+                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Room:Komona_Aquarius", 
+                "namespace": 516, 
+                "exists": true
+            }
+        ], 
+        "Has subtitle": [], 
+        "Is organized by": [], 
+        "Has title": [
+            "Talks"
+        ], 
+        "Has duration": [
+            180
+        ], 
+        "GUID": [
+            "fc985daf-a593-4070-a87e-32b3353cda82"
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:Talks", 
+        "Has end time": [
+            "1514412000"
         ]
     }, 
     "Session:TeaHouse# 3fa552470c953db85366ba85338756db": {
