@@ -492,12 +492,12 @@
                                 "room": "Saal Borg", 
                                 "slug": "34c3-9159-demystifying_network_cards", 
                                 "title": "Demystifying Network Cards", 
-                                "subtitle": "Things you always wanted to know about your NIC", 
+                                "subtitle": "Things you always wanted to know about NIC drivers", 
                                 "track": "Hardware & Making", 
                                 "type": "lecture", 
                                 "language": "en", 
-                                "abstract": "Network cards (NICs) are often seen as black boxes: you put data in a socket on one side and packets come out at the other end - or the other way around.\r\nLet's have a deeper look at how a network card actually works at the lower levels by writing a simple userspace driver from scratch for a 10 Gbit/s NIC.\r\n\r\n\r\nThe first part of the talk looks at the evolution from 10 Mbit/s to 100 Gbit/s networks - both from a hardware perspective and how the software had to change from Linux pre-NAPI all the way to Linux XDP to keep up.\r\nHundreds of thousands of lines of code are involved when handling a packet in a typical operating system.\r\nReading and understanding so much code is quite tedious, so the obvious next question is: How hard can it be to implement a driver for a modern 10 Gbit/s NIC from scratch while ignoring all of the existing software layers?\r\nTurns out that it's not very hard: I've written <a href=\"https://github.com/emmericp/ixy\">ixy</a>, a userspace driver for 10 Gbit/s NICs from the Intel 82599 family (X520, X540, X550) from scratch in just about 1000 lines of C code.\r\nThe second part of the talk focuses on userspace drivers and the Intel 82599 architecture as it is easy to understand, has a great datasheet, and the core functionality is in the driver as opposed to a magic black-box firmware.\r\nYou will not only learn about my driver implementation - the talk also discusses how it relates to similar network frameworks like DPDK or Snabb and seemingly similar frameworks like netmap, XDP, pf_ring, or pfq.\r\n", 
-                                "description": "Packet processing in software is currently undergoing a huge paradigm shift.\r\nConnection speeds of 10 Gbit/s and above created new problems and operating systems couldn't keep keep up.\r\nHence, there has been a rise of frameworks and libraries working around the kernel, sometimes referred to as kernel bypass or zero copy (the latter is a misnomer). Examples are DPDK, Snabb, netmap, XDP, pf_ring, and pfq.\r\nThese new frameworks break with all traditional APIs and present new paradigms.\r\nFor example, they usually provide an application exclusive access to a network interface and exchange raw packets with the app.\r\nThere are no sockets, they don't even offer a protocol stack.\r\nHence, they are mostly used for low-level packet processing apps: routers, (virtual) switches, firewalls, and annoying middleboxes \"optimizing\" your connection.\r\nThese frameworks have already changed how network research is done in academia by shifting the focus from hardware to software.\r\nIt's now feasible to write quick prototypes of packet processing and forwarding apps that were restricted to dedicated hardware in the past, enabling everyone to build and test high-speed networking equipment with a low budget.\r\n\r\nThese concepts are slowly creeping into operating systems: FreeBSD ships with netmap today, XDP is coming to Linux, Open vSwitch can be compiled with a DPDK backend, pfSense is adopting DPDK as well, ...\r\nWe need to look at the architecture of all of these frameworks to better understand what is coming for us.\r\nMost of these frameworks build on the original drivers that have been growing in complexity: a typical driver for a 10 or 40 Gbit/s NIC is in the order of 50,000 lines of code nowadays.\r\nThis is why it's important to have a simple driver like <a href=\"https://github.com/emmericp/ixy\">ixy</a>: for hacking and educational purposes.\r\nCore functionality of the driver, like handling DMA buffers, is never far away when writing an ixy app: you typically only need to look beneath one layer to see the guts of the driver. For example, when you send out a packet you call a transmit function that directly modifies a ring buffer of DMA descriptors.\r\n\r\nixy is a full userspace driver: you get your raw packets delivered directly into your application and the operating system doesn't even know the NIC exists.\r\nUserspace drivers are also very hackable, you get direct access to the full hardware in your application in userspace making it really easy to test out new features, no pesky kernel code needed.\r\n\r\n\r\nCheck out the code of <a href=\"https://github.com/emmericp/ixy\">ixy on GitHub</a>!\r\n\r\n", 
+                                "abstract": "Network cards are often seen as black boxes: you put data in a socket on one side and packets come out at the other end - or the other way around.\r\nLet's have a deeper look at how a network card actually works at the lower levels by writing a simple user space driver from scratch for a 10 Gbit/s NIC.\r\n", 
+                                "description": "Packet processing in software is currently undergoing a huge paradigm shift.\r\nConnection speeds of 10 Gbit/s and beyond created new problems and operating systems couldn't keep keep up.\r\nHence, there has been a rise of frameworks and libraries working around the kernel, sometimes referred to as kernel bypass or zero copy (the latter is a misnomer). Examples are DPDK, Snabb, netmap, XDP, pf_ring, and pfq.\r\nThe first part of the talk looks at the background and performance of the kernel network stack and what changes with these new frameworks.\r\nThey break with all traditional APIs and present new paradigms.\r\nFor example, they usually provide an application exclusive access to a network interface and exchange raw packets with the app.\r\nThere are no sockets, they don't even offer a protocol stack.\r\nHence, they are mostly used for low-level packet processing apps: routers, (virtual) switches, firewalls, and annoying middleboxes \"optimizing\" your connection.\r\n\r\nIt's now feasible to write quick prototypes of packet processing and forwarding apps that were restricted to dedicated hardware in the past, enabling everyone to build and test high-speed networking equipment with a low budget.\r\nThese concepts are slowly creeping into operating systems and software routers/switches: FreeBSD ships with netmap today, XDP is coming to Linux, Open vSwitch can be compiled with a DPDK backend, pfSense is adopting DPDK as well, ...\r\nWe need to look at the architecture of these frameworks to better understand what is coming for us.\r\nMost of these frameworks build on the original drivers that have been growing in complexity: a typical driver for a 10 or 40 Gbit/s NIC is in the order of 50,000 lines of code nowadays.\r\n\r\n\r\nHundreds of thousands of lines of code are involved when handling a packet in a typical operating system, and tens of thousands when using one of these new frameworks.\r\nReading and understanding so much code is quite tedious, so the obvious question is: How hard can it be to implement a driver for a modern 10 Gbit/s NIC from scratch while ignoring all of the existing software layers?\r\nTurns out that it's not very hard: I've written <a href=\"https://github.com/emmericp/ixy\">ixy</a>, a user space driver for 10 Gbit/s NICs from the Intel 82599 family (X520, X540, X550) from scratch in about 1000 lines of C code.\r\nThe second part of the talk focuses on user space drivers and the Intel 82599 architecture as it is easy to understand, has a great datasheet, and the core functionality is in the driver as opposed to a magic black-box firmware.\r\n\r\n<a href=\"https://github.com/emmericp/ixy\">ixy</a> is a full user space driver: you get your raw packets delivered directly into your application and the operating system doesn't even know the NIC exists.\r\nUser space drivers are also very hackable, you get direct access to the full hardware in your application in user space making it really easy to test out new features, no pesky kernel code needed.\r\nThis is why it's important to have a simple driver like <a href=\"https://github.com/emmericp/ixy\">ixy</a>: for hacking and educational purposes.\r\nCore functionality of the driver such as handling DMA buffers is never far away when writing an ixy app: you typically only need to look beneath one layer to see the guts of the driver. For example, when you send out a packet you call a transmit function that directly modifies a ring buffer of DMA descriptors.\r\n\r\n\r\nCheck out the code of <a href=\"https://github.com/emmericp/ixy\">ixy on GitHub</a>!\r\n\r\n", 
                                 "recording_license": "CC BY 4.0", 
                                 "do_not_record": false, 
                                 "persons": [
@@ -512,7 +512,12 @@
                                         "title": "ixy on GitHub"
                                     }
                                 ], 
-                                "attachments": []
+                                "attachments": [
+                                    {
+                                        "url": "/system/event_attachments/attachments/000/003/349/original/slides_v0.1.pdf?1514297793", 
+                                        "title": "Slides"
+                                    }
+                                ]
                             }, 
                             {
                                 "url": "https://fahrplan.events.ccc.de/congress/2017/Fahrplan/events/9233.html", 
@@ -934,39 +939,6 @@
                                     {
                                         "url": "https://riscv.org/", 
                                         "title": "RISC-V"
-                                    }
-                                ], 
-                                "attachments": []
-                            }, 
-                            {
-                                "url": "https://fahrplan.events.ccc.de/congress/2017/Fahrplan/events/9282.html", 
-                                "id": 9282, 
-                                "guid": "d35c155e-7a81-4122-afff-953a545e8699", 
-                                "logo": null, 
-                                "date": "2017-12-27T13:30:00+01:00", 
-                                "start": "13:30", 
-                                "duration": "00:30", 
-                                "room": "Saal Clarke", 
-                                "slug": "34c3-9282-the_enemy", 
-                                "title": "The Enemy", 
-                                "subtitle": "face-to-face with combatants", 
-                                "track": "Art & Culture", 
-                                "type": "lecture", 
-                                "language": "en", 
-                                "abstract": "The Enemy brings you face-to-face with combatants from three conflict zones: with the Maras in Salvador, in the Democratic Republic of the Congo, and in Israel and Palestine. Their testimonies and confessions about their lives, experiences, and perspectives on war will allow you to better understand their motivations\u2026 and their humanity.", 
-                                "description": "The Enemy by Karim Ben Khelifa, a groundbreaking interactive Virtual Reality (VR) exhibition and immersive experience, makes its North American premiere at the MIT Museum. Through 360-degree imaging and recordings, participants will encounter combatants on opposite sides of conflicts in Israel/Palestine, the Congo, and El Salvador. In their own words, each will offer personal perspectives on war, including thoughts on motivations, suffering, freedom, and the future.\r\n\r\nThe exhibition incorporates concepts from artificial intelligence and cognitive science-based interaction models. Conceived by acclaimed photojournalist Karim Ben Khelifa, this ambitious project was further developed during a visiting artist residency at MIT hosted by MIT\u2019s Center for Art, Science & Technology (CAST) and in collaboration with MIT Professor D. Fox Harrell.\r\n", 
-                                "recording_license": "", 
-                                "do_not_record": false, 
-                                "persons": [
-                                    {
-                                        "id": 7970, 
-                                        "public_name": "Karim Ben Khelifa"
-                                    }
-                                ], 
-                                "links": [
-                                    {
-                                        "url": "http://theenemyishere.org/about", 
-                                        "title": "project page"
                                     }
                                 ], 
                                 "attachments": []
@@ -1643,14 +1615,14 @@
                                 "start": "21:15", 
                                 "duration": "00:30", 
                                 "room": "Saal Dijkstra", 
-                                "slug": "34c3-8797-social_cooling", 
-                                "title": "Social Cooling", 
+                                "slug": "34c3-8797-social_cooling_-_big_data_s_unintended_side_effect", 
+                                "title": "Social Cooling - big data\u2019s unintended side effect", 
                                 "subtitle": "How the reputation economy is creating data-driven conformity", 
                                 "track": "Ethics, Society & Politics", 
                                 "type": "lecture", 
                                 "language": "en", 
-                                "abstract": "What does it mean to be free in a world where surveillance is the dominant business model? Behind the scenes databrokers are turning our data into thousands of scores. This digital reputation is increasingly influencing our chances to find a job, a loan or even a date. Researchers are pointing out that, as people become aware of this reputation economy, it is generating a culture where self-censorship and risk aversion are the new normal.\r\n\r\nHow do we deal with these chilling effects? I suggest we take the comparison of oil and data all the way: if oil leads to global warming, then data leads to Social Cooling.", 
-                                "description": "What does it mean to be free in a world where surveillance is the dominant business model? More and more people are discovering that databrokers (a 200 billion dollar industry) are turning our data-trail into thousands of scores. This mostly invisible \u2018digital reputation\u2019 is starting to strongly effect our lives, influencing our chances to get a job, a cheap loan or even a nice date. \r\n\r\nAs awareness spreads people are changing their behavior; studies show a rise in self-censorship and a growing culture of risk-aversion. For example, after the Snowden revelations fewer people visit Wikipedia pages about subjects like terrorism. We see doctors hesitating to operate on patients because a death will lower their score. China is embracing it: in 2020 all Chinese citizens will receive a \u2018social credit score\u2019 that basically reflects how well behaved they are, and that will affect every part of their life.\r\n\r\nThis is the true cost of 'free': machine learning is mapping our weaknesses, and behavioral psychology is amplifying social pressure, creating powerful chilling effects and strong incentives to conform. I believe that as oil lead to Global Warming, data leads to Social Cooling. This comparison is not meant to scare, but to give us hope: our move away from oil offers us a valuable blueprint on how to deal with this issue. In this talk we'll go into the narratives we need. In a data-driven world, a good meme can be the best hack.", 
+                                "abstract": "What does it mean to be free in a world where surveillance is the dominant business model? Behind the scenes databrokers are turning our data into thousands of scores. This digital reputation is increasingly influencing our chances to find a job, a loan or even a date. Researchers are pointing out that, as people become aware of this reputation economy, it is generating a culture where self-censorship and risk aversion are the new normal.", 
+                                "description": "How do we deal with these chilling effects? I suggest we take the comparison of oil and data all the way: If oil leads to global warming, then data leads to Social Cooling.\r\n\r\nSocial Cooling is an accessible narrative about the large scale chilling effects are starting to become visible, and whose effects countries like China are actively embracing. Here in the west studies show a rise in self-censorship and a growing culture of risk-aversion. For example, after the Snowden revelations fewer people visit Wikipedia pages about subjects like terrorism. We see doctors hesitating to operate on patients because a death will lower their score.\r\n\r\nThis comparison is not meant to scare, but to give us hope: our move away from oil offers us a valuable blueprint on how to deal with this issue. In this talk we\u2019ll go into the narratives we need. In a data-driven world, a good story can still be the best hack.", 
                                 "recording_license": "CC BY 4.0", 
                                 "do_not_record": false, 
                                 "persons": [
@@ -1744,7 +1716,7 @@
                                 "room": "Saal Dijkstra", 
                                 "slug": "34c3-8998-the_divine_computer_science_die_gottliche_informatik", 
                                 "title": "The divine Computer Science / Die g\u00f6ttliche Informatik", 
-                                "subtitle": "Computer science nicely solves formally modelled problems \u2013 now it is believed to solve everything else too / Die Informatik l\u00f6st formale (mathematisch modellierbare) Probleme ganz vorz\u00fcglich \u2013 doch nun soll sie alle anderen Probleme auch noch l\u00f6sen", 
+                                "subtitle": "Computer science nicely solves formally modelled problems \u2013 now it is believed to solve everything else too / Die Informatik l\u00f6st formale (mathematisch modellierte) Probleme ganz vorz\u00fcglich \u2013 doch nun soll sie alle anderen Probleme auch noch l\u00f6sen", 
                                 "track": "Ethics, Society & Politics", 
                                 "type": "lecture", 
                                 "language": "en", 
@@ -1847,7 +1819,7 @@
                         ], 
                         "Lecture room 11": [
                             {
-                                "id": 1017, 
+                                "id": 1016, 
                                 "guid": "f5f69c30-2863-4817-a663-b248274c87ac", 
                                 "logo": null, 
                                 "date": "2017-12-27T20:15:00+01:00", 
@@ -2175,7 +2147,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1308, 
+                                "id": 1309, 
                                 "guid": "def1b880-7e56-415c-a57b-73b5acda9b5a", 
                                 "logo": null, 
                                 "date": "2017-12-27T16:00:00+01:00", 
@@ -2551,9 +2523,9 @@
                                 "subtitle": "", 
                                 "track": "self organized sessions", 
                                 "type": "", 
-                                "language": "", 
+                                "language": "de", 
                                 "abstract": "", 
-                                "description": "", 
+                                "description": "Ein Gedankenanstoss zur Frage ob Clubs auch als soziale und kulturelle Bildungsinstitute funktionieren k\u00f6nnten und wie/wer so ausgelegte Clubs gegebenenfalls finanzieren kann.", 
                                 "persons": [], 
                                 "links": [
                                     "https://events.ccc.de/congress/2017/wiki/index.php/Session:Clubkultur,_was_ist_das_eigentlich_und_wer_soll_denn_das_bezahlen%3F"
@@ -3980,6 +3952,34 @@
                             }, 
                             {
                                 "id": 1270, 
+                                "guid": "ef3bcca2-42bc-4bb0-a326-70e277316094", 
+                                "logo": null, 
+                                "date": "2017-12-27T14:30:00+01:00", 
+                                "start": "14:30", 
+                                "duration": "1:00", 
+                                "room": "Assembly:TeaHouse", 
+                                "slug": "", 
+                                "title": "TeaHouse", 
+                                "subtitle": "State of website censorship in France and elsewhere ?", 
+                                "track": "self organized sessions", 
+                                "type": "meeting", 
+                                "language": "en", 
+                                "abstract": "", 
+                                "description": "", 
+                                "persons": [
+                                    {
+                                        "id": 0, 
+                                        "url": "https://events.ccc.de/congress/2017/wiki/index.php/User:Sanpi", 
+                                        "public_name": "Sanpi"
+                                    }
+                                ], 
+                                "links": [
+                                    "https://teahouse.homecomputing.fr/", 
+                                    "https://events.ccc.de/congress/2017/wiki/index.php/Session:TeaHouse"
+                                ]
+                            }, 
+                            {
+                                "id": 1271, 
                                 "guid": "0684a69d-9796-4946-9955-84cfafe8cb64", 
                                 "logo": null, 
                                 "date": "2017-12-27T16:00:00+01:00", 
@@ -4008,62 +4008,6 @@
                             }, 
                             {
                                 "id": 1271, 
-                                "guid": "ef3bcca2-42bc-4bb0-a326-70e277316094", 
-                                "logo": null, 
-                                "date": "2017-12-27T14:30:00+01:00", 
-                                "start": "14:30", 
-                                "duration": "1:00", 
-                                "room": "Assembly:TeaHouse", 
-                                "slug": "", 
-                                "title": "TeaHouse", 
-                                "subtitle": "State of website censorship in France and elsewhere ?", 
-                                "track": "self organized sessions", 
-                                "type": "meeting", 
-                                "language": "en", 
-                                "abstract": "", 
-                                "description": "", 
-                                "persons": [
-                                    {
-                                        "id": 0, 
-                                        "url": "https://events.ccc.de/congress/2017/wiki/index.php/User:Sanpi", 
-                                        "public_name": "Sanpi"
-                                    }
-                                ], 
-                                "links": [
-                                    "https://teahouse.homecomputing.fr/", 
-                                    "https://events.ccc.de/congress/2017/wiki/index.php/Session:TeaHouse"
-                                ]
-                            }, 
-                            {
-                                "id": 1270, 
-                                "guid": "0684a69d-9796-4946-9955-84cfafe8cb64", 
-                                "logo": null, 
-                                "date": "2017-12-27T19:00:00+01:00", 
-                                "start": "19:00", 
-                                "duration": "1:30", 
-                                "room": "Assembly:TeaHouse", 
-                                "slug": "", 
-                                "title": "TeaHouse", 
-                                "subtitle": "Dr. Peng saves the world", 
-                                "track": "self organized sessions", 
-                                "type": "meeting", 
-                                "language": "en", 
-                                "abstract": "", 
-                                "description": "", 
-                                "persons": [
-                                    {
-                                        "id": 0, 
-                                        "url": "https://events.ccc.de/congress/2017/wiki/index.php/User:Sanpi", 
-                                        "public_name": "Sanpi"
-                                    }
-                                ], 
-                                "links": [
-                                    "https://teahouse.homecomputing.fr/", 
-                                    "https://events.ccc.de/congress/2017/wiki/index.php/Session:TeaHouse"
-                                ]
-                            }, 
-                            {
-                                "id": 1270, 
                                 "guid": "0684a69d-9796-4946-9955-84cfafe8cb64", 
                                 "logo": null, 
                                 "date": "2017-12-27T17:00:00+01:00", 
@@ -4073,6 +4017,34 @@
                                 "slug": "", 
                                 "title": "TeaHouse", 
                                 "subtitle": "HACKING ANXIETY!!1!11", 
+                                "track": "self organized sessions", 
+                                "type": "meeting", 
+                                "language": "en", 
+                                "abstract": "", 
+                                "description": "", 
+                                "persons": [
+                                    {
+                                        "id": 0, 
+                                        "url": "https://events.ccc.de/congress/2017/wiki/index.php/User:Sanpi", 
+                                        "public_name": "Sanpi"
+                                    }
+                                ], 
+                                "links": [
+                                    "https://teahouse.homecomputing.fr/", 
+                                    "https://events.ccc.de/congress/2017/wiki/index.php/Session:TeaHouse"
+                                ]
+                            }, 
+                            {
+                                "id": 1271, 
+                                "guid": "0684a69d-9796-4946-9955-84cfafe8cb64", 
+                                "logo": null, 
+                                "date": "2017-12-27T19:00:00+01:00", 
+                                "start": "19:00", 
+                                "duration": "1:30", 
+                                "room": "Assembly:TeaHouse", 
+                                "slug": "", 
+                                "title": "TeaHouse", 
+                                "subtitle": "Dr. Peng saves the world", 
                                 "track": "self organized sessions", 
                                 "type": "meeting", 
                                 "language": "en", 
@@ -5881,7 +5853,7 @@
                         ], 
                         "Lecture room 11": [
                             {
-                                "id": 1014, 
+                                "id": 1017, 
                                 "guid": "2b6595ff-c32b-44aa-9bda-e411e5911162", 
                                 "logo": null, 
                                 "date": "2017-12-28T20:15:00+01:00", 
@@ -5991,7 +5963,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1283, 
+                                "id": 1282, 
                                 "guid": "9b5087f5-f903-5324-9672-50105ed38e1b", 
                                 "logo": null, 
                                 "date": "2017-12-28T17:00:00+01:00", 
@@ -6151,13 +6123,13 @@
                                 "id": 1148, 
                                 "guid": "11832e8c-2e41-4c8d-8ed8-a908d5638480", 
                                 "logo": null, 
-                                "date": "2017-12-29T02:00:00+01:00", 
-                                "start": "02:00", 
+                                "date": "2017-12-29T00:00:00+01:00", 
+                                "start": "00:00", 
                                 "duration": "2:00", 
                                 "room": "Chaos West Stage", 
                                 "slug": "", 
                                 "title": "Klangteppich", 
-                                "subtitle": "bam DJ set", 
+                                "subtitle": "DJ PorCus DJ set", 
                                 "track": "self organized sessions", 
                                 "type": "other", 
                                 "language": "de", 
@@ -6178,13 +6150,13 @@
                                 "id": 1148, 
                                 "guid": "11832e8c-2e41-4c8d-8ed8-a908d5638480", 
                                 "logo": null, 
-                                "date": "2017-12-29T00:00:00+01:00", 
-                                "start": "00:00", 
+                                "date": "2017-12-29T02:00:00+01:00", 
+                                "start": "02:00", 
                                 "duration": "2:00", 
                                 "room": "Chaos West Stage", 
                                 "slug": "", 
                                 "title": "Klangteppich", 
-                                "subtitle": "DJ PorCus DJ set", 
+                                "subtitle": "bam DJ set", 
                                 "track": "self organized sessions", 
                                 "type": "other", 
                                 "language": "de", 
@@ -8358,16 +8330,16 @@
                                 ]
                             }, 
                             {
-                                "id": 1265, 
-                                "guid": "68c26941-115f-4ada-8ed5-d0e4217680cf", 
+                                "id": 1269, 
+                                "guid": "fa3d8ee5-d1ff-4b29-a763-a49f7b882ceb", 
                                 "logo": null, 
-                                "date": "2017-12-28T19:00:00+01:00", 
-                                "start": "19:00", 
+                                "date": "2017-12-28T17:30:00+01:00", 
+                                "start": "17:30", 
                                 "duration": "1:00", 
                                 "room": "Assembly:TeaHouse", 
                                 "slug": "", 
                                 "title": "TeaHouse", 
-                                "subtitle": "Stories from the Frontlines", 
+                                "subtitle": "Draw me crypto", 
                                 "track": "self organized sessions", 
                                 "type": "meeting", 
                                 "language": "en", 
@@ -8386,16 +8358,16 @@
                                 ]
                             }, 
                             {
-                                "id": 1269, 
-                                "guid": "fa3d8ee5-d1ff-4b29-a763-a49f7b882ceb", 
+                                "id": 1265, 
+                                "guid": "68c26941-115f-4ada-8ed5-d0e4217680cf", 
                                 "logo": null, 
-                                "date": "2017-12-28T17:30:00+01:00", 
-                                "start": "17:30", 
+                                "date": "2017-12-28T19:00:00+01:00", 
+                                "start": "19:00", 
                                 "duration": "1:00", 
                                 "room": "Assembly:TeaHouse", 
                                 "slug": "", 
                                 "title": "TeaHouse", 
-                                "subtitle": "Draw me crypto", 
+                                "subtitle": "Stories from the Frontlines", 
                                 "track": "self organized sessions", 
                                 "type": "meeting", 
                                 "language": "en", 
@@ -10351,7 +10323,7 @@
                         ], 
                         "Lecture room 11": [
                             {
-                                "id": 1014, 
+                                "id": 1017, 
                                 "guid": "2b6595ff-c32b-44aa-9bda-e411e5911162", 
                                 "logo": null, 
                                 "date": "2017-12-29T20:15:00+01:00", 
@@ -13670,7 +13642,7 @@
                                 "persons": [
                                     {
                                         "id": 7775, 
-                                        "public_name": "nezza"
+                                        "public_name": "Thomas Roth"
                                     }
                                 ], 
                                 "links": [], 
@@ -13761,7 +13733,7 @@
                         "Chaos West Stage": [], 
                         "Lecture room 12": [
                             {
-                                "id": 1309, 
+                                "id": 1308, 
                                 "guid": "dd59f0b8-212d-4978-8476-fffb4455bb25", 
                                 "logo": null, 
                                 "date": "2017-12-30T14:30:00+01:00", 

@@ -448,39 +448,37 @@ Im CADUS-Makerspace in Berlin wird an diversen Lösungen bereits gebastelt. Der 
         <room>Saal Borg</room>
         <slug>34c3-9159-demystifying_network_cards</slug>
         <title>Demystifying Network Cards</title>
-        <subtitle>Things you always wanted to know about your NIC</subtitle>
+        <subtitle>Things you always wanted to know about NIC drivers</subtitle>
         <track>Hardware &amp; Making</track>
         <type>lecture</type>
         <language>en</language>
-        <abstract>Network cards (NICs) are often seen as black boxes: you put data in a socket on one side and packets come out at the other end - or the other way around.&#13;
-Let's have a deeper look at how a network card actually works at the lower levels by writing a simple userspace driver from scratch for a 10 Gbit/s NIC.&#13;
-&#13;
-&#13;
-The first part of the talk looks at the evolution from 10 Mbit/s to 100 Gbit/s networks - both from a hardware perspective and how the software had to change from Linux pre-NAPI all the way to Linux XDP to keep up.&#13;
-Hundreds of thousands of lines of code are involved when handling a packet in a typical operating system.&#13;
-Reading and understanding so much code is quite tedious, so the obvious next question is: How hard can it be to implement a driver for a modern 10 Gbit/s NIC from scratch while ignoring all of the existing software layers?&#13;
-Turns out that it's not very hard: I've written &lt;a href="https://github.com/emmericp/ixy"&gt;ixy&lt;/a&gt;, a userspace driver for 10 Gbit/s NICs from the Intel 82599 family (X520, X540, X550) from scratch in just about 1000 lines of C code.&#13;
-The second part of the talk focuses on userspace drivers and the Intel 82599 architecture as it is easy to understand, has a great datasheet, and the core functionality is in the driver as opposed to a magic black-box firmware.&#13;
-You will not only learn about my driver implementation - the talk also discusses how it relates to similar network frameworks like DPDK or Snabb and seemingly similar frameworks like netmap, XDP, pf_ring, or pfq.&#13;
+        <abstract>Network cards are often seen as black boxes: you put data in a socket on one side and packets come out at the other end - or the other way around.&#13;
+Let's have a deeper look at how a network card actually works at the lower levels by writing a simple user space driver from scratch for a 10 Gbit/s NIC.&#13;
 </abstract>
         <description>Packet processing in software is currently undergoing a huge paradigm shift.&#13;
-Connection speeds of 10 Gbit/s and above created new problems and operating systems couldn't keep keep up.&#13;
+Connection speeds of 10 Gbit/s and beyond created new problems and operating systems couldn't keep keep up.&#13;
 Hence, there has been a rise of frameworks and libraries working around the kernel, sometimes referred to as kernel bypass or zero copy (the latter is a misnomer). Examples are DPDK, Snabb, netmap, XDP, pf_ring, and pfq.&#13;
-These new frameworks break with all traditional APIs and present new paradigms.&#13;
+The first part of the talk looks at the background and performance of the kernel network stack and what changes with these new frameworks.&#13;
+They break with all traditional APIs and present new paradigms.&#13;
 For example, they usually provide an application exclusive access to a network interface and exchange raw packets with the app.&#13;
 There are no sockets, they don't even offer a protocol stack.&#13;
 Hence, they are mostly used for low-level packet processing apps: routers, (virtual) switches, firewalls, and annoying middleboxes "optimizing" your connection.&#13;
-These frameworks have already changed how network research is done in academia by shifting the focus from hardware to software.&#13;
+&#13;
 It's now feasible to write quick prototypes of packet processing and forwarding apps that were restricted to dedicated hardware in the past, enabling everyone to build and test high-speed networking equipment with a low budget.&#13;
-&#13;
-These concepts are slowly creeping into operating systems: FreeBSD ships with netmap today, XDP is coming to Linux, Open vSwitch can be compiled with a DPDK backend, pfSense is adopting DPDK as well, ...&#13;
-We need to look at the architecture of all of these frameworks to better understand what is coming for us.&#13;
+These concepts are slowly creeping into operating systems and software routers/switches: FreeBSD ships with netmap today, XDP is coming to Linux, Open vSwitch can be compiled with a DPDK backend, pfSense is adopting DPDK as well, ...&#13;
+We need to look at the architecture of these frameworks to better understand what is coming for us.&#13;
 Most of these frameworks build on the original drivers that have been growing in complexity: a typical driver for a 10 or 40 Gbit/s NIC is in the order of 50,000 lines of code nowadays.&#13;
-This is why it's important to have a simple driver like &lt;a href="https://github.com/emmericp/ixy"&gt;ixy&lt;/a&gt;: for hacking and educational purposes.&#13;
-Core functionality of the driver, like handling DMA buffers, is never far away when writing an ixy app: you typically only need to look beneath one layer to see the guts of the driver. For example, when you send out a packet you call a transmit function that directly modifies a ring buffer of DMA descriptors.&#13;
 &#13;
-ixy is a full userspace driver: you get your raw packets delivered directly into your application and the operating system doesn't even know the NIC exists.&#13;
-Userspace drivers are also very hackable, you get direct access to the full hardware in your application in userspace making it really easy to test out new features, no pesky kernel code needed.&#13;
+&#13;
+Hundreds of thousands of lines of code are involved when handling a packet in a typical operating system, and tens of thousands when using one of these new frameworks.&#13;
+Reading and understanding so much code is quite tedious, so the obvious question is: How hard can it be to implement a driver for a modern 10 Gbit/s NIC from scratch while ignoring all of the existing software layers?&#13;
+Turns out that it's not very hard: I've written &lt;a href="https://github.com/emmericp/ixy"&gt;ixy&lt;/a&gt;, a user space driver for 10 Gbit/s NICs from the Intel 82599 family (X520, X540, X550) from scratch in about 1000 lines of C code.&#13;
+The second part of the talk focuses on user space drivers and the Intel 82599 architecture as it is easy to understand, has a great datasheet, and the core functionality is in the driver as opposed to a magic black-box firmware.&#13;
+&#13;
+&lt;a href="https://github.com/emmericp/ixy"&gt;ixy&lt;/a&gt; is a full user space driver: you get your raw packets delivered directly into your application and the operating system doesn't even know the NIC exists.&#13;
+User space drivers are also very hackable, you get direct access to the full hardware in your application in user space making it really easy to test out new features, no pesky kernel code needed.&#13;
+This is why it's important to have a simple driver like &lt;a href="https://github.com/emmericp/ixy"&gt;ixy&lt;/a&gt;: for hacking and educational purposes.&#13;
+Core functionality of the driver such as handling DMA buffers is never far away when writing an ixy app: you typically only need to look beneath one layer to see the guts of the driver. For example, when you send out a packet you call a transmit function that directly modifies a ring buffer of DMA descriptors.&#13;
 &#13;
 &#13;
 Check out the code of &lt;a href="https://github.com/emmericp/ixy"&gt;ixy on GitHub&lt;/a&gt;!&#13;
@@ -496,7 +494,9 @@ Check out the code of &lt;a href="https://github.com/emmericp/ixy"&gt;ixy on Git
         <links>
           <link href="https://github.com/emmericp/ixy">ixy on GitHub</link>
         </links>
-        <attachments/>
+        <attachments>
+          <attachment href="/system/event_attachments/attachments/000/003/349/original/slides_v0.1.pdf?1514297793">Slides</attachment>
+        </attachments>
       </event>
       <event href="https://fahrplan.events.ccc.de/congress/2017/Fahrplan/events/9233.html" id="9233" guid="544e7736-6b59-4c05-87a7-c013ef993688">
         <logo/>
@@ -874,35 +874,6 @@ Most of the proofs performed by riscv-formal are bounded proofs, i.e. it is only
         <links>
           <link href="https://github.com/cliffordwolf/riscv-formal">riscv-formal</link>
           <link href="https://riscv.org/">RISC-V</link>
-        </links>
-        <attachments/>
-      </event>
-      <event href="https://fahrplan.events.ccc.de/congress/2017/Fahrplan/events/9282.html" id="9282" guid="d35c155e-7a81-4122-afff-953a545e8699">
-        <logo/>
-        <date>2017-12-27T13:30:00+01:00</date>
-        <start>13:30</start>
-        <duration>00:30</duration>
-        <room>Saal Clarke</room>
-        <slug>34c3-9282-the_enemy</slug>
-        <title>The Enemy</title>
-        <subtitle>face-to-face with combatants</subtitle>
-        <track>Art &amp; Culture</track>
-        <type>lecture</type>
-        <language>en</language>
-        <abstract>The Enemy brings you face-to-face with combatants from three conflict zones: with the Maras in Salvador, in the Democratic Republic of the Congo, and in Israel and Palestine. Their testimonies and confessions about their lives, experiences, and perspectives on war will allow you to better understand their motivations… and their humanity.</abstract>
-        <description>The Enemy by Karim Ben Khelifa, a groundbreaking interactive Virtual Reality (VR) exhibition and immersive experience, makes its North American premiere at the MIT Museum. Through 360-degree imaging and recordings, participants will encounter combatants on opposite sides of conflicts in Israel/Palestine, the Congo, and El Salvador. In their own words, each will offer personal perspectives on war, including thoughts on motivations, suffering, freedom, and the future.&#13;
-&#13;
-The exhibition incorporates concepts from artificial intelligence and cognitive science-based interaction models. Conceived by acclaimed photojournalist Karim Ben Khelifa, this ambitious project was further developed during a visiting artist residency at MIT hosted by MIT’s Center for Art, Science &amp; Technology (CAST) and in collaboration with MIT Professor D. Fox Harrell.&#13;
-</description>
-        <recording>
-          <license/>
-          <optout>false</optout>
-        </recording>
-        <persons>
-          <person id="7970">Karim Ben Khelifa</person>
-        </persons>
-        <links>
-          <link href="http://theenemyishere.org/about">project page</link>
         </links>
         <attachments/>
       </event>
@@ -1557,20 +1528,18 @@ In a more recent series of works !Mediengruppe Bitnik use the hacked online dati
         <start>21:15</start>
         <duration>00:30</duration>
         <room>Saal Dijkstra</room>
-        <slug>34c3-8797-social_cooling</slug>
-        <title>Social Cooling</title>
+        <slug>34c3-8797-social_cooling_-_big_data_s_unintended_side_effect</slug>
+        <title>Social Cooling - big data’s unintended side effect</title>
         <subtitle>How the reputation economy is creating data-driven conformity</subtitle>
         <track>Ethics, Society &amp; Politics</track>
         <type>lecture</type>
         <language>en</language>
-        <abstract>What does it mean to be free in a world where surveillance is the dominant business model? Behind the scenes databrokers are turning our data into thousands of scores. This digital reputation is increasingly influencing our chances to find a job, a loan or even a date. Researchers are pointing out that, as people become aware of this reputation economy, it is generating a culture where self-censorship and risk aversion are the new normal.&#13;
+        <abstract>What does it mean to be free in a world where surveillance is the dominant business model? Behind the scenes databrokers are turning our data into thousands of scores. This digital reputation is increasingly influencing our chances to find a job, a loan or even a date. Researchers are pointing out that, as people become aware of this reputation economy, it is generating a culture where self-censorship and risk aversion are the new normal.</abstract>
+        <description>How do we deal with these chilling effects? I suggest we take the comparison of oil and data all the way: If oil leads to global warming, then data leads to Social Cooling.&#13;
 &#13;
-How do we deal with these chilling effects? I suggest we take the comparison of oil and data all the way: if oil leads to global warming, then data leads to Social Cooling.</abstract>
-        <description>What does it mean to be free in a world where surveillance is the dominant business model? More and more people are discovering that databrokers (a 200 billion dollar industry) are turning our data-trail into thousands of scores. This mostly invisible ‘digital reputation’ is starting to strongly effect our lives, influencing our chances to get a job, a cheap loan or even a nice date. &#13;
+Social Cooling is an accessible narrative about the large scale chilling effects are starting to become visible, and whose effects countries like China are actively embracing. Here in the west studies show a rise in self-censorship and a growing culture of risk-aversion. For example, after the Snowden revelations fewer people visit Wikipedia pages about subjects like terrorism. We see doctors hesitating to operate on patients because a death will lower their score.&#13;
 &#13;
-As awareness spreads people are changing their behavior; studies show a rise in self-censorship and a growing culture of risk-aversion. For example, after the Snowden revelations fewer people visit Wikipedia pages about subjects like terrorism. We see doctors hesitating to operate on patients because a death will lower their score. China is embracing it: in 2020 all Chinese citizens will receive a ‘social credit score’ that basically reflects how well behaved they are, and that will affect every part of their life.&#13;
-&#13;
-This is the true cost of 'free': machine learning is mapping our weaknesses, and behavioral psychology is amplifying social pressure, creating powerful chilling effects and strong incentives to conform. I believe that as oil lead to Global Warming, data leads to Social Cooling. This comparison is not meant to scare, but to give us hope: our move away from oil offers us a valuable blueprint on how to deal with this issue. In this talk we'll go into the narratives we need. In a data-driven world, a good meme can be the best hack.</description>
+This comparison is not meant to scare, but to give us hope: our move away from oil offers us a valuable blueprint on how to deal with this issue. In this talk we’ll go into the narratives we need. In a data-driven world, a good story can still be the best hack.</description>
         <recording>
           <license>CC BY 4.0</license>
           <optout>false</optout>
@@ -1656,7 +1625,7 @@ I will explain BGP, the protocol that knits the internet together, also covering
         <room>Saal Dijkstra</room>
         <slug>34c3-8998-the_divine_computer_science_die_gottliche_informatik</slug>
         <title>The divine Computer Science / Die göttliche Informatik</title>
-        <subtitle>Computer science nicely solves formally modelled problems – now it is believed to solve everything else too / Die Informatik löst formale (mathematisch modellierbare) Probleme ganz vorzüglich – doch nun soll sie alle anderen Probleme auch noch lösen</subtitle>
+        <subtitle>Computer science nicely solves formally modelled problems – now it is believed to solve everything else too / Die Informatik löst formale (mathematisch modellierte) Probleme ganz vorzüglich – doch nun soll sie alle anderen Probleme auch noch lösen</subtitle>
         <track>Ethics, Society &amp; Politics</track>
         <type>lecture</type>
         <language>en</language>
@@ -1759,7 +1728,7 @@ It takes about 30 minutes to copy a fullsize adult leg. We will have two hours s
       </event>
     </room>
     <room name="Lecture room 11">
-      <event id="1017" guid="f5f69c30-2863-4817-a663-b248274c87ac">
+      <event id="1016" guid="f5f69c30-2863-4817-a663-b248274c87ac">
         <logo/>
         <date>2017-12-27T20:15:00+01:00</date>
         <start>20:15</start>
@@ -2023,7 +1992,7 @@ Let's scale up distributed systems while maintaining metadata protection and pri
           <link>https://events.ccc.de/congress/2017/wiki/index.php/Session:Lehrerstammtisch</link>
         </links>
       </event>
-      <event id="1308" guid="def1b880-7e56-415c-a57b-73b5acda9b5a">
+      <event id="1309" guid="def1b880-7e56-415c-a57b-73b5acda9b5a">
         <logo/>
         <date>2017-12-27T16:00:00+01:00</date>
         <start>16:00</start>
@@ -2366,9 +2335,9 @@ the example of Thunderbird.</description>
         <subtitle/>
         <track>self organized sessions</track>
         <type/>
-        <language/>
+        <language>de</language>
         <abstract/>
-        <description/>
+        <description>Ein Gedankenanstoss zur Frage ob Clubs auch als soziale und kulturelle Bildungsinstitute funktionieren könnten und wie/wer so ausgelegte Clubs gegebenenfalls finanzieren kann.</description>
         <persons/>
         <links>
           <link>https://events.ccc.de/congress/2017/wiki/index.php/Session:Clubkultur,_was_ist_das_eigentlich_und_wer_soll_denn_das_bezahlen%3F</link>
@@ -3583,29 +3552,7 @@ welche sticker denn? (fast) alle! -- künstlerisch, kritisch, politisch, whateve
           <link>https://events.ccc.de/congress/2017/wiki/index.php/Session:TeaHouse</link>
         </links>
       </event>
-      <event id="1270" guid="0684a69d-9796-4946-9955-84cfafe8cb64">
-        <logo/>
-        <date>2017-12-27T16:00:00+01:00</date>
-        <start>16:00</start>
-        <duration>0:45</duration>
-        <room>Assembly:TeaHouse</room>
-        <slug/>
-        <title>TeaHouse</title>
-        <subtitle>Hackerfleet Operating System</subtitle>
-        <track>self organized sessions</track>
-        <type>meeting</type>
-        <language>en</language>
-        <abstract/>
-        <description/>
-        <persons>
-          <person id="0" href="https://events.ccc.de/congress/2017/wiki/index.php/User:Sanpi">Sanpi</person>
-        </persons>
-        <links>
-          <link>https://teahouse.homecomputing.fr/</link>
-          <link>https://events.ccc.de/congress/2017/wiki/index.php/Session:TeaHouse</link>
-        </links>
-      </event>
-      <event id="1271" guid="ef3bcca2-42bc-4bb0-a326-70e277316094">
+      <event id="1270" guid="ef3bcca2-42bc-4bb0-a326-70e277316094">
         <logo/>
         <date>2017-12-27T14:30:00+01:00</date>
         <start>14:30</start>
@@ -3627,15 +3574,15 @@ welche sticker denn? (fast) alle! -- künstlerisch, kritisch, politisch, whateve
           <link>https://events.ccc.de/congress/2017/wiki/index.php/Session:TeaHouse</link>
         </links>
       </event>
-      <event id="1270" guid="0684a69d-9796-4946-9955-84cfafe8cb64">
+      <event id="1271" guid="0684a69d-9796-4946-9955-84cfafe8cb64">
         <logo/>
-        <date>2017-12-27T19:00:00+01:00</date>
-        <start>19:00</start>
-        <duration>1:30</duration>
+        <date>2017-12-27T16:00:00+01:00</date>
+        <start>16:00</start>
+        <duration>0:45</duration>
         <room>Assembly:TeaHouse</room>
         <slug/>
         <title>TeaHouse</title>
-        <subtitle>Dr. Peng saves the world</subtitle>
+        <subtitle>Hackerfleet Operating System</subtitle>
         <track>self organized sessions</track>
         <type>meeting</type>
         <language>en</language>
@@ -3649,7 +3596,7 @@ welche sticker denn? (fast) alle! -- künstlerisch, kritisch, politisch, whateve
           <link>https://events.ccc.de/congress/2017/wiki/index.php/Session:TeaHouse</link>
         </links>
       </event>
-      <event id="1270" guid="0684a69d-9796-4946-9955-84cfafe8cb64">
+      <event id="1271" guid="0684a69d-9796-4946-9955-84cfafe8cb64">
         <logo/>
         <date>2017-12-27T17:00:00+01:00</date>
         <start>17:00</start>
@@ -3658,6 +3605,28 @@ welche sticker denn? (fast) alle! -- künstlerisch, kritisch, politisch, whateve
         <slug/>
         <title>TeaHouse</title>
         <subtitle>HACKING ANXIETY!!1!11</subtitle>
+        <track>self organized sessions</track>
+        <type>meeting</type>
+        <language>en</language>
+        <abstract/>
+        <description/>
+        <persons>
+          <person id="0" href="https://events.ccc.de/congress/2017/wiki/index.php/User:Sanpi">Sanpi</person>
+        </persons>
+        <links>
+          <link>https://teahouse.homecomputing.fr/</link>
+          <link>https://events.ccc.de/congress/2017/wiki/index.php/Session:TeaHouse</link>
+        </links>
+      </event>
+      <event id="1271" guid="0684a69d-9796-4946-9955-84cfafe8cb64">
+        <logo/>
+        <date>2017-12-27T19:00:00+01:00</date>
+        <start>19:00</start>
+        <duration>1:30</duration>
+        <room>Assembly:TeaHouse</room>
+        <slug/>
+        <title>TeaHouse</title>
+        <subtitle>Dr. Peng saves the world</subtitle>
         <track>self organized sessions</track>
         <type>meeting</type>
         <language>en</language>
@@ -5426,7 +5395,7 @@ Contact best via twitter @ENDSTATIONSUEDX</description>
       </event>
     </room>
     <room name="Lecture room 11">
-      <event id="1014" guid="2b6595ff-c32b-44aa-9bda-e411e5911162">
+      <event id="1017" guid="2b6595ff-c32b-44aa-9bda-e411e5911162">
         <logo/>
         <date>2017-12-28T20:15:00+01:00</date>
         <start>20:15</start>
@@ -5514,7 +5483,7 @@ In diesem talk möchte ich grob skizzieren, wie das System funktioniert und wie 
           <link>https://events.ccc.de/congress/2017/wiki/index.php/Session:KinkyGeeks_Bondage_Workshop</link>
         </links>
       </event>
-      <event id="1283" guid="9b5087f5-f903-5324-9672-50105ed38e1b">
+      <event id="1282" guid="9b5087f5-f903-5324-9672-50105ed38e1b">
         <logo/>
         <date>2017-12-28T17:00:00+01:00</date>
         <start>17:00</start>
@@ -5645,13 +5614,13 @@ In diesem talk möchte ich grob skizzieren, wie das System funktioniert und wie 
       </event>
       <event id="1148" guid="11832e8c-2e41-4c8d-8ed8-a908d5638480">
         <logo/>
-        <date>2017-12-29T02:00:00+01:00</date>
-        <start>02:00</start>
+        <date>2017-12-29T00:00:00+01:00</date>
+        <start>00:00</start>
         <duration>2:00</duration>
         <room>Chaos West Stage</room>
         <slug/>
         <title>Klangteppich</title>
-        <subtitle>bam DJ set</subtitle>
+        <subtitle>DJ PorCus DJ set</subtitle>
         <track>self organized sessions</track>
         <type>other</type>
         <language>de</language>
@@ -5666,13 +5635,13 @@ In diesem talk möchte ich grob skizzieren, wie das System funktioniert und wie 
       </event>
       <event id="1148" guid="11832e8c-2e41-4c8d-8ed8-a908d5638480">
         <logo/>
-        <date>2017-12-29T00:00:00+01:00</date>
-        <start>00:00</start>
+        <date>2017-12-29T02:00:00+01:00</date>
+        <start>02:00</start>
         <duration>2:00</duration>
         <room>Chaos West Stage</room>
         <slug/>
         <title>Klangteppich</title>
-        <subtitle>DJ PorCus DJ set</subtitle>
+        <subtitle>bam DJ set</subtitle>
         <track>self organized sessions</track>
         <type>other</type>
         <language>de</language>
@@ -7544,15 +7513,15 @@ Bring your own ideas and make sure to add them to https://hackmd.io/CYMwRgjApgxg
           <link>https://events.ccc.de/congress/2017/wiki/index.php/Session:Mate_Making_%26_Drinking</link>
         </links>
       </event>
-      <event id="1265" guid="68c26941-115f-4ada-8ed5-d0e4217680cf">
+      <event id="1269" guid="fa3d8ee5-d1ff-4b29-a763-a49f7b882ceb">
         <logo/>
-        <date>2017-12-28T19:00:00+01:00</date>
-        <start>19:00</start>
+        <date>2017-12-28T17:30:00+01:00</date>
+        <start>17:30</start>
         <duration>1:00</duration>
         <room>Assembly:TeaHouse</room>
         <slug/>
         <title>TeaHouse</title>
-        <subtitle>Stories from the Frontlines</subtitle>
+        <subtitle>Draw me crypto</subtitle>
         <track>self organized sessions</track>
         <type>meeting</type>
         <language>en</language>
@@ -7566,15 +7535,15 @@ Bring your own ideas and make sure to add them to https://hackmd.io/CYMwRgjApgxg
           <link>https://events.ccc.de/congress/2017/wiki/index.php/Session:TeaHouse</link>
         </links>
       </event>
-      <event id="1269" guid="fa3d8ee5-d1ff-4b29-a763-a49f7b882ceb">
+      <event id="1265" guid="68c26941-115f-4ada-8ed5-d0e4217680cf">
         <logo/>
-        <date>2017-12-28T17:30:00+01:00</date>
-        <start>17:30</start>
+        <date>2017-12-28T19:00:00+01:00</date>
+        <start>19:00</start>
         <duration>1:00</duration>
         <room>Assembly:TeaHouse</room>
         <slug/>
         <title>TeaHouse</title>
-        <subtitle>Draw me crypto</subtitle>
+        <subtitle>Stories from the Frontlines</subtitle>
         <track>self organized sessions</track>
         <type>meeting</type>
         <language>en</language>
@@ -9355,7 +9324,7 @@ Es geht darum ein verständliches Bild zu zeichnen von dem, was in Hamburg währ
       </event>
     </room>
     <room name="Lecture room 11">
-      <event id="1014" guid="2b6595ff-c32b-44aa-9bda-e411e5911162">
+      <event id="1017" guid="2b6595ff-c32b-44aa-9bda-e411e5911162">
         <logo/>
         <date>2017-12-29T20:15:00+01:00</date>
         <start>20:15</start>
@@ -12273,7 +12242,7 @@ The talk will consist of a theoretical part, an introduction on how to reverse-e
           <optout>false</optout>
         </recording>
         <persons>
-          <person id="7775">nezza</person>
+          <person id="7775">Thomas Roth</person>
         </persons>
         <links/>
         <attachments/>
@@ -12351,7 +12320,7 @@ Learn the legal frame of self defence in Germany/Switzerland, the communication 
     <room name="Hive Stage"/>
     <room name="Chaos West Stage"/>
     <room name="Lecture room 12">
-      <event id="1309" guid="dd59f0b8-212d-4978-8476-fffb4455bb25">
+      <event id="1308" guid="dd59f0b8-212d-4978-8476-fffb4455bb25">
         <logo/>
         <date>2017-12-30T14:30:00+01:00</date>
         <start>14:30</start>
