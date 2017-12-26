@@ -904,54 +904,6 @@
             "1514464200"
         ]
     }, 
-    "Session:WireGuard# 3e5d9e7779afadc3191f1ee50b060f63": {
-        "Held in language": [
-            "en - English"
-        ], 
-        "Has start time": [
-            "1514555100"
-        ], 
-        "Has event track": [
-            "Session"
-        ], 
-        "Has website": [
-            "https://www.wireguard.com/"
-        ], 
-        "Has description": [
-            "WireGuard is a next generation secure network tunnel, which uses state of the art cryptography. This workshop will discuss what WireGuard is, the cryptography behind it, some interesting kernel engineering tricks it uses, and how you too can use it. There will be copious quantities of free stickers. The session will be fairly open and free form. The creator of WireGuard will have an endless quantity of material of his own to present, but more generally, we'll open it up to whatever people want to discuss and collaborate on. If you're interested in kernel programming, networking, cryptography, or security, this is a key workshop to attend."
-        ], 
-        "Has session type": [
-            "Workshop"
-        ], 
-        "Has session location": [
-            {
-                "fulltext": "Room:Hive Stage", 
-                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Room:Hive_Stage", 
-                "namespace": 516, 
-                "exists": true
-            }
-        ], 
-        "Has subtitle": [
-            "In-depth"
-        ], 
-        "Is organized by": [], 
-        "Has title": [
-            "WireGuard"
-        ], 
-        "Has duration": [
-            150
-        ], 
-        "GUID": [
-            "053ee696-3bcc-4c33-92f2-330bb687f008"
-        ], 
-        "Has color": [
-            "#0099ab"
-        ], 
-        "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:WireGuard", 
-        "Has end time": [
-            "1514564100"
-        ]
-    }, 
     "Session:Regiotreffen# 689049d789d056736542aa8640868d4c": {
         "Held in language": [
             "de - German"
@@ -2698,59 +2650,6 @@
             "1514480400"
         ]
     }, 
-    "Session:Lingua Latina# 54f8ff628e7ef0f89e7cde07acd83923": {
-        "Held in language": [
-            "en - English"
-        ], 
-        "Has start time": [
-            "1514561400"
-        ], 
-        "Has event track": [
-            "Session"
-        ], 
-        "Has website": [], 
-        "Has description": [
-            "This workshop, targeted at beginners but open to all levels, will explore reasons to learn Latin as well as introducing the fundamentals of the Latin Language itself."
-        ], 
-        "Has session type": [
-            "Talk"
-        ], 
-        "Has session location": [
-            {
-                "fulltext": "Room:Lecture room 11", 
-                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Room:Lecture_room_11", 
-                "namespace": 516, 
-                "exists": true
-            }
-        ], 
-        "Has subtitle": [
-            "An introduction to the Latin language"
-        ], 
-        "Is organized by": [
-            {
-                "fulltext": "User:Aestetix", 
-                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/User:Aestetix", 
-                "namespace": 2, 
-                "exists": true
-            }
-        ], 
-        "Has title": [
-            "Lingua Latina"
-        ], 
-        "Has duration": [
-            60
-        ], 
-        "GUID": [
-            "cc8c60bb-2c29-4bf7-8844-5470470c5935"
-        ], 
-        "Has color": [
-            "#0099ab"
-        ], 
-        "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:Lingua_Latina", 
-        "Has end time": [
-            "1514565000"
-        ]
-    }, 
     "Session:A/V Angel Meeting# 445a1ffd26b65f861e78e209346f84d2": {
         "Held in language": [
             "de - German", 
@@ -3642,44 +3541,6 @@
             "1514580300"
         ]
     }, 
-    "Session:Haecksenbreakfast# 513a305efb60c3ca33bf7f9fe7655b3f": {
-        "Held in language": [], 
-        "Has start time": [
-            "1514552400"
-        ], 
-        "Has event track": [
-            "Session"
-        ], 
-        "Has website": [], 
-        "Has description": [
-            "Haecksenbreakfast (female* only)"
-        ], 
-        "Has session type": [], 
-        "Has session location": [
-            {
-                "fulltext": "Room:Lecture room 11", 
-                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Room:Lecture_room_11", 
-                "namespace": 516, 
-                "exists": true
-            }
-        ], 
-        "Has subtitle": [], 
-        "Is organized by": [], 
-        "Has title": [
-            "Haecksenbreakfast"
-        ], 
-        "Has duration": [
-            120
-        ], 
-        "GUID": [], 
-        "Has color": [
-            "#0099ab"
-        ], 
-        "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:Haecksenbreakfast", 
-        "Has end time": [
-            "1514559600"
-        ]
-    }, 
     "Session:The ultimate Free Software challenge# cfd54643eedbc7eff8cea2061824fce6": {
         "Held in language": [], 
         "Has start time": [], 
@@ -3770,6 +3631,44 @@
         "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:Mate_Making_%26_Drinking", 
         "Has end time": [
             "1514469600"
+        ]
+    }, 
+    "Session:Haecksenbreakfast# b3df6d03e394815f24e2d41f46e44382": {
+        "Held in language": [], 
+        "Has start time": [
+            "1514552400"
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [], 
+        "Has description": [
+            "Haecksenbreakfast (female* only)"
+        ], 
+        "Has session type": [], 
+        "Has session location": [
+            {
+                "fulltext": "Room:Hive Stage", 
+                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Room:Hive_Stage", 
+                "namespace": 516, 
+                "exists": true
+            }
+        ], 
+        "Has subtitle": [], 
+        "Is organized by": [], 
+        "Has title": [
+            "Haecksenbreakfast"
+        ], 
+        "Has duration": [
+            120
+        ], 
+        "GUID": [], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:Haecksenbreakfast", 
+        "Has end time": [
+            "1514559600"
         ]
     }, 
     "Session:Can't touch this 2: Introduction and more about self defense and communication for humans# f989a83075a375ca42f1b4dd18c331da": {
@@ -5749,6 +5648,54 @@
         ], 
         "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:Daygame_-_meeting_girls_(and_boys)_in_daily_situations", 
         "Has end time": []
+    }, 
+    "Session:WireGuard# a26b060bb58f2c009afbb224984999a3": {
+        "Held in language": [
+            "en - English"
+        ], 
+        "Has start time": [
+            "1514555100"
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [
+            "https://www.wireguard.com/"
+        ], 
+        "Has description": [
+            "WireGuard is a next generation secure network tunnel, which uses state of the art cryptography. This workshop will discuss what WireGuard is, the cryptography behind it, some interesting kernel engineering tricks it uses, and how you too can use it. There will be copious quantities of free stickers. The session will be fairly open and free form. The creator of WireGuard will have an endless quantity of material of his own to present, but more generally, we'll open it up to whatever people want to discuss and collaborate on. If you're interested in kernel programming, networking, cryptography, or security, this is a key workshop to attend."
+        ], 
+        "Has session type": [
+            "Workshop"
+        ], 
+        "Has session location": [
+            {
+                "fulltext": "Room:Lecture room 11", 
+                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Room:Lecture_room_11", 
+                "namespace": 516, 
+                "exists": true
+            }
+        ], 
+        "Has subtitle": [
+            "In-depth"
+        ], 
+        "Is organized by": [], 
+        "Has title": [
+            "WireGuard"
+        ], 
+        "Has duration": [
+            135
+        ], 
+        "GUID": [
+            "053ee696-3bcc-4c33-92f2-330bb687f008"
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:WireGuard", 
+        "Has end time": [
+            "1514563200"
+        ]
     }, 
     "Session:Reclaim Club Culture# fd54df0255ca509ab2565006913b2cb7": {
         "Held in language": [], 
@@ -11982,6 +11929,59 @@
         "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:Insulin_hackers_meetup", 
         "Has end time": [
             "1514559600"
+        ]
+    }, 
+    "Session:Lingua Latina# 1e7d5e944f12f3a5a68b78a16645e985": {
+        "Held in language": [
+            "en - English"
+        ], 
+        "Has start time": [
+            "1514563200"
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [], 
+        "Has description": [
+            "This workshop, targeted at beginners but open to all levels, will explore reasons to learn Latin as well as introducing the fundamentals of the Latin Language itself."
+        ], 
+        "Has session type": [
+            "Talk"
+        ], 
+        "Has session location": [
+            {
+                "fulltext": "Room:Lecture room 11", 
+                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Room:Lecture_room_11", 
+                "namespace": 516, 
+                "exists": true
+            }
+        ], 
+        "Has subtitle": [
+            "An introduction to the Latin language"
+        ], 
+        "Is organized by": [
+            {
+                "fulltext": "User:Aestetix", 
+                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/User:Aestetix", 
+                "namespace": 2, 
+                "exists": true
+            }
+        ], 
+        "Has title": [
+            "Lingua Latina"
+        ], 
+        "Has duration": [
+            60
+        ], 
+        "GUID": [
+            "cc8c60bb-2c29-4bf7-8844-5470470c5935"
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:Lingua_Latina", 
+        "Has end time": [
+            "1514566800"
         ]
     }, 
     "Session:Microdosing Psychedelics:roundtable discussion# 221ebfc1c4f8265a488a6fe7a9cbd19b": {
