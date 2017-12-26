@@ -530,7 +530,7 @@
         ], 
         "Has website": [], 
         "Has description": [
-            "Build your own MAKERbuino game console"
+            "Build your own MAKERbuino game console (kids session, ages 11+)"
         ], 
         "Has session type": [
             "Workshop"
@@ -12261,6 +12261,54 @@
             "1514556000"
         ]
     }, 
+    "Session:Polyamory - Guide / extended# 244b9bcf6dd5fb6dadea45f9ad4940ad": {
+        "Held in language": [
+            "en - English"
+        ], 
+        "Has start time": [
+            "1514541600"
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [
+            "https://twitter.com/SycretSoul"
+        ], 
+        "Has description": [
+            "Polyamory (n:n) Relationships - Discussion"
+        ], 
+        "Has session type": [
+            "Discussion"
+        ], 
+        "Has session location": [
+            {
+                "fulltext": "Room:Lecture room 11", 
+                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Room:Lecture_room_11", 
+                "namespace": 516, 
+                "exists": true
+            }
+        ], 
+        "Has subtitle": [
+            "Polyamory (n:n) Relationships - Discussion"
+        ], 
+        "Is organized by": [], 
+        "Has title": [
+            "Polyamory - Guide / extended"
+        ], 
+        "Has duration": [
+            120
+        ], 
+        "GUID": [
+            "fc013695-5130-41ea-88cf-5b43ae74249e"
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:Polyamory_-_Guide_/_extended", 
+        "Has end time": [
+            "1514548800"
+        ]
+    }, 
     "Session:Tiptoi-Hacking# 84675e8adf8393df8af12f0f8448208c": {
         "Held in language": [], 
         "Has start time": [
@@ -13619,6 +13667,44 @@
         "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:MASKIERTE_GRUPPENDYNAMIK", 
         "Has end time": [
             "1514577600"
+        ]
+    }, 
+    "Session:Hacks/Hackers Meetup# b5549a388ea619686591d6cbf886239a": {
+        "Held in language": [], 
+        "Has start time": [
+            "1514480400"
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [], 
+        "Has description": [], 
+        "Has session type": [], 
+        "Has session location": [
+            {
+                "fulltext": "Room:Hive Stage", 
+                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Room:Hive_Stage", 
+                "namespace": 516, 
+                "exists": true
+            }
+        ], 
+        "Has subtitle": [], 
+        "Is organized by": [], 
+        "Has title": [
+            "Hacks/Hackers Meetup"
+        ], 
+        "Has duration": [
+            60
+        ], 
+        "GUID": [
+            "c468d30c-e1b3-4c66-bb62-0e133f48a4dd"
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:Hacks/Hackers_Meetup", 
+        "Has end time": [
+            "1514484000"
         ]
     }, 
     "Session:DLF# 8a3ea8ae325806a52304b1a73f17894c": {
