@@ -8312,6 +8312,37 @@
             "1514566800"
         ]
     }, 
+    "Session:Hear What You Like To Hear# c30e76c63496195bbe26f23fcd087a1a": {
+        "Held in language": [
+            "en - English"
+        ], 
+        "Has start time": [], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [
+            "http://not%20yet"
+        ], 
+        "Has description": [], 
+        "Has session type": [
+            "Hands-On"
+        ], 
+        "Has session location": [], 
+        "Has subtitle": [], 
+        "Is organized by": [], 
+        "Has title": [
+            "Hear What You Like To Hear"
+        ], 
+        "Has duration": [], 
+        "GUID": [
+            "96d8c430-2c9b-4723-aa56-d34f691aaa28"
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:Hear_What_You_Like_To_Hear", 
+        "Has end time": []
+    }, 
     "Session:CCC-CH GV# e8905a7d60e1dfd1c16bb98773955cae": {
         "Held in language": [
             "de - German", 
@@ -9054,7 +9085,8 @@
     }, 
     "Session:Edulabs-Workshop# e4b7e6f625e1bc78cfa76f205dd0ae68": {
         "Held in language": [
-            "de - German"
+            "de - German", 
+            "en - English"
         ], 
         "Has start time": [
             "1514476800"
@@ -9062,9 +9094,15 @@
         "Has event track": [
             "Session"
         ], 
-        "Has website": [], 
-        "Has description": [], 
-        "Has session type": [], 
+        "Has website": [
+            "http://www.edulabs.de"
+        ], 
+        "Has description": [
+            "How to improve learning and teaching with open education and digital tools? In the past year, volunteers in self-organized edulabs started to develop new concepts, tools and materials to foster participation in schools. In this workshop we discuss our experiences with improving the edu system so far, and want to invite you to start/build/share/connect your own projects."
+        ], 
+        "Has session type": [
+            "Workshop"
+        ], 
         "Has session location": [
             {
                 "fulltext": "Room:Esszimmer", 
