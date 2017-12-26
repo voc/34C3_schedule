@@ -50,6 +50,54 @@
             "1514491200"
         ]
     }, 
+    "Session:WireGuard# 7ff5d04bbb77fd089e25000888fd3ac3": {
+        "Held in language": [
+            "en - English"
+        ], 
+        "Has start time": [
+            "1514555100"
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [
+            "https://www.wireguard.com/"
+        ], 
+        "Has description": [
+            "WireGuard is a next generation secure network tunnel, which uses state of the art cryptography. This workshop will discuss what WireGuard is, the cryptography behind it, some interesting kernel engineering tricks it uses, and how you too can use it. There will be copious quantities of free stickers. The session will be fairly open and free form. The creator of WireGuard will have an endless quantity of material of his own to present, but more generally, we'll open it up to whatever people want to discuss and collaborate on. If you're interested in kernel programming, networking, cryptography, or security, this is a key workshop to attend."
+        ], 
+        "Has session type": [
+            "Workshop"
+        ], 
+        "Has session location": [
+            {
+                "fulltext": "Room:Lecture room 11", 
+                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Room:Lecture_room_11", 
+                "namespace": 516, 
+                "exists": true
+            }
+        ], 
+        "Has subtitle": [
+            "In-depth"
+        ], 
+        "Is organized by": [], 
+        "Has title": [
+            "WireGuard"
+        ], 
+        "Has duration": [
+            150
+        ], 
+        "GUID": [
+            "053ee696-3bcc-4c33-92f2-330bb687f008"
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:WireGuard", 
+        "Has end time": [
+            "1514564100"
+        ]
+    }, 
     "Session:Hacking with wget# 68066760b7c9155486b3ca3bfd2ea9fc": {
         "Held in language": [
             "en - English"
@@ -714,7 +762,9 @@
         ]
     }, 
     "Session:Kreatives Beschimpfen Pt. 2: Es gibt kein Battle# d054d5a5d2202703f89011c699b14fec": {
-        "Held in language": [], 
+        "Held in language": [
+            "de - German"
+        ], 
         "Has start time": [
             "1514577600"
         ], 
@@ -722,8 +772,12 @@
             "Session"
         ], 
         "Has website": [], 
-        "Has description": [], 
-        "Has session type": [], 
+        "Has description": [
+            "Ausgehend vom Workshop im letzten Jahr die angewandte Malediktion anwenden: offener Wettkampf, mehrere Runden nach K.O.-System, wer wird der*die Rohrspatz?"
+        ], 
+        "Has session type": [
+            "Other"
+        ], 
         "Has session location": [
             {
                 "fulltext": "Room:Komona Aquarius", 
@@ -2710,50 +2764,6 @@
         "Has end time": [
             "1514332800"
         ]
-    }, 
-    "Session:WireGuard# 8e454d077334f74a36c90632a5d418a6": {
-        "Held in language": [
-            "en - English"
-        ], 
-        "Has start time": [], 
-        "Has event track": [
-            "Session"
-        ], 
-        "Has website": [
-            "https://www.wireguard.com/"
-        ], 
-        "Has description": [
-            "WireGuard is a next generation secure network tunnel, which uses state of the art cryptography. This workshop will discuss what WireGuard is, the cryptography behind it, some interesting kernel engineering tricks it uses, and how you too can use it. There will be copious quantities of free stickers. The session will be fairly open and free form. The creator of WireGuard will have an endless quantity of material of his own to present, but more generally, we'll open it up to whatever people want to discuss and collaborate on. If you're interested in kernel programming, networking, cryptography, or security, this is a key workshop to attend."
-        ], 
-        "Has session type": [
-            "Workshop"
-        ], 
-        "Has session location": [
-            {
-                "fulltext": "Room:Lecture room 11", 
-                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Room:Lecture_room_11", 
-                "namespace": 516, 
-                "exists": true
-            }
-        ], 
-        "Has subtitle": [
-            "In-depth"
-        ], 
-        "Is organized by": [], 
-        "Has title": [
-            "WireGuard"
-        ], 
-        "Has duration": [
-            150
-        ], 
-        "GUID": [
-            "053ee696-3bcc-4c33-92f2-330bb687f008"
-        ], 
-        "Has color": [
-            "#0099ab"
-        ], 
-        "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:WireGuard", 
-        "Has end time": []
     }, 
     "Session:A/V Angel Meeting# 1ab124b2b2aed4dbc021be006ee4bd18": {
         "Held in language": [
@@ -14103,6 +14113,50 @@
         "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:Healthy_food_hack:_Tasty_food_%3D_Unhealthy_food%3F", 
         "Has end time": [
             "1514655000"
+        ]
+    }, 
+    "Session:Open Science/Research Workshop# cc26b7be7ada56fdb2737ed64514aa6a": {
+        "Held in language": [
+            "en - English"
+        ], 
+        "Has start time": [
+            "1514466000"
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [], 
+        "Has description": [
+            "In this workshop about Open Research/Science we want to first identify what we can do to improve any aspect of Open Research/Science (like Open Access, Open Educational Resources, Open Peer Review, Open Data, ...). We then pick one or more of these aspects and start working on solutions (Hackathon-style).\n\nThe workshop is an excellent place to connect with other people who are interested in making research and science more open.\n\nBring your own ideas and make sure to add them to https://hackmd.okfn.de/34c3-openscience (even better if you do so before the event)!"
+        ], 
+        "Has session type": [
+            "Workshop"
+        ], 
+        "Has session location": [], 
+        "Has subtitle": [], 
+        "Is organized by": [
+            {
+                "fulltext": "User:Andrenarchy", 
+                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/User:Andrenarchy", 
+                "namespace": 2, 
+                "exists": true
+            }
+        ], 
+        "Has title": [
+            "Open Science/Research Workshop"
+        ], 
+        "Has duration": [
+            120
+        ], 
+        "GUID": [
+            "55a51cb4-5304-4fd8-b917-afc83ede7400"
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:Open_Science/Research_Workshop", 
+        "Has end time": [
+            "1514473200"
         ]
     }, 
     "Session:Intro to 3D Shader Programming# e0377acb89925c43bead2e24d445dff8": {
