@@ -50,54 +50,6 @@
             "1514491200"
         ]
     }, 
-    "Session:WireGuard# 7ff5d04bbb77fd089e25000888fd3ac3": {
-        "Held in language": [
-            "en - English"
-        ], 
-        "Has start time": [
-            "1514555100"
-        ], 
-        "Has event track": [
-            "Session"
-        ], 
-        "Has website": [
-            "https://www.wireguard.com/"
-        ], 
-        "Has description": [
-            "WireGuard is a next generation secure network tunnel, which uses state of the art cryptography. This workshop will discuss what WireGuard is, the cryptography behind it, some interesting kernel engineering tricks it uses, and how you too can use it. There will be copious quantities of free stickers. The session will be fairly open and free form. The creator of WireGuard will have an endless quantity of material of his own to present, but more generally, we'll open it up to whatever people want to discuss and collaborate on. If you're interested in kernel programming, networking, cryptography, or security, this is a key workshop to attend."
-        ], 
-        "Has session type": [
-            "Workshop"
-        ], 
-        "Has session location": [
-            {
-                "fulltext": "Room:Lecture room 11", 
-                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Room:Lecture_room_11", 
-                "namespace": 516, 
-                "exists": true
-            }
-        ], 
-        "Has subtitle": [
-            "In-depth"
-        ], 
-        "Is organized by": [], 
-        "Has title": [
-            "WireGuard"
-        ], 
-        "Has duration": [
-            150
-        ], 
-        "GUID": [
-            "053ee696-3bcc-4c33-92f2-330bb687f008"
-        ], 
-        "Has color": [
-            "#0099ab"
-        ], 
-        "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:WireGuard", 
-        "Has end time": [
-            "1514564100"
-        ]
-    }, 
     "Session:Hacking with wget# 68066760b7c9155486b3ca3bfd2ea9fc": {
         "Held in language": [
             "en - English"
@@ -952,6 +904,54 @@
             "1514464200"
         ]
     }, 
+    "Session:WireGuard# 3e5d9e7779afadc3191f1ee50b060f63": {
+        "Held in language": [
+            "en - English"
+        ], 
+        "Has start time": [
+            "1514555100"
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [
+            "https://www.wireguard.com/"
+        ], 
+        "Has description": [
+            "WireGuard is a next generation secure network tunnel, which uses state of the art cryptography. This workshop will discuss what WireGuard is, the cryptography behind it, some interesting kernel engineering tricks it uses, and how you too can use it. There will be copious quantities of free stickers. The session will be fairly open and free form. The creator of WireGuard will have an endless quantity of material of his own to present, but more generally, we'll open it up to whatever people want to discuss and collaborate on. If you're interested in kernel programming, networking, cryptography, or security, this is a key workshop to attend."
+        ], 
+        "Has session type": [
+            "Workshop"
+        ], 
+        "Has session location": [
+            {
+                "fulltext": "Room:Hive Stage", 
+                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Room:Hive_Stage", 
+                "namespace": 516, 
+                "exists": true
+            }
+        ], 
+        "Has subtitle": [
+            "In-depth"
+        ], 
+        "Is organized by": [], 
+        "Has title": [
+            "WireGuard"
+        ], 
+        "Has duration": [
+            150
+        ], 
+        "GUID": [
+            "053ee696-3bcc-4c33-92f2-330bb687f008"
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:WireGuard", 
+        "Has end time": [
+            "1514564100"
+        ]
+    }, 
     "Session:Regiotreffen# 689049d789d056736542aa8640868d4c": {
         "Held in language": [
             "de - German"
@@ -1063,7 +1063,7 @@
             "https://autocrypt.org"
         ], 
         "Has description": [
-            "Introduction and practical demonstration to Autocrypt, an implemented specification for opportunistic e-mail end-to-end encryption with e-mail messages for some popular mail clients, with opportunities to feedback work to developers for future implementation."
+            "Introduction and practical demonstration to Autocrypt, an implemented specification for opportunistic e-mail end-to-end encryption with e-mail messages for some popular mail clients, with opportunities to feedback work to developers for future implementation.\n\nDay 2 - 13:00 - Seminar Room 14-15"
         ], 
         "Has session type": [
             "Workshop"
@@ -1709,6 +1709,48 @@
         "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:DLF", 
         "Has end time": [
             "1514642400"
+        ]
+    }, 
+    "Session:Reclaim Club Culture: Privileges in and through Club Culture# 9e038830a3347bc320ca30cdf347ce5d": {
+        "Held in language": [
+            "de - German"
+        ], 
+        "Has start time": [
+            "1514376000"
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [], 
+        "Has description": [], 
+        "Has session type": [
+            "Workshop"
+        ], 
+        "Has session location": [
+            {
+                "fulltext": "Room:Komona D.Ressrosa", 
+                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Room:Komona_D.Ressrosa", 
+                "namespace": 516, 
+                "exists": true
+            }
+        ], 
+        "Has subtitle": [], 
+        "Is organized by": [], 
+        "Has title": [
+            "Reclaim Club Culture: Privileges in and through Club Culture"
+        ], 
+        "Has duration": [
+            120
+        ], 
+        "GUID": [
+            "535c8bc6-824c-4d00-93c1-c5d9eb9492fd"
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:Reclaim_Club_Culture:_Privileges_in_and_through_Club_Culture", 
+        "Has end time": [
+            "1514383200"
         ]
     }, 
     "Session:Introduction into anarchism# a047e6147e360d850e9fa75d168fcd6d": {
@@ -6623,6 +6665,52 @@
             "1514390400"
         ]
     }, 
+    "Session:Disobedient Art / Public Space - Kunst, Politik, Intervention# 55d9c1584a813472c590046f8c64adf2": {
+        "Held in language": [], 
+        "Has start time": [
+            "1514401200"
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [
+            "http://www.wermke-leinkauf.com/", 
+            "http://www.roccoundseinebrueder.com/", 
+            "https://felixdreesen.de/"
+        ], 
+        "Has description": [
+            "Disobedient Art / Public Space - Kunst, Politik, Intervention\nGrenzen\u00fcberschreitende Aktionen an scheinbar unzug\u00e4nglichen Orten, medial inszenierte politische Provokation, interventionistische Gedenkkultur...\n\nWelche M\u00f6glichkeiten, welche Grenzen hat (politische) Aktionskunst? Wie nehmen wir uns den \u00f6ffentlichen Raum, umgehen seine Vorschriften und Reglementierungen? Welche kulturellen Praxen halten wir den Spielregeln der freien Marktwirtschaft entgegen?\n\nPr\u00e4sentation mit Wermke/Leinkauf Rocco und seine Br\u00fcder Felix Dreesen und Leonard Rokita"
+        ], 
+        "Has session type": [
+            "Talk"
+        ], 
+        "Has session location": [
+            {
+                "fulltext": "Room:Komona Aquarius", 
+                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Room:Komona_Aquarius", 
+                "namespace": 516, 
+                "exists": true
+            }
+        ], 
+        "Has subtitle": [], 
+        "Is organized by": [], 
+        "Has title": [
+            "Disobedient Art / Public Space - Kunst, Politik, Intervention"
+        ], 
+        "Has duration": [
+            180
+        ], 
+        "GUID": [
+            "2b87ddb2-1cca-44e5-a2ea-154c8d351125"
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:Disobedient_Art_/_Public_Space_-_Kunst,_Politik,_Intervention", 
+        "Has end time": [
+            "1514412000"
+        ]
+    }, 
     "Session:Reclaim Club Culture# d18178dc7a647281cd7e535c4dfac1c0": {
         "Held in language": [], 
         "Has start time": [
@@ -6865,6 +6953,50 @@
         "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:Rights%26Freedoms", 
         "Has end time": [
             "1514473200"
+        ]
+    }, 
+    "Session:Open Science/Research Workshop# f38f683f202dc68318682c4dc3ead708": {
+        "Held in language": [
+            "en - English"
+        ], 
+        "Has start time": [
+            "1514462400"
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [], 
+        "Has description": [
+            "In this workshop about Open Research/Science we want to first identify what we can do to improve any aspect of Open Research/Science (like Open Access, Open Educational Resources, Open Peer Review, Open Data, ...). We then pick one or more of these aspects and start working on solutions (Hackathon-style).\n\nThe workshop is an excellent place to connect with other people who are interested in making research and science more open.\n\nBring your own ideas and make sure to add them to https://hackmd.okfn.de/34c3-openscience (even better if you do so before the event)!"
+        ], 
+        "Has session type": [
+            "Workshop"
+        ], 
+        "Has session location": [], 
+        "Has subtitle": [], 
+        "Is organized by": [
+            {
+                "fulltext": "User:Andrenarchy", 
+                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/User:Andrenarchy", 
+                "namespace": 2, 
+                "exists": true
+            }
+        ], 
+        "Has title": [
+            "Open Science/Research Workshop"
+        ], 
+        "Has duration": [
+            120
+        ], 
+        "GUID": [
+            "55a51cb4-5304-4fd8-b917-afc83ede7400"
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:Open_Science/Research_Workshop", 
+        "Has end time": [
+            "1514469600"
         ]
     }, 
     "Session:Reclaim Club Culture: Soundradikalit\u00e4t und Clubkommunalit\u00e4t (Jukebox Utopia (WiseUp) und Lukas Fakegruber (Shituationist Institute))# f53111c95c9d2b19ffac3c9fd8616da9": {
@@ -7499,54 +7631,6 @@
         "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:Wie_produziere_ich_mein_eigenes_H%C3%B6rspiel", 
         "Has end time": [
             "1514476800"
-        ]
-    }, 
-    "Session:Talks# c84f521dcbb8d8c752c87ce3567e4f03": {
-        "Held in language": [
-            "de - German"
-        ], 
-        "Has start time": [
-            "1514401200"
-        ], 
-        "Has event track": [
-            "Session"
-        ], 
-        "Has website": [
-            "http://www.wermke-leinkauf.com/", 
-            "http://www.roccoundseinebrueder.com/", 
-            "https://felixdreesen.de/"
-        ], 
-        "Has description": [
-            "Disobedient Art / Public Space - Kunst, Politik, Intervention\n\nGrenzen\u00fcberschreitende Aktionen an scheinbar unzug\u00e4nglichen Orten,\nmedial inszenierte politische Provokation, interventionistische\nGedenkkultur...\n\nWelche M\u00f6glichkeiten, welche Grenzen hat (politische) Aktionskunst?\nWie nehmen wir uns den \u00f6ffentlichen Raum, umgehen seine Vorschriften und\nReglementierungen?\nWelche kulturellen Praxen halten wir den Spielregeln der freien\nMarktwirtschaft entgegen?\n\nPr\u00e4sentation mit\nWermke/Leinkauf \nRocco und seine Br\u00fcder \nFelix Dreesen und Leonard Rokita"
-        ], 
-        "Has session type": [
-            "Talk"
-        ], 
-        "Has session location": [
-            {
-                "fulltext": "Room:Komona Aquarius", 
-                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Room:Komona_Aquarius", 
-                "namespace": 516, 
-                "exists": true
-            }
-        ], 
-        "Has subtitle": [], 
-        "Is organized by": [], 
-        "Has title": [
-            "Talks"
-        ], 
-        "Has duration": [
-            180
-        ], 
-        "GUID": [
-            "fc985daf-a593-4070-a87e-32b3353cda82"
-        ], 
-        "Has color": [
-            "#0099ab"
-        ], 
-        "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:Talks", 
-        "Has end time": [
-            "1514412000"
         ]
     }, 
     "Session:TeaHouse# 3fa552470c953db85366ba85338756db": {
@@ -8340,44 +8424,6 @@
         "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:Letter_writing_to_prisoners,_sitting_in_jail_for_hacking", 
         "Has end time": [
             "1514637900"
-        ]
-    }, 
-    "Session:Reclaim Club Culture# 87f3e2a03e13c28487dc944b5c4da100": {
-        "Held in language": [], 
-        "Has start time": [
-            "1514376000"
-        ], 
-        "Has event track": [
-            "Session"
-        ], 
-        "Has website": [], 
-        "Has description": [], 
-        "Has session type": [], 
-        "Has session location": [
-            {
-                "fulltext": "Room:Komona D.Ressrosa", 
-                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Room:Komona_D.Ressrosa", 
-                "namespace": 516, 
-                "exists": true
-            }
-        ], 
-        "Has subtitle": [], 
-        "Is organized by": [], 
-        "Has title": [
-            "Reclaim Club Culture"
-        ], 
-        "Has duration": [
-            120
-        ], 
-        "GUID": [
-            "06e9351c-7ff5-459a-8591-2d5297faf847"
-        ], 
-        "Has color": [
-            "#0099ab"
-        ], 
-        "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:Reclaim_Club_Culture", 
-        "Has end time": [
-            "1514383200"
         ]
     }, 
     "Session:DLF# 39586741ed45eeae1d2d308db6fc0c4b": {
@@ -10188,6 +10234,41 @@
         "Has end time": [
             "1514584800"
         ]
+    }, 
+    "Session:Talks# 40bee1e3c0e371366e8bdc093e07df0e": {
+        "Held in language": [
+            "de - German"
+        ], 
+        "Has start time": [], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [
+            "http://www.wermke-leinkauf.com/", 
+            "http://www.roccoundseinebrueder.com/", 
+            "https://felixdreesen.de/"
+        ], 
+        "Has description": [
+            "Disobedient Art / Public Space - Kunst, Politik, Intervention\n\nGrenzen\u00fcberschreitende Aktionen an scheinbar unzug\u00e4nglichen Orten,\nmedial inszenierte politische Provokation, interventionistische\nGedenkkultur...\n\nWelche M\u00f6glichkeiten, welche Grenzen hat (politische) Aktionskunst?\nWie nehmen wir uns den \u00f6ffentlichen Raum, umgehen seine Vorschriften und\nReglementierungen?\nWelche kulturellen Praxen halten wir den Spielregeln der freien\nMarktwirtschaft entgegen?\n\nPr\u00e4sentation mit\nWermke/Leinkauf \nRocco und seine Br\u00fcder \nFelix Dreesen und Leonard Rokita"
+        ], 
+        "Has session type": [
+            "Talk"
+        ], 
+        "Has session location": [], 
+        "Has subtitle": [], 
+        "Is organized by": [], 
+        "Has title": [
+            "Talks"
+        ], 
+        "Has duration": [], 
+        "GUID": [
+            "79bda8e9-cd00-4288-98e7-d4e0ed5664e3"
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:Talks", 
+        "Has end time": []
     }, 
     "Session:Bier & Bass# dba27ab8e0afd98c3ac6e749c1db971a": {
         "Held in language": [
@@ -14115,50 +14196,6 @@
             "1514655000"
         ]
     }, 
-    "Session:Open Science/Research Workshop# cc26b7be7ada56fdb2737ed64514aa6a": {
-        "Held in language": [
-            "en - English"
-        ], 
-        "Has start time": [
-            "1514466000"
-        ], 
-        "Has event track": [
-            "Session"
-        ], 
-        "Has website": [], 
-        "Has description": [
-            "In this workshop about Open Research/Science we want to first identify what we can do to improve any aspect of Open Research/Science (like Open Access, Open Educational Resources, Open Peer Review, Open Data, ...). We then pick one or more of these aspects and start working on solutions (Hackathon-style).\n\nThe workshop is an excellent place to connect with other people who are interested in making research and science more open.\n\nBring your own ideas and make sure to add them to https://hackmd.okfn.de/34c3-openscience (even better if you do so before the event)!"
-        ], 
-        "Has session type": [
-            "Workshop"
-        ], 
-        "Has session location": [], 
-        "Has subtitle": [], 
-        "Is organized by": [
-            {
-                "fulltext": "User:Andrenarchy", 
-                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/User:Andrenarchy", 
-                "namespace": 2, 
-                "exists": true
-            }
-        ], 
-        "Has title": [
-            "Open Science/Research Workshop"
-        ], 
-        "Has duration": [
-            120
-        ], 
-        "GUID": [
-            "55a51cb4-5304-4fd8-b917-afc83ede7400"
-        ], 
-        "Has color": [
-            "#0099ab"
-        ], 
-        "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:Open_Science/Research_Workshop", 
-        "Has end time": [
-            "1514473200"
-        ]
-    }, 
     "Session:Intro to 3D Shader Programming# e0377acb89925c43bead2e24d445dff8": {
         "Held in language": [
             "en - English"
@@ -14808,6 +14845,52 @@
         "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:%22Pen%26Paper%22_Game_Jam", 
         "Has end time": [
             "1514635200"
+        ]
+    }, 
+    "Session:Polyamory - n:n relationships extended# 54ac1f67f0e4d5200996c9e509286348": {
+        "Held in language": [
+            "en - English"
+        ], 
+        "Has start time": [
+            "1514545200"
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [
+            "https://twitter.com/SycretSoul"
+        ], 
+        "Has description": [], 
+        "Has session type": [
+            "Discussion"
+        ], 
+        "Has session location": [
+            {
+                "fulltext": "Room:Lecture room 11", 
+                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Room:Lecture_room_11", 
+                "namespace": 516, 
+                "exists": true
+            }
+        ], 
+        "Has subtitle": [
+            "Polyamory - n:n relationships  discussion"
+        ], 
+        "Is organized by": [], 
+        "Has title": [
+            "Polyamory - n:n relationships extended"
+        ], 
+        "Has duration": [
+            90
+        ], 
+        "GUID": [
+            "a57480d8-7fa2-4a9f-80a4-246071562819"
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:Polyamory_-_n:n_relationships_extended", 
+        "Has end time": [
+            "1514550600"
         ]
     }, 
     "Session:Lainchan Meetup# 662e9a9620ba88db76469bba5e2c3bd3": {
