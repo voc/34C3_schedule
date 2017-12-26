@@ -6704,44 +6704,6 @@
             "1514412000"
         ]
     }, 
-    "Session:Reclaim Club Culture# d18178dc7a647281cd7e535c4dfac1c0": {
-        "Held in language": [], 
-        "Has start time": [
-            "1514383200"
-        ], 
-        "Has event track": [
-            "Session"
-        ], 
-        "Has website": [], 
-        "Has description": [], 
-        "Has session type": [], 
-        "Has session location": [
-            {
-                "fulltext": "Room:Komona D.Ressrosa", 
-                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Room:Komona_D.Ressrosa", 
-                "namespace": 516, 
-                "exists": true
-            }
-        ], 
-        "Has subtitle": [], 
-        "Is organized by": [], 
-        "Has title": [
-            "Reclaim Club Culture"
-        ], 
-        "Has duration": [
-            120
-        ], 
-        "GUID": [
-            "1191f1bd-7e79-40a2-aff6-6d843352ab47"
-        ], 
-        "Has color": [
-            "#0099ab"
-        ], 
-        "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:Reclaim_Club_Culture", 
-        "Has end time": [
-            "1514390400"
-        ]
-    }, 
     "Session:Bridging messengers with Matrix.org# 99d3da5cec070f18fe783c0afed88ec1": {
         "Held in language": [
             "en - English"
@@ -7279,6 +7241,50 @@
         "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:Calliope_Workshops", 
         "Has end time": [
             "1514471400"
+        ]
+    }, 
+    "Session:Wenn die \"Neue Rechte\" einen so erfolgreichen \"Kulturkampf\" f\u00fchrt - k\u00f6nnen wir das als Kukturschaffende nicht eigentlich viel besser?# 943ad0cca9f7a860d78848928509da66": {
+        "Held in language": [
+            "de - German"
+        ], 
+        "Has start time": [
+            "1514383200"
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [], 
+        "Has description": [
+            "Wenn die \"Neue Rechte\" einen so erfolgreichen \"Kulturkampf\" f\u00fchrt - k\u00f6nnen wir das als Kukturschaffende nicht eigentlich viel besser?"
+        ], 
+        "Has session type": [
+            "Workshop"
+        ], 
+        "Has session location": [
+            {
+                "fulltext": "Room:Komona D.Ressrosa", 
+                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Room:Komona_D.Ressrosa", 
+                "namespace": 516, 
+                "exists": true
+            }
+        ], 
+        "Has subtitle": [], 
+        "Is organized by": [], 
+        "Has title": [
+            "Wenn die \"Neue Rechte\" einen so erfolgreichen \"Kulturkampf\" f\u00fchrt - k\u00f6nnen wir das als Kukturschaffende nicht eigentlich viel besser?"
+        ], 
+        "Has duration": [
+            120
+        ], 
+        "GUID": [
+            "9fc6cd55-ba06-46d1-8510-4723905f239d"
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:Wenn_die_%22Neue_Rechte%22_einen_so_erfolgreichen_%22Kulturkampf%22_f%C3%BChrt_-_k%C3%B6nnen_wir_das_als_Kukturschaffende_nicht_eigentlich_viel_besser%3F", 
+        "Has end time": [
+            "1514390400"
         ]
     }, 
     "Session:TeaHouse# 0b017eecf65d3b03c95c2e945a79c9a2": {
@@ -13860,6 +13866,51 @@
         "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:MASKIERTE_GRUPPENDYNAMIK", 
         "Has end time": [
             "1514577600"
+        ]
+    }, 
+    "Session:Tech-Coops Meetup# 4aa6f1b46d77ad903486edb53823e678": {
+        "Held in language": [
+            "de - German", 
+            "en - English"
+        ], 
+        "Has start time": [
+            "1514566800"
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [], 
+        "Has description": [
+            "Tech-coops are a growing movement of worker-owned cooperatives that operate in the information technology industry (more information). We want to find new ways of working and making a living, based on solidarity. Some tech-coops also see themselves as part of broader political and social movements.\n\nTech-coops could be a solution if you feel alienated by big software corporations and startup culture or you feel alone and in search of solidarity as a freelancer.\n\nThis meetup is for everyone that is or wants to be part of a tech-coops or is just interested. We will mainly focus on the exchange of ideas, experiences and on getting to know each other."
+        ], 
+        "Has session type": [
+            "Meeting"
+        ], 
+        "Has session location": [
+            {
+                "fulltext": "Assembly:Tech-Coops", 
+                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Assembly:Tech-Coops", 
+                "namespace": 504, 
+                "exists": true
+            }
+        ], 
+        "Has subtitle": [], 
+        "Is organized by": [], 
+        "Has title": [
+            "Tech-Coops Meetup"
+        ], 
+        "Has duration": [
+            90
+        ], 
+        "GUID": [
+            "09f155f8-4bf9-49b7-b9d9-5e3402faff9b"
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:Tech-Coops_Meetup", 
+        "Has end time": [
+            "1514572200"
         ]
     }, 
     "Session:Hacks/Hackers Meetup# b5549a388ea619686591d6cbf886239a": {
