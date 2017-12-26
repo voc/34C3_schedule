@@ -16,35 +16,7 @@
                         "Komona Coral Reef": [], 
                         "Lecture room 11": [
                             {
-                                "id": 1014, 
-                                "guid": "4e77ac4f-012b-4132-8079-c16fd0f600fd", 
-                                "logo": null, 
-                                "date": "2017-12-26T21:30:00+01:00", 
-                                "start": "21:30", 
-                                "duration": "2:00", 
-                                "room": "Lecture room 11", 
-                                "slug": "", 
-                                "title": "A/V Angel Meeting", 
-                                "subtitle": "Introduction meeting", 
-                                "track": "self organized sessions", 
-                                "type": "meeting", 
-                                "language": "de", 
-                                "abstract": "", 
-                                "description": "Daily A/V Angel Meeting: Feedback and Shift Distribution", 
-                                "persons": [
-                                    {
-                                        "id": 0, 
-                                        "url": "https://events.ccc.de/congress/2017/wiki/index.php/User:Jwacalex", 
-                                        "public_name": "Jwacalex"
-                                    }
-                                ], 
-                                "links": [
-                                    "https://c3voc.de", 
-                                    "https://events.ccc.de/congress/2017/wiki/index.php/Session:A/V_Angel_Meeting"
-                                ]
-                            }, 
-                            {
-                                "id": 1017, 
+                                "id": 1015, 
                                 "guid": "3e6ca324-cc11-4403-b0ce-bd621d931cd6", 
                                 "logo": null, 
                                 "date": "2017-12-26T23:30:00+01:00", 
@@ -72,7 +44,35 @@
                                 ]
                             }, 
                             {
-                                "id": 1281, 
+                                "id": 1016, 
+                                "guid": "4e77ac4f-012b-4132-8079-c16fd0f600fd", 
+                                "logo": null, 
+                                "date": "2017-12-26T21:30:00+01:00", 
+                                "start": "21:30", 
+                                "duration": "2:00", 
+                                "room": "Lecture room 11", 
+                                "slug": "", 
+                                "title": "A/V Angel Meeting", 
+                                "subtitle": "Introduction meeting", 
+                                "track": "self organized sessions", 
+                                "type": "meeting", 
+                                "language": "de", 
+                                "abstract": "", 
+                                "description": "Daily A/V Angel Meeting: Feedback and Shift Distribution", 
+                                "persons": [
+                                    {
+                                        "id": 0, 
+                                        "url": "https://events.ccc.de/congress/2017/wiki/index.php/User:Jwacalex", 
+                                        "public_name": "Jwacalex"
+                                    }
+                                ], 
+                                "links": [
+                                    "https://c3voc.de", 
+                                    "https://events.ccc.de/congress/2017/wiki/index.php/Session:A/V_Angel_Meeting"
+                                ]
+                            }, 
+                            {
+                                "id": 1280, 
                                 "guid": "2f8b0e3d-e4bc-56f3-a96d-3c7559fd753f", 
                                 "logo": null, 
                                 "date": "2017-12-26T20:00:00+01:00", 
@@ -128,7 +128,28 @@
                         "Komona D.Ressrosa": [], 
                         "Seminar room 14-15": [
                             {
-                                "id": 1026, 
+                                "id": 1024, 
+                                "guid": "5e7bb2b0-f5ea-598b-9f57-a08f05420984", 
+                                "logo": null, 
+                                "date": "2017-12-26T20:15:00+01:00", 
+                                "start": "20:15", 
+                                "duration": "0:45", 
+                                "room": "Seminar room 14-15", 
+                                "slug": "", 
+                                "title": "Angel Meeting", 
+                                "subtitle": "Introduction meeting for new angels Day 0", 
+                                "track": "self organized sessions", 
+                                "type": "meeting", 
+                                "language": "en", 
+                                "abstract": "", 
+                                "description": "Daily meetings of the Angel crew.", 
+                                "persons": [], 
+                                "links": [
+                                    "https://events.ccc.de/congress/2017/wiki/index.php/Session:Angel_Meeting"
+                                ]
+                            }, 
+                            {
+                                "id": 1028, 
                                 "guid": "e54328ce-06f7-5578-bccb-0653404d932e", 
                                 "logo": null, 
                                 "date": "2017-12-26T13:00:00+01:00", 
@@ -149,7 +170,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1027, 
+                                "id": 1029, 
                                 "guid": "3b5cf5d2-7d5d-51ba-8798-dc60e10c8985", 
                                 "logo": null, 
                                 "date": "2017-12-26T19:30:00+01:00", 
@@ -159,27 +180,6 @@
                                 "slug": "", 
                                 "title": "Angel Meeting", 
                                 "subtitle": "Welcome meeting Day 0", 
-                                "track": "self organized sessions", 
-                                "type": "meeting", 
-                                "language": "en", 
-                                "abstract": "", 
-                                "description": "Daily meetings of the Angel crew.", 
-                                "persons": [], 
-                                "links": [
-                                    "https://events.ccc.de/congress/2017/wiki/index.php/Session:Angel_Meeting"
-                                ]
-                            }, 
-                            {
-                                "id": 1028, 
-                                "guid": "5e7bb2b0-f5ea-598b-9f57-a08f05420984", 
-                                "logo": null, 
-                                "date": "2017-12-26T20:15:00+01:00", 
-                                "start": "20:15", 
-                                "duration": "0:45", 
-                                "room": "Seminar room 14-15", 
-                                "slug": "", 
-                                "title": "Angel Meeting", 
-                                "subtitle": "Introduction meeting for new angels Day 0", 
                                 "track": "self organized sessions", 
                                 "type": "meeting", 
                                 "language": "en", 
@@ -259,7 +259,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1205, 
+                                "id": 1206, 
                                 "guid": "939c5253-417d-40b3-afe1-9b7cef1bf932", 
                                 "logo": null, 
                                 "date": "2017-12-27T18:00:00+01:00", 
@@ -328,7 +328,7 @@
                         ], 
                         "Lecture room 11": [
                             {
-                                "id": 1015, 
+                                "id": 1017, 
                                 "guid": "f5f69c30-2863-4817-a663-b248274c87ac", 
                                 "logo": null, 
                                 "date": "2017-12-27T20:15:00+01:00", 
@@ -404,7 +404,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1279, 
+                                "id": 1278, 
                                 "guid": "b5b51e08-260a-5c3d-a507-556103837de6", 
                                 "logo": null, 
                                 "date": "2017-12-27T17:00:00+01:00", 
@@ -1371,11 +1371,11 @@
                         ], 
                         "Komona D.Ressrosa": [
                             {
-                                "id": 1206, 
+                                "id": 1205, 
                                 "guid": "1191f1bd-7e79-40a2-aff6-6d843352ab47", 
                                 "logo": null, 
-                                "date": "2017-12-27T20:00:00+01:00", 
-                                "start": "20:00", 
+                                "date": "2017-12-27T14:00:00+01:00", 
+                                "start": "14:00", 
                                 "duration": "2:00", 
                                 "room": "Komona D.Ressrosa", 
                                 "slug": "", 
@@ -1392,11 +1392,11 @@
                                 ]
                             }, 
                             {
-                                "id": 1206, 
+                                "id": 1205, 
                                 "guid": "1191f1bd-7e79-40a2-aff6-6d843352ab47", 
                                 "logo": null, 
-                                "date": "2017-12-27T14:00:00+01:00", 
-                                "start": "14:00", 
+                                "date": "2017-12-27T20:00:00+01:00", 
+                                "start": "20:00", 
                                 "duration": "2:00", 
                                 "room": "Komona D.Ressrosa", 
                                 "slug": "", 
@@ -1480,7 +1480,28 @@
                         ], 
                         "Seminar room 14-15": [
                             {
-                                "id": 1024, 
+                                "id": 1025, 
+                                "guid": "579eab72-fbd6-5ba7-ad7a-59bcab0272ad", 
+                                "logo": null, 
+                                "date": "2017-12-27T12:45:00+01:00", 
+                                "start": "12:45", 
+                                "duration": "0:45", 
+                                "room": "Seminar room 14-15", 
+                                "slug": "", 
+                                "title": "Angel Meeting", 
+                                "subtitle": "Angel meeting Day 1", 
+                                "track": "self organized sessions", 
+                                "type": "meeting", 
+                                "language": "en", 
+                                "abstract": "", 
+                                "description": "Daily meetings of the Angel crew.", 
+                                "persons": [], 
+                                "links": [
+                                    "https://events.ccc.de/congress/2017/wiki/index.php/Session:Angel_Meeting"
+                                ]
+                            }, 
+                            {
+                                "id": 1026, 
                                 "guid": "a8254a36-ca09-5c68-8e0b-1399b8a94247", 
                                 "logo": null, 
                                 "date": "2017-12-27T16:30:00+01:00", 
@@ -1501,7 +1522,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1025, 
+                                "id": 1027, 
                                 "guid": "a7083f65-5e8b-52cb-b008-af59762bb115", 
                                 "logo": null, 
                                 "date": "2017-12-27T17:15:00+01:00", 
@@ -1511,27 +1532,6 @@
                                 "slug": "", 
                                 "title": "Angel Meeting", 
                                 "subtitle": "Introduction meeting for new angels Day 1", 
-                                "track": "self organized sessions", 
-                                "type": "meeting", 
-                                "language": "en", 
-                                "abstract": "", 
-                                "description": "Daily meetings of the Angel crew.", 
-                                "persons": [], 
-                                "links": [
-                                    "https://events.ccc.de/congress/2017/wiki/index.php/Session:Angel_Meeting"
-                                ]
-                            }, 
-                            {
-                                "id": 1029, 
-                                "guid": "579eab72-fbd6-5ba7-ad7a-59bcab0272ad", 
-                                "logo": null, 
-                                "date": "2017-12-27T12:45:00+01:00", 
-                                "start": "12:45", 
-                                "duration": "0:45", 
-                                "room": "Seminar room 14-15", 
-                                "slug": "", 
-                                "title": "Angel Meeting", 
-                                "subtitle": "Angel meeting Day 1", 
                                 "track": "self organized sessions", 
                                 "type": "meeting", 
                                 "language": "en", 
@@ -1744,7 +1744,7 @@
                         ], 
                         "Komona Blue Princess": [
                             {
-                                "id": 1023, 
+                                "id": 1022, 
                                 "guid": "604ff957-cc9f-4bde-b138-feae84fa0202", 
                                 "logo": null, 
                                 "date": "2017-12-27T20:00:00+01:00", 
@@ -2221,7 +2221,7 @@
                         ], 
                         "Lecture room 11": [
                             {
-                                "id": 1016, 
+                                "id": 1014, 
                                 "guid": "2b6595ff-c32b-44aa-9bda-e411e5911162", 
                                 "logo": null, 
                                 "date": "2017-12-28T20:15:00+01:00", 
@@ -2331,7 +2331,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1280, 
+                                "id": 1279, 
                                 "guid": "9b5087f5-f903-5324-9672-50105ed38e1b", 
                                 "logo": null, 
                                 "date": "2017-12-28T17:00:00+01:00", 
@@ -3810,7 +3810,7 @@
                         ], 
                         "Komona Blue Princess": [
                             {
-                                "id": 1022, 
+                                "id": 1023, 
                                 "guid": "7fb99fd0-8292-45d4-b4bb-43a32faa9549", 
                                 "logo": null, 
                                 "date": "2017-12-28T20:00:00+01:00", 
@@ -4242,7 +4242,7 @@
                         ], 
                         "Lecture room 11": [
                             {
-                                "id": 1016, 
+                                "id": 1014, 
                                 "guid": "2b6595ff-c32b-44aa-9bda-e411e5911162", 
                                 "logo": null, 
                                 "date": "2017-12-29T20:15:00+01:00", 
@@ -5005,11 +5005,11 @@
                             }, 
                             {
                                 "id": 1302, 
-                                "guid": "2908d355-9054-4c8f-8a7f-33e677435c1d", 
+                                "guid": "cc28d9e0-c2e8-4e48-862e-5e5f489eb214", 
                                 "logo": null, 
-                                "date": "2017-12-29T14:00:00+01:00", 
-                                "start": "14:00", 
-                                "duration": "2:00", 
+                                "date": "2017-12-29T18:00:00+01:00", 
+                                "start": "18:00", 
+                                "duration": "4:00", 
                                 "room": "Chaos West Stage", 
                                 "slug": "", 
                                 "title": "Ybti+wefixthenet", 
@@ -5033,11 +5033,11 @@
                             }, 
                             {
                                 "id": 1303, 
-                                "guid": "cc28d9e0-c2e8-4e48-862e-5e5f489eb214", 
+                                "guid": "2908d355-9054-4c8f-8a7f-33e677435c1d", 
                                 "logo": null, 
-                                "date": "2017-12-29T18:00:00+01:00", 
-                                "start": "18:00", 
-                                "duration": "4:00", 
+                                "date": "2017-12-29T14:00:00+01:00", 
+                                "start": "14:00", 
+                                "duration": "2:00", 
                                 "room": "Chaos West Stage", 
                                 "slug": "", 
                                 "title": "Ybti+wefixthenet", 
@@ -5696,7 +5696,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1278, 
+                                "id": 1281, 
                                 "guid": "f3a30985-fc90-51f2-baa3-a07d034bffcc", 
                                 "logo": null, 
                                 "date": "2017-12-29T17:30:00+01:00", 
