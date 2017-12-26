@@ -50,54 +50,6 @@
             "1514491200"
         ]
     }, 
-    "Session:WireGuard# 7ff5d04bbb77fd089e25000888fd3ac3": {
-        "Held in language": [
-            "en - English"
-        ], 
-        "Has start time": [
-            "1514555100"
-        ], 
-        "Has event track": [
-            "Session"
-        ], 
-        "Has website": [
-            "https://www.wireguard.com/"
-        ], 
-        "Has description": [
-            "WireGuard is a next generation secure network tunnel, which uses state of the art cryptography. This workshop will discuss what WireGuard is, the cryptography behind it, some interesting kernel engineering tricks it uses, and how you too can use it. There will be copious quantities of free stickers. The session will be fairly open and free form. The creator of WireGuard will have an endless quantity of material of his own to present, but more generally, we'll open it up to whatever people want to discuss and collaborate on. If you're interested in kernel programming, networking, cryptography, or security, this is a key workshop to attend."
-        ], 
-        "Has session type": [
-            "Workshop"
-        ], 
-        "Has session location": [
-            {
-                "fulltext": "Room:Lecture room 11", 
-                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Room:Lecture_room_11", 
-                "namespace": 516, 
-                "exists": true
-            }
-        ], 
-        "Has subtitle": [
-            "In-depth"
-        ], 
-        "Is organized by": [], 
-        "Has title": [
-            "WireGuard"
-        ], 
-        "Has duration": [
-            150
-        ], 
-        "GUID": [
-            "053ee696-3bcc-4c33-92f2-330bb687f008"
-        ], 
-        "Has color": [
-            "#0099ab"
-        ], 
-        "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:WireGuard", 
-        "Has end time": [
-            "1514564100"
-        ]
-    }, 
     "Session:Hacking with wget# 68066760b7c9155486b3ca3bfd2ea9fc": {
         "Held in language": [
             "en - English"
@@ -2797,54 +2749,49 @@
             "1514332800"
         ]
     }, 
-    "Session:Join us now - a choir to perform the Free Software song# 9eae42f269c234aa7f58cd1117780d8c": {
+    "Session:WireGuard# 8e454d077334f74a36c90632a5d418a6": {
         "Held in language": [
             "en - English"
         ], 
-        "Has start time": [
-            "1514556000"
-        ], 
+        "Has start time": [], 
         "Has event track": [
             "Session"
         ], 
-        "Has website": [], 
-        "Has description": [], 
+        "Has website": [
+            "https://www.wireguard.com/"
+        ], 
+        "Has description": [
+            "WireGuard is a next generation secure network tunnel, which uses state of the art cryptography. This workshop will discuss what WireGuard is, the cryptography behind it, some interesting kernel engineering tricks it uses, and how you too can use it. There will be copious quantities of free stickers. The session will be fairly open and free form. The creator of WireGuard will have an endless quantity of material of his own to present, but more generally, we'll open it up to whatever people want to discuss and collaborate on. If you're interested in kernel programming, networking, cryptography, or security, this is a key workshop to attend."
+        ], 
         "Has session type": [
             "Workshop"
         ], 
         "Has session location": [
             {
-                "fulltext": "Room:Seminar room 13", 
-                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Room:Seminar_room_13", 
+                "fulltext": "Room:Lecture room 11", 
+                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Room:Lecture_room_11", 
                 "namespace": 516, 
                 "exists": true
             }
         ], 
-        "Has subtitle": [], 
-        "Is organized by": [
-            {
-                "fulltext": "User:Eal", 
-                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/User:Eal", 
-                "namespace": 2, 
-                "exists": true
-            }
+        "Has subtitle": [
+            "In-depth"
         ], 
+        "Is organized by": [], 
         "Has title": [
-            "Join us now - a choir to perform the Free Software song"
+            "WireGuard"
         ], 
         "Has duration": [
-            120
+            150
         ], 
         "GUID": [
-            "bbc38995-f7c5-453b-a572-1be0ea022b1f"
+            "053ee696-3bcc-4c33-92f2-330bb687f008"
         ], 
         "Has color": [
             "#0099ab"
         ], 
-        "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:Join_us_now_-_a_choir_to_perform_the_Free_Software_song", 
-        "Has end time": [
-            "1514563200"
-        ]
+        "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:WireGuard", 
+        "Has end time": []
     }, 
     "Session:A/V Angel Meeting# 1ab124b2b2aed4dbc021be006ee4bd18": {
         "Held in language": [
@@ -10031,6 +9978,50 @@
             "1514561400"
         ]
     }, 
+    "Session:Hedonist International Networking Meeting+Workshop for 2018s Congress Convoy# 2820e42d1bc4f832aebb97de5c348a4e": {
+        "Held in language": [
+            "en - English"
+        ], 
+        "Has start time": [
+            "1514476800"
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [], 
+        "Has description": [
+            "Hedonist International Networking Meeting & Workshop for 2018s Congress Convoy (All Interested Creatures welcome!)"
+        ], 
+        "Has session type": [
+            "Workshop"
+        ], 
+        "Has session location": [
+            {
+                "fulltext": "Room:Komona Coral Reef", 
+                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Room:Komona_Coral_Reef", 
+                "namespace": 516, 
+                "exists": true
+            }
+        ], 
+        "Has subtitle": [], 
+        "Is organized by": [], 
+        "Has title": [
+            "Hedonist International Networking Meeting+Workshop for 2018s Congress Convoy"
+        ], 
+        "Has duration": [
+            120
+        ], 
+        "GUID": [
+            "4f923383-61ee-4648-b40d-c66930b695a8"
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:Hedonist_International_Networking_Meeting%2BWorkshop_for_2018s_Congress_Convoy", 
+        "Has end time": [
+            "1514484000"
+        ]
+    }, 
     "Session:Chaos-Notizen# f90aa84469346a8747b774faaf1509e0": {
         "Held in language": [
             "de - German"
@@ -10447,49 +10438,50 @@
             "1514473200"
         ]
     }, 
-    "Session:Hedonist International Networking Meeting+Workshop for 2018s Congress Convoy# 2820e42d1bc4f832aebb97de5c348a4e": {
+    "Session:Join us now - a choir to perform the Free Software song# 8208addaabbbe55a827329c89b71ae96": {
         "Held in language": [
             "en - English"
         ], 
-        "Has start time": [
-            "1514476800"
-        ], 
+        "Has start time": [], 
         "Has event track": [
             "Session"
         ], 
         "Has website": [], 
-        "Has description": [
-            "Hedonist International Networking Meeting & Workshop for 2018s Congress Convoy (All Interested Creatures welcome!)"
-        ], 
+        "Has description": [], 
         "Has session type": [
             "Workshop"
         ], 
         "Has session location": [
             {
-                "fulltext": "Room:Komona Coral Reef", 
-                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Room:Komona_Coral_Reef", 
+                "fulltext": "Room:Seminar room 13", 
+                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Room:Seminar_room_13", 
                 "namespace": 516, 
                 "exists": true
             }
         ], 
         "Has subtitle": [], 
-        "Is organized by": [], 
+        "Is organized by": [
+            {
+                "fulltext": "User:Eal", 
+                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/User:Eal", 
+                "namespace": 2, 
+                "exists": true
+            }
+        ], 
         "Has title": [
-            "Hedonist International Networking Meeting+Workshop for 2018s Congress Convoy"
+            "Join us now - a choir to perform the Free Software song"
         ], 
         "Has duration": [
             120
         ], 
         "GUID": [
-            "4f923383-61ee-4648-b40d-c66930b695a8"
+            "bbc38995-f7c5-453b-a572-1be0ea022b1f"
         ], 
         "Has color": [
             "#0099ab"
         ], 
-        "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:Hedonist_International_Networking_Meeting%2BWorkshop_for_2018s_Congress_Convoy", 
-        "Has end time": [
-            "1514484000"
-        ]
+        "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:Join_us_now_-_a_choir_to_perform_the_Free_Software_song", 
+        "Has end time": []
     }, 
     "Session:Workshop on prison and justice system# aa4f232c54d5a527187a24da791a09b6": {
         "Held in language": [
