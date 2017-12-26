@@ -3093,6 +3093,52 @@
             "1514476800"
         ]
     }, 
+    "No Session# 505a3d6c59ca47a4d1dad93278b4d81f": {
+        "Held in language": [
+            "en - English"
+        ], 
+        "Has start time": [
+            "1514545200"
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [
+            "https://twitter.com/SycretSoul"
+        ], 
+        "Has description": [], 
+        "Has session type": [
+            "Discussion"
+        ], 
+        "Has session location": [
+            {
+                "fulltext": "Room:Lecture room 11", 
+                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Room:Lecture_room_11", 
+                "namespace": 516, 
+                "exists": true
+            }
+        ], 
+        "Has subtitle": [
+            "Polyamory - n:n relationships  discussion"
+        ], 
+        "Is organized by": [], 
+        "Has title": [
+            "No Session"
+        ], 
+        "Has duration": [
+            90
+        ], 
+        "GUID": [
+            "a57480d8-7fa2-4a9f-80a4-246071562819"
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/No_Session", 
+        "Has end time": [
+            "1514550600"
+        ]
+    }, 
     "Session:Angel Meeting# 075d3e480a396cae5fcbc55989a88ca2": {
         "Held in language": [
             "en - English", 
@@ -6925,6 +6971,12 @@
             {
                 "fulltext": "User:Andrenarchy", 
                 "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/User:Andrenarchy", 
+                "namespace": 2, 
+                "exists": true
+            }, 
+            {
+                "fulltext": "User:Pseyfert", 
+                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/User:Pseyfert", 
                 "namespace": 2, 
                 "exists": true
             }
@@ -12806,6 +12858,50 @@
             "1514599200"
         ]
     }, 
+    "Session:Queer Feminist Geeks Gathering# a0e2a240223fa9934e13c641cac09419": {
+        "Held in language": [
+            "en - English"
+        ], 
+        "Has start time": [
+            "1514386800"
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [], 
+        "Has description": [
+            "We will talk a bit about our assembly and what we are doing there, exchange projects and ideas, and network with each other. This meetup is open to people of all genders, but please be mindful of how much space you are taking up. Especially if you are white, male, straight and cis, please try to actively listen instead of talking.\n\nThis is our Code of Conduct:\nhttps://events.ccc.de/congress/2015/wiki/Projects:Code_of_Conduct_of_the_Queer_Feminist_Geek_Assembly"
+        ], 
+        "Has session type": [
+            "Meeting"
+        ], 
+        "Has session location": [
+            {
+                "fulltext": "Room:Lecture room 11", 
+                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Room:Lecture_room_11", 
+                "namespace": 516, 
+                "exists": true
+            }
+        ], 
+        "Has subtitle": [], 
+        "Is organized by": [], 
+        "Has title": [
+            "Queer Feminist Geeks Gathering"
+        ], 
+        "Has duration": [
+            60
+        ], 
+        "GUID": [
+            "2531e3ab-f5e9-43e4-993d-8f55f54cfd65"
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:Queer_Feminist_Geeks_Gathering", 
+        "Has end time": [
+            "1514390400"
+        ]
+    }, 
     "Session:Anarchist hackers - Hispagatos International anarchist-hacker collective# f4e3df0aa42144573fba6a03c70378e1": {
         "Held in language": [
             "en - English", 
@@ -14845,52 +14941,6 @@
         "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:%22Pen%26Paper%22_Game_Jam", 
         "Has end time": [
             "1514635200"
-        ]
-    }, 
-    "Session:Polyamory - n:n relationships extended# 54ac1f67f0e4d5200996c9e509286348": {
-        "Held in language": [
-            "en - English"
-        ], 
-        "Has start time": [
-            "1514545200"
-        ], 
-        "Has event track": [
-            "Session"
-        ], 
-        "Has website": [
-            "https://twitter.com/SycretSoul"
-        ], 
-        "Has description": [], 
-        "Has session type": [
-            "Discussion"
-        ], 
-        "Has session location": [
-            {
-                "fulltext": "Room:Lecture room 11", 
-                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Room:Lecture_room_11", 
-                "namespace": 516, 
-                "exists": true
-            }
-        ], 
-        "Has subtitle": [
-            "Polyamory - n:n relationships  discussion"
-        ], 
-        "Is organized by": [], 
-        "Has title": [
-            "Polyamory - n:n relationships extended"
-        ], 
-        "Has duration": [
-            90
-        ], 
-        "GUID": [
-            "a57480d8-7fa2-4a9f-80a4-246071562819"
-        ], 
-        "Has color": [
-            "#0099ab"
-        ], 
-        "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:Polyamory_-_n:n_relationships_extended", 
-        "Has end time": [
-            "1514550600"
         ]
     }, 
     "Session:Lainchan Meetup# 662e9a9620ba88db76469bba5e2c3bd3": {
