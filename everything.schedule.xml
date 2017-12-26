@@ -1735,7 +1735,7 @@ Für eine Digitalisierung im Sinne der Freiheit und der gesellschaftlichen Weite
           <link>https://events.ccc.de/congress/2017/wiki/index.php/Session:Cryptoparty</link>
         </links>
       </event>
-      <event id="1203" guid="939c5253-417d-40b3-afe1-9b7cef1bf932">
+      <event id="1202" guid="939c5253-417d-40b3-afe1-9b7cef1bf932">
         <logo/>
         <date>2017-12-27T18:00:00+01:00</date>
         <start>18:00</start>
@@ -1778,7 +1778,7 @@ It takes about 30 minutes to copy a fullsize adult leg. We will have two hours s
       </event>
     </room>
     <room name="Lecture room 11">
-      <event id="1015" guid="f5f69c30-2863-4817-a663-b248274c87ac">
+      <event id="1017" guid="f5f69c30-2863-4817-a663-b248274c87ac">
         <logo/>
         <date>2017-12-27T20:15:00+01:00</date>
         <start>20:15</start>
@@ -2353,26 +2353,7 @@ the example of Thunderbird.</description>
       </event>
     </room>
     <room name="Komona D.Ressrosa">
-      <event id="1202" guid="1191f1bd-7e79-40a2-aff6-6d843352ab47">
-        <logo/>
-        <date>2017-12-27T14:00:00+01:00</date>
-        <start>14:00</start>
-        <duration>2:00</duration>
-        <room>Komona D.Ressrosa</room>
-        <slug/>
-        <title>Reclaim Club Culture</title>
-        <subtitle/>
-        <track>self organized sessions</track>
-        <type/>
-        <language/>
-        <abstract/>
-        <description/>
-        <persons/>
-        <links>
-          <link>https://events.ccc.de/congress/2017/wiki/index.php/Session:Reclaim_Club_Culture</link>
-        </links>
-      </event>
-      <event id="1202" guid="1191f1bd-7e79-40a2-aff6-6d843352ab47">
+      <event id="1203" guid="1191f1bd-7e79-40a2-aff6-6d843352ab47">
         <logo/>
         <date>2017-12-27T20:00:00+01:00</date>
         <start>20:00</start>
@@ -2395,6 +2376,25 @@ the example of Thunderbird.</description>
         <logo/>
         <date>2017-12-27T12:00:00+01:00</date>
         <start>12:00</start>
+        <duration>2:00</duration>
+        <room>Komona D.Ressrosa</room>
+        <slug/>
+        <title>Reclaim Club Culture</title>
+        <subtitle/>
+        <track>self organized sessions</track>
+        <type/>
+        <language/>
+        <abstract/>
+        <description/>
+        <persons/>
+        <links>
+          <link>https://events.ccc.de/congress/2017/wiki/index.php/Session:Reclaim_Club_Culture</link>
+        </links>
+      </event>
+      <event id="1203" guid="1191f1bd-7e79-40a2-aff6-6d843352ab47">
+        <logo/>
+        <date>2017-12-27T14:00:00+01:00</date>
+        <start>14:00</start>
         <duration>2:00</duration>
         <room>Komona D.Ressrosa</room>
         <slug/>
@@ -2452,26 +2452,7 @@ the example of Thunderbird.</description>
       </event>
     </room>
     <room name="Seminar room 14-15">
-      <event id="1024" guid="a7083f65-5e8b-52cb-b008-af59762bb115">
-        <logo/>
-        <date>2017-12-27T17:15:00+01:00</date>
-        <start>17:15</start>
-        <duration>0:45</duration>
-        <room>Seminar room 14-15</room>
-        <slug/>
-        <title>Angel Meeting</title>
-        <subtitle>Introduction meeting for new angels Day 1</subtitle>
-        <track>self organized sessions</track>
-        <type>meeting</type>
-        <language>en</language>
-        <abstract/>
-        <description>Daily meetings of the Angel crew.</description>
-        <persons/>
-        <links>
-          <link>https://events.ccc.de/congress/2017/wiki/index.php/Session:Angel_Meeting</link>
-        </links>
-      </event>
-      <event id="1028" guid="579eab72-fbd6-5ba7-ad7a-59bcab0272ad">
+      <event id="1026" guid="579eab72-fbd6-5ba7-ad7a-59bcab0272ad">
         <logo/>
         <date>2017-12-27T12:45:00+01:00</date>
         <start>12:45</start>
@@ -2490,7 +2471,7 @@ the example of Thunderbird.</description>
           <link>https://events.ccc.de/congress/2017/wiki/index.php/Session:Angel_Meeting</link>
         </links>
       </event>
-      <event id="1029" guid="a8254a36-ca09-5c68-8e0b-1399b8a94247">
+      <event id="1027" guid="a8254a36-ca09-5c68-8e0b-1399b8a94247">
         <logo/>
         <date>2017-12-27T16:30:00+01:00</date>
         <start>16:30</start>
@@ -2499,6 +2480,25 @@ the example of Thunderbird.</description>
         <slug/>
         <title>Angel Meeting</title>
         <subtitle>Angel meeting Day 1</subtitle>
+        <track>self organized sessions</track>
+        <type>meeting</type>
+        <language>en</language>
+        <abstract/>
+        <description>Daily meetings of the Angel crew.</description>
+        <persons/>
+        <links>
+          <link>https://events.ccc.de/congress/2017/wiki/index.php/Session:Angel_Meeting</link>
+        </links>
+      </event>
+      <event id="1028" guid="a7083f65-5e8b-52cb-b008-af59762bb115">
+        <logo/>
+        <date>2017-12-27T17:15:00+01:00</date>
+        <start>17:15</start>
+        <duration>0:45</duration>
+        <room>Seminar room 14-15</room>
+        <slug/>
+        <title>Angel Meeting</title>
+        <subtitle>Introduction meeting for new angels Day 1</subtitle>
         <track>self organized sessions</track>
         <type>meeting</type>
         <language>en</language>
@@ -2696,7 +2696,7 @@ Die Webseite ist zusammen mit Trickmisch.de, einer Sprachschule von uns für Ank
       </event>
     </room>
     <room name="Komona Blue Princess">
-      <event id="1023" guid="604ff957-cc9f-4bde-b138-feae84fa0202">
+      <event id="1022" guid="604ff957-cc9f-4bde-b138-feae84fa0202">
         <logo/>
         <date>2017-12-27T20:00:00+01:00</date>
         <start>20:00</start>
@@ -3571,15 +3571,15 @@ welche sticker denn? (fast) alle! -- künstlerisch, kritisch, politisch, whateve
           <link>https://events.ccc.de/congress/2017/wiki/index.php/Session:TeaHouse</link>
         </links>
       </event>
-      <event id="1266" guid="2fe2c9a3-8e76-4542-afb8-6505fed72094">
+      <event id="1265" guid="0684a69d-9796-4946-9955-84cfafe8cb64">
         <logo/>
-        <date>2017-12-27T13:00:00+01:00</date>
-        <start>13:00</start>
-        <duration>0:45</duration>
+        <date>2017-12-27T19:00:00+01:00</date>
+        <start>19:00</start>
+        <duration>1:30</duration>
         <room>Assembly:TeaHouse</room>
         <slug/>
         <title>TeaHouse</title>
-        <subtitle>Welcome to the TeaHouse</subtitle>
+        <subtitle>Dr. Peng saves the world</subtitle>
         <track>self organized sessions</track>
         <type>meeting</type>
         <language>en</language>
@@ -3593,15 +3593,15 @@ welche sticker denn? (fast) alle! -- künstlerisch, kritisch, politisch, whateve
           <link>https://events.ccc.de/congress/2017/wiki/index.php/Session:TeaHouse</link>
         </links>
       </event>
-      <event id="1265" guid="0684a69d-9796-4946-9955-84cfafe8cb64">
+      <event id="1267" guid="2fe2c9a3-8e76-4542-afb8-6505fed72094">
         <logo/>
-        <date>2017-12-27T19:00:00+01:00</date>
-        <start>19:00</start>
-        <duration>1:30</duration>
+        <date>2017-12-27T13:00:00+01:00</date>
+        <start>13:00</start>
+        <duration>0:45</duration>
         <room>Assembly:TeaHouse</room>
         <slug/>
         <title>TeaHouse</title>
-        <subtitle>Dr. Peng saves the world</subtitle>
+        <subtitle>Welcome to the TeaHouse</subtitle>
         <track>self organized sessions</track>
         <type>meeting</type>
         <language>en</language>
@@ -5414,7 +5414,7 @@ Contact best via twitter @ENDSTATIONSUEDX</description>
       </event>
     </room>
     <room name="Lecture room 11">
-      <event id="1016" guid="2b6595ff-c32b-44aa-9bda-e411e5911162">
+      <event id="1014" guid="2b6595ff-c32b-44aa-9bda-e411e5911162">
         <logo/>
         <date>2017-12-28T20:15:00+01:00</date>
         <start>20:15</start>
@@ -5480,7 +5480,7 @@ In diesem talk möchte ich grob skizzieren, wie das System funktioniert und wie 
           <link>https://events.ccc.de/congress/2017/wiki/index.php/Session:Chaos_Communication_Choir</link>
         </links>
       </event>
-      <event id="1145" guid="07142f3d-b450-4cac-94c7-9bb95f78339b">
+      <event id="1146" guid="07142f3d-b450-4cac-94c7-9bb95f78339b">
         <logo/>
         <date>2017-12-28T15:00:00+01:00</date>
         <start>15:00</start>
@@ -6574,7 +6574,7 @@ Die Webseite ist zusammen mit Trickmisch.de, einer Sprachschule von uns für Ank
       </event>
     </room>
     <room name="Komona Blue Princess">
-      <event id="1022" guid="7fb99fd0-8292-45d4-b4bb-43a32faa9549">
+      <event id="1023" guid="7fb99fd0-8292-45d4-b4bb-43a32faa9549">
         <logo/>
         <date>2017-12-28T20:00:00+01:00</date>
         <start>20:00</start>
@@ -7502,28 +7502,6 @@ Location: lakeside of "Merkurbrunnen" close to the main entrance</description>
       </event>
       <event id="1263" guid="68c26941-115f-4ada-8ed5-d0e4217680cf">
         <logo/>
-        <date>2017-12-28T14:30:00+01:00</date>
-        <start>14:30</start>
-        <duration>0:45</duration>
-        <room>Assembly:TeaHouse</room>
-        <slug/>
-        <title>TeaHouse</title>
-        <subtitle>Glider Ink: hacker movement in the popular culture</subtitle>
-        <track>self organized sessions</track>
-        <type>meeting</type>
-        <language>en</language>
-        <abstract/>
-        <description/>
-        <persons>
-          <person id="0" href="https://events.ccc.de/congress/2017/wiki/index.php/User:Sanpi">Sanpi</person>
-        </persons>
-        <links>
-          <link>https://teahouse.homecomputing.fr/</link>
-          <link>https://events.ccc.de/congress/2017/wiki/index.php/Session:TeaHouse</link>
-        </links>
-      </event>
-      <event id="1263" guid="68c26941-115f-4ada-8ed5-d0e4217680cf">
-        <logo/>
         <date>2017-12-28T19:00:00+01:00</date>
         <start>19:00</start>
         <duration>1:00</duration>
@@ -7566,7 +7544,7 @@ Location: lakeside of "Merkurbrunnen" close to the main entrance</description>
           <link>https://events.ccc.de/congress/2017/wiki/index.php/Session:TeaHouse</link>
         </links>
       </event>
-      <event id="1267" guid="fa3d8ee5-d1ff-4b29-a763-a49f7b882ceb">
+      <event id="1266" guid="fa3d8ee5-d1ff-4b29-a763-a49f7b882ceb">
         <logo/>
         <date>2017-12-28T17:30:00+01:00</date>
         <start>17:30</start>
@@ -7632,9 +7610,31 @@ Location: lakeside of "Merkurbrunnen" close to the main entrance</description>
           <link>https://events.ccc.de/congress/2017/wiki/index.php/Session:TeaHouse</link>
         </links>
       </event>
+      <event id="1263" guid="68c26941-115f-4ada-8ed5-d0e4217680cf">
+        <logo/>
+        <date>2017-12-28T14:30:00+01:00</date>
+        <start>14:30</start>
+        <duration>0:45</duration>
+        <room>Assembly:TeaHouse</room>
+        <slug/>
+        <title>TeaHouse</title>
+        <subtitle>Glider Ink: hacker movement in the popular culture</subtitle>
+        <track>self organized sessions</track>
+        <type>meeting</type>
+        <language>en</language>
+        <abstract/>
+        <description/>
+        <persons>
+          <person id="0" href="https://events.ccc.de/congress/2017/wiki/index.php/User:Sanpi">Sanpi</person>
+        </persons>
+        <links>
+          <link>https://teahouse.homecomputing.fr/</link>
+          <link>https://events.ccc.de/congress/2017/wiki/index.php/Session:TeaHouse</link>
+        </links>
+      </event>
     </room>
     <room name="Assembly:Kidspace">
-      <event id="1191" guid="e8dec555-2fda-4ff0-817f-bec07a6b847e">
+      <event id="1190" guid="e8dec555-2fda-4ff0-817f-bec07a6b847e">
         <logo/>
         <date>2017-12-28T16:00:00+01:00</date>
         <start>16:00</start>
@@ -9308,7 +9308,7 @@ Es geht darum ein verständliches Bild zu zeichnen von dem, was in Hamburg währ
       </event>
     </room>
     <room name="Lecture room 11">
-      <event id="1016" guid="2b6595ff-c32b-44aa-9bda-e411e5911162">
+      <event id="1014" guid="2b6595ff-c32b-44aa-9bda-e411e5911162">
         <logo/>
         <date>2017-12-29T20:15:00+01:00</date>
         <start>20:15</start>
@@ -9330,7 +9330,7 @@ Es geht darum ein verständliches Bild zu zeichnen von dem, was in Hamburg währ
           <link>https://events.ccc.de/congress/2017/wiki/index.php/Session:A/V_Angel_Meeting</link>
         </links>
       </event>
-      <event id="1016" guid="2b6595ff-c32b-44aa-9bda-e411e5911162">
+      <event id="1014" guid="2b6595ff-c32b-44aa-9bda-e411e5911162">
         <logo/>
         <date>2017-12-29T13:30:00+01:00</date>
         <start>13:30</start>
@@ -9414,7 +9414,7 @@ Es geht darum ein verständliches Bild zu zeichnen von dem, was in Hamburg währ
           <link>https://events.ccc.de/congress/2017/wiki/index.php/Session:Haecksenbreakfast</link>
         </links>
       </event>
-      <event id="1146" guid="e3d9d5b4-b35d-4828-b7af-6cdf33b438cf">
+      <event id="1145" guid="e3d9d5b4-b35d-4828-b7af-6cdf33b438cf">
         <logo/>
         <date>2017-12-29T23:59:00+01:00</date>
         <start>23:59</start>
@@ -9546,13 +9546,13 @@ Es geht darum ein verständliches Bild zu zeichnen von dem, was in Hamburg währ
       </event>
       <event id="1147" guid="11832e8c-2e41-4c8d-8ed8-a908d5638480">
         <logo/>
-        <date>2017-12-30T00:00:00+01:00</date>
-        <start>00:00</start>
+        <date>2017-12-30T02:00:00+01:00</date>
+        <start>02:00</start>
         <duration>2:00</duration>
         <room>Chaos West Stage</room>
         <slug/>
         <title>Klangteppich</title>
-        <subtitle>Raoul Funkler DJ set</subtitle>
+        <subtitle>Alexeyan DJ set</subtitle>
         <track>self organized sessions</track>
         <type>other</type>
         <language>de</language>
@@ -9567,13 +9567,13 @@ Es geht darum ein verständliches Bild zu zeichnen von dem, was in Hamburg währ
       </event>
       <event id="1147" guid="11832e8c-2e41-4c8d-8ed8-a908d5638480">
         <logo/>
-        <date>2017-12-30T02:00:00+01:00</date>
-        <start>02:00</start>
+        <date>2017-12-30T00:00:00+01:00</date>
+        <start>00:00</start>
         <duration>2:00</duration>
         <room>Chaos West Stage</room>
         <slug/>
         <title>Klangteppich</title>
-        <subtitle>Alexeyan DJ set</subtitle>
+        <subtitle>Raoul Funkler DJ set</subtitle>
         <track>self organized sessions</track>
         <type>other</type>
         <language>de</language>
@@ -11196,7 +11196,7 @@ Die Anmeldung erfolgt vor Ort und falls die Zeit im Jugendhack Assembly abgelauf
       </event>
     </room>
     <room name="Assembly:Chaos West">
-      <event id="1190" guid="7855b445-4986-4d70-b114-521f675ce5e4">
+      <event id="1191" guid="7855b445-4986-4d70-b114-521f675ce5e4">
         <logo/>
         <date>2017-12-29T16:00:00+01:00</date>
         <start>16:00</start>
@@ -11262,28 +11262,6 @@ Die Anmeldung erfolgt vor Ort und falls die Zeit im Jugendhack Assembly abgelauf
     <room name="Assembly:TeaHouse">
       <event id="1262" guid="622c5770-b9fc-45ef-b9fc-1533f661e3ec">
         <logo/>
-        <date>2017-12-29T13:00:00+01:00</date>
-        <start>13:00</start>
-        <duration>0:45</duration>
-        <room>Assembly:TeaHouse</room>
-        <slug/>
-        <title>TeaHouse</title>
-        <subtitle>The future of Digital Security education</subtitle>
-        <track>self organized sessions</track>
-        <type>meeting</type>
-        <language>en</language>
-        <abstract/>
-        <description/>
-        <persons>
-          <person id="0" href="https://events.ccc.de/congress/2017/wiki/index.php/User:Sanpi">Sanpi</person>
-        </persons>
-        <links>
-          <link>https://teahouse.homecomputing.fr/</link>
-          <link>https://events.ccc.de/congress/2017/wiki/index.php/Session:TeaHouse</link>
-        </links>
-      </event>
-      <event id="1262" guid="622c5770-b9fc-45ef-b9fc-1533f661e3ec">
-        <logo/>
         <date>2017-12-29T14:30:00+01:00</date>
         <start>14:30</start>
         <duration>1:00</duration>
@@ -11335,6 +11313,28 @@ Die Anmeldung erfolgt vor Ort und falls die Zeit im Jugendhack Assembly abgelauf
         <slug/>
         <title>TeaHouse</title>
         <subtitle>Breaking Bad Crypto</subtitle>
+        <track>self organized sessions</track>
+        <type>meeting</type>
+        <language>en</language>
+        <abstract/>
+        <description/>
+        <persons>
+          <person id="0" href="https://events.ccc.de/congress/2017/wiki/index.php/User:Sanpi">Sanpi</person>
+        </persons>
+        <links>
+          <link>https://teahouse.homecomputing.fr/</link>
+          <link>https://events.ccc.de/congress/2017/wiki/index.php/Session:TeaHouse</link>
+        </links>
+      </event>
+      <event id="1262" guid="622c5770-b9fc-45ef-b9fc-1533f661e3ec">
+        <logo/>
+        <date>2017-12-29T13:00:00+01:00</date>
+        <start>13:00</start>
+        <duration>0:45</duration>
+        <room>Assembly:TeaHouse</room>
+        <slug/>
+        <title>TeaHouse</title>
+        <subtitle>The future of Digital Security education</subtitle>
         <track>self organized sessions</track>
         <type>meeting</type>
         <language>en</language>
@@ -12699,50 +12699,6 @@ welche sticker denn? (fast) alle! -- künstlerisch, kritisch, politisch, whateve
     <room name="Assembly:TeaHouse">
       <event id="1262" guid="622c5770-b9fc-45ef-b9fc-1533f661e3ec">
         <logo/>
-        <date>2017-12-30T13:00:00+01:00</date>
-        <start>13:00</start>
-        <duration>0:20</duration>
-        <room>Assembly:TeaHouse</room>
-        <slug/>
-        <title>TeaHouse</title>
-        <subtitle>εxodus reveals hidden trackers in Android applications</subtitle>
-        <track>self organized sessions</track>
-        <type>meeting</type>
-        <language>en</language>
-        <abstract/>
-        <description/>
-        <persons>
-          <person id="0" href="https://events.ccc.de/congress/2017/wiki/index.php/User:Sanpi">Sanpi</person>
-        </persons>
-        <links>
-          <link>https://teahouse.homecomputing.fr/</link>
-          <link>https://events.ccc.de/congress/2017/wiki/index.php/Session:TeaHouse</link>
-        </links>
-      </event>
-      <event id="1262" guid="622c5770-b9fc-45ef-b9fc-1533f661e3ec">
-        <logo/>
-        <date>2017-12-30T14:00:00+01:00</date>
-        <start>14:00</start>
-        <duration>0:20</duration>
-        <room>Assembly:TeaHouse</room>
-        <slug/>
-        <title>TeaHouse</title>
-        <subtitle>Collection and clustering of 6,900 tweets censored in European countries in 2017</subtitle>
-        <track>self organized sessions</track>
-        <type>meeting</type>
-        <language>en</language>
-        <abstract/>
-        <description/>
-        <persons>
-          <person id="0" href="https://events.ccc.de/congress/2017/wiki/index.php/User:Sanpi">Sanpi</person>
-        </persons>
-        <links>
-          <link>https://teahouse.homecomputing.fr/</link>
-          <link>https://events.ccc.de/congress/2017/wiki/index.php/Session:TeaHouse</link>
-        </links>
-      </event>
-      <event id="1262" guid="622c5770-b9fc-45ef-b9fc-1533f661e3ec">
-        <logo/>
         <date>2017-12-30T15:00:00+01:00</date>
         <start>15:00</start>
         <duration>0:30</duration>
@@ -12772,6 +12728,50 @@ welche sticker denn? (fast) alle! -- künstlerisch, kritisch, politisch, whateve
         <slug/>
         <title>TeaHouse</title>
         <subtitle>Updating Security in a Box</subtitle>
+        <track>self organized sessions</track>
+        <type>meeting</type>
+        <language>en</language>
+        <abstract/>
+        <description/>
+        <persons>
+          <person id="0" href="https://events.ccc.de/congress/2017/wiki/index.php/User:Sanpi">Sanpi</person>
+        </persons>
+        <links>
+          <link>https://teahouse.homecomputing.fr/</link>
+          <link>https://events.ccc.de/congress/2017/wiki/index.php/Session:TeaHouse</link>
+        </links>
+      </event>
+      <event id="1262" guid="622c5770-b9fc-45ef-b9fc-1533f661e3ec">
+        <logo/>
+        <date>2017-12-30T13:00:00+01:00</date>
+        <start>13:00</start>
+        <duration>0:20</duration>
+        <room>Assembly:TeaHouse</room>
+        <slug/>
+        <title>TeaHouse</title>
+        <subtitle>εxodus reveals hidden trackers in Android applications</subtitle>
+        <track>self organized sessions</track>
+        <type>meeting</type>
+        <language>en</language>
+        <abstract/>
+        <description/>
+        <persons>
+          <person id="0" href="https://events.ccc.de/congress/2017/wiki/index.php/User:Sanpi">Sanpi</person>
+        </persons>
+        <links>
+          <link>https://teahouse.homecomputing.fr/</link>
+          <link>https://events.ccc.de/congress/2017/wiki/index.php/Session:TeaHouse</link>
+        </links>
+      </event>
+      <event id="1262" guid="622c5770-b9fc-45ef-b9fc-1533f661e3ec">
+        <logo/>
+        <date>2017-12-30T14:00:00+01:00</date>
+        <start>14:00</start>
+        <duration>0:20</duration>
+        <room>Assembly:TeaHouse</room>
+        <slug/>
+        <title>TeaHouse</title>
+        <subtitle>Collection and clustering of 6,900 tweets censored in European countries in 2017</subtitle>
         <track>self organized sessions</track>
         <type>meeting</type>
         <language>en</language>
