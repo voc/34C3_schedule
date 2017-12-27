@@ -3054,6 +3054,71 @@
             "1514409300"
         ]
     }, 
+    "Session:Sport f\u00fcr Nerds# 06c7c534fb6bae38d5c385f96f878fae": {
+        "Held in language": [
+            "de - German"
+        ], 
+        "Has start time": [], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [], 
+        "Has description": [
+            "Wir machen hier ein kleines alternativ nerdiges Workout. ;) Mehr verraten wir nicht."
+        ], 
+        "Has session type": [
+            "Other"
+        ], 
+        "Has session location": [
+            {
+                "fulltext": "Room:Lecture room 11", 
+                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Room:Lecture_room_11", 
+                "namespace": 516, 
+                "exists": true
+            }
+        ], 
+        "Has subtitle": [], 
+        "Is organized by": [
+            {
+                "fulltext": "User:Magic", 
+                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/User:Magic", 
+                "namespace": 2, 
+                "exists": true
+            }, 
+            {
+                "fulltext": "User:Karl Weber", 
+                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/User:Karl_Weber", 
+                "namespace": 2, 
+                "exists": true
+            }, 
+            {
+                "fulltext": "User:Hermine", 
+                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/User:Hermine", 
+                "namespace": 2, 
+                "exists": true
+            }, 
+            {
+                "fulltext": "User:Minnie", 
+                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/User:Minnie", 
+                "namespace": 2, 
+                "exists": true
+            }
+        ], 
+        "Has title": [
+            "Sport f\u00fcr Nerds"
+        ], 
+        "Has duration": [
+            120
+        ], 
+        "GUID": [
+            "d28e4cdf-343c-4702-95ff-bdf328bde9fb"
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:Sport_f%C3%BCr_Nerds", 
+        "Has end time": []
+    }, 
     "Session:Rights&Freedoms# f7e9bee8a00f1bf00988106eb108e45e": {
         "Held in language": [
             "de - German", 
@@ -13162,7 +13227,14 @@
             }
         ], 
         "Has subtitle": [], 
-        "Is organized by": [], 
+        "Is organized by": [
+            {
+                "fulltext": "User:Illordlo", 
+                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/User:Illordlo", 
+                "namespace": 2, 
+                "exists": true
+            }
+        ], 
         "Has title": [
             "Network hacks for smart attacks"
         ], 
@@ -13815,75 +13887,6 @@
         "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:Public_Money%3F_Public_Code!", 
         "Has end time": [
             "1514577600"
-        ]
-    }, 
-    "Session:Sport f\u00fcr Nerds# d111f9fde6f165bbdb27f14b79eb473a": {
-        "Held in language": [
-            "de - German"
-        ], 
-        "Has start time": [
-            "1514494800"
-        ], 
-        "Has event track": [
-            "Session"
-        ], 
-        "Has website": [], 
-        "Has description": [
-            "Wir machen hier ein kleines alternativ nerdiges Workout. ;) Mehr verraten wir nicht."
-        ], 
-        "Has session type": [
-            "Other"
-        ], 
-        "Has session location": [
-            {
-                "fulltext": "Room:Lecture room 11", 
-                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Room:Lecture_room_11", 
-                "namespace": 516, 
-                "exists": true
-            }
-        ], 
-        "Has subtitle": [], 
-        "Is organized by": [
-            {
-                "fulltext": "User:Magic", 
-                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/User:Magic", 
-                "namespace": 2, 
-                "exists": true
-            }, 
-            {
-                "fulltext": "User:Karl Weber", 
-                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/User:Karl_Weber", 
-                "namespace": 2, 
-                "exists": true
-            }, 
-            {
-                "fulltext": "User:Hermine", 
-                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/User:Hermine", 
-                "namespace": 2, 
-                "exists": true
-            }, 
-            {
-                "fulltext": "User:Minnie", 
-                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/User:Minnie", 
-                "namespace": 2, 
-                "exists": true
-            }
-        ], 
-        "Has title": [
-            "Sport f\u00fcr Nerds"
-        ], 
-        "Has duration": [
-            120
-        ], 
-        "GUID": [
-            "d28e4cdf-343c-4702-95ff-bdf328bde9fb"
-        ], 
-        "Has color": [
-            "#0099ab"
-        ], 
-        "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:Sport_f%C3%BCr_Nerds", 
-        "Has end time": [
-            "1514502000"
         ]
     }, 
     "Session:Rights&Freedoms# c0e8226dca3220d0b79a7d73889ced35": {
