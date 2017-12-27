@@ -1,25 +1,23 @@
 {
-    "Session:Lehrerstammtisch VR# 8148e82733b1a7a7bf77c6523e43ce1f": {
+    "Session:Anarchist Aseembly of the Anarchist Assembly# 852ddd9f7dc093a2cbcf76a99350fcf8": {
         "Held in language": [
-            "de - German"
+            "en - English"
         ], 
         "Has start time": [
-            "1514577600"
+            "1514660400"
         ], 
         "Has event track": [
             "Session"
         ], 
         "Has website": [], 
         "Has description": [
-            "Is virtual reality the future of education? Come and find out! (Session is for Teachers/Educators)"
+            "We will meet to discuss about these days during 34c3 and what we need for the (no)future"
         ], 
-        "Has session type": [
-            "Hands-On"
-        ], 
+        "Has session type": [], 
         "Has session location": [
             {
-                "fulltext": "Assembly:VR", 
-                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Assembly:VR", 
+                "fulltext": "Assembly:Anarchist", 
+                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Assembly:Anarchist", 
                 "namespace": 504, 
                 "exists": true
             }
@@ -27,24 +25,34 @@
         "Has subtitle": [], 
         "Is organized by": [
             {
-                "fulltext": "User:Gigo", 
-                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/User:Gigo", 
+                "fulltext": "User:Rama", 
+                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/User:Rama", 
+                "namespace": 2, 
+                "exists": true
+            }, 
+            {
+                "fulltext": "User:Maxigas", 
+                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/User:Maxigas", 
                 "namespace": 2, 
                 "exists": true
             }
         ], 
         "Has title": [
-            "Lehrerstammtisch VR"
+            "Anarchist Aseembly of the Anarchist Assembly"
         ], 
-        "Has duration": [], 
+        "Has duration": [
+            60
+        ], 
         "GUID": [
-            "0b3eea51-3657-46d5-84b0-1f2fa0cf45b1"
+            "0fa827b9-21f0-48c5-879a-25346b477147"
         ], 
         "Has color": [
             "#0099ab"
         ], 
-        "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:Lehrerstammtisch_VR", 
-        "Has end time": []
+        "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:Anarchist_Aseembly_of_the_Anarchist_Assembly", 
+        "Has end time": [
+            "1514664000"
+        ]
     }, 
     "Session:QRNG - More Random than Pinkie Pie# ff0e20fd9463f98c98de4f176bef083d": {
         "Held in language": [
@@ -185,6 +193,53 @@
         "Has end time": [
             "1514397600"
         ]
+    }, 
+    "Session:Lehrerstammtisch VR# 8148e82733b1a7a7bf77c6523e43ce1f": {
+        "Held in language": [
+            "de - German"
+        ], 
+        "Has start time": [
+            "1514577600"
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [], 
+        "Has description": [
+            "Is virtual reality the future of education? Come and find out! (Session is for Teachers/Educators)"
+        ], 
+        "Has session type": [
+            "Hands-On"
+        ], 
+        "Has session location": [
+            {
+                "fulltext": "Assembly:VR", 
+                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Assembly:VR", 
+                "namespace": 504, 
+                "exists": true
+            }
+        ], 
+        "Has subtitle": [], 
+        "Is organized by": [
+            {
+                "fulltext": "User:Gigo", 
+                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/User:Gigo", 
+                "namespace": 2, 
+                "exists": true
+            }
+        ], 
+        "Has title": [
+            "Lehrerstammtisch VR"
+        ], 
+        "Has duration": [], 
+        "GUID": [
+            "0b3eea51-3657-46d5-84b0-1f2fa0cf45b1"
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:Lehrerstammtisch_VR", 
+        "Has end time": []
     }, 
     "Session:Wie produziere ich mein eigenes H\u00f6rspiel mit Hilfe von freeware free sounds# e9e0f96ddae80dfb9c8724abad3fe9ea": {
         "Held in language": [
@@ -1837,6 +1892,60 @@
             "1514499300"
         ]
     }, 
+    "Session:Child Growth Monitor# 8698ef9c0ab16f4cbda6bb9fdf132925": {
+        "Held in language": [
+            "de - German", 
+            "en - English"
+        ], 
+        "Has start time": [
+            "1514469600"
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [
+            "https://childgrowthmonitor.org"
+        ], 
+        "Has description": [
+            "We will meet at the c-base conference room\nDay 2, 14:00"
+        ], 
+        "Has session type": [
+            "Meeting"
+        ], 
+        "Has session location": [
+            {
+                "fulltext": "Room:Hive Conference", 
+                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Room:Hive_Conference", 
+                "namespace": 516, 
+                "exists": true
+            }
+        ], 
+        "Has subtitle": [], 
+        "Is organized by": [
+            {
+                "fulltext": "User:Muck", 
+                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/User:Muck", 
+                "namespace": 2, 
+                "exists": true
+            }
+        ], 
+        "Has title": [
+            "Child Growth Monitor"
+        ], 
+        "Has duration": [
+            60
+        ], 
+        "GUID": [
+            "69c6364c-a4ea-4038-80a0-5000c28348f5"
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:Child_Growth_Monitor", 
+        "Has end time": [
+            "1514473200"
+        ]
+    }, 
     "Session:How to Let's Play# 776f716aa526a04f0bbb8b1c2852952a": {
         "Held in language": [
             "de - German", 
@@ -3123,57 +3232,51 @@
             "1514649600"
         ]
     }, 
-    "Session:Let's hack words# 5f9d8bfbb00078f101d45f5bac5e5433": {
+    "Session:Rights&Freedoms# 4906195aa6e39a18e66601458a5369b0": {
         "Held in language": [
+            "de - German", 
             "en - English"
         ], 
         "Has start time": [
-            "1514566800"
+            "1514577600"
         ], 
         "Has event track": [
             "Session"
         ], 
         "Has website": [], 
         "Has description": [
-            "It's a creative writing workshop. Interested participants will deal with this year's theme of #tuwat - do something. Don't wait for whatever you are waiting for. You can be active. You can change the world. You could even write a book."
+            "Rights & Freedoms Cluster Stage Programme"
         ], 
         "Has session type": [
-            "Hands-On"
+            "Talk"
         ], 
         "Has session location": [
             {
-                "fulltext": "Room:Seminar room 13", 
-                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Room:Seminar_room_13", 
+                "fulltext": "Room:CCL Hall 3", 
+                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Room:CCL_Hall_3", 
                 "namespace": 516, 
                 "exists": true
             }
         ], 
         "Has subtitle": [
-            "Creative Writing Workshop"
+            "Case study \u201cStaatstrojaner\u201d: strategic litigation against state hacking (Ulf Buermeyer, GFF)"
         ], 
-        "Is organized by": [
-            {
-                "fulltext": "User:Jinxx", 
-                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/User:Jinxx", 
-                "namespace": 2, 
-                "exists": true
-            }
-        ], 
+        "Is organized by": [], 
         "Has title": [
-            "Let's hack words"
+            "Rights&Freedoms"
         ], 
         "Has duration": [
             60
         ], 
         "GUID": [
-            "0d5446c8-3e00-4936-a635-f054adfb177a"
+            "48ea0d19-03cd-4cea-b436-46892ae393ad"
         ], 
         "Has color": [
             "#0099ab"
         ], 
-        "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:Let%27s_hack_words", 
+        "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:Rights%26Freedoms", 
         "Has end time": [
-            "1514570400"
+            "1514581200"
         ]
     }, 
     "Session:Security Without Borders# 77b19904bc175785c30273f753eee496": {
@@ -6996,51 +7099,57 @@
             "1514382300"
         ]
     }, 
-    "Session:Rights&Freedoms# 4906195aa6e39a18e66601458a5369b0": {
+    "Session:Let's hack words# 5f9d8bfbb00078f101d45f5bac5e5433": {
         "Held in language": [
-            "de - German", 
             "en - English"
         ], 
         "Has start time": [
-            "1514577600"
+            "1514566800"
         ], 
         "Has event track": [
             "Session"
         ], 
         "Has website": [], 
         "Has description": [
-            "Rights & Freedoms Cluster Stage Programme"
+            "It's a creative writing workshop. Interested participants will deal with this year's theme of #tuwat - do something. Don't wait for whatever you are waiting for. You can be active. You can change the world. You could even write a book."
         ], 
         "Has session type": [
-            "Talk"
+            "Hands-On"
         ], 
         "Has session location": [
             {
-                "fulltext": "Room:CCL Hall 3", 
-                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Room:CCL_Hall_3", 
+                "fulltext": "Room:Seminar room 13", 
+                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Room:Seminar_room_13", 
                 "namespace": 516, 
                 "exists": true
             }
         ], 
         "Has subtitle": [
-            "Case study \u201cStaatstrojaner\u201d: strategic litigation against state hacking (Ulf Buermeyer, GFF)"
+            "Creative Writing Workshop"
         ], 
-        "Is organized by": [], 
+        "Is organized by": [
+            {
+                "fulltext": "User:Jinxx", 
+                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/User:Jinxx", 
+                "namespace": 2, 
+                "exists": true
+            }
+        ], 
         "Has title": [
-            "Rights&Freedoms"
+            "Let's hack words"
         ], 
         "Has duration": [
             60
         ], 
         "GUID": [
-            "48ea0d19-03cd-4cea-b436-46892ae393ad"
+            "0d5446c8-3e00-4936-a635-f054adfb177a"
         ], 
         "Has color": [
             "#0099ab"
         ], 
-        "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:Rights%26Freedoms", 
+        "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:Let%27s_hack_words", 
         "Has end time": [
-            "1514581200"
+            "1514570400"
         ]
     }, 
     "Session:Chaos Communication Choir# 36f800803f1d3ab0b32c82556f1639c7": {
@@ -10930,6 +11039,59 @@
             "1514476800"
         ]
     }, 
+    "Session:Gentoo e.V. Mitgliederversammlung# cbfd64853201eb7bd9d4557e78b707ed": {
+        "Held in language": [
+            "de - German"
+        ], 
+        "Has start time": [
+            "1514552400"
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [
+            "https://gentoo-ev.org/"
+        ], 
+        "Has description": [
+            "(German) Mitgliederversammlung des F\u00f6rdervereins Gentoo e.V."
+        ], 
+        "Has session type": [
+            "Meeting"
+        ], 
+        "Has session location": [
+            {
+                "fulltext": "Room:Seminar room 13", 
+                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Room:Seminar_room_13", 
+                "namespace": 516, 
+                "exists": true
+            }
+        ], 
+        "Has subtitle": [], 
+        "Is organized by": [
+            {
+                "fulltext": "User:Sping", 
+                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/User:Sping", 
+                "namespace": 2, 
+                "exists": true
+            }
+        ], 
+        "Has title": [
+            "Gentoo e.V. Mitgliederversammlung"
+        ], 
+        "Has duration": [
+            60
+        ], 
+        "GUID": [
+            "83fcbf78-e721-4570-ab1b-678cb03edf73"
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:Gentoo_e.V._Mitgliederversammlung", 
+        "Has end time": [
+            "1514556000"
+        ]
+    }, 
     "Session:Angel Meeting# 0b79bad7a661afbdc25c73a0d7835d4d": {
         "Held in language": [
             "en - English", 
@@ -11832,52 +11994,6 @@
         "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:Hedonist_International_Networking_Meeting%2BWorkshop_for_2018s_Congress_Convoy", 
         "Has end time": [
             "1514484000"
-        ]
-    }, 
-    "No Session# f51125156f6aba5055361fce5cb81811": {
-        "Held in language": [
-            "en - English"
-        ], 
-        "Has start time": [
-            "1514545200"
-        ], 
-        "Has event track": [
-            "Session"
-        ], 
-        "Has website": [
-            "https://twitter.com/SycretSoul"
-        ], 
-        "Has description": [], 
-        "Has session type": [
-            "Discussion"
-        ], 
-        "Has session location": [
-            {
-                "fulltext": "Room:Lecture room 11", 
-                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Room:Lecture_room_11", 
-                "namespace": 516, 
-                "exists": true
-            }
-        ], 
-        "Has subtitle": [
-            "Polyamory - n:n relationships  discussion"
-        ], 
-        "Is organized by": [], 
-        "Has title": [
-            "No Session"
-        ], 
-        "Has duration": [
-            60
-        ], 
-        "GUID": [
-            "a57480d8-7fa2-4a9f-80a4-246071562819"
-        ], 
-        "Has color": [
-            "#0099ab"
-        ], 
-        "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/No_Session", 
-        "Has end time": [
-            "1514548800"
         ]
     }, 
     "Session:Workshop on prison and justice system# aa4f232c54d5a527187a24da791a09b6": {
@@ -13883,6 +13999,54 @@
             "1514606400"
         ]
     }, 
+    "Session:Polyamory - n2n relationships extended# 495dcfad3c15c6f32d1e47c2750b2944": {
+        "Held in language": [
+            "en - English"
+        ], 
+        "Has start time": [
+            "1514541600"
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [
+            "https://twitter.com/SycretSoul"
+        ], 
+        "Has description": [
+            "Polyamory (n:n) Relationships - Discussion"
+        ], 
+        "Has session type": [
+            "Discussion"
+        ], 
+        "Has session location": [
+            {
+                "fulltext": "Room:Lecture room 11", 
+                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Room:Lecture_room_11", 
+                "namespace": 516, 
+                "exists": true
+            }
+        ], 
+        "Has subtitle": [
+            "Polyamory (n:n) Relationships - Discussion"
+        ], 
+        "Is organized by": [], 
+        "Has title": [
+            "Polyamory - n2n relationships extended"
+        ], 
+        "Has duration": [
+            120
+        ], 
+        "GUID": [
+            "fc013695-5130-41ea-88cf-5b43ae74249e"
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:Polyamory_-_n2n_relationships_extended", 
+        "Has end time": [
+            "1514548800"
+        ]
+    }, 
     "Session:Datenschleuder# 9b9ea288ec118c7276f4d424dae62be4": {
         "Held in language": [
             "de - German"
@@ -14160,54 +14324,6 @@
         "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:WikiWat", 
         "Has end time": [
             "1514486700"
-        ]
-    }, 
-    "Session:Polyamory - Guide / extended# 244b9bcf6dd5fb6dadea45f9ad4940ad": {
-        "Held in language": [
-            "en - English"
-        ], 
-        "Has start time": [
-            "1514541600"
-        ], 
-        "Has event track": [
-            "Session"
-        ], 
-        "Has website": [
-            "https://twitter.com/SycretSoul"
-        ], 
-        "Has description": [
-            "Polyamory (n:n) Relationships - Discussion"
-        ], 
-        "Has session type": [
-            "Discussion"
-        ], 
-        "Has session location": [
-            {
-                "fulltext": "Room:Lecture room 11", 
-                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Room:Lecture_room_11", 
-                "namespace": 516, 
-                "exists": true
-            }
-        ], 
-        "Has subtitle": [
-            "Polyamory (n:n) Relationships - Discussion"
-        ], 
-        "Is organized by": [], 
-        "Has title": [
-            "Polyamory - Guide / extended"
-        ], 
-        "Has duration": [
-            120
-        ], 
-        "GUID": [
-            "fc013695-5130-41ea-88cf-5b43ae74249e"
-        ], 
-        "Has color": [
-            "#0099ab"
-        ], 
-        "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:Polyamory_-_Guide_/_extended", 
-        "Has end time": [
-            "1514548800"
         ]
     }, 
     "Session:Tiptoi-Hacking# 84675e8adf8393df8af12f0f8448208c": {
@@ -17252,59 +17368,6 @@
         ], 
         "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:Lainchan_Meetup", 
         "Has end time": []
-    }, 
-    "Session:Gentoo e.V. Mitgliederversammlung# fabe5a0b145491adb73ce1238b73153d": {
-        "Held in language": [
-            "de - German"
-        ], 
-        "Has start time": [
-            "1514552400"
-        ], 
-        "Has event track": [
-            "Session"
-        ], 
-        "Has website": [
-            "https://gentoo-ev.org/"
-        ], 
-        "Has description": [
-            "(German) Mitgliederversammlung des F\u00f6rdervereins Gentoo e.V."
-        ], 
-        "Has session type": [
-            "Meeting"
-        ], 
-        "Has session location": [
-            {
-                "fulltext": "Room:Lecture room 12", 
-                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Room:Lecture_room_12", 
-                "namespace": 516, 
-                "exists": true
-            }
-        ], 
-        "Has subtitle": [], 
-        "Is organized by": [
-            {
-                "fulltext": "User:Sping", 
-                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/User:Sping", 
-                "namespace": 2, 
-                "exists": true
-            }
-        ], 
-        "Has title": [
-            "Gentoo e.V. Mitgliederversammlung"
-        ], 
-        "Has duration": [
-            60
-        ], 
-        "GUID": [
-            "83fcbf78-e721-4570-ab1b-678cb03edf73"
-        ], 
-        "Has color": [
-            "#0099ab"
-        ], 
-        "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:Gentoo_e.V._Mitgliederversammlung", 
-        "Has end time": [
-            "1514556000"
-        ]
     }, 
     "Session:Hessentrojaner Meetup# 633a78ebe0699f4dcdaad66afc0861f5": {
         "Held in language": [
