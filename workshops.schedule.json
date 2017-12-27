@@ -94,6 +94,7 @@
                             }
                         ], 
                         "Hive Stage": [], 
+                        "Chaos West Stage": [], 
                         "Lecture room 12": [
                             {
                                 "id": 1292, 
@@ -123,7 +124,6 @@
                                 ]
                             }
                         ], 
-                        "Chaos West Stage": [], 
                         "CCL Hall 3": [], 
                         "Komona D.Ressrosa": [], 
                         "Seminar room 14-15": [
@@ -622,107 +622,6 @@
                                 ]
                             }
                         ], 
-                        "Lecture room 12": [
-                            {
-                                "id": 1185, 
-                                "guid": "e0e9d627-5661-42a8-9b1c-f5619c3e2515", 
-                                "logo": null, 
-                                "date": "2017-12-27T20:00:00+01:00", 
-                                "start": "20:00", 
-                                "duration": "1:00", 
-                                "room": "Lecture room 12", 
-                                "slug": "", 
-                                "title": "Lehrerstammtisch", 
-                                "subtitle": "the teachers meeting", 
-                                "track": "self organized sessions", 
-                                "type": "meeting", 
-                                "language": "de", 
-                                "abstract": "", 
-                                "description": "After a great start at the 33c3, the teachers meeting continues this year!", 
-                                "persons": [
-                                    {
-                                        "id": 0, 
-                                        "url": "https://events.ccc.de/congress/2017/wiki/index.php/User:Gigo", 
-                                        "public_name": "Gigo"
-                                    }
-                                ], 
-                                "links": [
-                                    "https://events.ccc.de/congress/2017/wiki/index.php/Session:Lehrerstammtisch"
-                                ]
-                            }, 
-                            {
-                                "id": 1297, 
-                                "guid": "9ed83d1d-7007-4bb8-9e65-22b1e9abd09b", 
-                                "logo": null, 
-                                "date": "2017-12-27T15:00:00+01:00", 
-                                "start": "15:00", 
-                                "duration": "0:30", 
-                                "room": "Lecture room 12", 
-                                "slug": "", 
-                                "title": "Subtitles-Engelmeeting", 
-                                "subtitle": "", 
-                                "track": "self organized sessions", 
-                                "type": "meeting", 
-                                "language": "en", 
-                                "abstract": "", 
-                                "description": "Meeting for new subtitles angels. This is the one you need to be confirmed as a subtitles angel.", 
-                                "persons": [], 
-                                "links": [
-                                    "http://c3subtitles.de", 
-                                    "https://events.ccc.de/congress/2017/wiki/index.php/Session:Subtitles-Engelmeeting"
-                                ]
-                            }, 
-                            {
-                                "id": 1298, 
-                                "guid": "50cdec42-6f29-47e5-bdbe-e29d19ee2941", 
-                                "logo": null, 
-                                "date": "2017-12-27T21:00:00+01:00", 
-                                "start": "21:00", 
-                                "duration": "0:30", 
-                                "room": "Lecture room 12", 
-                                "slug": "", 
-                                "title": "Subtitles-Engelmeeting", 
-                                "subtitle": "", 
-                                "track": "self organized sessions", 
-                                "type": "meeting", 
-                                "language": "en", 
-                                "abstract": "", 
-                                "description": "Meeting for new subtitles angels. This is the one you need to be confirmed as a subtitles angel.", 
-                                "persons": [], 
-                                "links": [
-                                    "http://c3subtitles.de", 
-                                    "https://events.ccc.de/congress/2017/wiki/index.php/Session:Subtitles-Engelmeeting"
-                                ]
-                            }, 
-                            {
-                                "id": 1353, 
-                                "guid": "def1b880-7e56-415c-a57b-73b5acda9b5a", 
-                                "logo": null, 
-                                "date": "2017-12-27T16:00:00+01:00", 
-                                "start": "16:00", 
-                                "duration": "2:30", 
-                                "room": "Lecture room 12", 
-                                "slug": "", 
-                                "title": "\u201cHow To Survice 34C3\u201d CryptoParty", 
-                                "subtitle": "", 
-                                "track": "self organized sessions", 
-                                "type": "hands-on", 
-                                "language": "en", 
-                                "abstract": "", 
-                                "description": "Privacy is the space in which ideas are developed, to retreat into whenever you want. This space is not only physical but digital as well. Governments and companies don't want to respect that so we become active ourselves.\n\nThe goal of this hands-on session is to pass on knowledge about protecting yourself in the digital space. This can include encrypted communication, preventing being tracked while browsing the web and general security advice for computers and smartphones.", 
-                                "persons": [
-                                    {
-                                        "id": 0, 
-                                        "url": "https://events.ccc.de/congress/2017/wiki/index.php/User:Dawning-sun", 
-                                        "public_name": "Dawning-sun"
-                                    }
-                                ], 
-                                "links": [
-                                    "https://www.cryptoparty.in/34c3", 
-                                    "https://events.ccc.de/congress/2017/wiki/index.php/Session:%E2%80%9CHow_To_Survice_34C3%E2%80%9D_CryptoParty"
-                                ]
-                            }
-                        ], 
                         "Chaos West Stage": [
                             {
                                 "id": 1174, 
@@ -964,6 +863,107 @@
                                 "links": [
                                     "http://secushare.cheettyiapsyciew.onion/anonymity", 
                                     "https://events.ccc.de/congress/2017/wiki/index.php/Session:Three_Ways_to_Enhance_Metadata_Protection_Beyond_Tor"
+                                ]
+                            }
+                        ], 
+                        "Lecture room 12": [
+                            {
+                                "id": 1185, 
+                                "guid": "e0e9d627-5661-42a8-9b1c-f5619c3e2515", 
+                                "logo": null, 
+                                "date": "2017-12-27T20:00:00+01:00", 
+                                "start": "20:00", 
+                                "duration": "1:00", 
+                                "room": "Lecture room 12", 
+                                "slug": "", 
+                                "title": "Lehrerstammtisch", 
+                                "subtitle": "the teachers meeting", 
+                                "track": "self organized sessions", 
+                                "type": "meeting", 
+                                "language": "de", 
+                                "abstract": "", 
+                                "description": "After a great start at the 33c3, the teachers meeting continues this year!", 
+                                "persons": [
+                                    {
+                                        "id": 0, 
+                                        "url": "https://events.ccc.de/congress/2017/wiki/index.php/User:Gigo", 
+                                        "public_name": "Gigo"
+                                    }
+                                ], 
+                                "links": [
+                                    "https://events.ccc.de/congress/2017/wiki/index.php/Session:Lehrerstammtisch"
+                                ]
+                            }, 
+                            {
+                                "id": 1297, 
+                                "guid": "9ed83d1d-7007-4bb8-9e65-22b1e9abd09b", 
+                                "logo": null, 
+                                "date": "2017-12-27T15:00:00+01:00", 
+                                "start": "15:00", 
+                                "duration": "0:30", 
+                                "room": "Lecture room 12", 
+                                "slug": "", 
+                                "title": "Subtitles-Engelmeeting", 
+                                "subtitle": "", 
+                                "track": "self organized sessions", 
+                                "type": "meeting", 
+                                "language": "en", 
+                                "abstract": "", 
+                                "description": "Meeting for new subtitles angels. This is the one you need to be confirmed as a subtitles angel.", 
+                                "persons": [], 
+                                "links": [
+                                    "http://c3subtitles.de", 
+                                    "https://events.ccc.de/congress/2017/wiki/index.php/Session:Subtitles-Engelmeeting"
+                                ]
+                            }, 
+                            {
+                                "id": 1298, 
+                                "guid": "50cdec42-6f29-47e5-bdbe-e29d19ee2941", 
+                                "logo": null, 
+                                "date": "2017-12-27T21:00:00+01:00", 
+                                "start": "21:00", 
+                                "duration": "0:30", 
+                                "room": "Lecture room 12", 
+                                "slug": "", 
+                                "title": "Subtitles-Engelmeeting", 
+                                "subtitle": "", 
+                                "track": "self organized sessions", 
+                                "type": "meeting", 
+                                "language": "en", 
+                                "abstract": "", 
+                                "description": "Meeting for new subtitles angels. This is the one you need to be confirmed as a subtitles angel.", 
+                                "persons": [], 
+                                "links": [
+                                    "http://c3subtitles.de", 
+                                    "https://events.ccc.de/congress/2017/wiki/index.php/Session:Subtitles-Engelmeeting"
+                                ]
+                            }, 
+                            {
+                                "id": 1353, 
+                                "guid": "def1b880-7e56-415c-a57b-73b5acda9b5a", 
+                                "logo": null, 
+                                "date": "2017-12-27T16:00:00+01:00", 
+                                "start": "16:00", 
+                                "duration": "2:30", 
+                                "room": "Lecture room 12", 
+                                "slug": "", 
+                                "title": "\u201cHow To Survice 34C3\u201d CryptoParty", 
+                                "subtitle": "", 
+                                "track": "self organized sessions", 
+                                "type": "hands-on", 
+                                "language": "en", 
+                                "abstract": "", 
+                                "description": "Privacy is the space in which ideas are developed, to retreat into whenever you want. This space is not only physical but digital as well. Governments and companies don't want to respect that so we become active ourselves.\n\nThe goal of this hands-on session is to pass on knowledge about protecting yourself in the digital space. This can include encrypted communication, preventing being tracked while browsing the web and general security advice for computers and smartphones.", 
+                                "persons": [
+                                    {
+                                        "id": 0, 
+                                        "url": "https://events.ccc.de/congress/2017/wiki/index.php/User:Dawning-sun", 
+                                        "public_name": "Dawning-sun"
+                                    }
+                                ], 
+                                "links": [
+                                    "https://www.cryptoparty.in/34c3", 
+                                    "https://events.ccc.de/congress/2017/wiki/index.php/Session:%E2%80%9CHow_To_Survice_34C3%E2%80%9D_CryptoParty"
                                 ]
                             }
                         ], 
@@ -3044,211 +3044,6 @@
                                 ]
                             }
                         ], 
-                        "Lecture room 12": [
-                            {
-                                "id": 1020, 
-                                "guid": "3a60d0e5-d4e4-4757-9fe1-3ac1f75e0e55", 
-                                "logo": null, 
-                                "date": "2017-12-28T20:30:00+01:00", 
-                                "start": "20:30", 
-                                "duration": "1:00", 
-                                "room": "Lecture room 12", 
-                                "slug": "", 
-                                "title": "All Creatures Welcome", 
-                                "subtitle": "backer meeting and open discussion", 
-                                "track": "self organized sessions", 
-                                "type": "meeting", 
-                                "language": "de", 
-                                "abstract": "", 
-                                "description": "In this meeting FilmGizmo will give everybody interested a quick overview of the formation process, the status and the future of the documentary project ALL CREATURES WELCOME. And, maybe most importantly: She will answer all the questions of the people who help to realize this movie and the ones who want to become part of it in an open discussion!", 
-                                "persons": [
-                                    {
-                                        "id": 0, 
-                                        "url": "https://events.ccc.de/congress/2017/wiki/index.php/User:Gizmo", 
-                                        "public_name": "Gizmo"
-                                    }
-                                ], 
-                                "links": [
-                                    "http://www.allcreatureswelcome.net", 
-                                    "https://events.ccc.de/congress/2017/wiki/index.php/Session:All_Creatures_Welcome"
-                                ]
-                            }, 
-                            {
-                                "id": 1047, 
-                                "guid": "32409b19-4156-4a2c-9fa3-3b724d0a4815", 
-                                "logo": null, 
-                                "date": "2017-12-28T19:30:00+01:00", 
-                                "start": "19:30", 
-                                "duration": "0:45", 
-                                "room": "Lecture room 12", 
-                                "slug": "", 
-                                "title": "Bridging messengers with Matrix.org", 
-                                "subtitle": "", 
-                                "track": "self organized sessions", 
-                                "type": "talk", 
-                                "language": "en", 
-                                "abstract": "", 
-                                "description": "Matrix is an open protocol for real-time communication. It not only provides a way to build messengers like riot.im, but it also allows bridging other messengers like IRC, Slack, Gitter, Telegram, etc.", 
-                                "persons": [
-                                    {
-                                        "id": 0, 
-                                        "url": "https://events.ccc.de/congress/2017/wiki/index.php/User:Exul", 
-                                        "public_name": "Exul"
-                                    }
-                                ], 
-                                "links": [
-                                    "https://github.com/exul/matrix-rocketchat", 
-                                    "https://events.ccc.de/congress/2017/wiki/index.php/Session:Bridging_messengers_with_Matrix.org"
-                                ]
-                            }, 
-                            {
-                                "id": 1089, 
-                                "guid": "4faa3b11-b441-4b17-ab71-8c98b89a7a67", 
-                                "logo": null, 
-                                "date": "2017-12-28T18:30:00+01:00", 
-                                "start": "18:30", 
-                                "duration": "1:00", 
-                                "room": "Lecture room 12", 
-                                "slug": "", 
-                                "title": "Decentralized Web", 
-                                "subtitle": "", 
-                                "track": "self organized sessions", 
-                                "type": "discussion", 
-                                "language": "en", 
-                                "abstract": "", 
-                                "description": "Discussion about the state of the decentralized web", 
-                                "persons": [
-                                    {
-                                        "id": 0, 
-                                        "url": "https://events.ccc.de/congress/2017/wiki/index.php/User:Mwarning", 
-                                        "public_name": "Mwarning"
-                                    }
-                                ], 
-                                "links": [
-                                    "https://events.ccc.de/congress/2017/wiki/index.php/Session:Decentralized_Web"
-                                ]
-                            }, 
-                            {
-                                "id": 1121, 
-                                "guid": "966bca46-17e6-4136-a382-6ccf3fb51bbc", 
-                                "logo": null, 
-                                "date": "2017-12-28T14:00:00+01:00", 
-                                "start": "14:00", 
-                                "duration": "1:15", 
-                                "room": "Lecture room 12", 
-                                "slug": "", 
-                                "title": "Gehen drei Wissenschaftler in eine Kneipe", 
-                                "subtitle": "\u201cPl\u00f6tzlich Wissen!\u201d: Eine etwas andere Art der Wissenschaftskommunikation", 
-                                "track": "self organized sessions", 
-                                "type": "workshop", 
-                                "language": "de", 
-                                "abstract": "", 
-                                "description": "Gehen drei Wissenschaftler und eine Handpuppe in eine Kneipe...und sprechen \u00fcber Wissenschaft mit Bezug auf Meere und Ozeane. Genau das machen wir, also Julia Schnetzer, Inga Marie Ramcke und Andr\u00e9 Lampe. Wir sprechen mit Menschen (fast) aller Altersklassen und Hintergr\u00fcnde und haben nicht nur unseren flauschigen Kollegen, den Dugong Dilhan - eine Gabelschwanzseekuh - sondern auch Experimente mit Meeresbezug und aktuelle Forschungsthemen im Gep\u00e4ck. Nat\u00fcrlich freuen wir uns ebenso \u00fcber pers\u00f6nliche Fragen, die wir sehr gern aus unserer Perspektive, also meist aus dem Leben eines Wissenschaftlers, beantworten. Unser Versuch, mit Leuten von der Stra\u00dfe \u00fcber Wissenschaft zu sprechen, hat uns oft mit unvorhersehbaren Fragen und Situationen \u00fcberrascht. Wir nennen unsere Arbeit in der Wissenschaftskommunikation deshalb auch #harteformate und m\u00f6chten euch einen ersten Einblick und Diskussionsm\u00f6glichkeit \u00fcber diese Form von WissKomm geben. Vielleicht wagt ihr euch dann auch an ungewohnte Zielgruppen, die mit ein wenig charmanter Arbeit zu tollen Gespr\u00e4chspartnern werden und deren Neugier f\u00fcr euer Thema geweckt wird.", 
-                                "persons": [
-                                    {
-                                        "id": 0, 
-                                        "url": "https://events.ccc.de/congress/2017/wiki/index.php/User:AndereLampe", 
-                                        "public_name": "AndereLampe"
-                                    }
-                                ], 
-                                "links": [
-                                    "http://ploetzlichwissen.de", 
-                                    "https://events.ccc.de/congress/2017/wiki/index.php/Session:Gehen_drei_Wissenschaftler_in_eine_Kneipe"
-                                ]
-                            }, 
-                            {
-                                "id": 1123, 
-                                "guid": "11858c32-44c9-5669-a970-5865207dab1d", 
-                                "logo": null, 
-                                "date": "2017-12-28T15:30:00+01:00", 
-                                "start": "15:30", 
-                                "duration": "1:00", 
-                                "room": "Lecture room 12", 
-                                "slug": "", 
-                                "title": "Geschichten aus dem Krieg", 
-                                "subtitle": "", 
-                                "track": "self organized sessions", 
-                                "type": "", 
-                                "language": "", 
-                                "abstract": "", 
-                                "description": "Geschichten aus dem Krieg (Ullli and melzai talking about parenting with day job and small children)", 
-                                "persons": [], 
-                                "links": [
-                                    "https://events.ccc.de/congress/2017/wiki/index.php/Session:Geschichten_aus_dem_Krieg"
-                                ]
-                            }, 
-                            {
-                                "id": 1124, 
-                                "guid": "77132cab-30e6-5bff-94ba-15dc01ca0529", 
-                                "logo": null, 
-                                "date": "2017-12-28T17:00:00+01:00", 
-                                "start": "17:00", 
-                                "duration": "1:00", 
-                                "room": "Lecture room 12", 
-                                "slug": "", 
-                                "title": "HTML, CSS and a little bit", 
-                                "subtitle": "", 
-                                "track": "self organized sessions", 
-                                "type": "", 
-                                "language": "", 
-                                "abstract": "", 
-                                "description": "HTML, CSS and a little bit of JavaScript - Web-Programming for Beginners", 
-                                "persons": [], 
-                                "links": [
-                                    "https://events.ccc.de/congress/2017/wiki/index.php/Session:HTML,_CSS_and_a_little_bit"
-                                ]
-                            }, 
-                            {
-                                "id": 1168, 
-                                "guid": "e8540e23-bfa9-4635-a00e-d4f458ecb364", 
-                                "logo": null, 
-                                "date": "2017-12-28T11:00:00+01:00", 
-                                "start": "11:00", 
-                                "duration": "1:30", 
-                                "room": "Lecture room 12", 
-                                "slug": "", 
-                                "title": "Junghackertag Wissenschaftsschnitzeljagd", 
-                                "subtitle": "", 
-                                "track": "self organized sessions", 
-                                "type": "workshop", 
-                                "language": "de", 
-                                "abstract": "", 
-                                "description": "Wissenschaftler wissen auch nicht alles. Ist ja klar. Aber wie finden die dann Antworten auf Fragen, wenn sie es auch nicht genau wissen? Wir machen mit euch eine kleine Redaktionssitzung und erkl\u00e4ren euch, wie wir - Inga und Andr\u00e9 vom Wissenschaftskommunikationsprojekt \u201ePl\u00f6tzlich Wissen!\u201c - bei Fragen vorgegangen sind, die wir von Menschen auf der Stra\u00dfe gestellt und auf unserem Blog beantwortet haben. Wir sind beide Wissenschaftler und zeigen euch, wie ihr vorgehen k\u00f6nnt, wenn ihr auch mal an so eine Frage geratet. Wir recherchieren und diskutieren gemeinsam \u00fcber eine Frage, die wir bis zum Workshop auch nicht kannten: weil sie n\u00e4mlich von euch kommt! Wo finde ich gute Informationen? Welche Quelle ist seri\u00f6s? Wo sollte ich lieber vorsichtig sein? Lasst und das gemeinsam rausfinden! Ab 11:00 Uhr Workshop 60-90 Minuten. Ab 10 Jahren!", 
-                                "persons": [
-                                    {
-                                        "id": 0, 
-                                        "url": "https://events.ccc.de/congress/2017/wiki/index.php/User:AndereLampe", 
-                                        "public_name": "AndereLampe"
-                                    }
-                                ], 
-                                "links": [
-                                    "http://ploetzlichwissen.de", 
-                                    "https://events.ccc.de/congress/2017/wiki/index.php/Session:Junghackertag_Wissenschaftsschnitzeljagd"
-                                ]
-                            }, 
-                            {
-                                "id": 1299, 
-                                "guid": "58d27c73-4a82-4199-b186-f939686353b2", 
-                                "logo": null, 
-                                "date": "2017-12-28T13:00:00+01:00", 
-                                "start": "13:00", 
-                                "duration": "0:30", 
-                                "room": "Lecture room 12", 
-                                "slug": "", 
-                                "title": "Subtitles-Engelmeeting", 
-                                "subtitle": "", 
-                                "track": "self organized sessions", 
-                                "type": "meeting", 
-                                "language": "en", 
-                                "abstract": "", 
-                                "description": "Meeting for new subtitles angels. This is the one you need to be confirmed as a subtitles angel.", 
-                                "persons": [], 
-                                "links": [
-                                    "http://c3subtitles.de", 
-                                    "https://events.ccc.de/congress/2017/wiki/index.php/Session:Subtitles-Engelmeeting"
-                                ]
-                            }
-                        ], 
                         "Chaos West Stage": [
                             {
                                 "id": 1010, 
@@ -3456,6 +3251,211 @@
                                 "links": [
                                     "https://nextcloud.com/endtoend", 
                                     "https://events.ccc.de/congress/2017/wiki/index.php/Session:Nextcloud_End_to_End_Encryption"
+                                ]
+                            }
+                        ], 
+                        "Lecture room 12": [
+                            {
+                                "id": 1020, 
+                                "guid": "3a60d0e5-d4e4-4757-9fe1-3ac1f75e0e55", 
+                                "logo": null, 
+                                "date": "2017-12-28T20:30:00+01:00", 
+                                "start": "20:30", 
+                                "duration": "1:00", 
+                                "room": "Lecture room 12", 
+                                "slug": "", 
+                                "title": "All Creatures Welcome", 
+                                "subtitle": "backer meeting and open discussion", 
+                                "track": "self organized sessions", 
+                                "type": "meeting", 
+                                "language": "de", 
+                                "abstract": "", 
+                                "description": "In this meeting FilmGizmo will give everybody interested a quick overview of the formation process, the status and the future of the documentary project ALL CREATURES WELCOME. And, maybe most importantly: She will answer all the questions of the people who help to realize this movie and the ones who want to become part of it in an open discussion!", 
+                                "persons": [
+                                    {
+                                        "id": 0, 
+                                        "url": "https://events.ccc.de/congress/2017/wiki/index.php/User:Gizmo", 
+                                        "public_name": "Gizmo"
+                                    }
+                                ], 
+                                "links": [
+                                    "http://www.allcreatureswelcome.net", 
+                                    "https://events.ccc.de/congress/2017/wiki/index.php/Session:All_Creatures_Welcome"
+                                ]
+                            }, 
+                            {
+                                "id": 1047, 
+                                "guid": "32409b19-4156-4a2c-9fa3-3b724d0a4815", 
+                                "logo": null, 
+                                "date": "2017-12-28T19:30:00+01:00", 
+                                "start": "19:30", 
+                                "duration": "0:45", 
+                                "room": "Lecture room 12", 
+                                "slug": "", 
+                                "title": "Bridging messengers with Matrix.org", 
+                                "subtitle": "", 
+                                "track": "self organized sessions", 
+                                "type": "talk", 
+                                "language": "en", 
+                                "abstract": "", 
+                                "description": "Matrix is an open protocol for real-time communication. It not only provides a way to build messengers like riot.im, but it also allows bridging other messengers like IRC, Slack, Gitter, Telegram, etc.", 
+                                "persons": [
+                                    {
+                                        "id": 0, 
+                                        "url": "https://events.ccc.de/congress/2017/wiki/index.php/User:Exul", 
+                                        "public_name": "Exul"
+                                    }
+                                ], 
+                                "links": [
+                                    "https://github.com/exul/matrix-rocketchat", 
+                                    "https://events.ccc.de/congress/2017/wiki/index.php/Session:Bridging_messengers_with_Matrix.org"
+                                ]
+                            }, 
+                            {
+                                "id": 1089, 
+                                "guid": "4faa3b11-b441-4b17-ab71-8c98b89a7a67", 
+                                "logo": null, 
+                                "date": "2017-12-28T18:30:00+01:00", 
+                                "start": "18:30", 
+                                "duration": "1:00", 
+                                "room": "Lecture room 12", 
+                                "slug": "", 
+                                "title": "Decentralized Web", 
+                                "subtitle": "", 
+                                "track": "self organized sessions", 
+                                "type": "discussion", 
+                                "language": "en", 
+                                "abstract": "", 
+                                "description": "Discussion about the state of the decentralized web", 
+                                "persons": [
+                                    {
+                                        "id": 0, 
+                                        "url": "https://events.ccc.de/congress/2017/wiki/index.php/User:Mwarning", 
+                                        "public_name": "Mwarning"
+                                    }
+                                ], 
+                                "links": [
+                                    "https://events.ccc.de/congress/2017/wiki/index.php/Session:Decentralized_Web"
+                                ]
+                            }, 
+                            {
+                                "id": 1121, 
+                                "guid": "966bca46-17e6-4136-a382-6ccf3fb51bbc", 
+                                "logo": null, 
+                                "date": "2017-12-28T14:00:00+01:00", 
+                                "start": "14:00", 
+                                "duration": "1:15", 
+                                "room": "Lecture room 12", 
+                                "slug": "", 
+                                "title": "Gehen drei Wissenschaftler in eine Kneipe", 
+                                "subtitle": "\u201cPl\u00f6tzlich Wissen!\u201d: Eine etwas andere Art der Wissenschaftskommunikation", 
+                                "track": "self organized sessions", 
+                                "type": "workshop", 
+                                "language": "de", 
+                                "abstract": "", 
+                                "description": "Gehen drei Wissenschaftler und eine Handpuppe in eine Kneipe...und sprechen \u00fcber Wissenschaft mit Bezug auf Meere und Ozeane. Genau das machen wir, also Julia Schnetzer, Inga Marie Ramcke und Andr\u00e9 Lampe. Wir sprechen mit Menschen (fast) aller Altersklassen und Hintergr\u00fcnde und haben nicht nur unseren flauschigen Kollegen, den Dugong Dilhan - eine Gabelschwanzseekuh - sondern auch Experimente mit Meeresbezug und aktuelle Forschungsthemen im Gep\u00e4ck. Nat\u00fcrlich freuen wir uns ebenso \u00fcber pers\u00f6nliche Fragen, die wir sehr gern aus unserer Perspektive, also meist aus dem Leben eines Wissenschaftlers, beantworten. Unser Versuch, mit Leuten von der Stra\u00dfe \u00fcber Wissenschaft zu sprechen, hat uns oft mit unvorhersehbaren Fragen und Situationen \u00fcberrascht. Wir nennen unsere Arbeit in der Wissenschaftskommunikation deshalb auch #harteformate und m\u00f6chten euch einen ersten Einblick und Diskussionsm\u00f6glichkeit \u00fcber diese Form von WissKomm geben. Vielleicht wagt ihr euch dann auch an ungewohnte Zielgruppen, die mit ein wenig charmanter Arbeit zu tollen Gespr\u00e4chspartnern werden und deren Neugier f\u00fcr euer Thema geweckt wird.", 
+                                "persons": [
+                                    {
+                                        "id": 0, 
+                                        "url": "https://events.ccc.de/congress/2017/wiki/index.php/User:AndereLampe", 
+                                        "public_name": "AndereLampe"
+                                    }
+                                ], 
+                                "links": [
+                                    "http://ploetzlichwissen.de", 
+                                    "https://events.ccc.de/congress/2017/wiki/index.php/Session:Gehen_drei_Wissenschaftler_in_eine_Kneipe"
+                                ]
+                            }, 
+                            {
+                                "id": 1123, 
+                                "guid": "11858c32-44c9-5669-a970-5865207dab1d", 
+                                "logo": null, 
+                                "date": "2017-12-28T15:30:00+01:00", 
+                                "start": "15:30", 
+                                "duration": "1:00", 
+                                "room": "Lecture room 12", 
+                                "slug": "", 
+                                "title": "Geschichten aus dem Krieg", 
+                                "subtitle": "", 
+                                "track": "self organized sessions", 
+                                "type": "", 
+                                "language": "", 
+                                "abstract": "", 
+                                "description": "Geschichten aus dem Krieg (Ullli and melzai talking about parenting with day job and small children)", 
+                                "persons": [], 
+                                "links": [
+                                    "https://events.ccc.de/congress/2017/wiki/index.php/Session:Geschichten_aus_dem_Krieg"
+                                ]
+                            }, 
+                            {
+                                "id": 1124, 
+                                "guid": "77132cab-30e6-5bff-94ba-15dc01ca0529", 
+                                "logo": null, 
+                                "date": "2017-12-28T17:00:00+01:00", 
+                                "start": "17:00", 
+                                "duration": "1:00", 
+                                "room": "Lecture room 12", 
+                                "slug": "", 
+                                "title": "HTML, CSS and a little bit", 
+                                "subtitle": "", 
+                                "track": "self organized sessions", 
+                                "type": "", 
+                                "language": "", 
+                                "abstract": "", 
+                                "description": "HTML, CSS and a little bit of JavaScript - Web-Programming for Beginners", 
+                                "persons": [], 
+                                "links": [
+                                    "https://events.ccc.de/congress/2017/wiki/index.php/Session:HTML,_CSS_and_a_little_bit"
+                                ]
+                            }, 
+                            {
+                                "id": 1168, 
+                                "guid": "e8540e23-bfa9-4635-a00e-d4f458ecb364", 
+                                "logo": null, 
+                                "date": "2017-12-28T11:00:00+01:00", 
+                                "start": "11:00", 
+                                "duration": "1:30", 
+                                "room": "Lecture room 12", 
+                                "slug": "", 
+                                "title": "Junghackertag Wissenschaftsschnitzeljagd", 
+                                "subtitle": "", 
+                                "track": "self organized sessions", 
+                                "type": "workshop", 
+                                "language": "de", 
+                                "abstract": "", 
+                                "description": "Wissenschaftler wissen auch nicht alles. Ist ja klar. Aber wie finden die dann Antworten auf Fragen, wenn sie es auch nicht genau wissen? Wir machen mit euch eine kleine Redaktionssitzung und erkl\u00e4ren euch, wie wir - Inga und Andr\u00e9 vom Wissenschaftskommunikationsprojekt \u201ePl\u00f6tzlich Wissen!\u201c - bei Fragen vorgegangen sind, die wir von Menschen auf der Stra\u00dfe gestellt und auf unserem Blog beantwortet haben. Wir sind beide Wissenschaftler und zeigen euch, wie ihr vorgehen k\u00f6nnt, wenn ihr auch mal an so eine Frage geratet. Wir recherchieren und diskutieren gemeinsam \u00fcber eine Frage, die wir bis zum Workshop auch nicht kannten: weil sie n\u00e4mlich von euch kommt! Wo finde ich gute Informationen? Welche Quelle ist seri\u00f6s? Wo sollte ich lieber vorsichtig sein? Lasst und das gemeinsam rausfinden! Ab 11:00 Uhr Workshop 60-90 Minuten. Ab 10 Jahren!", 
+                                "persons": [
+                                    {
+                                        "id": 0, 
+                                        "url": "https://events.ccc.de/congress/2017/wiki/index.php/User:AndereLampe", 
+                                        "public_name": "AndereLampe"
+                                    }
+                                ], 
+                                "links": [
+                                    "http://ploetzlichwissen.de", 
+                                    "https://events.ccc.de/congress/2017/wiki/index.php/Session:Junghackertag_Wissenschaftsschnitzeljagd"
+                                ]
+                            }, 
+                            {
+                                "id": 1299, 
+                                "guid": "58d27c73-4a82-4199-b186-f939686353b2", 
+                                "logo": null, 
+                                "date": "2017-12-28T13:00:00+01:00", 
+                                "start": "13:00", 
+                                "duration": "0:30", 
+                                "room": "Lecture room 12", 
+                                "slug": "", 
+                                "title": "Subtitles-Engelmeeting", 
+                                "subtitle": "", 
+                                "track": "self organized sessions", 
+                                "type": "meeting", 
+                                "language": "en", 
+                                "abstract": "", 
+                                "description": "Meeting for new subtitles angels. This is the one you need to be confirmed as a subtitles angel.", 
+                                "persons": [], 
+                                "links": [
+                                    "http://c3subtitles.de", 
+                                    "https://events.ccc.de/congress/2017/wiki/index.php/Session:Subtitles-Engelmeeting"
                                 ]
                             }
                         ], 
@@ -5428,171 +5428,6 @@
                                 ]
                             }
                         ], 
-                        "Lecture room 12": [
-                            {
-                                "id": 1034, 
-                                "guid": "41957fb4-f68b-5703-a91f-4fce7a77ca7f", 
-                                "logo": null, 
-                                "date": "2017-12-29T17:00:00+01:00", 
-                                "start": "17:00", 
-                                "duration": "1:00", 
-                                "room": "Lecture room 12", 
-                                "slug": "", 
-                                "title": "Arduino-Workshop", 
-                                "subtitle": "", 
-                                "track": "self organized sessions", 
-                                "type": "", 
-                                "language": "", 
-                                "abstract": "", 
-                                "description": "Arduino-Workshop for Beginners and for sharing your more advanced project", 
-                                "persons": [], 
-                                "links": [
-                                    "https://events.ccc.de/congress/2017/wiki/index.php/Session:Arduino-Workshop"
-                                ]
-                            }, 
-                            {
-                                "id": 1042, 
-                                "guid": "b3c53743-270a-44cc-ace4-be10f070211e", 
-                                "logo": null, 
-                                "date": "2017-12-29T13:00:00+01:00", 
-                                "start": "13:00", 
-                                "duration": "1:00", 
-                                "room": "Lecture room 12", 
-                                "slug": "", 
-                                "title": "Bin\u00e4rgewitter H\u00f6rertreffen", 
-                                "subtitle": "", 
-                                "track": "self organized sessions", 
-                                "type": "meeting", 
-                                "language": "de", 
-                                "abstract": "", 
-                                "description": "Bin\u00e4rgewitter H\u00f6rertreffen auf dem 34c3", 
-                                "persons": [
-                                    {
-                                        "id": 0, 
-                                        "url": "https://events.ccc.de/congress/2017/wiki/index.php/User:Makefu", 
-                                        "public_name": "Makefu"
-                                    }
-                                ], 
-                                "links": [
-                                    "http://krepel.us", 
-                                    "https://events.ccc.de/congress/2017/wiki/index.php/Session:Bin%C3%A4rgewitter_H%C3%B6rertreffen"
-                                ]
-                            }, 
-                            {
-                                "id": 1104, 
-                                "guid": "f8c99603-0459-4199-af0e-18a5c6c8528c", 
-                                "logo": null, 
-                                "date": "2017-12-29T11:30:00+01:00", 
-                                "start": "11:30", 
-                                "duration": "1:00", 
-                                "room": "Lecture room 12", 
-                                "slug": "", 
-                                "title": "Faith in mathematics (Wondrous Mathematics)", 
-                                "subtitle": "", 
-                                "track": "self organized sessions", 
-                                "type": "talk", 
-                                "language": "en", 
-                                "abstract": "", 
-                                "description": "Since G\u00f6del's celebrated work we know: The rules of mathematics are incomplete. There are true statements for which we have proof that they don't have a proof and there are statements for which we can arbitrarily decide whether they are true or not. Learn more about this curious state of affairs in the session!", 
-                                "persons": [
-                                    {
-                                        "id": 0, 
-                                        "url": "https://events.ccc.de/congress/2017/wiki/index.php/User:IngoBlechschmidt", 
-                                        "public_name": "IngoBlechschmidt"
-                                    }
-                                ], 
-                                "links": [
-                                    "https://events.ccc.de/congress/2017/wiki/index.php/Session:Faith_in_mathematics_(Wondrous_Mathematics)"
-                                ]
-                            }, 
-                            {
-                                "id": 1203, 
-                                "guid": "7eca5104-3a60-412d-904f-920285df3428", 
-                                "logo": null, 
-                                "date": "2017-12-29T18:00:00+01:00", 
-                                "start": "18:00", 
-                                "duration": "1:30", 
-                                "room": "Lecture room 12", 
-                                "slug": "", 
-                                "title": "Microdosing Psychedelics:roundtable discussion", 
-                                "subtitle": "", 
-                                "track": "self organized sessions", 
-                                "type": "discussion", 
-                                "language": "en", 
-                                "abstract": "", 
-                                "description": "Despite the dense and controversial history of psychedelics, since around 2000 in Europe and United States researchers have reopened investigations into the potential therapeutic applications of these drugs. However, today a variety of psychedelic uses exist both within and outside of medicine. According to numerous press reports, in Rolling Stones, Wired Magazine, Vice, Marie Claire, The Economist, Forbes, The Washington Post, The Guardian and many other journals, Microdosing Psychedelics appears to gain in popularity within different social spheres, especially in professional fields such as informatics and information technologies. It is also supported for its therapeutic dimension, as we can see it in the book of the lawyer and novelist Ayelet Waldman, A Really Good Day, who explains that microdosing helped her to recover from a depression, and, finally, according to the data collected up till now by the psychologist James Fadiman or the information on current scientific research provided by the association The Third Wave. From a comprehensive and non-evaluative sociological perspective, this self-organized session will be dedicated to the current variety of (non-) therapeutic uses of psychedelics, and will aim to share experiences and opinions related to the theme of microdosing psychedelics.", 
-                                "persons": [], 
-                                "links": [
-                                    "https://events.ccc.de/congress/2017/wiki/index.php/Session:Microdosing_Psychedelics:roundtable_discussion"
-                                ]
-                            }, 
-                            {
-                                "id": 1213, 
-                                "guid": "250f6aec-1814-47b4-8396-c292ec198174", 
-                                "logo": null, 
-                                "date": "2017-12-29T19:30:00+01:00", 
-                                "start": "19:30", 
-                                "duration": "1:30", 
-                                "room": "Lecture room 12", 
-                                "slug": "", 
-                                "title": "Network hacks for smart attacks", 
-                                "subtitle": "", 
-                                "track": "self organized sessions", 
-                                "type": "workshop", 
-                                "language": "en", 
-                                "abstract": "", 
-                                "description": "A lab about practical attacks on different routing protocols (RIPv2, OSPFv2 and BGP), using GNS3 network simulation tool for creating the virtual lab and for testing the various attacks.", 
-                                "persons": [
-                                    {
-                                        "id": 0, 
-                                        "url": "https://events.ccc.de/congress/2017/wiki/index.php/User:Illordlo", 
-                                        "public_name": "Illordlo"
-                                    }
-                                ], 
-                                "links": [
-                                    "http://asseenonyp.com", 
-                                    "https://events.ccc.de/congress/2017/wiki/index.php/Session:Network_hacks_for_smart_attacks"
-                                ]
-                            }, 
-                            {
-                                "id": 1248, 
-                                "guid": "a4441595-d79f-4625-8f0d-037c8eb05877", 
-                                "logo": null, 
-                                "date": "2017-12-29T14:00:00+01:00", 
-                                "start": "14:00", 
-                                "duration": "3:00", 
-                                "room": "Lecture room 12", 
-                                "slug": "", 
-                                "title": "Replicant Install Fest", 
-                                "subtitle": "", 
-                                "track": "self organized sessions", 
-                                "type": "hands-on", 
-                                "language": "en", 
-                                "abstract": "", 
-                                "description": "You use your smartphone more than any other computer in your posession? You wonder if you are in control over your device and your data? Is it the manufacturer, the networt carrier, the OS developer, or the app developers? \n\nIn this workshop we will shine some light into these questions. We will give you advise how to choose freedom and start to take back control over your mobile devices by installing Replicant. Replicant is a truly freedom and privacy-respecting OS based on Android. \n\nYou will learn how to install Replicant on variety compatible Android devices (replicant.us/supported-devices.php). You can ask questions and can also participate with your own devices. We will provide a number of compatible devices to experiment with.", 
-                                "persons": [
-                                    {
-                                        "id": 0, 
-                                        "url": "https://events.ccc.de/congress/2017/wiki/index.php/User:Eal", 
-                                        "public_name": "Eal"
-                                    }, 
-                                    {
-                                        "id": 0, 
-                                        "url": "https://events.ccc.de/congress/2017/wiki/index.php/User:N0airc0n", 
-                                        "public_name": "N0airc0n"
-                                    }, 
-                                    {
-                                        "id": 0, 
-                                        "url": "https://events.ccc.de/congress/2017/wiki/index.php/User:Tiberiu", 
-                                        "public_name": "Tiberiu"
-                                    }
-                                ], 
-                                "links": [
-                                    "http://replicant.us", 
-                                    "https://events.ccc.de/congress/2017/wiki/index.php/Session:Replicant_Install_Fest"
-                                ]
-                            }
-                        ], 
                         "Chaos West Stage": [
                             {
                                 "id": 1156, 
@@ -5758,6 +5593,171 @@
                                 "links": [
                                     "http://youbroketheinternet.org/", 
                                     "https://events.ccc.de/congress/2017/wiki/index.php/Session:Ybti%2Bwefixthenet"
+                                ]
+                            }
+                        ], 
+                        "Lecture room 12": [
+                            {
+                                "id": 1034, 
+                                "guid": "41957fb4-f68b-5703-a91f-4fce7a77ca7f", 
+                                "logo": null, 
+                                "date": "2017-12-29T17:00:00+01:00", 
+                                "start": "17:00", 
+                                "duration": "1:00", 
+                                "room": "Lecture room 12", 
+                                "slug": "", 
+                                "title": "Arduino-Workshop", 
+                                "subtitle": "", 
+                                "track": "self organized sessions", 
+                                "type": "", 
+                                "language": "", 
+                                "abstract": "", 
+                                "description": "Arduino-Workshop for Beginners and for sharing your more advanced project", 
+                                "persons": [], 
+                                "links": [
+                                    "https://events.ccc.de/congress/2017/wiki/index.php/Session:Arduino-Workshop"
+                                ]
+                            }, 
+                            {
+                                "id": 1042, 
+                                "guid": "b3c53743-270a-44cc-ace4-be10f070211e", 
+                                "logo": null, 
+                                "date": "2017-12-29T13:00:00+01:00", 
+                                "start": "13:00", 
+                                "duration": "1:00", 
+                                "room": "Lecture room 12", 
+                                "slug": "", 
+                                "title": "Bin\u00e4rgewitter H\u00f6rertreffen", 
+                                "subtitle": "", 
+                                "track": "self organized sessions", 
+                                "type": "meeting", 
+                                "language": "de", 
+                                "abstract": "", 
+                                "description": "Bin\u00e4rgewitter H\u00f6rertreffen auf dem 34c3", 
+                                "persons": [
+                                    {
+                                        "id": 0, 
+                                        "url": "https://events.ccc.de/congress/2017/wiki/index.php/User:Makefu", 
+                                        "public_name": "Makefu"
+                                    }
+                                ], 
+                                "links": [
+                                    "http://krepel.us", 
+                                    "https://events.ccc.de/congress/2017/wiki/index.php/Session:Bin%C3%A4rgewitter_H%C3%B6rertreffen"
+                                ]
+                            }, 
+                            {
+                                "id": 1104, 
+                                "guid": "f8c99603-0459-4199-af0e-18a5c6c8528c", 
+                                "logo": null, 
+                                "date": "2017-12-29T11:30:00+01:00", 
+                                "start": "11:30", 
+                                "duration": "1:00", 
+                                "room": "Lecture room 12", 
+                                "slug": "", 
+                                "title": "Faith in mathematics (Wondrous Mathematics)", 
+                                "subtitle": "", 
+                                "track": "self organized sessions", 
+                                "type": "talk", 
+                                "language": "en", 
+                                "abstract": "", 
+                                "description": "Since G\u00f6del's celebrated work we know: The rules of mathematics are incomplete. There are true statements for which we have proof that they don't have a proof and there are statements for which we can arbitrarily decide whether they are true or not. Learn more about this curious state of affairs in the session!", 
+                                "persons": [
+                                    {
+                                        "id": 0, 
+                                        "url": "https://events.ccc.de/congress/2017/wiki/index.php/User:IngoBlechschmidt", 
+                                        "public_name": "IngoBlechschmidt"
+                                    }
+                                ], 
+                                "links": [
+                                    "https://events.ccc.de/congress/2017/wiki/index.php/Session:Faith_in_mathematics_(Wondrous_Mathematics)"
+                                ]
+                            }, 
+                            {
+                                "id": 1203, 
+                                "guid": "7eca5104-3a60-412d-904f-920285df3428", 
+                                "logo": null, 
+                                "date": "2017-12-29T18:00:00+01:00", 
+                                "start": "18:00", 
+                                "duration": "1:30", 
+                                "room": "Lecture room 12", 
+                                "slug": "", 
+                                "title": "Microdosing Psychedelics:roundtable discussion", 
+                                "subtitle": "", 
+                                "track": "self organized sessions", 
+                                "type": "discussion", 
+                                "language": "en", 
+                                "abstract": "", 
+                                "description": "Despite the dense and controversial history of psychedelics, since around 2000 in Europe and United States researchers have reopened investigations into the potential therapeutic applications of these drugs. However, today a variety of psychedelic uses exist both within and outside of medicine. According to numerous press reports, in Rolling Stones, Wired Magazine, Vice, Marie Claire, The Economist, Forbes, The Washington Post, The Guardian and many other journals, Microdosing Psychedelics appears to gain in popularity within different social spheres, especially in professional fields such as informatics and information technologies. It is also supported for its therapeutic dimension, as we can see it in the book of the lawyer and novelist Ayelet Waldman, A Really Good Day, who explains that microdosing helped her to recover from a depression, and, finally, according to the data collected up till now by the psychologist James Fadiman or the information on current scientific research provided by the association The Third Wave. From a comprehensive and non-evaluative sociological perspective, this self-organized session will be dedicated to the current variety of (non-) therapeutic uses of psychedelics, and will aim to share experiences and opinions related to the theme of microdosing psychedelics.", 
+                                "persons": [], 
+                                "links": [
+                                    "https://events.ccc.de/congress/2017/wiki/index.php/Session:Microdosing_Psychedelics:roundtable_discussion"
+                                ]
+                            }, 
+                            {
+                                "id": 1213, 
+                                "guid": "250f6aec-1814-47b4-8396-c292ec198174", 
+                                "logo": null, 
+                                "date": "2017-12-29T19:30:00+01:00", 
+                                "start": "19:30", 
+                                "duration": "1:30", 
+                                "room": "Lecture room 12", 
+                                "slug": "", 
+                                "title": "Network hacks for smart attacks", 
+                                "subtitle": "", 
+                                "track": "self organized sessions", 
+                                "type": "workshop", 
+                                "language": "en", 
+                                "abstract": "", 
+                                "description": "A lab about practical attacks on different routing protocols (RIPv2, OSPFv2 and BGP), using GNS3 network simulation tool for creating the virtual lab and for testing the various attacks.", 
+                                "persons": [
+                                    {
+                                        "id": 0, 
+                                        "url": "https://events.ccc.de/congress/2017/wiki/index.php/User:Illordlo", 
+                                        "public_name": "Illordlo"
+                                    }
+                                ], 
+                                "links": [
+                                    "http://asseenonyp.com", 
+                                    "https://events.ccc.de/congress/2017/wiki/index.php/Session:Network_hacks_for_smart_attacks"
+                                ]
+                            }, 
+                            {
+                                "id": 1248, 
+                                "guid": "a4441595-d79f-4625-8f0d-037c8eb05877", 
+                                "logo": null, 
+                                "date": "2017-12-29T14:00:00+01:00", 
+                                "start": "14:00", 
+                                "duration": "3:00", 
+                                "room": "Lecture room 12", 
+                                "slug": "", 
+                                "title": "Replicant Install Fest", 
+                                "subtitle": "", 
+                                "track": "self organized sessions", 
+                                "type": "hands-on", 
+                                "language": "en", 
+                                "abstract": "", 
+                                "description": "You use your smartphone more than any other computer in your posession? You wonder if you are in control over your device and your data? Is it the manufacturer, the networt carrier, the OS developer, or the app developers? \n\nIn this workshop we will shine some light into these questions. We will give you advise how to choose freedom and start to take back control over your mobile devices by installing Replicant. Replicant is a truly freedom and privacy-respecting OS based on Android. \n\nYou will learn how to install Replicant on variety compatible Android devices (replicant.us/supported-devices.php). You can ask questions and can also participate with your own devices. We will provide a number of compatible devices to experiment with.", 
+                                "persons": [
+                                    {
+                                        "id": 0, 
+                                        "url": "https://events.ccc.de/congress/2017/wiki/index.php/User:Eal", 
+                                        "public_name": "Eal"
+                                    }, 
+                                    {
+                                        "id": 0, 
+                                        "url": "https://events.ccc.de/congress/2017/wiki/index.php/User:N0airc0n", 
+                                        "public_name": "N0airc0n"
+                                    }, 
+                                    {
+                                        "id": 0, 
+                                        "url": "https://events.ccc.de/congress/2017/wiki/index.php/User:Tiberiu", 
+                                        "public_name": "Tiberiu"
+                                    }
+                                ], 
+                                "links": [
+                                    "http://replicant.us", 
+                                    "https://events.ccc.de/congress/2017/wiki/index.php/Session:Replicant_Install_Fest"
                                 ]
                             }
                         ], 
@@ -7129,6 +7129,7 @@
                             }
                         ], 
                         "Hive Stage": [], 
+                        "Chaos West Stage": [], 
                         "Lecture room 12": [
                             {
                                 "id": 1096, 
@@ -7187,7 +7188,6 @@
                                 ]
                             }
                         ], 
-                        "Chaos West Stage": [], 
                         "CCL Hall 3": [
                             {
                                 "id": 1265, 
@@ -7502,6 +7502,6 @@
                 }
             ]
         }, 
-        "version": "XXX"
+        "version": "2017-12-28 00:02"
     }
 }
