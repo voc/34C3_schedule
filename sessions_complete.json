@@ -2498,56 +2498,6 @@
         "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:Flashing_(Fair-)phones_with_Custom_Roms,_F-Droid_etc.", 
         "Has end time": []
     }, 
-    "Session:IOSRE# b605d239e676c5c3ac5a4f595c8d429a": {
-        "Held in language": [
-            "en - English"
-        ], 
-        "Has start time": [
-            "1514484000"
-        ], 
-        "Has event track": [
-            "Session"
-        ], 
-        "Has website": [], 
-        "Has description": [
-            "A discussion forum on removing bugs from apples, helping them grow, and releasing them into the wild."
-        ], 
-        "Has session type": [
-            "Meeting"
-        ], 
-        "Has session location": [], 
-        "Has subtitle": [], 
-        "Is organized by": [
-            {
-                "fulltext": "User:Argp@zfree.racing", 
-                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/User:Argp@zfree.racing", 
-                "namespace": 2, 
-                "exists": false
-            }, 
-            {
-                "fulltext": "User:Q@iokit.racing", 
-                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/User:Q@iokit.racing", 
-                "namespace": 2, 
-                "exists": false
-            }
-        ], 
-        "Has title": [
-            "IOSRE"
-        ], 
-        "Has duration": [
-            120
-        ], 
-        "GUID": [
-            "853d372f-738d-4df5-8099-983e0f10ba98"
-        ], 
-        "Has color": [
-            "#0099ab"
-        ], 
-        "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:IOSRE", 
-        "Has end time": [
-            "1514491200"
-        ]
-    }, 
     "Session:Rights&Freedoms# fad59535ab20a100c6f2fee90ad83afd": {
         "Held in language": [
             "de - German", 
@@ -6995,6 +6945,56 @@
             "1514412000"
         ]
     }, 
+    "Session:IOSRE# 7b31aff38007f425add9d84e76fb5d25": {
+        "Held in language": [
+            "en - English"
+        ], 
+        "Has start time": [
+            "1514480400"
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [], 
+        "Has description": [
+            "A discussion forum on removing bugs from apples, helping them grow, and releasing them into the wild."
+        ], 
+        "Has session type": [
+            "Meeting"
+        ], 
+        "Has session location": [], 
+        "Has subtitle": [], 
+        "Is organized by": [
+            {
+                "fulltext": "User:Argp@zfree.racing", 
+                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/User:Argp@zfree.racing", 
+                "namespace": 2, 
+                "exists": false
+            }, 
+            {
+                "fulltext": "User:Q@iokit.racing", 
+                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/User:Q@iokit.racing", 
+                "namespace": 2, 
+                "exists": false
+            }
+        ], 
+        "Has title": [
+            "IOSRE"
+        ], 
+        "Has duration": [
+            120
+        ], 
+        "GUID": [
+            "853d372f-738d-4df5-8099-983e0f10ba98"
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:IOSRE", 
+        "Has end time": [
+            "1514487600"
+        ]
+    }, 
     "Session:Bridging messengers with Matrix.org# 99d3da5cec070f18fe783c0afed88ec1": {
         "Held in language": [
             "en - English"
@@ -9563,6 +9563,51 @@
             "1514563200"
         ]
     }, 
+    "Session:Bouldering# 18c54a91992802d141c4ee1881b199b0": {
+        "Held in language": [
+            "de - German", 
+            "en - English"
+        ], 
+        "Has start time": [
+            "1514556000"
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [], 
+        "Has description": [
+            "Let's climb some walls!"
+        ], 
+        "Has session type": [
+            "Hands-On"
+        ], 
+        "Has session location": [], 
+        "Has subtitle": [], 
+        "Is organized by": [
+            {
+                "fulltext": "User:Tiefpunkt", 
+                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/User:Tiefpunkt", 
+                "namespace": 2, 
+                "exists": true
+            }
+        ], 
+        "Has title": [
+            "Bouldering"
+        ], 
+        "Has duration": [
+            180
+        ], 
+        "GUID": [
+            "afe093fd-965d-4d1b-a39e-98c2bff96ab3"
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:Bouldering", 
+        "Has end time": [
+            "1514566800"
+        ]
+    }, 
     "Session:Introduction to Wikidata# 1434e012a87515df030cee74a56c9ef6": {
         "Held in language": [
             "en - English"
@@ -10603,6 +10648,12 @@
             {
                 "fulltext": "User:Feitastic", 
                 "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/User:Feitastic", 
+                "namespace": 2, 
+                "exists": true
+            }, 
+            {
+                "fulltext": "User:Ludger", 
+                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/User:Ludger", 
                 "namespace": 2, 
                 "exists": true
             }
@@ -14749,41 +14800,6 @@
         "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:DLF", 
         "Has end time": [
             "1514645100"
-        ]
-    }, 
-    "Session:Bouldering# a7384ea6304d3792431441a1c5d11c8a": {
-        "Held in language": [], 
-        "Has start time": [
-            "1514556000"
-        ], 
-        "Has event track": [
-            "Session"
-        ], 
-        "Has website": [], 
-        "Has description": [
-            "Let's climb some walls!"
-        ], 
-        "Has session type": [
-            "Hands-On"
-        ], 
-        "Has session location": [], 
-        "Has subtitle": [], 
-        "Is organized by": [], 
-        "Has title": [
-            "Bouldering"
-        ], 
-        "Has duration": [
-            120
-        ], 
-        "GUID": [
-            "afe093fd-965d-4d1b-a39e-98c2bff96ab3"
-        ], 
-        "Has color": [
-            "#0099ab"
-        ], 
-        "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:Bouldering", 
-        "Has end time": [
-            "1514563200"
         ]
     }, 
     "Session:(what is) Transformative Justice for Communities# e06c52463becdef4b73bc2483ee73bb0": {
