@@ -456,54 +456,6 @@
             "1514484000"
         ]
     }, 
-    "Session:WireGuard# 2fb6483dd3e687aa0d8f6180dcd94973": {
-        "Held in language": [
-            "en - English"
-        ], 
-        "Has start time": [
-            "1514550600"
-        ], 
-        "Has event track": [
-            "Session"
-        ], 
-        "Has website": [
-            "https://www.wireguard.com/"
-        ], 
-        "Has description": [
-            "WireGuard is a next generation secure network tunnel, which uses state of the art cryptography. This workshop will discuss what WireGuard is, the cryptography behind it, some interesting kernel engineering tricks it uses, and how you too can use it. There will be copious quantities of free stickers. The session will be fairly open and free form. The creator of WireGuard will have an endless quantity of material of his own to present, but more generally, we'll open it up to whatever people want to discuss and collaborate on. If you're interested in kernel programming, networking, cryptography, or security, this is a key workshop to attend."
-        ], 
-        "Has session type": [
-            "Workshop"
-        ], 
-        "Has session location": [
-            {
-                "fulltext": "Room:Lecture room 12", 
-                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Room:Lecture_room_12", 
-                "namespace": 516, 
-                "exists": true
-            }
-        ], 
-        "Has subtitle": [
-            "Temporary hold"
-        ], 
-        "Is organized by": [], 
-        "Has title": [
-            "WireGuard"
-        ], 
-        "Has duration": [
-            30
-        ], 
-        "GUID": [
-            "dc1ce5c6-2b4a-4a3a-b46d-d14f5fc6b901"
-        ], 
-        "Has color": [
-            "#0099ab"
-        ], 
-        "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:WireGuard", 
-        "Has end time": [
-            "1514552400"
-        ]
-    }, 
     "Session:Intro to Arduino Shield Soldering and Programing# 9c986f80fce7aa40460e060da65ae06b": {
         "Held in language": [
             "en - English"
@@ -845,6 +797,53 @@
         "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:Kreatives_Beschimpfen_Pt._2:_Es_gibt_kein_Battle", 
         "Has end time": [
             "1514584800"
+        ]
+    }, 
+    "Session:Rights&Freedoms# 49dc201e4efafe4a8e561bfa507f359a": {
+        "Held in language": [
+            "de - German", 
+            "en - English"
+        ], 
+        "Has start time": [
+            "1514476800"
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [], 
+        "Has description": [
+            "Rights & Freedoms Cluster Stage Programme"
+        ], 
+        "Has session type": [
+            "Talk"
+        ], 
+        "Has session location": [
+            {
+                "fulltext": "Room:CCL Hall 3", 
+                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Room:CCL_Hall_3", 
+                "namespace": 516, 
+                "exists": true
+            }
+        ], 
+        "Has subtitle": [
+            "Diskussion zur Netzpolitik in der Schweiz 2018 (Digitale Gesellschaft CH)"
+        ], 
+        "Is organized by": [], 
+        "Has title": [
+            "Rights&Freedoms"
+        ], 
+        "Has duration": [
+            120
+        ], 
+        "GUID": [
+            "092ae74e-8fda-49c2-a247-f444f59864d0"
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:Rights%26Freedoms", 
+        "Has end time": [
+            "1514484000"
         ]
     }, 
     "Session:Postapocalyptic fidget spinner workshop# 9976aa1a6bf37b568b3ac98047e47476": {
@@ -2269,7 +2268,9 @@
         "Has event track": [
             "Session"
         ], 
-        "Has website": [], 
+        "Has website": [
+            "http://c3subtitles.de"
+        ], 
         "Has description": [
             "Meeting for new subtitles angels. This is the one you need to be confirmed as a subtitles angel."
         ], 
@@ -2684,6 +2685,53 @@
             "1514397600"
         ]
     }, 
+    "Session:Rights&Freedoms# fad59535ab20a100c6f2fee90ad83afd": {
+        "Held in language": [
+            "de - German", 
+            "en - English"
+        ], 
+        "Has start time": [
+            "1514574000"
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [], 
+        "Has description": [
+            "Rights & Freedoms Cluster Stage Programme"
+        ], 
+        "Has session type": [
+            "Talk"
+        ], 
+        "Has session location": [
+            {
+                "fulltext": "Room:CCL Hall 3", 
+                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Room:CCL_Hall_3", 
+                "namespace": 516, 
+                "exists": true
+            }
+        ], 
+        "Has subtitle": [
+            "[https://events.ccc.de/congress/2017/wiki/index.php/Session:Public_Money%3F_Public_Code! Public money? Public code!] (Polina Malaja and Katharina Nocun)"
+        ], 
+        "Is organized by": [], 
+        "Has title": [
+            "Rights&Freedoms"
+        ], 
+        "Has duration": [
+            60
+        ], 
+        "GUID": [
+            "4f988987-df21-4bd4-a494-bf5fff3c3f42"
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:Rights%26Freedoms", 
+        "Has end time": [
+            "1514577600"
+        ]
+    }, 
     "Session:How to make chiptune with a Game Boy DMG# 6223ac61875bb7990ff445b2b89d174f": {
         "Held in language": [
             "en - English"
@@ -2737,55 +2785,104 @@
             "1514496600"
         ]
     }, 
-    "Session:Request a query# fd2fb859f3118190c0e813bb33d26137": {
+    "Session:Rights&Freedoms# 3063e1754502aed3fa8b11094252bb49": {
         "Held in language": [
+            "de - German", 
             "en - English"
         ], 
         "Has start time": [
-            "1514394000"
+            "1514383200"
         ], 
         "Has event track": [
             "Session"
         ], 
         "Has website": [], 
         "Has description": [
-            "If you have an idea for a query using Wikidata but aren\u2019t sure how to write it, or just want to hang out and discuss the Query Service with fellow-minded people, join us!"
+            "Rights & Freedoms Cluster Stage Programme"
         ], 
         "Has session type": [
-            "Hands-On"
+            "Talk"
         ], 
         "Has session location": [
             {
-                "fulltext": "Room:Esszimmer", 
-                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Room:Esszimmer", 
+                "fulltext": "Room:CCL Hall 3", 
+                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Room:CCL_Hall_3", 
                 "namespace": 516, 
                 "exists": true
             }
         ], 
-        "Has subtitle": [], 
+        "Has subtitle": [
+            "[https://events.ccc.de/congress/2017/wiki/index.php/Session:Newpipe Newpipe] (Chris Schabesberger)"
+        ], 
+        "Is organized by": [], 
+        "Has title": [
+            "Rights&Freedoms"
+        ], 
+        "Has duration": [
+            60
+        ], 
+        "GUID": [
+            "b9ea5336-f739-4170-a424-208041a7e313"
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:Rights%26Freedoms", 
+        "Has end time": [
+            "1514386800"
+        ]
+    }, 
+    "Session:TeaHouse# 7ba0aa55eaffb89b77ee77e479b6d115": {
+        "Held in language": [
+            "en - English"
+        ], 
+        "Has start time": [
+            "1514385000"
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [
+            "https://teahouse.homecomputing.fr/"
+        ], 
+        "Has description": [], 
+        "Has session type": [
+            "Meeting"
+        ], 
+        "Has session location": [
+            {
+                "fulltext": "Assembly:TeaHouse", 
+                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Assembly:TeaHouse", 
+                "namespace": 504, 
+                "exists": true
+            }
+        ], 
+        "Has subtitle": [
+            "State of website censorship in France and elsewhere ?"
+        ], 
         "Is organized by": [
             {
-                "fulltext": "User:Lucas Werkmeister", 
-                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/User:Lucas_Werkmeister", 
+                "fulltext": "User:Sanpi", 
+                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/User:Sanpi", 
                 "namespace": 2, 
                 "exists": true
             }
         ], 
         "Has title": [
-            "Request a query"
+            "TeaHouse"
         ], 
         "Has duration": [
-            45
+            60
         ], 
         "GUID": [
-            "8a7bd529-29d2-554c-835f-3d689b7c9f4c"
+            "ef3bcca2-42bc-4bb0-a326-70e277316094"
         ], 
         "Has color": [
             "#0099ab"
         ], 
-        "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:Request_a_query", 
+        "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:TeaHouse", 
         "Has end time": [
-            "1514396700"
+            "1514388600"
         ]
     }, 
     "Session:A/V Angel Meeting# 445a1ffd26b65f861e78e209346f84d2": {
@@ -3026,6 +3123,59 @@
             "1514649600"
         ]
     }, 
+    "Session:Let's hack words# 5f9d8bfbb00078f101d45f5bac5e5433": {
+        "Held in language": [
+            "en - English"
+        ], 
+        "Has start time": [
+            "1514566800"
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [], 
+        "Has description": [
+            "It's a creative writing workshop. Interested participants will deal with this year's theme of #tuwat - do something. Don't wait for whatever you are waiting for. You can be active. You can change the world. You could even write a book."
+        ], 
+        "Has session type": [
+            "Hands-On"
+        ], 
+        "Has session location": [
+            {
+                "fulltext": "Room:Seminar room 13", 
+                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Room:Seminar_room_13", 
+                "namespace": 516, 
+                "exists": true
+            }
+        ], 
+        "Has subtitle": [
+            "Creative Writing Workshop"
+        ], 
+        "Is organized by": [
+            {
+                "fulltext": "User:Jinxx", 
+                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/User:Jinxx", 
+                "namespace": 2, 
+                "exists": true
+            }
+        ], 
+        "Has title": [
+            "Let's hack words"
+        ], 
+        "Has duration": [
+            60
+        ], 
+        "GUID": [
+            "0d5446c8-3e00-4936-a635-f054adfb177a"
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:Let%27s_hack_words", 
+        "Has end time": [
+            "1514570400"
+        ]
+    }, 
     "Session:Security Without Borders# 77b19904bc175785c30273f753eee496": {
         "Held in language": [], 
         "Has start time": [
@@ -3075,55 +3225,51 @@
             "1514409300"
         ]
     }, 
-    "Session:Faith in mathematics (Wondrous Mathematics)# a088dd9c036046ce5ae7685bcc6f2842": {
+    "Session:Rights&Freedoms# f7e9bee8a00f1bf00988106eb108e45e": {
         "Held in language": [
+            "de - German", 
             "en - English"
         ], 
         "Has start time": [
-            "1514547000"
+            "1514466000"
         ], 
         "Has event track": [
             "Session"
         ], 
         "Has website": [], 
         "Has description": [
-            "Since G\u00f6del's celebrated work we know: The rules of mathematics are incomplete. There are true statements for which we have proof that they don't have a proof and there are statements for which we can arbitrarily decide whether they are true or not. Learn more about this curious state of affairs in the session!"
+            "Rights & Freedoms Cluster Stage Programme"
         ], 
         "Has session type": [
             "Talk"
         ], 
         "Has session location": [
             {
-                "fulltext": "Room:Lecture room 12", 
-                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Room:Lecture_room_12", 
+                "fulltext": "Room:CCL Hall 3", 
+                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Room:CCL_Hall_3", 
                 "namespace": 516, 
                 "exists": true
             }
         ], 
-        "Has subtitle": [], 
-        "Is organized by": [
-            {
-                "fulltext": "User:IngoBlechschmidt", 
-                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/User:IngoBlechschmidt", 
-                "namespace": 2, 
-                "exists": true
-            }
+        "Has subtitle": [
+            "Take e-voting away from Europe (Hermes Center)"
         ], 
+        "Is organized by": [], 
         "Has title": [
-            "Faith in mathematics (Wondrous Mathematics)"
+            "Rights&Freedoms"
         ], 
         "Has duration": [
             60
         ], 
         "GUID": [
-            "f8c99603-0459-4199-af0e-18a5c6c8528c"
+            "cb719734-0650-4539-928a-ac4577eb588c"
         ], 
         "Has color": [
             "#0099ab"
         ], 
-        "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:Faith_in_mathematics_(Wondrous_Mathematics)", 
+        "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:Rights%26Freedoms", 
         "Has end time": [
-            "1514550600"
+            "1514469600"
         ]
     }, 
     "Session:Klangteppich# e3ae1cc334d20a23349a7303e72a0c3a": {
@@ -4923,53 +5069,6 @@
             "1514417400"
         ]
     }, 
-    "Session:Food Hacking: Kombucha is Easy# a15f2e41078134579f127d12fc267c2b": {
-        "Held in language": [
-            "cs - Czech", 
-            "en - English"
-        ], 
-        "Has start time": [
-            "1514556000"
-        ], 
-        "Has event track": [
-            "Session"
-        ], 
-        "Has website": [
-            "https://foodhackingbase.org/wiki/Kombucha_is_easy_34c3"
-        ], 
-        "Has description": [
-            "You will learn how take care properly about our kombucha culture (mother/SCOBY) brewing lovely beverage of your own so you can continue to do that at home or your local hackerspace."
-        ], 
-        "Has session type": [
-            "Hands-On"
-        ], 
-        "Has session location": [
-            {
-                "fulltext": "Assembly:Foodhackingbase", 
-                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Assembly:Foodhackingbase", 
-                "namespace": 504, 
-                "exists": true
-            }
-        ], 
-        "Has subtitle": [], 
-        "Is organized by": [], 
-        "Has title": [
-            "Food Hacking: Kombucha is Easy"
-        ], 
-        "Has duration": [
-            120
-        ], 
-        "GUID": [
-            "64c63e3f-0999-40ac-b4ec-7caac1c51b1b"
-        ], 
-        "Has color": [
-            "#0099ab"
-        ], 
-        "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:Food_Hacking:_Kombucha_is_Easy", 
-        "Has end time": [
-            "1514563200"
-        ]
-    }, 
     "Session:OParl: ein Datenstandard, um politische Entscheidungen transparent zu machen# b8b14d32f01198e29d282a1839ea2082": {
         "Held in language": [
             "de - German"
@@ -5155,6 +5254,53 @@
         "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:Blue_Hackers", 
         "Has end time": []
     }, 
+    "Session:Rights&Freedoms# 3c9414ebde7f44620db07df1199ecec7": {
+        "Held in language": [
+            "de - German", 
+            "en - English"
+        ], 
+        "Has start time": [
+            "1514473200"
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [], 
+        "Has description": [
+            "Rights & Freedoms Cluster Stage Programme"
+        ], 
+        "Has session type": [
+            "Talk"
+        ], 
+        "Has session location": [
+            {
+                "fulltext": "Room:CCL Hall 3", 
+                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Room:CCL_Hall_3", 
+                "namespace": 516, 
+                "exists": true
+            }
+        ], 
+        "Has subtitle": [
+            "Digital security training for newbies (EFF)"
+        ], 
+        "Is organized by": [], 
+        "Has title": [
+            "Rights&Freedoms"
+        ], 
+        "Has duration": [
+            60
+        ], 
+        "GUID": [
+            "add8feaa-74d7-44f2-acca-c6902671a1a6"
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:Rights%26Freedoms", 
+        "Has end time": [
+            "1514476800"
+        ]
+    }, 
     "Session:Sticker meet up# b376af90c0928260c3a85b18cd23c1b7": {
         "Held in language": [
             "de - German", 
@@ -5328,6 +5474,53 @@
         "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:Monero_Hardware_Development", 
         "Has end time": [
             "1514404800"
+        ]
+    }, 
+    "Session:Rights&Freedoms# 6cb64129da673136248f05a7d3678f10": {
+        "Held in language": [
+            "de - German", 
+            "en - English"
+        ], 
+        "Has start time": [
+            "1514559600"
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [], 
+        "Has description": [
+            "Rights & Freedoms Cluster Stage Programme"
+        ], 
+        "Has session type": [
+            "Talk"
+        ], 
+        "Has session location": [
+            {
+                "fulltext": "Room:CCL Hall 3", 
+                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Room:CCL_Hall_3", 
+                "namespace": 516, 
+                "exists": true
+            }
+        ], 
+        "Has subtitle": [
+            "Onlincensorship.org: social media content takedowns (EFF)"
+        ], 
+        "Is organized by": [], 
+        "Has title": [
+            "Rights&Freedoms"
+        ], 
+        "Has duration": [
+            60
+        ], 
+        "GUID": [
+            "93fa9255-e0a0-457e-a569-cb6b88776793"
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:Rights%26Freedoms", 
+        "Has end time": [
+            "1514563200"
         ]
     }, 
     "Session:Replicant Install Fest# 93ac2bc2002e160cb09a006d7e23d4ff": {
@@ -5804,6 +5997,53 @@
             "1514572200"
         ]
     }, 
+    "Session:Rights&Freedoms# 880f8542ef64de6bef5f9004d06b16bc": {
+        "Held in language": [
+            "de - German", 
+            "en - English"
+        ], 
+        "Has start time": [
+            "1514566800"
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [], 
+        "Has description": [
+            "Rights & Freedoms Cluster Stage Programme"
+        ], 
+        "Has session type": [
+            "Talk"
+        ], 
+        "Has session location": [
+            {
+                "fulltext": "Room:CCL Hall 3", 
+                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Room:CCL_Hall_3", 
+                "namespace": 516, 
+                "exists": true
+            }
+        ], 
+        "Has subtitle": [
+            "Strategic litigation in Germany- complaints to stop mass surveillance (Ulf Buermeyer, GFF)"
+        ], 
+        "Is organized by": [], 
+        "Has title": [
+            "Rights&Freedoms"
+        ], 
+        "Has duration": [
+            30
+        ], 
+        "GUID": [
+            "d7d75ccf-f380-4a59-a18b-92ae6083fb8a"
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:Rights%26Freedoms", 
+        "Has end time": [
+            "1514568600"
+        ]
+    }, 
     "Session:VR-Workshop# 757687d39294fa2bd7fd77dd7ae48e8c": {
         "Held in language": [
             "de - German", 
@@ -6066,6 +6306,53 @@
             "1514415600"
         ]
     }, 
+    "Session:Rights&Freedoms# 8db1bab3530a0086571410c4c3c1c599": {
+        "Held in language": [
+            "de - German", 
+            "en - English"
+        ], 
+        "Has start time": [
+            "1514404800"
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [], 
+        "Has description": [
+            "Rights & Freedoms Cluster Stage Programme"
+        ], 
+        "Has session type": [
+            "Talk"
+        ], 
+        "Has session location": [
+            {
+                "fulltext": "Room:CCL Hall 3", 
+                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Room:CCL_Hall_3", 
+                "namespace": 516, 
+                "exists": true
+            }
+        ], 
+        "Has subtitle": [
+            "[https://events.ccc.de/congress/2017/wiki/index.php/Session:Social_Networking,_powered_by_FreeSoftware Social networking, powered by Free Software] (Tobias Diekershoff)"
+        ], 
+        "Is organized by": [], 
+        "Has title": [
+            "Rights&Freedoms"
+        ], 
+        "Has duration": [
+            60
+        ], 
+        "GUID": [
+            "a1de5914-4649-4613-b1b1-716106c43f29"
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:Rights%26Freedoms", 
+        "Has end time": [
+            "1514408400"
+        ]
+    }, 
     "Session:Trickmisch# 83d3b7f23b17e9adae0af60941eabe94": {
         "Held in language": [
             "de - German"
@@ -6113,6 +6400,53 @@
         "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:Trickmisch", 
         "Has end time": [
             "1514476800"
+        ]
+    }, 
+    "Session:Rights&Freedoms# 074a4cda257cebf3986ec57e415c78c4": {
+        "Held in language": [
+            "de - German", 
+            "en - English"
+        ], 
+        "Has start time": [
+            "1514408400"
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [], 
+        "Has description": [
+            "Rights & Freedoms Cluster Stage Programme"
+        ], 
+        "Has session type": [
+            "Talk"
+        ], 
+        "Has session location": [
+            {
+                "fulltext": "Room:CCL Hall 3", 
+                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Room:CCL_Hall_3", 
+                "namespace": 516, 
+                "exists": true
+            }
+        ], 
+        "Has subtitle": [
+            "[https://events.ccc.de/congress/2017/wiki/index.php/Session:The_many_applications_of_digital_certificates The many applications of digital certificates] (Thomas Ruddy)"
+        ], 
+        "Is organized by": [], 
+        "Has title": [
+            "Rights&Freedoms"
+        ], 
+        "Has duration": [
+            60
+        ], 
+        "GUID": [
+            "b6aeee73-c559-42aa-b5f1-4aaa1303d051"
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:Rights%26Freedoms", 
+        "Has end time": [
+            "1514412000"
         ]
     }, 
     "Session:Endstation Meetup# aa3119d5061f7396ff894e0872219d20": {
@@ -6566,9 +6900,11 @@
         "Has event track": [
             "Session"
         ], 
-        "Has website": [], 
+        "Has website": [
+            "https://34c3ctf.ccc.ac/announcements/"
+        ], 
         "Has description": [
-            "The 34C3 concludes and we will honor the first three teams. Then there will be ample opportunity to discuss challenges, CTF in general and\ntaste local beer."
+            "The 34C3 concludes and we will honor the first three teams. Then there will be ample opportunity to discuss challenges, CTF in general and\ndrink beer."
         ], 
         "Has session type": [
             "Meeting"
@@ -6660,57 +6996,51 @@
             "1514382300"
         ]
     }, 
-    "Session:Let's hack words# 5f9d8bfbb00078f101d45f5bac5e5433": {
+    "Session:Rights&Freedoms# 4906195aa6e39a18e66601458a5369b0": {
         "Held in language": [
+            "de - German", 
             "en - English"
         ], 
         "Has start time": [
-            "1514566800"
+            "1514577600"
         ], 
         "Has event track": [
             "Session"
         ], 
         "Has website": [], 
         "Has description": [
-            "It's a creative writing workshop. Interested participants will deal with this year's theme of #tuwat - do something. Don't wait for whatever you are waiting for. You can be active. You can change the world. You could even write a book."
+            "Rights & Freedoms Cluster Stage Programme"
         ], 
         "Has session type": [
-            "Hands-On"
+            "Talk"
         ], 
         "Has session location": [
             {
-                "fulltext": "Room:Seminar room 13", 
-                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Room:Seminar_room_13", 
+                "fulltext": "Room:CCL Hall 3", 
+                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Room:CCL_Hall_3", 
                 "namespace": 516, 
                 "exists": true
             }
         ], 
         "Has subtitle": [
-            "Creative Writing Workshop"
+            "Case study \u201cStaatstrojaner\u201d: strategic litigation against state hacking (Ulf Buermeyer, GFF)"
         ], 
-        "Is organized by": [
-            {
-                "fulltext": "User:Jinxx", 
-                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/User:Jinxx", 
-                "namespace": 2, 
-                "exists": true
-            }
-        ], 
+        "Is organized by": [], 
         "Has title": [
-            "Let's hack words"
+            "Rights&Freedoms"
         ], 
         "Has duration": [
             60
         ], 
         "GUID": [
-            "0d5446c8-3e00-4936-a635-f054adfb177a"
+            "48ea0d19-03cd-4cea-b436-46892ae393ad"
         ], 
         "Has color": [
             "#0099ab"
         ], 
-        "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:Let%27s_hack_words", 
+        "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:Rights%26Freedoms", 
         "Has end time": [
-            "1514570400"
+            "1514581200"
         ]
     }, 
     "Session:Chaos Communication Choir# 36f800803f1d3ab0b32c82556f1639c7": {
@@ -7109,54 +7439,6 @@
             "1514505600"
         ]
     }, 
-    "Session:WireGuard# b6d9eb42da4130483c4d1384e4df69a3": {
-        "Held in language": [
-            "en - English"
-        ], 
-        "Has start time": [
-            "1514548800"
-        ], 
-        "Has event track": [
-            "Session"
-        ], 
-        "Has website": [
-            "https://www.wireguard.com/"
-        ], 
-        "Has description": [
-            "WireGuard is a next generation secure network tunnel, which uses state of the art cryptography. This workshop will discuss what WireGuard is, the cryptography behind it, some interesting kernel engineering tricks it uses, and how you too can use it. There will be copious quantities of free stickers. The session will be fairly open and free form. The creator of WireGuard will have an endless quantity of material of his own to present, but more generally, we'll open it up to whatever people want to discuss and collaborate on. If you're interested in kernel programming, networking, cryptography, or security, this is a key workshop to attend."
-        ], 
-        "Has session type": [
-            "Workshop"
-        ], 
-        "Has session location": [
-            {
-                "fulltext": "Room:Seminar room 13", 
-                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Room:Seminar_room_13", 
-                "namespace": 516, 
-                "exists": true
-            }
-        ], 
-        "Has subtitle": [
-            "In-depth"
-        ], 
-        "Is organized by": [], 
-        "Has title": [
-            "WireGuard"
-        ], 
-        "Has duration": [
-            180
-        ], 
-        "GUID": [
-            "dc1ce5c6-2b4a-4a3a-b46d-d14f5fc6b900"
-        ], 
-        "Has color": [
-            "#0099ab"
-        ], 
-        "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:WireGuard", 
-        "Has end time": [
-            "1514559600"
-        ]
-    }, 
     "Session:TeaHouse# 3b9675c6c129f5dd9d1dce92e58818f2": {
         "Held in language": [
             "en - English"
@@ -7208,6 +7490,53 @@
         "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:TeaHouse", 
         "Has end time": [
             "1514647800"
+        ]
+    }, 
+    "Session:Rights&Freedoms# ca83ce3037feb2b401f3a8268db6165c": {
+        "Held in language": [
+            "de - German", 
+            "en - English"
+        ], 
+        "Has start time": [
+            "1514469600"
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [], 
+        "Has description": [
+            "Rights & Freedoms Cluster Stage Programme"
+        ], 
+        "Has session type": [
+            "Talk"
+        ], 
+        "Has session location": [
+            {
+                "fulltext": "Room:CCL Hall 3", 
+                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Room:CCL_Hall_3", 
+                "namespace": 516, 
+                "exists": true
+            }
+        ], 
+        "Has subtitle": [
+            "The upsurge of exceptional state politics and the downfall of digital human rights in Turkey (Alternatif Bilisim)"
+        ], 
+        "Is organized by": [], 
+        "Has title": [
+            "Rights&Freedoms"
+        ], 
+        "Has duration": [
+            60
+        ], 
+        "GUID": [
+            "d5e27e43-b64d-4166-8f5d-beb35700fd55"
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:Rights%26Freedoms", 
+        "Has end time": [
+            "1514473200"
         ]
     }, 
     "Session:Workshop: Bookmaking, binding with glue or staples# 689bfd1b14abe85ae8474a15bb157dd6": {
@@ -7979,6 +8308,53 @@
             "1514419140"
         ]
     }, 
+    "Session:Rights&Freedoms# 7df16ccb0ee8f4d3a93c11f9137e10d9": {
+        "Held in language": [
+            "de - German", 
+            "en - English"
+        ], 
+        "Has start time": [
+            "1514484000"
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [], 
+        "Has description": [
+            "Rights & Freedoms Cluster Stage Programme"
+        ], 
+        "Has session type": [
+            "Talk"
+        ], 
+        "Has session location": [
+            {
+                "fulltext": "Room:CCL Hall 3", 
+                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Room:CCL_Hall_3", 
+                "namespace": 516, 
+                "exists": true
+            }
+        ], 
+        "Has subtitle": [
+            "[https://events.ccc.de/congress/2017/wiki/index.php/Session:Hacking_with_wget Hacking with Wget] (Hanno B\u00f6ck)"
+        ], 
+        "Is organized by": [], 
+        "Has title": [
+            "Rights&Freedoms"
+        ], 
+        "Has duration": [
+            60
+        ], 
+        "GUID": [
+            "e10a0ba6-3492-4be5-b4b6-87a42987f8d9"
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:Rights%26Freedoms", 
+        "Has end time": [
+            "1514487600"
+        ]
+    }, 
     "Session:How companies manage their security: Introduction into Information Security Management Systems# 669d2cd7fb5fe1e6c119c07a52676e74": {
         "Held in language": [
             "en - English"
@@ -8067,105 +8443,104 @@
             "1514476800"
         ]
     }, 
-    "Session:Letter writing to prisoners, sitting in jail for hacking# 8141aeca2f43dc74ddfbbaede7bdfb78": {
+    "Session:TeaHouse# 3fa552470c953db85366ba85338756db": {
         "Held in language": [
             "en - English"
         ], 
         "Has start time": [
-            "1514462400"
+            "1514390400"
         ], 
         "Has event track": [
             "Session"
         ], 
         "Has website": [
-            "http://abcdd.org"
+            "https://teahouse.homecomputing.fr/"
         ], 
-        "Has description": [
-            "Hacktivism from time to time leads to imprisonment and repressions. There are several people right now siting in jail that consider themselves anarchist or did actions that are supported by anarchist community. Not to let those people alone in prison we would like to have every day 1 hour around the table, where we get to know the stories of imprisoned activists and write them some words of support with postcards/letters.  You don't need any special skills for that. The postcards will be there for you."
-        ], 
-        "Has session type": [
-            "Workshop"
-        ], 
-        "Has session location": [
-            {
-                "fulltext": "Room:Komona Coral Reef", 
-                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Room:Komona_Coral_Reef", 
-                "namespace": 516, 
-                "exists": true
-            }
-        ], 
-        "Has subtitle": [
-            "Day 2"
-        ], 
-        "Is organized by": [], 
-        "Has title": [
-            "Letter writing to prisoners, sitting in jail for hacking"
-        ], 
-        "Has duration": [
-            45
-        ], 
-        "GUID": [
-            "78b6af67-7c9d-460a-ac37-0428a4178e00"
-        ], 
-        "Has color": [
-            "#0099ab"
-        ], 
-        "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:Letter_writing_to_prisoners,_sitting_in_jail_for_hacking", 
-        "Has end time": [
-            "1514465100"
-        ]
-    }, 
-    "Session:Bin\u00e4rgewitter H\u00f6rertreffen# efe7228a434266aa55380b4ad314ce65": {
-        "Held in language": [
-            "de - German"
-        ], 
-        "Has start time": [
-            "1514552400"
-        ], 
-        "Has event track": [
-            "Session"
-        ], 
-        "Has website": [
-            "http://krepel.us"
-        ], 
-        "Has description": [
-            "Bin\u00e4rgewitter H\u00f6rertreffen auf dem 34c3"
-        ], 
+        "Has description": [], 
         "Has session type": [
             "Meeting"
         ], 
         "Has session location": [
             {
-                "fulltext": "Room:Seminar room 14-15", 
-                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Room:Seminar_room_14-15", 
-                "namespace": 516, 
+                "fulltext": "Assembly:TeaHouse", 
+                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Assembly:TeaHouse", 
+                "namespace": 504, 
                 "exists": true
             }
         ], 
-        "Has subtitle": [], 
+        "Has subtitle": [
+            "Hackerfleet Operating System"
+        ], 
         "Is organized by": [
             {
-                "fulltext": "User:Makefu", 
-                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/User:Makefu", 
+                "fulltext": "User:Sanpi", 
+                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/User:Sanpi", 
                 "namespace": 2, 
                 "exists": true
             }
         ], 
         "Has title": [
-            "Bin\u00e4rgewitter H\u00f6rertreffen"
+            "TeaHouse"
         ], 
         "Has duration": [
-            60
+            45
         ], 
         "GUID": [
-            "b3c53743-270a-44cc-ace4-be10f070211e"
+            "0684a69d-9796-4946-9955-84cfafe8cb64"
         ], 
         "Has color": [
             "#0099ab"
         ], 
-        "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:Bin%C3%A4rgewitter_H%C3%B6rertreffen", 
+        "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:TeaHouse", 
         "Has end time": [
-            "1514556000"
+            "1514393100"
+        ]
+    }, 
+    "Session:Rights&Freedoms# eac828011898d00dd4a025fb4783aec2": {
+        "Held in language": [
+            "de - German", 
+            "en - English"
+        ], 
+        "Has start time": [
+            "1514568600"
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [], 
+        "Has description": [
+            "Rights & Freedoms Cluster Stage Programme"
+        ], 
+        "Has session type": [
+            "Talk"
+        ], 
+        "Has session location": [
+            {
+                "fulltext": "Room:CCL Hall 3", 
+                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Room:CCL_Hall_3", 
+                "namespace": 516, 
+                "exists": true
+            }
+        ], 
+        "Has subtitle": [
+            "Are NAT translations respecting proportionality and data retention principles? (Hermes Center)"
+        ], 
+        "Is organized by": [], 
+        "Has title": [
+            "Rights&Freedoms"
+        ], 
+        "Has duration": [
+            30
+        ], 
+        "GUID": [
+            "f8c6d10a-3129-4d2c-8806-d5c0732e2851"
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:Rights%26Freedoms", 
+        "Has end time": [
+            "1514570400"
         ]
     }, 
     "Session:Sticker meet up# e994f023e0838e2c85902b8c28441cef": {
@@ -9345,6 +9720,53 @@
             "1514397600"
         ]
     }, 
+    "Session:Rights&Freedoms# 0c9a5132d01e4ef82584f2e1b20e0f29": {
+        "Held in language": [
+            "de - German", 
+            "en - English"
+        ], 
+        "Has start time": [
+            "1514491200"
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [], 
+        "Has description": [
+            "Rights & Freedoms Cluster Stage Programme"
+        ], 
+        "Has session type": [
+            "Talk"
+        ], 
+        "Has session location": [
+            {
+                "fulltext": "Room:CCL Hall 3", 
+                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Room:CCL_Hall_3", 
+                "namespace": 516, 
+                "exists": true
+            }
+        ], 
+        "Has subtitle": [
+            "[https://events.ccc.de/congress/2017/wiki/index.php/Session:A_public_identity_infrastructure_to_defend_the_open_Internet A public identity infrastructure to defend the open Internet] (Vittorio Bertolo)"
+        ], 
+        "Is organized by": [], 
+        "Has title": [
+            "Rights&Freedoms"
+        ], 
+        "Has duration": [
+            60
+        ], 
+        "GUID": [
+            "b2d45f0d-95c3-4a8e-bf4e-a59db8006232"
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:Rights%26Freedoms", 
+        "Has end time": [
+            "1514494800"
+        ]
+    }, 
     "Session:TransHackMeeting# a6239c2e0067b0a88031399dbbb03530": {
         "Held in language": [
             "en - English"
@@ -9883,6 +10305,59 @@
         "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:IT-Security_Meetup", 
         "Has end time": [
             "1514577600"
+        ]
+    }, 
+    "Session:TeaHouse# 7693dc19e24497ef3c885347bbef9e3c": {
+        "Held in language": [
+            "en - English"
+        ], 
+        "Has start time": [
+            "1514638800"
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [
+            "https://teahouse.homecomputing.fr/"
+        ], 
+        "Has description": [], 
+        "Has session type": [
+            "Meeting"
+        ], 
+        "Has session location": [
+            {
+                "fulltext": "Assembly:TeaHouse", 
+                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Assembly:TeaHouse", 
+                "namespace": 504, 
+                "exists": true
+            }
+        ], 
+        "Has subtitle": [
+            "\u03b5xodus reveals hidden trackers in Android applications"
+        ], 
+        "Is organized by": [
+            {
+                "fulltext": "User:Sanpi", 
+                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/User:Sanpi", 
+                "namespace": 2, 
+                "exists": true
+            }
+        ], 
+        "Has title": [
+            "TeaHouse"
+        ], 
+        "Has duration": [
+            20
+        ], 
+        "GUID": [
+            "622c5770-b9fc-45ef-b9fc-1533f661e3ec"
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:TeaHouse", 
+        "Has end time": [
+            "1514640000"
         ]
     }, 
     "Session:DLF# 05881f6e9fd51b6fea250e317573b407": {
@@ -10850,6 +11325,100 @@
             "1577635200"
         ]
     }, 
+    "Session:Rights&Freedoms# 63915c3785ba01fa2baaa9cb0fe970ad": {
+        "Held in language": [
+            "de - German", 
+            "en - English"
+        ], 
+        "Has start time": [
+            "1514563200"
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [], 
+        "Has description": [
+            "Rights & Freedoms Cluster Stage Programme"
+        ], 
+        "Has session type": [
+            "Talk"
+        ], 
+        "Has session location": [
+            {
+                "fulltext": "Room:CCL Hall 3", 
+                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Room:CCL_Hall_3", 
+                "namespace": 516, 
+                "exists": true
+            }
+        ], 
+        "Has subtitle": [
+            "[https://events.ccc.de/congress/2017/wiki/index.php/Session:Fixing_mass_surveillance:_one_court_case_at_a_time! Fixing mass surveillance: one court case at a time!] (Exegetes)"
+        ], 
+        "Is organized by": [], 
+        "Has title": [
+            "Rights&Freedoms"
+        ], 
+        "Has duration": [
+            120
+        ], 
+        "GUID": [
+            "d3a4bc15-b59a-46ee-92ec-bdc95e79f295"
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:Rights%26Freedoms", 
+        "Has end time": [
+            "1514570400"
+        ]
+    }, 
+    "Session:Rights&Freedoms# 630d4dc3b7f7ed98d7ae89b79d7be0e2": {
+        "Held in language": [
+            "de - German", 
+            "en - English"
+        ], 
+        "Has start time": [
+            "1514581200"
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [], 
+        "Has description": [
+            "Rights & Freedoms Cluster Stage Programme"
+        ], 
+        "Has session type": [
+            "Talk"
+        ], 
+        "Has session location": [
+            {
+                "fulltext": "Room:CCL Hall 3", 
+                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Room:CCL_Hall_3", 
+                "namespace": 516, 
+                "exists": true
+            }
+        ], 
+        "Has subtitle": [
+            "Wie die fl\u00e4chendeckendeGesichtserkennung sich in unser Datenschutzgesetz eingeschlichen hat (Frank, Datenschutzraum) (in German)"
+        ], 
+        "Is organized by": [], 
+        "Has title": [
+            "Rights&Freedoms"
+        ], 
+        "Has duration": [
+            60
+        ], 
+        "GUID": [
+            "65ef56f8-c667-4b9f-8a28-843f8fe7bbf0"
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:Rights%26Freedoms", 
+        "Has end time": [
+            "1514584800"
+        ]
+    }, 
     "Session:Talks# 40bee1e3c0e371366e8bdc093e07df0e": {
         "Held in language": [
             "de - German"
@@ -11494,7 +12063,9 @@
         "Has event track": [
             "Session"
         ], 
-        "Has website": [], 
+        "Has website": [
+            "http://c3subtitles.de"
+        ], 
         "Has description": [
             "Meeting for new subtitles angels. This is the one you need to be confirmed as a subtitles angel."
         ], 
@@ -11526,6 +12097,54 @@
         "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:Subtitles-Engelmeeting", 
         "Has end time": [
             "1514388600"
+        ]
+    }, 
+    "Session:WireGuard# c6344f74cf7c444d212f8042263a8762": {
+        "Held in language": [
+            "en - English"
+        ], 
+        "Has start time": [
+            "1514548800"
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [
+            "https://www.wireguard.com/"
+        ], 
+        "Has description": [
+            "WireGuard is a next generation secure network tunnel, which uses state of the art cryptography. This workshop will discuss what WireGuard is, the cryptography behind it, some interesting kernel engineering tricks it uses, and how you too can use it. There will be copious quantities of free stickers. The session will be fairly open and free form. The creator of WireGuard will have an endless quantity of material of his own to present, but more generally, we'll open it up to whatever people want to discuss and collaborate on. If you're interested in kernel programming, networking, cryptography, or security, this is a key workshop to attend."
+        ], 
+        "Has session type": [
+            "Workshop"
+        ], 
+        "Has session location": [
+            {
+                "fulltext": "Room:Seminar room 14-15", 
+                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Room:Seminar_room_14-15", 
+                "namespace": 516, 
+                "exists": true
+            }
+        ], 
+        "Has subtitle": [
+            "In-depth"
+        ], 
+        "Is organized by": [], 
+        "Has title": [
+            "WireGuard"
+        ], 
+        "Has duration": [
+            120
+        ], 
+        "GUID": [
+            "dc1ce5c6-2b4a-4a3a-b46d-d14f5fc6b900"
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:WireGuard", 
+        "Has end time": [
+            "1514556000"
         ]
     }, 
     "Session:SinsForHumanity# cb6b99ecf044c9a3175c667ad733864f": {
@@ -11758,6 +12377,53 @@
             "1514460600"
         ]
     }, 
+    "Session:Rights&Freedoms# b2b212abac0d6de73ef54c507617d8f4": {
+        "Held in language": [
+            "de - German", 
+            "en - English"
+        ], 
+        "Has start time": [
+            "1514556000"
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [], 
+        "Has description": [
+            "Rights & Freedoms Cluster Stage Programme"
+        ], 
+        "Has session type": [
+            "Talk"
+        ], 
+        "Has session location": [
+            {
+                "fulltext": "Room:CCL Hall 3", 
+                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Room:CCL_Hall_3", 
+                "namespace": 516, 
+                "exists": true
+            }
+        ], 
+        "Has subtitle": [
+            "Digital Anonimity for Whistleblowing (Hermes Center)"
+        ], 
+        "Is organized by": [], 
+        "Has title": [
+            "Rights&Freedoms"
+        ], 
+        "Has duration": [
+            60
+        ], 
+        "GUID": [
+            "2364a815-ad04-427d-8877-1c4e3931f4be"
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:Rights%26Freedoms", 
+        "Has end time": [
+            "1514559600"
+        ]
+    }, 
     "Session:Angel Meeting# 8e184ebf6b955ea13ff2649940cfd224": {
         "Held in language": [
             "en - English", 
@@ -11801,6 +12467,53 @@
         "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:Angel_Meeting", 
         "Has end time": [
             "1514397600"
+        ]
+    }, 
+    "Session:Rights&Freedoms# 86406a7a2e0f4cb89922cc5c1263d902": {
+        "Held in language": [
+            "de - German", 
+            "en - English"
+        ], 
+        "Has start time": [
+            "1514570400"
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [], 
+        "Has description": [
+            "Rights & Freedoms Cluster Stage Programme"
+        ], 
+        "Has session type": [
+            "Talk"
+        ], 
+        "Has session location": [
+            {
+                "fulltext": "Room:CCL Hall 3", 
+                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Room:CCL_Hall_3", 
+                "namespace": 516, 
+                "exists": true
+            }
+        ], 
+        "Has subtitle": [
+            "DYI: Net Neutrality enforcement in the EU (Epicenter.works)"
+        ], 
+        "Is organized by": [], 
+        "Has title": [
+            "Rights&Freedoms"
+        ], 
+        "Has duration": [
+            60
+        ], 
+        "GUID": [
+            "e205e42a-460e-4c11-b3a2-c764d06cb053"
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:Rights%26Freedoms", 
+        "Has end time": [
+            "1514574000"
         ]
     }, 
     "Session:Meetup: hack your library# f4c0fe902795644053680290416a22b9": {
@@ -11905,52 +12618,51 @@
             "1514405400"
         ]
     }, 
-    "Session:WireGuard# c8e122431868efffda92fe5429caf610": {
+    "Session:Rights&Freedoms# 0ac524fbf26666c2d2eeb13e7cbb6f2a": {
         "Held in language": [
+            "de - German", 
             "en - English"
         ], 
         "Has start time": [
-            "1514548800"
+            "1514642400"
         ], 
         "Has event track": [
             "Session"
         ], 
-        "Has website": [
-            "https://www.wireguard.com/"
-        ], 
+        "Has website": [], 
         "Has description": [
-            "WireGuard is a next generation secure network tunnel, which uses state of the art cryptography. This workshop will discuss what WireGuard is, the cryptography behind it, some interesting kernel engineering tricks it uses, and how you too can use it. There will be copious quantities of free stickers. The session will be fairly open and free form. The creator of WireGuard will have an endless quantity of material of his own to present, but more generally, we'll open it up to whatever people want to discuss and collaborate on. If you're interested in kernel programming, networking, cryptography, or security, this is a key workshop to attend."
+            "Rights & Freedoms Cluster Stage Programme"
         ], 
         "Has session type": [
-            "Workshop"
+            "Talk"
         ], 
         "Has session location": [
             {
-                "fulltext": "Room:Seminar room 14-15", 
-                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Room:Seminar_room_14-15", 
+                "fulltext": "Room:CCL Hall 3", 
+                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Room:CCL_Hall_3", 
                 "namespace": 516, 
                 "exists": true
             }
         ], 
         "Has subtitle": [
-            "Temporary hold"
+            "How to use public procurement datasets to monitor government surveillance capabilities (Hermes Center)"
         ], 
         "Is organized by": [], 
         "Has title": [
-            "WireGuard"
+            "Rights&Freedoms"
         ], 
         "Has duration": [
             60
         ], 
         "GUID": [
-            "dc1ce5c6-2b4a-4a3a-b46d-d14f5fc6b902"
+            "3402fbf1-545c-4b4f-abf3-7fa4afbfed9f"
         ], 
         "Has color": [
             "#0099ab"
         ], 
-        "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:WireGuard", 
+        "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:Rights%26Freedoms", 
         "Has end time": [
-            "1514552400"
+            "1514646000"
         ]
     }, 
     "Session:Letter writing to prisoners, sitting in jail for hacking# 75e37cb1ed3b3c3575f6ede723879ba7": {
@@ -12088,6 +12800,53 @@
         "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:Mechanical_Keyboard_Meetup", 
         "Has end time": [
             "1514647800"
+        ]
+    }, 
+    "Session:Rights&Freedoms# 1e2cc4df35ecb580b90639cf6e46c761": {
+        "Held in language": [
+            "de - German", 
+            "en - English"
+        ], 
+        "Has start time": [
+            "1514487600"
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [], 
+        "Has description": [
+            "Rights & Freedoms Cluster Stage Programme"
+        ], 
+        "Has session type": [
+            "Talk"
+        ], 
+        "Has session location": [
+            {
+                "fulltext": "Room:CCL Hall 3", 
+                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Room:CCL_Hall_3", 
+                "namespace": 516, 
+                "exists": true
+            }
+        ], 
+        "Has subtitle": [
+            "Who has your back? An update on how companies protect user data (EFF)"
+        ], 
+        "Is organized by": [], 
+        "Has title": [
+            "Rights&Freedoms"
+        ], 
+        "Has duration": [
+            30
+        ], 
+        "GUID": [
+            "24e0dbc4-0042-4cce-b648-86c3092b36a8"
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:Rights%26Freedoms", 
+        "Has end time": [
+            "1514489400"
         ]
     }, 
     "Session:Chaos macht Schule L\u00f6tworkshop# 4eabdb0d3b5abb6d7847b7626c9c283c": {
@@ -12821,6 +13580,59 @@
         "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:Lingua_Latina", 
         "Has end time": [
             "1514566800"
+        ]
+    }, 
+    "Session:TeaHouse# 3a7866305284101511df285fea236606": {
+        "Held in language": [
+            "en - English"
+        ], 
+        "Has start time": [
+            "1514493000"
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [
+            "https://teahouse.homecomputing.fr/"
+        ], 
+        "Has description": [], 
+        "Has session type": [
+            "Meeting"
+        ], 
+        "Has session location": [
+            {
+                "fulltext": "Assembly:TeaHouse", 
+                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Assembly:TeaHouse", 
+                "namespace": 504, 
+                "exists": true
+            }
+        ], 
+        "Has subtitle": [
+            "Radio Dabanga Massive audience engagement in (human rights/humanitarian) reporting"
+        ], 
+        "Is organized by": [
+            {
+                "fulltext": "User:Sanpi", 
+                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/User:Sanpi", 
+                "namespace": 2, 
+                "exists": true
+            }
+        ], 
+        "Has title": [
+            "TeaHouse"
+        ], 
+        "Has duration": [
+            45
+        ], 
+        "GUID": [
+            "68c26941-115f-4ada-8ed5-d0e4217680cf"
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:TeaHouse", 
+        "Has end time": [
+            "1514495700"
         ]
     }, 
     "Session:Microdosing Psychedelics:roundtable discussion# 221ebfc1c4f8265a488a6fe7a9cbd19b": {
@@ -14322,6 +15134,53 @@
             "1514577600"
         ]
     }, 
+    "Session:Rights&Freedoms# c0e8226dca3220d0b79a7d73889ced35": {
+        "Held in language": [
+            "de - German", 
+            "en - English"
+        ], 
+        "Has start time": [
+            "1514394000"
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [], 
+        "Has description": [
+            "Rights & Freedoms Cluster Stage Programme"
+        ], 
+        "Has session type": [
+            "Talk"
+        ], 
+        "Has session location": [
+            {
+                "fulltext": "Room:CCL Hall 3", 
+                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Room:CCL_Hall_3", 
+                "namespace": 516, 
+                "exists": true
+            }
+        ], 
+        "Has subtitle": [
+            "[https://events.ccc.de/congress/2017/wiki/index.php/Session:Design_in_Free_Software_%26_Open_Source Design in Free Software & Open Source] (Dina Michl & Victoria Bondarchuk)"
+        ], 
+        "Is organized by": [], 
+        "Has title": [
+            "Rights&Freedoms"
+        ], 
+        "Has duration": [
+            60
+        ], 
+        "GUID": [
+            "848eb8ac-cc0b-4747-862b-d4aa466fc6f9"
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:Rights%26Freedoms", 
+        "Has end time": [
+            "1514397600"
+        ]
+    }, 
     "Session:TeaHouse# 7a841b7b6267edebee6beda43d57980e": {
         "Held in language": [
             "en - English"
@@ -14917,6 +15776,59 @@
             "1514498400"
         ]
     }, 
+    "Session:Numerical Weather Prediction Tutorial# f6c1e9a8afa8b59448a312ac4b32a14d": {
+        "Held in language": [
+            "en - English"
+        ], 
+        "Has start time": [
+            "1514455200"
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [
+            "https://www.hacknology.de/vortrag/2016/wrf/"
+        ], 
+        "Has description": [
+            "A workshop about running your own Numerical Weather Prediction (NWP) model."
+        ], 
+        "Has session type": [
+            "Workshop"
+        ], 
+        "Has session location": [
+            {
+                "fulltext": "Room:Seminar room 13", 
+                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Room:Seminar_room_13", 
+                "namespace": 516, 
+                "exists": true
+            }
+        ], 
+        "Has subtitle": [], 
+        "Is organized by": [
+            {
+                "fulltext": "User:Tecer", 
+                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/User:Tecer", 
+                "namespace": 2, 
+                "exists": true
+            }
+        ], 
+        "Has title": [
+            "Numerical Weather Prediction Tutorial"
+        ], 
+        "Has duration": [
+            180
+        ], 
+        "GUID": [
+            "3c6e963d-f1f7-4620-b8da-2e3dad27f51e"
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:Numerical_Weather_Prediction_Tutorial", 
+        "Has end time": [
+            "1514466000"
+        ]
+    }, 
     "Session:Pretty Easy privacy (p\u2261p) for Thunderbird via Enigmail: How it works!# 1e912e5c48c4f4aca7e3c3c862a067bb": {
         "Held in language": [], 
         "Has start time": [
@@ -15302,6 +16214,53 @@
             "1514385900"
         ]
     }, 
+    "Session:Rights&Freedoms# d0062f01f8be0cecb77b9ff573a599ab": {
+        "Held in language": [
+            "de - German", 
+            "en - English"
+        ], 
+        "Has start time": [
+            "1514386800"
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [], 
+        "Has description": [
+            "Rights & Freedoms Cluster Stage Programme"
+        ], 
+        "Has session type": [
+            "Talk"
+        ], 
+        "Has session location": [
+            {
+                "fulltext": "Room:CCL Hall 3", 
+                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Room:CCL_Hall_3", 
+                "namespace": 516, 
+                "exists": true
+            }
+        ], 
+        "Has subtitle": [
+            "BigBrotherAwards - a great tool to build awareness and have fun (Digitalcourage e.V.)"
+        ], 
+        "Is organized by": [], 
+        "Has title": [
+            "Rights&Freedoms"
+        ], 
+        "Has duration": [
+            60
+        ], 
+        "GUID": [
+            "de3c670b-1478-4606-ad7f-cc781a5f6514"
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:Rights%26Freedoms", 
+        "Has end time": [
+            "1514390400"
+        ]
+    }, 
     "Session:Surface mount electronics assembly for terrified beginners# 6ff33d8db23dd8a5029232b0c4a66bc4": {
         "Held in language": [
             "en - English"
@@ -15655,6 +16614,53 @@
         "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:Weisswurstfr%C3%BChst%C3%BCck", 
         "Has end time": [
             "1514460600"
+        ]
+    }, 
+    "Session:Rights&Freedoms# 82bb97a033dc8bfe5ffdcc1b974df835": {
+        "Held in language": [
+            "de - German", 
+            "en - English"
+        ], 
+        "Has start time": [
+            "1514552400"
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [], 
+        "Has description": [
+            "Rights & Freedoms Cluster Stage Programme"
+        ], 
+        "Has session type": [
+            "Talk"
+        ], 
+        "Has session location": [
+            {
+                "fulltext": "Room:CCL Hall 3", 
+                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Room:CCL_Hall_3", 
+                "namespace": 516, 
+                "exists": true
+            }
+        ], 
+        "Has subtitle": [
+            "[https://events.ccc.de/congress/2017/wiki/index.php/Session:Information_security_theater_vs._Investigative_journalism Information security theater vs. Investigative journalism] (Rysiek, OCCRP)"
+        ], 
+        "Is organized by": [], 
+        "Has title": [
+            "Rights&Freedoms"
+        ], 
+        "Has duration": [
+            60
+        ], 
+        "GUID": [
+            "c682fa8a-045b-4a09-8164-1b33826b8e63"
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:Rights%26Freedoms", 
+        "Has end time": [
+            "1514556000"
         ]
     }, 
     "Session:A personal epiphany and endless inspection! Meet Sophia!# ff435ae572c822a326aa37859b95a605": {
@@ -16012,57 +17018,55 @@
             "1514331000"
         ]
     }, 
-    "Session:TeaHouse# 7ba0aa55eaffb89b77ee77e479b6d115": {
+    "Session:Request a query# fd2fb859f3118190c0e813bb33d26137": {
         "Held in language": [
             "en - English"
         ], 
         "Has start time": [
-            "1514385000"
+            "1514394000"
         ], 
         "Has event track": [
             "Session"
         ], 
-        "Has website": [
-            "https://teahouse.homecomputing.fr/"
+        "Has website": [], 
+        "Has description": [
+            "If you have an idea for a query using Wikidata but aren\u2019t sure how to write it, or just want to hang out and discuss the Query Service with fellow-minded people, join us!"
         ], 
-        "Has description": [], 
         "Has session type": [
-            "Meeting"
+            "Hands-On"
         ], 
         "Has session location": [
             {
-                "fulltext": "Assembly:TeaHouse", 
-                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Assembly:TeaHouse", 
-                "namespace": 504, 
+                "fulltext": "Room:Esszimmer", 
+                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Room:Esszimmer", 
+                "namespace": 516, 
                 "exists": true
             }
         ], 
-        "Has subtitle": [
-            "State of website censorship in France and elsewhere ?"
-        ], 
+        "Has subtitle": [], 
         "Is organized by": [
             {
-                "fulltext": "User:Sanpi", 
-                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/User:Sanpi", 
+                "fulltext": "User:Lucas Werkmeister", 
+                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/User:Lucas_Werkmeister", 
                 "namespace": 2, 
                 "exists": true
             }
         ], 
         "Has title": [
-            "TeaHouse"
+            "Request a query"
         ], 
         "Has duration": [
-            60
+            45
         ], 
         "GUID": [
-            "ef3bcca2-42bc-4bb0-a326-70e277316094"
+            "8a7bd529-29d2-554c-835f-3d689b7c9f4c"
         ], 
         "Has color": [
             "#0099ab"
         ], 
-        "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:TeaHouse", 
+        "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:Request_a_query", 
         "Has end time": [
-            "1514388600"
+            "1514396700"
         ]
     }, 
     "Session:42birds: Hacker\u2019s Digest# d2932ec75b2800fd7d2daef6aaa25ee2": {
@@ -16696,6 +17700,52 @@
             "1514466000"
         ]
     }, 
+    "Session:Subtitles-Engelmeeting# 6d4a5888e43fc1525376bda166712c52": {
+        "Held in language": [
+            "en - English"
+        ], 
+        "Has start time": [
+            "1514466000"
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [
+            "http://c3subtitles.de"
+        ], 
+        "Has description": [
+            "Meeting for new subtitles angels. This is the one you need to be confirmed as a subtitles angel."
+        ], 
+        "Has session type": [
+            "Meeting"
+        ], 
+        "Has session location": [
+            {
+                "fulltext": "Room:Lecture room 12", 
+                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Room:Lecture_room_12", 
+                "namespace": 516, 
+                "exists": true
+            }
+        ], 
+        "Has subtitle": [], 
+        "Is organized by": [], 
+        "Has title": [
+            "Subtitles-Engelmeeting"
+        ], 
+        "Has duration": [
+            30
+        ], 
+        "GUID": [
+            "58d27c73-4a82-4199-b186-f939686353b2"
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:Subtitles-Engelmeeting", 
+        "Has end time": [
+            "1514467800"
+        ]
+    }, 
     "Session:VoidLinux User Meetup# 27b1f29948b562289568408c87d4c9ac": {
         "Held in language": [
             "ab - Abkhazian"
@@ -17035,57 +18085,52 @@
             "1514412000"
         ]
     }, 
-    "Session:TeaHouse# 3fa552470c953db85366ba85338756db": {
+    "Session:Letter writing to prisoners, sitting in jail for hacking# 8141aeca2f43dc74ddfbbaede7bdfb78": {
         "Held in language": [
             "en - English"
         ], 
         "Has start time": [
-            "1514390400"
+            "1514462400"
         ], 
         "Has event track": [
             "Session"
         ], 
         "Has website": [
-            "https://teahouse.homecomputing.fr/"
+            "http://abcdd.org"
         ], 
-        "Has description": [], 
+        "Has description": [
+            "Hacktivism from time to time leads to imprisonment and repressions. There are several people right now siting in jail that consider themselves anarchist or did actions that are supported by anarchist community. Not to let those people alone in prison we would like to have every day 1 hour around the table, where we get to know the stories of imprisoned activists and write them some words of support with postcards/letters.  You don't need any special skills for that. The postcards will be there for you."
+        ], 
         "Has session type": [
-            "Meeting"
+            "Workshop"
         ], 
         "Has session location": [
             {
-                "fulltext": "Assembly:TeaHouse", 
-                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Assembly:TeaHouse", 
-                "namespace": 504, 
+                "fulltext": "Room:Komona Coral Reef", 
+                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Room:Komona_Coral_Reef", 
+                "namespace": 516, 
                 "exists": true
             }
         ], 
         "Has subtitle": [
-            "Hackerfleet Operating System"
+            "Day 2"
         ], 
-        "Is organized by": [
-            {
-                "fulltext": "User:Sanpi", 
-                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/User:Sanpi", 
-                "namespace": 2, 
-                "exists": true
-            }
-        ], 
+        "Is organized by": [], 
         "Has title": [
-            "TeaHouse"
+            "Letter writing to prisoners, sitting in jail for hacking"
         ], 
         "Has duration": [
             45
         ], 
         "GUID": [
-            "0684a69d-9796-4946-9955-84cfafe8cb64"
+            "78b6af67-7c9d-460a-ac37-0428a4178e00"
         ], 
         "Has color": [
             "#0099ab"
         ], 
-        "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:TeaHouse", 
+        "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:Letter_writing_to_prisoners,_sitting_in_jail_for_hacking", 
         "Has end time": [
-            "1514393100"
+            "1514465100"
         ]
     }, 
     "Session:NixOS Meetup# e0c4091ecbe066a2b3029a7a57010caf": {
@@ -17423,6 +18468,59 @@
         "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:Newpipe", 
         "Has end time": [
             "1514386800"
+        ]
+    }, 
+    "Session:Bin\u00e4rgewitter H\u00f6rertreffen# da4ebf13c157a8cbef61347d4d863669": {
+        "Held in language": [
+            "de - German"
+        ], 
+        "Has start time": [
+            "1514552400"
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [
+            "http://krepel.us"
+        ], 
+        "Has description": [
+            "Bin\u00e4rgewitter H\u00f6rertreffen auf dem 34c3"
+        ], 
+        "Has session type": [
+            "Meeting"
+        ], 
+        "Has session location": [
+            {
+                "fulltext": "Room:Lecture room 12", 
+                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Room:Lecture_room_12", 
+                "namespace": 516, 
+                "exists": true
+            }
+        ], 
+        "Has subtitle": [], 
+        "Is organized by": [
+            {
+                "fulltext": "User:Makefu", 
+                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/User:Makefu", 
+                "namespace": 2, 
+                "exists": true
+            }
+        ], 
+        "Has title": [
+            "Bin\u00e4rgewitter H\u00f6rertreffen"
+        ], 
+        "Has duration": [
+            60
+        ], 
+        "GUID": [
+            "b3c53743-270a-44cc-ace4-be10f070211e"
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:Bin%C3%A4rgewitter_H%C3%B6rertreffen", 
+        "Has end time": [
+            "1514556000"
         ]
     }, 
     "Session:Inj4n: Habitual Automation - Because we have to script# 47f1aef71d48a3017832a280e1d37d52": {
@@ -17817,57 +18915,51 @@
             "1514590200"
         ]
     }, 
-    "Session:TeaHouse# 7693dc19e24497ef3c885347bbef9e3c": {
+    "Session:Rights&Freedoms# 080e902b5d76484bfad34544ec785c38": {
         "Held in language": [
+            "de - German", 
             "en - English"
         ], 
         "Has start time": [
-            "1514638800"
+            "1514379600"
         ], 
         "Has event track": [
             "Session"
         ], 
-        "Has website": [
-            "https://teahouse.homecomputing.fr/"
+        "Has website": [], 
+        "Has description": [
+            "Rights & Freedoms Cluster Stage Programme"
         ], 
-        "Has description": [], 
         "Has session type": [
-            "Meeting"
+            "Talk"
         ], 
         "Has session location": [
             {
-                "fulltext": "Assembly:TeaHouse", 
-                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Assembly:TeaHouse", 
-                "namespace": 504, 
+                "fulltext": "Room:CCL Hall 3", 
+                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Room:CCL_Hall_3", 
+                "namespace": 516, 
                 "exists": true
             }
         ], 
         "Has subtitle": [
-            "\u03b5xodus reveals hidden trackers in Android applications"
+            "[https://events.ccc.de/congress/2017/wiki/index.php/Session:Self-host_your_visual_assets_with_Free_Software Self-Host your visual assets with Free Software] (Elio Qoshi)"
         ], 
-        "Is organized by": [
-            {
-                "fulltext": "User:Sanpi", 
-                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/User:Sanpi", 
-                "namespace": 2, 
-                "exists": true
-            }
-        ], 
+        "Is organized by": [], 
         "Has title": [
-            "TeaHouse"
+            "Rights&Freedoms"
         ], 
         "Has duration": [
-            20
+            60
         ], 
         "GUID": [
-            "622c5770-b9fc-45ef-b9fc-1533f661e3ec"
+            "9a031988-bf7d-45f1-bc41-f3751dc059a7"
         ], 
         "Has color": [
             "#0099ab"
         ], 
-        "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:TeaHouse", 
+        "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:Rights%26Freedoms", 
         "Has end time": [
-            "1514640000"
+            "1514383200"
         ]
     }, 
     "Session:Trickmisch# edb2989e4021b4f67c909659a0640527": {
@@ -18198,57 +19290,51 @@
             "1514489400"
         ]
     }, 
-    "Session:Numerical Weather Prediction Tutorial# f6c1e9a8afa8b59448a312ac4b32a14d": {
+    "Session:Rights&Freedoms# fd7a7ff5f5f41b43551c8bf2c3a15530": {
         "Held in language": [
+            "de - German", 
             "en - English"
         ], 
         "Has start time": [
-            "1514455200"
+            "1514390400"
         ], 
         "Has event track": [
             "Session"
         ], 
-        "Has website": [
-            "https://www.hacknology.de/vortrag/2016/wrf/"
-        ], 
+        "Has website": [], 
         "Has description": [
-            "A workshop about running your own Numerical Weather Prediction (NWP) model."
+            "Rights & Freedoms Cluster Stage Programme"
         ], 
         "Has session type": [
-            "Workshop"
+            "Talk"
         ], 
         "Has session location": [
             {
-                "fulltext": "Room:Seminar room 13", 
-                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Room:Seminar_room_13", 
+                "fulltext": "Room:CCL Hall 3", 
+                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Room:CCL_Hall_3", 
                 "namespace": 516, 
                 "exists": true
             }
         ], 
-        "Has subtitle": [], 
-        "Is organized by": [
-            {
-                "fulltext": "User:Tecer", 
-                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/User:Tecer", 
-                "namespace": 2, 
-                "exists": true
-            }
+        "Has subtitle": [
+            "Will the monetary system change? Privacy and Risk implications of digital currencies, and decentralized digital monetary systems (nsb)"
         ], 
+        "Is organized by": [], 
         "Has title": [
-            "Numerical Weather Prediction Tutorial"
+            "Rights&Freedoms"
         ], 
         "Has duration": [
-            180
+            60
         ], 
         "GUID": [
-            "3c6e963d-f1f7-4620-b8da-2e3dad27f51e"
+            "8f90513f-3cf8-4444-8b99-d376d70974c6"
         ], 
         "Has color": [
             "#0099ab"
         ], 
-        "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:Numerical_Weather_Prediction_Tutorial", 
+        "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:Rights%26Freedoms", 
         "Has end time": [
-            "1514466000"
+            "1514394000"
         ]
     }, 
     "Session:\"Pen&Paper\" Game Jam# 33dbda9e61f8c463561dada21f411495": {
@@ -18537,57 +19623,51 @@
             "1514390400"
         ]
     }, 
-    "Session:TeaHouse# 3a7866305284101511df285fea236606": {
+    "Session:Food Hacking: Kombucha is Easy# a15f2e41078134579f127d12fc267c2b": {
         "Held in language": [
+            "cs - Czech", 
             "en - English"
         ], 
         "Has start time": [
-            "1514493000"
+            "1514556000"
         ], 
         "Has event track": [
             "Session"
         ], 
         "Has website": [
-            "https://teahouse.homecomputing.fr/"
+            "https://foodhackingbase.org/wiki/Kombucha_is_easy_34c3"
         ], 
-        "Has description": [], 
+        "Has description": [
+            "You will learn how take care properly about our kombucha culture (mother/SCOBY) brewing lovely beverage of your own so you can continue to do that at home or your local hackerspace."
+        ], 
         "Has session type": [
-            "Meeting"
+            "Hands-On"
         ], 
         "Has session location": [
             {
-                "fulltext": "Assembly:TeaHouse", 
-                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Assembly:TeaHouse", 
+                "fulltext": "Assembly:Foodhackingbase", 
+                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Assembly:Foodhackingbase", 
                 "namespace": 504, 
                 "exists": true
             }
         ], 
-        "Has subtitle": [
-            "Radio Dabanga Massive audience engagement in (human rights/humanitarian) reporting"
-        ], 
-        "Is organized by": [
-            {
-                "fulltext": "User:Sanpi", 
-                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/User:Sanpi", 
-                "namespace": 2, 
-                "exists": true
-            }
-        ], 
+        "Has subtitle": [], 
+        "Is organized by": [], 
         "Has title": [
-            "TeaHouse"
+            "Food Hacking: Kombucha is Easy"
         ], 
         "Has duration": [
-            45
+            120
         ], 
         "GUID": [
-            "68c26941-115f-4ada-8ed5-d0e4217680cf"
+            "64c63e3f-0999-40ac-b4ec-7caac1c51b1b"
         ], 
         "Has color": [
             "#0099ab"
         ], 
-        "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:TeaHouse", 
+        "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:Food_Hacking:_Kombucha_is_Easy", 
         "Has end time": [
-            "1514495700"
+            "1514563200"
         ]
     }, 
     "Session:DLF# a69903a482863aaef1626b8f0a760468": {
@@ -18632,6 +19712,104 @@
         "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:DLF", 
         "Has end time": [
             "1514375100"
+        ]
+    }, 
+    "Session:Rights&Freedoms# 9233046959c118f4e37e87b811773ec8": {
+        "Held in language": [
+            "de - German", 
+            "en - English"
+        ], 
+        "Has start time": [
+            "1514489400"
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [], 
+        "Has description": [
+            "Rights & Freedoms Cluster Stage Programme"
+        ], 
+        "Has session type": [
+            "Talk"
+        ], 
+        "Has session location": [
+            {
+                "fulltext": "Room:CCL Hall 3", 
+                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Room:CCL_Hall_3", 
+                "namespace": 516, 
+                "exists": true
+            }
+        ], 
+        "Has subtitle": [
+            "Algorithmic transaprency (EFF)"
+        ], 
+        "Is organized by": [], 
+        "Has title": [
+            "Rights&Freedoms"
+        ], 
+        "Has duration": [
+            30
+        ], 
+        "GUID": [
+            "23c6fca0-a450-47cf-8e39-888514b76355"
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:Rights%26Freedoms", 
+        "Has end time": [
+            "1514491200"
+        ]
+    }, 
+    "Session:Faith in mathematics (Wondrous Mathematics)# a088dd9c036046ce5ae7685bcc6f2842": {
+        "Held in language": [
+            "en - English"
+        ], 
+        "Has start time": [
+            "1514547000"
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [], 
+        "Has description": [
+            "Since G\u00f6del's celebrated work we know: The rules of mathematics are incomplete. There are true statements for which we have proof that they don't have a proof and there are statements for which we can arbitrarily decide whether they are true or not. Learn more about this curious state of affairs in the session!"
+        ], 
+        "Has session type": [
+            "Talk"
+        ], 
+        "Has session location": [
+            {
+                "fulltext": "Room:Lecture room 12", 
+                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Room:Lecture_room_12", 
+                "namespace": 516, 
+                "exists": true
+            }
+        ], 
+        "Has subtitle": [], 
+        "Is organized by": [
+            {
+                "fulltext": "User:IngoBlechschmidt", 
+                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/User:IngoBlechschmidt", 
+                "namespace": 2, 
+                "exists": true
+            }
+        ], 
+        "Has title": [
+            "Faith in mathematics (Wondrous Mathematics)"
+        ], 
+        "Has duration": [
+            60
+        ], 
+        "GUID": [
+            "f8c99603-0459-4199-af0e-18a5c6c8528c"
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:Faith_in_mathematics_(Wondrous_Mathematics)", 
+        "Has end time": [
+            "1514550600"
         ]
     }, 
     "Session:RHIZOM festival: an intro to everything for everyone for nothing# 5f787719ed7e8dc844f7dac831271136": {
