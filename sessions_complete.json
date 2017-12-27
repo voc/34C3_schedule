@@ -4852,7 +4852,10 @@
         ]
     }, 
     "Session:Ki+Philosophie# bc672941293e6929ae4750e733024e82": {
-        "Held in language": [], 
+        "Held in language": [
+            "de - German", 
+            "en - English"
+        ], 
         "Has start time": [
             "1514404800"
         ], 
@@ -4860,8 +4863,12 @@
             "Session"
         ], 
         "Has website": [], 
-        "Has description": [], 
-        "Has session type": [], 
+        "Has description": [
+            "K\u00fcnstliche Intelligenz ist voll im Kommen. Aber manche philosophischen Probleme lassen sich einfach nicht wegprogrammieren.\n\nThis Session is about artificial intelligence and its philosophical implications. We discuss some interesting dilemmas."
+        ], 
+        "Has session type": [
+            "Workshop"
+        ], 
         "Has session location": [
             {
                 "fulltext": "Room:Seminar room 14-15", 
@@ -5160,61 +5167,6 @@
         "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:Monero_Hardware_Development", 
         "Has end time": [
             "1514404800"
-        ]
-    }, 
-    "Session:Calliope Workshops# 818531710cca1e422d6515f0bb751e9a": {
-        "Held in language": [
-            "de - German"
-        ], 
-        "Has start time": [
-            "1514473200"
-        ], 
-        "Has event track": [
-            "Session"
-        ], 
-        "Has website": [
-            "http://calliope.cc"
-        ], 
-        "Has description": [
-            "Kinder ab 8 Jahren sind herzlich willkommen ihre ersten Erfahrungen mit dem Programmieren zu machen."
-        ], 
-        "Has session type": [
-            "Workshop"
-        ], 
-        "Has session location": [
-            {
-                "fulltext": "Assembly:Calliope Assembly", 
-                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Assembly:Calliope_Assembly", 
-                "namespace": 504, 
-                "exists": true
-            }
-        ], 
-        "Has subtitle": [
-            "Calliope Workshop 3"
-        ], 
-        "Is organized by": [
-            {
-                "fulltext": "User:DerMicha", 
-                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/User:DerMicha", 
-                "namespace": 2, 
-                "exists": true
-            }
-        ], 
-        "Has title": [
-            "Calliope Workshops"
-        ], 
-        "Has duration": [
-            60
-        ], 
-        "GUID": [
-            "9ef29ba5-4eb9-4d18-9f79-808570413595"
-        ], 
-        "Has color": [
-            "#0099ab"
-        ], 
-        "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:Calliope_Workshops", 
-        "Has end time": [
-            "1514476800"
         ]
     }, 
     "Session:Rights&Freedoms# 6cb64129da673136248f05a7d3678f10": {
@@ -8420,6 +8372,55 @@
             "1514494800"
         ]
     }, 
+    "Session:Join us now - a choir to perform the Free Software song# b5ca6f43b45dd7eff4800742cff068d8": {
+        "Held in language": [
+            "en - English"
+        ], 
+        "Has start time": [
+            "1514553300"
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [], 
+        "Has description": [], 
+        "Has session type": [
+            "Workshop"
+        ], 
+        "Has session location": [
+            {
+                "fulltext": "Room:Komona Coral Reef", 
+                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Room:Komona_Coral_Reef", 
+                "namespace": 516, 
+                "exists": true
+            }
+        ], 
+        "Has subtitle": [], 
+        "Is organized by": [
+            {
+                "fulltext": "User:Eal", 
+                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/User:Eal", 
+                "namespace": 2, 
+                "exists": true
+            }
+        ], 
+        "Has title": [
+            "Join us now - a choir to perform the Free Software song"
+        ], 
+        "Has duration": [
+            105
+        ], 
+        "GUID": [
+            "bbc38995-f7c5-453b-a572-1be0ea022b1f"
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:Join_us_now_-_a_choir_to_perform_the_Free_Software_song", 
+        "Has end time": [
+            "1514559600"
+        ]
+    }, 
     "Session:Angewandte konsensdemokratie# b4051cdc2e053136b78d2df320ccd59b": {
         "Held in language": [
             "de - German"
@@ -10130,50 +10131,6 @@
         "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:DLF", 
         "Has end time": [
             "1514394000"
-        ]
-    }, 
-    "Session:Beweise ohne Worte (Wondrous Mathematics)# 44f91b083ccfe27ed18ba3b746f2a612": {
-        "Held in language": [
-            "de - German"
-        ], 
-        "Has start time": [
-            "1514458800"
-        ], 
-        "Has event track": [
-            "Session"
-        ], 
-        "Has website": [], 
-        "Has description": [
-            "In der Schule besteht Mathematik zu einem gro\u00dfen Teil aus Rechnungen. Das ist aber nicht das, was Mathematik wirklich ausmacht! Dazu geh\u00f6ren n\u00e4mlich ergreifende Aha-Momente beim Verstehen von Zusammenh\u00e4ngen. Mathematik ist die Kunst, das Verborgene auf das Offensichtliche zur\u00fcckzuf\u00fchren! In dieser Session gibt es Beweise, die ganz ohne Worte auskommen."
-        ], 
-        "Has session type": [
-            "Hands-On"
-        ], 
-        "Has session location": [], 
-        "Has subtitle": [], 
-        "Is organized by": [
-            {
-                "fulltext": "User:IngoBlechschmidt", 
-                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/User:IngoBlechschmidt", 
-                "namespace": 2, 
-                "exists": true
-            }
-        ], 
-        "Has title": [
-            "Beweise ohne Worte (Wondrous Mathematics)"
-        ], 
-        "Has duration": [
-            150
-        ], 
-        "GUID": [
-            "272c928a-0d18-482d-a1e2-a127ed0d39fd"
-        ], 
-        "Has color": [
-            "#0099ab"
-        ], 
-        "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:Beweise_ohne_Worte_(Wondrous_Mathematics)", 
-        "Has end time": [
-            "1514467800"
         ]
     }, 
     "Session:Klangteppich# 5ed523915275d4f2260d337d0decb9ca": {
@@ -13928,53 +13885,6 @@
             "1514390400"
         ]
     }, 
-    "Session:Join us now - a choir to perform the Free Software song# 7b70668ede175f2a10b15e312187c8e5": {
-        "Held in language": [
-            "en - English"
-        ], 
-        "Has start time": [], 
-        "Has event track": [
-            "Session"
-        ], 
-        "Has website": [], 
-        "Has description": [], 
-        "Has session type": [
-            "Workshop"
-        ], 
-        "Has session location": [
-            {
-                "fulltext": "Room:Komona Coral Reef", 
-                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Room:Komona_Coral_Reef", 
-                "namespace": 516, 
-                "exists": true
-            }
-        ], 
-        "Has subtitle": [], 
-        "Is organized by": [
-            {
-                "fulltext": "User:Eal", 
-                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/User:Eal", 
-                "namespace": 2, 
-                "exists": true
-            }
-        ], 
-        "Has title": [
-            "Join us now - a choir to perform the Free Software song"
-        ], 
-        "Has duration": [
-            105
-        ], 
-        "GUID": [
-            "bbc38995-f7c5-453b-a572-1be0ea022b1f"
-        ], 
-        "Has color": [
-            "#0099ab"
-        ], 
-        "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:Join_us_now_-_a_choir_to_perform_the_Free_Software_song", 
-        "Has end time": [
-            "1514386800"
-        ]
-    }, 
     "Session:Klangteppich# 81698583ebf8a6e48055ec8fe98a69cc": {
         "Held in language": [
             "de - German", 
@@ -14570,6 +14480,61 @@
         "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:Gehen_drei_Wissenschaftler_in_eine_Kneipe", 
         "Has end time": [
             "1514474100"
+        ]
+    }, 
+    "Session:Calliope Workshops# af1486109b20a326d421317052a0fa55": {
+        "Held in language": [
+            "de - German"
+        ], 
+        "Has start time": [
+            "1514480400"
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [
+            "http://calliope.cc"
+        ], 
+        "Has description": [
+            "Kinder ab 8 Jahren sind herzlich willkommen ihre ersten Erfahrungen mit dem Programmieren zu machen."
+        ], 
+        "Has session type": [
+            "Workshop"
+        ], 
+        "Has session location": [
+            {
+                "fulltext": "Room:Hive Conference", 
+                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Room:Hive_Conference", 
+                "namespace": 516, 
+                "exists": true
+            }
+        ], 
+        "Has subtitle": [
+            "Calliope Workshop 4"
+        ], 
+        "Is organized by": [
+            {
+                "fulltext": "User:DerMicha", 
+                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/User:DerMicha", 
+                "namespace": 2, 
+                "exists": true
+            }
+        ], 
+        "Has title": [
+            "Calliope Workshops"
+        ], 
+        "Has duration": [
+            60
+        ], 
+        "GUID": [
+            "6946c2f8-7ca0-4d95-a70a-20cec20e25fb"
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:Calliope_Workshops", 
+        "Has end time": [
+            "1514484000"
         ]
     }, 
     "Session:DLF# 2ffec229d5d9bc2f2bd65b9e24e1fa9b": {
@@ -15468,6 +15433,61 @@
         "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:MASKIERTE_GRUPPENDYNAMIK", 
         "Has end time": [
             "1514577600"
+        ]
+    }, 
+    "Session:Calliope Workshops# bc7eac11ab96855324634f15cfef2ba8": {
+        "Held in language": [
+            "de - German"
+        ], 
+        "Has start time": [
+            "1514476800"
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [
+            "http://calliope.cc"
+        ], 
+        "Has description": [
+            "Kinder ab 8 Jahren sind herzlich willkommen ihre ersten Erfahrungen mit dem Programmieren zu machen."
+        ], 
+        "Has session type": [
+            "Workshop"
+        ], 
+        "Has session location": [
+            {
+                "fulltext": "Room:Hive Conference", 
+                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Room:Hive_Conference", 
+                "namespace": 516, 
+                "exists": true
+            }
+        ], 
+        "Has subtitle": [
+            "Calliope Workshop 3"
+        ], 
+        "Is organized by": [
+            {
+                "fulltext": "User:DerMicha", 
+                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/User:DerMicha", 
+                "namespace": 2, 
+                "exists": true
+            }
+        ], 
+        "Has title": [
+            "Calliope Workshops"
+        ], 
+        "Has duration": [
+            60
+        ], 
+        "GUID": [
+            "9ef29ba5-4eb9-4d18-9f79-808570413595"
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:Calliope_Workshops", 
+        "Has end time": [
+            "1514480400"
         ]
     }, 
     "Session:Tech-Coops Meetup# 4aa6f1b46d77ad903486edb53823e678": {
@@ -17623,53 +17643,6 @@
             "1514465100"
         ]
     }, 
-    "Session:Food Hacking: Gimbab Making# 277c6589a9f48f241d05d8bbb3b31f7a": {
-        "Held in language": [
-            "en - English", 
-            "ko - Korean"
-        ], 
-        "Has start time": [
-            "1514476800"
-        ], 
-        "Has event track": [
-            "Session"
-        ], 
-        "Has website": [
-            "https://foodhackingbase.org/wiki/Gimbab_making_34c3"
-        ], 
-        "Has description": [
-            "You will learn during this hands on workshop how to prepare popular Korean picnic food Gimbap \uae40\ubc25, similar to Japanese food called sushi."
-        ], 
-        "Has session type": [
-            "Hands-On"
-        ], 
-        "Has session location": [
-            {
-                "fulltext": "Assembly:Foodhackingbase", 
-                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Assembly:Foodhackingbase", 
-                "namespace": 504, 
-                "exists": true
-            }
-        ], 
-        "Has subtitle": [], 
-        "Is organized by": [], 
-        "Has title": [
-            "Food Hacking: Gimbab Making"
-        ], 
-        "Has duration": [
-            120
-        ], 
-        "GUID": [
-            "c8e27cc6-8afc-43d4-b5c4-9679a3ec96f9"
-        ], 
-        "Has color": [
-            "#0099ab"
-        ], 
-        "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:Food_Hacking:_Gimbab_Making", 
-        "Has end time": [
-            "1514484000"
-        ]
-    }, 
     "Session:NixOS Meetup# e0c4091ecbe066a2b3029a7a57010caf": {
         "Held in language": [
             "de - German", 
@@ -18544,6 +18517,59 @@
         "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:TeaHouse", 
         "Has end time": [
             "1514469600"
+        ]
+    }, 
+    "Session:Information security theater vs. Investigative journalism# 7674b415d772522eb0a70b4985c53ace": {
+        "Held in language": [
+            "en - English"
+        ], 
+        "Has start time": [
+            "1514552400"
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [], 
+        "Has description": [
+            "Banning strong cryptography or rolling out pervasive network surveillance are \njust some of many policy ideas proposed or instituted not only in oppressive \nregimes, but also in stable democracies. Tools developed by three-letter-\nagencies end up in the hands of oppressive regimes, and 0-day hoarding creates \na market for exploits, which puts journalists and their sources in danger.\n\nArguing against these very often proves difficult, as it is usually anchored \nin democratic principles and philosophical arguments -- something we all \nunderstand, but which is also much less concrete and easy to grasp than the \nterrorist threat du jour, so vividly exemplifying the purported need for the \nproposed measures.\n\nHaving been involved in such policy discussions for many years, and having \nbeen working daily with journalists around the globe, I'd like to talk about \nvery concrete examples of *why* the democratic principles are in place, and \noffer concrete arguments to all policy hackers out there who need them to fend \noff the current flavor of information security theater measures."
+        ], 
+        "Has session type": [
+            "Talk"
+        ], 
+        "Has session location": [
+            {
+                "fulltext": "Room:CCL Hall 3", 
+                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Room:CCL_Hall_3", 
+                "namespace": 516, 
+                "exists": true
+            }
+        ], 
+        "Has subtitle": [
+            "Information security theater vs. Investigative journalism (Rysiek, OCCRP)"
+        ], 
+        "Is organized by": [
+            {
+                "fulltext": "User:Rysiek", 
+                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/User:Rysiek", 
+                "namespace": 2, 
+                "exists": true
+            }
+        ], 
+        "Has title": [
+            "Information security theater vs. Investigative journalism"
+        ], 
+        "Has duration": [
+            60
+        ], 
+        "GUID": [
+            "c682fa8a-045b-4a09-8164-1b33826b8e63"
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:Information_security_theater_vs._Investigative_journalism", 
+        "Has end time": [
+            "1514556000"
         ]
     }, 
     "Session:Translation Team# 8d856b78bf52263d2348beb55117768f": {
