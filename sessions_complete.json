@@ -376,47 +376,49 @@
             "1514466000"
         ]
     }, 
-    "Session:Crypto meetup# d73e28b72f2c25610909d44c8b35394d": {
+    "Session:Usertesting TALEnet# edd7937f9237678afcc9eec3ba7d8fdb": {
         "Held in language": [
             "en - English"
         ], 
         "Has start time": [
-            "1514584800"
+            "1514397600"
         ], 
         "Has event track": [
             "Session"
         ], 
-        "Has website": [
-            "http://web.cs.ucdavis.edu/~rogaway/papers/moral-fn.pdf"
-        ], 
+        "Has website": [], 
         "Has description": [
-            "!!! This is NOT a BitCoin/AltCoin/Blockchain meetup - though underlying technology may be discussed !!!\n\nJust like in the past few years we're going to do an informal meetup of crypto engineers / cryptographers / security nerds to talk about just that subject. \n\nWe'll be meeting on Day 3 at around 2200, as day two is filled with crypto-related talks at that time.\n\nLocation TBA on Twitter and in here (assume tea house or a nice bar nearby): https://twitter.com/a_z_e_t/status/941664891135516673"
+            "Usertesting TALEnet (kathia)"
         ], 
         "Has session type": [
-            "Meeting"
+            "Workshop"
         ], 
         "Has session location": [
             {
-                "fulltext": "Assembly:TeaHouse", 
-                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Assembly:TeaHouse", 
-                "namespace": 504, 
+                "fulltext": "Room:Komona Blue Princess", 
+                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Room:Komona_Blue_Princess", 
+                "namespace": 516, 
                 "exists": true
             }
         ], 
         "Has subtitle": [], 
         "Is organized by": [], 
         "Has title": [
-            "Crypto meetup"
+            "Usertesting TALEnet"
         ], 
-        "Has duration": [], 
+        "Has duration": [
+            120
+        ], 
         "GUID": [
-            "8191d38f-8113-43e4-aa58-58b4f8e3e88a"
+            "dd529f5f-4f94-4fda-a4dc-abe0a2f9f68a"
         ], 
         "Has color": [
             "#0099ab"
         ], 
-        "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:Crypto_meetup", 
-        "Has end time": []
+        "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:Usertesting_TALEnet", 
+        "Has end time": [
+            "1514404800"
+        ]
     }, 
     "Session:Digitales Graffiti auf Facebook# 55ba01a3dbf974377c7b9d0394a6a228": {
         "Held in language": [
@@ -1121,6 +1123,50 @@
         "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:Autocrypt", 
         "Has end time": [
             "1514476800"
+        ]
+    }, 
+    "Session:Hauptsache laut!# e85d8044db4b7af75aadbddd1a2eb4a5": {
+        "Held in language": [
+            "de - German"
+        ], 
+        "Has start time": [
+            "1514399400"
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [], 
+        "Has description": [
+            "Tontechnik f\u00fcr blutige Anf\u00e4nger - wie man bei einem Konzert laut macht, einen Podcast aufnimmt, und was es mit diesen DACs und ganzen lustigen Steckern auf sich hat. Offen f\u00fcr viele Fragen, Inhalt richtet nach den Zuh\u00f6rern!"
+        ], 
+        "Has session type": [
+            "Workshop"
+        ], 
+        "Has session location": [
+            {
+                "fulltext": "Room:Komona D.Ressrosa", 
+                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Room:Komona_D.Ressrosa", 
+                "namespace": 516, 
+                "exists": true
+            }
+        ], 
+        "Has subtitle": [], 
+        "Is organized by": [], 
+        "Has title": [
+            "Hauptsache laut!"
+        ], 
+        "Has duration": [
+            45
+        ], 
+        "GUID": [
+            "0024656e-5c20-4a14-b173-e97b77ec0b2e"
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:Hauptsache_laut!", 
+        "Has end time": [
+            "1514402100"
         ]
     }, 
     "Projects:LEAP# 17299165a804a77424c43d9127ca7614": {
@@ -14868,49 +14914,47 @@
             "1514555100"
         ]
     }, 
-    "Session:Usertesting TALEnet# edd7937f9237678afcc9eec3ba7d8fdb": {
+    "Session:Crypto meetup# d73e28b72f2c25610909d44c8b35394d": {
         "Held in language": [
             "en - English"
         ], 
         "Has start time": [
-            "1514397600"
+            "1514584800"
         ], 
         "Has event track": [
             "Session"
         ], 
-        "Has website": [], 
+        "Has website": [
+            "http://web.cs.ucdavis.edu/~rogaway/papers/moral-fn.pdf"
+        ], 
         "Has description": [
-            "Usertesting TALEnet (kathia)"
+            "!!! This is NOT a BitCoin/AltCoin/Blockchain meetup - though underlying technology may be discussed !!!\n\nJust like in the past few years we're going to do an informal meetup of crypto engineers / cryptographers / security nerds to talk about just that subject. \n\nWe'll be meeting on Day 3 at around 2200, as day two is filled with crypto-related talks at that time.\n\nLocation TBA on Twitter and in here (assume tea house or a nice bar nearby): https://twitter.com/a_z_e_t/status/941664891135516673"
         ], 
         "Has session type": [
-            "Workshop"
+            "Meeting"
         ], 
         "Has session location": [
             {
-                "fulltext": "Room:Komona Blue Princess", 
-                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Room:Komona_Blue_Princess", 
-                "namespace": 516, 
+                "fulltext": "Assembly:TeaHouse", 
+                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Assembly:TeaHouse", 
+                "namespace": 504, 
                 "exists": true
             }
         ], 
         "Has subtitle": [], 
         "Is organized by": [], 
         "Has title": [
-            "Usertesting TALEnet"
+            "Crypto meetup"
         ], 
-        "Has duration": [
-            120
-        ], 
+        "Has duration": [], 
         "GUID": [
-            "dd529f5f-4f94-4fda-a4dc-abe0a2f9f68a"
+            "8191d38f-8113-43e4-aa58-58b4f8e3e88a"
         ], 
         "Has color": [
             "#0099ab"
         ], 
-        "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:Usertesting_TALEnet", 
-        "Has end time": [
-            "1514404800"
-        ]
+        "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:Crypto_meetup", 
+        "Has end time": []
     }, 
     "Session:Weisswurstfr\u00fchst\u00fcck# 985802ccd04413fbe2b0c47f72d474f4": {
         "Held in language": [
