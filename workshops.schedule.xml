@@ -7,7 +7,7 @@
     <days>5</days>
     <timeslot_duration>00:15</timeslot_duration>
   </conference>
-  <day date="2017-12-26" index="1" end="2017-12-27T04:00:00+01:00" start="2017-12-26T06:00:00+01:00">
+  <day date="2017-12-26" index="0" end="2017-12-27T04:00:00+01:00" start="2017-12-26T06:00:00+01:00">
     <room name="Komona Coral Reef"/>
     <room name="Lecture room 11">
       <event id="1016" guid="4e77ac4f-012b-4132-8079-c16fd0f600fd">
@@ -166,7 +166,7 @@ This meeting is mandatory if you want to be a Stagemanager during 34C3.</descrip
     <room name="Komona Blue Princess"/>
     <room name="Seminar room 13"/>
   </day>
-  <day date="2017-12-27" index="2" end="2017-12-28T04:00:00+01:00" start="2017-12-27T06:00:00+01:00">
+  <day date="2017-12-27" index="1" end="2017-12-28T04:00:00+01:00" start="2017-12-27T06:00:00+01:00">
     <room name="Komona Coral Reef">
       <event id="1003" guid="e577cff8-0824-48cd-9fe4-4c60f11f1ec6">
         <logo/>
@@ -1872,7 +1872,7 @@ This session will help you with any questions how to install an provider instanc
       </event>
     </room>
   </day>
-  <day date="2017-12-28" index="3" end="2017-12-29T04:00:00+01:00" start="2017-12-28T06:00:00+01:00">
+  <day date="2017-12-28" index="2" end="2017-12-29T04:00:00+01:00" start="2017-12-28T06:00:00+01:00">
     <room name="Komona Coral Reef">
       <event id="1015" guid="d91c9ab4-0da2-43ef-8f77-9734820566d5">
         <logo/>
@@ -3919,7 +3919,7 @@ eine Zukunft mit leeren Zellen nachdenken.</description>
       </event>
     </room>
   </day>
-  <day date="2017-12-29" index="4" end="2017-12-30T04:00:00+01:00" start="2017-12-29T06:00:00+01:00">
+  <day date="2017-12-29" index="3" end="2017-12-30T04:00:00+01:00" start="2017-12-29T06:00:00+01:00">
     <room name="Komona Coral Reef">
       <event id="1128" guid="5827fd18-7bbf-4c9d-a2db-de0b5afb12d0">
         <logo/>
@@ -5739,7 +5739,7 @@ Gathering can continue in the party area ;)</description>
       </event>
     </room>
   </day>
-  <day date="2017-12-30" index="5" end="2017-12-30T23:00:00+01:00" start="2017-12-30T06:00:00+01:00">
+  <day date="2017-12-30" index="4" end="2017-12-30T23:00:00+01:00" start="2017-12-30T06:00:00+01:00">
     <room name="Komona Coral Reef">
       <event id="1182" guid="a3026239-aef4-4d20-bdc5-003bfbbff970">
         <logo/>
