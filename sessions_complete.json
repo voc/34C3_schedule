@@ -1583,60 +1583,6 @@
             "1514484000"
         ]
     }, 
-    "Session:Klangteppich# c8e015385ba516f7fae967b6575aa3c5": {
-        "Held in language": [
-            "de - German", 
-            "en - English"
-        ], 
-        "Has start time": [
-            "1514332800"
-        ], 
-        "Has event track": [
-            "Session"
-        ], 
-        "Has website": [], 
-        "Has description": [
-            "Come over and meet us at our cozy music lounge in hall 2! Proudly presented by Chaos West"
-        ], 
-        "Has session type": [
-            "Other"
-        ], 
-        "Has session location": [
-            {
-                "fulltext": "Room:Chaos West Stage", 
-                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Room:Chaos_West_Stage", 
-                "namespace": 516, 
-                "exists": true
-            }
-        ], 
-        "Has subtitle": [
-            "voxel.blue DJ set psychill/chillgressive"
-        ], 
-        "Is organized by": [
-            {
-                "fulltext": "User:Bam", 
-                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/User:Bam", 
-                "namespace": 2, 
-                "exists": true
-            }
-        ], 
-        "Has title": [
-            "Klangteppich"
-        ], 
-        "Has duration": [
-            180
-        ], 
-        "GUID": [
-            "dd39558b-0b24-4b27-9e1f-4b76d52cb1a8"
-        ], 
-        "Has color": [
-            "#0099ab"
-        ], 
-        "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:Klangteppich", 
-        "Has end time": [
-            "1514343600"
-        ]
-    }, 
     "Session:QRNGesus# 9933e36496ba395d014495b2ec1939cc": {
         "Held in language": [
             "de - German"
@@ -3553,6 +3499,50 @@
         "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:Surface_mount_electronics_assembly_for_terrified_beginners", 
         "Has end time": [
             "1514644200"
+        ]
+    }, 
+    "Session:Translation Team# df5b7726546959f736beec38d2fc1c6d": {
+        "Held in language": [
+            "en - English"
+        ], 
+        "Has start time": [
+            "1514568600"
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [], 
+        "Has description": [
+            "Daily orga meeting of the Translation Angel crew."
+        ], 
+        "Has session type": [
+            "Meeting"
+        ], 
+        "Has session location": [
+            {
+                "fulltext": "Room:Seminar room 14-15", 
+                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Room:Seminar_room_14-15", 
+                "namespace": 516, 
+                "exists": true
+            }
+        ], 
+        "Has subtitle": [
+            "Translation Angel Meeting Day 3"
+        ], 
+        "Is organized by": [], 
+        "Has title": [
+            "Translation Team"
+        ], 
+        "Has duration": [
+            60
+        ], 
+        "GUID": [], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:Translation_Team", 
+        "Has end time": [
+            "1514572200"
         ]
     }, 
     "Session:D Town, Christopher: Eigenes HackLab bauen!# b68fd9cc434114bcf9eb06cd008ffe4a": {
@@ -5520,48 +5510,58 @@
             "1514487600"
         ]
     }, 
-    "Session:Translation Team# df5b7726546959f736beec38d2fc1c6d": {
+    "Session:Klangteppich# d1dea7333031fefef980bb345616eca6": {
         "Held in language": [
+            "de - German", 
             "en - English"
         ], 
         "Has start time": [
-            "1514568600"
+            "1514413800"
         ], 
         "Has event track": [
             "Session"
         ], 
         "Has website": [], 
         "Has description": [
-            "Daily orga meeting of the Translation Angel crew."
+            "Come over and meet us at our cozy music lounge in hall 2! Proudly presented by Chaos West"
         ], 
         "Has session type": [
-            "Meeting"
+            "Other"
         ], 
         "Has session location": [
             {
-                "fulltext": "Room:Seminar room 14-15", 
-                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Room:Seminar_room_14-15", 
+                "fulltext": "Room:Chaos West Stage", 
+                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Room:Chaos_West_Stage", 
                 "namespace": 516, 
                 "exists": true
             }
         ], 
         "Has subtitle": [
-            "Translation Angel Meeting Day 3"
+            "voxel.blue DJ set psychill/chillgressive"
         ], 
-        "Is organized by": [], 
+        "Is organized by": [
+            {
+                "fulltext": "User:Bam", 
+                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/User:Bam", 
+                "namespace": 2, 
+                "exists": true
+            }
+        ], 
         "Has title": [
-            "Translation Team"
+            "Klangteppich"
         ], 
         "Has duration": [
-            60
+            90
         ], 
-        "GUID": [], 
+        "GUID": [
+            "dd39558b-0b24-4b27-9e1f-4b76d52cb1a8"
+        ], 
         "Has color": [
             "#0099ab"
         ], 
-        "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:Translation_Team", 
+        "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:Klangteppich", 
         "Has end time": [
-            "1514572200"
+            "1514419200"
         ]
     }, 
     "Session:Rights&Freedoms# 880f8542ef64de6bef5f9004d06b16bc": {
