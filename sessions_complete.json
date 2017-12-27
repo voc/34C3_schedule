@@ -456,6 +456,54 @@
             "1514484000"
         ]
     }, 
+    "Session:WireGuard# 2fb6483dd3e687aa0d8f6180dcd94973": {
+        "Held in language": [
+            "en - English"
+        ], 
+        "Has start time": [
+            "1514550600"
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [
+            "https://www.wireguard.com/"
+        ], 
+        "Has description": [
+            "WireGuard is a next generation secure network tunnel, which uses state of the art cryptography. This workshop will discuss what WireGuard is, the cryptography behind it, some interesting kernel engineering tricks it uses, and how you too can use it. There will be copious quantities of free stickers. The session will be fairly open and free form. The creator of WireGuard will have an endless quantity of material of his own to present, but more generally, we'll open it up to whatever people want to discuss and collaborate on. If you're interested in kernel programming, networking, cryptography, or security, this is a key workshop to attend."
+        ], 
+        "Has session type": [
+            "Workshop"
+        ], 
+        "Has session location": [
+            {
+                "fulltext": "Room:Lecture room 12", 
+                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Room:Lecture_room_12", 
+                "namespace": 516, 
+                "exists": true
+            }
+        ], 
+        "Has subtitle": [
+            "Temporary hold"
+        ], 
+        "Is organized by": [], 
+        "Has title": [
+            "WireGuard"
+        ], 
+        "Has duration": [
+            30
+        ], 
+        "GUID": [
+            "dc1ce5c6-2b4a-4a3a-b46d-d14f5fc6b901"
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:WireGuard", 
+        "Has end time": [
+            "1514552400"
+        ]
+    }, 
     "Session:Intro to Arduino Shield Soldering and Programing# 9c986f80fce7aa40460e060da65ae06b": {
         "Held in language": [
             "en - English"
@@ -1795,6 +1843,54 @@
         "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:Introduction_into_anarchism", 
         "Has end time": [
             "1514499300"
+        ]
+    }, 
+    "Session:WireGuard# 9a71ba33750c30c608b596ba9c46bdbb": {
+        "Held in language": [
+            "en - English"
+        ], 
+        "Has start time": [
+            "1514548800"
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [
+            "https://www.wireguard.com/"
+        ], 
+        "Has description": [
+            "WireGuard is a next generation secure network tunnel, which uses state of the art cryptography. This workshop will discuss what WireGuard is, the cryptography behind it, some interesting kernel engineering tricks it uses, and how you too can use it. There will be copious quantities of free stickers. The session will be fairly open and free form. The creator of WireGuard will have an endless quantity of material of his own to present, but more generally, we'll open it up to whatever people want to discuss and collaborate on. If you're interested in kernel programming, networking, cryptography, or security, this is a key workshop to attend."
+        ], 
+        "Has session type": [
+            "Workshop"
+        ], 
+        "Has session location": [
+            {
+                "fulltext": "Room:Lecture room 14-15", 
+                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Room:Lecture_room_14-15", 
+                "namespace": 516, 
+                "exists": false
+            }
+        ], 
+        "Has subtitle": [
+            "Temporary hold"
+        ], 
+        "Is organized by": [], 
+        "Has title": [
+            "WireGuard"
+        ], 
+        "Has duration": [
+            60
+        ], 
+        "GUID": [
+            "dc1ce5c6-2b4a-4a3a-b46d-d14f5fc6b902"
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:WireGuard", 
+        "Has end time": [
+            "1514552400"
         ]
     }, 
     "Session:How to Let's Play# 776f716aa526a04f0bbb8b1c2852952a": {
@@ -4629,61 +4725,6 @@
         "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Projects:LEAP", 
         "Has end time": [
             "1514403000"
-        ]
-    }, 
-    "Session:Schleuder# 333059041d8a4ce8d2cfa9b7e98eb45c": {
-        "Held in language": [
-            "en - English"
-        ], 
-        "Has start time": [
-            "1514466900"
-        ], 
-        "Has event track": [
-            "Session"
-        ], 
-        "Has website": [
-            "https://schleuder.nadir.org/"
-        ], 
-        "Has description": [
-            "A workshop on the development of Schleuder, the crypto mailinglist manager: what's new in version 3, the new web-interface, what will be next, etc.\n\nDepending on the attendee's wishes, we can also take time to answer questions, discuss ideas, or provide practical help with problems."
-        ], 
-        "Has session type": [
-            "Workshop"
-        ], 
-        "Has session location": [
-            {
-                "fulltext": "Room:Lecture room 11", 
-                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Room:Lecture_room_11", 
-                "namespace": 516, 
-                "exists": true
-            }
-        ], 
-        "Has subtitle": [
-            "Last years development & discussion"
-        ], 
-        "Is organized by": [
-            {
-                "fulltext": "User:Paz", 
-                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/User:Paz", 
-                "namespace": 2, 
-                "exists": true
-            }
-        ], 
-        "Has title": [
-            "Schleuder"
-        ], 
-        "Has duration": [
-            45
-        ], 
-        "GUID": [
-            "90e4dc9d-fa68-400a-a202-c0d2714d4c1c"
-        ], 
-        "Has color": [
-            "#0099ab"
-        ], 
-        "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:Schleuder", 
-        "Has end time": [
-            "1514469600"
         ]
     }, 
     "Session:Throwies# e27ebec0de39dbae7585138a3b649bff": {
@@ -12079,6 +12120,60 @@
         "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:Nextcloud_Dev_Q%26A", 
         "Has end time": [
             "1514574000"
+        ]
+    }, 
+    "Session:Tell me a story# b50bf887b0a94f4f10b1da67d9b2c767": {
+        "Held in language": [
+            "de - German", 
+            "en - English"
+        ], 
+        "Has start time": [
+            "1514642400"
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [
+            "https://www.fro.at/sendungen/fenstergeschichten/"
+        ], 
+        "Has description": [
+            "it's all about stories and songs. for my show on community radio upper austria, i am looking for people who tell me their favorite random story which is connected to a specific song. i will record it and might use it for my radio show. // any language is welcome :-)"
+        ], 
+        "Has session type": [
+            "Other"
+        ], 
+        "Has session location": [
+            {
+                "fulltext": "Room:Seminar room 14-15", 
+                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Room:Seminar_room_14-15", 
+                "namespace": 516, 
+                "exists": true
+            }
+        ], 
+        "Has subtitle": [], 
+        "Is organized by": [
+            {
+                "fulltext": "User:Astroid", 
+                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/User:Astroid", 
+                "namespace": 2, 
+                "exists": true
+            }
+        ], 
+        "Has title": [
+            "Tell me a story"
+        ], 
+        "Has duration": [
+            60
+        ], 
+        "GUID": [
+            "afd17345-39e2-44ad-b303-a6595f78ac08"
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:Tell_me_a_story", 
+        "Has end time": [
+            "1514646000"
         ]
     }, 
     "Session:TeaHouse# 6f1b570a5c0e6471dc60d210b99c5ccf": {
