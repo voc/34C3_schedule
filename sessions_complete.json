@@ -2806,58 +2806,50 @@
             "1514332800"
         ]
     }, 
-    "Session:A/V Angel Meeting# 1ab124b2b2aed4dbc021be006ee4bd18": {
+    "Session:Monerujo - Android Monero Wallet# e2e8d31553d63f935c8fd9fd79f4ffc4": {
         "Held in language": [
-            "de - German", 
             "en - English"
         ], 
         "Has start time": [
-            "1514405700"
+            "1514401200"
         ], 
         "Has event track": [
             "Session"
         ], 
         "Has website": [
-            "https://c3voc.de"
+            "https://monerujo.io"
         ], 
         "Has description": [
-            "Daily A/V Angel Meeting: Feedback and Shift Distribution"
+            "Developing a Monero Wallet for Android. Process, Tools, People."
         ], 
         "Has session type": [
-            "Meeting"
+            "Talk"
         ], 
         "Has session location": [
             {
-                "fulltext": "Room:Lecture room 11", 
-                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Room:Lecture_room_11", 
+                "fulltext": "Room:Chaos West Stage", 
+                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Room:Chaos_West_Stage", 
                 "namespace": 516, 
                 "exists": true
             }
         ], 
         "Has subtitle": [], 
-        "Is organized by": [
-            {
-                "fulltext": "User:Jwacalex", 
-                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/User:Jwacalex", 
-                "namespace": 2, 
-                "exists": true
-            }
-        ], 
+        "Is organized by": [], 
         "Has title": [
-            "A/V Angel Meeting"
+            "Monerujo - Android Monero Wallet"
         ], 
         "Has duration": [
-            105
+            30
         ], 
         "GUID": [
-            "f5f69c30-2863-4817-a663-b248274c87ac"
+            "0b421059-3b80-4326-a450-854553825328"
         ], 
         "Has color": [
             "#0099ab"
         ], 
-        "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:A/V_Angel_Meeting", 
+        "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:Monerujo_-_Android_Monero_Wallet", 
         "Has end time": [
-            "1514412000"
+            "1514403000"
         ]
     }, 
     "Session:A/V Angel Meeting# cfae41ef06cf48c907d63a56a72f8e52": {
@@ -3409,6 +3401,37 @@
         "Has end time": [
             "1514554200"
         ]
+    }, 
+    "Session:Intro to 3D Shader Programming# fc88be0fc0dc0803f02deda4d4c48282": {
+        "Held in language": [
+            "en - English"
+        ], 
+        "Has start time": [], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [], 
+        "Has description": [
+            "Cancelled, sorry :)"
+        ], 
+        "Has session type": [
+            "Talk"
+        ], 
+        "Has session location": [], 
+        "Has subtitle": [], 
+        "Is organized by": [], 
+        "Has title": [
+            "Intro to 3D Shader Programming"
+        ], 
+        "Has duration": [], 
+        "GUID": [
+            "ef2d17f5-b9db-4273-b29e-af283594efe0"
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:Intro_to_3D_Shader_Programming", 
+        "Has end time": []
     }, 
     "Session:Lets play Hedgewars!# bf270c1176a7d412c18dc8b27c126284": {
         "Held in language": [
@@ -8342,6 +8365,55 @@
             "1514574000"
         ]
     }, 
+    "Session:Fabmobil - Mobiles Fablab-Konzept f\u00fcr den l\u00e4ndlichen Raum# bade4c0ad761dfc4625428032c9739f1": {
+        "Held in language": [
+            "de - German", 
+            "en - English"
+        ], 
+        "Has start time": [
+            "1514401200"
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [
+            "http://fabmobil.org"
+        ], 
+        "Has description": [
+            "The fabmobil is mobile fablab in a double story bus. We use it visits schools and social centers the rural area oft east saxony to give classes and provide infrastructure. We want to get in contact with others who have similar plans or are just interested in the concept."
+        ], 
+        "Has session type": [
+            "Meeting"
+        ], 
+        "Has session location": [
+            {
+                "fulltext": "Assembly:Fabmobil", 
+                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Assembly:Fabmobil", 
+                "namespace": 504, 
+                "exists": true
+            }
+        ], 
+        "Has subtitle": [
+            "Fabmobil - Open Meeting"
+        ], 
+        "Is organized by": [], 
+        "Has title": [
+            "Fabmobil - Mobiles Fablab-Konzept f\u00fcr den l\u00e4ndlichen Raum"
+        ], 
+        "Has duration": [
+            180
+        ], 
+        "GUID": [
+            "ae137c03-4337-4c99-8706-7a0c6e072f35"
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:Fabmobil_-_Mobiles_Fablab-Konzept_f%C3%BCr_den_l%C3%A4ndlichen_Raum", 
+        "Has end time": [
+            "1514412000"
+        ]
+    }, 
     "Session:LEAP Platform for VPN and email providers# 1bc999943f1e27dc8a94353ce3f8b7ef": {
         "Held in language": [
             "en - English"
@@ -11502,6 +11574,55 @@
         "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:Subtitles-Engelmeeting", 
         "Has end time": [
             "1514388600"
+        ]
+    }, 
+    "Session:Fabmobil - Mobiles Fablab-Konzept f\u00fcr den l\u00e4ndlichen Raum# fc5a52ad0d8adce91abfd74f6cc34b74": {
+        "Held in language": [
+            "de - German", 
+            "en - English"
+        ], 
+        "Has start time": [
+            "1514390400"
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [
+            "http://fabmobil.org"
+        ], 
+        "Has description": [
+            "The fabmobil is mobile fablab in a double story bus. We use it visits schools and social centers the rural area oft east saxony to give classes and provide infrastructure. We want to get in contact with others who have similar plans or are just interested in the concept."
+        ], 
+        "Has session type": [
+            "Meeting"
+        ], 
+        "Has session location": [
+            {
+                "fulltext": "Assembly:Fabmobil", 
+                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Assembly:Fabmobil", 
+                "namespace": 504, 
+                "exists": true
+            }
+        ], 
+        "Has subtitle": [
+            "Fabmobil - Open Meeting"
+        ], 
+        "Is organized by": [], 
+        "Has title": [
+            "Fabmobil - Mobiles Fablab-Konzept f\u00fcr den l\u00e4ndlichen Raum"
+        ], 
+        "Has duration": [
+            180
+        ], 
+        "GUID": [
+            "a4ebd8f5-28f7-4c97-bbca-0cd7d18325a4"
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:Fabmobil_-_Mobiles_Fablab-Konzept_f%C3%BCr_den_l%C3%A4ndlichen_Raum", 
+        "Has end time": [
+            "1514401200"
         ]
     }, 
     "Session:Arduino-Workshop# 2fe464e476f593f5b59dc80a7f9085eb": {
@@ -15170,57 +15291,6 @@
             "1514655000"
         ]
     }, 
-    "Session:Intro to 3D Shader Programming# e0377acb89925c43bead2e24d445dff8": {
-        "Held in language": [
-            "en - English"
-        ], 
-        "Has start time": [
-            "1514464200"
-        ], 
-        "Has event track": [
-            "Session"
-        ], 
-        "Has website": [], 
-        "Has description": [
-            "Learn how to program cool real-time graphics using the OpenGL Shading Language! We'll start with the basics, and look at how to draw simple 2D shapes. Then, I'll gently introduce you to the magic of Signed Distance Functions and Ray Marching, which are a powerful technique to create 3D geometry from scratch."
-        ], 
-        "Has session type": [
-            "Talk"
-        ], 
-        "Has session location": [
-            {
-                "fulltext": "Room:Lecture room 12", 
-                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Room:Lecture_room_12", 
-                "namespace": 516, 
-                "exists": true
-            }
-        ], 
-        "Has subtitle": [], 
-        "Is organized by": [
-            {
-                "fulltext": "User:Blinry", 
-                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/User:Blinry", 
-                "namespace": 2, 
-                "exists": true
-            }
-        ], 
-        "Has title": [
-            "Intro to 3D Shader Programming"
-        ], 
-        "Has duration": [
-            60
-        ], 
-        "GUID": [
-            "58011bbc-8a3c-4b8b-a8f5-753abf676aa0"
-        ], 
-        "Has color": [
-            "#0099ab"
-        ], 
-        "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:Intro_to_3D_Shader_Programming", 
-        "Has end time": [
-            "1514467800"
-        ]
-    }, 
     "Session:Surface mount electronics assembly for terrified beginners# 42fc7951dafcdb5ef735c5bc3219df7c": {
         "Held in language": [
             "en - English"
@@ -16779,6 +16849,60 @@
         "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:Geschichten_aus_dem_Krieg", 
         "Has end time": [
             "1514478600"
+        ]
+    }, 
+    "Session:A/V Angel Meeting# 1ab124b2b2aed4dbc021be006ee4bd18": {
+        "Held in language": [
+            "de - German", 
+            "en - English"
+        ], 
+        "Has start time": [
+            "1514405700"
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [
+            "https://c3voc.de"
+        ], 
+        "Has description": [
+            "Daily A/V Angel Meeting: Feedback and Shift Distribution"
+        ], 
+        "Has session type": [
+            "Meeting"
+        ], 
+        "Has session location": [
+            {
+                "fulltext": "Room:Lecture room 11", 
+                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Room:Lecture_room_11", 
+                "namespace": 516, 
+                "exists": true
+            }
+        ], 
+        "Has subtitle": [], 
+        "Is organized by": [
+            {
+                "fulltext": "User:Jwacalex", 
+                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/User:Jwacalex", 
+                "namespace": 2, 
+                "exists": true
+            }
+        ], 
+        "Has title": [
+            "A/V Angel Meeting"
+        ], 
+        "Has duration": [
+            105
+        ], 
+        "GUID": [
+            "f5f69c30-2863-4817-a663-b248274c87ac"
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:A/V_Angel_Meeting", 
+        "Has end time": [
+            "1514412000"
         ]
     }, 
     "Session:TeaHouse# 3fa552470c953db85366ba85338756db": {
