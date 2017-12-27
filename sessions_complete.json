@@ -702,61 +702,6 @@
             "1514472300"
         ]
     }, 
-    "Session:Electrodibles# ffc55ca43e7fd0bd22be4cb40665c1b2": {
-        "Held in language": [
-            "en - English"
-        ], 
-        "Has start time": [
-            "1514469600"
-        ], 
-        "Has event track": [
-            "Session"
-        ], 
-        "Has website": [
-            "http://idiot.io"
-        ], 
-        "Has description": [
-            "Workshop for idiots."
-        ], 
-        "Has session type": [
-            "Workshop"
-        ], 
-        "Has session location": [
-            {
-                "fulltext": "Assembly:TAMI", 
-                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Assembly:TAMI", 
-                "namespace": 504, 
-                "exists": true
-            }
-        ], 
-        "Has subtitle": [
-            "Smart candies workshop"
-        ], 
-        "Is organized by": [
-            {
-                "fulltext": "User:Yair99", 
-                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/User:Yair99", 
-                "namespace": 2, 
-                "exists": true
-            }
-        ], 
-        "Has title": [
-            "Electrodibles"
-        ], 
-        "Has duration": [
-            180
-        ], 
-        "GUID": [
-            "ea017993-97a3-46be-bb66-0792ef9f1fed"
-        ], 
-        "Has color": [
-            "#0099ab"
-        ], 
-        "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:Electrodibles", 
-        "Has end time": [
-            "1514480400"
-        ]
-    }, 
     "Session:OParl: ein Datenstandard, um politische Entscheidungen transparent zu machen# 7b4ed0a4584890ccff8211d583d922a2": {
         "Held in language": [
             "de - German"
@@ -6709,6 +6654,59 @@
             "1514590200"
         ]
     }, 
+    "Session:TeaHouse# f2c2fba8a69fee47a8f5f878d17fe759": {
+        "Held in language": [
+            "en - English"
+        ], 
+        "Has start time": [
+            "1514379600"
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [
+            "https://teahouse.homecomputing.fr/"
+        ], 
+        "Has description": [], 
+        "Has session type": [
+            "Meeting"
+        ], 
+        "Has session location": [
+            {
+                "fulltext": "Assembly:TeaHouse", 
+                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Assembly:TeaHouse", 
+                "namespace": 504, 
+                "exists": true
+            }
+        ], 
+        "Has subtitle": [
+            "Welcome to the TeaHouse"
+        ], 
+        "Is organized by": [
+            {
+                "fulltext": "User:Sanpi", 
+                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/User:Sanpi", 
+                "namespace": 2, 
+                "exists": true
+            }
+        ], 
+        "Has title": [
+            "TeaHouse"
+        ], 
+        "Has duration": [
+            45
+        ], 
+        "GUID": [
+            "2fe2c9a3-8e76-4542-afb8-6505fed72094"
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:TeaHouse", 
+        "Has end time": [
+            "1514382300"
+        ]
+    }, 
     "Session:Let's hack words# 5f9d8bfbb00078f101d45f5bac5e5433": {
         "Held in language": [
             "en - English"
@@ -7460,57 +7458,58 @@
             "1514493900"
         ]
     }, 
-    "Session:TeaHouse# f2c2fba8a69fee47a8f5f878d17fe759": {
+    "Session:CryptoParty f\u00fcr Kinder und Jugendliche# 3bc7d6a4f8be7d85436bf1604eb88ecd": {
         "Held in language": [
+            "de - German", 
             "en - English"
         ], 
         "Has start time": [
-            "1514379600"
+            "1514469600"
         ], 
         "Has event track": [
             "Session"
         ], 
         "Has website": [
-            "https://teahouse.homecomputing.fr/"
+            "http://cryptoparty.in"
         ], 
-        "Has description": [], 
+        "Has description": [
+            "Bei CryptoParties kommen alle zusammen und tauschen praktische Tipps aus, z.B. welcher Messenger sicherer ist, wie ein gutes Passwort funktioniert oder wie Du anonym im Internet surfen kannst. Keine Anmeldung erforderlich und sehr gern eigenes Ger\u00e4t mitbringen. Offen f\u00fcr alle, ganz besonders alle ohne Vorkenntnisse!"
+        ], 
         "Has session type": [
-            "Meeting"
+            "Workshop"
         ], 
         "Has session location": [
             {
-                "fulltext": "Assembly:TeaHouse", 
-                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Assembly:TeaHouse", 
-                "namespace": 504, 
+                "fulltext": "Room:Esszimmer", 
+                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Room:Esszimmer", 
+                "namespace": 516, 
                 "exists": true
             }
         ], 
-        "Has subtitle": [
-            "Welcome to the TeaHouse"
-        ], 
+        "Has subtitle": [], 
         "Is organized by": [
             {
-                "fulltext": "User:Sanpi", 
-                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/User:Sanpi", 
+                "fulltext": "User:Nomi", 
+                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/User:Nomi", 
                 "namespace": 2, 
                 "exists": true
             }
         ], 
         "Has title": [
-            "TeaHouse"
+            "CryptoParty f\u00fcr Kinder und Jugendliche"
         ], 
         "Has duration": [
-            45
+            120
         ], 
         "GUID": [
-            "2fe2c9a3-8e76-4542-afb8-6505fed72094"
+            "40315c40-c3a5-55ba-bee6-5235fd83cb3f"
         ], 
         "Has color": [
             "#0099ab"
         ], 
-        "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:TeaHouse", 
+        "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:CryptoParty_f%C3%BCr_Kinder_und_Jugendliche", 
         "Has end time": [
-            "1514382300"
+            "1514476800"
         ]
     }, 
     "Session:Angel Meeting# 949ca654b341e5cc91ea397f1bd640f1": {
@@ -12968,6 +12967,59 @@
             "1514494800"
         ]
     }, 
+    "Session:Organising a CryptoParty, reports and experiences from the field# 45ebd4e08a7e6e0d64d98b69a9f568a9": {
+        "Held in language": [
+            "en - English"
+        ], 
+        "Has start time": [
+            "1514516400"
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [
+            "https://cryptoparty.in"
+        ], 
+        "Has description": [
+            "You have organised a CryptoParty in the past or maybe you've been pondering the idea of organising one? Join us to discuss the main challenges you met and what the most rewarding part of the process was. How did you plan your event and how did you spread the word about it? What was the geographical, political and cultural context you worked in? What were the main challenges you had to overcome? What was the feedback you received? What went well and what could be done to do even better? Sharing answers to these questions might help us improve as a community."
+        ], 
+        "Has session type": [
+            "Discussion"
+        ], 
+        "Has session location": [
+            {
+                "fulltext": "Room:Lecture room 11", 
+                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Room:Lecture_room_11", 
+                "namespace": 516, 
+                "exists": true
+            }
+        ], 
+        "Has subtitle": [], 
+        "Is organized by": [
+            {
+                "fulltext": "User:Fabio", 
+                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/User:Fabio", 
+                "namespace": 2, 
+                "exists": true
+            }
+        ], 
+        "Has title": [
+            "Organising a CryptoParty, reports and experiences from the field"
+        ], 
+        "Has duration": [
+            60
+        ], 
+        "GUID": [
+            "a0d9da38-a54a-4528-90fb-c4fd11223abf"
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:Organising_a_CryptoParty,_reports_and_experiences_from_the_field", 
+        "Has end time": [
+            "1514520000"
+        ]
+    }, 
     "Session:Klangteppich# dc02cc5e64bee40965c128546b6767ae": {
         "Held in language": [
             "de - German", 
@@ -14811,6 +14863,61 @@
         "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:BBS_SysOP/User_meetup", 
         "Has end time": [
             "1514410200"
+        ]
+    }, 
+    "Session:Electrodibles# a4410d3a1582e644dc5b250e8b1efe6a": {
+        "Held in language": [
+            "en - English"
+        ], 
+        "Has start time": [
+            "1514487600"
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [
+            "http://idiot.io"
+        ], 
+        "Has description": [
+            "Smart candy, workshop for idiots."
+        ], 
+        "Has session type": [
+            "Workshop"
+        ], 
+        "Has session location": [
+            {
+                "fulltext": "Assembly:TAMI", 
+                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Assembly:TAMI", 
+                "namespace": 504, 
+                "exists": true
+            }
+        ], 
+        "Has subtitle": [
+            "Smart candies workshop"
+        ], 
+        "Is organized by": [
+            {
+                "fulltext": "User:Yair99", 
+                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/User:Yair99", 
+                "namespace": 2, 
+                "exists": true
+            }
+        ], 
+        "Has title": [
+            "Electrodibles"
+        ], 
+        "Has duration": [
+            180
+        ], 
+        "GUID": [
+            "ea017993-97a3-46be-bb66-0792ef9f1fed"
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:Electrodibles", 
+        "Has end time": [
+            "1514498400"
         ]
     }, 
     "Session:Pretty Easy privacy (p\u2261p) for Thunderbird via Enigmail: How it works!# 1e912e5c48c4f4aca7e3c3c862a067bb": {
@@ -17426,60 +17533,6 @@
         "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:All_Creatures_Welcome", 
         "Has end time": [
             "1514496600"
-        ]
-    }, 
-    "Session:CryptoParty f\u00fcr Kinder und Jugendliche# 3bc7d6a4f8be7d85436bf1604eb88ecd": {
-        "Held in language": [
-            "de - German", 
-            "en - English"
-        ], 
-        "Has start time": [
-            "1514469600"
-        ], 
-        "Has event track": [
-            "Session"
-        ], 
-        "Has website": [
-            "http://cryptoparty.in"
-        ], 
-        "Has description": [
-            "Bei CryptoParties kommen alle zusammen und tauschen praktische Tipps aus, z.B. welcher Messenger sicherer ist, wie ein gutes Passwort funktioniert oder wie Du anonym im Internet surfen kannst. Keine Anmeldung erforderlich und sehr gern eigenes Ger\u00e4t mitbringen. Offen f\u00fcr alle, ganz besonders alle ohne Vorkenntnisse!"
-        ], 
-        "Has session type": [
-            "Workshop"
-        ], 
-        "Has session location": [
-            {
-                "fulltext": "Room:Esszimmer", 
-                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Room:Esszimmer", 
-                "namespace": 516, 
-                "exists": true
-            }
-        ], 
-        "Has subtitle": [], 
-        "Is organized by": [
-            {
-                "fulltext": "User:Nomi", 
-                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/User:Nomi", 
-                "namespace": 2, 
-                "exists": true
-            }
-        ], 
-        "Has title": [
-            "CryptoParty f\u00fcr Kinder und Jugendliche"
-        ], 
-        "Has duration": [
-            120
-        ], 
-        "GUID": [
-            "40315c40-c3a5-55ba-bee6-5235fd83cb3f"
-        ], 
-        "Has color": [
-            "#0099ab"
-        ], 
-        "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:CryptoParty_f%C3%BCr_Kinder_und_Jugendliche", 
-        "Has end time": [
-            "1514476800"
         ]
     }, 
     "Session:Haecksen: BringYourOwnBear Happy Hour# f5e1743878c7a96168b603bb15877c19": {
