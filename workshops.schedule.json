@@ -16,7 +16,7 @@
                         "Komona Coral Reef": [], 
                         "Lecture room 11": [
                             {
-                                "id": 1016, 
+                                "id": 1017, 
                                 "guid": "3e6ca324-cc11-4403-b0ce-bd621d931cd6", 
                                 "logo": null, 
                                 "date": "2017-12-26T23:30:00+01:00", 
@@ -44,7 +44,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1017, 
+                                "id": 1018, 
                                 "guid": "4e77ac4f-012b-4132-8079-c16fd0f600fd", 
                                 "logo": null, 
                                 "date": "2017-12-26T21:30:00+01:00", 
@@ -72,7 +72,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1311, 
+                                "id": 1312, 
                                 "guid": "2f8b0e3d-e4bc-56f3-a96d-3c7559fd753f", 
                                 "logo": null, 
                                 "date": "2017-12-26T20:00:00+01:00", 
@@ -307,7 +307,7 @@
                         ], 
                         "Lecture room 11": [
                             {
-                                "id": 1018, 
+                                "id": 1019, 
                                 "guid": "f5f69c30-2863-4817-a663-b248274c87ac", 
                                 "logo": null, 
                                 "date": "2017-12-27T20:15:00+01:00", 
@@ -389,7 +389,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1313, 
+                                "id": 1311, 
                                 "guid": "b5b51e08-260a-5c3d-a507-556103837de6", 
                                 "logo": null, 
                                 "date": "2017-12-27T17:00:00+01:00", 
@@ -412,7 +412,7 @@
                         ], 
                         "Esszimmer": [
                             {
-                                "id": 1143, 
+                                "id": 1144, 
                                 "guid": "8baea51d-6c66-55dc-ad37-92ec9ea924cb", 
                                 "logo": null, 
                                 "date": "2017-12-27T13:00:00+01:00", 
@@ -526,7 +526,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1238, 
+                                "id": 1239, 
                                 "guid": "8a7bd529-29d2-554c-835f-3d689b7c9f4c", 
                                 "logo": null, 
                                 "date": "2017-12-27T17:00:00+01:00", 
@@ -650,10 +650,10 @@
                             }, 
                             {
                                 "id": 1287, 
-                                "guid": "9ed83d1d-7007-4bb8-9e65-22b1e9abd09b", 
+                                "guid": "50cdec42-6f29-47e5-bdbe-e29d19ee2941", 
                                 "logo": null, 
-                                "date": "2017-12-27T15:00:00+01:00", 
-                                "start": "15:00", 
+                                "date": "2017-12-27T21:00:00+01:00", 
+                                "start": "21:00", 
                                 "duration": "0:30", 
                                 "room": "Lecture room 12", 
                                 "slug": "", 
@@ -671,10 +671,10 @@
                             }, 
                             {
                                 "id": 1288, 
-                                "guid": "50cdec42-6f29-47e5-bdbe-e29d19ee2941", 
+                                "guid": "9ed83d1d-7007-4bb8-9e65-22b1e9abd09b", 
                                 "logo": null, 
-                                "date": "2017-12-27T21:00:00+01:00", 
-                                "start": "21:00", 
+                                "date": "2017-12-27T15:00:00+01:00", 
+                                "start": "15:00", 
                                 "duration": "0:30", 
                                 "room": "Lecture room 12", 
                                 "slug": "", 
@@ -721,34 +721,7 @@
                         ], 
                         "Chaos West Stage": [
                             {
-                                "id": 1166, 
-                                "guid": "dd39558b-0b24-4b27-9e1f-4b76d52cb1a8", 
-                                "logo": null, 
-                                "date": "2017-12-27T22:30:00+01:00", 
-                                "start": "22:30", 
-                                "duration": "1:30", 
-                                "room": "Chaos West Stage", 
-                                "slug": "", 
-                                "title": "Klangteppich", 
-                                "subtitle": "voxel.blue DJ set psychill/chillgressive", 
-                                "track": "self organized sessions", 
-                                "type": "other", 
-                                "language": "de", 
-                                "abstract": "", 
-                                "description": "Come over and meet us at our cozy music lounge in hall 2! Proudly presented by Chaos West", 
-                                "persons": [
-                                    {
-                                        "id": 0, 
-                                        "url": "https://events.ccc.de/congress/2017/wiki/index.php/User:Bam", 
-                                        "public_name": "Bam"
-                                    }
-                                ], 
-                                "links": [
-                                    "https://events.ccc.de/congress/2017/wiki/index.php/Session:Klangteppich"
-                                ]
-                            }, 
-                            {
-                                "id": 1168, 
+                                "id": 1167, 
                                 "guid": "bc39559b-0b24-4b27-9e1f-4b76d52cb1a8", 
                                 "logo": null, 
                                 "date": "2017-12-28T00:00:00+01:00", 
@@ -775,7 +748,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1169, 
+                                "id": 1168, 
                                 "guid": "cbc32a2c-1f29-44a9-a232-0f458f979813", 
                                 "logo": null, 
                                 "date": "2017-12-28T03:30:00+01:00", 
@@ -785,6 +758,33 @@
                                 "slug": "", 
                                 "title": "Klangteppich", 
                                 "subtitle": "faheus DJ set", 
+                                "track": "self organized sessions", 
+                                "type": "other", 
+                                "language": "de", 
+                                "abstract": "", 
+                                "description": "Come over and meet us at our cozy music lounge in hall 2! Proudly presented by Chaos West", 
+                                "persons": [
+                                    {
+                                        "id": 0, 
+                                        "url": "https://events.ccc.de/congress/2017/wiki/index.php/User:Bam", 
+                                        "public_name": "Bam"
+                                    }
+                                ], 
+                                "links": [
+                                    "https://events.ccc.de/congress/2017/wiki/index.php/Session:Klangteppich"
+                                ]
+                            }, 
+                            {
+                                "id": 1169, 
+                                "guid": "dd39558b-0b24-4b27-9e1f-4b76d52cb1a8", 
+                                "logo": null, 
+                                "date": "2017-12-27T22:30:00+01:00", 
+                                "start": "22:30", 
+                                "duration": "1:30", 
+                                "room": "Chaos West Stage", 
+                                "slug": "", 
+                                "title": "Klangteppich", 
+                                "subtitle": "voxel.blue DJ set psychill/chillgressive", 
                                 "track": "self organized sessions", 
                                 "type": "other", 
                                 "language": "de", 
@@ -1820,6 +1820,7 @@
                                     "http://www.wermke-leinkauf.com/", 
                                     "http://www.roccoundseinebrueder.com/", 
                                     "https://felixdreesen.de/", 
+                                    "http://leonardrokita.de/", 
                                     "https://events.ccc.de/congress/2017/wiki/index.php/Session:Disobedient_Art_/_Public_Space_-_Kunst,_Politik,_Intervention"
                                 ]
                             }, 
@@ -2433,7 +2434,7 @@
                         ], 
                         "Lecture room 11": [
                             {
-                                "id": 1019, 
+                                "id": 1016, 
                                 "guid": "2b6595ff-c32b-44aa-9bda-e411e5911162", 
                                 "logo": null, 
                                 "date": "2017-12-28T20:15:00+01:00", 
@@ -2606,7 +2607,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1314, 
+                                "id": 1313, 
                                 "guid": "9b5087f5-f903-5324-9672-50105ed38e1b", 
                                 "logo": null, 
                                 "date": "2017-12-28T17:00:00+01:00", 
@@ -3113,7 +3114,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1167, 
+                                "id": 1166, 
                                 "guid": "11832e8c-2e41-4c8d-8ed8-a908d5638480", 
                                 "logo": null, 
                                 "date": "2017-12-29T00:00:00+01:00", 
@@ -3140,7 +3141,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1167, 
+                                "id": 1166, 
                                 "guid": "11832e8c-2e41-4c8d-8ed8-a908d5638480", 
                                 "logo": null, 
                                 "date": "2017-12-29T02:00:00+01:00", 
@@ -4606,7 +4607,7 @@
                         ], 
                         "Lecture room 11": [
                             {
-                                "id": 1019, 
+                                "id": 1016, 
                                 "guid": "2b6595ff-c32b-44aa-9bda-e411e5911162", 
                                 "logo": null, 
                                 "date": "2017-12-29T20:15:00+01:00", 
@@ -4917,7 +4918,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1144, 
+                                "id": 1143, 
                                 "guid": "687e161b-8d94-5b1c-8915-bd921f8b0475", 
                                 "logo": null, 
                                 "date": "2017-12-29T16:00:00+01:00", 
@@ -5079,7 +5080,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1239, 
+                                "id": 1238, 
                                 "guid": "bb1c51dc-16f6-5e01-94e2-7123b6f8eb3b", 
                                 "logo": null, 
                                 "date": "2017-12-29T19:00:00+01:00", 
@@ -5301,7 +5302,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1167, 
+                                "id": 1166, 
                                 "guid": "11832e8c-2e41-4c8d-8ed8-a908d5638480", 
                                 "logo": null, 
                                 "date": "2017-12-30T02:00:00+01:00", 
@@ -5328,7 +5329,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1167, 
+                                "id": 1166, 
                                 "guid": "11832e8c-2e41-4c8d-8ed8-a908d5638480", 
                                 "logo": null, 
                                 "date": "2017-12-30T00:00:00+01:00", 
@@ -5384,11 +5385,11 @@
                             }, 
                             {
                                 "id": 1340, 
-                                "guid": "cc28d9e0-c2e8-4e48-862e-5e5f489eb214", 
+                                "guid": "2908d355-9054-4c8f-8a7f-33e677435c1d", 
                                 "logo": null, 
-                                "date": "2017-12-29T18:00:00+01:00", 
-                                "start": "18:00", 
-                                "duration": "4:00", 
+                                "date": "2017-12-29T14:00:00+01:00", 
+                                "start": "14:00", 
+                                "duration": "2:00", 
                                 "room": "Chaos West Stage", 
                                 "slug": "", 
                                 "title": "Ybti+wefixthenet", 
@@ -5412,11 +5413,11 @@
                             }, 
                             {
                                 "id": 1341, 
-                                "guid": "2908d355-9054-4c8f-8a7f-33e677435c1d", 
+                                "guid": "cc28d9e0-c2e8-4e48-862e-5e5f489eb214", 
                                 "logo": null, 
-                                "date": "2017-12-29T14:00:00+01:00", 
-                                "start": "14:00", 
-                                "duration": "2:00", 
+                                "date": "2017-12-29T18:00:00+01:00", 
+                                "start": "18:00", 
+                                "duration": "4:00", 
                                 "room": "Chaos West Stage", 
                                 "slug": "", 
                                 "title": "Ybti+wefixthenet", 
@@ -6103,7 +6104,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1312, 
+                                "id": 1314, 
                                 "guid": "f3a30985-fc90-51f2-baa3-a07d034bffcc", 
                                 "logo": null, 
                                 "date": "2017-12-29T17:30:00+01:00", 

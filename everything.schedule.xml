@@ -1760,7 +1760,7 @@ It takes about 30 minutes to copy a fullsize adult leg. We will have two hours s
       </event>
     </room>
     <room name="Lecture room 11">
-      <event id="1018" guid="f5f69c30-2863-4817-a663-b248274c87ac">
+      <event id="1019" guid="f5f69c30-2863-4817-a663-b248274c87ac">
         <logo/>
         <date>2017-12-27T20:15:00+01:00</date>
         <start>20:15</start>
@@ -1824,7 +1824,7 @@ It takes about 30 minutes to copy a fullsize adult leg. We will have two hours s
           <link>https://events.ccc.de/congress/2017/wiki/index.php/Session:Tor_relays_operators_meetup</link>
         </links>
       </event>
-      <event id="1313" guid="b5b51e08-260a-5c3d-a507-556103837de6">
+      <event id="1311" guid="b5b51e08-260a-5c3d-a507-556103837de6">
         <logo/>
         <date>2017-12-27T17:00:00+01:00</date>
         <start>17:00</start>
@@ -1866,28 +1866,7 @@ It takes about 30 minutes to copy a fullsize adult leg. We will have two hours s
       </event>
     </room>
     <room name="Chaos West Stage">
-      <event id="1166" guid="dd39558b-0b24-4b27-9e1f-4b76d52cb1a8">
-        <logo/>
-        <date>2017-12-27T22:30:00+01:00</date>
-        <start>22:30</start>
-        <duration>1:30</duration>
-        <room>Chaos West Stage</room>
-        <slug/>
-        <title>Klangteppich</title>
-        <subtitle>voxel.blue DJ set psychill/chillgressive</subtitle>
-        <track>self organized sessions</track>
-        <type>other</type>
-        <language>de</language>
-        <abstract/>
-        <description>Come over and meet us at our cozy music lounge in hall 2! Proudly presented by Chaos West</description>
-        <persons>
-          <person id="0" href="https://events.ccc.de/congress/2017/wiki/index.php/User:Bam">Bam</person>
-        </persons>
-        <links>
-          <link>https://events.ccc.de/congress/2017/wiki/index.php/Session:Klangteppich</link>
-        </links>
-      </event>
-      <event id="1168" guid="bc39559b-0b24-4b27-9e1f-4b76d52cb1a8">
+      <event id="1167" guid="bc39559b-0b24-4b27-9e1f-4b76d52cb1a8">
         <logo/>
         <date>2017-12-28T00:00:00+01:00</date>
         <start>00:00</start>
@@ -1908,7 +1887,7 @@ It takes about 30 minutes to copy a fullsize adult leg. We will have two hours s
           <link>https://events.ccc.de/congress/2017/wiki/index.php/Session:Klangteppich</link>
         </links>
       </event>
-      <event id="1169" guid="cbc32a2c-1f29-44a9-a232-0f458f979813">
+      <event id="1168" guid="cbc32a2c-1f29-44a9-a232-0f458f979813">
         <logo/>
         <date>2017-12-28T03:30:00+01:00</date>
         <start>03:30</start>
@@ -1917,6 +1896,27 @@ It takes about 30 minutes to copy a fullsize adult leg. We will have two hours s
         <slug/>
         <title>Klangteppich</title>
         <subtitle>faheus DJ set</subtitle>
+        <track>self organized sessions</track>
+        <type>other</type>
+        <language>de</language>
+        <abstract/>
+        <description>Come over and meet us at our cozy music lounge in hall 2! Proudly presented by Chaos West</description>
+        <persons>
+          <person id="0" href="https://events.ccc.de/congress/2017/wiki/index.php/User:Bam">Bam</person>
+        </persons>
+        <links>
+          <link>https://events.ccc.de/congress/2017/wiki/index.php/Session:Klangteppich</link>
+        </links>
+      </event>
+      <event id="1169" guid="dd39558b-0b24-4b27-9e1f-4b76d52cb1a8">
+        <logo/>
+        <date>2017-12-27T22:30:00+01:00</date>
+        <start>22:30</start>
+        <duration>1:30</duration>
+        <room>Chaos West Stage</room>
+        <slug/>
+        <title>Klangteppich</title>
+        <subtitle>voxel.blue DJ set psychill/chillgressive</subtitle>
         <track>self organized sessions</track>
         <type>other</type>
         <language>de</language>
@@ -2106,10 +2106,10 @@ Let's scale up distributed systems while maintaining metadata protection and pri
           <link>https://events.ccc.de/congress/2017/wiki/index.php/Session:Lehrerstammtisch</link>
         </links>
       </event>
-      <event id="1287" guid="9ed83d1d-7007-4bb8-9e65-22b1e9abd09b">
+      <event id="1287" guid="50cdec42-6f29-47e5-bdbe-e29d19ee2941">
         <logo/>
-        <date>2017-12-27T15:00:00+01:00</date>
-        <start>15:00</start>
+        <date>2017-12-27T21:00:00+01:00</date>
+        <start>21:00</start>
         <duration>0:30</duration>
         <room>Lecture room 12</room>
         <slug/>
@@ -2125,10 +2125,10 @@ Let's scale up distributed systems while maintaining metadata protection and pri
           <link>https://events.ccc.de/congress/2017/wiki/index.php/Session:Subtitles-Engelmeeting</link>
         </links>
       </event>
-      <event id="1288" guid="50cdec42-6f29-47e5-bdbe-e29d19ee2941">
+      <event id="1288" guid="9ed83d1d-7007-4bb8-9e65-22b1e9abd09b">
         <logo/>
-        <date>2017-12-27T21:00:00+01:00</date>
-        <start>21:00</start>
+        <date>2017-12-27T15:00:00+01:00</date>
+        <start>15:00</start>
         <duration>0:30</duration>
         <room>Lecture room 12</room>
         <slug/>
@@ -2776,6 +2776,7 @@ Präsentation mit Wermke/Leinkauf Rocco und seine Brüder Felix Dreesen und Leon
           <link>http://www.wermke-leinkauf.com/</link>
           <link>http://www.roccoundseinebrueder.com/</link>
           <link>https://felixdreesen.de/</link>
+          <link>http://leonardrokita.de/</link>
           <link>https://events.ccc.de/congress/2017/wiki/index.php/Session:Disobedient_Art_/_Public_Space_-_Kunst,_Politik,_Intervention</link>
         </links>
       </event>
@@ -3347,7 +3348,7 @@ https://re-publica.com/en/session/sketchnotes-einsteiger-1</description>
       </event>
     </room>
     <room name="Assembly:Fabmobil">
-      <event id="1101" guid="a4ebd8f5-28f7-4c97-bbca-0cd7d18325a4">
+      <event id="1102" guid="a4ebd8f5-28f7-4c97-bbca-0cd7d18325a4">
         <logo/>
         <date>2017-12-27T16:00:00+01:00</date>
         <start>16:00</start>
@@ -3367,7 +3368,7 @@ https://re-publica.com/en/session/sketchnotes-einsteiger-1</description>
           <link>https://events.ccc.de/congress/2017/wiki/index.php/Session:Fabmobil_-_Mobiles_Fablab-Konzept_f%C3%BCr_den_l%C3%A4ndlichen_Raum</link>
         </links>
       </event>
-      <event id="1102" guid="ae137c03-4337-4c99-8706-7a0c6e072f35">
+      <event id="1101" guid="ae137c03-4337-4c99-8706-7a0c6e072f35">
         <logo/>
         <date>2017-12-27T19:00:00+01:00</date>
         <start>19:00</start>
@@ -3457,7 +3458,7 @@ https://re-publica.com/en/session/sketchnotes-einsteiger-1</description>
       </event>
     </room>
     <room name="Assembly:Jugend hackt">
-      <event id="1140" guid="6c4c6c03-560e-4e1a-ad89-a859a57b3cdb">
+      <event id="1139" guid="6c4c6c03-560e-4e1a-ad89-a859a57b3cdb">
         <logo/>
         <date>2017-12-27T13:00:00+01:00</date>
         <start>13:00</start>
@@ -3492,7 +3493,7 @@ Die Anmeldung erfolgt vor Ort und falls die Zeit im Jugendhack Assembly abgelauf
       </event>
     </room>
     <room name="Esszimmer">
-      <event id="1143" guid="8baea51d-6c66-55dc-ad37-92ec9ea924cb">
+      <event id="1144" guid="8baea51d-6c66-55dc-ad37-92ec9ea924cb">
         <logo/>
         <date>2017-12-27T13:00:00+01:00</date>
         <start>13:00</start>
@@ -3579,7 +3580,7 @@ https://query.wikidata.org/</description>
           <link>https://events.ccc.de/congress/2017/wiki/index.php/Session:Query_Wikidata_in_SPARQL</link>
         </links>
       </event>
-      <event id="1238" guid="8a7bd529-29d2-554c-835f-3d689b7c9f4c">
+      <event id="1239" guid="8a7bd529-29d2-554c-835f-3d689b7c9f4c">
         <logo/>
         <date>2017-12-27T17:00:00+01:00</date>
         <start>17:00</start>
@@ -3628,7 +3629,7 @@ https://query.wikidata.org/</description>
       </event>
     </room>
     <room name="Assembly:HardwareHackingArea">
-      <event id="1154" guid="f5ebebb3-c53e-443e-82ee-080723b1f60e">
+      <event id="1153" guid="f5ebebb3-c53e-443e-82ee-080723b1f60e">
         <logo/>
         <date>2017-12-27T17:30:00+01:00</date>
         <start>17:30</start>
@@ -3759,10 +3760,10 @@ or hack some funny mods together</description>
           <link>https://events.ccc.de/congress/2017/wiki/index.php/Session:Lets_play_Hedgewars!</link>
         </links>
       </event>
-      <event id="1284" guid="11272b21-acfc-424a-8860-4f62d80eac5c">
+      <event id="1283" guid="11272b21-acfc-424a-8860-4f62d80eac5c">
         <logo/>
-        <date>2017-12-27T19:00:00+01:00</date>
-        <start>19:00</start>
+        <date>2017-12-27T17:40:00+01:00</date>
+        <start>17:40</start>
         <duration>1:00</duration>
         <room/>
         <slug/>
@@ -5671,7 +5672,7 @@ Contact best via twitter @ENDSTATIONSUEDX</description>
       </event>
     </room>
     <room name="Lecture room 11">
-      <event id="1019" guid="2b6595ff-c32b-44aa-9bda-e411e5911162">
+      <event id="1016" guid="2b6595ff-c32b-44aa-9bda-e411e5911162">
         <logo/>
         <date>2017-12-28T20:15:00+01:00</date>
         <start>20:15</start>
@@ -5802,7 +5803,7 @@ In diesem talk möchte ich grob skizzieren, wie das System funktioniert und wie 
           <link>https://events.ccc.de/congress/2017/wiki/index.php/Session:Sport_f%C3%BCr_Nerds</link>
         </links>
       </event>
-      <event id="1314" guid="9b5087f5-f903-5324-9672-50105ed38e1b">
+      <event id="1313" guid="9b5087f5-f903-5324-9672-50105ed38e1b">
         <logo/>
         <date>2017-12-28T17:00:00+01:00</date>
         <start>17:00</start>
@@ -5930,7 +5931,7 @@ In diesem talk möchte ich grob skizzieren, wie das System funktioniert und wie 
           <link>https://events.ccc.de/congress/2017/wiki/index.php/Session:Haecksen:_BringYourOwnBear_Happy_Hour</link>
         </links>
       </event>
-      <event id="1167" guid="11832e8c-2e41-4c8d-8ed8-a908d5638480">
+      <event id="1166" guid="11832e8c-2e41-4c8d-8ed8-a908d5638480">
         <logo/>
         <date>2017-12-29T00:00:00+01:00</date>
         <start>00:00</start>
@@ -5951,7 +5952,7 @@ In diesem talk möchte ich grob skizzieren, wie das System funktioniert und wie 
           <link>https://events.ccc.de/congress/2017/wiki/index.php/Session:Klangteppich</link>
         </links>
       </event>
-      <event id="1167" guid="11832e8c-2e41-4c8d-8ed8-a908d5638480">
+      <event id="1166" guid="11832e8c-2e41-4c8d-8ed8-a908d5638480">
         <logo/>
         <date>2017-12-29T02:00:00+01:00</date>
         <start>02:00</start>
@@ -7502,7 +7503,7 @@ This workshop will be given twice&lt;br /&gt;(both identical):&lt;br /&gt;
           <link>https://events.ccc.de/congress/2017/wiki/index.php/Session:ArduinoForTotalNewbies</link>
         </links>
       </event>
-      <event id="1153" guid="e87a7b37-b57c-4367-957c-1ef2dcd3a606">
+      <event id="1154" guid="e87a7b37-b57c-4367-957c-1ef2dcd3a606">
         <logo/>
         <date>2017-12-28T17:30:00+01:00</date>
         <start>17:30</start>
@@ -7653,10 +7654,10 @@ Let us all discuss!</description>
           <link>https://events.ccc.de/congress/2017/wiki/index.php/Session:Food_Hacking:_34c3_Beer_Tasting</link>
         </links>
       </event>
-      <event id="1108" guid="f23af674-7de2-45cb-b605-036ab470954a">
+      <event id="1108" guid="ad64fdfc-31ea-4d5e-891e-5285c5e8f52e">
         <logo/>
-        <date>2017-12-28T20:30:00+01:00</date>
-        <start>20:30</start>
+        <date>2017-12-28T19:00:00+01:00</date>
+        <start>19:00</start>
         <duration>1:30</duration>
         <room>Assembly:Foodhackingbase</room>
         <slug/>
@@ -7673,10 +7674,10 @@ Let us all discuss!</description>
           <link>https://events.ccc.de/congress/2017/wiki/index.php/Session:Food_Hacking:_Cheese_Rendez-vous</link>
         </links>
       </event>
-      <event id="1109" guid="ad64fdfc-31ea-4d5e-891e-5285c5e8f52e">
+      <event id="1109" guid="f23af674-7de2-45cb-b605-036ab470954a">
         <logo/>
-        <date>2017-12-28T19:00:00+01:00</date>
-        <start>19:00</start>
+        <date>2017-12-28T20:30:00+01:00</date>
+        <start>20:30</start>
         <duration>1:30</duration>
         <room>Assembly:Foodhackingbase</room>
         <slug/>
@@ -9968,7 +9969,7 @@ Es geht darum ein verständliches Bild zu zeichnen von dem, was in Hamburg währ
       </event>
     </room>
     <room name="Lecture room 11">
-      <event id="1019" guid="2b6595ff-c32b-44aa-9bda-e411e5911162">
+      <event id="1016" guid="2b6595ff-c32b-44aa-9bda-e411e5911162">
         <logo/>
         <date>2017-12-29T20:15:00+01:00</date>
         <start>20:15</start>
@@ -10202,7 +10203,7 @@ Es geht darum ein verständliches Bild zu zeichnen von dem, was in Hamburg währ
           <link>https://events.ccc.de/congress/2017/wiki/index.php/Session:Inj4n:_Habitual_Automation_-_Because_we_have_to_script</link>
         </links>
       </event>
-      <event id="1167" guid="11832e8c-2e41-4c8d-8ed8-a908d5638480">
+      <event id="1166" guid="11832e8c-2e41-4c8d-8ed8-a908d5638480">
         <logo/>
         <date>2017-12-30T02:00:00+01:00</date>
         <start>02:00</start>
@@ -10223,7 +10224,7 @@ Es geht darum ein verständliches Bild zu zeichnen von dem, was in Hamburg währ
           <link>https://events.ccc.de/congress/2017/wiki/index.php/Session:Klangteppich</link>
         </links>
       </event>
-      <event id="1167" guid="11832e8c-2e41-4c8d-8ed8-a908d5638480">
+      <event id="1166" guid="11832e8c-2e41-4c8d-8ed8-a908d5638480">
         <logo/>
         <date>2017-12-30T00:00:00+01:00</date>
         <start>00:00</start>
@@ -10266,11 +10267,11 @@ Es geht darum ein verständliches Bild zu zeichnen von dem, was in Hamburg währ
           <link>https://events.ccc.de/congress/2017/wiki/index.php/Session:Limlug:_In_der_Weihnachtsb%C3%A4ckerei_-_Data_Science_und_Kekse</link>
         </links>
       </event>
-      <event id="1340" guid="cc28d9e0-c2e8-4e48-862e-5e5f489eb214">
+      <event id="1340" guid="2908d355-9054-4c8f-8a7f-33e677435c1d">
         <logo/>
-        <date>2017-12-29T18:00:00+01:00</date>
-        <start>18:00</start>
-        <duration>4:00</duration>
+        <date>2017-12-29T14:00:00+01:00</date>
+        <start>14:00</start>
+        <duration>2:00</duration>
         <room>Chaos West Stage</room>
         <slug/>
         <title>Ybti+wefixthenet</title>
@@ -10288,11 +10289,11 @@ Es geht darum ein verständliches Bild zu zeichnen von dem, was in Hamburg währ
           <link>https://events.ccc.de/congress/2017/wiki/index.php/Session:Ybti%2Bwefixthenet</link>
         </links>
       </event>
-      <event id="1341" guid="2908d355-9054-4c8f-8a7f-33e677435c1d">
+      <event id="1341" guid="cc28d9e0-c2e8-4e48-862e-5e5f489eb214">
         <logo/>
-        <date>2017-12-29T14:00:00+01:00</date>
-        <start>14:00</start>
-        <duration>2:00</duration>
+        <date>2017-12-29T18:00:00+01:00</date>
+        <start>18:00</start>
+        <duration>4:00</duration>
         <room>Chaos West Stage</room>
         <slug/>
         <title>Ybti+wefixthenet</title>
@@ -10983,7 +10984,7 @@ Schon mit einfachen Materialien lassen sich Bücher herstellen. Ich werde zeigen
           <link>https://events.ccc.de/congress/2017/wiki/index.php/Session:Interledger:_Streaming_Micropayments_%2B_Connecting_(Crypto)Currencies</link>
         </links>
       </event>
-      <event id="1312" guid="f3a30985-fc90-51f2-baa3-a07d034bffcc">
+      <event id="1314" guid="f3a30985-fc90-51f2-baa3-a07d034bffcc">
         <logo/>
         <date>2017-12-29T17:30:00+01:00</date>
         <start>17:30</start>
@@ -11536,7 +11537,7 @@ This workshop will be given twice&lt;br /&gt;(both identical):&lt;br /&gt;
           <link>https://events.ccc.de/congress/2017/wiki/index.php/Session:ArduinoForTotalNewbies</link>
         </links>
       </event>
-      <event id="1153" guid="e87a7b37-b57c-4367-957c-1ef2dcd3a606">
+      <event id="1154" guid="e87a7b37-b57c-4367-957c-1ef2dcd3a606">
         <logo/>
         <date>2017-12-29T17:30:00+01:00</date>
         <start>17:30</start>
@@ -11725,10 +11726,10 @@ Come around - bring your own device - get shot!</description>
           <link>https://events.ccc.de/congress/2017/wiki/index.php/Session:NerfgunBattle</link>
         </links>
       </event>
-      <event id="1283" guid="2db364a3-1bd0-481c-bf8f-19b3e4dfca83">
+      <event id="1284" guid="2db364a3-1bd0-481c-bf8f-19b3e4dfca83">
         <logo/>
-        <date>2017-12-29T18:00:00+01:00</date>
-        <start>18:00</start>
+        <date>2017-12-29T17:40:00+01:00</date>
+        <start>17:40</start>
         <duration>1:00</duration>
         <room/>
         <slug/>
@@ -11855,7 +11856,7 @@ welche sticker denn? (fast) alle! -- künstlerisch, kritisch, politisch, whateve
           <link>https://events.ccc.de/congress/2017/wiki/index.php/Session:FragDenStaat-User-Treffen</link>
         </links>
       </event>
-      <event id="1144" guid="687e161b-8d94-5b1c-8915-bd921f8b0475">
+      <event id="1143" guid="687e161b-8d94-5b1c-8915-bd921f8b0475">
         <logo/>
         <date>2017-12-29T16:00:00+01:00</date>
         <start>16:00</start>
@@ -11983,7 +11984,7 @@ https://query.wikidata.org/</description>
           <link>https://events.ccc.de/congress/2017/wiki/index.php/Session:Query_Wikidata_in_SPARQL</link>
         </links>
       </event>
-      <event id="1239" guid="bb1c51dc-16f6-5e01-94e2-7123b6f8eb3b">
+      <event id="1238" guid="bb1c51dc-16f6-5e01-94e2-7123b6f8eb3b">
         <logo/>
         <date>2017-12-29T19:00:00+01:00</date>
         <start>19:00</start>
@@ -12005,8 +12006,50 @@ https://query.wikidata.org/</description>
         </links>
       </event>
     </room>
+    <room name="Assembly:Fabmobil">
+      <event id="1101" guid="ae137c03-4337-4c99-8706-7a0c6e072f35">
+        <logo/>
+        <date>2017-12-29T11:00:00+01:00</date>
+        <start>11:00</start>
+        <duration>2:00</duration>
+        <room>Assembly:Fabmobil</room>
+        <slug/>
+        <title>Fabmobil - Mobiles Fablab-Konzept für den ländlichen Raum</title>
+        <subtitle>Fabmobil - Open Meeting and Presentation</subtitle>
+        <track>self organized sessions</track>
+        <type>meeting</type>
+        <language>de</language>
+        <abstract/>
+        <description>The fabmobil is mobile fablab in a double story bus. We use it visits schools and social centers the rural area oft east saxony to give classes and provide infrastructure. We want to get in contact with others who have similar plans or are just interested in the concept.</description>
+        <persons/>
+        <links>
+          <link>http://fabmobil.org</link>
+          <link>https://events.ccc.de/congress/2017/wiki/index.php/Session:Fabmobil_-_Mobiles_Fablab-Konzept_f%C3%BCr_den_l%C3%A4ndlichen_Raum</link>
+        </links>
+      </event>
+      <event id="1101" guid="ae137c03-4337-4c99-8706-7a0c6e072f35">
+        <logo/>
+        <date>2017-12-29T18:00:00+01:00</date>
+        <start>18:00</start>
+        <duration>2:00</duration>
+        <room>Assembly:Fabmobil</room>
+        <slug/>
+        <title>Fabmobil - Mobiles Fablab-Konzept für den ländlichen Raum</title>
+        <subtitle>Fabmobil - Open Meeting and Presentation</subtitle>
+        <track>self organized sessions</track>
+        <type>meeting</type>
+        <language>de</language>
+        <abstract/>
+        <description>The fabmobil is mobile fablab in a double story bus. We use it visits schools and social centers the rural area oft east saxony to give classes and provide infrastructure. We want to get in contact with others who have similar plans or are just interested in the concept.</description>
+        <persons/>
+        <links>
+          <link>http://fabmobil.org</link>
+          <link>https://events.ccc.de/congress/2017/wiki/index.php/Session:Fabmobil_-_Mobiles_Fablab-Konzept_f%C3%BCr_den_l%C3%A4ndlichen_Raum</link>
+        </links>
+      </event>
+    </room>
     <room name="Assembly:Jugend hackt">
-      <event id="1139" guid="65e70b8c-02a5-41ff-936c-44052c9ee6f0">
+      <event id="1140" guid="65e70b8c-02a5-41ff-936c-44052c9ee6f0">
         <logo/>
         <date>2017-12-29T16:00:00+01:00</date>
         <start>16:00</start>
@@ -13410,8 +13453,50 @@ Ich möchte dieses Konzept gerne mit Kindern umsetzen; ohne Computer ;0)</descri
         </links>
       </event>
     </room>
+    <room name="Assembly:Fabmobil">
+      <event id="1101" guid="ae137c03-4337-4c99-8706-7a0c6e072f35">
+        <logo/>
+        <date>2017-12-30T11:00:00+01:00</date>
+        <start>11:00</start>
+        <duration>2:00</duration>
+        <room>Assembly:Fabmobil</room>
+        <slug/>
+        <title>Fabmobil - Mobiles Fablab-Konzept für den ländlichen Raum</title>
+        <subtitle>Fabmobil - Open Meeting and Presentation</subtitle>
+        <track>self organized sessions</track>
+        <type>meeting</type>
+        <language>de</language>
+        <abstract/>
+        <description>The fabmobil is mobile fablab in a double story bus. We use it visits schools and social centers the rural area oft east saxony to give classes and provide infrastructure. We want to get in contact with others who have similar plans or are just interested in the concept.</description>
+        <persons/>
+        <links>
+          <link>http://fabmobil.org</link>
+          <link>https://events.ccc.de/congress/2017/wiki/index.php/Session:Fabmobil_-_Mobiles_Fablab-Konzept_f%C3%BCr_den_l%C3%A4ndlichen_Raum</link>
+        </links>
+      </event>
+      <event id="1101" guid="ae137c03-4337-4c99-8706-7a0c6e072f35">
+        <logo/>
+        <date>2017-12-30T18:00:00+01:00</date>
+        <start>18:00</start>
+        <duration>2:00</duration>
+        <room>Assembly:Fabmobil</room>
+        <slug/>
+        <title>Fabmobil - Mobiles Fablab-Konzept für den ländlichen Raum</title>
+        <subtitle>Fabmobil - Open Meeting and Presentation</subtitle>
+        <track>self organized sessions</track>
+        <type>meeting</type>
+        <language>de</language>
+        <abstract/>
+        <description>The fabmobil is mobile fablab in a double story bus. We use it visits schools and social centers the rural area oft east saxony to give classes and provide infrastructure. We want to get in contact with others who have similar plans or are just interested in the concept.</description>
+        <persons/>
+        <links>
+          <link>http://fabmobil.org</link>
+          <link>https://events.ccc.de/congress/2017/wiki/index.php/Session:Fabmobil_-_Mobiles_Fablab-Konzept_f%C3%BCr_den_l%C3%A4ndlichen_Raum</link>
+        </links>
+      </event>
+    </room>
     <room name="Assembly:HardwareHackingArea">
-      <event id="1153" guid="e87a7b37-b57c-4367-957c-1ef2dcd3a606">
+      <event id="1154" guid="e87a7b37-b57c-4367-957c-1ef2dcd3a606">
         <logo/>
         <date>2017-12-30T13:00:00+01:00</date>
         <start>13:00</start>
@@ -13538,33 +13623,6 @@ Ich möchte dieses Konzept gerne mit Kindern umsetzen; ohne Computer ;0)</descri
         <persons/>
         <links>
           <link>https://events.ccc.de/congress/2017/wiki/index.php/Session:Outro</link>
-        </links>
-      </event>
-    </room>
-    <room name="">
-      <event id="1283" guid="2db364a3-1bd0-481c-bf8f-19b3e4dfca83">
-        <logo/>
-        <date>2017-12-30T18:00:00+01:00</date>
-        <start>18:00</start>
-        <duration>1:00</duration>
-        <room/>
-        <slug/>
-        <title>Sticker meet up</title>
-        <subtitle/>
-        <track>self organized sessions</track>
-        <type>game</type>
-        <language>de</language>
-        <abstract/>
-        <description>this session is about coming together to share your printed or self made sticker with same interest people. bring them: artistic ones, political ones, storytelling ones, yout tagsticker, your favorite sticker materials, whatever. how many? from 1 to endless items. exchange them with sticker loving people.
-whatever you want to bring in. 
-
-alle die bock haben sollen ihre sticker zur session mitbringen. egal ob 1 oder 1000- bring mit. je nach nachfrage können wir uns noch einmal am 30.12. treffen. spot is da wo klassembly cornert. 
-welche sticker denn? (fast) alle! -- künstlerisch, kritisch, politisch, whatever. oder eben dein altes stickerbuch von früher. damit deine sticker bald überall ausser nur daheim kleben.</description>
-        <persons>
-          <person id="0" href="https://events.ccc.de/congress/2017/wiki/index.php/User:Lisi_0ne.raw">Lisi 0ne.raw</person>
-        </persons>
-        <links>
-          <link>https://events.ccc.de/congress/2017/wiki/index.php/Session:Sticker_meet_up</link>
         </links>
       </event>
     </room>
