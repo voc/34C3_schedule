@@ -72,7 +72,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1296, 
+                                "id": 1294, 
                                 "guid": "2f8b0e3d-e4bc-56f3-a96d-3c7559fd753f", 
                                 "logo": null, 
                                 "date": "2017-12-26T20:00:00+01:00", 
@@ -96,7 +96,7 @@
                         "Hive Stage": [], 
                         "Lecture room 12": [
                             {
-                                "id": 1266, 
+                                "id": 1267, 
                                 "guid": "9d07fde4-75d1-460e-888d-7857c952beef", 
                                 "logo": null, 
                                 "date": "2017-12-26T20:15:00+01:00", 
@@ -128,7 +128,28 @@
                         "Komona D.Ressrosa": [], 
                         "Seminar room 14-15": [
                             {
-                                "id": 1028, 
+                                "id": 1026, 
+                                "guid": "5e7bb2b0-f5ea-598b-9f57-a08f05420984", 
+                                "logo": null, 
+                                "date": "2017-12-26T20:15:00+01:00", 
+                                "start": "20:15", 
+                                "duration": "0:45", 
+                                "room": "Seminar room 14-15", 
+                                "slug": "", 
+                                "title": "Angel Meeting", 
+                                "subtitle": "Introduction meeting for new angels Day 0", 
+                                "track": "self organized sessions", 
+                                "type": "meeting", 
+                                "language": "en", 
+                                "abstract": "", 
+                                "description": "Daily meetings of the Angel crew.", 
+                                "persons": [], 
+                                "links": [
+                                    "https://events.ccc.de/congress/2017/wiki/index.php/Session:Angel_Meeting"
+                                ]
+                            }, 
+                            {
+                                "id": 1030, 
                                 "guid": "e54328ce-06f7-5578-bccb-0653404d932e", 
                                 "logo": null, 
                                 "date": "2017-12-26T13:00:00+01:00", 
@@ -149,7 +170,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1029, 
+                                "id": 1031, 
                                 "guid": "3b5cf5d2-7d5d-51ba-8798-dc60e10c8985", 
                                 "logo": null, 
                                 "date": "2017-12-26T19:30:00+01:00", 
@@ -159,27 +180,6 @@
                                 "slug": "", 
                                 "title": "Angel Meeting", 
                                 "subtitle": "Welcome meeting Day 0", 
-                                "track": "self organized sessions", 
-                                "type": "meeting", 
-                                "language": "en", 
-                                "abstract": "", 
-                                "description": "Daily meetings of the Angel crew.", 
-                                "persons": [], 
-                                "links": [
-                                    "https://events.ccc.de/congress/2017/wiki/index.php/Session:Angel_Meeting"
-                                ]
-                            }, 
-                            {
-                                "id": 1030, 
-                                "guid": "5e7bb2b0-f5ea-598b-9f57-a08f05420984", 
-                                "logo": null, 
-                                "date": "2017-12-26T20:15:00+01:00", 
-                                "start": "20:15", 
-                                "duration": "0:45", 
-                                "room": "Seminar room 14-15", 
-                                "slug": "", 
-                                "title": "Angel Meeting", 
-                                "subtitle": "Introduction meeting for new angels Day 0", 
                                 "track": "self organized sessions", 
                                 "type": "meeting", 
                                 "language": "en", 
@@ -259,7 +259,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1301, 
+                                "id": 1302, 
                                 "guid": "5096ea2a-f75e-4223-9034-6c708dbfed76", 
                                 "logo": null, 
                                 "date": "2017-12-27T20:00:00+01:00", 
@@ -283,7 +283,7 @@
                         ], 
                         "Hive Conference": [
                             {
-                                "id": 1289, 
+                                "id": 1290, 
                                 "guid": "a261a670-da8b-47c8-a118-f45249ac0aea", 
                                 "logo": null, 
                                 "date": "2017-12-27T15:00:00+01:00", 
@@ -362,7 +362,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1291, 
+                                "id": 1292, 
                                 "guid": "57bf0ee7-7526-490d-9c83-375b932bb03c", 
                                 "logo": null, 
                                 "date": "2017-12-27T18:30:00+01:00", 
@@ -389,7 +389,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1294, 
+                                "id": 1296, 
                                 "guid": "b5b51e08-260a-5c3d-a507-556103837de6", 
                                 "logo": null, 
                                 "date": "2017-12-27T17:00:00+01:00", 
@@ -444,7 +444,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1162, 
+                                "id": 1163, 
                                 "guid": "9afbee6b-dea2-57b5-86e6-f5c7064711c4", 
                                 "logo": null, 
                                 "date": "2017-12-27T15:00:00+01:00", 
@@ -651,7 +651,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1271, 
+                                "id": 1272, 
                                 "guid": "50cdec42-6f29-47e5-bdbe-e29d19ee2941", 
                                 "logo": null, 
                                 "date": "2017-12-27T21:00:00+01:00", 
@@ -672,7 +672,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1272, 
+                                "id": 1273, 
                                 "guid": "9ed83d1d-7007-4bb8-9e65-22b1e9abd09b", 
                                 "logo": null, 
                                 "date": "2017-12-27T15:00:00+01:00", 
@@ -693,7 +693,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1328, 
+                                "id": 1329, 
                                 "guid": "def1b880-7e56-415c-a57b-73b5acda9b5a", 
                                 "logo": null, 
                                 "date": "2017-12-27T16:00:00+01:00", 
@@ -723,16 +723,16 @@
                         ], 
                         "Chaos West Stage": [
                             {
-                                "id": 1174, 
-                                "guid": "bc39559b-0b24-4b27-9e1f-4b76d52cb1a8", 
+                                "id": 1173, 
+                                "guid": "cbc32a2c-1f29-44a9-a232-0f458f979813", 
                                 "logo": null, 
-                                "date": "2017-12-28T00:00:00+01:00", 
-                                "start": "00:00", 
-                                "duration": "3:30", 
+                                "date": "2017-12-28T03:30:00+01:00", 
+                                "start": "03:30", 
+                                "duration": "2:00", 
                                 "room": "Chaos West Stage", 
                                 "slug": "", 
                                 "title": "Klangteppich", 
-                                "subtitle": "CouchSofa DJ set", 
+                                "subtitle": "faheus DJ set", 
                                 "track": "self organized sessions", 
                                 "type": "other", 
                                 "language": "de", 
@@ -751,15 +751,15 @@
                             }, 
                             {
                                 "id": 1175, 
-                                "guid": "cbc32a2c-1f29-44a9-a232-0f458f979813", 
+                                "guid": "bc39559b-0b24-4b27-9e1f-4b76d52cb1a8", 
                                 "logo": null, 
-                                "date": "2017-12-28T03:30:00+01:00", 
-                                "start": "03:30", 
-                                "duration": "2:00", 
+                                "date": "2017-12-28T00:00:00+01:00", 
+                                "start": "00:00", 
+                                "duration": "3:30", 
                                 "room": "Chaos West Stage", 
                                 "slug": "", 
                                 "title": "Klangteppich", 
-                                "subtitle": "faheus DJ set", 
+                                "subtitle": "CouchSofa DJ set", 
                                 "track": "self organized sessions", 
                                 "type": "other", 
                                 "language": "de", 
@@ -937,7 +937,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1287, 
+                                "id": 1288, 
                                 "guid": "95f73cd1-2284-4c7f-9139-02782ab39b61", 
                                 "logo": null, 
                                 "date": "2017-12-27T14:30:00+01:00", 
@@ -1100,7 +1100,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1263, 
+                                "id": 1264, 
                                 "guid": "0b858e21-fefa-4d2c-bc3a-7e14436808a0", 
                                 "logo": null, 
                                 "date": "2017-12-27T20:00:00+01:00", 
@@ -1127,7 +1127,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1286, 
+                                "id": 1287, 
                                 "guid": "fdb3606b-97ef-4496-a29b-a6a1e03c9796", 
                                 "logo": null, 
                                 "date": "2017-12-27T21:00:00+01:00", 
@@ -1434,7 +1434,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1311, 
+                                "id": 1312, 
                                 "guid": "9fc6cd55-ba06-46d1-8510-4723905f239d", 
                                 "logo": null, 
                                 "date": "2017-12-27T14:00:00+01:00", 
@@ -1457,7 +1457,28 @@
                         ], 
                         "Seminar room 14-15": [
                             {
-                                "id": 1026, 
+                                "id": 1027, 
+                                "guid": "579eab72-fbd6-5ba7-ad7a-59bcab0272ad", 
+                                "logo": null, 
+                                "date": "2017-12-27T12:45:00+01:00", 
+                                "start": "12:45", 
+                                "duration": "0:45", 
+                                "room": "Seminar room 14-15", 
+                                "slug": "", 
+                                "title": "Angel Meeting", 
+                                "subtitle": "Angel meeting Day 1", 
+                                "track": "self organized sessions", 
+                                "type": "meeting", 
+                                "language": "en", 
+                                "abstract": "", 
+                                "description": "Daily meetings of the Angel crew.", 
+                                "persons": [], 
+                                "links": [
+                                    "https://events.ccc.de/congress/2017/wiki/index.php/Session:Angel_Meeting"
+                                ]
+                            }, 
+                            {
+                                "id": 1028, 
                                 "guid": "a8254a36-ca09-5c68-8e0b-1399b8a94247", 
                                 "logo": null, 
                                 "date": "2017-12-27T16:30:00+01:00", 
@@ -1478,7 +1499,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1027, 
+                                "id": 1029, 
                                 "guid": "a7083f65-5e8b-52cb-b008-af59762bb115", 
                                 "logo": null, 
                                 "date": "2017-12-27T17:15:00+01:00", 
@@ -1488,27 +1509,6 @@
                                 "slug": "", 
                                 "title": "Angel Meeting", 
                                 "subtitle": "Introduction meeting for new angels Day 1", 
-                                "track": "self organized sessions", 
-                                "type": "meeting", 
-                                "language": "en", 
-                                "abstract": "", 
-                                "description": "Daily meetings of the Angel crew.", 
-                                "persons": [], 
-                                "links": [
-                                    "https://events.ccc.de/congress/2017/wiki/index.php/Session:Angel_Meeting"
-                                ]
-                            }, 
-                            {
-                                "id": 1031, 
-                                "guid": "579eab72-fbd6-5ba7-ad7a-59bcab0272ad", 
-                                "logo": null, 
-                                "date": "2017-12-27T12:45:00+01:00", 
-                                "start": "12:45", 
-                                "duration": "0:45", 
-                                "room": "Seminar room 14-15", 
-                                "slug": "", 
-                                "title": "Angel Meeting", 
-                                "subtitle": "Angel meeting Day 1", 
                                 "track": "self organized sessions", 
                                 "type": "meeting", 
                                 "language": "en", 
@@ -1693,7 +1693,7 @@
                         ], 
                         "Kidspace": [
                             {
-                                "id": 1288, 
+                                "id": 1289, 
                                 "guid": "970319ef-2202-480f-ab77-12ebd1a901c2", 
                                 "logo": null, 
                                 "date": "2017-12-27T12:00:00+01:00", 
@@ -1714,7 +1714,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1297, 
+                                "id": 1298, 
                                 "guid": "d75d1ea5-b3e1-4f52-ad73-3eb0e99b7dea", 
                                 "logo": null, 
                                 "date": "2017-12-27T13:00:00+01:00", 
@@ -1739,7 +1739,7 @@
                         ], 
                         "Komona Blue Princess": [
                             {
-                                "id": 1024, 
+                                "id": 1025, 
                                 "guid": "604ff957-cc9f-4bde-b138-feae84fa0202", 
                                 "logo": null, 
                                 "date": "2017-12-27T20:00:00+01:00", 
@@ -1821,7 +1821,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1303, 
+                                "id": 1304, 
                                 "guid": "dd529f5f-4f94-4fda-a4dc-abe0a2f9f68a", 
                                 "logo": null, 
                                 "date": "2017-12-27T18:00:00+01:00", 
@@ -1844,7 +1844,7 @@
                         ], 
                         "Seminar room 13": [
                             {
-                                "id": 1007, 
+                                "id": 1008, 
                                 "guid": "42ad7b9a-63b4-4790-8c37-1966932d71d6", 
                                 "logo": null, 
                                 "date": "2017-12-27T09:00:00+01:00", 
@@ -2209,7 +2209,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1270, 
+                                "id": 1271, 
                                 "guid": "36605ace-ee29-4261-8b5b-0678e77440da", 
                                 "logo": null, 
                                 "date": "2017-12-28T20:00:00+01:00", 
@@ -2236,7 +2236,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1309, 
+                                "id": 1310, 
                                 "guid": "580f142f-ac61-4002-82e9-cfae56219554", 
                                 "logo": null, 
                                 "date": "2017-12-28T14:00:00+01:00", 
@@ -2259,7 +2259,7 @@
                         ], 
                         "Hive Conference": [
                             {
-                                "id": 1052, 
+                                "id": 1051, 
                                 "guid": "9ef29ba5-4eb9-4d18-9f79-808570413595", 
                                 "logo": null, 
                                 "date": "2017-12-28T16:00:00+01:00", 
@@ -2287,7 +2287,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1053, 
+                                "id": 1052, 
                                 "guid": "6946c2f8-7ca0-4d95-a70a-20cec20e25fb", 
                                 "logo": null, 
                                 "date": "2017-12-28T17:00:00+01:00", 
@@ -2504,7 +2504,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1265, 
+                                "id": 1266, 
                                 "guid": "d28e4cdf-343c-4702-95ff-bdf328bde9fb", 
                                 "logo": null, 
                                 "date": "2017-12-28T22:00:00+01:00", 
@@ -2546,7 +2546,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1295, 
+                                "id": 1297, 
                                 "guid": "9b5087f5-f903-5324-9672-50105ed38e1b", 
                                 "logo": null, 
                                 "date": "2017-12-28T17:00:00+01:00", 
@@ -2567,7 +2567,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1312, 
+                                "id": 1313, 
                                 "guid": "e4264add-ccb6-46dd-8a9d-281f639ca1b3", 
                                 "logo": null, 
                                 "date": "2017-12-28T14:00:00+01:00", 
@@ -2624,15 +2624,15 @@
                             }, 
                             {
                                 "id": 1050, 
-                                "guid": "71d30e88-62ae-581d-a215-1775cc78b19f", 
+                                "guid": "5ebed7df-9716-4022-bb28-2b747e5cfbf1", 
                                 "logo": null, 
-                                "date": "2017-12-28T12:00:00+01:00", 
-                                "start": "12:00", 
-                                "duration": "0:45", 
+                                "date": "2017-12-28T13:00:00+01:00", 
+                                "start": "13:00", 
+                                "duration": "1:00", 
                                 "room": "Esszimmer", 
                                 "slug": "", 
                                 "title": "Calliope Workshops", 
-                                "subtitle": "Calliope Workshop 1", 
+                                "subtitle": "Calliope Workshop 2", 
                                 "track": "self organized sessions", 
                                 "type": "workshop", 
                                 "language": "de", 
@@ -2651,16 +2651,16 @@
                                 ]
                             }, 
                             {
-                                "id": 1051, 
-                                "guid": "5ebed7df-9716-4022-bb28-2b747e5cfbf1", 
+                                "id": 1053, 
+                                "guid": "71d30e88-62ae-581d-a215-1775cc78b19f", 
                                 "logo": null, 
-                                "date": "2017-12-28T13:00:00+01:00", 
-                                "start": "13:00", 
-                                "duration": "1:00", 
+                                "date": "2017-12-28T12:00:00+01:00", 
+                                "start": "12:00", 
+                                "duration": "0:45", 
                                 "room": "Esszimmer", 
                                 "slug": "", 
                                 "title": "Calliope Workshops", 
-                                "subtitle": "Calliope Workshop 2", 
+                                "subtitle": "Calliope Workshop 1", 
                                 "track": "self organized sessions", 
                                 "type": "workshop", 
                                 "language": "de", 
@@ -2812,7 +2812,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1152, 
+                                "id": 1153, 
                                 "guid": "e1887865-e2bf-4ba8-a986-658dae99255a", 
                                 "logo": null, 
                                 "date": "2017-12-28T14:00:00+01:00", 
@@ -2840,7 +2840,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1319, 
+                                "id": 1320, 
                                 "guid": "0d30238d-6ac6-4c17-aa28-23d42dff0508", 
                                 "logo": null, 
                                 "date": "2017-12-28T18:00:00+01:00", 
@@ -3157,7 +3157,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1173, 
+                                "id": 1174, 
                                 "guid": "11832e8c-2e41-4c8d-8ed8-a908d5638480", 
                                 "logo": null, 
                                 "date": "2017-12-29T00:00:00+01:00", 
@@ -3184,7 +3184,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1173, 
+                                "id": 1174, 
                                 "guid": "11832e8c-2e41-4c8d-8ed8-a908d5638480", 
                                 "logo": null, 
                                 "date": "2017-12-29T02:00:00+01:00", 
@@ -3598,7 +3598,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1259, 
+                                "id": 1260, 
                                 "guid": "1c5ded7d-1373-419f-a3f5-d087ed0c3971", 
                                 "logo": null, 
                                 "date": "2017-12-28T19:00:00+01:00", 
@@ -3619,7 +3619,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1317, 
+                                "id": 1318, 
                                 "guid": "af1ca733-a445-4f6c-947b-a7e79b77f0ba", 
                                 "logo": null, 
                                 "date": "2017-12-28T14:00:00+01:00", 
@@ -3932,7 +3932,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1292, 
+                                "id": 1293, 
                                 "guid": "90af669f-141e-4bda-ad03-3a2c0f754ede", 
                                 "logo": null, 
                                 "date": "2017-12-28T12:00:00+01:00", 
@@ -4019,7 +4019,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1298, 
+                                "id": 1299, 
                                 "guid": "478676ae-916e-4012-9cce-f71ef82aac04", 
                                 "logo": null, 
                                 "date": "2017-12-28T12:00:00+01:00", 
@@ -4044,7 +4044,7 @@
                         ], 
                         "Komona Blue Princess": [
                             {
-                                "id": 1025, 
+                                "id": 1024, 
                                 "guid": "7fb99fd0-8292-45d4-b4bb-43a32faa9549", 
                                 "logo": null, 
                                 "date": "2017-12-28T20:00:00+01:00", 
@@ -4147,7 +4147,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1262, 
+                                "id": 1263, 
                                 "guid": "70ee38ff-7fc7-4a77-bff0-b6e800f21f81", 
                                 "logo": null, 
                                 "date": "2017-12-28T16:00:00+01:00", 
@@ -4175,7 +4175,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1308, 
+                                "id": 1309, 
                                 "guid": "bcb7aed8-2d17-4481-8d47-20741a3b3cae", 
                                 "logo": null, 
                                 "date": "2017-12-28T14:00:00+01:00", 
@@ -4204,7 +4204,7 @@
                         ], 
                         "Seminar room 13": [
                             {
-                                "id": 1008, 
+                                "id": 1007, 
                                 "guid": "4d2df78a-654b-48ec-b90b-ab100da126a6", 
                                 "logo": null, 
                                 "date": "2017-12-28T09:00:00+01:00", 
@@ -4331,7 +4331,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1264, 
+                                "id": 1265, 
                                 "guid": "d9e37733-add6-5977-84fa-fe995bb3bc0d", 
                                 "logo": null, 
                                 "date": "2017-12-28T14:00:00+01:00", 
@@ -4352,7 +4352,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1305, 
+                                "id": 1306, 
                                 "guid": "77f34cbf-f0df-47b1-b235-b405c07ac7cd", 
                                 "logo": null, 
                                 "date": "2017-12-28T18:00:00+01:00", 
@@ -4379,7 +4379,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1323, 
+                                "id": 1324, 
                                 "guid": "6e77d278-f184-4c70-83a0-6a2208d4d269", 
                                 "logo": null, 
                                 "date": "2017-12-28T19:00:00+01:00", 
@@ -4480,7 +4480,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1278, 
+                                "id": 1279, 
                                 "guid": "7be53b3d-4e07-4327-a4de-62ffd4bc6ca8", 
                                 "logo": null, 
                                 "date": "2017-12-29T18:00:00+01:00", 
@@ -4728,7 +4728,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1290, 
+                                "id": 1291, 
                                 "guid": "af24303a-71b5-4887-a93d-e12f95ffbe22", 
                                 "logo": null, 
                                 "date": "2017-12-29T22:00:00+01:00", 
@@ -4846,7 +4846,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1153, 
+                                "id": 1152, 
                                 "guid": "04838098-b90c-54cf-ae82-e86cbdf2f708", 
                                 "logo": null, 
                                 "date": "2017-12-29T20:00:00+01:00", 
@@ -5035,7 +5035,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1163, 
+                                "id": 1162, 
                                 "guid": "97c297e9-344d-4a68-bb70-cdbe88a6a7ee", 
                                 "logo": null, 
                                 "date": "2017-12-29T16:30:00+01:00", 
@@ -5227,7 +5227,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1321, 
+                                "id": 1322, 
                                 "guid": "dc1ce5c6-2b4a-4a3a-b46d-d14f5fc6b901", 
                                 "logo": null, 
                                 "date": "2017-12-29T12:30:00+01:00", 
@@ -5279,16 +5279,16 @@
                                 ]
                             }, 
                             {
-                                "id": 1173, 
+                                "id": 1174, 
                                 "guid": "11832e8c-2e41-4c8d-8ed8-a908d5638480", 
                                 "logo": null, 
-                                "date": "2017-12-30T02:00:00+01:00", 
-                                "start": "02:00", 
+                                "date": "2017-12-30T00:00:00+01:00", 
+                                "start": "00:00", 
                                 "duration": "2:00", 
                                 "room": "Chaos West Stage", 
                                 "slug": "", 
                                 "title": "Klangteppich", 
-                                "subtitle": "Project Poltergeist DJ set (Alexeyan) Dark & Noisy Techno", 
+                                "subtitle": "Raoul Funkler DJ set", 
                                 "track": "self organized sessions", 
                                 "type": "other", 
                                 "language": "de", 
@@ -5306,16 +5306,16 @@
                                 ]
                             }, 
                             {
-                                "id": 1173, 
+                                "id": 1174, 
                                 "guid": "11832e8c-2e41-4c8d-8ed8-a908d5638480", 
                                 "logo": null, 
-                                "date": "2017-12-30T00:00:00+01:00", 
-                                "start": "00:00", 
+                                "date": "2017-12-30T02:00:00+01:00", 
+                                "start": "02:00", 
                                 "duration": "2:00", 
                                 "room": "Chaos West Stage", 
                                 "slug": "", 
                                 "title": "Klangteppich", 
-                                "subtitle": "Raoul Funkler DJ set", 
+                                "subtitle": "Project Poltergeist DJ set (Alexeyan) Dark & Noisy Techno", 
                                 "track": "self organized sessions", 
                                 "type": "other", 
                                 "language": "de", 
@@ -5361,7 +5361,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1326, 
+                                "id": 1327, 
                                 "guid": "2908d355-9054-4c8f-8a7f-33e677435c1d", 
                                 "logo": null, 
                                 "date": "2017-12-29T14:00:00+01:00", 
@@ -5389,7 +5389,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1327, 
+                                "id": 1328, 
                                 "guid": "cc28d9e0-c2e8-4e48-862e-5e5f489eb214", 
                                 "logo": null, 
                                 "date": "2017-12-29T18:00:00+01:00", 
@@ -5722,7 +5722,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1307, 
+                                "id": 1308, 
                                 "guid": "151ec08c-5139-46fb-b1b6-180187577fb8", 
                                 "logo": null, 
                                 "date": "2017-12-29T20:00:00+01:00", 
@@ -5743,7 +5743,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1318, 
+                                "id": 1319, 
                                 "guid": "da930b1f-96d6-47fa-adad-d979ab30e241", 
                                 "logo": null, 
                                 "date": "2017-12-29T14:00:00+01:00", 
@@ -5764,7 +5764,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1324, 
+                                "id": 1325, 
                                 "guid": "257d3b9c-938d-44b3-9444-730641d2dd9e", 
                                 "logo": null, 
                                 "date": "2017-12-29T16:00:00+01:00", 
@@ -5946,7 +5946,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1293, 
+                                "id": 1295, 
                                 "guid": "f3a30985-fc90-51f2-baa3-a07d034bffcc", 
                                 "logo": null, 
                                 "date": "2017-12-29T17:30:00+01:00", 
@@ -5967,7 +5967,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1299, 
+                                "id": 1300, 
                                 "guid": "96ba42dd-c65d-4644-a427-6b141b64ae06", 
                                 "logo": null, 
                                 "date": "2017-12-29T19:30:00+01:00", 
@@ -5989,7 +5989,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1322, 
+                                "id": 1323, 
                                 "guid": "dc1ce5c6-2b4a-4a3a-b46d-d14f5fc6b902", 
                                 "logo": null, 
                                 "date": "2017-12-29T12:00:00+01:00", 
@@ -6111,7 +6111,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1261, 
+                                "id": 1262, 
                                 "guid": "d475f861-e899-42a7-835b-f5d70fdeeb6a", 
                                 "logo": null, 
                                 "date": "2017-12-29T16:00:00+01:00", 
@@ -6141,6 +6141,27 @@
                         "Kidspace": [
                             {
                                 "id": 1000, 
+                                "guid": "d6665d6a-b44e-44f0-a0aa-31f5f716caf0", 
+                                "logo": null, 
+                                "date": "2017-12-29T12:00:00+01:00", 
+                                "start": "12:00", 
+                                "duration": "1:00", 
+                                "room": "Kidspace", 
+                                "slug": "", 
+                                "title": "\"Pen&Paper\" Game Jam", 
+                                "subtitle": "Workshop", 
+                                "track": "self organized sessions", 
+                                "type": "game", 
+                                "language": "", 
+                                "abstract": "", 
+                                "description": "Ich w\u00fcrde gernen einen Workshop organisieren, genauer einen pen&paper mini \"Game Jam\".\nHierbei finden sich normalerweise aus allen Disziplinen der Gamesbranche Beteiligte zusammen um in einem lockeren Umfeld Spiele/Spielideen zu entwickeln.\nIch m\u00f6chte dieses Konzept gerne mit Kindern umsetzen; ohne Computer ;0)", 
+                                "persons": [], 
+                                "links": [
+                                    "https://events.ccc.de/congress/2017/wiki/index.php/Session:%22Pen%26Paper%22_Game_Jam"
+                                ]
+                            }, 
+                            {
+                                "id": 1001, 
                                 "guid": "53d056a4-aeb6-4814-ace4-a8a60345340d", 
                                 "logo": null, 
                                 "date": "2017-12-29T16:00:00+01:00", 
@@ -6161,24 +6182,24 @@
                                 ]
                             }, 
                             {
-                                "id": 1001, 
-                                "guid": "d6665d6a-b44e-44f0-a0aa-31f5f716caf0", 
+                                "id": 1259, 
+                                "guid": "e9d483fc-b4fa-4712-b174-5b58321544cf", 
                                 "logo": null, 
-                                "date": "2017-12-29T12:00:00+01:00", 
-                                "start": "12:00", 
-                                "duration": "1:00", 
+                                "date": "2017-12-29T13:00:00+01:00", 
+                                "start": "13:00", 
+                                "duration": "0:05", 
                                 "room": "Kidspace", 
                                 "slug": "", 
-                                "title": "\"Pen&Paper\" Game Jam", 
-                                "subtitle": "Workshop", 
+                                "title": "Siebdruck", 
+                                "subtitle": "Siebdruck f\u00fcr Kids", 
                                 "track": "self organized sessions", 
-                                "type": "game", 
+                                "type": "hands-on", 
                                 "language": "", 
                                 "abstract": "", 
-                                "description": "Ich w\u00fcrde gernen einen Workshop organisieren, genauer einen pen&paper mini \"Game Jam\".\nHierbei finden sich normalerweise aus allen Disziplinen der Gamesbranche Beteiligte zusammen um in einem lockeren Umfeld Spiele/Spielideen zu entwickeln.\nIch m\u00f6chte dieses Konzept gerne mit Kindern umsetzen; ohne Computer ;0)", 
+                                "description": "Bring your own shirt - We bring the rocket \n\nDer @dondario bringt Siebdruck zum @C3Kidspace Rocket Drucken mit. Sagt ihr mal euren Eltern, dass sie euch daf\u00fcr ein T-Shirt, Body oder Strampler einpacken. Alternativ gibt es in der N\u00e4he des #34c3 aber auch Kinder-Klamotten zu kaufen.", 
                                 "persons": [], 
                                 "links": [
-                                    "https://events.ccc.de/congress/2017/wiki/index.php/Session:%22Pen%26Paper%22_Game_Jam"
+                                    "https://events.ccc.de/congress/2017/wiki/index.php/Session:Siebdruck"
                                 ]
                             }
                         ], 
@@ -6247,7 +6268,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1008, 
+                                "id": 1007, 
                                 "guid": "4d2df78a-654b-48ec-b90b-ab100da126a6", 
                                 "logo": null, 
                                 "date": "2017-12-29T09:00:00+01:00", 
@@ -6407,7 +6428,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1285, 
+                                "id": 1286, 
                                 "guid": "044193f8-1a18-441d-acba-2d4e32159a4a", 
                                 "logo": null, 
                                 "date": "2017-12-29T15:00:00+01:00", 
@@ -6434,7 +6455,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1320, 
+                                "id": 1321, 
                                 "guid": "dc1ce5c6-2b4a-4a3a-b46d-d14f5fc6b900", 
                                 "logo": null, 
                                 "date": "2017-12-29T12:00:00+01:00", 
@@ -6458,7 +6479,7 @@
                         ], 
                         "Komona BIKINI": [
                             {
-                                "id": 1260, 
+                                "id": 1261, 
                                 "guid": "dbad8017-1e66-4163-bf58-8b79076dc647", 
                                 "logo": null, 
                                 "date": "2017-12-29T16:00:00+01:00", 
@@ -6569,7 +6590,7 @@
                         ], 
                         "Esszimmer": [
                             {
-                                "id": 1316, 
+                                "id": 1317, 
                                 "guid": "aa57b1e7-8075-59b5-a018-d204e0f32c29", 
                                 "logo": null, 
                                 "date": "2017-12-30T14:00:00+01:00", 
@@ -6627,7 +6648,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1329, 
+                                "id": 1330, 
                                 "guid": "dd59f0b8-212d-4978-8476-fffb4455bb25", 
                                 "logo": null, 
                                 "date": "2017-12-30T14:30:00+01:00", 
@@ -6724,7 +6745,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1269, 
+                                "id": 1270, 
                                 "guid": "4539bbbe-bd6a-4baf-8322-3ed0eefbbd70", 
                                 "logo": null, 
                                 "date": "2017-12-30T20:00:00+01:00", 
@@ -6842,7 +6863,7 @@
                         ], 
                         "Kidspace": [
                             {
-                                "id": 1000, 
+                                "id": 1001, 
                                 "guid": "53d056a4-aeb6-4814-ace4-a8a60345340d", 
                                 "logo": null, 
                                 "date": "2017-12-30T11:00:00+01:00", 
@@ -6894,7 +6915,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1008, 
+                                "id": 1007, 
                                 "guid": "4d2df78a-654b-48ec-b90b-ab100da126a6", 
                                 "logo": null, 
                                 "date": "2017-12-30T09:00:00+01:00", 
