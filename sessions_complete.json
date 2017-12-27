@@ -97,6 +97,46 @@
             "1514491200"
         ]
     }, 
+    "Session:How to turn museums into open data hubs# 5963874339b26671bc1d48e2d70a0e48": {
+        "Held in language": [
+            "de - German"
+        ], 
+        "Has start time": [], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [
+            "https://codingdavinci.de/about/"
+        ], 
+        "Has description": [
+            "Many museums, archives and libraries are still reluctant to share their data. Actually it is our data as it is often public domain and or financed with public money. Yet many still hesitate. #openGLAM is an international movement to motivate Galleries, Libraries, Archives and Museums to share digitized cultural heritage and make it open for reuse.  GLAM data is so attractive for reuse. Events as Coding da Vinci (https://codingdavinci.de/about/) or happenings as GIF IT UP (http://blog.europeana.eu/2017/11/winners-of-gif-it-up-2017/) do show some examples. Where to find open GLAM data and how to convince GLAMs to open up."
+        ], 
+        "Has session type": [
+            "Talk"
+        ], 
+        "Has session location": [], 
+        "Has subtitle": [], 
+        "Is organized by": [
+            {
+                "fulltext": "User:Fischerdata", 
+                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/User:Fischerdata", 
+                "namespace": 2, 
+                "exists": false
+            }
+        ], 
+        "Has title": [
+            "How to turn museums into open data hubs"
+        ], 
+        "Has duration": [], 
+        "GUID": [
+            "17c4fddc-cfb3-4751-a298-f03a64686582"
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:How_to_turn_museums_into_open_data_hubs", 
+        "Has end time": []
+    }, 
     "Session:Hacking with wget# 68066760b7c9155486b3ca3bfd2ea9fc": {
         "Held in language": [
             "en - English"
@@ -649,6 +689,59 @@
             "1514469600"
         ]
     }, 
+    "Session:Infrastructure of Wikidata# 9f5d97d63a71cfa10dd9d383df077089": {
+        "Held in language": [
+            "en - English"
+        ], 
+        "Has start time": [
+            "1514469600"
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [
+            "https://www.wikidata.org/wiki/Wikidata:Data_access"
+        ], 
+        "Has description": [
+            "How does Wikidata work, and how can I access it? \nInternals, Data models, APIs."
+        ], 
+        "Has session type": [
+            "Workshop"
+        ], 
+        "Has session location": [
+            {
+                "fulltext": "Room:Hive Stage", 
+                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Room:Hive_Stage", 
+                "namespace": 516, 
+                "exists": true
+            }
+        ], 
+        "Has subtitle": [], 
+        "Is organized by": [
+            {
+                "fulltext": "User:Brightbyte", 
+                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/User:Brightbyte", 
+                "namespace": 2, 
+                "exists": false
+            }
+        ], 
+        "Has title": [
+            "Infrastructure of Wikidata"
+        ], 
+        "Has duration": [
+            45
+        ], 
+        "GUID": [
+            "e1887865-e2bf-4ba8-a986-658dae99255a"
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:Infrastructure_of_Wikidata", 
+        "Has end time": [
+            "1514472300"
+        ]
+    }, 
     "Session:Electrodibles# ffc55ca43e7fd0bd22be4cb40665c1b2": {
         "Held in language": [
             "en - English"
@@ -704,57 +797,52 @@
             "1514480400"
         ]
     }, 
-    "Session:Surface mount electronics assembly for terrified beginners# 902e109a55910af9fc1615fc0dea63f4": {
+    "Session:OParl: ein Datenstandard, um politische Entscheidungen transparent zu machen# 7b4ed0a4584890ccff8211d583d922a2": {
         "Held in language": [
-            "en - English"
+            "de - German"
         ], 
         "Has start time": [
-            "1514545200"
+            "1514484000"
         ], 
         "Has event track": [
             "Session"
         ], 
-        "Has website": [], 
+        "Has website": [
+            "https://oparl.org"
+        ], 
         "Has description": [
-            "Surface mount electronics for terrified beginners. Learn to assemble tiny parts on circuit boards by building a working power supply. Anyone can do it. Yes, even you who never touched anything electronic before. 90-100mins, 20\u20ac/kit, avoid caffeine immediately before. Max 20 participants per session, there will be a PAPER!!1! signup list in the hardware hacking area."
+            "OParl ist ein Datenstandard f\u00fcr kommunale Entscheidungen, welche in Ratsinformationssystemen gespeichert werden. Mit den Daten kann man Transparenz und Beteiligung vor Ort f\u00f6rdern. Auf dem 33C3 stand der Standard in den Kinderschuhen, nun findet er zunehmend Verbreitung. Wir - ein Team der Open Knowledge Foundation - wollen den Stand der Dinge pr\u00e4sentieren gemeinsam \u00fcber die Zukunft reden: Anwendungen, Standard-Weiterentwicklung, weitere Verbreitung. Anschlie\u00dfend ab 19:00 gibt es einen technischen Workshop zu OParl."
         ], 
         "Has session type": [
-            "Workshop"
+            "Discussion"
         ], 
         "Has session location": [
             {
-                "fulltext": "Assembly:HardwareHackingArea", 
-                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Assembly:HardwareHackingArea", 
-                "namespace": 504, 
+                "fulltext": "Room:Seminar room 14-15", 
+                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Room:Seminar_room_14-15", 
+                "namespace": 516, 
                 "exists": true
             }
         ], 
         "Has subtitle": [
-            "Day 3 Session 1"
+            "OParl Einf\u00fchrung"
         ], 
-        "Is organized by": [
-            {
-                "fulltext": "User:Kliment", 
-                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/User:Kliment", 
-                "namespace": 2, 
-                "exists": true
-            }
-        ], 
+        "Is organized by": [], 
         "Has title": [
-            "Surface mount electronics assembly for terrified beginners"
+            "OParl: ein Datenstandard, um politische Entscheidungen transparent zu machen"
         ], 
         "Has duration": [
-            90
+            60
         ], 
         "GUID": [
-            "7b07e29a-77f7-492d-9633-ed5c0fd10b9a"
+            "b8e83cf2-69fe-4880-9c19-b889b4e5d8d3"
         ], 
         "Has color": [
             "#0099ab"
         ], 
-        "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:Surface_mount_electronics_assembly_for_terrified_beginners", 
+        "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:OParl:_ein_Datenstandard,_um_politische_Entscheidungen_transparent_zu_machen", 
         "Has end time": [
-            "1514550600"
+            "1514487600"
         ]
     }, 
     "Session:Tor Q&A# 945ede649e4f656c4d4946a2754d26e1": {
@@ -1843,54 +1931,6 @@
         "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:Introduction_into_anarchism", 
         "Has end time": [
             "1514499300"
-        ]
-    }, 
-    "Session:WireGuard# 9a71ba33750c30c608b596ba9c46bdbb": {
-        "Held in language": [
-            "en - English"
-        ], 
-        "Has start time": [
-            "1514548800"
-        ], 
-        "Has event track": [
-            "Session"
-        ], 
-        "Has website": [
-            "https://www.wireguard.com/"
-        ], 
-        "Has description": [
-            "WireGuard is a next generation secure network tunnel, which uses state of the art cryptography. This workshop will discuss what WireGuard is, the cryptography behind it, some interesting kernel engineering tricks it uses, and how you too can use it. There will be copious quantities of free stickers. The session will be fairly open and free form. The creator of WireGuard will have an endless quantity of material of his own to present, but more generally, we'll open it up to whatever people want to discuss and collaborate on. If you're interested in kernel programming, networking, cryptography, or security, this is a key workshop to attend."
-        ], 
-        "Has session type": [
-            "Workshop"
-        ], 
-        "Has session location": [
-            {
-                "fulltext": "Room:Lecture room 14-15", 
-                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Room:Lecture_room_14-15", 
-                "namespace": 516, 
-                "exists": false
-            }
-        ], 
-        "Has subtitle": [
-            "Temporary hold"
-        ], 
-        "Is organized by": [], 
-        "Has title": [
-            "WireGuard"
-        ], 
-        "Has duration": [
-            60
-        ], 
-        "GUID": [
-            "dc1ce5c6-2b4a-4a3a-b46d-d14f5fc6b902"
-        ], 
-        "Has color": [
-            "#0099ab"
-        ], 
-        "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:WireGuard", 
-        "Has end time": [
-            "1514552400"
         ]
     }, 
     "Session:How to Let's Play# 776f716aa526a04f0bbb8b1c2852952a": {
@@ -3934,6 +3974,59 @@
             "1514469600"
         ]
     }, 
+    "Session:Surface mount electronics assembly for terrified beginners# 902e109a55910af9fc1615fc0dea63f4": {
+        "Held in language": [
+            "en - English"
+        ], 
+        "Has start time": [
+            "1514545200"
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [], 
+        "Has description": [
+            "Surface mount electronics for terrified beginners. Learn to assemble tiny parts on circuit boards by building a working power supply. Anyone can do it. Yes, even you who never touched anything electronic before. 90-100mins, 20\u20ac/kit, avoid caffeine immediately before. Max 20 participants per session, there will be a PAPER!!1! signup list in the hardware hacking area."
+        ], 
+        "Has session type": [
+            "Workshop"
+        ], 
+        "Has session location": [
+            {
+                "fulltext": "Assembly:HardwareHackingArea", 
+                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Assembly:HardwareHackingArea", 
+                "namespace": 504, 
+                "exists": true
+            }
+        ], 
+        "Has subtitle": [
+            "Day 3 Session 1"
+        ], 
+        "Is organized by": [
+            {
+                "fulltext": "User:Kliment", 
+                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/User:Kliment", 
+                "namespace": 2, 
+                "exists": true
+            }
+        ], 
+        "Has title": [
+            "Surface mount electronics assembly for terrified beginners"
+        ], 
+        "Has duration": [
+            90
+        ], 
+        "GUID": [
+            "7b07e29a-77f7-492d-9633-ed5c0fd10b9a"
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:Surface_mount_electronics_assembly_for_terrified_beginners", 
+        "Has end time": [
+            "1514550600"
+        ]
+    }, 
     "Session:Can't touch this 2: Introduction and more about self defense and communication for humans# f989a83075a375ca42f1b4dd18c331da": {
         "Held in language": [
             "en - English"
@@ -4725,6 +4818,61 @@
         "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Projects:LEAP", 
         "Has end time": [
             "1514403000"
+        ]
+    }, 
+    "Session:Schleuder# 333059041d8a4ce8d2cfa9b7e98eb45c": {
+        "Held in language": [
+            "en - English"
+        ], 
+        "Has start time": [
+            "1514466900"
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [
+            "https://schleuder.nadir.org/"
+        ], 
+        "Has description": [
+            "'''''UPDATE'': We changed the room, now 15 minutes later and in room 11!'''\n\nA workshop on the development of Schleuder, the crypto mailinglist manager: what's new in version 3, the new web-interface, what will be next, etc.\n\nDepending on the attendee's wishes, we can also take time to answer questions, discuss ideas, or provide practical help with problems."
+        ], 
+        "Has session type": [
+            "Workshop"
+        ], 
+        "Has session location": [
+            {
+                "fulltext": "Room:Lecture room 11", 
+                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Room:Lecture_room_11", 
+                "namespace": 516, 
+                "exists": true
+            }
+        ], 
+        "Has subtitle": [
+            "Last years development & discussion"
+        ], 
+        "Is organized by": [
+            {
+                "fulltext": "User:Paz", 
+                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/User:Paz", 
+                "namespace": 2, 
+                "exists": true
+            }
+        ], 
+        "Has title": [
+            "Schleuder"
+        ], 
+        "Has duration": [
+            45
+        ], 
+        "GUID": [
+            "90e4dc9d-fa68-400a-a202-c0d2714d4c1c"
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:Schleuder", 
+        "Has end time": [
+            "1514469600"
         ]
     }, 
     "Session:Throwies# e27ebec0de39dbae7585138a3b649bff": {
@@ -9143,52 +9291,55 @@
             "1514466000"
         ]
     }, 
-    "Session:OParl: ein Datenstandard, um politische Entscheidungen transparent zu machen# 7b4ed0a4584890ccff8211d583d922a2": {
+    "Session:Introduction to Wikidata# 10d31f28ae86cd75b1a57dd4548ade89": {
         "Held in language": [
-            "de - German"
+            "en - English"
         ], 
         "Has start time": [
-            "1514484000"
+            "1514565000"
         ], 
         "Has event track": [
             "Session"
         ], 
-        "Has website": [
-            "https://oparl.org"
-        ], 
+        "Has website": [], 
         "Has description": [
-            "OParl ist ein Datenstandard f\u00fcr kommunale Entscheidungen, welche in Ratsinformationssystemen gespeichert werden. Mit den Daten kann man Transparenz und Beteiligung vor Ort f\u00f6rdern. Auf dem 33C3 stand der Standard in den Kinderschuhen, nun findet er zunehmend Verbreitung. Wir - ein Team der Open Knowledge Foundation - wollen den Stand der Dinge pr\u00e4sentieren gemeinsam \u00fcber die Zukunft reden: Anwendungen, Standard-Weiterentwicklung, weitere Verbreitung. Anschlie\u00dfend ab 19:00 gibt es einen technischen Workshop zu OParl."
+            "Wikidata is an open source knowledge base where volunteers from all around the world add and structure data to describe our complex reality, based on sources, just as Wikipedia. Discover how Wikidata works, how you can improve and reuse the data, how the community works and which tools they use."
         ], 
-        "Has session type": [
-            "Discussion"
-        ], 
+        "Has session type": [], 
         "Has session location": [
             {
-                "fulltext": "Room:Seminar room 14-15", 
-                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Room:Seminar_room_14-15", 
+                "fulltext": "Room:Hive Stage", 
+                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Room:Hive_Stage", 
                 "namespace": 516, 
                 "exists": true
             }
         ], 
         "Has subtitle": [
-            "OParl Einf\u00fchrung"
+            "teaser"
         ], 
-        "Is organized by": [], 
+        "Is organized by": [
+            {
+                "fulltext": "User:Auregann", 
+                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/User:Auregann", 
+                "namespace": 2, 
+                "exists": true
+            }
+        ], 
         "Has title": [
-            "OParl: ein Datenstandard, um politische Entscheidungen transparent zu machen"
+            "Introduction to Wikidata"
         ], 
         "Has duration": [
-            60
+            20
         ], 
         "GUID": [
-            "b8e83cf2-69fe-4880-9c19-b889b4e5d8d3"
+            "97c297e9-344d-4a68-bb70-cdbe88a6a7ee"
         ], 
         "Has color": [
             "#0099ab"
         ], 
-        "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:OParl:_ein_Datenstandard,_um_politische_Entscheidungen_transparent_zu_machen", 
+        "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:Introduction_to_Wikidata", 
         "Has end time": [
-            "1514487600"
+            "1514566200"
         ]
     }, 
     "Session:How to deal with the law, anarchist perspective# e535cabb8676991930a3f8aa690e52b2": {
@@ -11601,6 +11752,54 @@
         "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:Tor_relays_operators_meetup", 
         "Has end time": [
             "1514405400"
+        ]
+    }, 
+    "Session:WireGuard# c8e122431868efffda92fe5429caf610": {
+        "Held in language": [
+            "en - English"
+        ], 
+        "Has start time": [
+            "1514548800"
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [
+            "https://www.wireguard.com/"
+        ], 
+        "Has description": [
+            "WireGuard is a next generation secure network tunnel, which uses state of the art cryptography. This workshop will discuss what WireGuard is, the cryptography behind it, some interesting kernel engineering tricks it uses, and how you too can use it. There will be copious quantities of free stickers. The session will be fairly open and free form. The creator of WireGuard will have an endless quantity of material of his own to present, but more generally, we'll open it up to whatever people want to discuss and collaborate on. If you're interested in kernel programming, networking, cryptography, or security, this is a key workshop to attend."
+        ], 
+        "Has session type": [
+            "Workshop"
+        ], 
+        "Has session location": [
+            {
+                "fulltext": "Room:Seminar room 14-15", 
+                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Room:Seminar_room_14-15", 
+                "namespace": 516, 
+                "exists": true
+            }
+        ], 
+        "Has subtitle": [
+            "Temporary hold"
+        ], 
+        "Is organized by": [], 
+        "Has title": [
+            "WireGuard"
+        ], 
+        "Has duration": [
+            60
+        ], 
+        "GUID": [
+            "dc1ce5c6-2b4a-4a3a-b46d-d14f5fc6b902"
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:WireGuard", 
+        "Has end time": [
+            "1514552400"
         ]
     }, 
     "Session:Letter writing to prisoners, sitting in jail for hacking# 75e37cb1ed3b3c3575f6ede723879ba7": {
@@ -16244,6 +16443,53 @@
         "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:VoidLinux_User_Meetup", 
         "Has end time": [
             "1514493000"
+        ]
+    }, 
+    "Session:Food Hacking: Kombucha is Easy# a15f2e41078134579f127d12fc267c2b": {
+        "Held in language": [
+            "cs - Czech", 
+            "en - English"
+        ], 
+        "Has start time": [
+            "1514556000"
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [
+            "https://foodhackingbase.org/wiki/Kombucha_is_easy_34c3"
+        ], 
+        "Has description": [
+            "You will learn how take care properly about our kombucha culture (mother/SCOBY) brewing lovely beverage of your own so you can continue to do that at home or your local hackerspace."
+        ], 
+        "Has session type": [
+            "Hands-On"
+        ], 
+        "Has session location": [
+            {
+                "fulltext": "Assembly:Foodhackingbase", 
+                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Assembly:Foodhackingbase", 
+                "namespace": 504, 
+                "exists": true
+            }
+        ], 
+        "Has subtitle": [], 
+        "Is organized by": [], 
+        "Has title": [
+            "Food Hacking: Kombucha is Easy"
+        ], 
+        "Has duration": [
+            120
+        ], 
+        "GUID": [
+            "64c63e3f-0999-40ac-b4ec-7caac1c51b1b"
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:Food_Hacking:_Kombucha_is_Easy", 
+        "Has end time": [
+            "1514563200"
         ]
     }, 
     "Session:How to Let's Play# e53bd772eaedb7818b2db7e001fa6580": {
