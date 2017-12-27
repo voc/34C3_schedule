@@ -9703,6 +9703,59 @@
             "1514577600"
         ]
     }, 
+    "Session:TeaHouse# 7693dc19e24497ef3c885347bbef9e3c": {
+        "Held in language": [
+            "en - English"
+        ], 
+        "Has start time": [
+            "1514638800"
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [
+            "https://teahouse.homecomputing.fr/"
+        ], 
+        "Has description": [], 
+        "Has session type": [
+            "Meeting"
+        ], 
+        "Has session location": [
+            {
+                "fulltext": "Assembly:TeaHouse", 
+                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Assembly:TeaHouse", 
+                "namespace": 504, 
+                "exists": true
+            }
+        ], 
+        "Has subtitle": [
+            "\u03b5xodus reveals hidden trackers in Android applications"
+        ], 
+        "Is organized by": [
+            {
+                "fulltext": "User:Sanpi", 
+                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/User:Sanpi", 
+                "namespace": 2, 
+                "exists": true
+            }
+        ], 
+        "Has title": [
+            "TeaHouse"
+        ], 
+        "Has duration": [
+            20
+        ], 
+        "GUID": [
+            "622c5770-b9fc-45ef-b9fc-1533f661e3ec"
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:TeaHouse", 
+        "Has end time": [
+            "1514640000"
+        ]
+    }, 
     "Session:DLF# 05881f6e9fd51b6fea250e317573b407": {
         "Held in language": [
             "de - German"
@@ -11356,7 +11409,7 @@
     }, 
     "Session:Subtitles-Engelmeeting# 74d29b7a0698e108386090c4188f5011": {
         "Held in language": [
-            "de - German"
+            "en - English"
         ], 
         "Has start time": [
             "1514386800"
@@ -13293,53 +13346,6 @@
             "1514520000"
         ]
     }, 
-    "Session:Rights&Freedoms# 080e902b5d76484bfad34544ec785c38": {
-        "Held in language": [
-            "de - German", 
-            "en - English"
-        ], 
-        "Has start time": [
-            "1514379600"
-        ], 
-        "Has event track": [
-            "Session"
-        ], 
-        "Has website": [], 
-        "Has description": [
-            "Rights & Freedoms Cluster Stage Programme"
-        ], 
-        "Has session type": [
-            "Talk"
-        ], 
-        "Has session location": [
-            {
-                "fulltext": "Room:CCL Hall 3", 
-                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Room:CCL_Hall_3", 
-                "namespace": 516, 
-                "exists": true
-            }
-        ], 
-        "Has subtitle": [
-            "[https://events.ccc.de/congress/2017/wiki/index.php/Session:Self-host_your_visual_assets_with_Free_Software Self-Host your visual assets with Free Software] (Elio Qoshi)"
-        ], 
-        "Is organized by": [], 
-        "Has title": [
-            "Rights&Freedoms"
-        ], 
-        "Has duration": [
-            60
-        ], 
-        "GUID": [
-            "9a031988-bf7d-45f1-bc41-f3751dc059a7"
-        ], 
-        "Has color": [
-            "#0099ab"
-        ], 
-        "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:Rights%26Freedoms", 
-        "Has end time": [
-            "1514383200"
-        ]
-    }, 
     "Session:Network hacks for smart attacks# ce4407f68927c8001b4cf962a1b34335": {
         "Held in language": [
             "en - English"
@@ -14128,6 +14134,52 @@
         "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:TeaHouse", 
         "Has end time": [
             "1514474100"
+        ]
+    }, 
+    "Session:Food Hacking: Kefir Making# 8752ad3b2d6b623949558bffb3022e5c": {
+        "Held in language": [
+            "en - English"
+        ], 
+        "Has start time": [
+            "1514469600"
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [
+            "https://foodhackingbase.org/wiki/Kefir_making_34c3"
+        ], 
+        "Has description": [
+            "At this workshop you will learn how to make your own kefir ferments using the kefir grain culture."
+        ], 
+        "Has session type": [
+            "Hands-On"
+        ], 
+        "Has session location": [
+            {
+                "fulltext": "Assembly:Foodhackingbase", 
+                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Assembly:Foodhackingbase", 
+                "namespace": 504, 
+                "exists": true
+            }
+        ], 
+        "Has subtitle": [], 
+        "Is organized by": [], 
+        "Has title": [
+            "Food Hacking: Kefir Making"
+        ], 
+        "Has duration": [
+            120
+        ], 
+        "GUID": [
+            "c209a80e-df86-457b-b868-7373a06cecb0"
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:Food_Hacking:_Kefir_Making", 
+        "Has end time": [
+            "1514476800"
         ]
     }, 
     "Session:DLF# 9262d94530d1db2b973c6cc0d1b54ec3": {
@@ -17489,57 +17541,51 @@
             "1514566800"
         ]
     }, 
-    "Session:TeaHouse# 7693dc19e24497ef3c885347bbef9e3c": {
+    "Session:Rights&Freedoms# 080e902b5d76484bfad34544ec785c38": {
         "Held in language": [
+            "de - German", 
             "en - English"
         ], 
         "Has start time": [
-            "1514638800"
+            "1514379600"
         ], 
         "Has event track": [
             "Session"
         ], 
-        "Has website": [
-            "https://teahouse.homecomputing.fr/"
+        "Has website": [], 
+        "Has description": [
+            "Rights & Freedoms Cluster Stage Programme"
         ], 
-        "Has description": [], 
         "Has session type": [
-            "Meeting"
+            "Talk"
         ], 
         "Has session location": [
             {
-                "fulltext": "Assembly:TeaHouse", 
-                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Assembly:TeaHouse", 
-                "namespace": 504, 
+                "fulltext": "Room:CCL Hall 3", 
+                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Room:CCL_Hall_3", 
+                "namespace": 516, 
                 "exists": true
             }
         ], 
         "Has subtitle": [
-            "\u03b5xodus reveals hidden trackers in Android applications"
+            "[https://events.ccc.de/congress/2017/wiki/index.php/Session:Self-host_your_visual_assets_with_Free_Software Self-Host your visual assets with Free Software] (Elio Qoshi)"
         ], 
-        "Is organized by": [
-            {
-                "fulltext": "User:Sanpi", 
-                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/User:Sanpi", 
-                "namespace": 2, 
-                "exists": true
-            }
-        ], 
+        "Is organized by": [], 
         "Has title": [
-            "TeaHouse"
+            "Rights&Freedoms"
         ], 
         "Has duration": [
-            20
+            60
         ], 
         "GUID": [
-            "622c5770-b9fc-45ef-b9fc-1533f661e3ec"
+            "9a031988-bf7d-45f1-bc41-f3751dc059a7"
         ], 
         "Has color": [
             "#0099ab"
         ], 
-        "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:TeaHouse", 
+        "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:Rights%26Freedoms", 
         "Has end time": [
-            "1514640000"
+            "1514383200"
         ]
     }, 
     "Session:Trickmisch# edb2989e4021b4f67c909659a0640527": {
