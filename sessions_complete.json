@@ -3248,52 +3248,6 @@
             "1514476800"
         ]
     }, 
-    "No Session# 505a3d6c59ca47a4d1dad93278b4d81f": {
-        "Held in language": [
-            "en - English"
-        ], 
-        "Has start time": [
-            "1514545200"
-        ], 
-        "Has event track": [
-            "Session"
-        ], 
-        "Has website": [
-            "https://twitter.com/SycretSoul"
-        ], 
-        "Has description": [], 
-        "Has session type": [
-            "Discussion"
-        ], 
-        "Has session location": [
-            {
-                "fulltext": "Room:Lecture room 11", 
-                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Room:Lecture_room_11", 
-                "namespace": 516, 
-                "exists": true
-            }
-        ], 
-        "Has subtitle": [
-            "Polyamory - n:n relationships  discussion"
-        ], 
-        "Is organized by": [], 
-        "Has title": [
-            "No Session"
-        ], 
-        "Has duration": [
-            90
-        ], 
-        "GUID": [
-            "a57480d8-7fa2-4a9f-80a4-246071562819"
-        ], 
-        "Has color": [
-            "#0099ab"
-        ], 
-        "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/No_Session", 
-        "Has end time": [
-            "1514550600"
-        ]
-    }, 
     "Session:Angel Meeting# 075d3e480a396cae5fcbc55989a88ca2": {
         "Held in language": [
             "en - English", 
@@ -3742,6 +3696,44 @@
             "1514580300"
         ]
     }, 
+    "Session:Haecksenbreakfast# 513a305efb60c3ca33bf7f9fe7655b3f": {
+        "Held in language": [], 
+        "Has start time": [
+            "1514552400"
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [], 
+        "Has description": [
+            "Haecksenbreakfast (female* only)"
+        ], 
+        "Has session type": [], 
+        "Has session location": [
+            {
+                "fulltext": "Room:Lecture room 11", 
+                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Room:Lecture_room_11", 
+                "namespace": 516, 
+                "exists": true
+            }
+        ], 
+        "Has subtitle": [], 
+        "Is organized by": [], 
+        "Has title": [
+            "Haecksenbreakfast"
+        ], 
+        "Has duration": [
+            120
+        ], 
+        "GUID": [], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:Haecksenbreakfast", 
+        "Has end time": [
+            "1514559600"
+        ]
+    }, 
     "Session:The ultimate Free Software challenge# cfd54643eedbc7eff8cea2061824fce6": {
         "Held in language": [], 
         "Has start time": [], 
@@ -3832,44 +3824,6 @@
         "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:Mate_Making_%26_Drinking", 
         "Has end time": [
             "1514469600"
-        ]
-    }, 
-    "Session:Haecksenbreakfast# b3df6d03e394815f24e2d41f46e44382": {
-        "Held in language": [], 
-        "Has start time": [
-            "1514552400"
-        ], 
-        "Has event track": [
-            "Session"
-        ], 
-        "Has website": [], 
-        "Has description": [
-            "Haecksenbreakfast (female* only)"
-        ], 
-        "Has session type": [], 
-        "Has session location": [
-            {
-                "fulltext": "Room:Hive Stage", 
-                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Room:Hive_Stage", 
-                "namespace": 516, 
-                "exists": true
-            }
-        ], 
-        "Has subtitle": [], 
-        "Is organized by": [], 
-        "Has title": [
-            "Haecksenbreakfast"
-        ], 
-        "Has duration": [
-            120
-        ], 
-        "GUID": [], 
-        "Has color": [
-            "#0099ab"
-        ], 
-        "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:Haecksenbreakfast", 
-        "Has end time": [
-            "1514559600"
         ]
     }, 
     "Session:Can't touch this 2: Introduction and more about self defense and communication for humans# f989a83075a375ca42f1b4dd18c331da": {
@@ -4712,6 +4666,53 @@
         "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:Throwies", 
         "Has end time": [
             "1514397600"
+        ]
+    }, 
+    "Session:Rights&Freedoms# 080e902b5d76484bfad34544ec785c38": {
+        "Held in language": [
+            "de - German", 
+            "en - English"
+        ], 
+        "Has start time": [
+            "1514379600"
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [], 
+        "Has description": [
+            "Rights & Freedoms Cluster Stage Programme"
+        ], 
+        "Has session type": [
+            "Talk"
+        ], 
+        "Has session location": [
+            {
+                "fulltext": "Room:CCL Hall 3", 
+                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Room:CCL_Hall_3", 
+                "namespace": 516, 
+                "exists": true
+            }
+        ], 
+        "Has subtitle": [
+            "[https://events.ccc.de/congress/2017/wiki/index.php/Session:Self-host_your_visual_assets_with_Free_Software Self-Host your visual assets with Free Software] (Elio Qoshi)"
+        ], 
+        "Is organized by": [], 
+        "Has title": [
+            "Rights&Freedoms"
+        ], 
+        "Has duration": [
+            60
+        ], 
+        "GUID": [
+            "9a031988-bf7d-45f1-bc41-f3751dc059a7"
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:Rights%26Freedoms", 
+        "Has end time": [
+            "1514383200"
         ]
     }, 
     "Session:Alle Menschen sind gleich, aber manche sind gleicher.# 64e2d5ce5b1c1a5e67d7374f1ab8f690": {
@@ -13024,51 +13025,50 @@
             "1514520000"
         ]
     }, 
-    "Session:Rights&Freedoms# 080e902b5d76484bfad34544ec785c38": {
+    "No Session# 505a3d6c59ca47a4d1dad93278b4d81f": {
         "Held in language": [
-            "de - German", 
             "en - English"
         ], 
         "Has start time": [
-            "1514379600"
+            "1514545200"
         ], 
         "Has event track": [
             "Session"
         ], 
-        "Has website": [], 
-        "Has description": [
-            "Rights & Freedoms Cluster Stage Programme"
+        "Has website": [
+            "https://twitter.com/SycretSoul"
         ], 
+        "Has description": [], 
         "Has session type": [
-            "Talk"
+            "Discussion"
         ], 
         "Has session location": [
             {
-                "fulltext": "Room:CCL Hall 3", 
-                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Room:CCL_Hall_3", 
+                "fulltext": "Room:Lecture room 11", 
+                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Room:Lecture_room_11", 
                 "namespace": 516, 
                 "exists": true
             }
         ], 
         "Has subtitle": [
-            "[https://events.ccc.de/congress/2017/wiki/index.php/Session:Self-host_your_visual_assets_with_Free_Software Self-Host your visual assets with Free Software] (Elio Qoshi)"
+            "Polyamory - n:n relationships  discussion"
         ], 
         "Is organized by": [], 
         "Has title": [
-            "Rights&Freedoms"
+            "No Session"
         ], 
         "Has duration": [
-            60
+            90
         ], 
         "GUID": [
-            "9a031988-bf7d-45f1-bc41-f3751dc059a7"
+            "a57480d8-7fa2-4a9f-80a4-246071562819"
         ], 
         "Has color": [
             "#0099ab"
         ], 
-        "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:Rights%26Freedoms", 
+        "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/No_Session", 
         "Has end time": [
-            "1514383200"
+            "1514550600"
         ]
     }, 
     "Session:Network hacks for smart attacks# ce4407f68927c8001b4cf962a1b34335": {
@@ -13320,6 +13320,45 @@
         "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:Klangteppich", 
         "Has end time": [
             "1514599200"
+        ]
+    }, 
+    "Session:Experience in dissecting malware# 3ca77b7b03ceec4a759bf0a40bc53197": {
+        "Held in language": [
+            "de - German"
+        ], 
+        "Has start time": [
+            "1514548800"
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [], 
+        "Has description": [
+            "Sharing some results from dissecting and re-implementing a rootkit. Aim was and is to understand the decisions of the orginal authors. Work is based on a re-implementation of a well-known implant. Previous Experience in Reversing Malware strongly recommended. This more looking at the re-implementation together than a workshop."
+        ], 
+        "Has session type": [
+            "Talk"
+        ], 
+        "Has session location": [], 
+        "Has subtitle": [
+            "This driver is not one of ours."
+        ], 
+        "Is organized by": [], 
+        "Has title": [
+            "Experience in dissecting malware"
+        ], 
+        "Has duration": [
+            90
+        ], 
+        "GUID": [
+            "e7ea3871-030c-4138-be40-d0814410a298"
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:Experience_in_dissecting_malware", 
+        "Has end time": [
+            "1514554200"
         ]
     }, 
     "Session:Anarchist hackers - Hispagatos International anarchist-hacker collective# f4e3df0aa42144573fba6a03c70378e1": {
@@ -14861,6 +14900,54 @@
             "1514385000"
         ]
     }, 
+    "Session:WireGuard# 995085d5ca12c85046022d2e9680433d": {
+        "Held in language": [
+            "en - English"
+        ], 
+        "Has start time": [
+            "1514548800"
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [
+            "https://www.wireguard.com/"
+        ], 
+        "Has description": [
+            "WireGuard is a next generation secure network tunnel, which uses state of the art cryptography. This workshop will discuss what WireGuard is, the cryptography behind it, some interesting kernel engineering tricks it uses, and how you too can use it. There will be copious quantities of free stickers. The session will be fairly open and free form. The creator of WireGuard will have an endless quantity of material of his own to present, but more generally, we'll open it up to whatever people want to discuss and collaborate on. If you're interested in kernel programming, networking, cryptography, or security, this is a key workshop to attend."
+        ], 
+        "Has session type": [
+            "Workshop"
+        ], 
+        "Has session location": [
+            {
+                "fulltext": "Room:Seminar room 13", 
+                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Room:Seminar_room_13", 
+                "namespace": 516, 
+                "exists": true
+            }
+        ], 
+        "Has subtitle": [
+            "In-depth (alternate location)"
+        ], 
+        "Is organized by": [], 
+        "Has title": [
+            "WireGuard"
+        ], 
+        "Has duration": [
+            180
+        ], 
+        "GUID": [
+            "dc1ce5c6-2b4a-4a3a-b46d-d14f5fc6b900"
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:WireGuard", 
+        "Has end time": [
+            "1514559600"
+        ]
+    }, 
     "Session:TeaHouse# cf0a2a52d2dce7d7d19bd4d69ba6b5c6": {
         "Held in language": [
             "en - English"
@@ -15540,52 +15627,6 @@
         ], 
         "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:Lainchan_Meetup", 
         "Has end time": []
-    }, 
-    "Session:Experience in dissecting malware# d1f4e97d90cd8aaf9945fd3622cee203": {
-        "Held in language": [
-            "de - German"
-        ], 
-        "Has start time": [
-            "1514548800"
-        ], 
-        "Has event track": [
-            "Session"
-        ], 
-        "Has website": [], 
-        "Has description": [
-            "Sharing some results from dissecting and re-implementing a rootkit. Aim was and is to understand the decisions of the orginal authors. Work is based on a re-implementation of a well-known implant. Previous Experience in Reversing Malware strongly recommended. This more looking at the re-implementation together than a workshop."
-        ], 
-        "Has session type": [
-            "Talk"
-        ], 
-        "Has session location": [
-            {
-                "fulltext": "Room:Seminar room 13", 
-                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Room:Seminar_room_13", 
-                "namespace": 516, 
-                "exists": true
-            }
-        ], 
-        "Has subtitle": [
-            "This driver is not one of ours."
-        ], 
-        "Is organized by": [], 
-        "Has title": [
-            "Experience in dissecting malware"
-        ], 
-        "Has duration": [
-            90
-        ], 
-        "GUID": [
-            "e7ea3871-030c-4138-be40-d0814410a298"
-        ], 
-        "Has color": [
-            "#0099ab"
-        ], 
-        "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:Experience_in_dissecting_malware", 
-        "Has end time": [
-            "1514554200"
-        ]
     }, 
     "Session:Gentoo e.V. Mitgliederversammlung# fabe5a0b145491adb73ce1238b73153d": {
         "Held in language": [
