@@ -2704,7 +2704,9 @@
         ]
     }, 
     "Session:Paper and non-paper libraries exchange# 322ac0705c8c6ea5e33d1694973e0027": {
-        "Held in language": [], 
+        "Held in language": [
+            "en - English"
+        ], 
         "Has start time": [
             "1514498400"
         ], 
@@ -3124,6 +3126,52 @@
         "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:Angel_Meeting", 
         "Has end time": [
             "1514319300"
+        ]
+    }, 
+    "Session:Bisq - A decentralized bitcoin exchange# 79539fb9443520a8d18bbbd61ae8a830": {
+        "Held in language": [
+            "en - English"
+        ], 
+        "Has start time": [
+            "1514484000"
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [
+            "https://bisq.network"
+        ], 
+        "Has description": [
+            "In this talk we'll explore Bisq\u2014a decentralized, peer-to-peer bitcoin exchange that allows people to trade bitcoin for national currencies like US dollars and Euros, as well as for other cryptocurrencies like Litecoin, Monero and Namecoin. Bisq has been in development since early 2014 and in production since mid-2016, with a no-compromises approach to security, privacy and censorship resistance."
+        ], 
+        "Has session type": [
+            "Talk"
+        ], 
+        "Has session location": [
+            {
+                "fulltext": "Room:Chaos West Stage", 
+                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Room:Chaos_West_Stage", 
+                "namespace": 516, 
+                "exists": true
+            }
+        ], 
+        "Has subtitle": [], 
+        "Is organized by": [], 
+        "Has title": [
+            "Bisq - A decentralized bitcoin exchange"
+        ], 
+        "Has duration": [
+            40
+        ], 
+        "GUID": [
+            "fed5994a-26d4-42d7-8b26-895a6397ea86"
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:Bisq_-_A_decentralized_bitcoin_exchange", 
+        "Has end time": [
+            "1514486400"
         ]
     }, 
     "Session:Deanonymization and Author Recognition with Digital Humanities-Tools# 62f7d6c71e3212ba9e5e1279b9a750f4": {
@@ -10956,7 +11004,7 @@
         ], 
         "Has website": [], 
         "Has description": [
-            "#SinsForLife"
+            "#SinsForLife feiert alle S\u00fcnderInnen, die sich mit Akten des Widerstands gegen die herrschende Zust\u00e4nde auflehnen.\nMach mit und besuche uns am 29.12.2017 von 16-22h im BIKINI/Blue Princess von Komona."
         ], 
         "Has session type": [
             "Workshop"
