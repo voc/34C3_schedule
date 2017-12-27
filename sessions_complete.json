@@ -818,7 +818,7 @@
             "https://criticalmass.in/leipzig/2017-12-29"
         ], 
         "Has description": [
-            "Die Critical Mass Leipzig f\u00e4hrt jeden letzten Freitag im Monat auf einer kleinen Tour durch Leipzig. Bring dein Fahrrad mit oder leihe dir ein Nextbike aus und komme um 17 Uhr gemeinsam mit anderen Kongress-Teilnehmern in einer so genannten Mini-Mass zur CM Leipzig. Wir treffen und auf dem neuen Messegel\u00e4nde zwischen dem Haupteingang und dem Messesee."
+            "Be critical, be massy \u2013 #tuwat f\u00fcr den Radverkehr! Die Critical Mass Leipzig f\u00e4hrt jeden letzten Freitag im Monat auf einer kleinen Tour durch Leipzig. Bring dein Fahrrad mit oder leihe dir ein Nextbike aus und komme um 17 Uhr gemeinsam mit anderen Kongress-Teilnehmern in einer so genannten Mini-Mass zur CM Leipzig. Wir treffen und auf dem neuen Messegel\u00e4nde zwischen dem Haupteingang und dem Messesee."
         ], 
         "Has session type": [
             "Outside"
@@ -2576,53 +2576,6 @@
             "1514397600"
         ]
     }, 
-    "Session:Flashing (Fair-)phones with Custom Roms, F-Droid etc.# 4fc895aa5dc72d59c0c1e4f7859cb9b9": {
-        "Held in language": [
-            "en - English"
-        ], 
-        "Has start time": [], 
-        "Has event track": [
-            "Session"
-        ], 
-        "Has website": [], 
-        "Has description": [
-            "A session about ethics and technics on mobile phones, about flashing, modifying and taking back control by using Free Software.\n\nWe like to exchange latest knowledge about freedom on mobile devices and have 4 Fairphones 2 to hack and dissamble. Also bring your own device to showcase."
-        ], 
-        "Has session type": [
-            "Hands-On"
-        ], 
-        "Has session location": [
-            {
-                "fulltext": "Room:Seminar room 14-15", 
-                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Room:Seminar_room_14-15", 
-                "namespace": 516, 
-                "exists": true
-            }
-        ], 
-        "Has subtitle": [], 
-        "Is organized by": [
-            {
-                "fulltext": "User:Eal", 
-                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/User:Eal", 
-                "namespace": 2, 
-                "exists": true
-            }
-        ], 
-        "Has title": [
-            "Flashing (Fair-)phones with Custom Roms, F-Droid etc."
-        ], 
-        "Has duration": [
-            90
-        ], 
-        "GUID": [
-            "3fb92ba5-8a34-4596-94c7-7961c73d06e9"
-        ], 
-        "Has color": [
-            "#0099ab"
-        ], 
-        "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:Flashing_(Fair-)phones_with_Custom_Roms,_F-Droid_etc.", 
-        "Has end time": []
-    }, 
     "Session:Rights&Freedoms# fad59535ab20a100c6f2fee90ad83afd": {
         "Held in language": [
             "de - German", 
@@ -2768,6 +2721,59 @@
         "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:Rights%26Freedoms", 
         "Has end time": [
             "1514386800"
+        ]
+    }, 
+    "Session:TeaHouse# d08e0b1a6cff1eb1863d3340ae8f6a88": {
+        "Held in language": [
+            "en - English"
+        ], 
+        "Has start time": [
+            "1514476800"
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [
+            "https://teahouse.homecomputing.fr/"
+        ], 
+        "Has description": [], 
+        "Has session type": [
+            "Meeting"
+        ], 
+        "Has session location": [
+            {
+                "fulltext": "Assembly:TeaHouse", 
+                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Assembly:TeaHouse", 
+                "namespace": 504, 
+                "exists": true
+            }
+        ], 
+        "Has subtitle": [
+            "Let's talk about practicalities of internet censorship circumvention"
+        ], 
+        "Is organized by": [
+            {
+                "fulltext": "User:Sanpi", 
+                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/User:Sanpi", 
+                "namespace": 2, 
+                "exists": true
+            }
+        ], 
+        "Has title": [
+            "TeaHouse"
+        ], 
+        "Has duration": [
+            60
+        ], 
+        "GUID": [
+            "68c26941-115f-4ada-8ed5-d0e4217680cf"
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:TeaHouse", 
+        "Has end time": [
+            "1514480400"
         ]
     }, 
     "Session:Request a query# fd2fb859f3118190c0e813bb33d26137": {
@@ -3635,50 +3641,6 @@
             "1514644200"
         ]
     }, 
-    "Session:Translation Team# df5b7726546959f736beec38d2fc1c6d": {
-        "Held in language": [
-            "en - English"
-        ], 
-        "Has start time": [
-            "1514568600"
-        ], 
-        "Has event track": [
-            "Session"
-        ], 
-        "Has website": [], 
-        "Has description": [
-            "Daily orga meeting of the Translation Angel crew."
-        ], 
-        "Has session type": [
-            "Meeting"
-        ], 
-        "Has session location": [
-            {
-                "fulltext": "Room:Seminar room 14-15", 
-                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Room:Seminar_room_14-15", 
-                "namespace": 516, 
-                "exists": true
-            }
-        ], 
-        "Has subtitle": [
-            "Translation Angel Meeting Day 3"
-        ], 
-        "Is organized by": [], 
-        "Has title": [
-            "Translation Team"
-        ], 
-        "Has duration": [
-            60
-        ], 
-        "GUID": [], 
-        "Has color": [
-            "#0099ab"
-        ], 
-        "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:Translation_Team", 
-        "Has end time": [
-            "1514572200"
-        ]
-    }, 
     "Session:D Town, Christopher: Eigenes HackLab bauen!# b68fd9cc434114bcf9eb06cd008ffe4a": {
         "Held in language": [
             "en - English"
@@ -4342,6 +4304,57 @@
             "1514478600"
         ]
     }, 
+    "Session:Flashing (Fair-)phones with Custom Roms, F-Droid etc.# 2b3e9ff1600494fdd2b6b7eec0e96a9d": {
+        "Held in language": [
+            "en - English"
+        ], 
+        "Has start time": [
+            "1514493900"
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [], 
+        "Has description": [
+            "A session about ethics and technics on mobile phones, about flashing, modifying and taking back control by using Free Software.\n\nWe like to exchange latest knowledge about freedom on mobile devices and have 4 Fairphones 2 to hack and dissamble. Also bring your own device to showcase."
+        ], 
+        "Has session type": [
+            "Hands-On"
+        ], 
+        "Has session location": [
+            {
+                "fulltext": "Room:Esszimmer", 
+                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Room:Esszimmer", 
+                "namespace": 516, 
+                "exists": true
+            }
+        ], 
+        "Has subtitle": [], 
+        "Is organized by": [
+            {
+                "fulltext": "User:Eal", 
+                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/User:Eal", 
+                "namespace": 2, 
+                "exists": true
+            }
+        ], 
+        "Has title": [
+            "Flashing (Fair-)phones with Custom Roms, F-Droid etc."
+        ], 
+        "Has duration": [
+            105
+        ], 
+        "GUID": [
+            "3fb92ba5-8a34-4596-94c7-7961c73d06e9"
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:Flashing_(Fair-)phones_with_Custom_Roms,_F-Droid_etc.", 
+        "Has end time": [
+            "1514500200"
+        ]
+    }, 
     "Session:Social Networking, powered by FreeSoftware# 3a7b94553b175a14b4972bc46cc19662": {
         "Held in language": [
             "en - English"
@@ -4593,60 +4606,6 @@
         "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:Smart_Cities_-_reality_or_fata_morgana_%3F", 
         "Has end time": [
             "1514570400"
-        ]
-    }, 
-    "Session:Hessentrojaner Meetup# 633a78ebe0699f4dcdaad66afc0861f5": {
-        "Held in language": [
-            "de - German", 
-            "en - English"
-        ], 
-        "Has start time": [
-            "1514482200"
-        ], 
-        "Has event track": [
-            "Session"
-        ], 
-        "Has website": [
-            "http://www.hessentrojaner.de"
-        ], 
-        "Has description": [
-            "Lasst uns \u00fcber den geplanten Staatstrojaner f\u00fcr den Verfassungsschutz in Hessen sprechen (www.hessentrojaner.de). Wir wollen ein wenig auf die bisherigen Geschehnisse zur\u00fcckblicken und nat\u00fcrlich auch \u00fcber das weitere Vorgehen reden. Nat\u00fcrlich freuen wir uns auch \u00fcber Besucher aus anderen Bundesl\u00e4ndern (insb. aus NRW ;))."
-        ], 
-        "Has session type": [
-            "Meeting"
-        ], 
-        "Has session location": [
-            {
-                "fulltext": "Room:Seminar room 14-15", 
-                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Room:Seminar_room_14-15", 
-                "namespace": 516, 
-                "exists": true
-            }
-        ], 
-        "Has subtitle": [], 
-        "Is organized by": [
-            {
-                "fulltext": "User:Fluxx", 
-                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/User:Fluxx", 
-                "namespace": 2, 
-                "exists": true
-            }
-        ], 
-        "Has title": [
-            "Hessentrojaner Meetup"
-        ], 
-        "Has duration": [
-            30
-        ], 
-        "GUID": [
-            "01f41bb9-3dac-4445-baa1-89a4def018d8"
-        ], 
-        "Has color": [
-            "#0099ab"
-        ], 
-        "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:Hessentrojaner_Meetup", 
-        "Has end time": [
-            "1514484000"
         ]
     }, 
     "Projects:LEAP# 41e50b94c1743da465d162c1fbc3852a": {
@@ -5224,9 +5183,11 @@
         "Has event track": [
             "Session"
         ], 
-        "Has website": [], 
+        "Has website": [
+            "http://replicant.us"
+        ], 
         "Has description": [
-            "Replicant is a 100% Free Software operating system for mobile devices. We are two hackers that help you to choose freedom and run your phone with Replicant!"
+            "You use your smartphone more than any other computer in your posession? You wonder if you are in control over your device and your data? Is it the manufacturer, the networt carrier, the OS developer, or the app developers? \n\nIn this workshop we will shine some light into these questions. We will give you advise how to choose freedom and start to take back control over your mobile devices by installing Replicant. Replicant is a truly freedom and privacy-respecting OS based on Android. \n\nYou will learn how to install Replicant on variety compatible Android devices (replicant.us/supported-devices.php). You can ask questions and can also participate with your own devices. We will provide a number of compatible devices to experiment with."
         ], 
         "Has session type": [
             "Hands-On"
@@ -5277,57 +5238,57 @@
             "1514566800"
         ]
     }, 
-    "Session:Synth Jam# b73868b40e4a2105c4e336834ed29be3": {
+    "Session:TeaHouse# a62fd00a53302f612de2e67050bef83b": {
         "Held in language": [
             "en - English"
         ], 
         "Has start time": [
-            "1514498400"
+            "1514557800"
         ], 
         "Has event track": [
             "Session"
         ], 
-        "Has website": [], 
-        "Has description": [
-            "Let's bring some synths and jam!"
+        "Has website": [
+            "https://teahouse.homecomputing.fr/"
         ], 
+        "Has description": [], 
         "Has session type": [
-            "Hands-On"
+            "Meeting"
         ], 
         "Has session location": [
             {
-                "fulltext": "Assembly:HardwareHackingArea", 
-                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Assembly:HardwareHackingArea", 
+                "fulltext": "Assembly:TeaHouse", 
+                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Assembly:TeaHouse", 
                 "namespace": 504, 
                 "exists": true
             }
         ], 
         "Has subtitle": [
-            "this might still change..."
+            "Fuck Off Google! \"Google campus\" out of Kreuzberg"
         ], 
         "Is organized by": [
             {
-                "fulltext": "User:Tiefpunkt", 
-                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/User:Tiefpunkt", 
+                "fulltext": "User:Sanpi", 
+                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/User:Sanpi", 
                 "namespace": 2, 
                 "exists": true
             }
         ], 
         "Has title": [
-            "Synth Jam"
+            "TeaHouse"
         ], 
         "Has duration": [
             60
         ], 
         "GUID": [
-            "2e7b8f5d-ee65-47a6-bb39-03275dcebe92"
+            "622c5770-b9fc-45ef-b9fc-1533f661e3ec"
         ], 
         "Has color": [
             "#0099ab"
         ], 
-        "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:Synth_Jam", 
+        "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:TeaHouse", 
         "Has end time": [
-            "1514502000"
+            "1514561400"
         ]
     }, 
     "Session:ArduinoForTotalNewbies# 6ae5b686924eb6485d48a3973f59860f": {
@@ -5642,58 +5603,48 @@
             "1514487600"
         ]
     }, 
-    "Session:Klangteppich# d1dea7333031fefef980bb345616eca6": {
+    "Session:Translation Team# df5b7726546959f736beec38d2fc1c6d": {
         "Held in language": [
-            "de - German", 
             "en - English"
         ], 
         "Has start time": [
-            "1514413800"
+            "1514568600"
         ], 
         "Has event track": [
             "Session"
         ], 
         "Has website": [], 
         "Has description": [
-            "Come over and meet us at our cozy music lounge in hall 2! Proudly presented by Chaos West"
+            "Daily orga meeting of the Translation Angel crew."
         ], 
         "Has session type": [
-            "Other"
+            "Meeting"
         ], 
         "Has session location": [
             {
-                "fulltext": "Room:Chaos West Stage", 
-                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Room:Chaos_West_Stage", 
+                "fulltext": "Room:Seminar room 14-15", 
+                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Room:Seminar_room_14-15", 
                 "namespace": 516, 
                 "exists": true
             }
         ], 
         "Has subtitle": [
-            "voxel.blue DJ set psychill/chillgressive"
+            "Translation Angel Meeting Day 3"
         ], 
-        "Is organized by": [
-            {
-                "fulltext": "User:Bam", 
-                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/User:Bam", 
-                "namespace": 2, 
-                "exists": true
-            }
-        ], 
+        "Is organized by": [], 
         "Has title": [
-            "Klangteppich"
+            "Translation Team"
         ], 
         "Has duration": [
-            90
+            60
         ], 
-        "GUID": [
-            "dd39558b-0b24-4b27-9e1f-4b76d52cb1a8"
-        ], 
+        "GUID": [], 
         "Has color": [
             "#0099ab"
         ], 
-        "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:Klangteppich", 
+        "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:Translation_Team", 
         "Has end time": [
-            "1514419200"
+            "1514572200"
         ]
     }, 
     "Session:Rights&Freedoms# 880f8542ef64de6bef5f9004d06b16bc": {
@@ -7619,6 +7570,108 @@
             "1514390400"
         ]
     }, 
+    "Session:Intro to Arduino Shield Soldering and Programing# 216dfe119e1e9d5f34f5441a7332f8ee": {
+        "Held in language": [
+            "en - English"
+        ], 
+        "Has start time": [
+            "1514395800"
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [
+            "http://hammeshacks.com/intro/"
+        ], 
+        "Has description": [
+            "The Intro to Arduino shield is a simple kit which plugs into an Arduino Uno or similar. It includes a button, light sensor (LDR) and red green blue LED. The LED can be controlled as a digitial or an analog output, the button is a digitial input and the sensor is an analog input."
+        ], 
+        "Has session type": [
+            "Workshop"
+        ], 
+        "Has session location": [
+            {
+                "fulltext": "Assembly:HardwareHackingArea", 
+                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Assembly:HardwareHackingArea", 
+                "namespace": 504, 
+                "exists": true
+            }
+        ], 
+        "Has subtitle": [
+            "Day 1"
+        ], 
+        "Is organized by": [
+            {
+                "fulltext": "User:Hammes Hacks", 
+                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/User:Hammes_Hacks", 
+                "namespace": 2, 
+                "exists": true
+            }
+        ], 
+        "Has title": [
+            "Intro to Arduino Shield Soldering and Programing"
+        ], 
+        "Has duration": [
+            150
+        ], 
+        "GUID": [
+            "f5ebebb3-c53e-443e-82ee-080723b1f60e"
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:Intro_to_Arduino_Shield_Soldering_and_Programing", 
+        "Has end time": [
+            "1514404800"
+        ]
+    }, 
+    "Session:Rights&Freedoms# a55c554da5bc0eafa97df4eef6578cda": {
+        "Held in language": [
+            "de - German", 
+            "en - English"
+        ], 
+        "Has start time": [
+            "1514552400"
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [], 
+        "Has description": [
+            "Rights & Freedoms Cluster Stage Programme"
+        ], 
+        "Has session type": [
+            "Talk"
+        ], 
+        "Has session location": [
+            {
+                "fulltext": "Room:CCL Hall 3", 
+                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Room:CCL_Hall_3", 
+                "namespace": 516, 
+                "exists": true
+            }
+        ], 
+        "Has subtitle": [
+            "[https://events.ccc.de/congress/2017/wiki/index.php/Session:Information_security_theater_vs._Investigative_journalism Information security theater vs. Investigative journalism (Rysiek, OCCRP)"
+        ], 
+        "Is organized by": [], 
+        "Has title": [
+            "Rights&Freedoms"
+        ], 
+        "Has duration": [
+            60
+        ], 
+        "GUID": [
+            "c682fa8a-045b-4a09-8164-1b33826b8e63"
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:Rights%26Freedoms", 
+        "Has end time": [
+            "1514556000"
+        ]
+    }, 
     "Session:TeaHouse# 0b017eecf65d3b03c95c2e945a79c9a2": {
         "Held in language": [
             "en - English"
@@ -8730,59 +8783,6 @@
         "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:Hilbertspace_Theory_%E2%80%93_Music_Theory%27s_New_Clothes", 
         "Has end time": [
             "1514475000"
-        ]
-    }, 
-    "Session:TeaHouse# 30e2206422188eb511ffe87cbb4b29ed": {
-        "Held in language": [
-            "en - English"
-        ], 
-        "Has start time": [
-            "1514304000"
-        ], 
-        "Has event track": [
-            "Session"
-        ], 
-        "Has website": [
-            "https://teahouse.homecomputing.fr/"
-        ], 
-        "Has description": [], 
-        "Has session type": [
-            "Meeting"
-        ], 
-        "Has session location": [
-            {
-                "fulltext": "Assembly:TeaHouse", 
-                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Assembly:TeaHouse", 
-                "namespace": 504, 
-                "exists": true
-            }
-        ], 
-        "Has subtitle": [
-            "Let's talk about practicalities of internet censorship circumvention"
-        ], 
-        "Is organized by": [
-            {
-                "fulltext": "User:Sanpi", 
-                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/User:Sanpi", 
-                "namespace": 2, 
-                "exists": true
-            }
-        ], 
-        "Has title": [
-            "TeaHouse"
-        ], 
-        "Has duration": [
-            60
-        ], 
-        "GUID": [
-            "68c26941-115f-4ada-8ed5-d0e4217680cf"
-        ], 
-        "Has color": [
-            "#0099ab"
-        ], 
-        "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:TeaHouse", 
-        "Has end time": [
-            "1514307600"
         ]
     }, 
     "Session:SecureDrop# 69b671b72c08c38b86b56562d2772cb3": {
@@ -10793,57 +10793,57 @@
             "1514484000"
         ]
     }, 
-    "Session:TeaHouse# a62fd00a53302f612de2e67050bef83b": {
+    "Session:Synth Jam# b73868b40e4a2105c4e336834ed29be3": {
         "Held in language": [
             "en - English"
         ], 
         "Has start time": [
-            "1514557800"
+            "1514498400"
         ], 
         "Has event track": [
             "Session"
         ], 
-        "Has website": [
-            "https://teahouse.homecomputing.fr/"
+        "Has website": [], 
+        "Has description": [
+            "Let's bring some synths and jam!"
         ], 
-        "Has description": [], 
         "Has session type": [
-            "Meeting"
+            "Hands-On"
         ], 
         "Has session location": [
             {
-                "fulltext": "Assembly:TeaHouse", 
-                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Assembly:TeaHouse", 
+                "fulltext": "Assembly:HardwareHackingArea", 
+                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Assembly:HardwareHackingArea", 
                 "namespace": 504, 
                 "exists": true
             }
         ], 
         "Has subtitle": [
-            "Fuck Off Google! \"Google campus\" out of Kreuzberg"
+            "this might still change..."
         ], 
         "Is organized by": [
             {
-                "fulltext": "User:Sanpi", 
-                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/User:Sanpi", 
+                "fulltext": "User:Tiefpunkt", 
+                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/User:Tiefpunkt", 
                 "namespace": 2, 
                 "exists": true
             }
         ], 
         "Has title": [
-            "TeaHouse"
+            "Synth Jam"
         ], 
         "Has duration": [
             60
         ], 
         "GUID": [
-            "622c5770-b9fc-45ef-b9fc-1533f661e3ec"
+            "2e7b8f5d-ee65-47a6-bb39-03275dcebe92"
         ], 
         "Has color": [
             "#0099ab"
         ], 
-        "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:TeaHouse", 
+        "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:Synth_Jam", 
         "Has end time": [
-            "1514561400"
+            "1514502000"
         ]
     }, 
     "Session:Chaos-Notizen# f90aa84469346a8747b774faaf1509e0": {
@@ -13698,53 +13698,6 @@
         "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:Lehrerstammtisch", 
         "Has end time": [
             "1514408400"
-        ]
-    }, 
-    "Session:Rights&Freedoms# 1d6b496727e339a684f53dfba28b07fd": {
-        "Held in language": [
-            "de - German", 
-            "en - English"
-        ], 
-        "Has start time": [
-            "1514552400"
-        ], 
-        "Has event track": [
-            "Session"
-        ], 
-        "Has website": [], 
-        "Has description": [
-            "Rights & Freedoms Cluster Stage Programme"
-        ], 
-        "Has session type": [
-            "Talk"
-        ], 
-        "Has session location": [
-            {
-                "fulltext": "Room:CCL Hall 3", 
-                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Room:CCL_Hall_3", 
-                "namespace": 516, 
-                "exists": true
-            }
-        ], 
-        "Has subtitle": [
-            "Information security theater vs. Investigative journalism (Rysiek, OCCRP)"
-        ], 
-        "Is organized by": [], 
-        "Has title": [
-            "Rights&Freedoms"
-        ], 
-        "Has duration": [
-            60
-        ], 
-        "GUID": [
-            "c682fa8a-045b-4a09-8164-1b33826b8e63"
-        ], 
-        "Has color": [
-            "#0099ab"
-        ], 
-        "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:Rights%26Freedoms", 
-        "Has end time": [
-            "1514556000"
         ]
     }, 
     "Session:Polyamory - Guide / extended# 244b9bcf6dd5fb6dadea45f9ad4940ad": {
@@ -16823,59 +16776,58 @@
             "1514556000"
         ]
     }, 
-    "Session:Intro to Arduino Shield Soldering and Programing# 216dfe119e1e9d5f34f5441a7332f8ee": {
+    "Session:Hessentrojaner Meetup# 633a78ebe0699f4dcdaad66afc0861f5": {
         "Held in language": [
+            "de - German", 
             "en - English"
         ], 
         "Has start time": [
-            "1514395800"
+            "1514482200"
         ], 
         "Has event track": [
             "Session"
         ], 
         "Has website": [
-            "http://hammeshacks.com/intro/"
+            "http://www.hessentrojaner.de"
         ], 
         "Has description": [
-            "The Intro to Arduino shield is a simple kit which plugs into an Arduino Uno or similar. It includes a button, light sensor (LDR) and red green blue LED. The LED can be controlled as a digitial or an analog output, the button is a digitial input and the sensor is an analog input."
+            "Lasst uns \u00fcber den geplanten Staatstrojaner f\u00fcr den Verfassungsschutz in Hessen sprechen (www.hessentrojaner.de). Wir wollen ein wenig auf die bisherigen Geschehnisse zur\u00fcckblicken und nat\u00fcrlich auch \u00fcber das weitere Vorgehen reden. Nat\u00fcrlich freuen wir uns auch \u00fcber Besucher aus anderen Bundesl\u00e4ndern (insb. aus NRW ;))."
         ], 
         "Has session type": [
-            "Workshop"
+            "Meeting"
         ], 
         "Has session location": [
             {
-                "fulltext": "Assembly:HardwareHackingArea", 
-                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Assembly:HardwareHackingArea", 
-                "namespace": 504, 
+                "fulltext": "Room:Seminar room 14-15", 
+                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Room:Seminar_room_14-15", 
+                "namespace": 516, 
                 "exists": true
             }
         ], 
-        "Has subtitle": [
-            "Day 1"
-        ], 
+        "Has subtitle": [], 
         "Is organized by": [
             {
-                "fulltext": "User:Hammes Hacks", 
-                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/User:Hammes_Hacks", 
+                "fulltext": "User:Fluxx", 
+                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/User:Fluxx", 
                 "namespace": 2, 
                 "exists": true
             }
         ], 
         "Has title": [
-            "Intro to Arduino Shield Soldering and Programing"
+            "Hessentrojaner Meetup"
         ], 
         "Has duration": [
-            150
+            30
         ], 
         "GUID": [
-            "f5ebebb3-c53e-443e-82ee-080723b1f60e"
+            "01f41bb9-3dac-4445-baa1-89a4def018d8"
         ], 
         "Has color": [
             "#0099ab"
         ], 
-        "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:Intro_to_Arduino_Shield_Soldering_and_Programing", 
+        "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:Hessentrojaner_Meetup", 
         "Has end time": [
-            "1514404800"
+            "1514484000"
         ]
     }, 
     "Session:MASKIERTE GRUPPENDYNAMIK (Henk)# 7cb07c12459e8a2ae4ec16da6ebe09af": {
@@ -18487,7 +18439,7 @@
         ], 
         "Has website": [], 
         "Has description": [
-            "Banning strong cryptography or rolling out pervasive network surveillance are \njust some of many policy ideas proposed or instituted not only in oppressive \nregimes, but also in stable democracies. Tools developed by three-letter-\nagencies end up in the hands of oppressive regimes, and 0-day hoarding creates \na market for exploits, which puts journalists and their sources in danger.\n\nArguing against these very often proves difficult, as it is usually anchored \nin democratic principles and philosophical arguments -- something we all \nunderstand, but which is also much less concrete and easy to grasp than the \nterrorist threat du jour, so vividly exemplifying the purported need for the \nproposed measures.\n\nHaving been involved in such policy discussions for many years, and having \nbeen working daily with journalists around the globe, I'd like to talk about \nvery concrete examples of *why* the democratic principles are in place, and \noffer concrete arguments to all policy hackers out there who need them to fend \noff the current flavor of information security theater measures."
+            "Banning strong cryptography or rolling out pervasive network surveillance are just some of many policy ideas proposed or instituted not only in oppressive regimes, but also in stable democracies. Tools developed by three-letter-agencies end up in the hands of oppressive regimes, and 0-day hoarding creates a market for exploits, which puts journalists and their sources in danger.\n\nArguing against these very often proves difficult, as it is usually anchored in democratic principles and philosophical arguments -- something we all understand, but which is also much less concrete and easy to grasp than the terrorist threat du jour, so vividly exemplifying the purported need for the proposed measures.\n\nHaving been involved in such policy discussions for many years, and having been working daily with journalists around the globe, I'd like to talk about very concrete examples of *why* the democratic principles are in place, and offer concrete arguments to all policy hackers out there who need them to fend off the current flavor of information security theater measures."
         ], 
         "Has session type": [
             "Talk"
