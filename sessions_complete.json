@@ -321,6 +321,61 @@
             "1514590200"
         ]
     }, 
+    "Session:Scalable and privacy-respectful distributed systems# 36b006e5cda02bb13640c0a9bb6d8063": {
+        "Held in language": [
+            "en - English"
+        ], 
+        "Has start time": [
+            "1514412000"
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [
+            "http://secushare.cheettyiapsyciew.onion"
+        ], 
+        "Has description": [
+            "We tried to make federation scale. We failed.\nWe realized that cloud computing cannot be beaten by federated networks.\nLet's scale up distributed systems while maintaining metadata protection and privacy."
+        ], 
+        "Has session type": [
+            "Talk"
+        ], 
+        "Has session location": [
+            {
+                "fulltext": "Room:Chaos West Stage", 
+                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Room:Chaos_West_Stage", 
+                "namespace": 516, 
+                "exists": true
+            }
+        ], 
+        "Has subtitle": [
+            "Our chance to avoid cloud computing?"
+        ], 
+        "Is organized by": [
+            {
+                "fulltext": "User:LynX", 
+                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/User:LynX", 
+                "namespace": 2, 
+                "exists": true
+            }
+        ], 
+        "Has title": [
+            "Scalable and privacy-respectful distributed systems"
+        ], 
+        "Has duration": [
+            45
+        ], 
+        "GUID": [
+            "9b58c10d-8973-438f-ae19-50dde6321b5e"
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:Scalable_and_privacy-respectful_distributed_systems", 
+        "Has end time": [
+            "1514414700"
+        ]
+    }, 
     "Session:Usertesting TALEnet# edd7937f9237678afcc9eec3ba7d8fdb": {
         "Held in language": [
             "en - English"
@@ -2589,67 +2644,6 @@
         "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:Request_a_query", 
         "Has end time": [
             "1514396700"
-        ]
-    }, 
-    "Session:Privacy-Oriented Distributed Networking for an Ethical Internet# 51f81fc4a01fce5eeb93bcaeb48a1582": {
-        "Held in language": [
-            "en - English"
-        ], 
-        "Has start time": [
-            "1514401200"
-        ], 
-        "Has event track": [
-            "Session"
-        ], 
-        "Has website": [
-            "https://gnunet.org"
-        ], 
-        "Has description": [
-            "How can distributed systems be the decentralized alternative we have been hoping for? And why are blockchains only one out of fifty building blocks of a distributed Internet?"
-        ], 
-        "Has session type": [
-            "Talk"
-        ], 
-        "Has session location": [
-            {
-                "fulltext": "Room:Chaos West Stage", 
-                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Room:Chaos_West_Stage", 
-                "namespace": 516, 
-                "exists": true
-            }
-        ], 
-        "Has subtitle": [
-            "including 50 subsystems of GNUnet"
-        ], 
-        "Is organized by": [
-            {
-                "fulltext": "User:LynX", 
-                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/User:LynX", 
-                "namespace": 2, 
-                "exists": true
-            }, 
-            {
-                "fulltext": "User:Grothoff", 
-                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/User:Grothoff", 
-                "namespace": 2, 
-                "exists": false
-            }
-        ], 
-        "Has title": [
-            "Privacy-Oriented Distributed Networking for an Ethical Internet"
-        ], 
-        "Has duration": [
-            60
-        ], 
-        "GUID": [
-            "eaad2e23-34f6-4711-8d68-6d497eea064b"
-        ], 
-        "Has color": [
-            "#0099ab"
-        ], 
-        "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:Privacy-Oriented_Distributed_Networking_for_an_Ethical_Internet", 
-        "Has end time": [
-            "1514404800"
         ]
     }, 
     "Session:Chaos macht Schule L\u00f6tworkshop# 4fba0b7dc820b254ecd18c2d50c75481": {
@@ -9237,7 +9231,9 @@
             "Session"
         ], 
         "Has website": [], 
-        "Has description": [], 
+        "Has description": [
+            "Wikidata is an open source knowledge base where volunteers from all around the world add and structure data to describe our complex reality, based on sources, just as Wikipedia. Discover how Wikidata works, how you can improve and reuse the data, how the community works and which tools they use."
+        ], 
         "Has session type": [], 
         "Has session location": [
             {
@@ -11477,61 +11473,6 @@
         "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:Letter_writing_to_prisoners,_sitting_in_jail_for_hacking", 
         "Has end time": [
             "1514551500"
-        ]
-    }, 
-    "Session:Scalable and privacy-respectful distributed systems# 6034ce249558ad752250108efce92467": {
-        "Held in language": [
-            "en - English"
-        ], 
-        "Has start time": [
-            "1514397600"
-        ], 
-        "Has event track": [
-            "Session"
-        ], 
-        "Has website": [
-            "http://secushare.cheettyiapsyciew.onion"
-        ], 
-        "Has description": [
-            "We tried to make federation scale. We failed.\nWe realized that cloud computing cannot be beaten by federated networks.\nLet's scale up distributed systems while maintaining metadata protection and privacy."
-        ], 
-        "Has session type": [
-            "Talk"
-        ], 
-        "Has session location": [
-            {
-                "fulltext": "Room:Chaos West Stage", 
-                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Room:Chaos_West_Stage", 
-                "namespace": 516, 
-                "exists": true
-            }
-        ], 
-        "Has subtitle": [
-            "Our chance to avoid cloud computing?"
-        ], 
-        "Is organized by": [
-            {
-                "fulltext": "User:LynX", 
-                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/User:LynX", 
-                "namespace": 2, 
-                "exists": true
-            }
-        ], 
-        "Has title": [
-            "Scalable and privacy-respectful distributed systems"
-        ], 
-        "Has duration": [
-            45
-        ], 
-        "GUID": [
-            "9b58c10d-8973-438f-ae19-50dde6321b5e"
-        ], 
-        "Has color": [
-            "#0099ab"
-        ], 
-        "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:Scalable_and_privacy-respectful_distributed_systems", 
-        "Has end time": [
-            "1514400300"
         ]
     }, 
     "Session:Open Source DJing# 06d147bb5730e3e2f8f3ee4459d594ce": {
@@ -15572,6 +15513,50 @@
             "1514391600"
         ]
     }, 
+    "Session:SINS for LIFE# ebb398bf860652e53ea2a2286db90119": {
+        "Held in language": [], 
+        "Has start time": [
+            "1514563200"
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [
+            "https://twitter.com/SinsForLife"
+        ], 
+        "Has description": [], 
+        "Has session type": [
+            "Hands-On"
+        ], 
+        "Has session location": [
+            {
+                "fulltext": "Room:Komona Blue Princess", 
+                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Room:Komona_Blue_Princess", 
+                "namespace": 516, 
+                "exists": true
+            }
+        ], 
+        "Has subtitle": [
+            "#SinsForLife"
+        ], 
+        "Is organized by": [], 
+        "Has title": [
+            "SINS for LIFE"
+        ], 
+        "Has duration": [
+            360
+        ], 
+        "GUID": [
+            "85c61d7b-9a09-4a90-bae4-6959586f5744"
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:SINS_for_LIFE", 
+        "Has end time": [
+            "1514584800"
+        ]
+    }, 
     "Session:Lainchan Meetup# 662e9a9620ba88db76469bba5e2c3bd3": {
         "Held in language": [
             "en - English"
@@ -15768,7 +15753,9 @@
             "Session"
         ], 
         "Has website": [], 
-        "Has description": [], 
+        "Has description": [
+            "Wikidata is an open source knowledge base where volunteers from all around the world add and structure data to describe our complex reality, based on sources, just as Wikipedia. Discover how Wikidata works, how you can improve and reuse the data, how the community works and which tools they use."
+        ], 
         "Has session type": [], 
         "Has session location": [
             {
@@ -16367,6 +16354,67 @@
         "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:How_to_deal_with_the_law,_anarchist_perspective", 
         "Has end time": [
             "1514558700"
+        ]
+    }, 
+    "Session:Privacy-Oriented Distributed Networking for an Ethical Internet# 0c6e359c008e813a143a01bea6cf583a": {
+        "Held in language": [
+            "en - English"
+        ], 
+        "Has start time": [
+            "1514408400"
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [
+            "https://gnunet.org"
+        ], 
+        "Has description": [
+            "How can distributed systems be the decentralized alternative we have been hoping for? And why are blockchains only one out of fifty building blocks of a distributed Internet?"
+        ], 
+        "Has session type": [
+            "Talk"
+        ], 
+        "Has session location": [
+            {
+                "fulltext": "Room:Chaos West Stage", 
+                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Room:Chaos_West_Stage", 
+                "namespace": 516, 
+                "exists": true
+            }
+        ], 
+        "Has subtitle": [
+            "including 50 subsystems of GNUnet"
+        ], 
+        "Is organized by": [
+            {
+                "fulltext": "User:LynX", 
+                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/User:LynX", 
+                "namespace": 2, 
+                "exists": true
+            }, 
+            {
+                "fulltext": "User:Grothoff", 
+                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/User:Grothoff", 
+                "namespace": 2, 
+                "exists": false
+            }
+        ], 
+        "Has title": [
+            "Privacy-Oriented Distributed Networking for an Ethical Internet"
+        ], 
+        "Has duration": [
+            60
+        ], 
+        "GUID": [
+            "eaad2e23-34f6-4711-8d68-6d497eea064b"
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:Privacy-Oriented_Distributed_Networking_for_an_Ethical_Internet", 
+        "Has end time": [
+            "1514412000"
         ]
     }, 
     "Session:SinsForHumanity# c7221d80efe632afa4a2eaf7bba31565": {
