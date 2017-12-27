@@ -12481,6 +12481,57 @@
             "1514606400"
         ]
     }, 
+    "Session:Datenschleuder# 9b9ea288ec118c7276f4d424dae62be4": {
+        "Held in language": [
+            "de - German"
+        ], 
+        "Has start time": [
+            "1514556000"
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [], 
+        "Has description": [
+            "Just a short recap of the status of the current Datenschleuder"
+        ], 
+        "Has session type": [
+            "Workshop"
+        ], 
+        "Has session location": [
+            {
+                "fulltext": "Room:CCL Hall 3", 
+                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Room:CCL_Hall_3", 
+                "namespace": 516, 
+                "exists": true
+            }
+        ], 
+        "Has subtitle": [], 
+        "Is organized by": [
+            {
+                "fulltext": "User:Rincewind", 
+                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/User:Rincewind", 
+                "namespace": 2, 
+                "exists": true
+            }
+        ], 
+        "Has title": [
+            "Datenschleuder"
+        ], 
+        "Has duration": [
+            60
+        ], 
+        "GUID": [
+            "641387a5-0069-4f00-a6e9-847055d77328"
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:Datenschleuder", 
+        "Has end time": [
+            "1514559600"
+        ]
+    }, 
     "Session:LearnToSolder# c7632129e25e12e1d275256f608ee1ba": {
         "Held in language": [
             "en - English"
@@ -13153,45 +13204,6 @@
         "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:Klangteppich", 
         "Has end time": [
             "1514599200"
-        ]
-    }, 
-    "Session:Experience in dissecting malware# 3ca77b7b03ceec4a759bf0a40bc53197": {
-        "Held in language": [
-            "de - German"
-        ], 
-        "Has start time": [
-            "1514548800"
-        ], 
-        "Has event track": [
-            "Session"
-        ], 
-        "Has website": [], 
-        "Has description": [
-            "Sharing some results from dissecting and re-implementing a rootkit. Aim was and is to understand the decisions of the orginal authors. Work is based on a re-implementation of a well-known implant. Previous Experience in Reversing Malware strongly recommended. This more looking at the re-implementation together than a workshop."
-        ], 
-        "Has session type": [
-            "Talk"
-        ], 
-        "Has session location": [], 
-        "Has subtitle": [
-            "This driver is not one of ours."
-        ], 
-        "Is organized by": [], 
-        "Has title": [
-            "Experience in dissecting malware"
-        ], 
-        "Has duration": [
-            90
-        ], 
-        "GUID": [
-            "e7ea3871-030c-4138-be40-d0814410a298"
-        ], 
-        "Has color": [
-            "#0099ab"
-        ], 
-        "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:Experience_in_dissecting_malware", 
-        "Has end time": [
-            "1514554200"
         ]
     }, 
     "Session:Anarchist hackers - Hispagatos International anarchist-hacker collective# f4e3df0aa42144573fba6a03c70378e1": {
@@ -17118,6 +17130,52 @@
         "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:TeaHouse", 
         "Has end time": [
             "1514566800"
+        ]
+    }, 
+    "Session:Experience in dissecting malware# a9252ecc165d9772dd43beeac152f158": {
+        "Held in language": [
+            "de - German"
+        ], 
+        "Has start time": [
+            "1514584800"
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [], 
+        "Has description": [
+            "Sharing some results from dissecting and re-implementing a rootkit. Aim was and is to understand the decisions of the orginal authors. Work is based on a re-implementation of a well-known implant. Previous Experience in Reversing Malware strongly recommended. This more looking at the re-implementation together than a workshop."
+        ], 
+        "Has session type": [
+            "Talk"
+        ], 
+        "Has session location": [
+            {
+                "fulltext": "Room:Komona D.Ressrosa", 
+                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Room:Komona_D.Ressrosa", 
+                "namespace": 516, 
+                "exists": true
+            }
+        ], 
+        "Has subtitle": [
+            "This driver is not one of ours."
+        ], 
+        "Is organized by": [], 
+        "Has title": [
+            "Experience in dissecting malware"
+        ], 
+        "Has duration": [
+            90
+        ], 
+        "GUID": [
+            "e7ea3871-030c-4138-be40-d0814410a298"
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:Experience_in_dissecting_malware", 
+        "Has end time": [
+            "1514590200"
         ]
     }, 
     "Session:TeaHouse# 7693dc19e24497ef3c885347bbef9e3c": {
