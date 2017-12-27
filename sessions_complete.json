@@ -1354,7 +1354,7 @@
             "http://www.cityzenapp.co"
         ], 
         "Has description": [
-            "Navigating our cities using free software community based\nmobile apps in 'private mode' might sound like an easy task in 2017, but\nwith a little research you will be quickly disappointed. There are\nrelated platforms out there, but some of them are lacking good User\nExperience, others are not community lead or are getting away from the\nfree software freedoms due to their partnerships with companies that do\nnot respect our privacy online. These are only some of the reasons the\nCityZen app was born in Tirana, as an OSM based Android app that helps\nus navigate our cities without tracking our location and activities.\nCityZen aims to be empowered by the community in terms of development\nand promotion and as a digital wallet for cryptocurrency used to make\npayments for goods and services from POIs easily through the app. Soon\nCityZen will apply blockchain as a decentralized process for the\nmanagement of the cryptocoin based revenue that will be gathered through\nthe app making it one of the few platforms out there used to help you\nfind physical POIs and buy goods without giving away your real identity.*"
+            "*** ATTENTION: TALK IS CANCELLED ***\nNavigating our cities using free software community based\nmobile apps in 'private mode' might sound like an easy task in 2017, but\nwith a little research you will be quickly disappointed. There are\nrelated platforms out there, but some of them are lacking good User\nExperience, others are not community lead or are getting away from the\nfree software freedoms due to their partnerships with companies that do\nnot respect our privacy online. These are only some of the reasons the\nCityZen app was born in Tirana, as an OSM based Android app that helps\nus navigate our cities without tracking our location and activities.\nCityZen aims to be empowered by the community in terms of development\nand promotion and as a digital wallet for cryptocurrency used to make\npayments for goods and services from POIs easily through the app. Soon\nCityZen will apply blockchain as a decentralized process for the\nmanagement of the cryptocoin based revenue that will be gathered through\nthe app making it one of the few platforms out there used to help you\nfind physical POIs and buy goods without giving away your real identity.*"
         ], 
         "Has session type": [
             "Talk"
@@ -5243,57 +5243,57 @@
             "1514566800"
         ]
     }, 
-    "Session:Synth Jam# b73868b40e4a2105c4e336834ed29be3": {
+    "Session:TeaHouse# a62fd00a53302f612de2e67050bef83b": {
         "Held in language": [
             "en - English"
         ], 
         "Has start time": [
-            "1514498400"
+            "1514557800"
         ], 
         "Has event track": [
             "Session"
         ], 
-        "Has website": [], 
-        "Has description": [
-            "Let's bring some synths and jam!"
+        "Has website": [
+            "https://teahouse.homecomputing.fr/"
         ], 
+        "Has description": [], 
         "Has session type": [
-            "Hands-On"
+            "Meeting"
         ], 
         "Has session location": [
             {
-                "fulltext": "Assembly:HardwareHackingArea", 
-                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Assembly:HardwareHackingArea", 
+                "fulltext": "Assembly:TeaHouse", 
+                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Assembly:TeaHouse", 
                 "namespace": 504, 
                 "exists": true
             }
         ], 
         "Has subtitle": [
-            "this might still change..."
+            "Fuck Off Google! \"Google campus\" out of Kreuzberg"
         ], 
         "Is organized by": [
             {
-                "fulltext": "User:Tiefpunkt", 
-                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/User:Tiefpunkt", 
+                "fulltext": "User:Sanpi", 
+                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/User:Sanpi", 
                 "namespace": 2, 
                 "exists": true
             }
         ], 
         "Has title": [
-            "Synth Jam"
+            "TeaHouse"
         ], 
         "Has duration": [
             60
         ], 
         "GUID": [
-            "2e7b8f5d-ee65-47a6-bb39-03275dcebe92"
+            "622c5770-b9fc-45ef-b9fc-1533f661e3ec"
         ], 
         "Has color": [
             "#0099ab"
         ], 
-        "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:Synth_Jam", 
+        "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:TeaHouse", 
         "Has end time": [
-            "1514502000"
+            "1514561400"
         ]
     }, 
     "Session:ArduinoForTotalNewbies# 6ae5b686924eb6485d48a3973f59860f": {
@@ -5915,37 +5915,6 @@
             "#0099ab"
         ], 
         "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:Daygame_-_meeting_girls_(and_boys)_in_daily_situations", 
-        "Has end time": []
-    }, 
-    "Session:Revolutionizing Large-scale Digital Activism with Barrett Brown's Pursuance Project# a068ff238d02d372288859c0aa77d1c8": {
-        "Held in language": [
-            "en - English"
-        ], 
-        "Has start time": [], 
-        "Has event track": [
-            "Session"
-        ], 
-        "Has website": [
-            "http://PursuanceProject.org"
-        ], 
-        "Has description": [], 
-        "Has session type": [
-            "Talk"
-        ], 
-        "Has session location": [], 
-        "Has subtitle": [], 
-        "Is organized by": [], 
-        "Has title": [
-            "Revolutionizing Large-scale Digital Activism with Barrett Brown's Pursuance Project"
-        ], 
-        "Has duration": [], 
-        "GUID": [
-            "559f5019-001e-4cad-b294-ddde04d7a856"
-        ], 
-        "Has color": [
-            "#0099ab"
-        ], 
-        "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:Revolutionizing_Large-scale_Digital_Activism_with_Barrett_Brown%27s_Pursuance_Project", 
         "Has end time": []
     }, 
     "Session:Rights&Freedoms# 8db1bab3530a0086571410c4c3c1c599": {
@@ -7800,9 +7769,12 @@
         "Has event track": [
             "Session"
         ], 
-        "Has website": [], 
+        "Has website": [
+            "https://query.wikidata.org", 
+            "https://tinyurl.com/wdqs-34c3-1"
+        ], 
         "Has description": [
-            "Discover the powerful query tool of Wikidata! With a few lines of SPARQL, you can browse any information contained in Wikidata, create wonderful list such as the list of inventors killed by their own inventions, or the list of the biggest cities having female mayors. Build maps, graphs, and other datavisualizations based on open knowledge.\nhttps://query.wikidata.org/"
+            "Discover the powerful query tool of Wikidata! With a few lines of SPARQL, you can browse any information contained in Wikidata, create wonderful list such as the list of inventors killed by their own inventions, or the list of the biggest cities having female mayors. Build maps, graphs, and other datavisualizations based on open knowledge."
         ], 
         "Has session type": [
             "Workshop"
@@ -8086,52 +8058,57 @@
             "1514476800"
         ]
     }, 
-    "Session:Letter writing to prisoners, sitting in jail for hacking# 8141aeca2f43dc74ddfbbaede7bdfb78": {
+    "Session:TeaHouse# 3fa552470c953db85366ba85338756db": {
         "Held in language": [
             "en - English"
         ], 
         "Has start time": [
-            "1514462400"
+            "1514390400"
         ], 
         "Has event track": [
             "Session"
         ], 
         "Has website": [
-            "http://abcdd.org"
+            "https://teahouse.homecomputing.fr/"
         ], 
-        "Has description": [
-            "Hacktivism from time to time leads to imprisonment and repressions. There are several people right now siting in jail that consider themselves anarchist or did actions that are supported by anarchist community. Not to let those people alone in prison we would like to have every day 1 hour around the table, where we get to know the stories of imprisoned activists and write them some words of support with postcards/letters.  You don't need any special skills for that. The postcards will be there for you."
-        ], 
+        "Has description": [], 
         "Has session type": [
-            "Workshop"
+            "Meeting"
         ], 
         "Has session location": [
             {
-                "fulltext": "Room:Komona Coral Reef", 
-                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Room:Komona_Coral_Reef", 
-                "namespace": 516, 
+                "fulltext": "Assembly:TeaHouse", 
+                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Assembly:TeaHouse", 
+                "namespace": 504, 
                 "exists": true
             }
         ], 
         "Has subtitle": [
-            "Day 2"
+            "Hackerfleet Operating System"
         ], 
-        "Is organized by": [], 
+        "Is organized by": [
+            {
+                "fulltext": "User:Sanpi", 
+                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/User:Sanpi", 
+                "namespace": 2, 
+                "exists": true
+            }
+        ], 
         "Has title": [
-            "Letter writing to prisoners, sitting in jail for hacking"
+            "TeaHouse"
         ], 
         "Has duration": [
             45
         ], 
         "GUID": [
-            "78b6af67-7c9d-460a-ac37-0428a4178e00"
+            "0684a69d-9796-4946-9955-84cfafe8cb64"
         ], 
         "Has color": [
             "#0099ab"
         ], 
-        "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:Letter_writing_to_prisoners,_sitting_in_jail_for_hacking", 
+        "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:TeaHouse", 
         "Has end time": [
-            "1514465100"
+            "1514393100"
         ]
     }, 
     "Session:Rights&Freedoms# eac828011898d00dd4a025fb4783aec2": {
@@ -10706,57 +10683,57 @@
             "1514484000"
         ]
     }, 
-    "Session:TeaHouse# a62fd00a53302f612de2e67050bef83b": {
+    "Session:Synth Jam# b73868b40e4a2105c4e336834ed29be3": {
         "Held in language": [
             "en - English"
         ], 
         "Has start time": [
-            "1514557800"
+            "1514498400"
         ], 
         "Has event track": [
             "Session"
         ], 
-        "Has website": [
-            "https://teahouse.homecomputing.fr/"
+        "Has website": [], 
+        "Has description": [
+            "Let's bring some synths and jam!"
         ], 
-        "Has description": [], 
         "Has session type": [
-            "Meeting"
+            "Hands-On"
         ], 
         "Has session location": [
             {
-                "fulltext": "Assembly:TeaHouse", 
-                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Assembly:TeaHouse", 
+                "fulltext": "Assembly:HardwareHackingArea", 
+                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Assembly:HardwareHackingArea", 
                 "namespace": 504, 
                 "exists": true
             }
         ], 
         "Has subtitle": [
-            "Fuck Off Google! \"Google campus\" out of Kreuzberg"
+            "this might still change..."
         ], 
         "Is organized by": [
             {
-                "fulltext": "User:Sanpi", 
-                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/User:Sanpi", 
+                "fulltext": "User:Tiefpunkt", 
+                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/User:Tiefpunkt", 
                 "namespace": 2, 
                 "exists": true
             }
         ], 
         "Has title": [
-            "TeaHouse"
+            "Synth Jam"
         ], 
         "Has duration": [
             60
         ], 
         "GUID": [
-            "622c5770-b9fc-45ef-b9fc-1533f661e3ec"
+            "2e7b8f5d-ee65-47a6-bb39-03275dcebe92"
         ], 
         "Has color": [
             "#0099ab"
         ], 
-        "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:TeaHouse", 
+        "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:Synth_Jam", 
         "Has end time": [
-            "1514561400"
+            "1514502000"
         ]
     }, 
     "Session:Chaos-Notizen# f90aa84469346a8747b774faaf1509e0": {
@@ -11133,6 +11110,52 @@
         ], 
         "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:Hear_What_You_Like_to_Hear", 
         "Has end time": []
+    }, 
+    "Session:Revolutionizing Large-scale Digital Activism with Barrett Brown's Pursuance Project# 97ce1ebdb5aaffda403be8e162d3eceb": {
+        "Held in language": [
+            "en - English"
+        ], 
+        "Has start time": [
+            "1514545200"
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [
+            "https://PursuanceProject.org"
+        ], 
+        "Has description": [], 
+        "Has session type": [
+            "Talk"
+        ], 
+        "Has session location": [
+            {
+                "fulltext": "Assembly:Hive", 
+                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Assembly:Hive", 
+                "namespace": 504, 
+                "exists": true
+            }
+        ], 
+        "Has subtitle": [
+            "The vision and master plan"
+        ], 
+        "Is organized by": [], 
+        "Has title": [
+            "Revolutionizing Large-scale Digital Activism with Barrett Brown's Pursuance Project"
+        ], 
+        "Has duration": [
+            60
+        ], 
+        "GUID": [
+            "559f5019-001e-4cad-b294-ddde04d7a856"
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:Revolutionizing_Large-scale_Digital_Activism_with_Barrett_Brown%27s_Pursuance_Project", 
+        "Has end time": [
+            "1514548800"
+        ]
     }, 
     "Session:Mietsh\u00e4usersyndikat was ist das?# 6e24fb2d386c015174232a15d414d17d": {
         "Held in language": [], 
@@ -14815,9 +14838,12 @@
         "Has event track": [
             "Session"
         ], 
-        "Has website": [], 
+        "Has website": [
+            "https://query.wikidata.org", 
+            "https://tinyurl.com/wdqs-34c3-1"
+        ], 
         "Has description": [
-            "Discover the powerful query tool of Wikidata! With a few lines of SPARQL, you can browse any information contained in Wikidata, create wonderful list such as the list of inventors killed by their own inventions, or the list of the biggest cities having female mayors. Build maps, graphs, and other datavisualizations based on open knowledge.\nhttps://query.wikidata.org/"
+            "Discover the powerful query tool of Wikidata! With a few lines of SPARQL, you can browse any information contained in Wikidata, create wonderful list such as the list of inventors killed by their own inventions, or the list of the biggest cities having female mayors. Build maps, graphs, and other datavisualizations based on open knowledge."
         ], 
         "Has session type": [
             "Workshop"
@@ -17410,57 +17436,52 @@
             "1514412000"
         ]
     }, 
-    "Session:TeaHouse# 3fa552470c953db85366ba85338756db": {
+    "Session:Letter writing to prisoners, sitting in jail for hacking# 8141aeca2f43dc74ddfbbaede7bdfb78": {
         "Held in language": [
             "en - English"
         ], 
         "Has start time": [
-            "1514390400"
+            "1514462400"
         ], 
         "Has event track": [
             "Session"
         ], 
         "Has website": [
-            "https://teahouse.homecomputing.fr/"
+            "http://abcdd.org"
         ], 
-        "Has description": [], 
+        "Has description": [
+            "Hacktivism from time to time leads to imprisonment and repressions. There are several people right now siting in jail that consider themselves anarchist or did actions that are supported by anarchist community. Not to let those people alone in prison we would like to have every day 1 hour around the table, where we get to know the stories of imprisoned activists and write them some words of support with postcards/letters.  You don't need any special skills for that. The postcards will be there for you."
+        ], 
         "Has session type": [
-            "Meeting"
+            "Workshop"
         ], 
         "Has session location": [
             {
-                "fulltext": "Assembly:TeaHouse", 
-                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Assembly:TeaHouse", 
-                "namespace": 504, 
+                "fulltext": "Room:Komona Coral Reef", 
+                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Room:Komona_Coral_Reef", 
+                "namespace": 516, 
                 "exists": true
             }
         ], 
         "Has subtitle": [
-            "Hackerfleet Operating System"
+            "Day 2"
         ], 
-        "Is organized by": [
-            {
-                "fulltext": "User:Sanpi", 
-                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/User:Sanpi", 
-                "namespace": 2, 
-                "exists": true
-            }
-        ], 
+        "Is organized by": [], 
         "Has title": [
-            "TeaHouse"
+            "Letter writing to prisoners, sitting in jail for hacking"
         ], 
         "Has duration": [
             45
         ], 
         "GUID": [
-            "0684a69d-9796-4946-9955-84cfafe8cb64"
+            "78b6af67-7c9d-460a-ac37-0428a4178e00"
         ], 
         "Has color": [
             "#0099ab"
         ], 
-        "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:TeaHouse", 
+        "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:Letter_writing_to_prisoners,_sitting_in_jail_for_hacking", 
         "Has end time": [
-            "1514393100"
+            "1514465100"
         ]
     }, 
     "Session:NixOS Meetup# e0c4091ecbe066a2b3029a7a57010caf": {
