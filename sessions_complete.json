@@ -1,4 +1,51 @@
 {
+    "Session:Lehrerstammtisch VR# 8148e82733b1a7a7bf77c6523e43ce1f": {
+        "Held in language": [
+            "de - German"
+        ], 
+        "Has start time": [
+            "1514577600"
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [], 
+        "Has description": [
+            "Is virtual reality the future of education? Come and find out! (Session is for Teachers/Educators)"
+        ], 
+        "Has session type": [
+            "Hands-On"
+        ], 
+        "Has session location": [
+            {
+                "fulltext": "Assembly:VR", 
+                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Assembly:VR", 
+                "namespace": 504, 
+                "exists": true
+            }
+        ], 
+        "Has subtitle": [], 
+        "Is organized by": [
+            {
+                "fulltext": "User:Gigo", 
+                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/User:Gigo", 
+                "namespace": 2, 
+                "exists": true
+            }
+        ], 
+        "Has title": [
+            "Lehrerstammtisch VR"
+        ], 
+        "Has duration": [], 
+        "GUID": [
+            "0b3eea51-3657-46d5-84b0-1f2fa0cf45b1"
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:Lehrerstammtisch_VR", 
+        "Has end time": []
+    }, 
     "Session:QRNG - More Random than Pinkie Pie# ff0e20fd9463f98c98de4f176bef083d": {
         "Held in language": [
             "de - German"
@@ -5099,57 +5146,57 @@
             "1514566800"
         ]
     }, 
-    "Session:Synth Jam# b73868b40e4a2105c4e336834ed29be3": {
+    "Session:TeaHouse# a62fd00a53302f612de2e67050bef83b": {
         "Held in language": [
             "en - English"
         ], 
         "Has start time": [
-            "1514498400"
+            "1514557800"
         ], 
         "Has event track": [
             "Session"
         ], 
-        "Has website": [], 
-        "Has description": [
-            "Let's bring some synths and jam!"
+        "Has website": [
+            "https://teahouse.homecomputing.fr/"
         ], 
+        "Has description": [], 
         "Has session type": [
-            "Hands-On"
+            "Meeting"
         ], 
         "Has session location": [
             {
-                "fulltext": "Assembly:HardwareHackingArea", 
-                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Assembly:HardwareHackingArea", 
+                "fulltext": "Assembly:TeaHouse", 
+                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Assembly:TeaHouse", 
                 "namespace": 504, 
                 "exists": true
             }
         ], 
         "Has subtitle": [
-            "this might still change..."
+            "Fuck Off Google! \"Google campus\" out of Kreuzberg"
         ], 
         "Is organized by": [
             {
-                "fulltext": "User:Tiefpunkt", 
-                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/User:Tiefpunkt", 
+                "fulltext": "User:Sanpi", 
+                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/User:Sanpi", 
                 "namespace": 2, 
                 "exists": true
             }
         ], 
         "Has title": [
-            "Synth Jam"
+            "TeaHouse"
         ], 
         "Has duration": [
             60
         ], 
         "GUID": [
-            "2e7b8f5d-ee65-47a6-bb39-03275dcebe92"
+            "622c5770-b9fc-45ef-b9fc-1533f661e3ec"
         ], 
         "Has color": [
             "#0099ab"
         ], 
-        "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:Synth_Jam", 
+        "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:TeaHouse", 
         "Has end time": [
-            "1514502000"
+            "1514561400"
         ]
     }, 
     "Session:ArduinoForTotalNewbies# 6ae5b686924eb6485d48a3973f59860f": {
@@ -5725,6 +5772,50 @@
         ], 
         "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:Daygame_-_meeting_girls_(and_boys)_in_daily_situations", 
         "Has end time": []
+    }, 
+    "Session:Hauptsache laut!# 57f1de8e2f2f596fb0c0fced6d0cfa01": {
+        "Held in language": [
+            "de - German"
+        ], 
+        "Has start time": [
+            "1514412000"
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [], 
+        "Has description": [
+            "Tontechnik f\u00fcr blutige Anf\u00e4nger - wie man bei einem Konzert laut macht, einen Podcast aufnimmt, und was es mit diesen DACs und ganzen lustigen Steckern auf sich hat. Offen f\u00fcr viele Fragen, Inhalt richtet nach den Zuh\u00f6rern!"
+        ], 
+        "Has session type": [
+            "Workshop"
+        ], 
+        "Has session location": [
+            {
+                "fulltext": "Room:Komona D.Ressrosa", 
+                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Room:Komona_D.Ressrosa", 
+                "namespace": 516, 
+                "exists": true
+            }
+        ], 
+        "Has subtitle": [], 
+        "Is organized by": [], 
+        "Has title": [
+            "Hauptsache laut!"
+        ], 
+        "Has duration": [
+            60
+        ], 
+        "GUID": [
+            "0024656e-5c20-4a14-b173-e97b77ec0b2e"
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:Hauptsache_laut!", 
+        "Has end time": [
+            "1514415600"
+        ]
     }, 
     "Session:Trickmisch# 83d3b7f23b17e9adae0af60941eabe94": {
         "Held in language": [
@@ -10146,57 +10237,57 @@
             "1514484000"
         ]
     }, 
-    "Session:TeaHouse# a62fd00a53302f612de2e67050bef83b": {
+    "Session:Synth Jam# b73868b40e4a2105c4e336834ed29be3": {
         "Held in language": [
             "en - English"
         ], 
         "Has start time": [
-            "1514557800"
+            "1514498400"
         ], 
         "Has event track": [
             "Session"
         ], 
-        "Has website": [
-            "https://teahouse.homecomputing.fr/"
+        "Has website": [], 
+        "Has description": [
+            "Let's bring some synths and jam!"
         ], 
-        "Has description": [], 
         "Has session type": [
-            "Meeting"
+            "Hands-On"
         ], 
         "Has session location": [
             {
-                "fulltext": "Assembly:TeaHouse", 
-                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Assembly:TeaHouse", 
+                "fulltext": "Assembly:HardwareHackingArea", 
+                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Assembly:HardwareHackingArea", 
                 "namespace": 504, 
                 "exists": true
             }
         ], 
         "Has subtitle": [
-            "Fuck Off Google! \"Google campus\" out of Kreuzberg"
+            "this might still change..."
         ], 
         "Is organized by": [
             {
-                "fulltext": "User:Sanpi", 
-                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/User:Sanpi", 
+                "fulltext": "User:Tiefpunkt", 
+                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/User:Tiefpunkt", 
                 "namespace": 2, 
                 "exists": true
             }
         ], 
         "Has title": [
-            "TeaHouse"
+            "Synth Jam"
         ], 
         "Has duration": [
             60
         ], 
         "GUID": [
-            "622c5770-b9fc-45ef-b9fc-1533f661e3ec"
+            "2e7b8f5d-ee65-47a6-bb39-03275dcebe92"
         ], 
         "Has color": [
             "#0099ab"
         ], 
-        "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:TeaHouse", 
+        "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:Synth_Jam", 
         "Has end time": [
-            "1514561400"
+            "1514502000"
         ]
     }, 
     "Session:Chaos-Notizen# f90aa84469346a8747b774faaf1509e0": {
@@ -16056,50 +16147,6 @@
         "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:VoidLinux_User_Meetup", 
         "Has end time": [
             "1514493000"
-        ]
-    }, 
-    "Session:Hauptsache laut!# 6564ee4348bb3ef83dc548355ec4061e": {
-        "Held in language": [
-            "de - German"
-        ], 
-        "Has start time": [
-            "1514412000"
-        ], 
-        "Has event track": [
-            "Session"
-        ], 
-        "Has website": [], 
-        "Has description": [
-            "Tontechnik f\u00fcr blutige Anf\u00e4nger - wie man bei einem Konzert laut macht, einen Podcast aufnimmt, und was es mit diesen DACs und ganzen lustigen Steckern auf sich hat. Offen f\u00fcr viele Fragen, Inhalt richtet nach den Zuh\u00f6rern!"
-        ], 
-        "Has session type": [
-            "Workshop"
-        ], 
-        "Has session location": [
-            {
-                "fulltext": "Room:Komona D.Ressrosa", 
-                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Room:Komona_D.Ressrosa", 
-                "namespace": 516, 
-                "exists": true
-            }
-        ], 
-        "Has subtitle": [], 
-        "Is organized by": [], 
-        "Has title": [
-            "Hauptsache laut!"
-        ], 
-        "Has duration": [
-            45
-        ], 
-        "GUID": [
-            "0024656e-5c20-4a14-b173-e97b77ec0b2e"
-        ], 
-        "Has color": [
-            "#0099ab"
-        ], 
-        "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:Hauptsache_laut!", 
-        "Has end time": [
-            "1514414700"
         ]
     }, 
     "Session:How to Let's Play# e53bd772eaedb7818b2db7e001fa6580": {
