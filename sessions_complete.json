@@ -2068,6 +2068,50 @@
             "1514483700"
         ]
     }, 
+    "Session:Learning to draw for techies# f40a5846e8066fa7e224eaccc3fa3e99": {
+        "Held in language": [
+            "en - English"
+        ], 
+        "Has start time": [
+            "1514465100"
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [], 
+        "Has description": [
+            "We will learn mental models and techniques that anybody can use to learn how to draw and improve. You will not think of drawing as an entirely abstract, fuzzy process anymore. Also, we are going to draw cute animals."
+        ], 
+        "Has session type": [
+            "Workshop"
+        ], 
+        "Has session location": [
+            {
+                "fulltext": "Room:Komona Coral Reef", 
+                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Room:Komona_Coral_Reef", 
+                "namespace": 516, 
+                "exists": true
+            }
+        ], 
+        "Has subtitle": [], 
+        "Is organized by": [], 
+        "Has title": [
+            "Learning to draw for techies"
+        ], 
+        "Has duration": [
+            75
+        ], 
+        "GUID": [
+            "472d9459-c8f9-4166-9678-cab5305e4eca"
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:Learning_to_draw_for_techies", 
+        "Has end time": [
+            "1514469600"
+        ]
+    }, 
     "Session:Surface mount electronics assembly for terrified beginners# b9662feda3a9298d69da418721273cd7": {
         "Held in language": [
             "en - English"
@@ -3719,9 +3763,15 @@
         "Has event track": [
             "Session"
         ], 
-        "Has website": [], 
-        "Has description": [], 
-        "Has session type": [], 
+        "Has website": [
+            "https://www.wikidata.org/wiki/Wikidata:Data_access"
+        ], 
+        "Has description": [
+            "How does Wikidata work, and how can I access it? \nInternals, Data models, APIs."
+        ], 
+        "Has session type": [
+            "Workshop"
+        ], 
         "Has session location": [
             {
                 "fulltext": "Room:Esszimmer", 
@@ -3733,8 +3783,8 @@
         "Has subtitle": [], 
         "Is organized by": [
             {
-                "fulltext": "User:Daniel", 
-                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/User:Daniel", 
+                "fulltext": "User:Brightbyte", 
+                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/User:Brightbyte", 
                 "namespace": 2, 
                 "exists": false
             }
@@ -10913,6 +10963,52 @@
             "1514575800"
         ]
     }, 
+    "Session:E-activism for NGOs# 616601d28a3d004a5468b515685c2c3e": {
+        "Held in language": [
+            "en - English"
+        ], 
+        "Has start time": [
+            "1514458800"
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [], 
+        "Has description": [
+            "Non-governmental organizations such as Greenpeace, Amnesty International or Peta utilize more or less legal forms of activism for informing the public, influencing policy-makers and gaining visibility. However, NGOs' digital activism, or e-activism, is still in its infancy. In this talk we present examples of e-activism and discuss their risk, impact and techniques. In the second half of the talk the audience is invited to brainstorm and/or propose novel concepts."
+        ], 
+        "Has session type": [
+            "Workshop"
+        ], 
+        "Has session location": [
+            {
+                "fulltext": "Room:Lecture room 11", 
+                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Room:Lecture_room_11", 
+                "namespace": 516, 
+                "exists": true
+            }
+        ], 
+        "Has subtitle": [
+            "Talk + brainstorming"
+        ], 
+        "Is organized by": [], 
+        "Has title": [
+            "E-activism for NGOs"
+        ], 
+        "Has duration": [
+            60
+        ], 
+        "GUID": [
+            "e736e3ad-e708-467e-9e24-5560775f249c"
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:E-activism_for_NGOs", 
+        "Has end time": [
+            "1514462400"
+        ]
+    }, 
     "Session:TALEnet bidirectional QA# 400b48d0ad0404e470c08ea289be4ce2": {
         "Held in language": [
             "en - English"
@@ -11256,6 +11352,50 @@
         "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:RettedeinenNahverkehr", 
         "Has end time": [
             "1514400300"
+        ]
+    }, 
+    "Session:Subtitles-Engelmeeting# 74d29b7a0698e108386090c4188f5011": {
+        "Held in language": [
+            "de - German"
+        ], 
+        "Has start time": [
+            "1514386800"
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [], 
+        "Has description": [
+            "Meeting for new subtitles angels. This is the one you need to be confirmed as a subtitles angel."
+        ], 
+        "Has session type": [
+            "Meeting"
+        ], 
+        "Has session location": [
+            {
+                "fulltext": "Room:Lecture room 12", 
+                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Room:Lecture_room_12", 
+                "namespace": 516, 
+                "exists": true
+            }
+        ], 
+        "Has subtitle": [], 
+        "Is organized by": [], 
+        "Has title": [
+            "Subtitles-Engelmeeting"
+        ], 
+        "Has duration": [
+            30
+        ], 
+        "GUID": [
+            "9ed83d1d-7007-4bb8-9e65-22b1e9abd09b"
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:Subtitles-Engelmeeting", 
+        "Has end time": [
+            "1514388600"
         ]
     }, 
     "Session:Arduino-Workshop# 2fe464e476f593f5b59dc80a7f9085eb": {
@@ -11683,50 +11823,6 @@
         "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:Tor_relays_operators_meetup", 
         "Has end time": [
             "1514405400"
-        ]
-    }, 
-    "Session:Learning to draw for techies# 1b0d5f254b1639f1052f7aed85e465d0": {
-        "Held in language": [
-            "en - English"
-        ], 
-        "Has start time": [
-            "1514462400"
-        ], 
-        "Has event track": [
-            "Session"
-        ], 
-        "Has website": [], 
-        "Has description": [
-            "We will learn mental models and techniques that anybody can use to learn how to draw and improve. You will not think of drawing as an entirely abstract, fuzzy process anymore. Also, we are going to draw cute animals."
-        ], 
-        "Has session type": [
-            "Workshop"
-        ], 
-        "Has session location": [
-            {
-                "fulltext": "Komona Coral Reef", 
-                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Komona_Coral_Reef", 
-                "namespace": 0, 
-                "exists": false
-            }
-        ], 
-        "Has subtitle": [], 
-        "Is organized by": [], 
-        "Has title": [
-            "Learning to draw for techies"
-        ], 
-        "Has duration": [
-            105
-        ], 
-        "GUID": [
-            "472d9459-c8f9-4166-9678-cab5305e4eca"
-        ], 
-        "Has color": [
-            "#0099ab"
-        ], 
-        "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:Learning_to_draw_for_techies", 
-        "Has end time": [
-            "1514468700"
         ]
     }, 
     "Session:Rights&Freedoms# 0ac524fbf26666c2d2eeb13e7cbb6f2a": {
