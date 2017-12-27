@@ -4860,6 +4860,47 @@
             "1514505600"
         ]
     }, 
+    "Session:Blue Hackers# 727051def5d8b1cc0847c0400daed388": {
+        "Held in language": [
+            "de - German", 
+            "en - English"
+        ], 
+        "Has start time": [], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [], 
+        "Has description": [
+            "Even the congress, with it's welcoming atmosphere, can be stressful and sometimes leave some of us in a bad state. Especially if you deal with mental health issues, being in this overwhelming location, far away from your support networks, depression or anxiety can creep up from behind, and bring you down.\n\nThis session is an opportunity to meet with the people who know your struggles, a place to talk openly about how you feel, or just listen to other people. And to know: you are not alone!"
+        ], 
+        "Has session type": [
+            "Meeting"
+        ], 
+        "Has session location": [], 
+        "Has subtitle": [], 
+        "Is organized by": [
+            {
+                "fulltext": "User:Jali", 
+                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/User:Jali", 
+                "namespace": 2, 
+                "exists": true
+            }
+        ], 
+        "Has title": [
+            "Blue Hackers"
+        ], 
+        "Has duration": [
+            60
+        ], 
+        "GUID": [
+            "dbd8699f-4f6b-4d43-9acf-afe6c6a01b6e"
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:Blue_Hackers", 
+        "Has end time": []
+    }, 
     "Session:Sticker meet up# b376af90c0928260c3a85b18cd23c1b7": {
         "Held in language": [
             "de - German", 
@@ -6715,6 +6756,54 @@
         "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:Komona_networking_gathering", 
         "Has end time": [
             "1514505600"
+        ]
+    }, 
+    "Session:WireGuard# b6d9eb42da4130483c4d1384e4df69a3": {
+        "Held in language": [
+            "en - English"
+        ], 
+        "Has start time": [
+            "1514548800"
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [
+            "https://www.wireguard.com/"
+        ], 
+        "Has description": [
+            "WireGuard is a next generation secure network tunnel, which uses state of the art cryptography. This workshop will discuss what WireGuard is, the cryptography behind it, some interesting kernel engineering tricks it uses, and how you too can use it. There will be copious quantities of free stickers. The session will be fairly open and free form. The creator of WireGuard will have an endless quantity of material of his own to present, but more generally, we'll open it up to whatever people want to discuss and collaborate on. If you're interested in kernel programming, networking, cryptography, or security, this is a key workshop to attend."
+        ], 
+        "Has session type": [
+            "Workshop"
+        ], 
+        "Has session location": [
+            {
+                "fulltext": "Room:Seminar room 13", 
+                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Room:Seminar_room_13", 
+                "namespace": 516, 
+                "exists": true
+            }
+        ], 
+        "Has subtitle": [
+            "In-depth"
+        ], 
+        "Is organized by": [], 
+        "Has title": [
+            "WireGuard"
+        ], 
+        "Has duration": [
+            180
+        ], 
+        "GUID": [
+            "dc1ce5c6-2b4a-4a3a-b46d-d14f5fc6b900"
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:WireGuard", 
+        "Has end time": [
+            "1514559600"
         ]
     }, 
     "Session:TeaHouse# 3b9675c6c129f5dd9d1dce92e58818f2": {
@@ -14764,54 +14853,6 @@
             "1514385000"
         ]
     }, 
-    "Session:WireGuard# 995085d5ca12c85046022d2e9680433d": {
-        "Held in language": [
-            "en - English"
-        ], 
-        "Has start time": [
-            "1514548800"
-        ], 
-        "Has event track": [
-            "Session"
-        ], 
-        "Has website": [
-            "https://www.wireguard.com/"
-        ], 
-        "Has description": [
-            "WireGuard is a next generation secure network tunnel, which uses state of the art cryptography. This workshop will discuss what WireGuard is, the cryptography behind it, some interesting kernel engineering tricks it uses, and how you too can use it. There will be copious quantities of free stickers. The session will be fairly open and free form. The creator of WireGuard will have an endless quantity of material of his own to present, but more generally, we'll open it up to whatever people want to discuss and collaborate on. If you're interested in kernel programming, networking, cryptography, or security, this is a key workshop to attend."
-        ], 
-        "Has session type": [
-            "Workshop"
-        ], 
-        "Has session location": [
-            {
-                "fulltext": "Room:Seminar room 13", 
-                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Room:Seminar_room_13", 
-                "namespace": 516, 
-                "exists": true
-            }
-        ], 
-        "Has subtitle": [
-            "In-depth (alternate location)"
-        ], 
-        "Is organized by": [], 
-        "Has title": [
-            "WireGuard"
-        ], 
-        "Has duration": [
-            180
-        ], 
-        "GUID": [
-            "dc1ce5c6-2b4a-4a3a-b46d-d14f5fc6b900"
-        ], 
-        "Has color": [
-            "#0099ab"
-        ], 
-        "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:WireGuard", 
-        "Has end time": [
-            "1514559600"
-        ]
-    }, 
     "Session:TeaHouse# cf0a2a52d2dce7d7d19bd4d69ba6b5c6": {
         "Held in language": [
             "en - English"
@@ -17656,58 +17697,6 @@
         "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:Namecoin_as_a_Decentralized_Alternative_to_Certificate_Authorities_for_TLS", 
         "Has end time": [
             "1514391900"
-        ]
-    }, 
-    "Session:Blue Hackers# 6f2c558d968fb541f28d427db6a363a5": {
-        "Held in language": [
-            "de - German", 
-            "en - English"
-        ], 
-        "Has start time": [
-            "1514556000"
-        ], 
-        "Has event track": [
-            "Session"
-        ], 
-        "Has website": [], 
-        "Has description": [
-            "Even the congress, with it's welcoming atmosphere, can be stressful and sometimes leave some of us in a bad state. Especially if you deal with mental health issues, being in this overwhelming location, far away from your support networks, depression or anxiety can creep up from behind, and bring you down.\n\nThis session is an opportunity to meet with the people who know your struggles, a place to talk openly about how you feel, or just listen to other people. And to know: you are not alone!"
-        ], 
-        "Has session type": [
-            "Meeting"
-        ], 
-        "Has session location": [
-            {
-                "fulltext": "Room:Seminar room 13", 
-                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Room:Seminar_room_13", 
-                "namespace": 516, 
-                "exists": true
-            }
-        ], 
-        "Has subtitle": [], 
-        "Is organized by": [
-            {
-                "fulltext": "User:Jali", 
-                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/User:Jali", 
-                "namespace": 2, 
-                "exists": true
-            }
-        ], 
-        "Has title": [
-            "Blue Hackers"
-        ], 
-        "Has duration": [
-            60
-        ], 
-        "GUID": [
-            "dbd8699f-4f6b-4d43-9acf-afe6c6a01b6e"
-        ], 
-        "Has color": [
-            "#0099ab"
-        ], 
-        "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:Blue_Hackers", 
-        "Has end time": [
-            "1514559600"
         ]
     }, 
     "Session:Alternatives Wirtschaften# 01be2f70fbb44f62c9e2611cd7f40d9e": {
