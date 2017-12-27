@@ -648,7 +648,7 @@
                                 "track": "Hardware & Making", 
                                 "type": "lecture", 
                                 "language": "en", 
-                                "abstract": "Did you ever want to run your own IoT cloud on your IoT devices? Or did you ever wonder what data your vacuum cleaning robot is transmitting to the vendor? Why a vacuum cleaning robot needs tcpdump?\r\nNowadays IoT devices are getting more and more powerful and contain a lot of sensors. As most devices are connected directly to the vendor and transmit all data encrypted to the cloud, this may result in privacy issues. An IoT device with no internet connection lacks numerous features or is even unusable. We want to change that.\r\n\r\nWe show you how to root a Xiaomi vacuum cleaning robot in order to get access to the underlying Linux operating system. Furthermore, we will have a look into the vendors cloud interface and its commands, and will show you how to de-attach the device from the cloud and connect it to your local Smart Home system. Finally, we will demonstrate how to run Smart Home software directly on the vacuum cleaning robot itself.", 
+                                "abstract": "Did you ever want to run your own IoT cloud on your IoT devices? Or did you ever wonder what data your vacuum cleaning robot is transmitting to the vendor? Why a vacuum cleaning robot needs tcpdump?\r\nNowadays IoT devices are getting more and more powerful and contain a lot of sensors. As most devices are connected directly to the vendor and transmit all data encrypted to the cloud, this may result in privacy issues. An IoT device with no internet connection lacks numerous features or is even unusable. We want to change that.\r\n\r\nWe show you how to root a Xiaomi vacuum cleaning robot in order to get access to the underlying Linux operating system, <b>**without opening the device or tampering the warranty seals**</b>. Furthermore, we will have a look into the vendors cloud interface and its commands, and will show you how to de-attach the device from the cloud and connect it to your local Smart Home system. Finally, we will demonstrate how to run Smart Home software directly on the vacuum cleaning robot itself.", 
                                 "description": "We will give you a detailed tour through the hardware and software components of the Xiaomi vacuum robot (generation 1). We will also publish a non-invasive method to get root access to your vacuum robot. \r\n\r\nAfter talking about the rooting procedure, we will discuss the internals of the robot. For example, the robot uses a so called SLAM (Simultaneous Localization and Mapping) system with LIDAR (Light Detection And Ranging) and various other sensors to create maps of your apartment. These maps are used, among other things, to calculate the best cleaning path. We will show you what these maps look like and how they are stored in the robot. At the end, we will discuss which data are created and uploaded to the vendor, and why this may be a big privacy issue. We will also prove why it is a bad idea to leave IoT devices in an unconfigured state.\r\n\r\nWe conclude with an overview of other interesting Smart Home devices from the vendor.", 
                                 "recording_license": "CC BY 4.0", 
                                 "do_not_record": false, 
@@ -1038,7 +1038,12 @@
                                         "public_name": "hanno"
                                     }
                                 ], 
-                                "links": [], 
+                                "links": [
+                                    {
+                                        "url": "https://betterscience.org/archives/9-Science-is-broken-talk-and-background.html", 
+                                        "title": "Linklist with many more resources on the covered topics"
+                                    }
+                                ], 
                                 "attachments": [
                                     {
                                         "url": "/system/event_attachments/attachments/000/003/354/original/scienceisbroken.pdf?1514374689", 
@@ -1173,7 +1178,16 @@
                                     }
                                 ], 
                                 "links": [], 
-                                "attachments": []
+                                "attachments": [
+                                    {
+                                        "url": "/system/event_attachments/attachments/000/003/356/original/34C3_Resources_V1.pdf?1514387456", 
+                                        "title": "Resources from the presentation"
+                                    }, 
+                                    {
+                                        "url": "/attachments/original/missing.png", 
+                                        "title": "file"
+                                    }
+                                ]
                             }, 
                             {
                                 "url": "https://fahrplan.events.ccc.de/congress/2017/Fahrplan/events/8948.html", 
@@ -1208,6 +1222,10 @@
                                     {
                                         "url": "http://www.mindseyebiomedical.com", 
                                         "title": "Mailing List"
+                                    }, 
+                                    {
+                                        "url": "https://docs.google.com/presentation/d/1COPSEObcGmyNp1283b9Jdc6wJNhsoylW487_qU3L-N8/edit?usp=sharing", 
+                                        "title": "Open Biomedical Imaging Talk Slides"
                                     }
                                 ], 
                                 "attachments": []
@@ -1279,7 +1297,7 @@
                                 "room": "Saal Clarke", 
                                 "slug": "34c3-8908-doping_your_fitbit", 
                                 "title": "Doping your Fitbit", 
-                                "subtitle": "On Fitbit Firmware Modifications and Data Extraction", 
+                                "subtitle": "Firmware modifications faking you fitter", 
                                 "track": "Security", 
                                 "type": "lecture", 
                                 "language": "en", 
@@ -1297,8 +1315,22 @@
                                         "public_name": "DanielAW"
                                     }
                                 ], 
-                                "links": [], 
-                                "attachments": []
+                                "links": [
+                                    {
+                                        "url": "https://github.com/seemoo-lab/fitness-app", 
+                                        "title": "fitness-app"
+                                    }, 
+                                    {
+                                        "url": "https://github.com/seemoo-lab/fitness-firmware", 
+                                        "title": "fitness-firmware"
+                                    }
+                                ], 
+                                "attachments": [
+                                    {
+                                        "url": "/system/event_attachments/attachments/000/003/361/original/2017-12-27_fitbit.pdf?1514391559", 
+                                        "title": "Slides"
+                                    }
+                                ]
                             }, 
                             {
                                 "url": "https://fahrplan.events.ccc.de/congress/2017/Fahrplan/events/8974.html", 
@@ -1347,7 +1379,12 @@
                                         "title": "The Panoramix Project website"
                                     }
                                 ], 
-                                "attachments": []
+                                "attachments": [
+                                    {
+                                        "url": "/system/event_attachments/attachments/000/003/355/original/34c4.pdf?1514386906", 
+                                        "title": "slides"
+                                    }
+                                ]
                             }
                         ], 
                         "Saal Dijkstra": [
@@ -1421,14 +1458,14 @@
                                 "url": "https://fahrplan.events.ccc.de/congress/2017/Fahrplan/events/9021.html", 
                                 "id": 9021, 
                                 "guid": "23d59026-ab98-4f6c-a46d-0bb3e1788a67", 
-                                "logo": null, 
+                                "logo": "/system/events/logos/000/009/021/large/download.jpeg?1514390337", 
                                 "date": "2017-12-27T14:00:00+01:00", 
                                 "start": "14:00", 
                                 "duration": "01:00", 
                                 "room": "Saal Dijkstra", 
                                 "slug": "34c3-9021-squeezing_a_key_through_a_carry_bit", 
                                 "title": "Squeezing a key through a carry bit", 
-                                "subtitle": "", 
+                                "subtitle": "No bug is small enough", 
                                 "track": "Security", 
                                 "type": "lecture", 
                                 "language": "en", 
@@ -1443,7 +1480,16 @@
                                     }
                                 ], 
                                 "links": [], 
-                                "attachments": []
+                                "attachments": [
+                                    {
+                                        "url": "/system/event_attachments/attachments/000/003/359/original/Paris256.pdf?1514390210", 
+                                        "title": "Slide deck"
+                                    }, 
+                                    {
+                                        "url": "/system/event_attachments/attachments/000/003/360/original/paris256.mp4?1514390210", 
+                                        "title": "Demo"
+                                    }
+                                ]
                             }, 
                             {
                                 "url": "https://fahrplan.events.ccc.de/congress/2017/Fahrplan/events/9034.html", 
@@ -1574,7 +1620,16 @@
                                         "title": "code"
                                     }
                                 ], 
-                                "attachments": []
+                                "attachments": [
+                                    {
+                                        "url": "/system/event_attachments/attachments/000/003/362/original/slides.pdf?1514391790", 
+                                        "title": "Slides"
+                                    }, 
+                                    {
+                                        "url": "/attachments/original/missing.png", 
+                                        "title": "file"
+                                    }
+                                ]
                             }, 
                             {
                                 "url": "https://fahrplan.events.ccc.de/congress/2017/Fahrplan/events/9040.html", 
@@ -1764,12 +1819,12 @@
                                 "room": "Saal Dijkstra", 
                                 "slug": "34c3-8998-die_gottliche_informatik_the_divine_computer_science", 
                                 "title": "Die g\u00f6ttliche Informatik / The divine Computer Science", 
-                                "subtitle": "Computer science nicely solves formally modelled problems \u2013 now it is believed to solve everything else too / Die Informatik l\u00f6st formale (mathematisch modellierte) Probleme ganz vorz\u00fcglich \u2013 doch nun soll sie alle anderen Probleme auch noch l\u00f6sen", 
+                                "subtitle": "Die Informatik l\u00f6st formale (mathematisch modellierte) Probleme ganz vorz\u00fcglich \u2013 doch nun soll sie alle anderen Probleme auch noch l\u00f6sen / Computer science nicely solves formally modelled problems \u2013 now it is believed to solve everything else too", 
                                 "track": "Ethics, Society & Politics", 
                                 "type": "lecture", 
                                 "language": "de", 
-                                "abstract": "Computer science seems to be the new divine element that can solve climate change, crime, our lack of knowledge about the brain, global terror, urban traffic, our energy issues and world poverty; with blockchain, with artificial intelligence, with the cloud and big data. But to what extent is computer science even able to address such problems of high societal relevance? In this lecture an attempt will be made to reconcile parts of the huge wish list to computer science with its actual current possibilities and to include the economic motivations and conditions.\r\n\r\n<span style=\"color:grey;\">Die Informatik ist scheinbar das neue G\u00f6ttliche, das den Klimawandel, die Kriminalit\u00e4t, unser fehlendes Wissen \u00fcber das Gehirn, den globalen Terror, dichter werdenden Stadtverkehr, die Energieprobleme und die Armut der Welt l\u00f6sen kann; und zwar mit der Blockchain, mit k\u00fcnstlicher Intelligenz, mit der Cloud und mit Big-Data. Doch inwiefern ist die Informatik \u00fcberhaupt in der Lage, derartige Probleme hoher gesellschaftlicher Relevanz anzugehen? In diesem Vortrag soll versucht werden, Teile der riesigen Wunschliste an die Informatik mit ihren tats\u00e4chlichen aktuellen M\u00f6glichkeiten in Einklang zu bringen sowie die \u00f6konomischen Motivationen und Rahmenbedingungen einzubeziehen.</span>", 
-                                "description": "EN (<a href=\"#langderr\">DE below</a>): The well-known computer pioneer and society critic Prof. Dr. Joseph Weizenbaum once said, \"Once upon a time, a problem was presented to the computer after it was understood. Today it's the other way around.\" Reasons for this seem to be an almost magical belief in technology, a strange misunderstanding of the functioning of today's computers, an ever-increasing financial pressure on the public sector and a widespread, technically-reduced \u2013 one could almost say 'cybernetic' \u2013 world view and concept of what's human.\r\n\r\nNot only since Google's artificial intelligence Alpha-Go won against the professional South Korean Go player Lee Sedol many techno-optimists celebrate the inferiority of the human brain. But Sedol metabolized a few cups of coffee for the match whereas Alpha-Go needed the energy of a small town; this shows that the matter is slightly more complicated. Similar misleading inaccuracies can be found regarding the 'famous' secret language of the Facebook bots or regarding the possibilities of \"smart contracts\" in the blockchain. These are examples of how misunderstood computer abilities and faulty ascription prevent a meaningful debate on the benefits of globally networked computer systems.\r\n\r\nHowever, such discussions are by no means purely academic or philosophical; they are socially highly explosive in their effect. As can be seen from the current addoption of Predictive Policing, the belief in the superiority of technology now creates harsh social realities for the affected 'data victims', but no noteworthy positive results for actual public security. The same applies to the automated \"intelligent\" video surveillance systems with behavioral detection \u2013 probably rolled-out nationwide in Germany: the belief in such systems immensely increases the cash influx of manufacturers and suppliers, but at the same time it reduces the freedom of each person in public space. These are the actual effects of an unchallenged 'blind computer optimism' driven by financial motivations which consequently transforms our society.\r\n\r\nFor a Digitalization supporting freedom and social development, expectations of information technology must be readjusted in the context of economic and political power relations.\r\n\r\n\r\n<span style=\"color:grey;\"><strong id=\"langderr\">DE</strong>: Der bekannte Computerpionier und Gesellschaftskritiker Prof. Dr. Joseph Weizenbaum sagte einst sinngem\u00e4\u00df: \u201eFr\u00fcher \u00fcbergab man ein Problem dem Computer, wenn man es verstanden hatte. Heute ist es anders herum\u201c. Gr\u00fcnde daf\u00fcr scheinen eine geradezu magische Technikgl\u00e4ubigkeit, ein merkw\u00fcrdiges Missverst\u00e4ndnis der Funktionsweise heutiger Computer, ein immer gr\u00f6\u00dfer werdender finanzieller Druck auf die \u00f6ffentliche Hand und ein weit verbreitetes, technisch-reduziertes \u2013 man k\u00f6nnte fast sagen 'kybernetisches' \u2013 Welt- und Menschenbild zu sein.\r\n\r\nDa gewinnt Googles k\u00fcnstliche Intelligenz Alpha-Go gegen den professionellen s\u00fcdkoreanischen Go-Spieler Lee Sedol und schon wird der Abgesang auf das menschliche Gehirn angestimmt. Doch dass Sedol f\u00fcr das Match ein paar Tassen Kaffee verstoffwechselte, aber Alpha-Go die Energie einer Kleinstadt, zeigt, dass die Lage geringf\u00fcgig komplizierter ist. \u00c4hnliche fehlleitende Ungenauigkeiten finden sich auch bez\u00fcglich der ber\u00fchmten Geheimsprache der Facebook-Bots bis hin zu den M\u00f6glichkeiten von \u201esmart contracts\u201c in der Blockchain. Dies sind Beispiele, wie missverstandene Computerf\u00e4higkeiten und Fehlzuschreibungen eine tats\u00e4chlich sinnvolle Diskussion \u00fcber den Nutzen weltweit vernetzter Computersysteme verhindern.\r\n\r\nDerartige Diskussionen sich jedoch mitnichten rein akademisch oder philosophisch, sondern in der Wirkung gesellschaftlich hoch brisant. Denn wie an der aktuellen Predictive-Policing-Thematik zu erkennen ist, erzeugt der Glaube an die \u00dcberlegenheit der Technik nunmehr harte soziale Realit\u00e4ten f\u00fcr die betroffenen 'Datenopfer', aber keine nennenswerten positiven Ergebnisse f\u00fcr die Sicherheit. Gleiches gilt f\u00fcr die automatisierte, sogenannte \u201eintelligente\u201c, Video\u00fcberwachung mit Verhaltenserkennung, die perspektivisch fl\u00e4chendeckend in Deutschland angedacht ist: der Glaube an solche Systeme vergr\u00f6\u00dfert zwar immens den Kassenstand der Hersteller und Anbieter, aber verkleinert in gleicher Weise die Freiheit und Freir\u00e4ume eines jeden Menschen im \u00f6ffentlichen Raum. Genau das sind die tats\u00e4chlichen Auswirkungen eines unwidersprochenen, blinden Computeroptimismus', der zudem von finanziellen Motivationen getrieben ist und in der Folge kontinuierlich unsere Gesellschaft umpr\u00e4gt.\r\n\r\nF\u00fcr eine Digitalisierung im Sinne der Freiheit und der gesellschaftlichen Weiterentwicklung m\u00fcssen die Erwartungen an die Informatik folglich neu justiert werden und das im Zusammenhang mit wirtschaftlichen und politischen Machtverh\u00e4ltnissen.</span>", 
+                                "abstract": "Die Informatik ist scheinbar das neue G\u00f6ttliche, das den Klimawandel, die Kriminalit\u00e4t, unser fehlendes Wissen \u00fcber das Gehirn, den globalen Terror, dichter werdenden Stadtverkehr, die Energieprobleme und die Armut der Welt l\u00f6sen kann; und zwar mit der Blockchain, mit k\u00fcnstlicher Intelligenz, mit der Cloud und mit Big-Data. Doch inwiefern ist die Informatik \u00fcberhaupt in der Lage, derartige Probleme hoher gesellschaftlicher Relevanz anzugehen? In diesem Vortrag soll versucht werden, Teile der riesigen Wunschliste an die Informatik mit ihren tats\u00e4chlichen aktuellen M\u00f6glichkeiten in Einklang zu bringen sowie die \u00f6konomischen Motivationen und Rahmenbedingungen einzubeziehen.\r\n\r\n<span style=\"color:grey;\">Computer science seems to be the new divine element that can solve climate change, crime, our lack of knowledge about the brain, global terror, urban traffic, our energy issues and world poverty; with blockchain, with artificial intelligence, with the cloud and big data. But to what extent is computer science even able to address such problems of high societal relevance? In this lecture an attempt will be made to reconcile parts of the huge wish list to computer science with its actual current possibilities and to include the economic motivations and conditions.</span>", 
+                                "description": "<strong>DE</strong> (<a href=\"#langderr\">EN below</a>): Der bekannte Computerpionier und Gesellschaftskritiker Prof. Dr. Joseph Weizenbaum sagte einst sinngem\u00e4\u00df: \u201eFr\u00fcher \u00fcbergab man ein Problem dem Computer, wenn man es verstanden hatte. Heute ist es anders herum\u201c. Gr\u00fcnde daf\u00fcr scheinen eine geradezu magische Technikgl\u00e4ubigkeit, ein merkw\u00fcrdiges Missverst\u00e4ndnis der Funktionsweise heutiger Computer, ein immer gr\u00f6\u00dfer werdender finanzieller Druck auf die \u00f6ffentliche Hand und ein weit verbreitetes, technisch-reduziertes \u2013 man k\u00f6nnte fast sagen 'kybernetisches' \u2013 Welt- und Menschenbild zu sein.\r\n\r\nDa gewinnt Googles k\u00fcnstliche Intelligenz Alpha-Go gegen den professionellen s\u00fcdkoreanischen Go-Spieler Lee Sedol und schon wird der Abgesang auf das menschliche Gehirn angestimmt. Doch dass Sedol f\u00fcr das Match ein paar Tassen Kaffee verstoffwechselte, aber Alpha-Go die Energie einer Kleinstadt, zeigt, dass die Lage geringf\u00fcgig komplizierter ist. \u00c4hnliche fehlleitende Ungenauigkeiten finden sich auch bez\u00fcglich der ber\u00fchmten Geheimsprache der Facebook-Bots bis hin zu den M\u00f6glichkeiten von \u201esmart contracts\u201c in der Blockchain. Dies sind Beispiele, wie missverstandene Computerf\u00e4higkeiten und Fehlzuschreibungen eine tats\u00e4chlich sinnvolle Diskussion \u00fcber den Nutzen weltweit vernetzter Computersysteme verhindern.\r\n\r\nDerartige Diskussionen sind jedoch mitnichten rein akademisch oder philosophisch, sondern in der Wirkung gesellschaftlich hoch brisant. Denn wie an der aktuellen Predictive-Policing-Thematik zu erkennen ist, erzeugt der Glaube an die \u00dcberlegenheit der Technik nunmehr harte soziale Realit\u00e4ten f\u00fcr die betroffenen 'Datenopfer', aber keine nennenswerten positiven Ergebnisse f\u00fcr die Sicherheit. Gleiches gilt f\u00fcr die automatisierte, sogenannte \u201eintelligente\u201c, Video\u00fcberwachung mit Verhaltenserkennung, die perspektivisch fl\u00e4chendeckend in Deutschland angedacht ist: der Glaube an solche Systeme vergr\u00f6\u00dfert zwar immens den Kassenstand der Hersteller und Anbieter, aber verkleinert in gleicher Weise die Freiheit und Freir\u00e4ume eines jeden Menschen im \u00f6ffentlichen Raum. Genau das sind die tats\u00e4chlichen Auswirkungen eines unwidersprochenen, blinden Computeroptimismus', der zudem von finanziellen Motivationen getrieben ist und in der Folge kontinuierlich unsere Gesellschaft umpr\u00e4gt.\r\n\r\nF\u00fcr eine Digitalisierung im Sinne der Freiheit und der gesellschaftlichen Weiterentwicklung m\u00fcssen die Erwartungen an die Informatik folglich neu justiert werden und das im Zusammenhang mit wirtschaftlichen und politischen Machtverh\u00e4ltnissen.\r\n\r\n\r\n<span style=\"color:grey;\"><strong id=\"langderr\">EN</strong>: The well-known computer pioneer and society critic Prof. Dr. Joseph Weizenbaum once said, \"Once upon a time, a problem was presented to the computer after it was understood. Today it's the other way around.\" Reasons for this seem to be an almost magical belief in technology, a strange misunderstanding of the functioning of today's computers, an ever-increasing financial pressure on the public sector and a widespread, technically-reduced \u2013 one could almost say 'cybernetic' \u2013 world view and concept of what's human.\r\n\r\nNot only since Google's artificial intelligence Alpha-Go won against the professional South Korean Go player Lee Sedol many techno-optimists celebrate the inferiority of the human brain. But Sedol metabolized a few cups of coffee for the match whereas Alpha-Go needed the energy of a small town; this shows that the matter is slightly more complicated. Similar misleading inaccuracies can be found regarding the 'famous' secret language of the Facebook bots or regarding the possibilities of \"smart contracts\" in the blockchain. These are examples of how misunderstood computer abilities and faulty ascription prevent a meaningful debate on the benefits of globally networked computer systems.\r\n\r\nHowever, such discussions are by no means purely academic or philosophical; they are socially highly explosive in their effect. As can be seen from the current addoption of Predictive Policing, the belief in the superiority of technology now creates harsh social realities for the affected 'data victims', but no noteworthy positive results for actual public security. The same applies to the automated \"intelligent\" video surveillance systems with behavioral detection \u2013 probably rolled-out nationwide in Germany: the belief in such systems immensely increases the cash influx of manufacturers and suppliers, but at the same time it reduces the freedom of each person in public space. These are the actual effects of an unchallenged 'blind computer optimism' driven by financial motivations which consequently transforms our society.\r\n\r\nFor a Digitalization supporting freedom and social development, expectations of information technology must be readjusted in the context of economic and political power relations.</span>", 
                                 "recording_license": "CC BY 4.0", 
                                 "do_not_record": false, 
                                 "persons": [
@@ -5030,7 +5085,12 @@
                                         "title": "SSS on GitHub"
                                     }
                                 ], 
-                                "attachments": []
+                                "attachments": [
+                                    {
+                                        "url": "/system/event_attachments/attachments/000/003/358/original/sss-34c3.pdf?1514387597", 
+                                        "title": "Daan Sprenkels - We Should Share Our Secrets"
+                                    }
+                                ]
                             }, 
                             {
                                 "url": "https://fahrplan.events.ccc.de/congress/2017/Fahrplan/events/9237.html", 
@@ -9478,7 +9538,7 @@
                                 "persons": [
                                     {
                                         "id": 7798, 
-                                        "public_name": "\u201cNabovarme\u201d - Freetown Christiania\u00b4s digitally controlled/surveyed heating system. 350 users"
+                                        "public_name": "Johannes Valbjorn"
                                     }, 
                                     {
                                         "id": 8031, 
@@ -9563,7 +9623,7 @@
                                 "type": "lecture", 
                                 "language": "en", 
                                 "abstract": "Space Solar Power station, such as SPS Alpha, could overcome some issues that renewable energy plants on Earth suffer of structural basis when challenges such as energy transfer from orbit to Earth are solved. But will this solve the Earth's problems in a peaceful way?", 
-                                "description": "The increasing demand on energy seems to be one of the greatest challenges for modern society. [1,2] Power generation approaches of the 20th century, such as coal, oil, or nuclear plants come with certain issues limiting the scalability and/or questioning even the approach itself since they may harm nature and environment on a longterm time scale. [3]\r\nRenewable energy generated e.g. with solar cells, wind mills, or tidal stations are on the rise but they usually depend to certain locations, weather, storage capabilities, and in some cases even on political climates. [4]\r\nSpace based Solar Power generation [5,6] overcomes some of these issues: solar cells in orbit are independent of atmospheric influences and weather (e.g. clouds), solar harvesting satellites can be placed in orbit so they always face sun and generate power continuously, and there is enough space to scale the plants in order to serve the power demands. Solar power is an infinite power source (at least in the time scale for humanity) \r\nThe bottle neck with this approach, however, is the transfer of the power from orbit to Earth. But if solved, this technology can supply power to locations on Earth, that are remotely located, that lack other power generation capabilities (e.g. due to a natural catastrophe), or that come with varying demands on power consumption. \r\nSome questions still remain: Is it possible to transfer power wireless over such a long distance with a sufficient efficiency? [7] How would that influence life on Earth? And who is in charge of the orbital death laser?!?\r\n\r\n[1] https://data.worldbank.org/indicator/EG.USE.ELEC.KH.PC\r\n[2]https://www.theguardian.com/environment/2017/aug/28/electricity-demand-in-southern-europe-to-soar-with-air-con-say-climate-scientists  (http://www.pnas.org/content/114/38/E7910)\r\n[3] ...\r\n[4] https://unearthed.greenpeace.org/2015/12/23/three-problems-transitioning-renewables-how-to-fix/     \r\n[5] https://en.wikipedia.org/wiki/Space-based_solar_power \r\n[6] https://www.nasa.gov/directorates/spacetech/niac/mankins_sps_alpha.html\r\n[7] https://en.wikipedia.org/wiki/Wireless_power_transfer\r\n", 
+                                "description": "The increasing demand on energy seems to be one of the greatest challenges for modern society. [1,2] Power generation approaches of the 20th century, such as coal, oil, or nuclear plants come with certain issues limiting the scalability and/or questioning even the approach itself since they may harm nature and environment on a longterm time scale. \r\nRenewable energy generated e.g. with solar cells, wind mills, or tidal stations are on the rise but they usually depend to certain locations, weather, storage capabilities, and in some cases even on political climates. [3]\r\nSpace based Solar Power generation [4,5] overcomes some of these issues: solar cells in orbit are independent of atmospheric influences and weather (e.g. clouds), solar harvesting satellites can be placed in orbit so they always face sun and generate power continuously, and there is enough space to scale the plants in order to serve the power demands. Solar power is an infinite power source (at least in the time scale for humanity) \r\nThe bottle neck with this approach, however, is the transfer of the power from orbit to Earth. But if solved, this technology can supply power to locations on Earth, that are remotely located, that lack other power generation capabilities (e.g. due to a natural catastrophe), or that come with varying demands on power consumption. \r\nSome questions still remain: Is it possible to transfer power wireless over such a long distance with a sufficient efficiency? [6] How would that influence life on Earth? And who is in charge of the orbital death laser?!?\r\n\r\n[1] https://data.worldbank.org/indicator/EG.USE.ELEC.KH.PC\r\n[2]https://www.theguardian.com/environment/2017/aug/28/electricity-demand-in-southern-europe-to-soar-with-air-con-say-climate-scientists  (http://www.pnas.org/content/114/38/E7910)\r\n[3] https://unearthed.greenpeace.org/2015/12/23/three-problems-transitioning-renewables-how-to-fix/     \r\n[4] https://en.wikipedia.org/wiki/Space-based_solar_power \r\n[5] https://www.nasa.gov/directorates/spacetech/niac/mankins_sps_alpha.html\r\n[6] https://en.wikipedia.org/wiki/Wireless_power_transfer\r\n\r\n\r\n--------------------------------------\r\nFurther Information on SSP:\r\n-------------------------------------- \r\nGlaser Patent 1973: https://www.google.com/patents/US3781647\r\n\r\nSPS Alpha report 2012: https://www.nasa.gov/directorates/spacetech/niac/mankins_sps_alpha.html\r\n\r\nJAXA approach: https://spectrum.ieee.org/green-tech/solar/how-japan-plans-to-build-an-orbital-solar-farm \r\nJAXA 2004: https://repository.exst.jaxa.jp/dspace/handle/a-is/46691\r\n\r\nCAST MR-SPS 2015: https://spacejournal.ohio.edu/issue18/cast.html\r\n", 
                                 "recording_license": "CC BY 4.0", 
                                 "do_not_record": false, 
                                 "persons": [
@@ -9577,7 +9637,12 @@
                                     }
                                 ], 
                                 "links": [], 
-                                "attachments": []
+                                "attachments": [
+                                    {
+                                        "url": "/system/event_attachments/attachments/000/003/366/original/Mankins2.jpg?1514400919", 
+                                        "title": "SPS Alpha"
+                                    }
+                                ]
                             }, 
                             {
                                 "url": "https://fahrplan.events.ccc.de/congress/2017/Fahrplan/events/8877.html", 
@@ -10528,7 +10593,7 @@
                                 "type": "lecture", 
                                 "language": "en", 
                                 "abstract": "On October 1st the Catalan society held a referendum to decide if they wanted to stay part of the Spanish state or create an independent state. This talk will explain the internet censorship which took place in the weeks before the referendum, on the very same day as well as in the timer after the referendum.", 
-                                "description": "<p>\r\nThe talk will focus on the methods used by the state to carry out the censorship. These included websites informing about the referendum and information about the polling station each citizen had to use. I will describe how the censorship got circumvented and give an insight in the systems developed to facilitate an easy cloning of the information.\r\n</p>\r\n<p>\r\nOn the day of the referendum it was expected that the Spanish police will close down polling stations. Therefor a global census accessible via internet was introduced which allowed the vote at any polling station. I will describe how this global census was organised to block people from voting twice. I will explain in which different ways the census got attacked by the Spanish state. And of course what we can learn from the state censorship to create more resilient infrastructures.\r\n</p>", 
+                                "description": "The talk will focus on the methods used by the state to carry out the censorship. These included websites informing about the referendum and information about the polling station each citizen had to use. I will describe how the censorship got circumvented and give an insight in the systems developed to facilitate an easy cloning of the information.\r\n\r\nOn the day of the referendum it was expected that the Spanish police will close down polling stations. Therefor a global census accessible via internet was introduced which allowed the vote at any polling station. I will describe how this global census was organised to block people from voting twice. I will explain in which different ways the census got attacked by the Spanish state. And of course what we can learn from the state censorship to create more resilient infrastructures.", 
                                 "recording_license": "CC BY 4.0", 
                                 "do_not_record": false, 
                                 "persons": [
@@ -10660,7 +10725,7 @@
                                 "persons": [
                                     {
                                         "id": 83, 
-                                        "public_name": "Muelli"
+                                        "public_name": "Tobias Mueller"
                                     }, 
                                     {
                                         "id": 6853, 
