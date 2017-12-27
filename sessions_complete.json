@@ -8309,59 +8309,51 @@
             "1514573100"
         ]
     }, 
-    "Session:Calliope Workshops# 037b29c84dc3dea52230e42f0221c641": {
+    "Session:Rights&Freedoms# 63915c3785ba01fa2baaa9cb0fe970ad": {
         "Held in language": [
-            "de - German"
+            "de - German", 
+            "en - English"
         ], 
         "Has start time": [
-            "1514466000"
+            "1514563200"
         ], 
         "Has event track": [
             "Session"
         ], 
-        "Has website": [
-            "http://calliope.cc"
-        ], 
+        "Has website": [], 
         "Has description": [
-            "Kinder ab 8 Jahren sind herzlich willkommen ihre ersten Erfahrungen mit dem Programmieren zu machen."
+            "Rights & Freedoms Cluster Stage Programme"
         ], 
         "Has session type": [
-            "Workshop"
+            "Talk"
         ], 
         "Has session location": [
             {
-                "fulltext": "Room:Esszimmer", 
-                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Room:Esszimmer", 
+                "fulltext": "Room:CCL Hall 3", 
+                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Room:CCL_Hall_3", 
                 "namespace": 516, 
                 "exists": true
             }
         ], 
         "Has subtitle": [
-            "Calliope Workshop 2"
+            "[https://events.ccc.de/congress/2017/wiki/index.php/Session:Fixing_mass_surveillance:_one_court_case_at_a_time! Fixing mass surveillance: one court case at a time!] (Exegetes)"
         ], 
-        "Is organized by": [
-            {
-                "fulltext": "User:DerMicha", 
-                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/User:DerMicha", 
-                "namespace": 2, 
-                "exists": true
-            }
-        ], 
+        "Is organized by": [], 
         "Has title": [
-            "Calliope Workshops"
+            "Rights&Freedoms"
         ], 
         "Has duration": [
-            60
+            120
         ], 
         "GUID": [
-            "5ebed7df-9716-4022-bb28-2b747e5cfbf1"
+            "d3a4bc15-b59a-46ee-92ec-bdc95e79f295"
         ], 
         "Has color": [
             "#0099ab"
         ], 
-        "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:Calliope_Workshops", 
+        "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:Rights%26Freedoms", 
         "Has end time": [
-            "1514469600"
+            "1514570400"
         ]
     }, 
     "Session:LearnToSolder# 7052f89f76993ab804a37a55da818529": {
@@ -11487,51 +11479,59 @@
             "1577635200"
         ]
     }, 
-    "Session:Rights&Freedoms# 63915c3785ba01fa2baaa9cb0fe970ad": {
+    "Session:Calliope Workshops# 037b29c84dc3dea52230e42f0221c641": {
         "Held in language": [
-            "de - German", 
-            "en - English"
+            "de - German"
         ], 
         "Has start time": [
-            "1514563200"
+            "1514466000"
         ], 
         "Has event track": [
             "Session"
         ], 
-        "Has website": [], 
+        "Has website": [
+            "http://calliope.cc"
+        ], 
         "Has description": [
-            "Rights & Freedoms Cluster Stage Programme"
+            "Kinder ab 8 Jahren sind herzlich willkommen ihre ersten Erfahrungen mit dem Programmieren zu machen."
         ], 
         "Has session type": [
-            "Talk"
+            "Workshop"
         ], 
         "Has session location": [
             {
-                "fulltext": "Room:CCL Hall 3", 
-                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Room:CCL_Hall_3", 
+                "fulltext": "Room:Esszimmer", 
+                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Room:Esszimmer", 
                 "namespace": 516, 
                 "exists": true
             }
         ], 
         "Has subtitle": [
-            "[https://events.ccc.de/congress/2017/wiki/index.php/Session:Fixing_mass_surveillance:_one_court_case_at_a_time! Fixing mass surveillance: one court case at a time!] (Exegetes)"
+            "Calliope Workshop 2"
         ], 
-        "Is organized by": [], 
+        "Is organized by": [
+            {
+                "fulltext": "User:DerMicha", 
+                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/User:DerMicha", 
+                "namespace": 2, 
+                "exists": true
+            }
+        ], 
         "Has title": [
-            "Rights&Freedoms"
+            "Calliope Workshops"
         ], 
         "Has duration": [
-            120
+            60
         ], 
         "GUID": [
-            "d3a4bc15-b59a-46ee-92ec-bdc95e79f295"
+            "5ebed7df-9716-4022-bb28-2b747e5cfbf1"
         ], 
         "Has color": [
             "#0099ab"
         ], 
-        "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:Rights%26Freedoms", 
+        "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:Calliope_Workshops", 
         "Has end time": [
-            "1514570400"
+            "1514469600"
         ]
     }, 
     "Session:Rights&Freedoms# 630d4dc3b7f7ed98d7ae89b79d7be0e2": {
@@ -13347,6 +13347,60 @@
             "1514574000"
         ]
     }, 
+    "Session:Tell me a story# b50bf887b0a94f4f10b1da67d9b2c767": {
+        "Held in language": [
+            "de - German", 
+            "en - English"
+        ], 
+        "Has start time": [
+            "1514642400"
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [
+            "https://www.fro.at/sendungen/fenstergeschichten/"
+        ], 
+        "Has description": [
+            "it's all about stories and songs. for my show on community radio upper austria, i am looking for people who tell me their favorite random story which is connected to a specific song. i will record it and might use it for my radio show. // any language is welcome :-)"
+        ], 
+        "Has session type": [
+            "Other"
+        ], 
+        "Has session location": [
+            {
+                "fulltext": "Room:Seminar room 14-15", 
+                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Room:Seminar_room_14-15", 
+                "namespace": 516, 
+                "exists": true
+            }
+        ], 
+        "Has subtitle": [], 
+        "Is organized by": [
+            {
+                "fulltext": "User:Astroid", 
+                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/User:Astroid", 
+                "namespace": 2, 
+                "exists": true
+            }
+        ], 
+        "Has title": [
+            "Tell me a story"
+        ], 
+        "Has duration": [
+            60
+        ], 
+        "GUID": [
+            "afd17345-39e2-44ad-b303-a6595f78ac08"
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:Tell_me_a_story", 
+        "Has end time": [
+            "1514646000"
+        ]
+    }, 
     "Session:TeaHouse# 6f1b570a5c0e6471dc60d210b99c5ccf": {
         "Held in language": [
             "en - English"
@@ -13545,6 +13599,54 @@
         "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:Intro_to_Arduino_Shield_Soldering_and_Programing", 
         "Has end time": [
             "1514577600"
+        ]
+    }, 
+    "Session:WireGuard# 7fb8d9983f88fb0735c244bb71138945": {
+        "Held in language": [
+            "en - English"
+        ], 
+        "Has start time": [
+            "1514559600"
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [
+            "https://www.wireguard.com/"
+        ], 
+        "Has description": [
+            "WireGuard is a next generation secure network tunnel, which uses state of the art cryptography. This workshop will discuss what WireGuard is, the cryptography behind it, some interesting kernel engineering tricks it uses, and how you too can use it. There will be copious quantities of free stickers. The session will be fairly open and free form. The creator of WireGuard will have an endless quantity of material of his own to present, but more generally, we'll open it up to whatever people want to discuss and collaborate on. If you're interested in kernel programming, networking, cryptography, or security, this is a key workshop to attend."
+        ], 
+        "Has session type": [
+            "Workshop"
+        ], 
+        "Has session location": [
+            {
+                "fulltext": "Room:Lecture room 11", 
+                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Room:Lecture_room_11", 
+                "namespace": 516, 
+                "exists": true
+            }
+        ], 
+        "Has subtitle": [
+            "Temporary room hold"
+        ], 
+        "Is organized by": [], 
+        "Has title": [
+            "WireGuard"
+        ], 
+        "Has duration": [
+            60
+        ], 
+        "GUID": [
+            "dc1ce5c6-2b4a-4a3a-b46d-d14f5fc6b900"
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:WireGuard", 
+        "Has end time": [
+            "1514563200"
         ]
     }, 
     "Session:Feedback! Marshall McLuhan and the Congress# 979f4a14fdc6441776d85aa9be87f6a7": {
