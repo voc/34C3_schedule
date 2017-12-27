@@ -6066,50 +6066,6 @@
             "1514415600"
         ]
     }, 
-    "Session:Siebdruck# a02e04a30ca551cf6b1ac9f4ce883647": {
-        "Held in language": [], 
-        "Has start time": [
-            "1514552400"
-        ], 
-        "Has event track": [
-            "Session"
-        ], 
-        "Has website": [], 
-        "Has description": [
-            "Bring your own shirt - We bring the rocket \n\nDer @dondario bringt Siebdruck zum @C3Kidspace Rocket Drucken mit. Sagt ihr mal euren Eltern, dass sie euch daf\u00fcr ein T-Shirt, Body oder Strampler einpacken. Alternativ gibt es in der N\u00e4he des #34c3 aber auch Kinder-Klamotten zu kaufen."
-        ], 
-        "Has session type": [
-            "Hands-On"
-        ], 
-        "Has session location": [
-            {
-                "fulltext": "Room:Kidspace", 
-                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Room:Kidspace", 
-                "namespace": 516, 
-                "exists": true
-            }
-        ], 
-        "Has subtitle": [
-            "Siebdruck f\u00fcr Kids"
-        ], 
-        "Is organized by": [], 
-        "Has title": [
-            "Siebdruck"
-        ], 
-        "Has duration": [
-            5
-        ], 
-        "GUID": [
-            "e9d483fc-b4fa-4712-b174-5b58321544cf"
-        ], 
-        "Has color": [
-            "#0099ab"
-        ], 
-        "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:Siebdruck", 
-        "Has end time": [
-            "1514552700"
-        ]
-    }, 
     "Session:Trickmisch# 83d3b7f23b17e9adae0af60941eabe94": {
         "Held in language": [
             "de - German"
@@ -9491,6 +9447,50 @@
         "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:Introduction_to_Wikidata", 
         "Has end time": [
             "1514566200"
+        ]
+    }, 
+    "Session:Mathematicians acting amorally - how they harm society# e952f078be9356bebdd6dae0f865efd5": {
+        "Held in language": [
+            "en - English"
+        ], 
+        "Has start time": [
+            "1514494800"
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [], 
+        "Has description": [
+            "Mathematicians work at the heart of most emerging technologies. Their work is re-shaping the world, and yet they have little knowledge, appreciation or training in ethical awareness."
+        ], 
+        "Has session type": [
+            "Talk"
+        ], 
+        "Has session location": [
+            {
+                "fulltext": "Room:CCL Hall 3", 
+                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Room:CCL_Hall_3", 
+                "namespace": 516, 
+                "exists": true
+            }
+        ], 
+        "Has subtitle": [], 
+        "Is organized by": [], 
+        "Has title": [
+            "Mathematicians acting amorally - how they harm society"
+        ], 
+        "Has duration": [
+            60
+        ], 
+        "GUID": [
+            "fd60fca4-e0d8-4c45-90bd-9435e6a56d5f"
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:Mathematicians_acting_amorally_-_how_they_harm_society", 
+        "Has end time": [
+            "1514498400"
         ]
     }, 
     "Session:How to deal with the law, anarchist perspective# e535cabb8676991930a3f8aa690e52b2": {
@@ -18108,6 +18108,44 @@
         "Has end time": [
             "1514395800"
         ]
+    }, 
+    "Session:Speed Nomic# 594abb8033cc679d26063eb595c2df2a": {
+        "Held in language": [
+            "en - English"
+        ], 
+        "Has start time": [], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [], 
+        "Has description": [
+            "We want to play a quick and fun game of Nomic. Nomic is a game where all the rules of the game can be changed by the players."
+        ], 
+        "Has session type": [
+            "Game"
+        ], 
+        "Has session location": [], 
+        "Has subtitle": [], 
+        "Is organized by": [
+            {
+                "fulltext": "User:MentalShirt", 
+                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/User:MentalShirt", 
+                "namespace": 2, 
+                "exists": true
+            }
+        ], 
+        "Has title": [
+            "Speed Nomic"
+        ], 
+        "Has duration": [], 
+        "GUID": [
+            "02e3087d-1697-4b1a-9c52-b10a3f749a89"
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:Speed_Nomic", 
+        "Has end time": []
     }, 
     "Session:Decentralized Web# 9b32d84f13db85aaa1a4f6d7a5e0cdbb": {
         "Held in language": [
