@@ -321,61 +321,6 @@
             "1514590200"
         ]
     }, 
-    "Session:Calliope Workshops# 6ea8b6b8901ee3089b43aae12c7d56d5": {
-        "Held in language": [
-            "de - German"
-        ], 
-        "Has start time": [
-            "1514462400"
-        ], 
-        "Has event track": [
-            "Session"
-        ], 
-        "Has website": [
-            "http://calliope.cc"
-        ], 
-        "Has description": [
-            "Kinder ab 8 Jahren sind herzlich willkommen ihre ersten Erfahrungen mit dem Programmieren zu machen."
-        ], 
-        "Has session type": [
-            "Workshop"
-        ], 
-        "Has session location": [
-            {
-                "fulltext": "Room:Esszimmer", 
-                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Room:Esszimmer", 
-                "namespace": 516, 
-                "exists": true
-            }
-        ], 
-        "Has subtitle": [
-            "Calliope Workshop 1"
-        ], 
-        "Is organized by": [
-            {
-                "fulltext": "User:DerMicha", 
-                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/User:DerMicha", 
-                "namespace": 2, 
-                "exists": true
-            }
-        ], 
-        "Has title": [
-            "Calliope Workshops"
-        ], 
-        "Has duration": [
-            60
-        ], 
-        "GUID": [
-            "71d30e88-62ae-581d-a215-1775cc78b19f"
-        ], 
-        "Has color": [
-            "#0099ab"
-        ], 
-        "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:Calliope_Workshops", 
-        "Has end time": [
-            "1514466000"
-        ]
-    }, 
     "Session:Usertesting TALEnet# edd7937f9237678afcc9eec3ba7d8fdb": {
         "Held in language": [
             "en - English"
@@ -8012,48 +7957,64 @@
             "1514552400"
         ]
     }, 
-    "Session:DLF# 3ee0951e9129f89b81e13947a6cc6a11": {
+    "Session:Collapsing Cats Towards Infinity# 6a4c170c868a289f6a4eb62b39f0957c": {
         "Held in language": [
-            "de - German"
+            "de - German", 
+            "en - English"
         ], 
         "Has start time": [
-            "1514466000"
+            "1514379600"
         ], 
         "Has event track": [
             "Session"
         ], 
         "Has website": [], 
         "Has description": [
-            "DLF"
+            "Quantum mechanics is a fascinating field of science. That's why we'd like to give you an introduction to the basics and at the same time show you some of the coolest effects that come out of very simple calculations. Feel free to bring lots of questions!"
         ], 
-        "Has session type": [], 
+        "Has session type": [
+            "Talk"
+        ], 
         "Has session location": [
             {
-                "fulltext": "Room:CCL Hall 2", 
-                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Room:CCL_Hall_2", 
-                "namespace": 516, 
+                "fulltext": "Assembly:Physikfachschaft Rostock", 
+                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Assembly:Physikfachschaft_Rostock", 
+                "namespace": 504, 
                 "exists": true
             }
         ], 
         "Has subtitle": [
-            "Interview mit Kathrin Meuthen von deloitte"
+            "Quantum Theory Explained From \u00a60>"
         ], 
-        "Is organized by": [], 
+        "Is organized by": [
+            {
+                "fulltext": "User:KiNaudiz", 
+                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/User:KiNaudiz", 
+                "namespace": 2, 
+                "exists": true
+            }, 
+            {
+                "fulltext": "User:Kaminazuki", 
+                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/User:Kaminazuki", 
+                "namespace": 2, 
+                "exists": true
+            }
+        ], 
         "Has title": [
-            "DLF"
+            "Collapsing Cats Towards Infinity"
         ], 
         "Has duration": [
-            30
+            60
         ], 
         "GUID": [
-            "c722d326-9297-5528-a7dd-6645ead7e8b1"
+            "de4d4c16-635d-447c-a192-e76705d078e0"
         ], 
         "Has color": [
             "#0099ab"
         ], 
-        "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:DLF", 
+        "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:Collapsing_Cats_Towards_Infinity", 
         "Has end time": [
-            "1514467800"
+            "1514383200"
         ]
     }, 
     "Session:Surface mount electronics assembly for terrified beginners# ad2d4bc330a74b93d6809890a817b609": {
@@ -13321,64 +13282,48 @@
             "1514498400"
         ]
     }, 
-    "Session:Collapsing Cats Towards Infinity# 6a4c170c868a289f6a4eb62b39f0957c": {
+    "Session:DLF# 3ee0951e9129f89b81e13947a6cc6a11": {
         "Held in language": [
-            "de - German", 
-            "en - English"
+            "de - German"
         ], 
         "Has start time": [
-            "1514379600"
+            "1514466000"
         ], 
         "Has event track": [
             "Session"
         ], 
         "Has website": [], 
         "Has description": [
-            "Quantum mechanics is a fascinating field of science. That's why we'd like to give you an introduction to the basics and at the same time show you some of the coolest effects that come out of very simple calculations. Feel free to bring lots of questions!"
+            "DLF"
         ], 
-        "Has session type": [
-            "Talk"
-        ], 
+        "Has session type": [], 
         "Has session location": [
             {
-                "fulltext": "Assembly:Physikfachschaft Rostock", 
-                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Assembly:Physikfachschaft_Rostock", 
-                "namespace": 504, 
+                "fulltext": "Room:CCL Hall 2", 
+                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Room:CCL_Hall_2", 
+                "namespace": 516, 
                 "exists": true
             }
         ], 
         "Has subtitle": [
-            "Quantum Theory Explained From \u00a60>"
+            "Interview mit Kathrin Meuthen von deloitte"
         ], 
-        "Is organized by": [
-            {
-                "fulltext": "User:KiNaudiz", 
-                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/User:KiNaudiz", 
-                "namespace": 2, 
-                "exists": true
-            }, 
-            {
-                "fulltext": "User:Kaminazuki", 
-                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/User:Kaminazuki", 
-                "namespace": 2, 
-                "exists": true
-            }
-        ], 
+        "Is organized by": [], 
         "Has title": [
-            "Collapsing Cats Towards Infinity"
+            "DLF"
         ], 
         "Has duration": [
-            60
+            30
         ], 
         "GUID": [
-            "de4d4c16-635d-447c-a192-e76705d078e0"
+            "c722d326-9297-5528-a7dd-6645ead7e8b1"
         ], 
         "Has color": [
             "#0099ab"
         ], 
-        "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:Collapsing_Cats_Towards_Infinity", 
+        "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:DLF", 
         "Has end time": [
-            "1514383200"
+            "1514467800"
         ]
     }, 
     "Session:Gehen drei Wissenschaftler in eine Kneipe# 157d388e68b6991f3ede11bce79201f2": {
@@ -15461,6 +15406,61 @@
         "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:42birds:_Hacker%E2%80%99s_Digest", 
         "Has end time": [
             "1514630700"
+        ]
+    }, 
+    "Session:Calliope Workshops# 84094cc9189aeaa7d0e61a8ec075e78f": {
+        "Held in language": [
+            "de - German"
+        ], 
+        "Has start time": [
+            "1514462400"
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [
+            "http://calliope.cc"
+        ], 
+        "Has description": [
+            "Kinder ab 8 Jahren sind herzlich willkommen ihre ersten Erfahrungen mit dem Programmieren zu machen."
+        ], 
+        "Has session type": [
+            "Workshop"
+        ], 
+        "Has session location": [
+            {
+                "fulltext": "Room:Esszimmer", 
+                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Room:Esszimmer", 
+                "namespace": 516, 
+                "exists": true
+            }
+        ], 
+        "Has subtitle": [
+            "Calliope Workshop 1"
+        ], 
+        "Is organized by": [
+            {
+                "fulltext": "User:DerMicha", 
+                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/User:DerMicha", 
+                "namespace": 2, 
+                "exists": true
+            }
+        ], 
+        "Has title": [
+            "Calliope Workshops"
+        ], 
+        "Has duration": [
+            45
+        ], 
+        "GUID": [
+            "71d30e88-62ae-581d-a215-1775cc78b19f"
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:Calliope_Workshops", 
+        "Has end time": [
+            "1514465100"
         ]
     }, 
     "Session:\"Pen&Paper\" Game Jam# eec53af46aac3187e8d93b805bf562a4": {
