@@ -5025,6 +5025,53 @@
             "1514417400"
         ]
     }, 
+    "Session:Food Hacking: Kombucha is Easy# a15f2e41078134579f127d12fc267c2b": {
+        "Held in language": [
+            "cs - Czech", 
+            "en - English"
+        ], 
+        "Has start time": [
+            "1514556000"
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [
+            "https://foodhackingbase.org/wiki/Kombucha_is_easy_34c3"
+        ], 
+        "Has description": [
+            "You will learn how take care properly about our kombucha culture (mother/SCOBY) brewing lovely beverage of your own so you can continue to do that at home or your local hackerspace."
+        ], 
+        "Has session type": [
+            "Hands-On"
+        ], 
+        "Has session location": [
+            {
+                "fulltext": "Assembly:Foodhackingbase", 
+                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Assembly:Foodhackingbase", 
+                "namespace": 504, 
+                "exists": true
+            }
+        ], 
+        "Has subtitle": [], 
+        "Is organized by": [], 
+        "Has title": [
+            "Food Hacking: Kombucha is Easy"
+        ], 
+        "Has duration": [
+            120
+        ], 
+        "GUID": [
+            "64c63e3f-0999-40ac-b4ec-7caac1c51b1b"
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:Food_Hacking:_Kombucha_is_Easy", 
+        "Has end time": [
+            "1514563200"
+        ]
+    }, 
     "Session:OParl: ein Datenstandard, um politische Entscheidungen transparent zu machen# b8b14d32f01198e29d282a1839ea2082": {
         "Held in language": [
             "de - German"
@@ -14726,6 +14773,57 @@
             "1514653200"
         ]
     }, 
+    "Session:WikiWhat# 72065e862d6137d469de4102972c6278": {
+        "Held in language": [
+            "en - English"
+        ], 
+        "Has start time": [
+            "1514484000"
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [], 
+        "Has description": [
+            "Wikimedia, MediaWiki, Wikipedia, Wikidata... what is what, and why."
+        ], 
+        "Has session type": [
+            "Talk"
+        ], 
+        "Has session location": [
+            {
+                "fulltext": "Room:Hive Stage", 
+                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Room:Hive_Stage", 
+                "namespace": 516, 
+                "exists": true
+            }
+        ], 
+        "Has subtitle": [], 
+        "Is organized by": [
+            {
+                "fulltext": "User:Brightbyte", 
+                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/User:Brightbyte", 
+                "namespace": 2, 
+                "exists": false
+            }
+        ], 
+        "Has title": [
+            "WikiWhat"
+        ], 
+        "Has duration": [
+            45
+        ], 
+        "GUID": [
+            "0d30238d-6ac6-4c17-aa28-23d42dff0508"
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:WikiWhat", 
+        "Has end time": [
+            "1514486700"
+        ]
+    }, 
     "Session:BBS SysOP/User meetup# 37220e0e02ce0612189b22de8d70eb72": {
         "Held in language": [
             "de - German", 
@@ -16601,51 +16699,50 @@
             "1514493000"
         ]
     }, 
-    "Session:Food Hacking: Kombucha is Easy# a15f2e41078134579f127d12fc267c2b": {
+    "Session:Nextcloud End to End Encryption# ef17837d368c058005bb172dce851729": {
         "Held in language": [
-            "cs - Czech", 
             "en - English"
         ], 
         "Has start time": [
-            "1514556000"
+            "1514488500"
         ], 
         "Has event track": [
             "Session"
         ], 
         "Has website": [
-            "https://foodhackingbase.org/wiki/Kombucha_is_easy_34c3"
+            "https://nextcloud.com/endtoend"
         ], 
         "Has description": [
-            "You will learn how take care properly about our kombucha culture (mother/SCOBY) brewing lovely beverage of your own so you can continue to do that at home or your local hackerspace."
+            "Nextcloud 13, about to be released, will include end-to-end encryption. We've come up with a way to encrypt files on the client without the server having any way to gain access to the plain text format, despite the server facilitating the sharing and such. In the talk we'll explain what we wanted to achieve and how we did it - input very much welcome, of course."
         ], 
         "Has session type": [
-            "Hands-On"
+            "Talk"
         ], 
         "Has session location": [
             {
-                "fulltext": "Assembly:Foodhackingbase", 
-                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Assembly:Foodhackingbase", 
-                "namespace": 504, 
+                "fulltext": "Room:Chaos West Stage", 
+                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Room:Chaos_West_Stage", 
+                "namespace": 516, 
                 "exists": true
             }
         ], 
         "Has subtitle": [], 
         "Is organized by": [], 
         "Has title": [
-            "Food Hacking: Kombucha is Easy"
+            "Nextcloud End to End Encryption"
         ], 
         "Has duration": [
-            120
+            45
         ], 
         "GUID": [
-            "64c63e3f-0999-40ac-b4ec-7caac1c51b1b"
+            "163a21cb-1a61-4119-ae17-c5ca37edcb9f"
         ], 
         "Has color": [
             "#0099ab"
         ], 
-        "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:Food_Hacking:_Kombucha_is_Easy", 
+        "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:Nextcloud_End_to_End_Encryption", 
         "Has end time": [
-            "1514563200"
+            "1514491200"
         ]
     }, 
     "Session:How to Let's Play# e53bd772eaedb7818b2db7e001fa6580": {
