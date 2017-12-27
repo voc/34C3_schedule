@@ -806,6 +806,45 @@
             "1514484000"
         ]
     }, 
+    "Session:Critical Mass Leipzig# 6d4f90cabec3d69e68f7f74b0177e01a": {
+        "Held in language": [], 
+        "Has start time": [
+            "1514566800"
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [
+            "https://criticalmass.in/leipzig/2017-12-29"
+        ], 
+        "Has description": [
+            "Die Critical Mass Leipzig f\u00e4hrt jeden letzten Freitag im Monat auf einer kleinen Tour durch Leipzig. Bring dein Fahrrad mit oder leihe dir ein Nextbike aus und komme um 17 Uhr gemeinsam mit anderen Kongress-Teilnehmern in einer so genannten Mini-Mass zur CM Leipzig. Wir treffen und auf dem neuen Messegel\u00e4nde zwischen dem Haupteingang und dem Messesee."
+        ], 
+        "Has session type": [
+            "Outside"
+        ], 
+        "Has session location": [], 
+        "Has subtitle": [
+            "Be critical, be massy. Tuwat f\u00fcr den Radverkehr!"
+        ], 
+        "Is organized by": [], 
+        "Has title": [
+            "Critical Mass Leipzig"
+        ], 
+        "Has duration": [
+            210
+        ], 
+        "GUID": [
+            "1685838d-3284-447e-a6a9-1922d649af71"
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:Critical_Mass_Leipzig", 
+        "Has end time": [
+            "1514579400"
+        ]
+    }, 
     "Session:Postapocalyptic fidget spinner workshop# 9976aa1a6bf37b568b3ac98047e47476": {
         "Held in language": [
             "de - German", 
@@ -3040,71 +3079,6 @@
             "1514409300"
         ]
     }, 
-    "Session:Sport f\u00fcr Nerds# 06c7c534fb6bae38d5c385f96f878fae": {
-        "Held in language": [
-            "de - German"
-        ], 
-        "Has start time": [], 
-        "Has event track": [
-            "Session"
-        ], 
-        "Has website": [], 
-        "Has description": [
-            "Wir machen hier ein kleines alternativ nerdiges Workout. ;) Mehr verraten wir nicht."
-        ], 
-        "Has session type": [
-            "Other"
-        ], 
-        "Has session location": [
-            {
-                "fulltext": "Room:Lecture room 11", 
-                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Room:Lecture_room_11", 
-                "namespace": 516, 
-                "exists": true
-            }
-        ], 
-        "Has subtitle": [], 
-        "Is organized by": [
-            {
-                "fulltext": "User:Magic", 
-                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/User:Magic", 
-                "namespace": 2, 
-                "exists": true
-            }, 
-            {
-                "fulltext": "User:Karl Weber", 
-                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/User:Karl_Weber", 
-                "namespace": 2, 
-                "exists": true
-            }, 
-            {
-                "fulltext": "User:Hermine", 
-                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/User:Hermine", 
-                "namespace": 2, 
-                "exists": true
-            }, 
-            {
-                "fulltext": "User:Minnie", 
-                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/User:Minnie", 
-                "namespace": 2, 
-                "exists": true
-            }
-        ], 
-        "Has title": [
-            "Sport f\u00fcr Nerds"
-        ], 
-        "Has duration": [
-            120
-        ], 
-        "GUID": [
-            "d28e4cdf-343c-4702-95ff-bdf328bde9fb"
-        ], 
-        "Has color": [
-            "#0099ab"
-        ], 
-        "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:Sport_f%C3%BCr_Nerds", 
-        "Has end time": []
-    }, 
     "Session:Rights&Freedoms# f7e9bee8a00f1bf00988106eb108e45e": {
         "Held in language": [
             "de - German", 
@@ -5068,55 +5042,50 @@
             "1514489400"
         ]
     }, 
-    "Session:When the Dutch secret service knocks on your door# e6e8d9f7a886263a5c4bf250c837694b": {
+    "Session:Monero Hardware Development# 27eab4633d93a5cee8f7dc98c1c4486d": {
         "Held in language": [
             "en - English"
         ], 
         "Has start time": [
-            "1514469600"
+            "1514403000"
         ], 
         "Has event track": [
             "Session"
         ], 
-        "Has website": [], 
-        "Has description": [
-            "This is a story of when the Dutch secret service knocked on my door just after OHM2013, what some of the events that lead up to this, our guesses on why they did this and how to create an environment where we can talk about these things instead of keeping silent."
+        "Has website": [
+            "https://getmonero.org"
         ], 
-        "Has session type": [], 
+        "Has description": [
+            "This half-hour talk will spend time answering the five most asked questions, accept and answer five more and explain the state of the hardware wallet project."
+        ], 
+        "Has session type": [
+            "Talk"
+        ], 
         "Has session location": [
             {
-                "fulltext": "Room:Lecture room 11", 
-                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Room:Lecture_room_11", 
+                "fulltext": "Room:Chaos West Stage", 
+                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Room:Chaos_West_Stage", 
                 "namespace": 516, 
                 "exists": true
             }
         ], 
-        "Has subtitle": [
-            "Lecture/discussion"
-        ], 
-        "Is organized by": [
-            {
-                "fulltext": "User:DrWhax2", 
-                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/User:DrWhax2", 
-                "namespace": 2, 
-                "exists": true
-            }
-        ], 
+        "Has subtitle": [], 
+        "Is organized by": [], 
         "Has title": [
-            "When the Dutch secret service knocks on your door"
+            "Monero Hardware Development"
         ], 
         "Has duration": [
-            60
+            30
         ], 
         "GUID": [
-            "e4264add-ccb6-46dd-8a9d-281f639ca1b3"
+            "0e398428-daf4-4dad-ae22-03d56e077a5a"
         ], 
         "Has color": [
             "#0099ab"
         ], 
-        "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:When_the_Dutch_secret_service_knocks_on_your_door", 
+        "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:Monero_Hardware_Development", 
         "Has end time": [
-            "1514473200"
+            "1514404800"
         ]
     }, 
     "Session:Calliope Workshops# 818531710cca1e422d6515f0bb751e9a": {
@@ -7273,7 +7242,8 @@
     }, 
     "Session:(Wie) Audible Magic hacken?# 88534eed03200f490e32f6a7fe7507a6": {
         "Held in language": [
-            "de - German"
+            "de - German", 
+            "en - English"
         ], 
         "Has start time": [
             "1514491200"
@@ -7282,8 +7252,12 @@
             "Session"
         ], 
         "Has website": [], 
-        "Has description": [], 
-        "Has session type": [], 
+        "Has description": [
+            "Audible Magic Corp., a US producer of media filtering software (see DE Wikipedia:https://de.wikipedia.org/wiki/Audible_Magic) is currently touring the policy makers in Brussels, who are about to decide whether there will be a general rule to implement content pre-filtering on all digital platforms with significant amounts of user-generated content. Such filters are meant \u2013 at least at the current stage \u2013 to prevent copyright infringements by keeping infringing content from being uploaded to the platforms. They can, of course, later also be used to censor any other kind of recognisable content, and thus pose a massive threat to freedom of speech on the net. But even for the copyright-related purpose they are probably unsuitable, as they cannot process, let alone weigh the context of an upload, as a human can. Therefore the exceptions & limitations built into copyright law would become practically irrelevant, once such a net-wide filtering infrastructure based on automated filtering is in place.\n\nIn this session we want to discuss whether and how the technology behind Audible Magic's filtering solutions can be hacked in order to analyse its capabilities and shortcomings. If successful, this analysis could greatly influence the policy discussions on the EU level, that will enter a crucial phase in early 2018."
+        ], 
+        "Has session type": [
+            "Discussion"
+        ], 
         "Has session location": [
             {
                 "fulltext": "Room:Esszimmer", 
@@ -7295,8 +7269,8 @@
         "Has subtitle": [], 
         "Is organized by": [
             {
-                "fulltext": "User:John", 
-                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/User:John", 
+                "fulltext": "User:John Weitzmann (WMDE)", 
+                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/User:John_Weitzmann_(WMDE)", 
                 "namespace": 2, 
                 "exists": false
             }
@@ -9635,51 +9609,6 @@
         "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:The_Human_Rights_Footprint_of_Electronics", 
         "Has end time": [
             "1514563200"
-        ]
-    }, 
-    "Session:Bouldering# 18c54a91992802d141c4ee1881b199b0": {
-        "Held in language": [
-            "de - German", 
-            "en - English"
-        ], 
-        "Has start time": [
-            "1514556000"
-        ], 
-        "Has event track": [
-            "Session"
-        ], 
-        "Has website": [], 
-        "Has description": [
-            "Let's climb some walls!"
-        ], 
-        "Has session type": [
-            "Hands-On"
-        ], 
-        "Has session location": [], 
-        "Has subtitle": [], 
-        "Is organized by": [
-            {
-                "fulltext": "User:Tiefpunkt", 
-                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/User:Tiefpunkt", 
-                "namespace": 2, 
-                "exists": true
-            }
-        ], 
-        "Has title": [
-            "Bouldering"
-        ], 
-        "Has duration": [
-            180
-        ], 
-        "GUID": [
-            "afe093fd-965d-4d1b-a39e-98c2bff96ab3"
-        ], 
-        "Has color": [
-            "#0099ab"
-        ], 
-        "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:Bouldering", 
-        "Has end time": [
-            "1514566800"
         ]
     }, 
     "Session:Introduction to Wikidata# 1434e012a87515df030cee74a56c9ef6": {
@@ -13520,6 +13449,57 @@
             "1514520000"
         ]
     }, 
+    "Session:When the Dutch secret service knocks on your door# e6e8d9f7a886263a5c4bf250c837694b": {
+        "Held in language": [
+            "en - English"
+        ], 
+        "Has start time": [
+            "1514469600"
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [], 
+        "Has description": [
+            "This is a story of when the Dutch secret service knocked on my door just after OHM2013, what some of the events that lead up to this, our guesses on why they did this and how to create an environment where we can talk about these things instead of keeping silent."
+        ], 
+        "Has session type": [], 
+        "Has session location": [
+            {
+                "fulltext": "Room:Lecture room 11", 
+                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Room:Lecture_room_11", 
+                "namespace": 516, 
+                "exists": true
+            }
+        ], 
+        "Has subtitle": [
+            "Lecture/discussion"
+        ], 
+        "Is organized by": [
+            {
+                "fulltext": "User:DrWhax2", 
+                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/User:DrWhax2", 
+                "namespace": 2, 
+                "exists": true
+            }
+        ], 
+        "Has title": [
+            "When the Dutch secret service knocks on your door"
+        ], 
+        "Has duration": [
+            60
+        ], 
+        "GUID": [
+            "e4264add-ccb6-46dd-8a9d-281f639ca1b3"
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:When_the_Dutch_secret_service_knocks_on_your_door", 
+        "Has end time": [
+            "1514473200"
+        ]
+    }, 
     "Session:Network hacks for smart attacks# ce4407f68927c8001b4cf962a1b34335": {
         "Held in language": [
             "en - English"
@@ -14208,6 +14188,75 @@
         "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:Public_Money%3F_Public_Code!", 
         "Has end time": [
             "1514577600"
+        ]
+    }, 
+    "Session:Sport f\u00fcr Nerds# d111f9fde6f165bbdb27f14b79eb473a": {
+        "Held in language": [
+            "de - German"
+        ], 
+        "Has start time": [
+            "1514494800"
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [], 
+        "Has description": [
+            "Wir machen hier ein kleines alternativ nerdiges Workout. ;) Mehr verraten wir nicht."
+        ], 
+        "Has session type": [
+            "Other"
+        ], 
+        "Has session location": [
+            {
+                "fulltext": "Room:Lecture room 11", 
+                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Room:Lecture_room_11", 
+                "namespace": 516, 
+                "exists": true
+            }
+        ], 
+        "Has subtitle": [], 
+        "Is organized by": [
+            {
+                "fulltext": "User:Magic", 
+                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/User:Magic", 
+                "namespace": 2, 
+                "exists": true
+            }, 
+            {
+                "fulltext": "User:Karl Weber", 
+                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/User:Karl_Weber", 
+                "namespace": 2, 
+                "exists": true
+            }, 
+            {
+                "fulltext": "User:Hermine", 
+                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/User:Hermine", 
+                "namespace": 2, 
+                "exists": true
+            }, 
+            {
+                "fulltext": "User:Minnie", 
+                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/User:Minnie", 
+                "namespace": 2, 
+                "exists": true
+            }
+        ], 
+        "Has title": [
+            "Sport f\u00fcr Nerds"
+        ], 
+        "Has duration": [
+            120
+        ], 
+        "GUID": [
+            "d28e4cdf-343c-4702-95ff-bdf328bde9fb"
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:Sport_f%C3%BCr_Nerds", 
+        "Has end time": [
+            "1514502000"
         ]
     }, 
     "Session:Rights&Freedoms# c0e8226dca3220d0b79a7d73889ced35": {
@@ -18511,7 +18560,7 @@
         ], 
         "Has website": [], 
         "Has description": [
-            "Since G\u00f6del's celebrated work we know: The rules of mathematics are incomplete. There are true statements for which we have proof that they don't have a proof and there are statements for which we can arbitrarily decide whether they are true or not."
+            "Since G\u00f6del's celebrated work we know: The rules of mathematics are incomplete. There are true statements for which we have proof that they don't have a proof and there are statements for which we can arbitrarily decide whether they are true or not. Learn more about this curious state of affairs in the session!"
         ], 
         "Has session type": [
             "Talk"
