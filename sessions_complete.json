@@ -97,46 +97,6 @@
             "1514491200"
         ]
     }, 
-    "Session:How to turn museums into open data hubs# 5963874339b26671bc1d48e2d70a0e48": {
-        "Held in language": [
-            "de - German"
-        ], 
-        "Has start time": [], 
-        "Has event track": [
-            "Session"
-        ], 
-        "Has website": [
-            "https://codingdavinci.de/about/"
-        ], 
-        "Has description": [
-            "Many museums, archives and libraries are still reluctant to share their data. Actually it is our data as it is often public domain and or financed with public money. Yet many still hesitate. #openGLAM is an international movement to motivate Galleries, Libraries, Archives and Museums to share digitized cultural heritage and make it open for reuse.  GLAM data is so attractive for reuse. Events as Coding da Vinci (https://codingdavinci.de/about/) or happenings as GIF IT UP (http://blog.europeana.eu/2017/11/winners-of-gif-it-up-2017/) do show some examples. Where to find open GLAM data and how to convince GLAMs to open up."
-        ], 
-        "Has session type": [
-            "Talk"
-        ], 
-        "Has session location": [], 
-        "Has subtitle": [], 
-        "Is organized by": [
-            {
-                "fulltext": "User:Fischerdata", 
-                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/User:Fischerdata", 
-                "namespace": 2, 
-                "exists": false
-            }
-        ], 
-        "Has title": [
-            "How to turn museums into open data hubs"
-        ], 
-        "Has duration": [], 
-        "GUID": [
-            "17c4fddc-cfb3-4751-a298-f03a64686582"
-        ], 
-        "Has color": [
-            "#0099ab"
-        ], 
-        "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:How_to_turn_museums_into_open_data_hubs", 
-        "Has end time": []
-    }, 
     "Session:Hacking with wget# 68066760b7c9155486b3ca3bfd2ea9fc": {
         "Held in language": [
             "en - English"
@@ -1933,6 +1893,53 @@
             "1514499300"
         ]
     }, 
+    "Session:Food Hacking: Cidre Flows# 99b44ee7ca18f16a26f2716db0e4af7c": {
+        "Held in language": [
+            "cs - Czech", 
+            "en - English"
+        ], 
+        "Has start time": [
+            "1514581200"
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [
+            "https://foodhackingbase.org/wiki/Cidre_flows_34c3"
+        ], 
+        "Has description": [
+            "You will learn what you should be focusing on when tasting the beverage, what to expect based on what do you read on the label on the bottle - sweetness, bitterness/tardiness, acidity, pasteurization etc. depending on the region et cetera."
+        ], 
+        "Has session type": [
+            "Meeting"
+        ], 
+        "Has session location": [
+            {
+                "fulltext": "Assembly:Foodhackingbase", 
+                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Assembly:Foodhackingbase", 
+                "namespace": 504, 
+                "exists": true
+            }
+        ], 
+        "Has subtitle": [], 
+        "Is organized by": [], 
+        "Has title": [
+            "Food Hacking: Cidre Flows"
+        ], 
+        "Has duration": [
+            120
+        ], 
+        "GUID": [
+            "8e2f2fda-d5f2-490b-a4d4-cbd9d0d6016f"
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:Food_Hacking:_Cidre_Flows", 
+        "Has end time": [
+            "1514588400"
+        ]
+    }, 
     "Session:How to Let's Play# 776f716aa526a04f0bbb8b1c2852952a": {
         "Held in language": [
             "de - German", 
@@ -2147,6 +2154,59 @@
         "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:TeaHouse", 
         "Has end time": [
             "1514480400"
+        ]
+    }, 
+    "Session:How to turn museums into open data hubs# b799e7e49039551eda0005aed82bec41": {
+        "Held in language": [
+            "de - German"
+        ], 
+        "Has start time": [
+            "1514557800"
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [
+            "https://codingdavinci.de/about/"
+        ], 
+        "Has description": [
+            "Many museums, archives and libraries are still reluctant to share their data. Actually it is our data as it is often public domain and or financed with public money. Yet many still hesitate. #openGLAM is an international movement to motivate Galleries, Libraries, Archives and Museums to share digitized cultural heritage and make it open for reuse.  GLAM data is so attractive for reuse. Events as Coding da Vinci (https://codingdavinci.de/about/) or happenings as GIF IT UP (http://blog.europeana.eu/2017/11/winners-of-gif-it-up-2017/) do show some examples. Where to find open GLAM data and how to convince GLAMs to open up."
+        ], 
+        "Has session type": [
+            "Talk"
+        ], 
+        "Has session location": [
+            {
+                "fulltext": "Room:Hive Stage", 
+                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Room:Hive_Stage", 
+                "namespace": 516, 
+                "exists": true
+            }
+        ], 
+        "Has subtitle": [], 
+        "Is organized by": [
+            {
+                "fulltext": "User:Fischerdata", 
+                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/User:Fischerdata", 
+                "namespace": 2, 
+                "exists": false
+            }
+        ], 
+        "Has title": [
+            "How to turn museums into open data hubs"
+        ], 
+        "Has duration": [
+            45
+        ], 
+        "GUID": [
+            "17c4fddc-cfb3-4751-a298-f03a64686582"
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:How_to_turn_museums_into_open_data_hubs", 
+        "Has end time": [
+            "1514560500"
         ]
     }, 
     "Session:Ultra low-budget 3D models that can be decorated with LEDs# 8bfb9aa54d1e725da70cd6913a291df3": {
@@ -8248,6 +8308,54 @@
         "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:A_public_identity_infrastructure_to_defend_the_open_Internet", 
         "Has end time": [
             "1514494800"
+        ]
+    }, 
+    "Session:Food Hacking: Korean healing table prep# 07c47aa508f2919639237b0e8ccfe543": {
+        "Held in language": [
+            "cs - Czech", 
+            "en - English", 
+            "ko - Korean"
+        ], 
+        "Has start time": [
+            "1514563200"
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [
+            "https://foodhackingbase.org/wiki/Korean_healing_table_prep_34c3"
+        ], 
+        "Has description": [
+            "Together we will prepare variety of Korean dishes resulting in a lovely dinner."
+        ], 
+        "Has session type": [
+            "Hands-On"
+        ], 
+        "Has session location": [
+            {
+                "fulltext": "Assembly:Foodhackingbase", 
+                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Assembly:Foodhackingbase", 
+                "namespace": 504, 
+                "exists": true
+            }
+        ], 
+        "Has subtitle": [], 
+        "Is organized by": [], 
+        "Has title": [
+            "Food Hacking: Korean healing table prep"
+        ], 
+        "Has duration": [
+            180
+        ], 
+        "GUID": [
+            "3da6d06c-8a2f-4ff7-b022-22c892323475"
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:Food_Hacking:_Korean_healing_table_prep", 
+        "Has end time": [
+            "1514574000"
         ]
     }, 
     "Session:Join us now - a choir to perform the Free Software song# b5ca6f43b45dd7eff4800742cff068d8": {
@@ -14940,61 +15048,52 @@
             "1514390400"
         ]
     }, 
-    "Session:Open Science/Research Workshop# bae1b8d2e03ace217b09918215de2a78": {
+    "Session:Food Hacking: Korean Healing Table# 65270498748d0803be54c0c9e8564de5": {
         "Held in language": [
-            "en - English"
+            "cs - Czech", 
+            "en - English", 
+            "ko - Korean"
         ], 
         "Has start time": [
-            "1514458800"
+            "1514574000"
         ], 
         "Has event track": [
             "Session"
         ], 
-        "Has website": [], 
+        "Has website": [
+            "https://foodhackingbase.org/wiki/Korean_healing_table_34c3"
+        ], 
         "Has description": [
-            "In this workshop about Open Research/Science we want to first identify what we can do to improve any aspect of Open Research/Science (like Open Access, Open Educational Resources, Open Peer Review, Open Data, ...). We then pick one or more of these aspects and start working on solutions (Hackathon-style).\n\nThe workshop is an excellent place to connect with other people who are interested in making research and science more open.\n\nBring your own ideas and make sure to add them to https://hackmd.io/CYMwRgjApgxgbBAtMMtEBYCGwlgEzAAciYcwA7BJuoeiAMyZA===?both (even better if you do so before the event)!"
+            "Korean Healing Table is a social dining event which is prepared by people interested in the subject."
         ], 
         "Has session type": [
-            "Workshop"
+            "Meeting"
         ], 
         "Has session location": [
             {
-                "fulltext": "Room:CCL Hall 3", 
-                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Room:CCL_Hall_3", 
-                "namespace": 516, 
+                "fulltext": "Assembly:Foodhackingbase", 
+                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Assembly:Foodhackingbase", 
+                "namespace": 504, 
                 "exists": true
             }
         ], 
         "Has subtitle": [], 
-        "Is organized by": [
-            {
-                "fulltext": "User:Andrenarchy", 
-                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/User:Andrenarchy", 
-                "namespace": 2, 
-                "exists": true
-            }, 
-            {
-                "fulltext": "User:Pseyfert", 
-                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/User:Pseyfert", 
-                "namespace": 2, 
-                "exists": true
-            }
-        ], 
+        "Is organized by": [], 
         "Has title": [
-            "Open Science/Research Workshop"
+            "Food Hacking: Korean Healing Table"
         ], 
         "Has duration": [
-            120
+            90
         ], 
         "GUID": [
-            "55a51cb4-5304-4fd8-b917-afc83ede7400"
+            "21f5a99d-cd5d-402c-a7dd-6f89b5bc4d27"
         ], 
         "Has color": [
             "#0099ab"
         ], 
-        "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:Open_Science/Research_Workshop", 
+        "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:Food_Hacking:_Korean_Healing_Table", 
         "Has end time": [
-            "1514466000"
+            "1514579400"
         ]
     }, 
     "Session:Howto Let's Play# 09e02fc51fcc2222e097fc7fd76b6bc1": {
@@ -16390,6 +16489,63 @@
         "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:Hackademia_-_research_presentations", 
         "Has end time": [
             "1514548800"
+        ]
+    }, 
+    "Session:Open Science/Research Workshop# bae1b8d2e03ace217b09918215de2a78": {
+        "Held in language": [
+            "en - English"
+        ], 
+        "Has start time": [
+            "1514458800"
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [], 
+        "Has description": [
+            "In this workshop about Open Research/Science we want to first identify what we can do to improve any aspect of Open Research/Science (like Open Access, Open Educational Resources, Open Peer Review, Open Data, ...). We then pick one or more of these aspects and start working on solutions (Hackathon-style).\n\nThe workshop is an excellent place to connect with other people who are interested in making research and science more open.\n\nBring your own ideas and make sure to add them to https://hackmd.io/CYMwRgjApgxgbBAtMMtEBYCGwlgEzAAciYcwA7BJuoeiAMyZA===?both (even better if you do so before the event)!"
+        ], 
+        "Has session type": [
+            "Workshop"
+        ], 
+        "Has session location": [
+            {
+                "fulltext": "Room:CCL Hall 3", 
+                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Room:CCL_Hall_3", 
+                "namespace": 516, 
+                "exists": true
+            }
+        ], 
+        "Has subtitle": [], 
+        "Is organized by": [
+            {
+                "fulltext": "User:Andrenarchy", 
+                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/User:Andrenarchy", 
+                "namespace": 2, 
+                "exists": true
+            }, 
+            {
+                "fulltext": "User:Pseyfert", 
+                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/User:Pseyfert", 
+                "namespace": 2, 
+                "exists": true
+            }
+        ], 
+        "Has title": [
+            "Open Science/Research Workshop"
+        ], 
+        "Has duration": [
+            120
+        ], 
+        "GUID": [
+            "55a51cb4-5304-4fd8-b917-afc83ede7400"
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:Open_Science/Research_Workshop", 
+        "Has end time": [
+            "1514466000"
         ]
     }, 
     "Session:VoidLinux User Meetup# 27b1f29948b562289568408c87d4c9ac": {
