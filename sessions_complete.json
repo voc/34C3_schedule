@@ -2770,57 +2770,55 @@
             "1514386800"
         ]
     }, 
-    "Session:TeaHouse# 7ba0aa55eaffb89b77ee77e479b6d115": {
+    "Session:Request a query# fd2fb859f3118190c0e813bb33d26137": {
         "Held in language": [
             "en - English"
         ], 
         "Has start time": [
-            "1514385000"
+            "1514394000"
         ], 
         "Has event track": [
             "Session"
         ], 
-        "Has website": [
-            "https://teahouse.homecomputing.fr/"
+        "Has website": [], 
+        "Has description": [
+            "If you have an idea for a query using Wikidata but aren\u2019t sure how to write it, or just want to hang out and discuss the Query Service with fellow-minded people, join us!"
         ], 
-        "Has description": [], 
         "Has session type": [
-            "Meeting"
+            "Hands-On"
         ], 
         "Has session location": [
             {
-                "fulltext": "Assembly:TeaHouse", 
-                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Assembly:TeaHouse", 
-                "namespace": 504, 
+                "fulltext": "Room:Esszimmer", 
+                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Room:Esszimmer", 
+                "namespace": 516, 
                 "exists": true
             }
         ], 
-        "Has subtitle": [
-            "State of website censorship in France and elsewhere ?"
-        ], 
+        "Has subtitle": [], 
         "Is organized by": [
             {
-                "fulltext": "User:Sanpi", 
-                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/User:Sanpi", 
+                "fulltext": "User:Lucas Werkmeister", 
+                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/User:Lucas_Werkmeister", 
                 "namespace": 2, 
                 "exists": true
             }
         ], 
         "Has title": [
-            "TeaHouse"
+            "Request a query"
         ], 
         "Has duration": [
-            60
+            45
         ], 
         "GUID": [
-            "ef3bcca2-42bc-4bb0-a326-70e277316094"
+            "8a7bd529-29d2-554c-835f-3d689b7c9f4c"
         ], 
         "Has color": [
             "#0099ab"
         ], 
-        "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:TeaHouse", 
+        "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:Request_a_query", 
         "Has end time": [
-            "1514388600"
+            "1514396700"
         ]
     }, 
     "Session:A/V Angel Meeting# 445a1ffd26b65f861e78e209346f84d2": {
@@ -9352,50 +9350,6 @@
         "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:Howto_Let%27s_Play", 
         "Has end time": [
             "1514565900"
-        ]
-    }, 
-    "Session:Food Hacking: 34c3 Beer Tasting# cc5c91fb7f57a71bd8e1fb387254182b": {
-        "Held in language": [
-            "en - English"
-        ], 
-        "Has start time": [
-            "1514494800"
-        ], 
-        "Has event track": [
-            "Session"
-        ], 
-        "Has website": [
-            "https://foodhackingbase.org/wiki/34c3_beer_tasting"
-        ], 
-        "Has description": [], 
-        "Has session type": [
-            "Meeting"
-        ], 
-        "Has session location": [
-            {
-                "fulltext": "Assembly:Foodhackingbase", 
-                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Assembly:Foodhackingbase", 
-                "namespace": 504, 
-                "exists": true
-            }
-        ], 
-        "Has subtitle": [], 
-        "Is organized by": [], 
-        "Has title": [
-            "Food Hacking: 34c3 Beer Tasting"
-        ], 
-        "Has duration": [
-            120
-        ], 
-        "GUID": [
-            "abf9fe20-c54f-4577-99f3-60d0a6e89bf2"
-        ], 
-        "Has color": [
-            "#0099ab"
-        ], 
-        "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:Food_Hacking:_34c3_Beer_Tasting", 
-        "Has end time": [
-            "1514502000"
         ]
     }, 
     "Session:Klangteppich# 2840d6b6a61e8eb2baff457595374424": {
@@ -16533,55 +16487,57 @@
             "1514331000"
         ]
     }, 
-    "Session:Request a query# fd2fb859f3118190c0e813bb33d26137": {
+    "Session:TeaHouse# 7ba0aa55eaffb89b77ee77e479b6d115": {
         "Held in language": [
             "en - English"
         ], 
         "Has start time": [
-            "1514394000"
+            "1514385000"
         ], 
         "Has event track": [
             "Session"
         ], 
-        "Has website": [], 
-        "Has description": [
-            "If you have an idea for a query using Wikidata but aren\u2019t sure how to write it, or just want to hang out and discuss the Query Service with fellow-minded people, join us!"
+        "Has website": [
+            "https://teahouse.homecomputing.fr/"
         ], 
+        "Has description": [], 
         "Has session type": [
-            "Hands-On"
+            "Meeting"
         ], 
         "Has session location": [
             {
-                "fulltext": "Room:Esszimmer", 
-                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Room:Esszimmer", 
-                "namespace": 516, 
+                "fulltext": "Assembly:TeaHouse", 
+                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Assembly:TeaHouse", 
+                "namespace": 504, 
                 "exists": true
             }
         ], 
-        "Has subtitle": [], 
+        "Has subtitle": [
+            "State of website censorship in France and elsewhere ?"
+        ], 
         "Is organized by": [
             {
-                "fulltext": "User:Lucas Werkmeister", 
-                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/User:Lucas_Werkmeister", 
+                "fulltext": "User:Sanpi", 
+                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/User:Sanpi", 
                 "namespace": 2, 
                 "exists": true
             }
         ], 
         "Has title": [
-            "Request a query"
+            "TeaHouse"
         ], 
         "Has duration": [
-            45
+            60
         ], 
         "GUID": [
-            "8a7bd529-29d2-554c-835f-3d689b7c9f4c"
+            "ef3bcca2-42bc-4bb0-a326-70e277316094"
         ], 
         "Has color": [
             "#0099ab"
         ], 
-        "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:Request_a_query", 
+        "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:TeaHouse", 
         "Has end time": [
-            "1514396700"
+            "1514388600"
         ]
     }, 
     "Session:42birds: Hacker\u2019s Digest# d2932ec75b2800fd7d2daef6aaa25ee2": {
