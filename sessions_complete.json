@@ -2430,7 +2430,20 @@
         ], 
         "Has session location": [], 
         "Has subtitle": [], 
-        "Is organized by": [], 
+        "Is organized by": [
+            {
+                "fulltext": "User:Argp@zfree.racing", 
+                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/User:Argp@zfree.racing", 
+                "namespace": 2, 
+                "exists": false
+            }, 
+            {
+                "fulltext": "User:Q@iokit.racing", 
+                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/User:Q@iokit.racing", 
+                "namespace": 2, 
+                "exists": false
+            }
+        ], 
         "Has title": [
             "IOSRE"
         ], 
