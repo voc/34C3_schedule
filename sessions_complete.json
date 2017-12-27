@@ -806,45 +806,6 @@
             "1514484000"
         ]
     }, 
-    "Session:Critical Mass Leipzig# 6d4f90cabec3d69e68f7f74b0177e01a": {
-        "Held in language": [], 
-        "Has start time": [
-            "1514566800"
-        ], 
-        "Has event track": [
-            "Session"
-        ], 
-        "Has website": [
-            "https://criticalmass.in/leipzig/2017-12-29"
-        ], 
-        "Has description": [
-            "Be critical, be massy \u2013 #tuwat f\u00fcr den Radverkehr! Die Critical Mass Leipzig f\u00e4hrt jeden letzten Freitag im Monat auf einer kleinen Tour durch Leipzig. Bring dein Fahrrad mit oder leihe dir ein Nextbike aus und komme um 17 Uhr gemeinsam mit anderen Kongress-Teilnehmern in einer so genannten Mini-Mass zur CM Leipzig. Wir treffen und auf dem neuen Messegel\u00e4nde zwischen dem Haupteingang und dem Messesee."
-        ], 
-        "Has session type": [
-            "Outside"
-        ], 
-        "Has session location": [], 
-        "Has subtitle": [
-            "Be critical, be massy. Tuwat f\u00fcr den Radverkehr!"
-        ], 
-        "Is organized by": [], 
-        "Has title": [
-            "Critical Mass Leipzig"
-        ], 
-        "Has duration": [
-            210
-        ], 
-        "GUID": [
-            "1685838d-3284-447e-a6a9-1922d649af71"
-        ], 
-        "Has color": [
-            "#0099ab"
-        ], 
-        "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:Critical_Mass_Leipzig", 
-        "Has end time": [
-            "1514579400"
-        ]
-    }, 
     "Session:Postapocalyptic fidget spinner workshop# 9976aa1a6bf37b568b3ac98047e47476": {
         "Held in language": [
             "de - German", 
@@ -1999,6 +1960,59 @@
             "1514498400"
         ]
     }, 
+    "Session:TeaHouse# 836a4f7f57e911781e64fc06fa1b5522": {
+        "Held in language": [
+            "en - English"
+        ], 
+        "Has start time": [
+            "1514476800"
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [
+            "https://teahouse.homecomputing.fr/"
+        ], 
+        "Has description": [], 
+        "Has session type": [
+            "Meeting"
+        ], 
+        "Has session location": [
+            {
+                "fulltext": "Assembly:TeaHouse", 
+                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Assembly:TeaHouse", 
+                "namespace": 504, 
+                "exists": true
+            }
+        ], 
+        "Has subtitle": [
+            "[https://events.ccc.de/congress/2017/wiki/index.php/Session:Let%27s_talk_about_practicalities_of_internet_censorship_circumvention Let's talk about practicalities of internet censorship circumvention] ([[User:Rysiek]])"
+        ], 
+        "Is organized by": [
+            {
+                "fulltext": "User:Sanpi", 
+                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/User:Sanpi", 
+                "namespace": 2, 
+                "exists": true
+            }
+        ], 
+        "Has title": [
+            "TeaHouse"
+        ], 
+        "Has duration": [
+            60
+        ], 
+        "GUID": [
+            "68c26941-115f-4ada-8ed5-d0e4217680cf"
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:TeaHouse", 
+        "Has end time": [
+            "1514480400"
+        ]
+    }, 
     "Session:Ultra low-budget 3D models that can be decorated with LEDs# 8bfb9aa54d1e725da70cd6913a291df3": {
         "Held in language": [
             "en - English"
@@ -2723,59 +2737,6 @@
             "1514386800"
         ]
     }, 
-    "Session:TeaHouse# d08e0b1a6cff1eb1863d3340ae8f6a88": {
-        "Held in language": [
-            "en - English"
-        ], 
-        "Has start time": [
-            "1514476800"
-        ], 
-        "Has event track": [
-            "Session"
-        ], 
-        "Has website": [
-            "https://teahouse.homecomputing.fr/"
-        ], 
-        "Has description": [], 
-        "Has session type": [
-            "Meeting"
-        ], 
-        "Has session location": [
-            {
-                "fulltext": "Assembly:TeaHouse", 
-                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Assembly:TeaHouse", 
-                "namespace": 504, 
-                "exists": true
-            }
-        ], 
-        "Has subtitle": [
-            "Let's talk about practicalities of internet censorship circumvention"
-        ], 
-        "Is organized by": [
-            {
-                "fulltext": "User:Sanpi", 
-                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/User:Sanpi", 
-                "namespace": 2, 
-                "exists": true
-            }
-        ], 
-        "Has title": [
-            "TeaHouse"
-        ], 
-        "Has duration": [
-            60
-        ], 
-        "GUID": [
-            "68c26941-115f-4ada-8ed5-d0e4217680cf"
-        ], 
-        "Has color": [
-            "#0099ab"
-        ], 
-        "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:TeaHouse", 
-        "Has end time": [
-            "1514480400"
-        ]
-    }, 
     "Session:Request a query# fd2fb859f3118190c0e813bb33d26137": {
         "Held in language": [
             "en - English"
@@ -3305,6 +3266,50 @@
         "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:Angel_Meeting", 
         "Has end time": [
             "1514319300"
+        ]
+    }, 
+    "Session:Bisq - A decentralized bitcoin exchange# 79539fb9443520a8d18bbbd61ae8a830": {
+        "Held in language": [
+            "en - English"
+        ], 
+        "Has start time": [
+            "1514484000"
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [
+            "https://bisq.network"
+        ], 
+        "Has description": [], 
+        "Has session type": [
+            "Talk"
+        ], 
+        "Has session location": [
+            {
+                "fulltext": "Room:Chaos West Stage", 
+                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Room:Chaos_West_Stage", 
+                "namespace": 516, 
+                "exists": true
+            }
+        ], 
+        "Has subtitle": [], 
+        "Is organized by": [], 
+        "Has title": [
+            "Bisq - A decentralized bitcoin exchange"
+        ], 
+        "Has duration": [
+            40
+        ], 
+        "GUID": [
+            "fed5994a-26d4-42d7-8b26-895a6397ea86"
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:Bisq_-_A_decentralized_bitcoin_exchange", 
+        "Has end time": [
+            "1514486400"
         ]
     }, 
     "Session:Deanonymization and Author Recognition with Digital Humanities-Tools# 62f7d6c71e3212ba9e5e1279b9a750f4": {
@@ -6878,53 +6883,6 @@
             "1514583000"
         ]
     }, 
-    "Session:Disobedient Art / Public Space - Kunst, Politik, Intervention# 55d9c1584a813472c590046f8c64adf2": {
-        "Held in language": [], 
-        "Has start time": [
-            "1514401200"
-        ], 
-        "Has event track": [
-            "Session"
-        ], 
-        "Has website": [
-            "http://www.wermke-leinkauf.com/", 
-            "http://www.roccoundseinebrueder.com/", 
-            "https://felixdreesen.de/", 
-            "http://leonardrokita.de/"
-        ], 
-        "Has description": [
-            "Disobedient Art / Public Space - Kunst, Politik, Intervention\nGrenzen\u00fcberschreitende Aktionen an scheinbar unzug\u00e4nglichen Orten, medial inszenierte politische Provokation, interventionistische Gedenkkultur...\n\nWelche M\u00f6glichkeiten, welche Grenzen hat (politische) Aktionskunst? Wie nehmen wir uns den \u00f6ffentlichen Raum, umgehen seine Vorschriften und Reglementierungen? Welche kulturellen Praxen halten wir den Spielregeln der freien Marktwirtschaft entgegen?\n\nPr\u00e4sentation mit Wermke/Leinkauf Rocco und seine Br\u00fcder Felix Dreesen und Leonard Rokita"
-        ], 
-        "Has session type": [
-            "Talk"
-        ], 
-        "Has session location": [
-            {
-                "fulltext": "Room:Komona Aquarius", 
-                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Room:Komona_Aquarius", 
-                "namespace": 516, 
-                "exists": true
-            }
-        ], 
-        "Has subtitle": [], 
-        "Is organized by": [], 
-        "Has title": [
-            "Disobedient Art / Public Space - Kunst, Politik, Intervention"
-        ], 
-        "Has duration": [
-            180
-        ], 
-        "GUID": [
-            "2b87ddb2-1cca-44e5-a2ea-154c8d351125"
-        ], 
-        "Has color": [
-            "#0099ab"
-        ], 
-        "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:Disobedient_Art_/_Public_Space_-_Kunst,_Politik,_Intervention", 
-        "Has end time": [
-            "1514412000"
-        ]
-    }, 
     "Session:IOSRE# 7b31aff38007f425add9d84e76fb5d25": {
         "Held in language": [
             "en - English"
@@ -7026,6 +6984,52 @@
         "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:Bridging_messengers_with_Matrix.org", 
         "Has end time": [
             "1514492100"
+        ]
+    }, 
+    "Session:Critical Mass Leipzig# 0ab179fd5df93b33cd726053086db8f4": {
+        "Held in language": [], 
+        "Has start time": [
+            "1514566800"
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [
+            "https://criticalmass.in/leipzig/2017-12-29"
+        ], 
+        "Has description": [
+            "Be critical, be massy \u2013 #tuwat f\u00fcr den Radverkehr! Die Critical Mass Leipzig f\u00e4hrt jeden letzten Freitag im Monat auf einer kleinen Tour durch Leipzig. Bring dein Fahrrad mit oder leihe dir ein Nextbike aus und komme um 17 Uhr gemeinsam mit anderen Kongress-Teilnehmern in einer so genannten Mini-Mass zur CM Leipzig. Wir treffen und auf dem neuen Messegel\u00e4nde zwischen dem Haupteingang und dem Messesee."
+        ], 
+        "Has session type": [
+            "Outside"
+        ], 
+        "Has session location": [
+            {
+                "fulltext": "In front of main entrance (at the pond)", 
+                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/In_front_of_main_entrance_(at_the_pond)", 
+                "namespace": 0, 
+                "exists": false
+            }
+        ], 
+        "Has subtitle": [
+            "Be critical, be massy. Tuwat f\u00fcr den Radverkehr!"
+        ], 
+        "Is organized by": [], 
+        "Has title": [
+            "Critical Mass Leipzig"
+        ], 
+        "Has duration": [
+            210
+        ], 
+        "GUID": [
+            "1685838d-3284-447e-a6a9-1922d649af71"
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:Critical_Mass_Leipzig", 
+        "Has end time": [
+            "1514579400"
         ]
     }, 
     "Session:Komona networking gathering# d95a61df8b9348df128a571a1ac9d485": {
@@ -7625,53 +7629,6 @@
             "1514404800"
         ]
     }, 
-    "Session:Rights&Freedoms# a55c554da5bc0eafa97df4eef6578cda": {
-        "Held in language": [
-            "de - German", 
-            "en - English"
-        ], 
-        "Has start time": [
-            "1514552400"
-        ], 
-        "Has event track": [
-            "Session"
-        ], 
-        "Has website": [], 
-        "Has description": [
-            "Rights & Freedoms Cluster Stage Programme"
-        ], 
-        "Has session type": [
-            "Talk"
-        ], 
-        "Has session location": [
-            {
-                "fulltext": "Room:CCL Hall 3", 
-                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Room:CCL_Hall_3", 
-                "namespace": 516, 
-                "exists": true
-            }
-        ], 
-        "Has subtitle": [
-            "[https://events.ccc.de/congress/2017/wiki/index.php/Session:Information_security_theater_vs._Investigative_journalism Information security theater vs. Investigative journalism (Rysiek, OCCRP)"
-        ], 
-        "Is organized by": [], 
-        "Has title": [
-            "Rights&Freedoms"
-        ], 
-        "Has duration": [
-            60
-        ], 
-        "GUID": [
-            "c682fa8a-045b-4a09-8164-1b33826b8e63"
-        ], 
-        "Has color": [
-            "#0099ab"
-        ], 
-        "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:Rights%26Freedoms", 
-        "Has end time": [
-            "1514556000"
-        ]
-    }, 
     "Session:TeaHouse# 0b017eecf65d3b03c95c2e945a79c9a2": {
         "Held in language": [
             "en - English"
@@ -8129,57 +8086,52 @@
             "1514476800"
         ]
     }, 
-    "Session:TeaHouse# 3fa552470c953db85366ba85338756db": {
+    "Session:Letter writing to prisoners, sitting in jail for hacking# 8141aeca2f43dc74ddfbbaede7bdfb78": {
         "Held in language": [
             "en - English"
         ], 
         "Has start time": [
-            "1514390400"
+            "1514462400"
         ], 
         "Has event track": [
             "Session"
         ], 
         "Has website": [
-            "https://teahouse.homecomputing.fr/"
+            "http://abcdd.org"
         ], 
-        "Has description": [], 
+        "Has description": [
+            "Hacktivism from time to time leads to imprisonment and repressions. There are several people right now siting in jail that consider themselves anarchist or did actions that are supported by anarchist community. Not to let those people alone in prison we would like to have every day 1 hour around the table, where we get to know the stories of imprisoned activists and write them some words of support with postcards/letters.  You don't need any special skills for that. The postcards will be there for you."
+        ], 
         "Has session type": [
-            "Meeting"
+            "Workshop"
         ], 
         "Has session location": [
             {
-                "fulltext": "Assembly:TeaHouse", 
-                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Assembly:TeaHouse", 
-                "namespace": 504, 
+                "fulltext": "Room:Komona Coral Reef", 
+                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Room:Komona_Coral_Reef", 
+                "namespace": 516, 
                 "exists": true
             }
         ], 
         "Has subtitle": [
-            "Hackerfleet Operating System"
+            "Day 2"
         ], 
-        "Is organized by": [
-            {
-                "fulltext": "User:Sanpi", 
-                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/User:Sanpi", 
-                "namespace": 2, 
-                "exists": true
-            }
-        ], 
+        "Is organized by": [], 
         "Has title": [
-            "TeaHouse"
+            "Letter writing to prisoners, sitting in jail for hacking"
         ], 
         "Has duration": [
             45
         ], 
         "GUID": [
-            "0684a69d-9796-4946-9955-84cfafe8cb64"
+            "78b6af67-7c9d-460a-ac37-0428a4178e00"
         ], 
         "Has color": [
             "#0099ab"
         ], 
-        "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:TeaHouse", 
+        "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:Letter_writing_to_prisoners,_sitting_in_jail_for_hacking", 
         "Has end time": [
-            "1514393100"
+            "1514465100"
         ]
     }, 
     "Session:Rights&Freedoms# eac828011898d00dd4a025fb4783aec2": {
@@ -8631,55 +8583,6 @@
             "1514574000"
         ]
     }, 
-    "Session:Fabmobil - Mobiles Fablab-Konzept f\u00fcr den l\u00e4ndlichen Raum# bade4c0ad761dfc4625428032c9739f1": {
-        "Held in language": [
-            "de - German", 
-            "en - English"
-        ], 
-        "Has start time": [
-            "1514401200"
-        ], 
-        "Has event track": [
-            "Session"
-        ], 
-        "Has website": [
-            "http://fabmobil.org"
-        ], 
-        "Has description": [
-            "The fabmobil is mobile fablab in a double story bus. We use it visits schools and social centers the rural area oft east saxony to give classes and provide infrastructure. We want to get in contact with others who have similar plans or are just interested in the concept."
-        ], 
-        "Has session type": [
-            "Meeting"
-        ], 
-        "Has session location": [
-            {
-                "fulltext": "Assembly:Fabmobil", 
-                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Assembly:Fabmobil", 
-                "namespace": 504, 
-                "exists": true
-            }
-        ], 
-        "Has subtitle": [
-            "Fabmobil - Open Meeting"
-        ], 
-        "Is organized by": [], 
-        "Has title": [
-            "Fabmobil - Mobiles Fablab-Konzept f\u00fcr den l\u00e4ndlichen Raum"
-        ], 
-        "Has duration": [
-            180
-        ], 
-        "GUID": [
-            "ae137c03-4337-4c99-8706-7a0c6e072f35"
-        ], 
-        "Has color": [
-            "#0099ab"
-        ], 
-        "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:Fabmobil_-_Mobiles_Fablab-Konzept_f%C3%BCr_den_l%C3%A4ndlichen_Raum", 
-        "Has end time": [
-            "1514412000"
-        ]
-    }, 
     "Session:LEAP Platform for VPN and email providers# 1bc999943f1e27dc8a94353ce3f8b7ef": {
         "Held in language": [
             "en - English"
@@ -9056,42 +8959,52 @@
             "1514588400"
         ]
     }, 
-    "Session:Mietsh\u00e4usersyndikat was ist das?# 6e24fb2d386c015174232a15d414d17d": {
-        "Held in language": [], 
+    "Session:Letter writing to prisoners, sitting in jail for hacking# 9d722a7b202a7853d8968feff1c15650": {
+        "Held in language": [
+            "en - English"
+        ], 
         "Has start time": [
-            "1514376000"
+            "1514635200"
         ], 
         "Has event track": [
             "Session"
         ], 
-        "Has website": [], 
-        "Has description": [], 
-        "Has session type": [], 
+        "Has website": [
+            "http://abcdd.org"
+        ], 
+        "Has description": [
+            "Hacktivism from time to time leads to imprisonment and repressions. There are several people right now siting in jail that consider themselves anarchist or did actions that are supported by anarchist community. Not to let those people alone in prison we would like to have every day 1 hour around the table, where we get to know the stories of imprisoned activists and write them some words of support with postcards/letters.  You don't need any special skills for that. The postcards will be there for you."
+        ], 
+        "Has session type": [
+            "Workshop"
+        ], 
         "Has session location": [
             {
-                "fulltext": "Room:Komona Aquarius", 
-                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Room:Komona_Aquarius", 
+                "fulltext": "Room:Komona Coral Reef", 
+                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Room:Komona_Coral_Reef", 
                 "namespace": 516, 
                 "exists": true
             }
         ], 
-        "Has subtitle": [], 
+        "Has subtitle": [
+            "Day 4"
+        ], 
         "Is organized by": [], 
         "Has title": [
-            "Mietsh\u00e4usersyndikat was ist das?"
+            "Letter writing to prisoners, sitting in jail for hacking"
         ], 
         "Has duration": [
-            120
+            45
         ], 
         "GUID": [
-            "990fb289-6bc4-4ea9-8c3d-a63ea6c2c93b"
+            "a3026239-aef4-4d20-bdc5-003bfbbff970"
         ], 
         "Has color": [
             "#0099ab"
         ], 
-        "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:Mietsh%C3%A4usersyndikat_was_ist_das%3F", 
+        "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:Letter_writing_to_prisoners,_sitting_in_jail_for_hacking", 
         "Has end time": [
-            "1514383200"
+            "1514637900"
         ]
     }, 
     "Session:DLF# 39586741ed45eeae1d2d308db6fc0c4b": {
@@ -11221,52 +11134,42 @@
         "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:Hear_What_You_Like_to_Hear", 
         "Has end time": []
     }, 
-    "Session:Letter writing to prisoners, sitting in jail for hacking# 9d722a7b202a7853d8968feff1c15650": {
-        "Held in language": [
-            "en - English"
-        ], 
+    "Session:Mietsh\u00e4usersyndikat was ist das?# 6e24fb2d386c015174232a15d414d17d": {
+        "Held in language": [], 
         "Has start time": [
-            "1514635200"
+            "1514376000"
         ], 
         "Has event track": [
             "Session"
         ], 
-        "Has website": [
-            "http://abcdd.org"
-        ], 
-        "Has description": [
-            "Hacktivism from time to time leads to imprisonment and repressions. There are several people right now siting in jail that consider themselves anarchist or did actions that are supported by anarchist community. Not to let those people alone in prison we would like to have every day 1 hour around the table, where we get to know the stories of imprisoned activists and write them some words of support with postcards/letters.  You don't need any special skills for that. The postcards will be there for you."
-        ], 
-        "Has session type": [
-            "Workshop"
-        ], 
+        "Has website": [], 
+        "Has description": [], 
+        "Has session type": [], 
         "Has session location": [
             {
-                "fulltext": "Room:Komona Coral Reef", 
-                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Room:Komona_Coral_Reef", 
+                "fulltext": "Room:Komona Aquarius", 
+                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Room:Komona_Aquarius", 
                 "namespace": 516, 
                 "exists": true
             }
         ], 
-        "Has subtitle": [
-            "Day 4"
-        ], 
+        "Has subtitle": [], 
         "Is organized by": [], 
         "Has title": [
-            "Letter writing to prisoners, sitting in jail for hacking"
+            "Mietsh\u00e4usersyndikat was ist das?"
         ], 
         "Has duration": [
-            45
+            120
         ], 
         "GUID": [
-            "a3026239-aef4-4d20-bdc5-003bfbbff970"
+            "990fb289-6bc4-4ea9-8c3d-a63ea6c2c93b"
         ], 
         "Has color": [
             "#0099ab"
         ], 
-        "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:Letter_writing_to_prisoners,_sitting_in_jail_for_hacking", 
+        "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:Mietsh%C3%A4usersyndikat_was_ist_das%3F", 
         "Has end time": [
-            "1514637900"
+            "1514383200"
         ]
     }, 
     "Session:Hackbases yearly meeting (coliving hackerspace projects)# 77661f4867e6abe32340601f203cdc6e": {
@@ -11301,55 +11204,6 @@
         ], 
         "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:Hackbases_yearly_meeting_(coliving_hackerspace_projects)", 
         "Has end time": []
-    }, 
-    "Session:Fabmobil - Mobiles Fablab-Konzept f\u00fcr den l\u00e4ndlichen Raum# c9b9480f441d07241fccbb820557a6ca": {
-        "Held in language": [
-            "de - German", 
-            "en - English"
-        ], 
-        "Has start time": [
-            "1514545200"
-        ], 
-        "Has event track": [
-            "Session"
-        ], 
-        "Has website": [
-            "http://fabmobil.org"
-        ], 
-        "Has description": [
-            "The fabmobil is mobile fablab in a double story bus. We use it visits schools and social centers the rural area oft east saxony to give classes and provide infrastructure. We want to get in contact with others who have similar plans or are just interested in the concept."
-        ], 
-        "Has session type": [
-            "Meeting"
-        ], 
-        "Has session location": [
-            {
-                "fulltext": "Assembly:Fabmobil", 
-                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Assembly:Fabmobil", 
-                "namespace": 504, 
-                "exists": true
-            }
-        ], 
-        "Has subtitle": [
-            "Fabmobil - Open Meeting and Presentation"
-        ], 
-        "Is organized by": [], 
-        "Has title": [
-            "Fabmobil - Mobiles Fablab-Konzept f\u00fcr den l\u00e4ndlichen Raum"
-        ], 
-        "Has duration": [
-            120
-        ], 
-        "GUID": [
-            "ae137c03-4337-4c99-8706-7a0c6e072f35"
-        ], 
-        "Has color": [
-            "#0099ab"
-        ], 
-        "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:Fabmobil_-_Mobiles_Fablab-Konzept_f%C3%BCr_den_l%C3%A4ndlichen_Raum", 
-        "Has end time": [
-            "1514552400"
-        ]
     }, 
     "Session:Interledger: Streaming Micropayments + Connecting (Crypto)Currencies# 9f635fe3df31648746cd829771b3b6b3": {
         "Held in language": [
@@ -11448,55 +11302,6 @@
         "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:E-activism_for_NGOs", 
         "Has end time": [
             "1514462400"
-        ]
-    }, 
-    "Session:Fabmobil - Mobiles Fablab-Konzept f\u00fcr den l\u00e4ndlichen Raum# 22fcdd3db8aceff6278ac880cdc2aeb0": {
-        "Held in language": [
-            "de - German", 
-            "en - English"
-        ], 
-        "Has start time": [
-            "1514631600"
-        ], 
-        "Has event track": [
-            "Session"
-        ], 
-        "Has website": [
-            "http://fabmobil.org"
-        ], 
-        "Has description": [
-            "The fabmobil is mobile fablab in a double story bus. We use it visits schools and social centers the rural area oft east saxony to give classes and provide infrastructure. We want to get in contact with others who have similar plans or are just interested in the concept."
-        ], 
-        "Has session type": [
-            "Meeting"
-        ], 
-        "Has session location": [
-            {
-                "fulltext": "Assembly:Fabmobil", 
-                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Assembly:Fabmobil", 
-                "namespace": 504, 
-                "exists": true
-            }
-        ], 
-        "Has subtitle": [
-            "Fabmobil - Open Meeting and Presentation"
-        ], 
-        "Is organized by": [], 
-        "Has title": [
-            "Fabmobil - Mobiles Fablab-Konzept f\u00fcr den l\u00e4ndlichen Raum"
-        ], 
-        "Has duration": [
-            120
-        ], 
-        "GUID": [
-            "ae137c03-4337-4c99-8706-7a0c6e072f35"
-        ], 
-        "Has color": [
-            "#0099ab"
-        ], 
-        "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:Fabmobil_-_Mobiles_Fablab-Konzept_f%C3%BCr_den_l%C3%A4ndlichen_Raum", 
-        "Has end time": [
-            "1514638800"
         ]
     }, 
     "Session:TALEnet bidirectional QA# 400b48d0ad0404e470c08ea289be4ce2": {
@@ -11886,55 +11691,6 @@
         "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:Subtitles-Engelmeeting", 
         "Has end time": [
             "1514388600"
-        ]
-    }, 
-    "Session:Fabmobil - Mobiles Fablab-Konzept f\u00fcr den l\u00e4ndlichen Raum# fc5a52ad0d8adce91abfd74f6cc34b74": {
-        "Held in language": [
-            "de - German", 
-            "en - English"
-        ], 
-        "Has start time": [
-            "1514390400"
-        ], 
-        "Has event track": [
-            "Session"
-        ], 
-        "Has website": [
-            "http://fabmobil.org"
-        ], 
-        "Has description": [
-            "The fabmobil is mobile fablab in a double story bus. We use it visits schools and social centers the rural area oft east saxony to give classes and provide infrastructure. We want to get in contact with others who have similar plans or are just interested in the concept."
-        ], 
-        "Has session type": [
-            "Meeting"
-        ], 
-        "Has session location": [
-            {
-                "fulltext": "Assembly:Fabmobil", 
-                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Assembly:Fabmobil", 
-                "namespace": 504, 
-                "exists": true
-            }
-        ], 
-        "Has subtitle": [
-            "Fabmobil - Open Meeting"
-        ], 
-        "Is organized by": [], 
-        "Has title": [
-            "Fabmobil - Mobiles Fablab-Konzept f\u00fcr den l\u00e4ndlichen Raum"
-        ], 
-        "Has duration": [
-            180
-        ], 
-        "GUID": [
-            "a4ebd8f5-28f7-4c97-bbca-0cd7d18325a4"
-        ], 
-        "Has color": [
-            "#0099ab"
-        ], 
-        "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:Fabmobil_-_Mobiles_Fablab-Konzept_f%C3%BCr_den_l%C3%A4ndlichen_Raum", 
-        "Has end time": [
-            "1514401200"
         ]
     }, 
     "Session:Arduino-Workshop# 2fe464e476f593f5b59dc80a7f9085eb": {
@@ -14998,6 +14754,57 @@
             "1514484000"
         ]
     }, 
+    "Session:A Blueprint for Making Namecoin Anonymous# b8df81b248c15a2873d6ec530ffe19cb": {
+        "Held in language": [
+            "en - English"
+        ], 
+        "Has start time": [
+            "1514486700"
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [], 
+        "Has description": [
+            "Namecoin aims to support anonymous name registrations, but our approach isn't to simply implement the Monero or Zcash anonymity features as consensus rules.  I'll explain why we're taking a very different approach."
+        ], 
+        "Has session type": [
+            "Talk"
+        ], 
+        "Has session location": [
+            {
+                "fulltext": "Room:Chaos West Stage", 
+                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Room:Chaos_West_Stage", 
+                "namespace": 516, 
+                "exists": true
+            }
+        ], 
+        "Has subtitle": [], 
+        "Is organized by": [
+            {
+                "fulltext": "User:JeremyRand", 
+                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/User:JeremyRand", 
+                "namespace": 2, 
+                "exists": true
+            }
+        ], 
+        "Has title": [
+            "A Blueprint for Making Namecoin Anonymous"
+        ], 
+        "Has duration": [
+            25
+        ], 
+        "GUID": [
+            "6f2b3f26-d30d-463a-a491-cf3991a6f3c0"
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:A_Blueprint_for_Making_Namecoin_Anonymous", 
+        "Has end time": [
+            "1514488200"
+        ]
+    }, 
     "Session:Query Wikidata in SPARQL# 68fa62db3df822abff7d6ef15b9914d3": {
         "Held in language": [
             "en - English"
@@ -16138,6 +15945,53 @@
             "1514460600"
         ]
     }, 
+    "Session:Rights&Freedoms# 82bb97a033dc8bfe5ffdcc1b974df835": {
+        "Held in language": [
+            "de - German", 
+            "en - English"
+        ], 
+        "Has start time": [
+            "1514552400"
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [], 
+        "Has description": [
+            "Rights & Freedoms Cluster Stage Programme"
+        ], 
+        "Has session type": [
+            "Talk"
+        ], 
+        "Has session location": [
+            {
+                "fulltext": "Room:CCL Hall 3", 
+                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Room:CCL_Hall_3", 
+                "namespace": 516, 
+                "exists": true
+            }
+        ], 
+        "Has subtitle": [
+            "[https://events.ccc.de/congress/2017/wiki/index.php/Session:Information_security_theater_vs._Investigative_journalism Information security theater vs. Investigative journalism] (Rysiek, OCCRP)"
+        ], 
+        "Is organized by": [], 
+        "Has title": [
+            "Rights&Freedoms"
+        ], 
+        "Has duration": [
+            60
+        ], 
+        "GUID": [
+            "c682fa8a-045b-4a09-8164-1b33826b8e63"
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:Rights%26Freedoms", 
+        "Has end time": [
+            "1514556000"
+        ]
+    }, 
     "Session:A personal epiphany and endless inspection! Meet Sophia!# ff435ae572c822a326aa37859b95a605": {
         "Held in language": [
             "de - German", 
@@ -16382,6 +16236,59 @@
         "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:DLF", 
         "Has end time": [
             "1514377800"
+        ]
+    }, 
+    "Session:Let's talk about practicalities of internet censorship circumvention# a43dced3e5a61a2fd6fcb0d1a50170ca": {
+        "Held in language": [
+            "en - English"
+        ], 
+        "Has start time": [
+            "1514476800"
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [], 
+        "Has description": [
+            "Let's talk about practicalities of internet censorship circumvention, from the perspective of the reader/user, and from the perspective of the publisher.\n\nFrom the point of view of the reader/user, there is Tor, there are VPNs, there are proxies. While useful and effective, these tools are often illegal, and blocked, in a rising number of countries. Centralized appstores also are obviously revealing themselves as a problem (no surprise to many Internet activists) by blocking VPN apps in certain areas as requested by governments (like Apple in China).\n\nFrom the point of view of the publisher, a solution is needed that does not require the readers/users to install specific software. Requiring or expecting a large population of people to install Tor Browser has proved not to be a workable solution, for example. Domain fronting is in its infancy, browsers still do not support it, and we have seen SNI-based blocking of TLS traffic in the wild - not to mention, it relies on large, centralized providers to front for you. Again, this can mean a government has a way of pushing your content off of the Net simply by using the pressure points of a given large provider.\n\nMobile apps might be a solution, but again, they require cooperation of large appstores.\n\nThere really doesn't seem to be a good solution."
+        ], 
+        "Has session type": [
+            "Talk"
+        ], 
+        "Has session location": [
+            {
+                "fulltext": "Assembly:TeaHouse", 
+                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Assembly:TeaHouse", 
+                "namespace": 504, 
+                "exists": true
+            }
+        ], 
+        "Has subtitle": [
+            "Let's talk about practicalities of internet censorship circumvention"
+        ], 
+        "Is organized by": [
+            {
+                "fulltext": "User:Rysiek", 
+                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/User:Rysiek", 
+                "namespace": 2, 
+                "exists": true
+            }
+        ], 
+        "Has title": [
+            "Let's talk about practicalities of internet censorship circumvention"
+        ], 
+        "Has duration": [
+            60
+        ], 
+        "GUID": [
+            "68c26941-115f-4ada-8ed5-d0e4217680cf"
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:Let%27s_talk_about_practicalities_of_internet_censorship_circumvention", 
+        "Has end time": [
+            "1514480400"
         ]
     }, 
     "Session:A/V Angel Meeting# 5c285b4a67929ae8bde7565e8ec1dd37": {
@@ -17503,52 +17410,57 @@
             "1514412000"
         ]
     }, 
-    "Session:Letter writing to prisoners, sitting in jail for hacking# 8141aeca2f43dc74ddfbbaede7bdfb78": {
+    "Session:TeaHouse# 3fa552470c953db85366ba85338756db": {
         "Held in language": [
             "en - English"
         ], 
         "Has start time": [
-            "1514462400"
+            "1514390400"
         ], 
         "Has event track": [
             "Session"
         ], 
         "Has website": [
-            "http://abcdd.org"
+            "https://teahouse.homecomputing.fr/"
         ], 
-        "Has description": [
-            "Hacktivism from time to time leads to imprisonment and repressions. There are several people right now siting in jail that consider themselves anarchist or did actions that are supported by anarchist community. Not to let those people alone in prison we would like to have every day 1 hour around the table, where we get to know the stories of imprisoned activists and write them some words of support with postcards/letters.  You don't need any special skills for that. The postcards will be there for you."
-        ], 
+        "Has description": [], 
         "Has session type": [
-            "Workshop"
+            "Meeting"
         ], 
         "Has session location": [
             {
-                "fulltext": "Room:Komona Coral Reef", 
-                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Room:Komona_Coral_Reef", 
-                "namespace": 516, 
+                "fulltext": "Assembly:TeaHouse", 
+                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Assembly:TeaHouse", 
+                "namespace": 504, 
                 "exists": true
             }
         ], 
         "Has subtitle": [
-            "Day 2"
+            "Hackerfleet Operating System"
         ], 
-        "Is organized by": [], 
+        "Is organized by": [
+            {
+                "fulltext": "User:Sanpi", 
+                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/User:Sanpi", 
+                "namespace": 2, 
+                "exists": true
+            }
+        ], 
         "Has title": [
-            "Letter writing to prisoners, sitting in jail for hacking"
+            "TeaHouse"
         ], 
         "Has duration": [
             45
         ], 
         "GUID": [
-            "78b6af67-7c9d-460a-ac37-0428a4178e00"
+            "0684a69d-9796-4946-9955-84cfafe8cb64"
         ], 
         "Has color": [
             "#0099ab"
         ], 
-        "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:Letter_writing_to_prisoners,_sitting_in_jail_for_hacking", 
+        "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:TeaHouse", 
         "Has end time": [
-            "1514465100"
+            "1514393100"
         ]
     }, 
     "Session:NixOS Meetup# e0c4091ecbe066a2b3029a7a57010caf": {
@@ -18757,55 +18669,6 @@
             "1514391900"
         ]
     }, 
-    "Session:Fabmobil - Mobiles Fablab-Konzept f\u00fcr den l\u00e4ndlichen Raum# 185f2545604061d054d7256e8bd67767": {
-        "Held in language": [
-            "de - German", 
-            "en - English"
-        ], 
-        "Has start time": [
-            "1514570400"
-        ], 
-        "Has event track": [
-            "Session"
-        ], 
-        "Has website": [
-            "http://fabmobil.org"
-        ], 
-        "Has description": [
-            "The fabmobil is mobile fablab in a double story bus. We use it visits schools and social centers the rural area oft east saxony to give classes and provide infrastructure. We want to get in contact with others who have similar plans or are just interested in the concept."
-        ], 
-        "Has session type": [
-            "Meeting"
-        ], 
-        "Has session location": [
-            {
-                "fulltext": "Assembly:Fabmobil", 
-                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Assembly:Fabmobil", 
-                "namespace": 504, 
-                "exists": true
-            }
-        ], 
-        "Has subtitle": [
-            "Fabmobil - Open Meeting and Presentation"
-        ], 
-        "Is organized by": [], 
-        "Has title": [
-            "Fabmobil - Mobiles Fablab-Konzept f\u00fcr den l\u00e4ndlichen Raum"
-        ], 
-        "Has duration": [
-            120
-        ], 
-        "GUID": [
-            "ae137c03-4337-4c99-8706-7a0c6e072f35"
-        ], 
-        "Has color": [
-            "#0099ab"
-        ], 
-        "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:Fabmobil_-_Mobiles_Fablab-Konzept_f%C3%BCr_den_l%C3%A4ndlichen_Raum", 
-        "Has end time": [
-            "1514577600"
-        ]
-    }, 
     "Session:Alternatives Wirtschaften# 01be2f70fbb44f62c9e2611cd7f40d9e": {
         "Held in language": [
             "en - English", 
@@ -19050,57 +18913,6 @@
             "1514495700"
         ]
     }, 
-    "Session:A Blueprint for Making Namecoin Anonymous# 4c32f48408a08369921c955b0e85464c": {
-        "Held in language": [
-            "en - English"
-        ], 
-        "Has start time": [
-            "1514485800"
-        ], 
-        "Has event track": [
-            "Session"
-        ], 
-        "Has website": [], 
-        "Has description": [
-            "Namecoin aims to support anonymous name registrations, but our approach isn't to simply implement the Monero or Zcash anonymity features as consensus rules.  I'll explain why we're taking a very different approach."
-        ], 
-        "Has session type": [
-            "Talk"
-        ], 
-        "Has session location": [
-            {
-                "fulltext": "Room:Chaos West Stage", 
-                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Room:Chaos_West_Stage", 
-                "namespace": 516, 
-                "exists": true
-            }
-        ], 
-        "Has subtitle": [], 
-        "Is organized by": [
-            {
-                "fulltext": "User:JeremyRand", 
-                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/User:JeremyRand", 
-                "namespace": 2, 
-                "exists": true
-            }
-        ], 
-        "Has title": [
-            "A Blueprint for Making Namecoin Anonymous"
-        ], 
-        "Has duration": [
-            25
-        ], 
-        "GUID": [
-            "6f2b3f26-d30d-463a-a491-cf3991a6f3c0"
-        ], 
-        "Has color": [
-            "#0099ab"
-        ], 
-        "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:A_Blueprint_for_Making_Namecoin_Anonymous", 
-        "Has end time": [
-            "1514487300"
-        ]
-    }, 
     "Session:DLF# a69903a482863aaef1626b8f0a760468": {
         "Held in language": [
             "de - German"
@@ -19277,55 +19089,6 @@
             "#0099ab"
         ], 
         "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:RHIZOM_festival:_an_intro_to_everything_for_everyone_for_nothing", 
-        "Has end time": [
-            "1514664000"
-        ]
-    }, 
-    "Session:Fabmobil - Mobiles Fablab-Konzept f\u00fcr den l\u00e4ndlichen Raum# 813866a3ce2b82f750adc515beae8d32": {
-        "Held in language": [
-            "de - German", 
-            "en - English"
-        ], 
-        "Has start time": [
-            "1514656800"
-        ], 
-        "Has event track": [
-            "Session"
-        ], 
-        "Has website": [
-            "http://fabmobil.org"
-        ], 
-        "Has description": [
-            "The fabmobil is mobile fablab in a double story bus. We use it visits schools and social centers the rural area oft east saxony to give classes and provide infrastructure. We want to get in contact with others who have similar plans or are just interested in the concept."
-        ], 
-        "Has session type": [
-            "Meeting"
-        ], 
-        "Has session location": [
-            {
-                "fulltext": "Assembly:Fabmobil", 
-                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Assembly:Fabmobil", 
-                "namespace": 504, 
-                "exists": true
-            }
-        ], 
-        "Has subtitle": [
-            "Fabmobil - Open Meeting and Presentation"
-        ], 
-        "Is organized by": [], 
-        "Has title": [
-            "Fabmobil - Mobiles Fablab-Konzept f\u00fcr den l\u00e4ndlichen Raum"
-        ], 
-        "Has duration": [
-            120
-        ], 
-        "GUID": [
-            "ae137c03-4337-4c99-8706-7a0c6e072f35"
-        ], 
-        "Has color": [
-            "#0099ab"
-        ], 
-        "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:Fabmobil_-_Mobiles_Fablab-Konzept_f%C3%BCr_den_l%C3%A4ndlichen_Raum", 
         "Has end time": [
             "1514664000"
         ]
