@@ -4631,6 +4631,61 @@
             "1514403000"
         ]
     }, 
+    "Session:Schleuder# 333059041d8a4ce8d2cfa9b7e98eb45c": {
+        "Held in language": [
+            "en - English"
+        ], 
+        "Has start time": [
+            "1514466900"
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [
+            "https://schleuder.nadir.org/"
+        ], 
+        "Has description": [
+            "A workshop on the development of Schleuder, the crypto mailinglist manager: what's new in version 3, the new web-interface, what will be next, etc.\n\nDepending on the attendee's wishes, we can also take time to answer questions, discuss ideas, or provide practical help with problems."
+        ], 
+        "Has session type": [
+            "Workshop"
+        ], 
+        "Has session location": [
+            {
+                "fulltext": "Room:Lecture room 11", 
+                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Room:Lecture_room_11", 
+                "namespace": 516, 
+                "exists": true
+            }
+        ], 
+        "Has subtitle": [
+            "Last years development & discussion"
+        ], 
+        "Is organized by": [
+            {
+                "fulltext": "User:Paz", 
+                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/User:Paz", 
+                "namespace": 2, 
+                "exists": true
+            }
+        ], 
+        "Has title": [
+            "Schleuder"
+        ], 
+        "Has duration": [
+            45
+        ], 
+        "GUID": [
+            "90e4dc9d-fa68-400a-a202-c0d2714d4c1c"
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:Schleuder", 
+        "Has end time": [
+            "1514469600"
+        ]
+    }, 
     "Session:Throwies# e27ebec0de39dbae7585138a3b649bff": {
         "Held in language": [
             "de - German"
@@ -15951,59 +16006,6 @@
         "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:Cryptoparty", 
         "Has end time": [
             "1514397600"
-        ]
-    }, 
-    "Session:Schleuder# 979f46d72e72de3e8ab80af360fd0916": {
-        "Held in language": [
-            "en - English"
-        ], 
-        "Has start time": [
-            "1514466000"
-        ], 
-        "Has event track": [
-            "Session"
-        ], 
-        "Has website": [
-            "https://schleuder.nadir.org/"
-        ], 
-        "Has description": [
-            "A workshop on the development of Schleuder, the crypto mailinglist manager: what's new in version 3, the new web-interface, what will be next, etc.\n\nDepending on the attendee's wishes, we can also take time to answer questions, discuss ideas, or provide practical help with problems."
-        ], 
-        "Has session type": [
-            "Workshop"
-        ], 
-        "Has session location": [
-            {
-                "fulltext": "Room:Komona Aquarius", 
-                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Room:Komona_Aquarius", 
-                "namespace": 516, 
-                "exists": true
-            }
-        ], 
-        "Has subtitle": [], 
-        "Is organized by": [
-            {
-                "fulltext": "User:Paz", 
-                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/User:Paz", 
-                "namespace": 2, 
-                "exists": true
-            }
-        ], 
-        "Has title": [
-            "Schleuder"
-        ], 
-        "Has duration": [
-            60
-        ], 
-        "GUID": [
-            "90e4dc9d-fa68-400a-a202-c0d2714d4c1c"
-        ], 
-        "Has color": [
-            "#0099ab"
-        ], 
-        "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:Schleuder", 
-        "Has end time": [
-            "1514469600"
         ]
     }, 
     "Session:Cryptoparties, specialized content, and creative outreach# 71a713f9c816491aebdb104bfa8eecc5": {
