@@ -8309,51 +8309,59 @@
             "1514573100"
         ]
     }, 
-    "Session:Rights&Freedoms# 63915c3785ba01fa2baaa9cb0fe970ad": {
+    "Session:Calliope Workshops# 037b29c84dc3dea52230e42f0221c641": {
         "Held in language": [
-            "de - German", 
-            "en - English"
+            "de - German"
         ], 
         "Has start time": [
-            "1514563200"
+            "1514466000"
         ], 
         "Has event track": [
             "Session"
         ], 
-        "Has website": [], 
+        "Has website": [
+            "http://calliope.cc"
+        ], 
         "Has description": [
-            "Rights & Freedoms Cluster Stage Programme"
+            "Kinder ab 8 Jahren sind herzlich willkommen ihre ersten Erfahrungen mit dem Programmieren zu machen."
         ], 
         "Has session type": [
-            "Talk"
+            "Workshop"
         ], 
         "Has session location": [
             {
-                "fulltext": "Room:CCL Hall 3", 
-                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Room:CCL_Hall_3", 
+                "fulltext": "Room:Esszimmer", 
+                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Room:Esszimmer", 
                 "namespace": 516, 
                 "exists": true
             }
         ], 
         "Has subtitle": [
-            "[https://events.ccc.de/congress/2017/wiki/index.php/Session:Fixing_mass_surveillance:_one_court_case_at_a_time! Fixing mass surveillance: one court case at a time!] (Exegetes)"
+            "Calliope Workshop 2"
         ], 
-        "Is organized by": [], 
+        "Is organized by": [
+            {
+                "fulltext": "User:DerMicha", 
+                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/User:DerMicha", 
+                "namespace": 2, 
+                "exists": true
+            }
+        ], 
         "Has title": [
-            "Rights&Freedoms"
+            "Calliope Workshops"
         ], 
         "Has duration": [
-            120
+            60
         ], 
         "GUID": [
-            "d3a4bc15-b59a-46ee-92ec-bdc95e79f295"
+            "5ebed7df-9716-4022-bb28-2b747e5cfbf1"
         ], 
         "Has color": [
             "#0099ab"
         ], 
-        "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:Rights%26Freedoms", 
+        "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:Calliope_Workshops", 
         "Has end time": [
-            "1514570400"
+            "1514469600"
         ]
     }, 
     "Session:LearnToSolder# 7052f89f76993ab804a37a55da818529": {
@@ -11479,59 +11487,51 @@
             "1577635200"
         ]
     }, 
-    "Session:Calliope Workshops# 037b29c84dc3dea52230e42f0221c641": {
+    "Session:Rights&Freedoms# 63915c3785ba01fa2baaa9cb0fe970ad": {
         "Held in language": [
-            "de - German"
+            "de - German", 
+            "en - English"
         ], 
         "Has start time": [
-            "1514466000"
+            "1514563200"
         ], 
         "Has event track": [
             "Session"
         ], 
-        "Has website": [
-            "http://calliope.cc"
-        ], 
+        "Has website": [], 
         "Has description": [
-            "Kinder ab 8 Jahren sind herzlich willkommen ihre ersten Erfahrungen mit dem Programmieren zu machen."
+            "Rights & Freedoms Cluster Stage Programme"
         ], 
         "Has session type": [
-            "Workshop"
+            "Talk"
         ], 
         "Has session location": [
             {
-                "fulltext": "Room:Esszimmer", 
-                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Room:Esszimmer", 
+                "fulltext": "Room:CCL Hall 3", 
+                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Room:CCL_Hall_3", 
                 "namespace": 516, 
                 "exists": true
             }
         ], 
         "Has subtitle": [
-            "Calliope Workshop 2"
+            "[https://events.ccc.de/congress/2017/wiki/index.php/Session:Fixing_mass_surveillance:_one_court_case_at_a_time! Fixing mass surveillance: one court case at a time!] (Exegetes)"
         ], 
-        "Is organized by": [
-            {
-                "fulltext": "User:DerMicha", 
-                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/User:DerMicha", 
-                "namespace": 2, 
-                "exists": true
-            }
-        ], 
+        "Is organized by": [], 
         "Has title": [
-            "Calliope Workshops"
+            "Rights&Freedoms"
         ], 
         "Has duration": [
-            60
+            120
         ], 
         "GUID": [
-            "5ebed7df-9716-4022-bb28-2b747e5cfbf1"
+            "d3a4bc15-b59a-46ee-92ec-bdc95e79f295"
         ], 
         "Has color": [
             "#0099ab"
         ], 
-        "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:Calliope_Workshops", 
+        "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:Rights%26Freedoms", 
         "Has end time": [
-            "1514469600"
+            "1514570400"
         ]
     }, 
     "Session:Rights&Freedoms# 630d4dc3b7f7ed98d7ae89b79d7be0e2": {
@@ -18633,6 +18633,43 @@
         "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:Newpipe", 
         "Has end time": [
             "1514386800"
+        ]
+    }, 
+    "Session:Flunkyball Day 2# 8f2ed746c7ab5f998cb0f695c0303bfa": {
+        "Held in language": [], 
+        "Has start time": [
+            "1514499300"
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [
+            "http://upb-flunkyteam.de"
+        ], 
+        "Has description": [
+            "We (the university flunkyball team from Paderborn) are going to play some nice games of flunkyball."
+        ], 
+        "Has session type": [
+            "Game"
+        ], 
+        "Has session location": [], 
+        "Has subtitle": [], 
+        "Is organized by": [], 
+        "Has title": [
+            "Flunkyball Day 2"
+        ], 
+        "Has duration": [
+            60
+        ], 
+        "GUID": [
+            "907f3b0c-5654-4ab2-91f2-86e820f0560d"
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:Flunkyball_Day_2", 
+        "Has end time": [
+            "1514502900"
         ]
     }, 
     "Session:Bin\u00e4rgewitter H\u00f6rertreffen# da4ebf13c157a8cbef61347d4d863669": {
