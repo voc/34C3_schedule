@@ -12476,60 +12476,6 @@
             "1514574000"
         ]
     }, 
-    "Session:Tell me a story# b50bf887b0a94f4f10b1da67d9b2c767": {
-        "Held in language": [
-            "de - German", 
-            "en - English"
-        ], 
-        "Has start time": [
-            "1514642400"
-        ], 
-        "Has event track": [
-            "Session"
-        ], 
-        "Has website": [
-            "https://www.fro.at/sendungen/fenstergeschichten/"
-        ], 
-        "Has description": [
-            "it's all about stories and songs. for my show on community radio upper austria, i am looking for people who tell me their favorite random story which is connected to a specific song. i will record it and might use it for my radio show. // any language is welcome :-)"
-        ], 
-        "Has session type": [
-            "Other"
-        ], 
-        "Has session location": [
-            {
-                "fulltext": "Room:Seminar room 14-15", 
-                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Room:Seminar_room_14-15", 
-                "namespace": 516, 
-                "exists": true
-            }
-        ], 
-        "Has subtitle": [], 
-        "Is organized by": [
-            {
-                "fulltext": "User:Astroid", 
-                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/User:Astroid", 
-                "namespace": 2, 
-                "exists": true
-            }
-        ], 
-        "Has title": [
-            "Tell me a story"
-        ], 
-        "Has duration": [
-            60
-        ], 
-        "GUID": [
-            "afd17345-39e2-44ad-b303-a6595f78ac08"
-        ], 
-        "Has color": [
-            "#0099ab"
-        ], 
-        "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:Tell_me_a_story", 
-        "Has end time": [
-            "1514646000"
-        ]
-    }, 
     "Session:TeaHouse# 6f1b570a5c0e6471dc60d210b99c5ccf": {
         "Held in language": [
             "en - English"
@@ -13302,6 +13248,57 @@
         "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:Lehrerstammtisch", 
         "Has end time": [
             "1514408400"
+        ]
+    }, 
+    "Session:WikiWat# d896da000debe9ed809b8d5573f7f027": {
+        "Held in language": [
+            "en - English"
+        ], 
+        "Has start time": [
+            "1514484000"
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [], 
+        "Has description": [
+            "Du kennst Wikipedia. Aber wer zur H\u00f6lle sind Wikimedia, MediaWiki, Wikidata? Was machen die? Was k\u00f6nnen sie f\u00fcr dich tun?\nBonus: FAQ - Was du schon immer \u00fcber WikiP/Media wissen wolltest, aber dich nie zu fragen trautest."
+        ], 
+        "Has session type": [
+            "Talk"
+        ], 
+        "Has session location": [
+            {
+                "fulltext": "Room:Hive Stage", 
+                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Room:Hive_Stage", 
+                "namespace": 516, 
+                "exists": true
+            }
+        ], 
+        "Has subtitle": [], 
+        "Is organized by": [
+            {
+                "fulltext": "User:Brightbyte", 
+                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/User:Brightbyte", 
+                "namespace": 2, 
+                "exists": false
+            }
+        ], 
+        "Has title": [
+            "WikiWat"
+        ], 
+        "Has duration": [
+            45
+        ], 
+        "GUID": [
+            "0d30238d-6ac6-4c17-aa28-23d42dff0508"
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:WikiWat", 
+        "Has end time": [
+            "1514486700"
         ]
     }, 
     "Session:Polyamory - Guide / extended# 244b9bcf6dd5fb6dadea45f9ad4940ad": {
@@ -14771,57 +14768,6 @@
         "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:%E2%80%9CHow_To_Survice_34C3%E2%80%9D_CryptoParty", 
         "Has end time": [
             "1514653200"
-        ]
-    }, 
-    "Session:WikiWhat# 72065e862d6137d469de4102972c6278": {
-        "Held in language": [
-            "en - English"
-        ], 
-        "Has start time": [
-            "1514484000"
-        ], 
-        "Has event track": [
-            "Session"
-        ], 
-        "Has website": [], 
-        "Has description": [
-            "Wikimedia, MediaWiki, Wikipedia, Wikidata... what is what, and why."
-        ], 
-        "Has session type": [
-            "Talk"
-        ], 
-        "Has session location": [
-            {
-                "fulltext": "Room:Hive Stage", 
-                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Room:Hive_Stage", 
-                "namespace": 516, 
-                "exists": true
-            }
-        ], 
-        "Has subtitle": [], 
-        "Is organized by": [
-            {
-                "fulltext": "User:Brightbyte", 
-                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/User:Brightbyte", 
-                "namespace": 2, 
-                "exists": false
-            }
-        ], 
-        "Has title": [
-            "WikiWhat"
-        ], 
-        "Has duration": [
-            45
-        ], 
-        "GUID": [
-            "0d30238d-6ac6-4c17-aa28-23d42dff0508"
-        ], 
-        "Has color": [
-            "#0099ab"
-        ], 
-        "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:WikiWhat", 
-        "Has end time": [
-            "1514486700"
         ]
     }, 
     "Session:BBS SysOP/User meetup# 37220e0e02ce0612189b22de8d70eb72": {
