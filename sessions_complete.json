@@ -4439,6 +4439,52 @@
         "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:The_ultimate_Free_Software_challenge", 
         "Has end time": []
     }, 
+    "Session:Lainchan Meetup# 278f1ff7b230d390b6587be569653890": {
+        "Held in language": [
+            "en - English"
+        ], 
+        "Has start time": [
+            "1514498400"
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [
+            "https://lainchan.org"
+        ], 
+        "Has description": [
+            "A gathering of lainons at the TeaHouse"
+        ], 
+        "Has session type": [
+            "Meeting"
+        ], 
+        "Has session location": [
+            {
+                "fulltext": "Assembly:TeaHouse", 
+                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Assembly:TeaHouse", 
+                "namespace": 504, 
+                "exists": true
+            }
+        ], 
+        "Has subtitle": [], 
+        "Is organized by": [], 
+        "Has title": [
+            "Lainchan Meetup"
+        ], 
+        "Has duration": [
+            120
+        ], 
+        "GUID": [
+            "66a66ea4-e4e9-49e3-b218-ba6a8c5cd513"
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:Lainchan_Meetup", 
+        "Has end time": [
+            "1514505600"
+        ]
+    }, 
     "Session:Twink Geeks Gathering - Flausch f\u00fcr Jungs# 7c14fdf84846de1d3cc1a9fc47cd5e79": {
         "Held in language": [
             "de - German", 
@@ -6422,6 +6468,59 @@
         "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:Translation_Team", 
         "Has end time": [
             "1514572200"
+        ]
+    }, 
+    "Session:42birds: Nerd Game Show# b1bf7c6a114e3c679007f52eb3c3399d": {
+        "Held in language": [
+            "en - English"
+        ], 
+        "Has start time": [
+            "1514494800"
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [
+            "https://kahoot.it/"
+        ], 
+        "Has description": [
+            "\ud83d\ude48 \ud83d\ude49 \ud83d\ude4a You Know Stuff \u2610 \u2612 \u2611 Answer nerdy questions on your notebook / smartphone and win a (small) price \ud83d\ude38 \ud83d\ude39 \ud83d\ude3b"
+        ], 
+        "Has session type": [
+            "Game"
+        ], 
+        "Has session location": [
+            {
+                "fulltext": "Room:Chaos West Stage", 
+                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Room:Chaos_West_Stage", 
+                "namespace": 516, 
+                "exists": true
+            }
+        ], 
+        "Has subtitle": [], 
+        "Is organized by": [
+            {
+                "fulltext": "User:Birdy1976", 
+                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/User:Birdy1976", 
+                "namespace": 2, 
+                "exists": true
+            }
+        ], 
+        "Has title": [
+            "42birds: Nerd Game Show"
+        ], 
+        "Has duration": [
+            60
+        ], 
+        "GUID": [
+            "04616e5d-68d0-4220-b00b-5b833b35b246"
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:42birds:_Nerd_Game_Show", 
+        "Has end time": [
+            "1514498400"
         ]
     }, 
     "Session:Rights&Freedoms# 880f8542ef64de6bef5f9004d06b16bc": {
@@ -18107,39 +18206,6 @@
         "Has end time": [
             "1514584800"
         ]
-    }, 
-    "Session:Lainchan Meetup# 662e9a9620ba88db76469bba5e2c3bd3": {
-        "Held in language": [
-            "en - English"
-        ], 
-        "Has start time": [], 
-        "Has event track": [
-            "Session"
-        ], 
-        "Has website": [
-            "https://lainchan.org"
-        ], 
-        "Has description": [
-            "A gathering of lainons at the TeaHouse"
-        ], 
-        "Has session type": [
-            "Meeting"
-        ], 
-        "Has session location": [], 
-        "Has subtitle": [], 
-        "Is organized by": [], 
-        "Has title": [
-            "Lainchan Meetup"
-        ], 
-        "Has duration": [], 
-        "GUID": [
-            "66a66ea4-e4e9-49e3-b218-ba6a8c5cd513"
-        ], 
-        "Has color": [
-            "#0099ab"
-        ], 
-        "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:Lainchan_Meetup", 
-        "Has end time": []
     }, 
     "Session:Hessentrojaner Meetup# 633a78ebe0699f4dcdaad66afc0861f5": {
         "Held in language": [
