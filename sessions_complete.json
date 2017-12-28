@@ -5738,39 +5738,6 @@
             "1514476800"
         ]
     }, 
-    "Session:Elektrogruselkabinett# ec57a96d28f0d289f8d85e2bea92f740": {
-        "Held in language": [
-            "de - German"
-        ], 
-        "Has start time": [], 
-        "Has event track": [
-            "Session"
-        ], 
-        "Has website": [], 
-        "Has description": [
-            "Fotosesseion \u00fcber falsch gemachte Elektroinstallationen (Gruselkabinett)"
-        ], 
-        "Has session type": [
-            "Talk"
-        ], 
-        "Has session location": [], 
-        "Has subtitle": [
-            "Elekroinstallation done wrong"
-        ], 
-        "Is organized by": [], 
-        "Has title": [
-            "Elektrogruselkabinett"
-        ], 
-        "Has duration": [], 
-        "GUID": [
-            "2ba1869d-80bf-464d-ad84-360c60517730"
-        ], 
-        "Has color": [
-            "#0099ab"
-        ], 
-        "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:Elektrogruselkabinett", 
-        "Has end time": []
-    }, 
     "Session:Sticker meet up# b376af90c0928260c3a85b18cd23c1b7": {
         "Held in language": [
             "de - German", 
@@ -15304,6 +15271,52 @@
         "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:Klangteppich", 
         "Has end time": [
             "1514599200"
+        ]
+    }, 
+    "Session:Elektrogruselkabinett# bc67d3d21039c467e55ac5c1b5411759": {
+        "Held in language": [
+            "de - German"
+        ], 
+        "Has start time": [
+            "1514498400"
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [], 
+        "Has description": [
+            "Fotosesseion \u00fcber falsch gemachte Elektroinstallationen (Gruselkabinett)"
+        ], 
+        "Has session type": [
+            "Talk"
+        ], 
+        "Has session location": [
+            {
+                "fulltext": "Room:Komona Aquarius", 
+                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Room:Komona_Aquarius", 
+                "namespace": 516, 
+                "exists": true
+            }
+        ], 
+        "Has subtitle": [
+            "Elekroinstallation done wrong"
+        ], 
+        "Is organized by": [], 
+        "Has title": [
+            "Elektrogruselkabinett"
+        ], 
+        "Has duration": [
+            60
+        ], 
+        "GUID": [
+            "2ba1869d-80bf-464d-ad84-360c60517730"
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:Elektrogruselkabinett", 
+        "Has end time": [
+            "1514502000"
         ]
     }, 
     "Session:Anarchist hackers - Hispagatos International anarchist-hacker collective# f4e3df0aa42144573fba6a03c70378e1": {
