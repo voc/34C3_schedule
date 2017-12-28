@@ -5325,6 +5325,59 @@
             "1514392200"
         ]
     }, 
+    "Session:Elektrogruselkabinett# dc97d1bc251df97ad7c378d4c26ce1c4": {
+        "Held in language": [
+            "de - German"
+        ], 
+        "Has start time": [
+            "1514498400"
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [], 
+        "Has description": [
+            "Fotosesseion \u00fcber falsch gemachte Elektroinstallationen (Gruselkabinett)"
+        ], 
+        "Has session type": [
+            "Talk"
+        ], 
+        "Has session location": [
+            {
+                "fulltext": "Room:Komona Aquarius", 
+                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Room:Komona_Aquarius", 
+                "namespace": 516, 
+                "exists": true
+            }
+        ], 
+        "Has subtitle": [
+            "Elekroinstallation done wrong (Bilder schlechter E-Installation)"
+        ], 
+        "Is organized by": [
+            {
+                "fulltext": "User:Eleitung", 
+                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/User:Eleitung", 
+                "namespace": 2, 
+                "exists": true
+            }
+        ], 
+        "Has title": [
+            "Elektrogruselkabinett"
+        ], 
+        "Has duration": [
+            60
+        ], 
+        "GUID": [
+            "2ba1869d-80bf-464d-ad84-360c60517730"
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:Elektrogruselkabinett", 
+        "Has end time": [
+            "1514502000"
+        ]
+    }, 
     "Session:Smart Cities - reality or fata morgana ?# fe227fc9d8394753e8bbaea0154ae3ad": {
         "Held in language": [], 
         "Has start time": [
@@ -9981,59 +10034,6 @@
             "1514487600"
         ]
     }, 
-    "Session:Ybti+wefixthenet# 8ce7e131453197869935c912de1b35bf": {
-        "Held in language": [
-            "en - English"
-        ], 
-        "Has start time": [
-            "1514570400"
-        ], 
-        "Has event track": [
-            "Session"
-        ], 
-        "Has website": [
-            "http://youbroketheinternet.org/"
-        ], 
-        "Has description": [
-            "youbroketheinternet/wefixthenet session to discuss and report progress on a secure, private post-Snowden era Internet"
-        ], 
-        "Has session type": [
-            "Talk"
-        ], 
-        "Has session location": [
-            {
-                "fulltext": "Room:Chaos West Stage", 
-                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Room:Chaos_West_Stage", 
-                "namespace": 516, 
-                "exists": true
-            }
-        ], 
-        "Has subtitle": [], 
-        "Is organized by": [
-            {
-                "fulltext": "User:Forthy", 
-                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/User:Forthy", 
-                "namespace": 2, 
-                "exists": true
-            }
-        ], 
-        "Has title": [
-            "Ybti+wefixthenet"
-        ], 
-        "Has duration": [
-            240
-        ], 
-        "GUID": [
-            "cc28d9e0-c2e8-4e48-862e-5e5f489eb214"
-        ], 
-        "Has color": [
-            "#0099ab"
-        ], 
-        "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:Ybti%2Bwefixthenet", 
-        "Has end time": [
-            "1514584800"
-        ]
-    }, 
     "Session:A/V Angel Meeting# 22f05d1a0e5de06915062cb19156b48b": {
         "Held in language": [
             "de - German", 
@@ -12299,6 +12299,59 @@
         "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:E-activism_for_NGOs", 
         "Has end time": [
             "1514462400"
+        ]
+    }, 
+    "Session:Ybti+wefixthenet# 4d8c584f2591d213ffce0f9ee8d33e4c": {
+        "Held in language": [
+            "en - English"
+        ], 
+        "Has start time": [
+            "1514570400"
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [
+            "http://youbroketheinternet.org/"
+        ], 
+        "Has description": [
+            "youbroketheinternet/wefixthenet session to discuss and report progress on a secure, private post-Snowden era Internet"
+        ], 
+        "Has session type": [
+            "Talk"
+        ], 
+        "Has session location": [
+            {
+                "fulltext": "Room:Chaos West Stage", 
+                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Room:Chaos_West_Stage", 
+                "namespace": 516, 
+                "exists": true
+            }
+        ], 
+        "Has subtitle": [], 
+        "Is organized by": [
+            {
+                "fulltext": "User:Forthy", 
+                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/User:Forthy", 
+                "namespace": 2, 
+                "exists": true
+            }
+        ], 
+        "Has title": [
+            "Ybti+wefixthenet"
+        ], 
+        "Has duration": [
+            25
+        ], 
+        "GUID": [
+            "cc28d9e0-c2e8-4e48-862e-5e5f489eb214"
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:Ybti%2Bwefixthenet", 
+        "Has end time": [
+            "1514571900"
         ]
     }, 
     "Session:TALEnet bidirectional QA# 400b48d0ad0404e470c08ea289be4ce2": {
@@ -14836,6 +14889,50 @@
         "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:Hacker_Workflows:_Tools_for_X", 
         "Has end time": []
     }, 
+    "Session:DHCP Anonymity# 1d1849f01983b1717052381953ff06a9": {
+        "Held in language": [
+            "en - English"
+        ], 
+        "Has start time": [
+            "1514653200"
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [
+            "http://dhcpap.github.io"
+        ], 
+        "Has description": [
+            "NOTE: this talk has been moved to day 30, 5pm. Install DHCP implementations that leak less identifying information."
+        ], 
+        "Has session type": [], 
+        "Has session location": [
+            {
+                "fulltext": "Room:Komona D.Ressrosa", 
+                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Room:Komona_D.Ressrosa", 
+                "namespace": 516, 
+                "exists": true
+            }
+        ], 
+        "Has subtitle": [], 
+        "Is organized by": [], 
+        "Has title": [
+            "DHCP Anonymity"
+        ], 
+        "Has duration": [
+            60
+        ], 
+        "GUID": [
+            "aad78386-f6ce-4054-88c8-8b8051fb2b21"
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:DHCP_Anonymity", 
+        "Has end time": [
+            "1514656800"
+        ]
+    }, 
     "Session:Lehrerstammtisch# 77b9de2e2b01c9ef09e33b36564e9d93": {
         "Held in language": [
             "de - German"
@@ -15389,52 +15486,6 @@
         "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:Klangteppich", 
         "Has end time": [
             "1514599200"
-        ]
-    }, 
-    "Session:Elektrogruselkabinett# bc67d3d21039c467e55ac5c1b5411759": {
-        "Held in language": [
-            "de - German"
-        ], 
-        "Has start time": [
-            "1514498400"
-        ], 
-        "Has event track": [
-            "Session"
-        ], 
-        "Has website": [], 
-        "Has description": [
-            "Fotosesseion \u00fcber falsch gemachte Elektroinstallationen (Gruselkabinett)"
-        ], 
-        "Has session type": [
-            "Talk"
-        ], 
-        "Has session location": [
-            {
-                "fulltext": "Room:Komona Aquarius", 
-                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Room:Komona_Aquarius", 
-                "namespace": 516, 
-                "exists": true
-            }
-        ], 
-        "Has subtitle": [
-            "Elekroinstallation done wrong"
-        ], 
-        "Is organized by": [], 
-        "Has title": [
-            "Elektrogruselkabinett"
-        ], 
-        "Has duration": [
-            60
-        ], 
-        "GUID": [
-            "2ba1869d-80bf-464d-ad84-360c60517730"
-        ], 
-        "Has color": [
-            "#0099ab"
-        ], 
-        "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:Elektrogruselkabinett", 
-        "Has end time": [
-            "1514502000"
         ]
     }, 
     "Session:Anarchist hackers - Hispagatos International anarchist-hacker collective# f4e3df0aa42144573fba6a03c70378e1": {
@@ -19662,50 +19713,6 @@
         "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:Freedom,_Software_and_UserExperience_in_selforganised_housing_Projects", 
         "Has end time": [
             "1514649600"
-        ]
-    }, 
-    "Session:DHCP Anonymity# 39465ec9a5f2fe27ac58f6212e3636e5": {
-        "Held in language": [
-            "en - English"
-        ], 
-        "Has start time": [
-            "1514491200"
-        ], 
-        "Has event track": [
-            "Session"
-        ], 
-        "Has website": [
-            "http://dhcpap.github.io"
-        ], 
-        "Has description": [
-            "Install DHCP implementations that leak less identifying information."
-        ], 
-        "Has session type": [], 
-        "Has session location": [
-            {
-                "fulltext": "Room:Komona D.Ressrosa", 
-                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Room:Komona_D.Ressrosa", 
-                "namespace": 516, 
-                "exists": true
-            }
-        ], 
-        "Has subtitle": [], 
-        "Is organized by": [], 
-        "Has title": [
-            "DHCP Anonymity"
-        ], 
-        "Has duration": [
-            60
-        ], 
-        "GUID": [
-            "aad78386-f6ce-4054-88c8-8b8051fb2b21"
-        ], 
-        "Has color": [
-            "#0099ab"
-        ], 
-        "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:DHCP_Anonymity", 
-        "Has end time": [
-            "1514494800"
         ]
     }, 
     "Session:Hive Stage Introduction# 328ccf3a2ec21b0a81f0a4692d8228da": {
