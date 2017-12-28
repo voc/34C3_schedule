@@ -3060,57 +3060,51 @@
             "1514496600"
         ]
     }, 
-    "Session:Surface mount electronics assembly for terrified beginners# a601f7f02aa688555befe8124c7cc032": {
+    "Session:Rights&Freedoms# 3063e1754502aed3fa8b11094252bb49": {
         "Held in language": [
+            "de - German", 
             "en - English"
         ], 
         "Has start time": [
-            "1514386800"
+            "1514383200"
         ], 
         "Has event track": [
             "Session"
         ], 
         "Has website": [], 
         "Has description": [
-            "Surface mount electronics for terrified beginners. Learn to assemble tiny parts on circuit boards by building a working power supply. Anyone can do it. Yes, even you who never touched anything electronic before. 90-100mins, 20\u20ac/kit, avoid caffeine immediately before. Max 20 participants per session, there will be a PAPER!!1! signup list in the hardware hacking area."
+            "Rights & Freedoms Cluster Stage Programme"
         ], 
         "Has session type": [
-            "Workshop"
+            "Talk"
         ], 
         "Has session location": [
             {
-                "fulltext": "Assembly:HardwareHackingArea", 
-                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Assembly:HardwareHackingArea", 
-                "namespace": 504, 
+                "fulltext": "Room:CCL Hall 3", 
+                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Room:CCL_Hall_3", 
+                "namespace": 516, 
                 "exists": true
             }
         ], 
         "Has subtitle": [
-            "Day 1 Session 2"
+            "[https://events.ccc.de/congress/2017/wiki/index.php/Session:Newpipe Newpipe] (Chris Schabesberger)"
         ], 
-        "Is organized by": [
-            {
-                "fulltext": "User:Kliment", 
-                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/User:Kliment", 
-                "namespace": 2, 
-                "exists": true
-            }
-        ], 
+        "Is organized by": [], 
         "Has title": [
-            "Surface mount electronics assembly for terrified beginners"
+            "Rights&Freedoms"
         ], 
         "Has duration": [
-            90
+            60
         ], 
         "GUID": [
-            "106c752f-7697-4981-b5f5-c5821d1f9cf4"
+            "b9ea5336-f739-4170-a424-208041a7e313"
         ], 
         "Has color": [
             "#0099ab"
         ], 
-        "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:Surface_mount_electronics_assembly_for_terrified_beginners", 
+        "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:Rights%26Freedoms", 
         "Has end time": [
-            "1514392200"
+            "1514386800"
         ]
     }, 
     "Session:TeaHouse# 7ba0aa55eaffb89b77ee77e479b6d115": {
@@ -3966,51 +3960,57 @@
             "1514575380"
         ]
     }, 
-    "Session:Rights&Freedoms# 3063e1754502aed3fa8b11094252bb49": {
+    "Session:Surface mount electronics assembly for terrified beginners# a601f7f02aa688555befe8124c7cc032": {
         "Held in language": [
-            "de - German", 
             "en - English"
         ], 
         "Has start time": [
-            "1514383200"
+            "1514386800"
         ], 
         "Has event track": [
             "Session"
         ], 
         "Has website": [], 
         "Has description": [
-            "Rights & Freedoms Cluster Stage Programme"
+            "Surface mount electronics for terrified beginners. Learn to assemble tiny parts on circuit boards by building a working power supply. Anyone can do it. Yes, even you who never touched anything electronic before. 90-100mins, 20\u20ac/kit, avoid caffeine immediately before. Max 20 participants per session, there will be a PAPER!!1! signup list in the hardware hacking area."
         ], 
         "Has session type": [
-            "Talk"
+            "Workshop"
         ], 
         "Has session location": [
             {
-                "fulltext": "Room:CCL Hall 3", 
-                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Room:CCL_Hall_3", 
-                "namespace": 516, 
+                "fulltext": "Assembly:HardwareHackingArea", 
+                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Assembly:HardwareHackingArea", 
+                "namespace": 504, 
                 "exists": true
             }
         ], 
         "Has subtitle": [
-            "[https://events.ccc.de/congress/2017/wiki/index.php/Session:Newpipe Newpipe] (Chris Schabesberger)"
+            "Day 1 Session 2"
         ], 
-        "Is organized by": [], 
+        "Is organized by": [
+            {
+                "fulltext": "User:Kliment", 
+                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/User:Kliment", 
+                "namespace": 2, 
+                "exists": true
+            }
+        ], 
         "Has title": [
-            "Rights&Freedoms"
+            "Surface mount electronics assembly for terrified beginners"
         ], 
         "Has duration": [
-            60
+            90
         ], 
         "GUID": [
-            "b9ea5336-f739-4170-a424-208041a7e313"
+            "106c752f-7697-4981-b5f5-c5821d1f9cf4"
         ], 
         "Has color": [
             "#0099ab"
         ], 
-        "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:Rights%26Freedoms", 
+        "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:Surface_mount_electronics_assembly_for_terrified_beginners", 
         "Has end time": [
-            "1514386800"
+            "1514392200"
         ]
     }, 
     "Session:Hosting Control Panels for self-managed infrastructure# 6fc614a23ab22c0955f698912e26e901": {
@@ -8691,7 +8691,9 @@
         "Has event track": [
             "Session"
         ], 
-        "Has website": [], 
+        "Has website": [
+            "http://docdro.id/qRIyH1v"
+        ], 
         "Has description": [
             "This talk is an introduction into Information Security Management Systems (ISMS) as based on ISO27001. ISMS are the way companies or organisations organize their IT security in a top-down approach. It is a beginner level talk for people who want to learn more about this topic or want to work with ISMS."
         ], 
