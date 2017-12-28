@@ -2383,6 +2383,61 @@
             "1514386800"
         ]
     }, 
+    "Session:Join a Task Force for Civil Coexistence, Preventive Justice and Liquid Democracy# 67b22b688cd349965dbac7f866f4b48c": {
+        "Held in language": [
+            "en - English"
+        ], 
+        "Has start time": [
+            "1514649600"
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [
+            "http://structure.pages.de"
+        ], 
+        "Has description": [
+            "After watching social implosions in several activist groups and organizations, it's time to develop better antibodies. The future needs us to stop failing all the time. Some of us have started the Structures Working Group."
+        ], 
+        "Has session type": [
+            "Meeting"
+        ], 
+        "Has session location": [
+            {
+                "fulltext": "Room:Komona D.Ressrosa", 
+                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Room:Komona_D.Ressrosa", 
+                "namespace": 516, 
+                "exists": true
+            }
+        ], 
+        "Has subtitle": [
+            "(some started at structure.pages.de)"
+        ], 
+        "Is organized by": [
+            {
+                "fulltext": "User:LynX", 
+                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/User:LynX", 
+                "namespace": 2, 
+                "exists": true
+            }
+        ], 
+        "Has title": [
+            "Join a Task Force for Civil Coexistence, Preventive Justice and Liquid Democracy"
+        ], 
+        "Has duration": [
+            90
+        ], 
+        "GUID": [
+            "8055aa7b-bb1a-4105-b576-c1511a420168"
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:Join_a_Task_Force_for_Civil_Coexistence,_Preventive_Justice_and_Liquid_Democracy", 
+        "Has end time": [
+            "1514655000"
+        ]
+    }, 
     "Session:Namecoin for Tor Onion Service Naming (And Other Darknets?)# 26b1acef68b56a06ac7f0a21c002bbf5": {
         "Held in language": [
             "en - English"
@@ -6247,57 +6302,6 @@
         "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:Sticker_meet_up", 
         "Has end time": [
             "1514572800"
-        ]
-    }, 
-    "Session:Video Game Development Meetup# 55b1c1ce1b633caca9a4b58ff6c3cdbc": {
-        "Held in language": [
-            "en - English"
-        ], 
-        "Has start time": [
-            "1514484000"
-        ], 
-        "Has event track": [
-            "Session"
-        ], 
-        "Has website": [], 
-        "Has description": [
-            "We're a bunch of people who participated in the game jam \"Ludum Dare\" this year. Whether you're curious about video game development, or a seasoned indie game developer \u2013 let's meet, talk about our experiences, and play each others' games! :)"
-        ], 
-        "Has session type": [
-            "Meeting"
-        ], 
-        "Has session location": [
-            {
-                "fulltext": "Room:Seminar room 13", 
-                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Room:Seminar_room_13", 
-                "namespace": 516, 
-                "exists": true
-            }
-        ], 
-        "Has subtitle": [], 
-        "Is organized by": [
-            {
-                "fulltext": "User:Blinry", 
-                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/User:Blinry", 
-                "namespace": 2, 
-                "exists": true
-            }
-        ], 
-        "Has title": [
-            "Video Game Development Meetup"
-        ], 
-        "Has duration": [
-            60
-        ], 
-        "GUID": [
-            "77f34cbf-f0df-47b1-b235-b405c07ac7cd"
-        ], 
-        "Has color": [
-            "#0099ab"
-        ], 
-        "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:Video_Game_Development_Meetup", 
-        "Has end time": [
-            "1514487600"
         ]
     }, 
     "Session:Translation Team# df5b7726546959f736beec38d2fc1c6d": {
@@ -13767,6 +13771,57 @@
         "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:Postapocalyptic_fidget_spinner_workshop", 
         "Has end time": [
             "1514570400"
+        ]
+    }, 
+    "Session:Video Game Development Meetup# 02d708a2ce4820706012f5e72c12ab83": {
+        "Held in language": [
+            "en - English"
+        ], 
+        "Has start time": [
+            "1514556000"
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [], 
+        "Has description": [
+            "We're a bunch of people who participated in the game jam \"Ludum Dare\" this year. Whether you're curious about video game development, or a seasoned indie game developer \u2013 let's meet, talk about our experiences, and play each others' games! :)"
+        ], 
+        "Has session type": [
+            "Meeting"
+        ], 
+        "Has session location": [
+            {
+                "fulltext": "Room:Seminar room 13", 
+                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Room:Seminar_room_13", 
+                "namespace": 516, 
+                "exists": true
+            }
+        ], 
+        "Has subtitle": [], 
+        "Is organized by": [
+            {
+                "fulltext": "User:Blinry", 
+                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/User:Blinry", 
+                "namespace": 2, 
+                "exists": true
+            }
+        ], 
+        "Has title": [
+            "Video Game Development Meetup"
+        ], 
+        "Has duration": [
+            60
+        ], 
+        "GUID": [
+            "77f34cbf-f0df-47b1-b235-b405c07ac7cd"
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:Video_Game_Development_Meetup", 
+        "Has end time": [
+            "1514559600"
         ]
     }, 
     "Session:Nextcloud Dev Q&A# 909935d057a044949b2a170debc2b816": {
