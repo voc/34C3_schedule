@@ -9283,6 +9283,59 @@
             "1514476800"
         ]
     }, 
+    "Session:XMPP# 30bd96169b25fc72af3ff62eca7769cc": {
+        "Held in language": [
+            "en - English"
+        ], 
+        "Has start time": [
+            "1514566800"
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [], 
+        "Has description": [
+            "Gathering of XMPP developers"
+        ], 
+        "Has session type": [
+            "Meeting"
+        ], 
+        "Has session location": [
+            {
+                "fulltext": "Room:Lecture room 12", 
+                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Room:Lecture_room_12", 
+                "namespace": 516, 
+                "exists": true
+            }
+        ], 
+        "Has subtitle": [
+            "Gathering of XMPP developers"
+        ], 
+        "Is organized by": [
+            {
+                "fulltext": "User:Marvin", 
+                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/User:Marvin", 
+                "namespace": 2, 
+                "exists": true
+            }
+        ], 
+        "Has title": [
+            "XMPP"
+        ], 
+        "Has duration": [
+            60
+        ], 
+        "GUID": [
+            "c6c07046-00a5-4f1e-96b3-2b02d30d154d"
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:XMPP", 
+        "Has end time": [
+            "1514570400"
+        ]
+    }, 
     "Session:TeaHouse# 3fa552470c953db85366ba85338756db": {
         "Held in language": [
             "en - English"
@@ -9381,6 +9434,62 @@
         "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:Rights%26Freedoms", 
         "Has end time": [
             "1514570400"
+        ]
+    }, 
+    "Session:KinkyGeeks Bondage Workshop# 5d39800b6ff1d9d0ff7131362ec2b482": {
+        "Held in language": [
+            "de - German", 
+            "en - English"
+        ], 
+        "Has start time": [
+            "1514635200"
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [
+            "https://kinkygeeks.de"
+        ], 
+        "Has description": [
+            "TBD"
+        ], 
+        "Has session type": [
+            "Workshop"
+        ], 
+        "Has session location": [
+            {
+                "fulltext": "Room:Lecture room 11", 
+                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Room:Lecture_room_11", 
+                "namespace": 516, 
+                "exists": true
+            }
+        ], 
+        "Has subtitle": [
+            "Beginner #2"
+        ], 
+        "Is organized by": [
+            {
+                "fulltext": "User:Lil-Missy", 
+                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/User:Lil-Missy", 
+                "namespace": 2, 
+                "exists": true
+            }
+        ], 
+        "Has title": [
+            "KinkyGeeks Bondage Workshop"
+        ], 
+        "Has duration": [
+            120
+        ], 
+        "GUID": [
+            "98e116fa-62da-4392-98bd-e3d3b44f4342"
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:KinkyGeeks_Bondage_Workshop", 
+        "Has end time": [
+            "1514642400"
         ]
     }, 
     "Session:Wenn die \"Neue Rechte\" einen so erfolgreichen \"Kulturkampf\" f\u00fchrt - k\u00f6nnen wir das als Kukturschaffende nicht eigentlich viel besser?# 943ad0cca9f7a860d78848928509da66": {
