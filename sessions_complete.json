@@ -245,6 +245,50 @@
         "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:Lehrerstammtisch_VR", 
         "Has end time": []
     }, 
+    "Session:Bring your own Nintendo Switch# f3e632309bfdbf1140a87b5c543cc67f": {
+        "Held in language": [
+            "en - English"
+        ], 
+        "Has start time": [
+            "1514556000"
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [], 
+        "Has description": [
+            "Play wireless multiplayer games with us, especially Mario Kart.\n\nAlso pull out your Switches while waiting for talks. If enough people are around you can find wireless Mario Kart multiplayer matches to join. Look out for neon JoyCons in the audience. If there is no host to join, host your own match"
+        ], 
+        "Has session type": [
+            "Game"
+        ], 
+        "Has session location": [
+            {
+                "fulltext": "Assembly:Dolphin Emulator", 
+                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Assembly:Dolphin_Emulator", 
+                "namespace": 504, 
+                "exists": true
+            }
+        ], 
+        "Has subtitle": [], 
+        "Is organized by": [], 
+        "Has title": [
+            "Bring your own Nintendo Switch"
+        ], 
+        "Has duration": [
+            60
+        ], 
+        "GUID": [
+            "ff78a8be-f2a7-47ca-a8ca-e56921177d9d"
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:Bring_your_own_Nintendo_Switch", 
+        "Has end time": [
+            "1514559600"
+        ]
+    }, 
     "Session:Wie produziere ich mein eigenes H\u00f6rspiel mit Hilfe von freeware free sounds# e9e0f96ddae80dfb9c8724abad3fe9ea": {
         "Held in language": [
             "de - German"
@@ -378,6 +422,35 @@
         "Has end time": [
             "1514590200"
         ]
+    }, 
+    "Session:Test 123# 4a97d8c37176d0723e704ff0bdb97362": {
+        "Held in language": [], 
+        "Has start time": [
+            "1514653200"
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [], 
+        "Has description": [], 
+        "Has session type": [], 
+        "Has session location": [], 
+        "Has subtitle": [
+            "foobar"
+        ], 
+        "Is organized by": [], 
+        "Has title": [
+            "Test 123"
+        ], 
+        "Has duration": [], 
+        "GUID": [
+            "55d73ca0-04c7-462a-aa74-6a3528edf56b"
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:Test_123", 
+        "Has end time": []
     }, 
     "Session:Scalable and privacy-respectful distributed systems# 36b006e5cda02bb13640c0a9bb6d8063": {
         "Held in language": [
@@ -1648,6 +1721,59 @@
         "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:DLF", 
         "Has end time": [
             "1514566800"
+        ]
+    }, 
+    "Session:Honigdachs-Podcast LIVE# b3f0d00a2b235d69d2394dc95acfb184": {
+        "Held in language": [
+            "de - German"
+        ], 
+        "Has start time": [
+            "1514646900"
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [
+            "https://coinspondent.de/news-nachrichten/bitcoin-podcasts/honigdachs-der-bitcoin-podcast-aus-leipzig/"
+        ], 
+        "Has description": [
+            "Honigdachs ist das Podcast-Angebot des Leipziger Bitcoin-Stammtisches, in dem monatlich vertieft auf einzelne Themen rund um Bitcoin eingegangen wird. Hintergr\u00fcndig, praxisnah und meinungsstark richten sich die einzelnen Folgen sowohl an Einsteiger, wie auch an erfahrene Bitcoin- und Blockchain-Interessierte.\n\nAuf dem 34C3 machen wir einen R\u00fcckblick \u00fcber das Jahr und den Kongress und wagen einen Ausblick auf das kommende Jahr 2018."
+        ], 
+        "Has session type": [
+            "Discussion"
+        ], 
+        "Has session location": [
+            {
+                "fulltext": "Room:Chaos West Stage", 
+                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Room:Chaos_West_Stage", 
+                "namespace": 516, 
+                "exists": true
+            }
+        ], 
+        "Has subtitle": [], 
+        "Is organized by": [
+            {
+                "fulltext": "User:Rootzoll", 
+                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/User:Rootzoll", 
+                "namespace": 2, 
+                "exists": true
+            }
+        ], 
+        "Has title": [
+            "Honigdachs-Podcast LIVE"
+        ], 
+        "Has duration": [
+            50
+        ], 
+        "GUID": [
+            "91c9f0f3-6e1f-4425-bc51-8aa2de19ef9e"
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:Honigdachs-Podcast_LIVE", 
+        "Has end time": [
+            "1514649900"
         ]
     }, 
     "Session:Bring your own Nintendo Switch# df727d5341b96d065acd8bc413794830": {
@@ -3040,53 +3166,6 @@
             "1514397600"
         ]
     }, 
-    "Session:Rights&Freedoms# fad59535ab20a100c6f2fee90ad83afd": {
-        "Held in language": [
-            "de - German", 
-            "en - English"
-        ], 
-        "Has start time": [
-            "1514574000"
-        ], 
-        "Has event track": [
-            "Session"
-        ], 
-        "Has website": [], 
-        "Has description": [
-            "Rights & Freedoms Cluster Stage Programme"
-        ], 
-        "Has session type": [
-            "Talk"
-        ], 
-        "Has session location": [
-            {
-                "fulltext": "Room:CCL Hall 3", 
-                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Room:CCL_Hall_3", 
-                "namespace": 516, 
-                "exists": true
-            }
-        ], 
-        "Has subtitle": [
-            "[https://events.ccc.de/congress/2017/wiki/index.php/Session:Public_Money%3F_Public_Code! Public money? Public code!] (Polina Malaja and Katharina Nocun)"
-        ], 
-        "Is organized by": [], 
-        "Has title": [
-            "Rights&Freedoms"
-        ], 
-        "Has duration": [
-            60
-        ], 
-        "GUID": [
-            "4f988987-df21-4bd4-a494-bf5fff3c3f42"
-        ], 
-        "Has color": [
-            "#0099ab"
-        ], 
-        "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:Rights%26Freedoms", 
-        "Has end time": [
-            "1514577600"
-        ]
-    }, 
     "Session:How to make chiptune with a Game Boy DMG# 6223ac61875bb7990ff445b2b89d174f": {
         "Held in language": [
             "en - English"
@@ -3138,59 +3217,6 @@
         "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:How_to_make_chiptune_with_a_Game_Boy_DMG", 
         "Has end time": [
             "1514496600"
-        ]
-    }, 
-    "Session:Surface mount electronics assembly for terrified beginners# a601f7f02aa688555befe8124c7cc032": {
-        "Held in language": [
-            "en - English"
-        ], 
-        "Has start time": [
-            "1514386800"
-        ], 
-        "Has event track": [
-            "Session"
-        ], 
-        "Has website": [], 
-        "Has description": [
-            "Surface mount electronics for terrified beginners. Learn to assemble tiny parts on circuit boards by building a working power supply. Anyone can do it. Yes, even you who never touched anything electronic before. 90-100mins, 20\u20ac/kit, avoid caffeine immediately before. Max 20 participants per session, there will be a PAPER!!1! signup list in the hardware hacking area."
-        ], 
-        "Has session type": [
-            "Workshop"
-        ], 
-        "Has session location": [
-            {
-                "fulltext": "Assembly:HardwareHackingArea", 
-                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Assembly:HardwareHackingArea", 
-                "namespace": 504, 
-                "exists": true
-            }
-        ], 
-        "Has subtitle": [
-            "Day 1 Session 2"
-        ], 
-        "Is organized by": [
-            {
-                "fulltext": "User:Kliment", 
-                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/User:Kliment", 
-                "namespace": 2, 
-                "exists": true
-            }
-        ], 
-        "Has title": [
-            "Surface mount electronics assembly for terrified beginners"
-        ], 
-        "Has duration": [
-            90
-        ], 
-        "GUID": [
-            "106c752f-7697-4981-b5f5-c5821d1f9cf4"
-        ], 
-        "Has color": [
-            "#0099ab"
-        ], 
-        "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:Surface_mount_electronics_assembly_for_terrified_beginners", 
-        "Has end time": [
-            "1514392200"
         ]
     }, 
     "Session:TeaHouse# 7ba0aa55eaffb89b77ee77e479b6d115": {
@@ -4101,51 +4127,57 @@
             "1514575380"
         ]
     }, 
-    "Session:Rights&Freedoms# 3063e1754502aed3fa8b11094252bb49": {
+    "Session:Surface mount electronics assembly for terrified beginners# a601f7f02aa688555befe8124c7cc032": {
         "Held in language": [
-            "de - German", 
             "en - English"
         ], 
         "Has start time": [
-            "1514383200"
+            "1514386800"
         ], 
         "Has event track": [
             "Session"
         ], 
         "Has website": [], 
         "Has description": [
-            "Rights & Freedoms Cluster Stage Programme"
+            "Surface mount electronics for terrified beginners. Learn to assemble tiny parts on circuit boards by building a working power supply. Anyone can do it. Yes, even you who never touched anything electronic before. 90-100mins, 20\u20ac/kit, avoid caffeine immediately before. Max 20 participants per session, there will be a PAPER!!1! signup list in the hardware hacking area."
         ], 
         "Has session type": [
-            "Talk"
+            "Workshop"
         ], 
         "Has session location": [
             {
-                "fulltext": "Room:CCL Hall 3", 
-                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Room:CCL_Hall_3", 
-                "namespace": 516, 
+                "fulltext": "Assembly:HardwareHackingArea", 
+                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Assembly:HardwareHackingArea", 
+                "namespace": 504, 
                 "exists": true
             }
         ], 
         "Has subtitle": [
-            "[https://events.ccc.de/congress/2017/wiki/index.php/Session:Newpipe Newpipe] (Chris Schabesberger)"
+            "Day 1 Session 2"
         ], 
-        "Is organized by": [], 
+        "Is organized by": [
+            {
+                "fulltext": "User:Kliment", 
+                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/User:Kliment", 
+                "namespace": 2, 
+                "exists": true
+            }
+        ], 
         "Has title": [
-            "Rights&Freedoms"
+            "Surface mount electronics assembly for terrified beginners"
         ], 
         "Has duration": [
-            60
+            90
         ], 
         "GUID": [
-            "b9ea5336-f739-4170-a424-208041a7e313"
+            "106c752f-7697-4981-b5f5-c5821d1f9cf4"
         ], 
         "Has color": [
             "#0099ab"
         ], 
-        "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:Rights%26Freedoms", 
+        "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:Surface_mount_electronics_assembly_for_terrified_beginners", 
         "Has end time": [
-            "1514386800"
+            "1514392200"
         ]
     }, 
     "Session:Hosting Control Panels for self-managed infrastructure# 6fc614a23ab22c0955f698912e26e901": {
@@ -6800,53 +6832,6 @@
             "1514415600"
         ]
     }, 
-    "Session:Rights&Freedoms# 8db1bab3530a0086571410c4c3c1c599": {
-        "Held in language": [
-            "de - German", 
-            "en - English"
-        ], 
-        "Has start time": [
-            "1514404800"
-        ], 
-        "Has event track": [
-            "Session"
-        ], 
-        "Has website": [], 
-        "Has description": [
-            "Rights & Freedoms Cluster Stage Programme"
-        ], 
-        "Has session type": [
-            "Talk"
-        ], 
-        "Has session location": [
-            {
-                "fulltext": "Room:CCL Hall 3", 
-                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Room:CCL_Hall_3", 
-                "namespace": 516, 
-                "exists": true
-            }
-        ], 
-        "Has subtitle": [
-            "[https://events.ccc.de/congress/2017/wiki/index.php/Session:Social_Networking,_powered_by_FreeSoftware Social networking, powered by Free Software] (Tobias Diekershoff)"
-        ], 
-        "Is organized by": [], 
-        "Has title": [
-            "Rights&Freedoms"
-        ], 
-        "Has duration": [
-            60
-        ], 
-        "GUID": [
-            "a1de5914-4649-4613-b1b1-716106c43f29"
-        ], 
-        "Has color": [
-            "#0099ab"
-        ], 
-        "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:Rights%26Freedoms", 
-        "Has end time": [
-            "1514408400"
-        ]
-    }, 
     "Session:Trickmisch# 83d3b7f23b17e9adae0af60941eabe94": {
         "Held in language": [
             "de - German"
@@ -6894,53 +6879,6 @@
         "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:Trickmisch", 
         "Has end time": [
             "1514476800"
-        ]
-    }, 
-    "Session:Rights&Freedoms# 074a4cda257cebf3986ec57e415c78c4": {
-        "Held in language": [
-            "de - German", 
-            "en - English"
-        ], 
-        "Has start time": [
-            "1514408400"
-        ], 
-        "Has event track": [
-            "Session"
-        ], 
-        "Has website": [], 
-        "Has description": [
-            "Rights & Freedoms Cluster Stage Programme"
-        ], 
-        "Has session type": [
-            "Talk"
-        ], 
-        "Has session location": [
-            {
-                "fulltext": "Room:CCL Hall 3", 
-                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Room:CCL_Hall_3", 
-                "namespace": 516, 
-                "exists": true
-            }
-        ], 
-        "Has subtitle": [
-            "[https://events.ccc.de/congress/2017/wiki/index.php/Session:The_many_applications_of_digital_certificates The many applications of digital certificates] (Thomas Ruddy)"
-        ], 
-        "Is organized by": [], 
-        "Has title": [
-            "Rights&Freedoms"
-        ], 
-        "Has duration": [
-            60
-        ], 
-        "GUID": [
-            "b6aeee73-c559-42aa-b5f1-4aaa1303d051"
-        ], 
-        "Has color": [
-            "#0099ab"
-        ], 
-        "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:Rights%26Freedoms", 
-        "Has end time": [
-            "1514412000"
         ]
     }, 
     "Session:Endstation Meetup# aa3119d5061f7396ff894e0872219d20": {
@@ -8585,51 +8523,59 @@
             "1514573100"
         ]
     }, 
-    "Session:Rights&Freedoms# 63915c3785ba01fa2baaa9cb0fe970ad": {
+    "Session:Calliope Workshops# 037b29c84dc3dea52230e42f0221c641": {
         "Held in language": [
-            "de - German", 
-            "en - English"
+            "de - German"
         ], 
         "Has start time": [
-            "1514563200"
+            "1514466000"
         ], 
         "Has event track": [
             "Session"
         ], 
-        "Has website": [], 
+        "Has website": [
+            "http://calliope.cc"
+        ], 
         "Has description": [
-            "Rights & Freedoms Cluster Stage Programme"
+            "Kinder ab 8 Jahren sind herzlich willkommen ihre ersten Erfahrungen mit dem Programmieren zu machen."
         ], 
         "Has session type": [
-            "Talk"
+            "Workshop"
         ], 
         "Has session location": [
             {
-                "fulltext": "Room:CCL Hall 3", 
-                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Room:CCL_Hall_3", 
+                "fulltext": "Room:Esszimmer", 
+                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Room:Esszimmer", 
                 "namespace": 516, 
                 "exists": true
             }
         ], 
         "Has subtitle": [
-            "[https://events.ccc.de/congress/2017/wiki/index.php/Session:Fixing_mass_surveillance:_one_court_case_at_a_time! Fixing mass surveillance: one court case at a time!] (Exegetes)"
+            "Calliope Workshop 2"
         ], 
-        "Is organized by": [], 
+        "Is organized by": [
+            {
+                "fulltext": "User:DerMicha", 
+                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/User:DerMicha", 
+                "namespace": 2, 
+                "exists": true
+            }
+        ], 
         "Has title": [
-            "Rights&Freedoms"
+            "Calliope Workshops"
         ], 
         "Has duration": [
-            120
+            60
         ], 
         "GUID": [
-            "d3a4bc15-b59a-46ee-92ec-bdc95e79f295"
+            "5ebed7df-9716-4022-bb28-2b747e5cfbf1"
         ], 
         "Has color": [
             "#0099ab"
         ], 
-        "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:Rights%26Freedoms", 
+        "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:Calliope_Workshops", 
         "Has end time": [
-            "1514570400"
+            "1514469600"
         ]
     }, 
     "Session:LearnToSolder# 7052f89f76993ab804a37a55da818529": {
@@ -8736,53 +8682,6 @@
         "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:34C3_CTF_Afterparty", 
         "Has end time": [
             "1514590200"
-        ]
-    }, 
-    "Session:Rights&Freedoms# 7df16ccb0ee8f4d3a93c11f9137e10d9": {
-        "Held in language": [
-            "de - German", 
-            "en - English"
-        ], 
-        "Has start time": [
-            "1514484000"
-        ], 
-        "Has event track": [
-            "Session"
-        ], 
-        "Has website": [], 
-        "Has description": [
-            "Rights & Freedoms Cluster Stage Programme"
-        ], 
-        "Has session type": [
-            "Talk"
-        ], 
-        "Has session location": [
-            {
-                "fulltext": "Room:CCL Hall 3", 
-                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Room:CCL_Hall_3", 
-                "namespace": 516, 
-                "exists": true
-            }
-        ], 
-        "Has subtitle": [
-            "[https://events.ccc.de/congress/2017/wiki/index.php/Session:Hacking_with_wget Hacking with Wget] (Hanno B\u00f6ck)"
-        ], 
-        "Is organized by": [], 
-        "Has title": [
-            "Rights&Freedoms"
-        ], 
-        "Has duration": [
-            60
-        ], 
-        "GUID": [
-            "e10a0ba6-3492-4be5-b4b6-87a42987f8d9"
-        ], 
-        "Has color": [
-            "#0099ab"
-        ], 
-        "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:Rights%26Freedoms", 
-        "Has end time": [
-            "1514487600"
         ]
     }, 
     "Session:How companies manage their security: Introduction into Information Security Management Systems# 669d2cd7fb5fe1e6c119c07a52676e74": {
@@ -10240,53 +10139,6 @@
             "1514397600"
         ]
     }, 
-    "Session:Rights&Freedoms# 0c9a5132d01e4ef82584f2e1b20e0f29": {
-        "Held in language": [
-            "de - German", 
-            "en - English"
-        ], 
-        "Has start time": [
-            "1514491200"
-        ], 
-        "Has event track": [
-            "Session"
-        ], 
-        "Has website": [], 
-        "Has description": [
-            "Rights & Freedoms Cluster Stage Programme"
-        ], 
-        "Has session type": [
-            "Talk"
-        ], 
-        "Has session location": [
-            {
-                "fulltext": "Room:CCL Hall 3", 
-                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Room:CCL_Hall_3", 
-                "namespace": 516, 
-                "exists": true
-            }
-        ], 
-        "Has subtitle": [
-            "[https://events.ccc.de/congress/2017/wiki/index.php/Session:A_public_identity_infrastructure_to_defend_the_open_Internet A public identity infrastructure to defend the open Internet] (Vittorio Bertolo)"
-        ], 
-        "Is organized by": [], 
-        "Has title": [
-            "Rights&Freedoms"
-        ], 
-        "Has duration": [
-            60
-        ], 
-        "GUID": [
-            "b2d45f0d-95c3-4a8e-bf4e-a59db8006232"
-        ], 
-        "Has color": [
-            "#0099ab"
-        ], 
-        "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:Rights%26Freedoms", 
-        "Has end time": [
-            "1514494800"
-        ]
-    }, 
     "Session:TransHackMeeting# a6239c2e0067b0a88031399dbbb03530": {
         "Held in language": [
             "en - English"
@@ -10825,59 +10677,6 @@
         "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:IT-Security_Meetup", 
         "Has end time": [
             "1514577600"
-        ]
-    }, 
-    "Session:TeaHouse# 7693dc19e24497ef3c885347bbef9e3c": {
-        "Held in language": [
-            "en - English"
-        ], 
-        "Has start time": [
-            "1514638800"
-        ], 
-        "Has event track": [
-            "Session"
-        ], 
-        "Has website": [
-            "https://teahouse.homecomputing.fr/"
-        ], 
-        "Has description": [], 
-        "Has session type": [
-            "Meeting"
-        ], 
-        "Has session location": [
-            {
-                "fulltext": "Assembly:TeaHouse", 
-                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Assembly:TeaHouse", 
-                "namespace": 504, 
-                "exists": true
-            }
-        ], 
-        "Has subtitle": [
-            "\u03b5xodus reveals hidden trackers in Android applications"
-        ], 
-        "Is organized by": [
-            {
-                "fulltext": "User:Sanpi", 
-                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/User:Sanpi", 
-                "namespace": 2, 
-                "exists": true
-            }
-        ], 
-        "Has title": [
-            "TeaHouse"
-        ], 
-        "Has duration": [
-            20
-        ], 
-        "GUID": [
-            "622c5770-b9fc-45ef-b9fc-1533f661e3ec"
-        ], 
-        "Has color": [
-            "#0099ab"
-        ], 
-        "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:TeaHouse", 
-        "Has end time": [
-            "1514640000"
         ]
     }, 
     "Session:DLF# 05881f6e9fd51b6fea250e317573b407": {
@@ -11893,61 +11692,6 @@
         "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:Nautik-1x1/Wie_fahre_ich_ein_Schiff", 
         "Has end time": [
             "1577635200"
-        ]
-    }, 
-    "Session:Calliope Workshops# 037b29c84dc3dea52230e42f0221c641": {
-        "Held in language": [
-            "de - German"
-        ], 
-        "Has start time": [
-            "1514466000"
-        ], 
-        "Has event track": [
-            "Session"
-        ], 
-        "Has website": [
-            "http://calliope.cc"
-        ], 
-        "Has description": [
-            "Kinder ab 8 Jahren sind herzlich willkommen ihre ersten Erfahrungen mit dem Programmieren zu machen."
-        ], 
-        "Has session type": [
-            "Workshop"
-        ], 
-        "Has session location": [
-            {
-                "fulltext": "Room:Esszimmer", 
-                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Room:Esszimmer", 
-                "namespace": 516, 
-                "exists": true
-            }
-        ], 
-        "Has subtitle": [
-            "Calliope Workshop 2"
-        ], 
-        "Is organized by": [
-            {
-                "fulltext": "User:DerMicha", 
-                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/User:DerMicha", 
-                "namespace": 2, 
-                "exists": true
-            }
-        ], 
-        "Has title": [
-            "Calliope Workshops"
-        ], 
-        "Has duration": [
-            60
-        ], 
-        "GUID": [
-            "5ebed7df-9716-4022-bb28-2b747e5cfbf1"
-        ], 
-        "Has color": [
-            "#0099ab"
-        ], 
-        "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:Calliope_Workshops", 
-        "Has end time": [
-            "1514469600"
         ]
     }, 
     "Session:Rights&Freedoms# 630d4dc3b7f7ed98d7ae89b79d7be0e2": {
@@ -16017,53 +15761,6 @@
             "1514577600"
         ]
     }, 
-    "Session:Rights&Freedoms# c0e8226dca3220d0b79a7d73889ced35": {
-        "Held in language": [
-            "de - German", 
-            "en - English"
-        ], 
-        "Has start time": [
-            "1514394000"
-        ], 
-        "Has event track": [
-            "Session"
-        ], 
-        "Has website": [], 
-        "Has description": [
-            "Rights & Freedoms Cluster Stage Programme"
-        ], 
-        "Has session type": [
-            "Talk"
-        ], 
-        "Has session location": [
-            {
-                "fulltext": "Room:CCL Hall 3", 
-                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Room:CCL_Hall_3", 
-                "namespace": 516, 
-                "exists": true
-            }
-        ], 
-        "Has subtitle": [
-            "[https://events.ccc.de/congress/2017/wiki/index.php/Session:Design_in_Free_Software_%26_Open_Source Design in Free Software & Open Source] (Dina Michl & Victoria Bondarchuk)"
-        ], 
-        "Is organized by": [], 
-        "Has title": [
-            "Rights&Freedoms"
-        ], 
-        "Has duration": [
-            60
-        ], 
-        "GUID": [
-            "848eb8ac-cc0b-4747-862b-d4aa466fc6f9"
-        ], 
-        "Has color": [
-            "#0099ab"
-        ], 
-        "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:Rights%26Freedoms", 
-        "Has end time": [
-            "1514397600"
-        ]
-    }, 
     "Session:TeaHouse# 7a841b7b6267edebee6beda43d57980e": {
         "Held in language": [
             "en - English"
@@ -17550,53 +17247,6 @@
             "1514460600"
         ]
     }, 
-    "Session:Rights&Freedoms# 82bb97a033dc8bfe5ffdcc1b974df835": {
-        "Held in language": [
-            "de - German", 
-            "en - English"
-        ], 
-        "Has start time": [
-            "1514552400"
-        ], 
-        "Has event track": [
-            "Session"
-        ], 
-        "Has website": [], 
-        "Has description": [
-            "Rights & Freedoms Cluster Stage Programme"
-        ], 
-        "Has session type": [
-            "Talk"
-        ], 
-        "Has session location": [
-            {
-                "fulltext": "Room:CCL Hall 3", 
-                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Room:CCL_Hall_3", 
-                "namespace": 516, 
-                "exists": true
-            }
-        ], 
-        "Has subtitle": [
-            "[https://events.ccc.de/congress/2017/wiki/index.php/Session:Information_security_theater_vs._Investigative_journalism Information security theater vs. Investigative journalism] (Rysiek, OCCRP)"
-        ], 
-        "Is organized by": [], 
-        "Has title": [
-            "Rights&Freedoms"
-        ], 
-        "Has duration": [
-            60
-        ], 
-        "GUID": [
-            "c682fa8a-045b-4a09-8164-1b33826b8e63"
-        ], 
-        "Has color": [
-            "#0099ab"
-        ], 
-        "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:Rights%26Freedoms", 
-        "Has end time": [
-            "1514556000"
-        ]
-    }, 
     "Session:A personal epiphany and endless inspection! Meet Sophia!# ff435ae572c822a326aa37859b95a605": {
         "Held in language": [
             "de - German", 
@@ -17794,6 +17444,61 @@
         "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:Jabber/XMPP:_the_past,_the_presence_and_the_future", 
         "Has end time": [
             "1514404800"
+        ]
+    }, 
+    "Session:Ybti+wefixthenet# 5cef2e8e2baa39575b4b25205a4538c5": {
+        "Held in language": [
+            "en - English"
+        ], 
+        "Has start time": [
+            "1514572200"
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [
+            "http://youbroketheinternet.org/"
+        ], 
+        "Has description": [
+            "youbroketheinternet/wefixthenet session to discuss and report progress on a secure, private post-Snowden era Internet"
+        ], 
+        "Has session type": [
+            "Talk"
+        ], 
+        "Has session location": [
+            {
+                "fulltext": "Room:Chaos West Stage", 
+                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Room:Chaos_West_Stage", 
+                "namespace": 516, 
+                "exists": true
+            }
+        ], 
+        "Has subtitle": [
+            "Die Programmiersprache Forth"
+        ], 
+        "Is organized by": [
+            {
+                "fulltext": "User:Forthy", 
+                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/User:Forthy", 
+                "namespace": 2, 
+                "exists": true
+            }
+        ], 
+        "Has title": [
+            "Ybti+wefixthenet"
+        ], 
+        "Has duration": [
+            30
+        ], 
+        "GUID": [
+            "668e730c-cdff-419e-9c92-074b1355448d"
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:Ybti%2Bwefixthenet", 
+        "Has end time": [
+            "1514574000"
         ]
     }, 
     "Session:Queer Feminist Geeks Gathering# 23a447843be2ec68ba7f8e0cb19cd4df": {
@@ -19860,51 +19565,57 @@
             "1514590200"
         ]
     }, 
-    "Session:Rights&Freedoms# 080e902b5d76484bfad34544ec785c38": {
+    "Session:TeaHouse# 7693dc19e24497ef3c885347bbef9e3c": {
         "Held in language": [
-            "de - German", 
             "en - English"
         ], 
         "Has start time": [
-            "1514379600"
+            "1514638800"
         ], 
         "Has event track": [
             "Session"
         ], 
-        "Has website": [], 
-        "Has description": [
-            "Rights & Freedoms Cluster Stage Programme"
+        "Has website": [
+            "https://teahouse.homecomputing.fr/"
         ], 
+        "Has description": [], 
         "Has session type": [
-            "Talk"
+            "Meeting"
         ], 
         "Has session location": [
             {
-                "fulltext": "Room:CCL Hall 3", 
-                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Room:CCL_Hall_3", 
-                "namespace": 516, 
+                "fulltext": "Assembly:TeaHouse", 
+                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Assembly:TeaHouse", 
+                "namespace": 504, 
                 "exists": true
             }
         ], 
         "Has subtitle": [
-            "[https://events.ccc.de/congress/2017/wiki/index.php/Session:Self-host_your_visual_assets_with_Free_Software Self-Host your visual assets with Free Software] (Elio Qoshi)"
+            "\u03b5xodus reveals hidden trackers in Android applications"
         ], 
-        "Is organized by": [], 
+        "Is organized by": [
+            {
+                "fulltext": "User:Sanpi", 
+                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/User:Sanpi", 
+                "namespace": 2, 
+                "exists": true
+            }
+        ], 
         "Has title": [
-            "Rights&Freedoms"
+            "TeaHouse"
         ], 
         "Has duration": [
-            60
+            20
         ], 
         "GUID": [
-            "9a031988-bf7d-45f1-bc41-f3751dc059a7"
+            "622c5770-b9fc-45ef-b9fc-1533f661e3ec"
         ], 
         "Has color": [
             "#0099ab"
         ], 
-        "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:Rights%26Freedoms", 
+        "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:TeaHouse", 
         "Has end time": [
-            "1514383200"
+            "1514640000"
         ]
     }, 
     "Session:Trickmisch# edb2989e4021b4f67c909659a0640527": {
