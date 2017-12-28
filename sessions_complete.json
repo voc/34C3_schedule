@@ -5502,47 +5502,57 @@
             "1514490300"
         ]
     }, 
-    "Session:Ki+Philosophie# bc672941293e6929ae4750e733024e82": {
+    "Session:Bridging messengers with Matrix.org# 1bb7b06ebc89cd4a4ef42f0581b9628f": {
         "Held in language": [
-            "de - German", 
             "en - English"
         ], 
         "Has start time": [
-            "1514404800"
+            "1514490300"
         ], 
         "Has event track": [
             "Session"
         ], 
-        "Has website": [], 
+        "Has website": [
+            "https://github.com/exul/matrix-rocketchat"
+        ], 
         "Has description": [
-            "K\u00fcnstliche Intelligenz ist voll im Kommen. Aber manche philosophischen Probleme lassen sich einfach nicht wegprogrammieren.\n\nThis Session is about artificial intelligence and its philosophical implications. We discuss some interesting dilemmas."
+            "Matrix is an open protocol for real-time communication. It not only provides a way to build messengers like riot.im, but it also allows bridging other messengers like IRC, Slack, Gitter, Telegram, etc."
         ], 
         "Has session type": [
-            "Workshop"
+            "Talk"
         ], 
         "Has session location": [
             {
-                "fulltext": "Room:Seminar room 14-15", 
-                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Room:Seminar_room_14-15", 
+                "fulltext": "Room:Lecture room 12", 
+                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Room:Lecture_room_12", 
                 "namespace": 516, 
                 "exists": true
             }
         ], 
         "Has subtitle": [], 
-        "Is organized by": [], 
+        "Is organized by": [
+            {
+                "fulltext": "User:Exul", 
+                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/User:Exul", 
+                "namespace": 2, 
+                "exists": true
+            }
+        ], 
         "Has title": [
-            "Ki+Philosophie"
+            "Bridging messengers with Matrix.org"
         ], 
         "Has duration": [
-            60
+            45
         ], 
-        "GUID": [], 
+        "GUID": [
+            "32409b19-4156-4a2c-9fa3-3b724d0a4815"
+        ], 
         "Has color": [
             "#0099ab"
         ], 
-        "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:Ki%2BPhilosophie", 
+        "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:Bridging_messengers_with_Matrix.org", 
         "Has end time": [
-            "1514408400"
+            "1514493000"
         ]
     }, 
     "Session:Komona networking gathering# 958a2e76c13c3065f130972233095271": {
@@ -7670,59 +7680,6 @@
         "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:IOSRE", 
         "Has end time": [
             "1514487600"
-        ]
-    }, 
-    "Session:Bridging messengers with Matrix.org# 99d3da5cec070f18fe783c0afed88ec1": {
-        "Held in language": [
-            "en - English"
-        ], 
-        "Has start time": [
-            "1514489400"
-        ], 
-        "Has event track": [
-            "Session"
-        ], 
-        "Has website": [
-            "https://github.com/exul/matrix-rocketchat"
-        ], 
-        "Has description": [
-            "Matrix is an open protocol for real-time communication. It not only provides a way to build messengers like riot.im, but it also allows bridging other messengers like IRC, Slack, Gitter, Telegram, etc."
-        ], 
-        "Has session type": [
-            "Talk"
-        ], 
-        "Has session location": [
-            {
-                "fulltext": "Room:Lecture room 12", 
-                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Room:Lecture_room_12", 
-                "namespace": 516, 
-                "exists": true
-            }
-        ], 
-        "Has subtitle": [], 
-        "Is organized by": [
-            {
-                "fulltext": "User:Exul", 
-                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/User:Exul", 
-                "namespace": 2, 
-                "exists": true
-            }
-        ], 
-        "Has title": [
-            "Bridging messengers with Matrix.org"
-        ], 
-        "Has duration": [
-            45
-        ], 
-        "GUID": [
-            "32409b19-4156-4a2c-9fa3-3b724d0a4815"
-        ], 
-        "Has color": [
-            "#0099ab"
-        ], 
-        "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:Bridging_messengers_with_Matrix.org", 
-        "Has end time": [
-            "1514492100"
         ]
     }, 
     "Session:Critical Mass Leipzig# 0ab179fd5df93b33cd726053086db8f4": {
@@ -13239,6 +13196,49 @@
         "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:Letter_writing_to_prisoners,_sitting_in_jail_for_hacking", 
         "Has end time": [
             "1514551500"
+        ]
+    }, 
+    "Session:Ki+Philosophie# bc672941293e6929ae4750e733024e82": {
+        "Held in language": [
+            "de - German", 
+            "en - English"
+        ], 
+        "Has start time": [
+            "1514404800"
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [], 
+        "Has description": [
+            "K\u00fcnstliche Intelligenz ist voll im Kommen. Aber manche philosophischen Probleme lassen sich einfach nicht wegprogrammieren.\n\nThis Session is about artificial intelligence and its philosophical implications. We discuss some interesting dilemmas."
+        ], 
+        "Has session type": [
+            "Workshop"
+        ], 
+        "Has session location": [
+            {
+                "fulltext": "Room:Seminar room 14-15", 
+                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Room:Seminar_room_14-15", 
+                "namespace": 516, 
+                "exists": true
+            }
+        ], 
+        "Has subtitle": [], 
+        "Is organized by": [], 
+        "Has title": [
+            "Ki+Philosophie"
+        ], 
+        "Has duration": [
+            60
+        ], 
+        "GUID": [], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:Ki%2BPhilosophie", 
+        "Has end time": [
+            "1514408400"
         ]
     }, 
     "Session:Open Source DJing# 06d147bb5730e3e2f8f3ee4459d594ce": {
