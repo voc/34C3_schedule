@@ -5256,6 +5256,59 @@
             "1514403000"
         ]
     }, 
+    "Session:Synth Jam# 12327f63437d5dd09e447c587b2d8120": {
+        "Held in language": [
+            "en - English"
+        ], 
+        "Has start time": [
+            "1514498400"
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [], 
+        "Has description": [
+            "Let's bring some synths, talk about them and have a fun jam session!"
+        ], 
+        "Has session type": [
+            "Hands-On"
+        ], 
+        "Has session location": [
+            {
+                "fulltext": "Assembly:HardwareHackingArea", 
+                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Assembly:HardwareHackingArea", 
+                "namespace": 504, 
+                "exists": true
+            }
+        ], 
+        "Has subtitle": [
+            "Synth Meetup & Jam"
+        ], 
+        "Is organized by": [
+            {
+                "fulltext": "User:Tiefpunkt", 
+                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/User:Tiefpunkt", 
+                "namespace": 2, 
+                "exists": true
+            }
+        ], 
+        "Has title": [
+            "Synth Jam"
+        ], 
+        "Has duration": [
+            60
+        ], 
+        "GUID": [
+            "2e7b8f5d-ee65-47a6-bb39-03275dcebe92"
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:Synth_Jam", 
+        "Has end time": [
+            "1514502000"
+        ]
+    }, 
     "Session:Schleuder# 333059041d8a4ce8d2cfa9b7e98eb45c": {
         "Held in language": [
             "en - English"
@@ -5877,59 +5930,6 @@
         "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:Replicant_Install_Fest", 
         "Has end time": [
             "1514566800"
-        ]
-    }, 
-    "Session:TeaHouse# a62fd00a53302f612de2e67050bef83b": {
-        "Held in language": [
-            "en - English"
-        ], 
-        "Has start time": [
-            "1514557800"
-        ], 
-        "Has event track": [
-            "Session"
-        ], 
-        "Has website": [
-            "https://teahouse.homecomputing.fr/"
-        ], 
-        "Has description": [], 
-        "Has session type": [
-            "Meeting"
-        ], 
-        "Has session location": [
-            {
-                "fulltext": "Assembly:TeaHouse", 
-                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Assembly:TeaHouse", 
-                "namespace": 504, 
-                "exists": true
-            }
-        ], 
-        "Has subtitle": [
-            "Fuck Off Google! \"Google campus\" out of Kreuzberg"
-        ], 
-        "Is organized by": [
-            {
-                "fulltext": "User:Sanpi", 
-                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/User:Sanpi", 
-                "namespace": 2, 
-                "exists": true
-            }
-        ], 
-        "Has title": [
-            "TeaHouse"
-        ], 
-        "Has duration": [
-            60
-        ], 
-        "GUID": [
-            "622c5770-b9fc-45ef-b9fc-1533f661e3ec"
-        ], 
-        "Has color": [
-            "#0099ab"
-        ], 
-        "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:TeaHouse", 
-        "Has end time": [
-            "1514561400"
         ]
     }, 
     "Session:ArduinoForTotalNewbies# 6ae5b686924eb6485d48a3973f59860f": {
@@ -11676,57 +11676,57 @@
             "1514484000"
         ]
     }, 
-    "Session:Synth Jam# b73868b40e4a2105c4e336834ed29be3": {
+    "Session:TeaHouse# a62fd00a53302f612de2e67050bef83b": {
         "Held in language": [
             "en - English"
         ], 
         "Has start time": [
-            "1514498400"
+            "1514557800"
         ], 
         "Has event track": [
             "Session"
         ], 
-        "Has website": [], 
-        "Has description": [
-            "Let's bring some synths and jam!"
+        "Has website": [
+            "https://teahouse.homecomputing.fr/"
         ], 
+        "Has description": [], 
         "Has session type": [
-            "Hands-On"
+            "Meeting"
         ], 
         "Has session location": [
             {
-                "fulltext": "Assembly:HardwareHackingArea", 
-                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Assembly:HardwareHackingArea", 
+                "fulltext": "Assembly:TeaHouse", 
+                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Assembly:TeaHouse", 
                 "namespace": 504, 
                 "exists": true
             }
         ], 
         "Has subtitle": [
-            "this might still change..."
+            "Fuck Off Google! \"Google campus\" out of Kreuzberg"
         ], 
         "Is organized by": [
             {
-                "fulltext": "User:Tiefpunkt", 
-                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/User:Tiefpunkt", 
+                "fulltext": "User:Sanpi", 
+                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/User:Sanpi", 
                 "namespace": 2, 
                 "exists": true
             }
         ], 
         "Has title": [
-            "Synth Jam"
+            "TeaHouse"
         ], 
         "Has duration": [
             60
         ], 
         "GUID": [
-            "2e7b8f5d-ee65-47a6-bb39-03275dcebe92"
+            "622c5770-b9fc-45ef-b9fc-1533f661e3ec"
         ], 
         "Has color": [
             "#0099ab"
         ], 
-        "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:Synth_Jam", 
+        "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:TeaHouse", 
         "Has end time": [
-            "1514502000"
+            "1514561400"
         ]
     }, 
     "Session:Chaos-Notizen# f90aa84469346a8747b774faaf1509e0": {
