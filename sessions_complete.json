@@ -7570,16 +7570,24 @@
         ]
     }, 
     "Session:Ethereum AMA# ddf85b5c031f0d6b7cc1a2a813fabced": {
-        "Held in language": [], 
+        "Held in language": [
+            "en - English"
+        ], 
         "Has start time": [
             "1514642400"
         ], 
         "Has event track": [
             "Session"
         ], 
-        "Has website": [], 
-        "Has description": [], 
-        "Has session type": [], 
+        "Has website": [
+            "http://www.ethereum.org"
+        ], 
+        "Has description": [
+            "There are several Ethereum Superstars at this conference, they are congregating on the Chaos West Stage to answer all of your questions about the decentralized world computer. :-D"
+        ], 
+        "Has session type": [
+            "Talk"
+        ], 
         "Has session location": [
             {
                 "fulltext": "Room:Chaos West Stage", 
