@@ -13056,6 +13056,55 @@
             "1514551800"
         ]
     }, 
+    "Session:Whisky Tasting @ FHB# 2e5bda541bdff46d4bf5b21505aa6196": {
+        "Held in language": [], 
+        "Has start time": [
+            "1514412000"
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [
+            "https://foodhackingbase.org/wiki/34c3_whisky_tasting"
+        ], 
+        "Has description": [
+            "Whisky Tasting @ FHB"
+        ], 
+        "Has session type": [], 
+        "Has session location": [
+            {
+                "fulltext": "Assembly:Foodhackingbase", 
+                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Assembly:Foodhackingbase", 
+                "namespace": 504, 
+                "exists": true
+            }
+        ], 
+        "Has subtitle": [], 
+        "Is organized by": [
+            {
+                "fulltext": "User:Bigmac", 
+                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/User:Bigmac", 
+                "namespace": 2, 
+                "exists": true
+            }
+        ], 
+        "Has title": [
+            "Whisky Tasting @ FHB"
+        ], 
+        "Has duration": [
+            120
+        ], 
+        "GUID": [
+            "7323cf35-3bef-4245-96f1-37cc04112962"
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:Whisky_Tasting_@_FHB", 
+        "Has end time": [
+            "1514419200"
+        ]
+    }, 
     "Session:Tor relays operators meetup# a2e78738746accec8fc83b3bbf438638": {
         "Held in language": [
             "en - English"
@@ -14340,12 +14389,12 @@
             "1514494800"
         ]
     }, 
-    "Session:Organising a CryptoParty, reports and experiences from the field# 45ebd4e08a7e6e0d64d98b69a9f568a9": {
+    "Session:Organising a CryptoParty, reports and experiences from the field# ff2f9abcbe569725b97edffc47162158": {
         "Held in language": [
             "en - English"
         ], 
         "Has start time": [
-            "1514516400"
+            "1514581200"
         ], 
         "Has event track": [
             "Session"
@@ -14361,8 +14410,8 @@
         ], 
         "Has session location": [
             {
-                "fulltext": "Room:Lecture room 11", 
-                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Room:Lecture_room_11", 
+                "fulltext": "Room:Lecture room 12", 
+                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Room:Lecture_room_12", 
                 "namespace": 516, 
                 "exists": true
             }
@@ -14390,7 +14439,7 @@
         ], 
         "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:Organising_a_CryptoParty,_reports_and_experiences_from_the_field", 
         "Has end time": [
-            "1514520000"
+            "1514584800"
         ]
     }, 
     "Session:Klangteppich# dc02cc5e64bee40965c128546b6767ae": {
@@ -16235,53 +16284,46 @@
             "1514393100"
         ]
     }, 
-    "Session:Whisky Tasting @ FHB# 2e5bda541bdff46d4bf5b21505aa6196": {
+    "Session:Chinas social credit system# aa7a0201c954cbdd5f386950e3c3c392": {
         "Held in language": [], 
         "Has start time": [
-            "1514412000"
+            "1514637900"
         ], 
         "Has event track": [
             "Session"
         ], 
-        "Has website": [
-            "https://foodhackingbase.org/wiki/34c3_whisky_tasting"
-        ], 
+        "Has website": [], 
         "Has description": [
-            "Whisky Tasting @ FHB"
+            "Discusssion about Chinas social credit system"
         ], 
-        "Has session type": [], 
+        "Has session type": [
+            "Talk"
+        ], 
         "Has session location": [
             {
-                "fulltext": "Assembly:Foodhackingbase", 
-                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Assembly:Foodhackingbase", 
-                "namespace": 504, 
+                "fulltext": "Room:Komona Blue Princess", 
+                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Room:Komona_Blue_Princess", 
+                "namespace": 516, 
                 "exists": true
             }
         ], 
         "Has subtitle": [], 
-        "Is organized by": [
-            {
-                "fulltext": "User:Bigmac", 
-                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/User:Bigmac", 
-                "namespace": 2, 
-                "exists": true
-            }
-        ], 
+        "Is organized by": [], 
         "Has title": [
-            "Whisky Tasting @ FHB"
+            "Chinas social credit system"
         ], 
         "Has duration": [
-            120
+            45
         ], 
         "GUID": [
-            "7323cf35-3bef-4245-96f1-37cc04112962"
+            "b70cf73b-7221-483b-a051-b9284be5947a"
         ], 
         "Has color": [
             "#0099ab"
         ], 
-        "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:Whisky_Tasting_@_FHB", 
+        "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:Chinas_social_credit_system", 
         "Has end time": [
-            "1514419200"
+            "1514640600"
         ]
     }, 
     "Session:\u201cHow To Survice 34C3\u201d CryptoParty# f3f3ed2e5fe9956db5790f4bcc0494c7": {
@@ -20622,6 +20664,35 @@
         "Has end time": [
             "1514375100"
         ]
+    }, 
+    "Session:Tuwat! gegen Fake News# deb6ebcd1de72c3b2faae1da66511a9a": {
+        "Held in language": [
+            "en - English"
+        ], 
+        "Has start time": [], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [], 
+        "Has description": [], 
+        "Has session type": [
+            "Discussion"
+        ], 
+        "Has session location": [], 
+        "Has subtitle": [], 
+        "Is organized by": [], 
+        "Has title": [
+            "Tuwat! gegen Fake News"
+        ], 
+        "Has duration": [], 
+        "GUID": [
+            "b2d06017-ccdc-4772-bfb8-247b29bfa3b8"
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:Tuwat!_gegen_Fake_News", 
+        "Has end time": []
     }, 
     "Session:Rights&Freedoms# 9233046959c118f4e37e87b811773ec8": {
         "Held in language": [
