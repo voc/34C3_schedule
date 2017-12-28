@@ -3750,59 +3750,6 @@
             "1514476800"
         ]
     }, 
-    "Session:Ybti+wefixthenet# a0b76e267b2605e6208c0b8ed65d9ec7": {
-        "Held in language": [
-            "en - English"
-        ], 
-        "Has start time": [
-            "1514556000"
-        ], 
-        "Has event track": [
-            "Session"
-        ], 
-        "Has website": [
-            "http://youbroketheinternet.org/"
-        ], 
-        "Has description": [
-            "youbroketheinternet/wefixthenet session to discuss and report progress on a secure, private post-Snowden era Internet"
-        ], 
-        "Has session type": [
-            "Talk"
-        ], 
-        "Has session location": [
-            {
-                "fulltext": "Room:Chaos West Stage", 
-                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Room:Chaos_West_Stage", 
-                "namespace": 516, 
-                "exists": true
-            }
-        ], 
-        "Has subtitle": [], 
-        "Is organized by": [
-            {
-                "fulltext": "User:Forthy", 
-                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/User:Forthy", 
-                "namespace": 2, 
-                "exists": true
-            }
-        ], 
-        "Has title": [
-            "Ybti+wefixthenet"
-        ], 
-        "Has duration": [
-            120
-        ], 
-        "GUID": [
-            "2908d355-9054-4c8f-8a7f-33e677435c1d"
-        ], 
-        "Has color": [
-            "#0099ab"
-        ], 
-        "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:Ybti%2Bwefixthenet", 
-        "Has end time": [
-            "1514563200"
-        ]
-    }, 
     "Session:Angel Meeting# 075d3e480a396cae5fcbc55989a88ca2": {
         "Held in language": [
             "en - English", 
@@ -7869,48 +7816,57 @@
             "1514492100"
         ]
     }, 
-    "Session:Siebdruck# 4fe2bffab18081b97208edcb8bb70c1e": {
-        "Held in language": [], 
+    "Session:Ybti+wefixthenet# a0b76e267b2605e6208c0b8ed65d9ec7": {
+        "Held in language": [
+            "en - English"
+        ], 
         "Has start time": [
-            "1514552400"
+            "1514556000"
         ], 
         "Has event track": [
             "Session"
         ], 
-        "Has website": [], 
+        "Has website": [
+            "http://youbroketheinternet.org/"
+        ], 
         "Has description": [
-            "Bring your own shirt - We bring the rocket \n\nDer @dondario bringt Siebdruck zum @C3Kidspace Rocket Drucken mit. Sagt ihr mal euren Eltern, dass sie euch daf\u00fcr ein T-Shirt, Body oder Strampler einpacken. Alternativ gibt es in der N\u00e4he des #34c3 aber auch Kinder-Klamotten zu kaufen."
+            "youbroketheinternet/wefixthenet session to discuss and report progress on a secure, private post-Snowden era Internet"
         ], 
         "Has session type": [
-            "Hands-On"
+            "Talk"
         ], 
         "Has session location": [
             {
-                "fulltext": "Room:Kidspace", 
-                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Room:Kidspace", 
+                "fulltext": "Room:Chaos West Stage", 
+                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Room:Chaos_West_Stage", 
                 "namespace": 516, 
                 "exists": true
             }
         ], 
-        "Has subtitle": [
-            "Siebdruck f\u00fcr Kids"
+        "Has subtitle": [], 
+        "Is organized by": [
+            {
+                "fulltext": "User:Forthy", 
+                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/User:Forthy", 
+                "namespace": 2, 
+                "exists": true
+            }
         ], 
-        "Is organized by": [], 
         "Has title": [
-            "Siebdruck"
+            "Ybti+wefixthenet"
         ], 
         "Has duration": [
-            300
+            120
         ], 
         "GUID": [
-            "e9d483fc-b4fa-4712-b174-5b58321544cf"
+            "2908d355-9054-4c8f-8a7f-33e677435c1d"
         ], 
         "Has color": [
             "#0099ab"
         ], 
-        "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:Siebdruck", 
+        "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:Ybti%2Bwefixthenet", 
         "Has end time": [
-            "1514570400"
+            "1514563200"
         ]
     }, 
     "Session:Musterpolizeigesetz# 2729d1aa7aadb23441210eea7254e991": {
@@ -8608,7 +8564,9 @@
             "Session"
         ], 
         "Has website": [], 
-        "Has description": [], 
+        "Has description": [
+            "Are you developing some kind of system to analyse, detect or avoid the spread of fake news, the effect of filter bubbles, echo chambers and all that crap that comes along with misinformation? Or are you an enthusiast willing to join forces? This session is here to put us in contact, debate, show others what has been done so far. Can we design protocols to integrate different tools? How can we coordinate and avoid reinventing the wheel? Come and share your findings!"
+        ], 
         "Has session type": [
             "Discussion"
         ], 
@@ -9753,6 +9711,39 @@
         "Has end time": [
             "1514554200"
         ]
+    }, 
+    "Session:Hear What You Like to Hear# f273b334c2c757291e182e98d01ff6dd": {
+        "Held in language": [
+            "en - English"
+        ], 
+        "Has start time": [], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [
+            "http://not%20yet"
+        ], 
+        "Has description": [
+            "Hear what you like to hear is a citizen science project intitiated by myself as an hearing restricted person. In this session I want to introduce to our research approach and present the Open Master Hearing Aid on a Raspberry Pi 3."
+        ], 
+        "Has session type": [
+            "Hands-On"
+        ], 
+        "Has session location": [], 
+        "Has subtitle": [], 
+        "Is organized by": [], 
+        "Has title": [
+            "Hear What You Like to Hear"
+        ], 
+        "Has duration": [], 
+        "GUID": [
+            "fe9ff770-1bf3-4d29-ab1c-1b9655b1ba02"
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:Hear_What_You_Like_to_Hear", 
+        "Has end time": []
     }, 
     "Session:Hilbertspace Theory \u2013 Music Theory's New Clothes# 8443cc9d717c4e3b92e5f746ef028616": {
         "Held in language": [
@@ -12256,38 +12247,49 @@
             "1514476800"
         ]
     }, 
-    "Session:Hear What You Like to Hear# f273b334c2c757291e182e98d01ff6dd": {
-        "Held in language": [
-            "en - English"
+    "Session:Siebdruck# db73757666bec915e3d22a6bd97eb8d4": {
+        "Held in language": [], 
+        "Has start time": [
+            "1514552400"
         ], 
-        "Has start time": [], 
         "Has event track": [
             "Session"
         ], 
-        "Has website": [
-            "http://not%20yet"
-        ], 
+        "Has website": [], 
         "Has description": [
-            "Hear what you like to hear is a citizen science project intitiated by myself as an hearing restricted person. In this session I want to introduce to our research approach and present the Open Master Hearing Aid on a Raspberry Pi 3."
+            "Bring your own shirt - We bring the rocket \n\nDer @dondario bringt Siebdruck zum @C3Kidspace Rocket Drucken mit. Sagt ihr mal euren Eltern, dass sie euch daf\u00fcr ein T-Shirt, Body oder Strampler einpacken. Alternativ gibt es in der N\u00e4he des #34c3 aber auch Kinder-Klamotten zu kaufen."
         ], 
         "Has session type": [
             "Hands-On"
         ], 
-        "Has session location": [], 
-        "Has subtitle": [], 
+        "Has session location": [
+            {
+                "fulltext": "Room:Kidspace", 
+                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Room:Kidspace", 
+                "namespace": 516, 
+                "exists": true
+            }
+        ], 
+        "Has subtitle": [
+            "Siebdruck f\u00fcr Kids"
+        ], 
         "Is organized by": [], 
         "Has title": [
-            "Hear What You Like to Hear"
+            "Siebdruck"
         ], 
-        "Has duration": [], 
+        "Has duration": [
+            120
+        ], 
         "GUID": [
-            "fe9ff770-1bf3-4d29-ab1c-1b9655b1ba02"
+            "e9d483fc-b4fa-4712-b174-5b58321544cf"
         ], 
         "Has color": [
             "#0099ab"
         ], 
-        "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:Hear_What_You_Like_to_Hear", 
-        "Has end time": []
+        "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:Siebdruck", 
+        "Has end time": [
+            "1514559600"
+        ]
     }, 
     "Session:Mietsh\u00e4usersyndikat was ist das?# 6e24fb2d386c015174232a15d414d17d": {
         "Held in language": [], 
@@ -17726,6 +17728,54 @@
             "1514385000"
         ]
     }, 
+    "Session:Giveth: Decentralizing the Non-Profit World# 6a1bf7ccf30778792d749fc371de9760": {
+        "Held in language": [
+            "en - English"
+        ], 
+        "Has start time": [
+            "1514648700"
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [
+            "https://giveth.io"
+        ], 
+        "Has description": [
+            "Giveth is a radically transparent, not-for-profit community developing open source projects aimed at DAO-fying the non-profit world and building the future of giving. Q&A after a short talk."
+        ], 
+        "Has session type": [
+            "Talk"
+        ], 
+        "Has session location": [
+            {
+                "fulltext": "Assembly:Chaos West", 
+                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Assembly:Chaos_West", 
+                "namespace": 504, 
+                "exists": true
+            }
+        ], 
+        "Has subtitle": [
+            "Building Transparent Communities with Smart Contracts"
+        ], 
+        "Is organized by": [], 
+        "Has title": [
+            "Giveth: Decentralizing the Non-Profit World"
+        ], 
+        "Has duration": [
+            45
+        ], 
+        "GUID": [
+            "ea42e0f6-0320-4c0e-b8c4-db01151ce6b4"
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:Giveth:_Decentralizing_the_Non-Profit_World", 
+        "Has end time": [
+            "1514651400"
+        ]
+    }, 
     "Session:TeaHouse# cf0a2a52d2dce7d7d19bd4d69ba6b5c6": {
         "Held in language": [
             "en - English"
@@ -18653,7 +18703,9 @@
         "Has event track": [
             "Session"
         ], 
-        "Has website": [], 
+        "Has website": [
+            "https://riot.im/app/#/room/#maskdyn34c3:matrix.org"
+        ], 
         "Has description": [
             "MASKIERTE GRUPPENDYNAMIK (Henk)"
         ], 
