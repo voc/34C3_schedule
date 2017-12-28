@@ -1722,16 +1722,20 @@
             "1514472300"
         ]
     }, 
-    "Session:QRNGesus# 9933e36496ba395d014495b2ec1939cc": {
+    "Session:Schauvorlesung Physik# 8498ecd2769824e7b9eb51cb3c5039ba": {
         "Held in language": [
             "de - German"
         ], 
-        "Has start time": [], 
+        "Has start time": [
+            "1514559600"
+        ], 
         "Has event track": [
             "Session"
         ], 
         "Has website": [], 
-        "Has description": [], 
+        "Has description": [
+            "Was ist eine Schauvorlesung, was ist sie bei uns? Was soll das?"
+        ], 
         "Has session type": [
             "Talk"
         ], 
@@ -1744,21 +1748,30 @@
             }
         ], 
         "Has subtitle": [], 
-        "Is organized by": [], 
+        "Is organized by": [
+            {
+                "fulltext": "User:Kr\u00f6te", 
+                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/User:Kr%C3%B6te", 
+                "namespace": 2, 
+                "exists": true
+            }
+        ], 
         "Has title": [
-            "QRNGesus"
+            "Schauvorlesung Physik"
         ], 
         "Has duration": [
-            30
+            20
         ], 
         "GUID": [
-            "89546c3c-ad9b-42e5-b490-f8cdbf54dd5d"
+            "889d1d46-fbf3-4147-8a51-171b3d833eff"
         ], 
         "Has color": [
             "#0099ab"
         ], 
-        "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:QRNGesus", 
-        "Has end time": []
+        "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:Schauvorlesung_Physik", 
+        "Has end time": [
+            "1514560800"
+        ]
     }, 
     "Session:DLF# c611e4db3c470dd697b1afa571b3c6d8": {
         "Held in language": [
@@ -2653,6 +2666,54 @@
         "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:Why_did_we_stop_contributing_to_knowledge_on_the_internet", 
         "Has end time": [
             "1514645100"
+        ]
+    }, 
+    "Session:Tongue twisters (Zungenbrecher)# ff2161d73355d318f88ce0196e137f4a": {
+        "Held in language": [
+            "en - English", 
+            "eo - Esperanto", 
+            "fr - French"
+        ], 
+        "Has start time": [
+            "1514541600"
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [
+            "https://thomaslevine.com/scm/langrompiloj/dir?ci=tip"
+        ], 
+        "Has description": [
+            "We will document tongue twisters by writing them down, recording them being spoken, and translating them into other languages."
+        ], 
+        "Has session type": [
+            "Workshop"
+        ], 
+        "Has session location": [
+            {
+                "fulltext": "Room:Hive Conference", 
+                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Room:Hive_Conference", 
+                "namespace": 516, 
+                "exists": true
+            }
+        ], 
+        "Has subtitle": [], 
+        "Is organized by": [], 
+        "Has title": [
+            "Tongue twisters (Zungenbrecher)"
+        ], 
+        "Has duration": [
+            60
+        ], 
+        "GUID": [
+            "1eead0ed-ed7f-473a-84d9-c03fb5ec9b4e"
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:Tongue_twisters_(Zungenbrecher)", 
+        "Has end time": [
+            "1514545200"
         ]
     }, 
     "Session:WikiWat!# 2d160002ce202148359d125f1366118b": {
@@ -9517,53 +9578,43 @@
             "1514588400"
         ]
     }, 
-    "Session:Letter writing to prisoners, sitting in jail for hacking# 9d722a7b202a7853d8968feff1c15650": {
+    "Session:QRNGesus# 9933e36496ba395d014495b2ec1939cc": {
         "Held in language": [
-            "en - English"
+            "de - German"
         ], 
-        "Has start time": [
-            "1514635200"
-        ], 
+        "Has start time": [], 
         "Has event track": [
             "Session"
         ], 
-        "Has website": [
-            "http://abcdd.org"
-        ], 
-        "Has description": [
-            "Hacktivism from time to time leads to imprisonment and repressions. There are several people right now siting in jail that consider themselves anarchist or did actions that are supported by anarchist community. Not to let those people alone in prison we would like to have every day 1 hour around the table, where we get to know the stories of imprisoned activists and write them some words of support with postcards/letters.  You don't need any special skills for that. The postcards will be there for you."
-        ], 
+        "Has website": [], 
+        "Has description": [], 
         "Has session type": [
-            "Workshop"
+            "Talk"
         ], 
         "Has session location": [
             {
-                "fulltext": "Room:Komona Coral Reef", 
-                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Room:Komona_Coral_Reef", 
-                "namespace": 516, 
+                "fulltext": "Assembly:Physikfachschaft Rostock", 
+                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Assembly:Physikfachschaft_Rostock", 
+                "namespace": 504, 
                 "exists": true
             }
         ], 
-        "Has subtitle": [
-            "Day 4"
-        ], 
+        "Has subtitle": [], 
         "Is organized by": [], 
         "Has title": [
-            "Letter writing to prisoners, sitting in jail for hacking"
+            "QRNGesus"
         ], 
         "Has duration": [
-            45
+            30
         ], 
         "GUID": [
-            "a3026239-aef4-4d20-bdc5-003bfbbff970"
+            "89546c3c-ad9b-42e5-b490-f8cdbf54dd5d"
         ], 
         "Has color": [
             "#0099ab"
         ], 
-        "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:Letter_writing_to_prisoners,_sitting_in_jail_for_hacking", 
-        "Has end time": [
-            "1514637900"
-        ]
+        "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:QRNGesus", 
+        "Has end time": []
     }, 
     "Session:DLF# 39586741ed45eeae1d2d308db6fc0c4b": {
         "Held in language": [
@@ -9660,6 +9711,54 @@
         "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:Limlug:_In_der_Weihnachtsb%C3%A4ckerei_-_Data_Science_und_Kekse", 
         "Has end time": [
             "1514565900"
+        ]
+    }, 
+    "Session:Tongue twisters (Zungenbrecher)# 5e6121db80abc9b01e7a203164904d9f": {
+        "Held in language": [
+            "en - English", 
+            "eo - Esperanto", 
+            "fr - French"
+        ], 
+        "Has start time": [
+            "1514455200"
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [
+            "https://thomaslevine.com/scm/langrompiloj/dir?ci=tip"
+        ], 
+        "Has description": [
+            "We will document tongue twisters by writing them down, recording them being spoken, and translating them into other languages."
+        ], 
+        "Has session type": [
+            "Workshop"
+        ], 
+        "Has session location": [
+            {
+                "fulltext": "Room:Hive Conference", 
+                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Room:Hive_Conference", 
+                "namespace": 516, 
+                "exists": true
+            }
+        ], 
+        "Has subtitle": [], 
+        "Is organized by": [], 
+        "Has title": [
+            "Tongue twisters (Zungenbrecher)"
+        ], 
+        "Has duration": [
+            60
+        ], 
+        "GUID": [
+            "e3c21e66-1484-4ca0-a2a6-d27382508e55"
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:Tongue_twisters_(Zungenbrecher)", 
+        "Has end time": [
+            "1514458800"
         ]
     }, 
     "Session:Ybti+wefixthenet# 8ce7e131453197869935c912de1b35bf": {
@@ -12361,6 +12460,54 @@
         "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:Subtitles-Engelmeeting", 
         "Has end time": [
             "1514388600"
+        ]
+    }, 
+    "Session:Tongue twisters (Zungenbrecher)# f8989b8e22e9118ee4eb810b69de7d83": {
+        "Held in language": [
+            "en - English", 
+            "eo - Esperanto", 
+            "fr - French"
+        ], 
+        "Has start time": [
+            "1514628000"
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [
+            "https://thomaslevine.com/scm/langrompiloj/dir?ci=tip"
+        ], 
+        "Has description": [
+            "We will document tongue twisters by writing them down, recording them being spoken, and translating them into other languages."
+        ], 
+        "Has session type": [
+            "Workshop"
+        ], 
+        "Has session location": [
+            {
+                "fulltext": "Room:Hive Conference", 
+                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Room:Hive_Conference", 
+                "namespace": 516, 
+                "exists": true
+            }
+        ], 
+        "Has subtitle": [], 
+        "Is organized by": [], 
+        "Has title": [
+            "Tongue twisters (Zungenbrecher)"
+        ], 
+        "Has duration": [
+            60
+        ], 
+        "GUID": [
+            "1eead0ed-ed7f-473a-84d9-c03fb5ec9b4e"
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:Tongue_twisters_(Zungenbrecher)", 
+        "Has end time": [
+            "1514631600"
         ]
     }, 
     "Session:SinsForHumanity# cb6b99ecf044c9a3175c667ad733864f": {
@@ -16927,6 +17074,54 @@
         "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:A_personal_epiphany_and_endless_inspection!_Meet_Sophia!", 
         "Has end time": [
             "1514584800"
+        ]
+    }, 
+    "Session:Letter writing to prisoners, sitting in jail for hacking# 9d722a7b202a7853d8968feff1c15650": {
+        "Held in language": [
+            "en - English"
+        ], 
+        "Has start time": [
+            "1514635200"
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [
+            "http://abcdd.org"
+        ], 
+        "Has description": [
+            "Hacktivism from time to time leads to imprisonment and repressions. There are several people right now siting in jail that consider themselves anarchist or did actions that are supported by anarchist community. Not to let those people alone in prison we would like to have every day 1 hour around the table, where we get to know the stories of imprisoned activists and write them some words of support with postcards/letters.  You don't need any special skills for that. The postcards will be there for you."
+        ], 
+        "Has session type": [
+            "Workshop"
+        ], 
+        "Has session location": [
+            {
+                "fulltext": "Room:Komona Coral Reef", 
+                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Room:Komona_Coral_Reef", 
+                "namespace": 516, 
+                "exists": true
+            }
+        ], 
+        "Has subtitle": [
+            "Day 4"
+        ], 
+        "Is organized by": [], 
+        "Has title": [
+            "Letter writing to prisoners, sitting in jail for hacking"
+        ], 
+        "Has duration": [
+            45
+        ], 
+        "GUID": [
+            "a3026239-aef4-4d20-bdc5-003bfbbff970"
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:Letter_writing_to_prisoners,_sitting_in_jail_for_hacking", 
+        "Has end time": [
+            "1514637900"
         ]
     }, 
     "Session:A Solution To A Problem That Did Not Exist 50 Years Ago# 5fefb1fb8ca63d9aec5e96e1754e7d95": {
