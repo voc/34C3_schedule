@@ -4610,6 +4610,55 @@
             "1514550600"
         ]
     }, 
+    "Session:Join us now - a choir to perform the Free Software song# 37c7f8484124a7ccd8a7ab37396f05a5": {
+        "Held in language": [
+            "en - English"
+        ], 
+        "Has start time": [
+            "1514553300"
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [], 
+        "Has description": [], 
+        "Has session type": [
+            "Workshop"
+        ], 
+        "Has session location": [
+            {
+                "fulltext": "Assembly:Free Software Foundation Europe", 
+                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Assembly:Free_Software_Foundation_Europe", 
+                "namespace": 504, 
+                "exists": true
+            }
+        ], 
+        "Has subtitle": [], 
+        "Is organized by": [
+            {
+                "fulltext": "User:Eal", 
+                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/User:Eal", 
+                "namespace": 2, 
+                "exists": true
+            }
+        ], 
+        "Has title": [
+            "Join us now - a choir to perform the Free Software song"
+        ], 
+        "Has duration": [
+            105
+        ], 
+        "GUID": [
+            "bbc38995-f7c5-453b-a572-1be0ea022b1f"
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:Join_us_now_-_a_choir_to_perform_the_Free_Software_song", 
+        "Has end time": [
+            "1514559600"
+        ]
+    }, 
     "Session:Can't touch this 2: Introduction and more about self defense and communication for humans# f989a83075a375ca42f1b4dd18c331da": {
         "Held in language": [
             "en - English"
@@ -8553,6 +8602,59 @@
             "1514295900"
         ]
     }, 
+    "Session:Packaging in Nixpkgs# a03a20a52d0b4fb2f84e92b2cfd2c297": {
+        "Held in language": [], 
+        "Has start time": [
+            "1514566800"
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [
+            "https://nixos.org"
+        ], 
+        "Has description": [
+            "This Workshop will walk you through the whole process of performing a package update in nixpkgs.\nAfter this workshop you should be good to go to contribute to nixpkgs yourself."
+        ], 
+        "Has session type": [
+            "Workshop"
+        ], 
+        "Has session location": [
+            {
+                "fulltext": "Room:Lecture room 12", 
+                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Room:Lecture_room_12", 
+                "namespace": 516, 
+                "exists": true
+            }
+        ], 
+        "Has subtitle": [
+            "from zero to upstream in 60 minutes"
+        ], 
+        "Is organized by": [
+            {
+                "fulltext": "User:Mic92", 
+                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/User:Mic92", 
+                "namespace": 2, 
+                "exists": true
+            }
+        ], 
+        "Has title": [
+            "Packaging in Nixpkgs"
+        ], 
+        "Has duration": [
+            60
+        ], 
+        "GUID": [
+            "5fc474dd-2e37-4e68-87ed-41eeedbc9323"
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:Packaging_in_Nixpkgs", 
+        "Has end time": [
+            "1514570400"
+        ]
+    }, 
     "Session:Tuwat! gegen Fake News# 5030bb286ce6e406cff9b9df67b0aacb": {
         "Held in language": [
             "en - English"
@@ -8579,7 +8681,14 @@
             }
         ], 
         "Has subtitle": [], 
-        "Is organized by": [], 
+        "Is organized by": [
+            {
+                "fulltext": "User:MichaelKreil", 
+                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/User:MichaelKreil", 
+                "namespace": 2, 
+                "exists": true
+            }
+        ], 
         "Has title": [
             "Tuwat! gegen Fake News"
         ], 
@@ -9449,55 +9558,6 @@
         "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:Food_Hacking:_Korean_healing_table_prep", 
         "Has end time": [
             "1514574000"
-        ]
-    }, 
-    "Session:Join us now - a choir to perform the Free Software song# b5ca6f43b45dd7eff4800742cff068d8": {
-        "Held in language": [
-            "en - English"
-        ], 
-        "Has start time": [
-            "1514553300"
-        ], 
-        "Has event track": [
-            "Session"
-        ], 
-        "Has website": [], 
-        "Has description": [], 
-        "Has session type": [
-            "Workshop"
-        ], 
-        "Has session location": [
-            {
-                "fulltext": "Room:Komona Coral Reef", 
-                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Room:Komona_Coral_Reef", 
-                "namespace": 516, 
-                "exists": true
-            }
-        ], 
-        "Has subtitle": [], 
-        "Is organized by": [
-            {
-                "fulltext": "User:Eal", 
-                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/User:Eal", 
-                "namespace": 2, 
-                "exists": true
-            }
-        ], 
-        "Has title": [
-            "Join us now - a choir to perform the Free Software song"
-        ], 
-        "Has duration": [
-            105
-        ], 
-        "GUID": [
-            "bbc38995-f7c5-453b-a572-1be0ea022b1f"
-        ], 
-        "Has color": [
-            "#0099ab"
-        ], 
-        "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:Join_us_now_-_a_choir_to_perform_the_Free_Software_song", 
-        "Has end time": [
-            "1514559600"
         ]
     }, 
     "Session:Angewandte konsensdemokratie# b4051cdc2e053136b78d2df320ccd59b": {
