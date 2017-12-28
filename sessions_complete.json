@@ -9046,7 +9046,7 @@
             "http://calliope.cc"
         ], 
         "Has description": [
-            "Kinder ab 8 Jahren sind herzlich willkommen ihre ersten Erfahrungen mit dem Programmieren zu machen."
+            "Kinder ab 8 Jahren sind herzlich willkommen ihre ersten Erfahrungen mit dem Programmieren zu machen.\n\nWer an Tag 3 oder 4 noch Lust auf Calliope Workshops hat, der ruft einfach mal an: \nDECT: 8843 \noder \nmobile: null eins sechs drei 362 534 0"
         ], 
         "Has session type": [
             "Workshop"
@@ -10036,7 +10036,7 @@
             "http://calliope.cc"
         ], 
         "Has description": [
-            "Kinder ab 8 Jahren sind herzlich willkommen ihre ersten Erfahrungen mit dem Programmieren zu machen."
+            "Kinder ab 8 Jahren sind herzlich willkommen ihre ersten Erfahrungen mit dem Programmieren zu machen.\n\nWer an Tag 3 oder 4 noch Lust auf Calliope Workshops hat, der ruft einfach mal an: \nDECT: 8843 \noder \nmobile: null eins sechs drei 362 534 0"
         ], 
         "Has session type": [
             "Workshop"
@@ -16003,6 +16003,60 @@
             "1514599200"
         ]
     }, 
+    "Session:Real Life Magic: Tesla Coils# e8eb091ac3bbe1378b8faea8ccb421e3": {
+        "Held in language": [
+            "de - German", 
+            "en - English"
+        ], 
+        "Has start time": [
+            "1514563200"
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [], 
+        "Has description": [
+            "Small demos of small Tesla Coils that create small lightnings and plasma flames."
+        ], 
+        "Has session type": [
+            "Meeting"
+        ], 
+        "Has session location": [
+            {
+                "fulltext": "Assembly:CCC-CH", 
+                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Assembly:CCC-CH", 
+                "namespace": 504, 
+                "exists": true
+            }
+        ], 
+        "Has subtitle": [
+            "(Or whenever I am around)"
+        ], 
+        "Is organized by": [
+            {
+                "fulltext": "User:Ceemos", 
+                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/User:Ceemos", 
+                "namespace": 2, 
+                "exists": false
+            }
+        ], 
+        "Has title": [
+            "Real Life Magic: Tesla Coils"
+        ], 
+        "Has duration": [
+            60
+        ], 
+        "GUID": [
+            "4f1c4bc6-b135-4198-8295-2dce7e454ee8"
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:Real_Life_Magic:_Tesla_Coils", 
+        "Has end time": [
+            "1514566800"
+        ]
+    }, 
     "Session:Anarchist hackers - Hispagatos International anarchist-hacker collective# f4e3df0aa42144573fba6a03c70378e1": {
         "Held in language": [
             "en - English", 
@@ -16576,6 +16630,37 @@
             "1514474100"
         ]
     }, 
+    "Session:Ecohackerfarm a cross between hackbase/hackerspace and permaculture farm# bc78e2ee8896f6f806ff1630147789cd": {
+        "Held in language": [], 
+        "Has start time": [], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [
+            "https://wiki.ecohackerfarm.org/"
+        ], 
+        "Has description": [
+            "Eco Hacker Farm is an umbrella organization that helps to set up and support, new and existing projects that combine hackerspaces with permaculture farms to provide a sustainable living space for people to experience a way of life that is not necessarily dependent on the system but using appropriate, open source and low cost technological solutions. We have one community at the moment that is based north west of berlin in the coutryside. At the moment we have one big open source app development to make a permaculture garden planner. We would love to talk to adn share ideas with like minded people."
+        ], 
+        "Has session type": [
+            "Discussion"
+        ], 
+        "Has session location": [], 
+        "Has subtitle": [], 
+        "Is organized by": [], 
+        "Has title": [
+            "Ecohackerfarm a cross between hackbase/hackerspace and permaculture farm"
+        ], 
+        "Has duration": [], 
+        "GUID": [
+            "9fb292e2-afd5-45b2-bdd1-df1c6d4f27eb"
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:Ecohackerfarm_a_cross_between_hackbase/hackerspace_and_permaculture_farm", 
+        "Has end time": []
+    }, 
     "Session:Food Hacking: Kefir Making# 8752ad3b2d6b623949558bffb3022e5c": {
         "Held in language": [
             "en - English"
@@ -17109,57 +17194,51 @@
             "1514498400"
         ]
     }, 
-    "Session:Numerical Weather Prediction Tutorial# f6c1e9a8afa8b59448a312ac4b32a14d": {
+    "Session:Rights&Freedoms# fd7a7ff5f5f41b43551c8bf2c3a15530": {
         "Held in language": [
+            "de - German", 
             "en - English"
         ], 
         "Has start time": [
-            "1514455200"
+            "1514390400"
         ], 
         "Has event track": [
             "Session"
         ], 
-        "Has website": [
-            "https://www.hacknology.de/vortrag/2016/wrf/"
-        ], 
+        "Has website": [], 
         "Has description": [
-            "A workshop about running your own Numerical Weather Prediction (NWP) model."
+            "Rights & Freedoms Cluster Stage Programme"
         ], 
         "Has session type": [
-            "Workshop"
+            "Talk"
         ], 
         "Has session location": [
             {
-                "fulltext": "Room:Seminar room 13", 
-                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Room:Seminar_room_13", 
+                "fulltext": "Room:CCL Hall 3", 
+                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Room:CCL_Hall_3", 
                 "namespace": 516, 
                 "exists": true
             }
         ], 
-        "Has subtitle": [], 
-        "Is organized by": [
-            {
-                "fulltext": "User:Tecer", 
-                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/User:Tecer", 
-                "namespace": 2, 
-                "exists": true
-            }
+        "Has subtitle": [
+            "Will the monetary system change? Privacy and Risk implications of digital currencies, and decentralized digital monetary systems (nsb)"
         ], 
+        "Is organized by": [], 
         "Has title": [
-            "Numerical Weather Prediction Tutorial"
+            "Rights&Freedoms"
         ], 
         "Has duration": [
-            180
+            60
         ], 
         "GUID": [
-            "3c6e963d-f1f7-4620-b8da-2e3dad27f51e"
+            "8f90513f-3cf8-4444-8b99-d376d70974c6"
         ], 
         "Has color": [
             "#0099ab"
         ], 
-        "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:Numerical_Weather_Prediction_Tutorial", 
+        "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:Rights%26Freedoms", 
         "Has end time": [
-            "1514466000"
+            "1514394000"
         ]
     }, 
     "Session:Pretty Easy privacy (p\u2261p) for Thunderbird via Enigmail: How it works!# 1e912e5c48c4f4aca7e3c3c862a067bb": {
@@ -17366,7 +17445,7 @@
             "http://calliope.cc"
         ], 
         "Has description": [
-            "Kinder ab 8 Jahren sind herzlich willkommen ihre ersten Erfahrungen mit dem Programmieren zu machen."
+            "Kinder ab 8 Jahren sind herzlich willkommen ihre ersten Erfahrungen mit dem Programmieren zu machen.\n\nWer an Tag 3 oder 4 noch Lust auf Calliope Workshops hat, der ruft einfach mal an: \nDECT: 8843 \noder \nmobile: null eins sechs drei 362 534 0"
         ], 
         "Has session type": [
             "Workshop"
@@ -17584,6 +17663,75 @@
         "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:(what_is)_Transformative_Justice_for_Communities", 
         "Has end time": [
             "1514390400"
+        ]
+    }, 
+    "Session:Sport f\u00fcr Nerds 2!# f58ff129be2afcb69653573c69022137": {
+        "Held in language": [
+            "de - German"
+        ], 
+        "Has start time": [
+            "1514629800"
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [], 
+        "Has description": [
+            "Nach der gro\u00dfen Nachfrage gibt es jetzt noch einmal den Nerdworkout. Jetzt neu mit Dehn\u00fcbungen und (aber alten Geschichte).\nWir machen hier ein kleines alternativ nerdiges Workout. ;)"
+        ], 
+        "Has session type": [
+            "Other"
+        ], 
+        "Has session location": [
+            {
+                "fulltext": "Room:Lecture room 11", 
+                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Room:Lecture_room_11", 
+                "namespace": 516, 
+                "exists": true
+            }
+        ], 
+        "Has subtitle": [], 
+        "Is organized by": [
+            {
+                "fulltext": "User:Magic", 
+                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/User:Magic", 
+                "namespace": 2, 
+                "exists": true
+            }, 
+            {
+                "fulltext": "User:Karl Weber", 
+                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/User:Karl_Weber", 
+                "namespace": 2, 
+                "exists": true
+            }, 
+            {
+                "fulltext": "User:Minnie", 
+                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/User:Minnie", 
+                "namespace": 2, 
+                "exists": true
+            }, 
+            {
+                "fulltext": "User:Hermine", 
+                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/User:Hermine", 
+                "namespace": 2, 
+                "exists": true
+            }
+        ], 
+        "Has title": [
+            "Sport f\u00fcr Nerds 2!"
+        ], 
+        "Has duration": [
+            90
+        ], 
+        "GUID": [
+            "79df79a6-96a9-42ba-83c6-c9f3db9cead3"
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:Sport_f%C3%BCr_Nerds_2!", 
+        "Has end time": [
+            "1514635200"
         ]
     }, 
     "Session:Food Hacking: Korean Healing Table# 65270498748d0803be54c0c9e8564de5": {
@@ -18717,7 +18865,7 @@
             "http://calliope.cc"
         ], 
         "Has description": [
-            "Kinder ab 8 Jahren sind herzlich willkommen ihre ersten Erfahrungen mit dem Programmieren zu machen."
+            "Kinder ab 8 Jahren sind herzlich willkommen ihre ersten Erfahrungen mit dem Programmieren zu machen.\n\nWer an Tag 3 oder 4 noch Lust auf Calliope Workshops hat, der ruft einfach mal an: \nDECT: 8843 \noder \nmobile: null eins sechs drei 362 534 0"
         ], 
         "Has session type": [
             "Workshop"
@@ -20768,51 +20916,57 @@
             "1514489400"
         ]
     }, 
-    "Session:Rights&Freedoms# fd7a7ff5f5f41b43551c8bf2c3a15530": {
+    "Session:Numerical Weather Prediction Tutorial# f6c1e9a8afa8b59448a312ac4b32a14d": {
         "Held in language": [
-            "de - German", 
             "en - English"
         ], 
         "Has start time": [
-            "1514390400"
+            "1514455200"
         ], 
         "Has event track": [
             "Session"
         ], 
-        "Has website": [], 
+        "Has website": [
+            "https://www.hacknology.de/vortrag/2016/wrf/"
+        ], 
         "Has description": [
-            "Rights & Freedoms Cluster Stage Programme"
+            "A workshop about running your own Numerical Weather Prediction (NWP) model."
         ], 
         "Has session type": [
-            "Talk"
+            "Workshop"
         ], 
         "Has session location": [
             {
-                "fulltext": "Room:CCL Hall 3", 
-                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Room:CCL_Hall_3", 
+                "fulltext": "Room:Seminar room 13", 
+                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Room:Seminar_room_13", 
                 "namespace": 516, 
                 "exists": true
             }
         ], 
-        "Has subtitle": [
-            "Will the monetary system change? Privacy and Risk implications of digital currencies, and decentralized digital monetary systems (nsb)"
+        "Has subtitle": [], 
+        "Is organized by": [
+            {
+                "fulltext": "User:Tecer", 
+                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/User:Tecer", 
+                "namespace": 2, 
+                "exists": true
+            }
         ], 
-        "Is organized by": [], 
         "Has title": [
-            "Rights&Freedoms"
+            "Numerical Weather Prediction Tutorial"
         ], 
         "Has duration": [
-            60
+            180
         ], 
         "GUID": [
-            "8f90513f-3cf8-4444-8b99-d376d70974c6"
+            "3c6e963d-f1f7-4620-b8da-2e3dad27f51e"
         ], 
         "Has color": [
             "#0099ab"
         ], 
-        "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:Rights%26Freedoms", 
+        "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:Numerical_Weather_Prediction_Tutorial", 
         "Has end time": [
-            "1514394000"
+            "1514466000"
         ]
     }, 
     "Session:\"Pen&Paper\" Game Jam# 33dbda9e61f8c463561dada21f411495": {
