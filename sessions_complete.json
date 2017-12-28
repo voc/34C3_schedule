@@ -190,6 +190,62 @@
         "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:Lehrerstammtisch_VR", 
         "Has end time": []
     }, 
+    "Session:KinkyGeeks Bondage Workshop# 0c08ad498adc7bf885aa2ec72c632cc5": {
+        "Held in language": [
+            "de - German", 
+            "en - English"
+        ], 
+        "Has start time": [
+            "1514601000"
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [
+            "https://kinkygeeks.de"
+        ], 
+        "Has description": [
+            "TBD"
+        ], 
+        "Has session type": [
+            "Workshop"
+        ], 
+        "Has session location": [
+            {
+                "fulltext": "Room:Lecture room 11", 
+                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Room:Lecture_room_11", 
+                "namespace": 516, 
+                "exists": true
+            }
+        ], 
+        "Has subtitle": [
+            "Open Rope Jam"
+        ], 
+        "Is organized by": [
+            {
+                "fulltext": "User:Lil-Missy", 
+                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/User:Lil-Missy", 
+                "namespace": 2, 
+                "exists": true
+            }
+        ], 
+        "Has title": [
+            "KinkyGeeks Bondage Workshop"
+        ], 
+        "Has duration": [
+            120
+        ], 
+        "GUID": [
+            "2cf16048-946e-4230-8c5a-332826ea14c6"
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:KinkyGeeks_Bondage_Workshop", 
+        "Has end time": [
+            "1514608200"
+        ]
+    }, 
     "Session:Bring your own Nintendo Switch# f3e632309bfdbf1140a87b5c543cc67f": {
         "Held in language": [
             "en - English"
@@ -18992,50 +19048,6 @@
         "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:Cryptoparties,_specialized_content,_and_creative_outreach", 
         "Has end time": [
             "1514568600"
-        ]
-    }, 
-    "Session:Hackademia - research presentations# fbe96b3db6707668398aecad04cb6bb9": {
-        "Held in language": [
-            "en - English"
-        ], 
-        "Has start time": [
-            "1514541600"
-        ], 
-        "Has event track": [
-            "Session"
-        ], 
-        "Has website": [], 
-        "Has description": [
-            "A space for academics researching people, technology and infrastructure to present and discuss their research."
-        ], 
-        "Has session type": [
-            "Talk"
-        ], 
-        "Has session location": [
-            {
-                "fulltext": "Room:Seminar room 14-15", 
-                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Room:Seminar_room_14-15", 
-                "namespace": 516, 
-                "exists": true
-            }
-        ], 
-        "Has subtitle": [], 
-        "Is organized by": [], 
-        "Has title": [
-            "Hackademia - research presentations"
-        ], 
-        "Has duration": [
-            120
-        ], 
-        "GUID": [
-            "48a313db-b580-4989-b28b-c4e9c6703db5"
-        ], 
-        "Has color": [
-            "#0099ab"
-        ], 
-        "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:Hackademia_-_research_presentations", 
-        "Has end time": [
-            "1514548800"
         ]
     }, 
     "Session:Open Science/Research Workshop# bae1b8d2e03ace217b09918215de2a78": {
