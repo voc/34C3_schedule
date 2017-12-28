@@ -1715,7 +1715,7 @@ For a Digitalization supporting freedom and social development, expectations of 
       </event>
     </room>
     <room name="Lecture room 11">
-      <event id="1018" guid="f5f69c30-2863-4817-a663-b248274c87ac">
+      <event id="1019" guid="f5f69c30-2863-4817-a663-b248274c87ac">
         <logo/>
         <date>2017-12-27T20:15:00+01:00</date>
         <start>20:15</start>
@@ -1779,7 +1779,7 @@ For a Digitalization supporting freedom and social development, expectations of 
           <link>https://events.ccc.de/congress/2017/wiki/index.php/Session:Tor_relays_operators_meetup</link>
         </links>
       </event>
-      <event id="1327" guid="b5b51e08-260a-5c3d-a507-556103837de6">
+      <event id="1328" guid="b5b51e08-260a-5c3d-a507-556103837de6">
         <logo/>
         <date>2017-12-27T17:00:00+01:00</date>
         <start>17:00</start>
@@ -1959,10 +1959,10 @@ This Session is about artificial intelligence and its philosophical implications
           <link>https://events.ccc.de/congress/2017/wiki/index.php/Session:Lehrerstammtisch</link>
         </links>
       </event>
-      <event id="1301" guid="9ed83d1d-7007-4bb8-9e65-22b1e9abd09b">
+      <event id="1301" guid="50cdec42-6f29-47e5-bdbe-e29d19ee2941">
         <logo/>
-        <date>2017-12-27T15:00:00+01:00</date>
-        <start>15:00</start>
+        <date>2017-12-27T21:00:00+01:00</date>
+        <start>21:00</start>
         <duration>0:30</duration>
         <room>Lecture room 12</room>
         <slug/>
@@ -1979,10 +1979,10 @@ This Session is about artificial intelligence and its philosophical implications
           <link>https://events.ccc.de/congress/2017/wiki/index.php/Session:Subtitles-Engelmeeting</link>
         </links>
       </event>
-      <event id="1302" guid="50cdec42-6f29-47e5-bdbe-e29d19ee2941">
+      <event id="1302" guid="9ed83d1d-7007-4bb8-9e65-22b1e9abd09b">
         <logo/>
-        <date>2017-12-27T21:00:00+01:00</date>
-        <start>21:00</start>
+        <date>2017-12-27T15:00:00+01:00</date>
+        <start>15:00</start>
         <duration>0:30</duration>
         <room>Lecture room 12</room>
         <slug/>
@@ -3170,83 +3170,7 @@ https://re-publica.com/en/session/sketchnotes-einsteiger-1</description>
       </event>
     </room>
     <room name="CCL Hall 2">
-      <event id="1072" guid="c7e392d4-78d7-501f-82e8-4ae026411861">
-        <logo/>
-        <date>2017-12-27T14:00:00+01:00</date>
-        <start>14:00</start>
-        <duration>1:00</duration>
-        <room>CCL Hall 2</room>
-        <slug/>
-        <title>DLF</title>
-        <subtitle>Erfolgsstory oder Armutszeugnis - Breitbandpolitik in Deutschland</subtitle>
-        <track>self organized sessions</track>
-        <type/>
-        <language>de</language>
-        <abstract/>
-        <description>DLF</description>
-        <persons/>
-        <links>
-          <link>https://events.ccc.de/congress/2017/wiki/index.php/Session:DLF</link>
-        </links>
-      </event>
-      <event id="1075" guid="616cbc52-8390-54ea-8839-3af7790e11d1">
-        <logo/>
-        <date>2017-12-27T16:05:00+01:00</date>
-        <start>16:05</start>
-        <duration>0:25</duration>
-        <room>CCL Hall 2</room>
-        <slug/>
-        <title>DLF</title>
-        <subtitle>Live-Beitrag in Leonardo</subtitle>
-        <track>self organized sessions</track>
-        <type/>
-        <language>de</language>
-        <abstract/>
-        <description>DLF</description>
-        <persons/>
-        <links>
-          <link>https://events.ccc.de/congress/2017/wiki/index.php/Session:DLF</link>
-        </links>
-      </event>
-      <event id="1076" guid="555f0cd8-0fe0-5213-a087-c1539138aa40">
-        <logo/>
-        <date>2017-12-27T11:00:00+01:00</date>
-        <start>11:00</start>
-        <duration>0:20</duration>
-        <room>CCL Hall 2</room>
-        <slug/>
-        <title>DLF</title>
-        <subtitle>Der 34C3</subtitle>
-        <track>self organized sessions</track>
-        <type/>
-        <language>de</language>
-        <abstract/>
-        <description>DLF</description>
-        <persons/>
-        <links>
-          <link>https://events.ccc.de/congress/2017/wiki/index.php/Session:DLF</link>
-        </links>
-      </event>
-      <event id="1078" guid="0e9a7526-0bf6-533d-8f83-94e4d1fb4d8f">
-        <logo/>
-        <date>2017-12-27T16:35:00+01:00</date>
-        <start>16:35</start>
-        <duration>0:25</duration>
-        <room>CCL Hall 2</room>
-        <slug/>
-        <title>DLF</title>
-        <subtitle>Live-Beitrag in Forschung Aktuell</subtitle>
-        <track>self organized sessions</track>
-        <type/>
-        <language>de</language>
-        <abstract/>
-        <description>DLF</description>
-        <persons/>
-        <links>
-          <link>https://events.ccc.de/congress/2017/wiki/index.php/Session:DLF</link>
-        </links>
-      </event>
-      <event id="1079" guid="f9e17ca9-0980-5070-aa6c-3b556ca66211">
+      <event id="1071" guid="f9e17ca9-0980-5070-aa6c-3b556ca66211">
         <logo/>
         <date>2017-12-27T11:20:00+01:00</date>
         <start>11:20</start>
@@ -3265,7 +3189,7 @@ https://re-publica.com/en/session/sketchnotes-einsteiger-1</description>
           <link>https://events.ccc.de/congress/2017/wiki/index.php/Session:DLF</link>
         </links>
       </event>
-      <event id="1081" guid="528e7ef5-72c6-55d1-9c21-3920add376a1">
+      <event id="1073" guid="528e7ef5-72c6-55d1-9c21-3920add376a1">
         <logo/>
         <date>2017-12-27T17:00:00+01:00</date>
         <start>17:00</start>
@@ -3284,7 +3208,7 @@ https://re-publica.com/en/session/sketchnotes-einsteiger-1</description>
           <link>https://events.ccc.de/congress/2017/wiki/index.php/Session:DLF</link>
         </links>
       </event>
-      <event id="1082" guid="26226d1d-a08d-55b3-b295-9434c811b24a">
+      <event id="1074" guid="26226d1d-a08d-55b3-b295-9434c811b24a">
         <logo/>
         <date>2017-12-27T12:00:00+01:00</date>
         <start>12:00</start>
@@ -3303,7 +3227,7 @@ https://re-publica.com/en/session/sketchnotes-einsteiger-1</description>
           <link>https://events.ccc.de/congress/2017/wiki/index.php/Session:DLF</link>
         </links>
       </event>
-      <event id="1085" guid="31370b42-b65b-5860-8bd2-12dc9ccb7b5d">
+      <event id="1077" guid="31370b42-b65b-5860-8bd2-12dc9ccb7b5d">
         <logo/>
         <date>2017-12-27T12:15:00+01:00</date>
         <start>12:15</start>
@@ -3312,6 +3236,82 @@ https://re-publica.com/en/session/sketchnotes-einsteiger-1</description>
         <slug/>
         <title>DLF</title>
         <subtitle>Interview</subtitle>
+        <track>self organized sessions</track>
+        <type/>
+        <language>de</language>
+        <abstract/>
+        <description>DLF</description>
+        <persons/>
+        <links>
+          <link>https://events.ccc.de/congress/2017/wiki/index.php/Session:DLF</link>
+        </links>
+      </event>
+      <event id="1080" guid="c7e392d4-78d7-501f-82e8-4ae026411861">
+        <logo/>
+        <date>2017-12-27T14:00:00+01:00</date>
+        <start>14:00</start>
+        <duration>1:00</duration>
+        <room>CCL Hall 2</room>
+        <slug/>
+        <title>DLF</title>
+        <subtitle>Erfolgsstory oder Armutszeugnis - Breitbandpolitik in Deutschland</subtitle>
+        <track>self organized sessions</track>
+        <type/>
+        <language>de</language>
+        <abstract/>
+        <description>DLF</description>
+        <persons/>
+        <links>
+          <link>https://events.ccc.de/congress/2017/wiki/index.php/Session:DLF</link>
+        </links>
+      </event>
+      <event id="1083" guid="616cbc52-8390-54ea-8839-3af7790e11d1">
+        <logo/>
+        <date>2017-12-27T16:05:00+01:00</date>
+        <start>16:05</start>
+        <duration>0:25</duration>
+        <room>CCL Hall 2</room>
+        <slug/>
+        <title>DLF</title>
+        <subtitle>Live-Beitrag in Leonardo</subtitle>
+        <track>self organized sessions</track>
+        <type/>
+        <language>de</language>
+        <abstract/>
+        <description>DLF</description>
+        <persons/>
+        <links>
+          <link>https://events.ccc.de/congress/2017/wiki/index.php/Session:DLF</link>
+        </links>
+      </event>
+      <event id="1084" guid="555f0cd8-0fe0-5213-a087-c1539138aa40">
+        <logo/>
+        <date>2017-12-27T11:00:00+01:00</date>
+        <start>11:00</start>
+        <duration>0:20</duration>
+        <room>CCL Hall 2</room>
+        <slug/>
+        <title>DLF</title>
+        <subtitle>Der 34C3</subtitle>
+        <track>self organized sessions</track>
+        <type/>
+        <language>de</language>
+        <abstract/>
+        <description>DLF</description>
+        <persons/>
+        <links>
+          <link>https://events.ccc.de/congress/2017/wiki/index.php/Session:DLF</link>
+        </links>
+      </event>
+      <event id="1086" guid="0e9a7526-0bf6-533d-8f83-94e4d1fb4d8f">
+        <logo/>
+        <date>2017-12-27T16:35:00+01:00</date>
+        <start>16:35</start>
+        <duration>0:25</duration>
+        <room>CCL Hall 2</room>
+        <slug/>
+        <title>DLF</title>
+        <subtitle>Live-Beitrag in Forschung Aktuell</subtitle>
         <track>self organized sessions</track>
         <type/>
         <language>de</language>
@@ -3564,7 +3564,7 @@ Die Anmeldung erfolgt vor Ort und falls die Zeit im Jugendhack Assembly abgelauf
       </event>
     </room>
     <room name="Assembly:HardwareHackingArea">
-      <event id="1160" guid="f5ebebb3-c53e-443e-82ee-080723b1f60e">
+      <event id="1161" guid="f5ebebb3-c53e-443e-82ee-080723b1f60e">
         <logo/>
         <date>2017-12-27T17:30:00+01:00</date>
         <start>17:30</start>
@@ -5443,7 +5443,7 @@ For CCC we will bring two robots. One for performing and one for hacking. We are
       </event>
     </room>
     <room name="Lecture room 11">
-      <event id="1019" guid="2b6595ff-c32b-44aa-9bda-e411e5911162">
+      <event id="1016" guid="2b6595ff-c32b-44aa-9bda-e411e5911162">
         <logo/>
         <date>2017-12-28T20:15:00+01:00</date>
         <start>20:15</start>
@@ -5622,7 +5622,7 @@ Depending on the attendee's wishes, we can also take time to answer questions, d
           <link>https://events.ccc.de/congress/2017/wiki/index.php/Session:Sport_f%C3%BCr_Nerds</link>
         </links>
       </event>
-      <event id="1328" guid="9b5087f5-f903-5324-9672-50105ed38e1b">
+      <event id="1330" guid="9b5087f5-f903-5324-9672-50105ed38e1b">
         <logo/>
         <date>2017-12-28T17:00:00+01:00</date>
         <start>17:00</start>
@@ -6617,7 +6617,7 @@ find physical POIs and buy goods without giving away your real identity.*</descr
           <link>https://events.ccc.de/congress/2017/wiki/index.php/Session:Hacks/Hackers_Meetup</link>
         </links>
       </event>
-      <event id="1155" guid="e1887865-e2bf-4ba8-a986-658dae99255a">
+      <event id="1154" guid="e1887865-e2bf-4ba8-a986-658dae99255a">
         <logo/>
         <date>2017-12-28T14:00:00+01:00</date>
         <start>14:00</start>
@@ -7355,7 +7355,7 @@ In this session we want to discuss whether and how the technology behind Audible
           <link>https://events.ccc.de/congress/2017/wiki/index.php/Session:(Wie)_Audible_Magic_hacken%3F</link>
         </links>
       </event>
-      <event id="1053" guid="71d30e88-62ae-581d-a215-1775cc78b19f">
+      <event id="1052" guid="71d30e88-62ae-581d-a215-1775cc78b19f">
         <logo/>
         <date>2017-12-28T12:00:00+01:00</date>
         <start>12:00</start>
@@ -7635,7 +7635,7 @@ This workshop will be given twice&lt;br /&gt;(both identical):&lt;br /&gt;
           <link>https://events.ccc.de/congress/2017/wiki/index.php/Session:ArduinoForTotalNewbies</link>
         </links>
       </event>
-      <event id="1161" guid="e87a7b37-b57c-4367-957c-1ef2dcd3a606">
+      <event id="1160" guid="e87a7b37-b57c-4367-957c-1ef2dcd3a606">
         <logo/>
         <date>2017-12-28T17:30:00+01:00</date>
         <start>17:30</start>
@@ -7873,7 +7873,7 @@ Also pull out your Switches while waiting for talks. If enough people are around
           <link>https://events.ccc.de/congress/2017/wiki/index.php/Session:Calliope_Workshops</link>
         </links>
       </event>
-      <event id="1052" guid="6946c2f8-7ca0-4d95-a70a-20cec20e25fb">
+      <event id="1053" guid="6946c2f8-7ca0-4d95-a70a-20cec20e25fb">
         <logo/>
         <date>2017-12-28T17:00:00+01:00</date>
         <start>17:00</start>
@@ -7964,7 +7964,26 @@ Day 2, 14:00</description>
       </event>
     </room>
     <room name="CCL Hall 2">
-      <event id="1071" guid="c722d326-9297-5528-a7dd-6645ead7e8b1">
+      <event id="1076" guid="531e5d6b-bb6a-5f91-b3cc-ac67734ae70f">
+        <logo/>
+        <date>2017-12-28T10:10:00+01:00</date>
+        <start>10:10</start>
+        <duration>1:20</duration>
+        <room>CCL Hall 2</room>
+        <slug/>
+        <title>DLF</title>
+        <subtitle>"Progmmieren lernen mit Raspberry Pi und Co."</subtitle>
+        <track>self organized sessions</track>
+        <type/>
+        <language>de</language>
+        <abstract/>
+        <description>DLF</description>
+        <persons/>
+        <links>
+          <link>https://events.ccc.de/congress/2017/wiki/index.php/Session:DLF</link>
+        </links>
+      </event>
+      <event id="1079" guid="c722d326-9297-5528-a7dd-6645ead7e8b1">
         <logo/>
         <date>2017-12-28T13:00:00+01:00</date>
         <start>13:00</start>
@@ -7983,7 +8002,7 @@ Day 2, 14:00</description>
           <link>https://events.ccc.de/congress/2017/wiki/index.php/Session:DLF</link>
         </links>
       </event>
-      <event id="1074" guid="4f5a4ab1-ab30-5729-8b05-8865a475dd8e">
+      <event id="1082" guid="4f5a4ab1-ab30-5729-8b05-8865a475dd8e">
         <logo/>
         <date>2017-12-28T16:35:00+01:00</date>
         <start>16:35</start>
@@ -8002,7 +8021,7 @@ Day 2, 14:00</description>
           <link>https://events.ccc.de/congress/2017/wiki/index.php/Session:DLF</link>
         </links>
       </event>
-      <event id="1077" guid="3b865956-5400-5ec4-81b0-028abf9495aa">
+      <event id="1085" guid="3b865956-5400-5ec4-81b0-028abf9495aa">
         <logo/>
         <date>2017-12-28T17:00:00+01:00</date>
         <start>17:00</start>
@@ -8011,25 +8030,6 @@ Day 2, 14:00</description>
         <slug/>
         <title>DLF</title>
         <subtitle>Studiogespräch</subtitle>
-        <track>self organized sessions</track>
-        <type/>
-        <language>de</language>
-        <abstract/>
-        <description>DLF</description>
-        <persons/>
-        <links>
-          <link>https://events.ccc.de/congress/2017/wiki/index.php/Session:DLF</link>
-        </links>
-      </event>
-      <event id="1084" guid="531e5d6b-bb6a-5f91-b3cc-ac67734ae70f">
-        <logo/>
-        <date>2017-12-28T10:10:00+01:00</date>
-        <start>10:10</start>
-        <duration>1:20</duration>
-        <room>CCL Hall 2</room>
-        <slug/>
-        <title>DLF</title>
-        <subtitle>"Progmmieren lernen mit Raspberry Pi und Co."</subtitle>
         <track>self organized sessions</track>
         <type/>
         <language>de</language>
@@ -8494,7 +8494,7 @@ There really doesn't seem to be a good solution.</description>
       </event>
     </room>
     <room name="Assembly:Kidspace">
-      <event id="1234" guid="e8dec555-2fda-4ff0-817f-bec07a6b847e">
+      <event id="1233" guid="e8dec555-2fda-4ff0-817f-bec07a6b847e">
         <logo/>
         <date>2017-12-28T16:00:00+01:00</date>
         <start>16:00</start>
@@ -10195,7 +10195,7 @@ Es geht darum ein verständliches Bild zu zeichnen von dem, was in Hamburg währ
       </event>
     </room>
     <room name="Lecture room 11">
-      <event id="1019" guid="2b6595ff-c32b-44aa-9bda-e411e5911162">
+      <event id="1016" guid="2b6595ff-c32b-44aa-9bda-e411e5911162">
         <logo/>
         <date>2017-12-29T20:15:00+01:00</date>
         <start>20:15</start>
@@ -10509,7 +10509,7 @@ Es geht darum ein verständliches Bild zu zeichnen von dem, was in Hamburg währ
           <link>https://events.ccc.de/congress/2017/wiki/index.php/Session:Lingua_Latina</link>
         </links>
       </event>
-      <event id="1330" guid="f3a30985-fc90-51f2-baa3-a07d034bffcc">
+      <event id="1329" guid="f3a30985-fc90-51f2-baa3-a07d034bffcc">
         <logo/>
         <date>2017-12-29T17:30:00+01:00</date>
         <start>17:30</start>
@@ -11253,11 +11253,11 @@ Having been involved in such policy discussions for many years, and having been 
           <link>https://events.ccc.de/congress/2017/wiki/index.php/Session:Limlug:_In_der_Weihnachtsb%C3%A4ckerei_-_Data_Science_und_Kekse</link>
         </links>
       </event>
-      <event id="1358" guid="2908d355-9054-4c8f-8a7f-33e677435c1d">
+      <event id="1358" guid="cc28d9e0-c2e8-4e48-862e-5e5f489eb214">
         <logo/>
-        <date>2017-12-29T14:00:00+01:00</date>
-        <start>14:00</start>
-        <duration>2:00</duration>
+        <date>2017-12-29T18:00:00+01:00</date>
+        <start>18:00</start>
+        <duration>4:00</duration>
         <room>Chaos West Stage</room>
         <slug/>
         <title>Ybti+wefixthenet</title>
@@ -11275,11 +11275,11 @@ Having been involved in such policy discussions for many years, and having been 
           <link>https://events.ccc.de/congress/2017/wiki/index.php/Session:Ybti%2Bwefixthenet</link>
         </links>
       </event>
-      <event id="1359" guid="cc28d9e0-c2e8-4e48-862e-5e5f489eb214">
+      <event id="1359" guid="2908d355-9054-4c8f-8a7f-33e677435c1d">
         <logo/>
-        <date>2017-12-29T18:00:00+01:00</date>
-        <start>18:00</start>
-        <duration>4:00</duration>
+        <date>2017-12-29T14:00:00+01:00</date>
+        <start>14:00</start>
+        <duration>2:00</duration>
         <room>Chaos West Stage</room>
         <slug/>
         <title>Ybti+wefixthenet</title>
@@ -11321,7 +11321,7 @@ Having been involved in such policy discussions for many years, and having been 
           <link>https://events.ccc.de/congress/2017/wiki/index.php/Session:How_to_turn_museums_into_open_data_hubs</link>
         </links>
       </event>
-      <event id="1165" guid="97c297e9-344d-4a68-bb70-cdbe88a6a7ee">
+      <event id="1166" guid="97c297e9-344d-4a68-bb70-cdbe88a6a7ee">
         <logo/>
         <date>2017-12-29T16:30:00+01:00</date>
         <start>16:30</start>
@@ -11846,7 +11846,7 @@ drink beer.</description>
           <link>https://events.ccc.de/congress/2017/wiki/index.php/Session:34C3_CTF_Afterparty</link>
         </links>
       </event>
-      <event id="1233" guid="7855b445-4986-4d70-b114-521f675ce5e4">
+      <event id="1234" guid="7855b445-4986-4d70-b114-521f675ce5e4">
         <logo/>
         <date>2017-12-29T16:00:00+01:00</date>
         <start>16:00</start>
@@ -11920,7 +11920,7 @@ This workshop will be given twice&lt;br /&gt;(both identical):&lt;br /&gt;
           <link>https://events.ccc.de/congress/2017/wiki/index.php/Session:ArduinoForTotalNewbies</link>
         </links>
       </event>
-      <event id="1161" guid="e87a7b37-b57c-4367-957c-1ef2dcd3a606">
+      <event id="1160" guid="e87a7b37-b57c-4367-957c-1ef2dcd3a606">
         <logo/>
         <date>2017-12-29T17:30:00+01:00</date>
         <start>17:30</start>
@@ -12052,7 +12052,7 @@ This workshop will be given twice&lt;br /&gt;(both identical):&lt;br /&gt;
       </event>
     </room>
     <room name="CCL Hall 2">
-      <event id="1080" guid="1481e306-80a7-5abd-842c-177422a47468">
+      <event id="1072" guid="1481e306-80a7-5abd-842c-177422a47468">
         <logo/>
         <date>2017-12-29T16:35:00+01:00</date>
         <start>16:35</start>
@@ -12071,7 +12071,7 @@ This workshop will be given twice&lt;br /&gt;(both identical):&lt;br /&gt;
           <link>https://events.ccc.de/congress/2017/wiki/index.php/Session:DLF</link>
         </links>
       </event>
-      <event id="1083" guid="996b43ab-9f4c-5e9e-bdb7-9c0b7ab7bf48">
+      <event id="1075" guid="996b43ab-9f4c-5e9e-bdb7-9c0b7ab7bf48">
         <logo/>
         <date>2017-12-29T17:00:00+01:00</date>
         <start>17:00</start>
@@ -12158,7 +12158,7 @@ This workshop will be given twice&lt;br /&gt;(both identical):&lt;br /&gt;
           <link>https://events.ccc.de/congress/2017/wiki/index.php/Session:Howto_Let%27s_Play</link>
         </links>
       </event>
-      <event id="1154" guid="04838098-b90c-54cf-ae82-e86cbdf2f708">
+      <event id="1155" guid="04838098-b90c-54cf-ae82-e86cbdf2f708">
         <logo/>
         <date>2017-12-29T20:00:00+01:00</date>
         <start>20:00</start>
@@ -12181,7 +12181,7 @@ Internals, Data models, APIs.</description>
           <link>https://events.ccc.de/congress/2017/wiki/index.php/Session:Infrastructure_of_Wikidata</link>
         </links>
       </event>
-      <event id="1166" guid="95d4a092-e0a5-5219-b11a-2c413a249d11">
+      <event id="1165" guid="95d4a092-e0a5-5219-b11a-2c413a249d11">
         <logo/>
         <date>2017-12-29T17:00:00+01:00</date>
         <start>17:00</start>
@@ -13887,26 +13887,7 @@ Ich möchte dieses Konzept gerne mit Kindern umsetzen; ohne Computer ;0)</descri
       </event>
     </room>
     <room name="CCL Hall 2">
-      <event id="1073" guid="bdf00168-ed69-5809-9916-a89d109c9b2c">
-        <logo/>
-        <date>2017-12-30T14:15:00+01:00</date>
-        <start>14:15</start>
-        <duration>0:30</duration>
-        <room>CCL Hall 2</room>
-        <slug/>
-        <title>DLF</title>
-        <subtitle>"tuwat!" - Der 34C3 in Leipzig</subtitle>
-        <track>self organized sessions</track>
-        <type/>
-        <language>de</language>
-        <abstract/>
-        <description>DLF</description>
-        <persons/>
-        <links>
-          <link>https://events.ccc.de/congress/2017/wiki/index.php/Session:DLF</link>
-        </links>
-      </event>
-      <event id="1086" guid="1c73c759-0d3b-501e-a07d-82ea10e9f40c">
+      <event id="1078" guid="1c73c759-0d3b-501e-a07d-82ea10e9f40c">
         <logo/>
         <date>2017-12-30T13:05:00+01:00</date>
         <start>13:05</start>
@@ -13925,9 +13906,28 @@ Ich möchte dieses Konzept gerne mit Kindern umsetzen; ohne Computer ;0)</descri
           <link>https://events.ccc.de/congress/2017/wiki/index.php/Session:DLF</link>
         </links>
       </event>
+      <event id="1081" guid="bdf00168-ed69-5809-9916-a89d109c9b2c">
+        <logo/>
+        <date>2017-12-30T14:15:00+01:00</date>
+        <start>14:15</start>
+        <duration>0:30</duration>
+        <room>CCL Hall 2</room>
+        <slug/>
+        <title>DLF</title>
+        <subtitle>"tuwat!" - Der 34C3 in Leipzig</subtitle>
+        <track>self organized sessions</track>
+        <type/>
+        <language>de</language>
+        <abstract/>
+        <description>DLF</description>
+        <persons/>
+        <links>
+          <link>https://events.ccc.de/congress/2017/wiki/index.php/Session:DLF</link>
+        </links>
+      </event>
     </room>
     <room name="Assembly:HardwareHackingArea">
-      <event id="1161" guid="e87a7b37-b57c-4367-957c-1ef2dcd3a606">
+      <event id="1160" guid="e87a7b37-b57c-4367-957c-1ef2dcd3a606">
         <logo/>
         <date>2017-12-30T13:00:00+01:00</date>
         <start>13:00</start>
