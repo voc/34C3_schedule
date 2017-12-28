@@ -17,34 +17,6 @@
                         "Lecture room 11": [
                             {
                                 "id": 1016, 
-                                "guid": "4e77ac4f-012b-4132-8079-c16fd0f600fd", 
-                                "logo": null, 
-                                "date": "2017-12-26T21:30:00+01:00", 
-                                "start": "21:30", 
-                                "duration": "2:00", 
-                                "room": "Lecture room 11", 
-                                "slug": "", 
-                                "title": "A/V Angel Meeting", 
-                                "subtitle": "Introduction meeting", 
-                                "track": "self organized sessions", 
-                                "type": "meeting", 
-                                "language": "de", 
-                                "abstract": "", 
-                                "description": "Daily A/V Angel Meeting: Feedback and Shift Distribution", 
-                                "persons": [
-                                    {
-                                        "id": 0, 
-                                        "url": "https://events.ccc.de/congress/2017/wiki/index.php/User:Jwacalex", 
-                                        "public_name": "Jwacalex"
-                                    }
-                                ], 
-                                "links": [
-                                    "https://c3voc.de", 
-                                    "https://events.ccc.de/congress/2017/wiki/index.php/Session:A/V_Angel_Meeting"
-                                ]
-                            }, 
-                            {
-                                "id": 1019, 
                                 "guid": "3e6ca324-cc11-4403-b0ce-bd621d931cd6", 
                                 "logo": null, 
                                 "date": "2017-12-26T23:30:00+01:00", 
@@ -72,7 +44,35 @@
                                 ]
                             }, 
                             {
-                                "id": 1322, 
+                                "id": 1017, 
+                                "guid": "4e77ac4f-012b-4132-8079-c16fd0f600fd", 
+                                "logo": null, 
+                                "date": "2017-12-26T21:30:00+01:00", 
+                                "start": "21:30", 
+                                "duration": "2:00", 
+                                "room": "Lecture room 11", 
+                                "slug": "", 
+                                "title": "A/V Angel Meeting", 
+                                "subtitle": "Introduction meeting", 
+                                "track": "self organized sessions", 
+                                "type": "meeting", 
+                                "language": "de", 
+                                "abstract": "", 
+                                "description": "Daily A/V Angel Meeting: Feedback and Shift Distribution", 
+                                "persons": [
+                                    {
+                                        "id": 0, 
+                                        "url": "https://events.ccc.de/congress/2017/wiki/index.php/User:Jwacalex", 
+                                        "public_name": "Jwacalex"
+                                    }
+                                ], 
+                                "links": [
+                                    "https://c3voc.de", 
+                                    "https://events.ccc.de/congress/2017/wiki/index.php/Session:A/V_Angel_Meeting"
+                                ]
+                            }, 
+                            {
+                                "id": 1326, 
                                 "guid": "2f8b0e3d-e4bc-56f3-a96d-3c7559fd753f", 
                                 "logo": null, 
                                 "date": "2017-12-26T20:00:00+01:00", 
@@ -97,7 +97,7 @@
                         "Chaos West Stage": [], 
                         "Lecture room 12": [
                             {
-                                "id": 1293, 
+                                "id": 1294, 
                                 "guid": "9d07fde4-75d1-460e-888d-7857c952beef", 
                                 "logo": null, 
                                 "date": "2017-12-26T20:15:00+01:00", 
@@ -128,28 +128,7 @@
                         "Komona D.Ressrosa": [], 
                         "Seminar room 14-15": [
                             {
-                                "id": 1027, 
-                                "guid": "5e7bb2b0-f5ea-598b-9f57-a08f05420984", 
-                                "logo": null, 
-                                "date": "2017-12-26T20:15:00+01:00", 
-                                "start": "20:15", 
-                                "duration": "0:45", 
-                                "room": "Seminar room 14-15", 
-                                "slug": "", 
-                                "title": "Angel Meeting", 
-                                "subtitle": "Introduction meeting for new angels Day 0", 
-                                "track": "self organized sessions", 
-                                "type": "meeting", 
-                                "language": "en", 
-                                "abstract": "", 
-                                "description": "Daily meetings of the Angel crew.", 
-                                "persons": [], 
-                                "links": [
-                                    "https://events.ccc.de/congress/2017/wiki/index.php/Session:Angel_Meeting"
-                                ]
-                            }, 
-                            {
-                                "id": 1031, 
+                                "id": 1029, 
                                 "guid": "e54328ce-06f7-5578-bccb-0653404d932e", 
                                 "logo": null, 
                                 "date": "2017-12-26T13:00:00+01:00", 
@@ -170,7 +149,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1032, 
+                                "id": 1030, 
                                 "guid": "3b5cf5d2-7d5d-51ba-8798-dc60e10c8985", 
                                 "logo": null, 
                                 "date": "2017-12-26T19:30:00+01:00", 
@@ -180,6 +159,27 @@
                                 "slug": "", 
                                 "title": "Angel Meeting", 
                                 "subtitle": "Welcome meeting Day 0", 
+                                "track": "self organized sessions", 
+                                "type": "meeting", 
+                                "language": "en", 
+                                "abstract": "", 
+                                "description": "Daily meetings of the Angel crew.", 
+                                "persons": [], 
+                                "links": [
+                                    "https://events.ccc.de/congress/2017/wiki/index.php/Session:Angel_Meeting"
+                                ]
+                            }, 
+                            {
+                                "id": 1031, 
+                                "guid": "5e7bb2b0-f5ea-598b-9f57-a08f05420984", 
+                                "logo": null, 
+                                "date": "2017-12-26T20:15:00+01:00", 
+                                "start": "20:15", 
+                                "duration": "0:45", 
+                                "room": "Seminar room 14-15", 
+                                "slug": "", 
+                                "title": "Angel Meeting", 
+                                "subtitle": "Introduction meeting for new angels Day 0", 
                                 "track": "self organized sessions", 
                                 "type": "meeting", 
                                 "language": "en", 
@@ -259,7 +259,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1330, 
+                                "id": 1331, 
                                 "guid": "5096ea2a-f75e-4223-9034-6c708dbfed76", 
                                 "logo": null, 
                                 "date": "2017-12-27T20:00:00+01:00", 
@@ -283,7 +283,7 @@
                         ], 
                         "Hive Conference": [
                             {
-                                "id": 1318, 
+                                "id": 1319, 
                                 "guid": "a261a670-da8b-47c8-a118-f45249ac0aea", 
                                 "logo": null, 
                                 "date": "2017-12-27T15:00:00+01:00", 
@@ -307,7 +307,7 @@
                         ], 
                         "Lecture room 11": [
                             {
-                                "id": 1017, 
+                                "id": 1018, 
                                 "guid": "f5f69c30-2863-4817-a663-b248274c87ac", 
                                 "logo": null, 
                                 "date": "2017-12-27T20:15:00+01:00", 
@@ -362,7 +362,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1320, 
+                                "id": 1321, 
                                 "guid": "57bf0ee7-7526-490d-9c83-375b932bb03c", 
                                 "logo": null, 
                                 "date": "2017-12-27T18:30:00+01:00", 
@@ -389,7 +389,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1324, 
+                                "id": 1323, 
                                 "guid": "b5b51e08-260a-5c3d-a507-556103837de6", 
                                 "logo": null, 
                                 "date": "2017-12-27T17:00:00+01:00", 
@@ -499,7 +499,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1243, 
+                                "id": 1242, 
                                 "guid": "9d36bad8-60d8-55ca-829f-eccd6c65153d", 
                                 "logo": null, 
                                 "date": "2017-12-27T16:00:00+01:00", 
@@ -838,7 +838,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1316, 
+                                "id": 1317, 
                                 "guid": "95f73cd1-2284-4c7f-9139-02782ab39b61", 
                                 "logo": null, 
                                 "date": "2017-12-27T14:30:00+01:00", 
@@ -895,7 +895,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1298, 
+                                "id": 1299, 
                                 "guid": "9ed83d1d-7007-4bb8-9e65-22b1e9abd09b", 
                                 "logo": null, 
                                 "date": "2017-12-27T15:00:00+01:00", 
@@ -917,7 +917,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1300, 
+                                "id": 1301, 
                                 "guid": "50cdec42-6f29-47e5-bdbe-e29d19ee2941", 
                                 "logo": null, 
                                 "date": "2017-12-27T21:00:00+01:00", 
@@ -939,7 +939,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1355, 
+                                "id": 1356, 
                                 "guid": "def1b880-7e56-415c-a57b-73b5acda9b5a", 
                                 "logo": null, 
                                 "date": "2017-12-27T16:00:00+01:00", 
@@ -1249,7 +1249,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1290, 
+                                "id": 1291, 
                                 "guid": "0b858e21-fefa-4d2c-bc3a-7e14436808a0", 
                                 "logo": null, 
                                 "date": "2017-12-27T20:00:00+01:00", 
@@ -1276,7 +1276,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1315, 
+                                "id": 1316, 
                                 "guid": "fdb3606b-97ef-4496-a29b-a6a1e03c9796", 
                                 "logo": null, 
                                 "date": "2017-12-27T21:00:00+01:00", 
@@ -1306,7 +1306,28 @@
                         ], 
                         "CCL Hall 2": [
                             {
-                                "id": 1071, 
+                                "id": 1072, 
+                                "guid": "c7e392d4-78d7-501f-82e8-4ae026411861", 
+                                "logo": null, 
+                                "date": "2017-12-27T14:00:00+01:00", 
+                                "start": "14:00", 
+                                "duration": "1:00", 
+                                "room": "CCL Hall 2", 
+                                "slug": "", 
+                                "title": "DLF", 
+                                "subtitle": "Erfolgsstory oder Armutszeugnis - Breitbandpolitik in Deutschland", 
+                                "track": "self organized sessions", 
+                                "type": "", 
+                                "language": "de", 
+                                "abstract": "", 
+                                "description": "DLF", 
+                                "persons": [], 
+                                "links": [
+                                    "https://events.ccc.de/congress/2017/wiki/index.php/Session:DLF"
+                                ]
+                            }, 
+                            {
+                                "id": 1075, 
                                 "guid": "616cbc52-8390-54ea-8839-3af7790e11d1", 
                                 "logo": null, 
                                 "date": "2017-12-27T16:05:00+01:00", 
@@ -1327,7 +1348,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1072, 
+                                "id": 1076, 
                                 "guid": "555f0cd8-0fe0-5213-a087-c1539138aa40", 
                                 "logo": null, 
                                 "date": "2017-12-27T11:00:00+01:00", 
@@ -1348,7 +1369,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1074, 
+                                "id": 1078, 
                                 "guid": "0e9a7526-0bf6-533d-8f83-94e4d1fb4d8f", 
                                 "logo": null, 
                                 "date": "2017-12-27T16:35:00+01:00", 
@@ -1369,7 +1390,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1075, 
+                                "id": 1079, 
                                 "guid": "f9e17ca9-0980-5070-aa6c-3b556ca66211", 
                                 "logo": null, 
                                 "date": "2017-12-27T11:20:00+01:00", 
@@ -1390,7 +1411,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1077, 
+                                "id": 1081, 
                                 "guid": "528e7ef5-72c6-55d1-9c21-3920add376a1", 
                                 "logo": null, 
                                 "date": "2017-12-27T17:00:00+01:00", 
@@ -1411,7 +1432,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1078, 
+                                "id": 1082, 
                                 "guid": "26226d1d-a08d-55b3-b295-9434c811b24a", 
                                 "logo": null, 
                                 "date": "2017-12-27T12:00:00+01:00", 
@@ -1432,7 +1453,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1081, 
+                                "id": 1085, 
                                 "guid": "31370b42-b65b-5860-8bd2-12dc9ccb7b5d", 
                                 "logo": null, 
                                 "date": "2017-12-27T12:15:00+01:00", 
@@ -1442,27 +1463,6 @@
                                 "slug": "", 
                                 "title": "DLF", 
                                 "subtitle": "Interview", 
-                                "track": "self organized sessions", 
-                                "type": "", 
-                                "language": "de", 
-                                "abstract": "", 
-                                "description": "DLF", 
-                                "persons": [], 
-                                "links": [
-                                    "https://events.ccc.de/congress/2017/wiki/index.php/Session:DLF"
-                                ]
-                            }, 
-                            {
-                                "id": 1084, 
-                                "guid": "c7e392d4-78d7-501f-82e8-4ae026411861", 
-                                "logo": null, 
-                                "date": "2017-12-27T14:00:00+01:00", 
-                                "start": "14:00", 
-                                "duration": "1:00", 
-                                "room": "CCL Hall 2", 
-                                "slug": "", 
-                                "title": "DLF", 
-                                "subtitle": "Erfolgsstory oder Armutszeugnis - Breitbandpolitik in Deutschland", 
                                 "track": "self organized sessions", 
                                 "type": "", 
                                 "language": "de", 
@@ -1583,7 +1583,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1340, 
+                                "id": 1341, 
                                 "guid": "9fc6cd55-ba06-46d1-8510-4723905f239d", 
                                 "logo": null, 
                                 "date": "2017-12-27T14:00:00+01:00", 
@@ -1606,28 +1606,7 @@
                         ], 
                         "Seminar room 14-15": [
                             {
-                                "id": 1028, 
-                                "guid": "579eab72-fbd6-5ba7-ad7a-59bcab0272ad", 
-                                "logo": null, 
-                                "date": "2017-12-27T12:45:00+01:00", 
-                                "start": "12:45", 
-                                "duration": "0:45", 
-                                "room": "Seminar room 14-15", 
-                                "slug": "", 
-                                "title": "Angel Meeting", 
-                                "subtitle": "Angel meeting Day 1", 
-                                "track": "self organized sessions", 
-                                "type": "meeting", 
-                                "language": "en", 
-                                "abstract": "", 
-                                "description": "Daily meetings of the Angel crew.", 
-                                "persons": [], 
-                                "links": [
-                                    "https://events.ccc.de/congress/2017/wiki/index.php/Session:Angel_Meeting"
-                                ]
-                            }, 
-                            {
-                                "id": 1029, 
+                                "id": 1027, 
                                 "guid": "a8254a36-ca09-5c68-8e0b-1399b8a94247", 
                                 "logo": null, 
                                 "date": "2017-12-27T16:30:00+01:00", 
@@ -1648,7 +1627,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1030, 
+                                "id": 1028, 
                                 "guid": "a7083f65-5e8b-52cb-b008-af59762bb115", 
                                 "logo": null, 
                                 "date": "2017-12-27T17:15:00+01:00", 
@@ -1658,6 +1637,27 @@
                                 "slug": "", 
                                 "title": "Angel Meeting", 
                                 "subtitle": "Introduction meeting for new angels Day 1", 
+                                "track": "self organized sessions", 
+                                "type": "meeting", 
+                                "language": "en", 
+                                "abstract": "", 
+                                "description": "Daily meetings of the Angel crew.", 
+                                "persons": [], 
+                                "links": [
+                                    "https://events.ccc.de/congress/2017/wiki/index.php/Session:Angel_Meeting"
+                                ]
+                            }, 
+                            {
+                                "id": 1032, 
+                                "guid": "579eab72-fbd6-5ba7-ad7a-59bcab0272ad", 
+                                "logo": null, 
+                                "date": "2017-12-27T12:45:00+01:00", 
+                                "start": "12:45", 
+                                "duration": "0:45", 
+                                "room": "Seminar room 14-15", 
+                                "slug": "", 
+                                "title": "Angel Meeting", 
+                                "subtitle": "Angel meeting Day 1", 
                                 "track": "self organized sessions", 
                                 "type": "meeting", 
                                 "language": "en", 
@@ -1842,7 +1842,7 @@
                         ], 
                         "Kidspace": [
                             {
-                                "id": 1317, 
+                                "id": 1318, 
                                 "guid": "970319ef-2202-480f-ab77-12ebd1a901c2", 
                                 "logo": null, 
                                 "date": "2017-12-27T12:00:00+01:00", 
@@ -1863,7 +1863,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1326, 
+                                "id": 1327, 
                                 "guid": "d75d1ea5-b3e1-4f52-ad73-3eb0e99b7dea", 
                                 "logo": null, 
                                 "date": "2017-12-27T13:00:00+01:00", 
@@ -1888,7 +1888,7 @@
                         ], 
                         "Komona Blue Princess": [
                             {
-                                "id": 1026, 
+                                "id": 1025, 
                                 "guid": "604ff957-cc9f-4bde-b138-feae84fa0202", 
                                 "logo": null, 
                                 "date": "2017-12-27T20:00:00+01:00", 
@@ -1970,7 +1970,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1332, 
+                                "id": 1333, 
                                 "guid": "dd529f5f-4f94-4fda-a4dc-abe0a2f9f68a", 
                                 "logo": null, 
                                 "date": "2017-12-27T18:00:00+01:00", 
@@ -1993,7 +1993,7 @@
                         ], 
                         "Seminar room 13": [
                             {
-                                "id": 1008, 
+                                "id": 1007, 
                                 "guid": "42ad7b9a-63b4-4790-8c37-1966932d71d6", 
                                 "logo": null, 
                                 "date": "2017-12-27T09:00:00+01:00", 
@@ -2266,7 +2266,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1179, 
+                                "id": 1178, 
                                 "guid": "ffb5a08e-9d61-42e4-b5a3-002b140d652f", 
                                 "logo": null, 
                                 "date": "2017-12-28T22:00:00+01:00", 
@@ -2358,7 +2358,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1297, 
+                                "id": 1298, 
                                 "guid": "36605ace-ee29-4261-8b5b-0678e77440da", 
                                 "logo": null, 
                                 "date": "2017-12-28T20:00:00+01:00", 
@@ -2385,7 +2385,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1338, 
+                                "id": 1339, 
                                 "guid": "580f142f-ac61-4002-82e9-cfae56219554", 
                                 "logo": null, 
                                 "date": "2017-12-28T14:00:00+01:00", 
@@ -2436,7 +2436,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1054, 
+                                "id": 1053, 
                                 "guid": "6946c2f8-7ca0-4d95-a70a-20cec20e25fb", 
                                 "logo": null, 
                                 "date": "2017-12-28T17:00:00+01:00", 
@@ -2494,7 +2494,7 @@
                         ], 
                         "Lecture room 11": [
                             {
-                                "id": 1018, 
+                                "id": 1019, 
                                 "guid": "2b6595ff-c32b-44aa-9bda-e411e5911162", 
                                 "logo": null, 
                                 "date": "2017-12-28T20:15:00+01:00", 
@@ -2681,7 +2681,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1292, 
+                                "id": 1293, 
                                 "guid": "d28e4cdf-343c-4702-95ff-bdf328bde9fb", 
                                 "logo": null, 
                                 "date": "2017-12-28T22:00:00+01:00", 
@@ -2744,7 +2744,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1341, 
+                                "id": 1342, 
                                 "guid": "e4264add-ccb6-46dd-8a9d-281f639ca1b3", 
                                 "logo": null, 
                                 "date": "2017-12-28T14:00:00+01:00", 
@@ -2828,7 +2828,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1053, 
+                                "id": 1054, 
                                 "guid": "71d30e88-62ae-581d-a215-1775cc78b19f", 
                                 "logo": null, 
                                 "date": "2017-12-28T12:00:00+01:00", 
@@ -2944,7 +2944,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1220, 
+                                "id": 1221, 
                                 "guid": "1268f73b-b992-5380-ab7a-31eee5e66240", 
                                 "logo": null, 
                                 "date": "2017-12-28T19:00:00+01:00", 
@@ -3017,7 +3017,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1348, 
+                                "id": 1349, 
                                 "guid": "0d30238d-6ac6-4c17-aa28-23d42dff0508", 
                                 "logo": null, 
                                 "date": "2017-12-28T18:00:00+01:00", 
@@ -3437,7 +3437,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1299, 
+                                "id": 1300, 
                                 "guid": "58d27c73-4a82-4199-b186-f939686353b2", 
                                 "logo": null, 
                                 "date": "2017-12-28T13:00:00+01:00", 
@@ -3739,49 +3739,7 @@
                         ], 
                         "CCL Hall 2": [
                             {
-                                "id": 1073, 
-                                "guid": "3b865956-5400-5ec4-81b0-028abf9495aa", 
-                                "logo": null, 
-                                "date": "2017-12-28T17:00:00+01:00", 
-                                "start": "17:00", 
-                                "duration": "1:00", 
-                                "room": "CCL Hall 2", 
-                                "slug": "", 
-                                "title": "DLF", 
-                                "subtitle": "Studiogespr\u00e4ch", 
-                                "track": "self organized sessions", 
-                                "type": "", 
-                                "language": "de", 
-                                "abstract": "", 
-                                "description": "DLF", 
-                                "persons": [], 
-                                "links": [
-                                    "https://events.ccc.de/congress/2017/wiki/index.php/Session:DLF"
-                                ]
-                            }, 
-                            {
-                                "id": 1080, 
-                                "guid": "531e5d6b-bb6a-5f91-b3cc-ac67734ae70f", 
-                                "logo": null, 
-                                "date": "2017-12-28T10:10:00+01:00", 
-                                "start": "10:10", 
-                                "duration": "1:20", 
-                                "room": "CCL Hall 2", 
-                                "slug": "", 
-                                "title": "DLF", 
-                                "subtitle": "\"Progmmieren lernen mit Raspberry Pi und Co.\"", 
-                                "track": "self organized sessions", 
-                                "type": "", 
-                                "language": "de", 
-                                "abstract": "", 
-                                "description": "DLF", 
-                                "persons": [], 
-                                "links": [
-                                    "https://events.ccc.de/congress/2017/wiki/index.php/Session:DLF"
-                                ]
-                            }, 
-                            {
-                                "id": 1083, 
+                                "id": 1071, 
                                 "guid": "c722d326-9297-5528-a7dd-6645ead7e8b1", 
                                 "logo": null, 
                                 "date": "2017-12-28T13:00:00+01:00", 
@@ -3802,7 +3760,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1086, 
+                                "id": 1074, 
                                 "guid": "4f5a4ab1-ab30-5729-8b05-8865a475dd8e", 
                                 "logo": null, 
                                 "date": "2017-12-28T16:35:00+01:00", 
@@ -3812,6 +3770,48 @@
                                 "slug": "", 
                                 "title": "DLF", 
                                 "subtitle": "Live-Beitrag in Forschung Aktuell", 
+                                "track": "self organized sessions", 
+                                "type": "", 
+                                "language": "de", 
+                                "abstract": "", 
+                                "description": "DLF", 
+                                "persons": [], 
+                                "links": [
+                                    "https://events.ccc.de/congress/2017/wiki/index.php/Session:DLF"
+                                ]
+                            }, 
+                            {
+                                "id": 1077, 
+                                "guid": "3b865956-5400-5ec4-81b0-028abf9495aa", 
+                                "logo": null, 
+                                "date": "2017-12-28T17:00:00+01:00", 
+                                "start": "17:00", 
+                                "duration": "1:00", 
+                                "room": "CCL Hall 2", 
+                                "slug": "", 
+                                "title": "DLF", 
+                                "subtitle": "Studiogespr\u00e4ch", 
+                                "track": "self organized sessions", 
+                                "type": "", 
+                                "language": "de", 
+                                "abstract": "", 
+                                "description": "DLF", 
+                                "persons": [], 
+                                "links": [
+                                    "https://events.ccc.de/congress/2017/wiki/index.php/Session:DLF"
+                                ]
+                            }, 
+                            {
+                                "id": 1084, 
+                                "guid": "531e5d6b-bb6a-5f91-b3cc-ac67734ae70f", 
+                                "logo": null, 
+                                "date": "2017-12-28T10:10:00+01:00", 
+                                "start": "10:10", 
+                                "duration": "1:20", 
+                                "room": "CCL Hall 2", 
+                                "slug": "", 
+                                "title": "DLF", 
+                                "subtitle": "\"Progmmieren lernen mit Raspberry Pi und Co.\"", 
                                 "track": "self organized sessions", 
                                 "type": "", 
                                 "language": "de", 
@@ -3938,7 +3938,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1178, 
+                                "id": 1179, 
                                 "guid": "44955fe7-7549-4190-bdea-2e694bf75c3c", 
                                 "logo": null, 
                                 "date": "2017-12-28T22:00:00+01:00", 
@@ -4007,7 +4007,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1346, 
+                                "id": 1347, 
                                 "guid": "af1ca733-a445-4f6c-947b-a7e79b77f0ba", 
                                 "logo": null, 
                                 "date": "2017-12-28T14:00:00+01:00", 
@@ -4172,7 +4172,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1221, 
+                                "id": 1220, 
                                 "guid": "b8e83cf2-69fe-4880-9c19-b889b4e5d8d3", 
                                 "logo": null, 
                                 "date": "2017-12-28T18:00:00+01:00", 
@@ -4320,7 +4320,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1321, 
+                                "id": 1322, 
                                 "guid": "90af669f-141e-4bda-ad03-3a2c0f754ede", 
                                 "logo": null, 
                                 "date": "2017-12-28T12:00:00+01:00", 
@@ -4407,7 +4407,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1327, 
+                                "id": 1328, 
                                 "guid": "478676ae-916e-4012-9cce-f71ef82aac04", 
                                 "logo": null, 
                                 "date": "2017-12-28T12:00:00+01:00", 
@@ -4432,7 +4432,7 @@
                         ], 
                         "Komona Blue Princess": [
                             {
-                                "id": 1025, 
+                                "id": 1026, 
                                 "guid": "7fb99fd0-8292-45d4-b4bb-43a32faa9549", 
                                 "logo": null, 
                                 "date": "2017-12-28T20:00:00+01:00", 
@@ -4487,7 +4487,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1178, 
+                                "id": 1179, 
                                 "guid": "44955fe7-7549-4190-bdea-2e694bf75c3c", 
                                 "logo": null, 
                                 "date": "2017-12-28T22:00:00+01:00", 
@@ -4535,7 +4535,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1289, 
+                                "id": 1290, 
                                 "guid": "70ee38ff-7fc7-4a77-bff0-b6e800f21f81", 
                                 "logo": null, 
                                 "date": "2017-12-28T16:00:00+01:00", 
@@ -4563,7 +4563,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1337, 
+                                "id": 1338, 
                                 "guid": "bcb7aed8-2d17-4481-8d47-20741a3b3cae", 
                                 "logo": null, 
                                 "date": "2017-12-28T14:00:00+01:00", 
@@ -4592,7 +4592,7 @@
                         ], 
                         "Seminar room 13": [
                             {
-                                "id": 1007, 
+                                "id": 1008, 
                                 "guid": "4d2df78a-654b-48ec-b90b-ab100da126a6", 
                                 "logo": null, 
                                 "date": "2017-12-28T09:00:00+01:00", 
@@ -4719,7 +4719,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1291, 
+                                "id": 1292, 
                                 "guid": "d9e37733-add6-5977-84fa-fe995bb3bc0d", 
                                 "logo": null, 
                                 "date": "2017-12-28T14:00:00+01:00", 
@@ -4740,7 +4740,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1334, 
+                                "id": 1335, 
                                 "guid": "77f34cbf-f0df-47b1-b235-b405c07ac7cd", 
                                 "logo": null, 
                                 "date": "2017-12-28T18:00:00+01:00", 
@@ -4767,7 +4767,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1350, 
+                                "id": 1351, 
                                 "guid": "6e77d278-f184-4c70-83a0-6a2208d4d269", 
                                 "logo": null, 
                                 "date": "2017-12-28T19:00:00+01:00", 
@@ -4868,7 +4868,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1306, 
+                                "id": 1307, 
                                 "guid": "7be53b3d-4e07-4327-a4de-62ffd4bc6ca8", 
                                 "logo": null, 
                                 "date": "2017-12-29T18:00:00+01:00", 
@@ -4891,7 +4891,7 @@
                         ], 
                         "Lecture room 11": [
                             {
-                                "id": 1018, 
+                                "id": 1019, 
                                 "guid": "2b6595ff-c32b-44aa-9bda-e411e5911162", 
                                 "logo": null, 
                                 "date": "2017-12-29T20:15:00+01:00", 
@@ -5094,7 +5094,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1319, 
+                                "id": 1320, 
                                 "guid": "af24303a-71b5-4887-a93d-e12f95ffbe22", 
                                 "logo": null, 
                                 "date": "2017-12-29T22:00:00+01:00", 
@@ -5122,7 +5122,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1349, 
+                                "id": 1350, 
                                 "guid": "dc1ce5c6-2b4a-4a3a-b46d-d14f5fc6b900", 
                                 "logo": null, 
                                 "date": "2017-12-29T15:00:00+01:00", 
@@ -5337,7 +5337,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1242, 
+                                "id": 1243, 
                                 "guid": "a547ca07-306b-5214-bcab-5e84fa18505c", 
                                 "logo": null, 
                                 "date": "2017-12-29T18:00:00+01:00", 
@@ -5562,12 +5562,12 @@
                                 ]
                             }, 
                             {
-                                "id": 1353, 
-                                "guid": "2908d355-9054-4c8f-8a7f-33e677435c1d", 
+                                "id": 1354, 
+                                "guid": "cc28d9e0-c2e8-4e48-862e-5e5f489eb214", 
                                 "logo": null, 
-                                "date": "2017-12-29T14:00:00+01:00", 
-                                "start": "14:00", 
-                                "duration": "2:00", 
+                                "date": "2017-12-29T18:00:00+01:00", 
+                                "start": "18:00", 
+                                "duration": "4:00", 
                                 "room": "Chaos West Stage", 
                                 "slug": "", 
                                 "title": "Ybti+wefixthenet", 
@@ -5590,12 +5590,12 @@
                                 ]
                             }, 
                             {
-                                "id": 1354, 
-                                "guid": "cc28d9e0-c2e8-4e48-862e-5e5f489eb214", 
+                                "id": 1355, 
+                                "guid": "2908d355-9054-4c8f-8a7f-33e677435c1d", 
                                 "logo": null, 
-                                "date": "2017-12-29T18:00:00+01:00", 
-                                "start": "18:00", 
-                                "duration": "4:00", 
+                                "date": "2017-12-29T14:00:00+01:00", 
+                                "start": "14:00", 
+                                "duration": "2:00", 
                                 "room": "Chaos West Stage", 
                                 "slug": "", 
                                 "title": "Ybti+wefixthenet", 
@@ -6108,7 +6108,7 @@
                         ], 
                         "CCL Hall 2": [
                             {
-                                "id": 1076, 
+                                "id": 1080, 
                                 "guid": "1481e306-80a7-5abd-842c-177422a47468", 
                                 "logo": null, 
                                 "date": "2017-12-29T16:35:00+01:00", 
@@ -6129,7 +6129,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1079, 
+                                "id": 1083, 
                                 "guid": "996b43ab-9f4c-5e9e-bdb7-9c0b7ab7bf48", 
                                 "logo": null, 
                                 "date": "2017-12-29T17:00:00+01:00", 
@@ -6298,7 +6298,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1336, 
+                                "id": 1337, 
                                 "guid": "151ec08c-5139-46fb-b1b6-180187577fb8", 
                                 "logo": null, 
                                 "date": "2017-12-29T20:00:00+01:00", 
@@ -6319,7 +6319,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1347, 
+                                "id": 1348, 
                                 "guid": "da930b1f-96d6-47fa-adad-d979ab30e241", 
                                 "logo": null, 
                                 "date": "2017-12-29T14:00:00+01:00", 
@@ -6340,7 +6340,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1351, 
+                                "id": 1352, 
                                 "guid": "257d3b9c-938d-44b3-9444-730641d2dd9e", 
                                 "logo": null, 
                                 "date": "2017-12-29T16:00:00+01:00", 
@@ -6494,7 +6494,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1323, 
+                                "id": 1324, 
                                 "guid": "f3a30985-fc90-51f2-baa3-a07d034bffcc", 
                                 "logo": null, 
                                 "date": "2017-12-29T17:30:00+01:00", 
@@ -6515,7 +6515,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1328, 
+                                "id": 1329, 
                                 "guid": "96ba42dd-c65d-4644-a427-6b141b64ae06", 
                                 "logo": null, 
                                 "date": "2017-12-29T19:30:00+01:00", 
@@ -6537,7 +6537,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1349, 
+                                "id": 1350, 
                                 "guid": "dc1ce5c6-2b4a-4a3a-b46d-d14f5fc6b900", 
                                 "logo": null, 
                                 "date": "2017-12-29T12:00:00+01:00", 
@@ -6689,10 +6689,10 @@
                         "Kidspace": [
                             {
                                 "id": 1000, 
-                                "guid": "d6665d6a-b44e-44f0-a0aa-31f5f716caf0", 
+                                "guid": "53d056a4-aeb6-4814-ace4-a8a60345340d", 
                                 "logo": null, 
-                                "date": "2017-12-29T12:00:00+01:00", 
-                                "start": "12:00", 
+                                "date": "2017-12-29T16:00:00+01:00", 
+                                "start": "16:00", 
                                 "duration": "1:00", 
                                 "room": "Kidspace", 
                                 "slug": "", 
@@ -6710,10 +6710,10 @@
                             }, 
                             {
                                 "id": 1001, 
-                                "guid": "53d056a4-aeb6-4814-ace4-a8a60345340d", 
+                                "guid": "d6665d6a-b44e-44f0-a0aa-31f5f716caf0", 
                                 "logo": null, 
-                                "date": "2017-12-29T16:00:00+01:00", 
-                                "start": "16:00", 
+                                "date": "2017-12-29T12:00:00+01:00", 
+                                "start": "12:00", 
                                 "duration": "1:00", 
                                 "room": "Kidspace", 
                                 "slug": "", 
@@ -6795,7 +6795,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1007, 
+                                "id": 1008, 
                                 "guid": "4d2df78a-654b-48ec-b90b-ab100da126a6", 
                                 "logo": null, 
                                 "date": "2017-12-29T09:00:00+01:00", 
@@ -6983,7 +6983,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1314, 
+                                "id": 1315, 
                                 "guid": "044193f8-1a18-441d-acba-2d4e32159a4a", 
                                 "logo": null, 
                                 "date": "2017-12-29T15:00:00+01:00", 
@@ -7123,7 +7123,7 @@
                         ], 
                         "Esszimmer": [
                             {
-                                "id": 1345, 
+                                "id": 1346, 
                                 "guid": "aa57b1e7-8075-59b5-a018-d204e0f32c29", 
                                 "logo": null, 
                                 "date": "2017-12-30T14:00:00+01:00", 
@@ -7182,7 +7182,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1356, 
+                                "id": 1357, 
                                 "guid": "dd59f0b8-212d-4978-8476-fffb4455bb25", 
                                 "logo": null, 
                                 "date": "2017-12-30T14:30:00+01:00", 
@@ -7235,16 +7235,16 @@
                         ], 
                         "CCL Hall 2": [
                             {
-                                "id": 1082, 
-                                "guid": "1c73c759-0d3b-501e-a07d-82ea10e9f40c", 
+                                "id": 1073, 
+                                "guid": "bdf00168-ed69-5809-9916-a89d109c9b2c", 
                                 "logo": null, 
-                                "date": "2017-12-30T13:05:00+01:00", 
-                                "start": "13:05", 
-                                "duration": "0:55", 
+                                "date": "2017-12-30T14:15:00+01:00", 
+                                "start": "14:15", 
+                                "duration": "0:30", 
                                 "room": "CCL Hall 2", 
                                 "slug": "", 
                                 "title": "DLF", 
-                                "subtitle": "Dlf Kultur - Breitband", 
+                                "subtitle": "\"tuwat!\" - Der 34C3 in Leipzig", 
                                 "track": "self organized sessions", 
                                 "type": "", 
                                 "language": "de", 
@@ -7256,16 +7256,16 @@
                                 ]
                             }, 
                             {
-                                "id": 1085, 
-                                "guid": "bdf00168-ed69-5809-9916-a89d109c9b2c", 
+                                "id": 1086, 
+                                "guid": "1c73c759-0d3b-501e-a07d-82ea10e9f40c", 
                                 "logo": null, 
-                                "date": "2017-12-30T14:15:00+01:00", 
-                                "start": "14:15", 
-                                "duration": "0:30", 
+                                "date": "2017-12-30T13:05:00+01:00", 
+                                "start": "13:05", 
+                                "duration": "0:55", 
                                 "room": "CCL Hall 2", 
                                 "slug": "", 
                                 "title": "DLF", 
-                                "subtitle": "\"tuwat!\" - Der 34C3 in Leipzig", 
+                                "subtitle": "Dlf Kultur - Breitband", 
                                 "track": "self organized sessions", 
                                 "type": "", 
                                 "language": "de", 
@@ -7300,7 +7300,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1296, 
+                                "id": 1297, 
                                 "guid": "4539bbbe-bd6a-4baf-8322-3ed0eefbbd70", 
                                 "logo": null, 
                                 "date": "2017-12-30T20:00:00+01:00", 
@@ -7351,7 +7351,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1313, 
+                                "id": 1314, 
                                 "guid": "afd17345-39e2-44ad-b303-a6595f78ac08", 
                                 "logo": null, 
                                 "date": "2017-12-30T14:00:00+01:00", 
@@ -7446,7 +7446,7 @@
                         ], 
                         "Kidspace": [
                             {
-                                "id": 1001, 
+                                "id": 1000, 
                                 "guid": "53d056a4-aeb6-4814-ace4-a8a60345340d", 
                                 "logo": null, 
                                 "date": "2017-12-30T11:00:00+01:00", 
@@ -7498,7 +7498,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1007, 
+                                "id": 1008, 
                                 "guid": "4d2df78a-654b-48ec-b90b-ab100da126a6", 
                                 "logo": null, 
                                 "date": "2017-12-30T09:00:00+01:00", 
@@ -7552,6 +7552,6 @@
                 }
             ]
         }, 
-        "version": "2017-12-28 00:50"
+        "version": "2017-12-28 01:00"
     }
 }
