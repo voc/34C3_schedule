@@ -3126,6 +3126,59 @@
             "1514486700"
         ]
     }, 
+    "Session:XMPP# 1f9837aeb62417d57d9d03e3cde34205": {
+        "Held in language": [
+            "en - English"
+        ], 
+        "Has start time": [
+            "1514581200"
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [], 
+        "Has description": [
+            "Gathering of XMPP developers"
+        ], 
+        "Has session type": [
+            "Meeting"
+        ], 
+        "Has session location": [
+            {
+                "fulltext": "Room:Seminar room 13", 
+                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Room:Seminar_room_13", 
+                "namespace": 516, 
+                "exists": true
+            }
+        ], 
+        "Has subtitle": [
+            "Gathering of XMPP developers"
+        ], 
+        "Is organized by": [
+            {
+                "fulltext": "User:Marvin", 
+                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/User:Marvin", 
+                "namespace": 2, 
+                "exists": true
+            }
+        ], 
+        "Has title": [
+            "XMPP"
+        ], 
+        "Has duration": [
+            60
+        ], 
+        "GUID": [
+            "c6c07046-00a5-4f1e-96b3-2b02d30d154d"
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:XMPP", 
+        "Has end time": [
+            "1514584800"
+        ]
+    }, 
     "Session:CMS Tutoren Briefing# 9b1b229bc4229efaef2ff1a45665410b": {
         "Held in language": [
             "de - German"
@@ -9281,59 +9334,6 @@
         "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:Wie_produziere_ich_mein_eigenes_H%C3%B6rspiel", 
         "Has end time": [
             "1514476800"
-        ]
-    }, 
-    "Session:XMPP# 30bd96169b25fc72af3ff62eca7769cc": {
-        "Held in language": [
-            "en - English"
-        ], 
-        "Has start time": [
-            "1514566800"
-        ], 
-        "Has event track": [
-            "Session"
-        ], 
-        "Has website": [], 
-        "Has description": [
-            "Gathering of XMPP developers"
-        ], 
-        "Has session type": [
-            "Meeting"
-        ], 
-        "Has session location": [
-            {
-                "fulltext": "Room:Lecture room 12", 
-                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Room:Lecture_room_12", 
-                "namespace": 516, 
-                "exists": true
-            }
-        ], 
-        "Has subtitle": [
-            "Gathering of XMPP developers"
-        ], 
-        "Is organized by": [
-            {
-                "fulltext": "User:Marvin", 
-                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/User:Marvin", 
-                "namespace": 2, 
-                "exists": true
-            }
-        ], 
-        "Has title": [
-            "XMPP"
-        ], 
-        "Has duration": [
-            60
-        ], 
-        "GUID": [
-            "c6c07046-00a5-4f1e-96b3-2b02d30d154d"
-        ], 
-        "Has color": [
-            "#0099ab"
-        ], 
-        "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:XMPP", 
-        "Has end time": [
-            "1514570400"
         ]
     }, 
     "Session:TeaHouse# 3fa552470c953db85366ba85338756db": {
