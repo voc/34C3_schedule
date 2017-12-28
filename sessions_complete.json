@@ -334,6 +334,51 @@
             "1514511000"
         ]
     }, 
+    "Session:Whisky# 2ad663eff9687e07f176548adda735f3": {
+        "Held in language": [
+            "de - German", 
+            "en - English"
+        ], 
+        "Has start time": [
+            "1514584800"
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [], 
+        "Has description": [
+            "This is the seventh incarnation of the popular whisky evening. It's fairly simple: If you enjoy good whisky with nice people, or are planing to do so, join us. We'll have the virtual chimney fire going."
+        ], 
+        "Has session type": [
+            "Hands-On"
+        ], 
+        "Has session location": [], 
+        "Has subtitle": [], 
+        "Is organized by": [
+            {
+                "fulltext": "User:Blackspear", 
+                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/User:Blackspear", 
+                "namespace": 2, 
+                "exists": true
+            }
+        ], 
+        "Has title": [
+            "Whisky"
+        ], 
+        "Has duration": [
+            90
+        ], 
+        "GUID": [
+            "6b45706e-8625-4aa8-8a47-5ba016f04c87"
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:Whisky", 
+        "Has end time": [
+            "1514590200"
+        ]
+    }, 
     "Session:Scalable and privacy-respectful distributed systems# 36b006e5cda02bb13640c0a9bb6d8063": {
         "Held in language": [
             "en - English"
@@ -1886,6 +1931,52 @@
             "1514466000"
         ]
     }, 
+    "Session:Hackbases yearly meeting (coliving hackerspace projects)# c4533856f59bcc6a4054025e7f3381da": {
+        "Held in language": [
+            "en - English"
+        ], 
+        "Has start time": [
+            "1514499300"
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [
+            "http://board.net/p/34c3-hackbases"
+        ], 
+        "Has description": [
+            "Hackbases are similar to hackerspaces, but people also live in them. The 4th yearly self-org session will present the existing ones, common lessons, and the tools to organize new ones. You should come if you're interested in different ways of living to: have a job + pay rent."
+        ], 
+        "Has session type": [
+            "Discussion"
+        ], 
+        "Has session location": [
+            {
+                "fulltext": "Room:Seminar room 14-15", 
+                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Room:Seminar_room_14-15", 
+                "namespace": 516, 
+                "exists": true
+            }
+        ], 
+        "Has subtitle": [], 
+        "Is organized by": [], 
+        "Has title": [
+            "Hackbases yearly meeting (coliving hackerspace projects)"
+        ], 
+        "Has duration": [
+            60
+        ], 
+        "GUID": [
+            "0779a162-bc21-4309-95de-071c32035b5c"
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:Hackbases_yearly_meeting_(coliving_hackerspace_projects)", 
+        "Has end time": [
+            "1514502900"
+        ]
+    }, 
     "Session:Child Growth Monitor# 8698ef9c0ab16f4cbda6bb9fdf132925": {
         "Held in language": [
             "de - German", 
@@ -2852,50 +2943,6 @@
         "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:WikiWat!", 
         "Has end time": [
             "1514486700"
-        ]
-    }, 
-    "Session:Eine Botschaft an Au\u00dferirdische (Wondrous Mathematics)# 2effc8f1d422aec145fc3fc9ecd2845f": {
-        "Held in language": [
-            "de - German"
-        ], 
-        "Has start time": [
-            "1514458800"
-        ], 
-        "Has event track": [
-            "Session"
-        ], 
-        "Has website": [], 
-        "Has description": [
-            "(Cosmic Call) Vor etwa 15 Jahren schickte die Menschheit eine Radiobotschaft an ausgew\u00e4hlte Sterne, in der Hoffnung, dass die Nachricht Au\u00dferirdische erreicht, diese die Nachricht verstehen und uns antworten. Die Nachricht ist nicht auf Deutsch oder Englisch verfasst, sondern bedient sich einer eigens entwickelten Symbolsprache. Schaffen wenigstens wir Menschen, die Botschaft zu entziffern? Das wollen wir in dem Workshop an uns selbst testen und herausfinden!"
-        ], 
-        "Has session type": [
-            "Hands-On"
-        ], 
-        "Has session location": [], 
-        "Has subtitle": [], 
-        "Is organized by": [
-            {
-                "fulltext": "User:IngoBlechschmidt", 
-                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/User:IngoBlechschmidt", 
-                "namespace": 2, 
-                "exists": true
-            }
-        ], 
-        "Has title": [
-            "Eine Botschaft an Au\u00dferirdische (Wondrous Mathematics)"
-        ], 
-        "Has duration": [
-            150
-        ], 
-        "GUID": [
-            "969a8f54-d014-4988-9503-42c058a0dfb3"
-        ], 
-        "Has color": [
-            "#0099ab"
-        ], 
-        "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:Eine_Botschaft_an_Au%C3%9Ferirdische_(Wondrous_Mathematics)", 
-        "Has end time": [
-            "1514467800"
         ]
     }, 
     "Session:CMS Tutoren Briefing# 9b1b229bc4229efaef2ff1a45665410b": {
@@ -5392,59 +5439,55 @@
             "1514502000"
         ]
     }, 
-    "Session:Schleuder# 333059041d8a4ce8d2cfa9b7e98eb45c": {
+    "Session:Improv Workshop by Yussef# 97b4afea01c4d10fc28e2ea17d10edf1": {
         "Held in language": [
             "en - English"
         ], 
         "Has start time": [
-            "1514466900"
+            "1514584800"
         ], 
         "Has event track": [
             "Session"
         ], 
-        "Has website": [
-            "https://schleuder.nadir.org/"
-        ], 
-        "Has description": [
-            "'''''UPDATE'': We changed the room, now 15 minutes later and in room 11!'''\n\nA workshop on the development of Schleuder, the crypto mailinglist manager: what's new in version 3, the new web-interface, what will be next, etc.\n\nDepending on the attendee's wishes, we can also take time to answer questions, discuss ideas, or provide practical help with problems."
-        ], 
+        "Has website": [], 
+        "Has description": [], 
         "Has session type": [
             "Workshop"
         ], 
         "Has session location": [
             {
-                "fulltext": "Room:Lecture room 11", 
-                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Room:Lecture_room_11", 
+                "fulltext": "Room:Seminar room 14-15", 
+                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Room:Seminar_room_14-15", 
                 "namespace": 516, 
                 "exists": true
             }
         ], 
         "Has subtitle": [
-            "Last years development & discussion"
+            "Learn to be an even better Herald!"
         ], 
         "Is organized by": [
             {
-                "fulltext": "User:Paz", 
-                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/User:Paz", 
+                "fulltext": "User:Ijon", 
+                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/User:Ijon", 
                 "namespace": 2, 
                 "exists": true
             }
         ], 
         "Has title": [
-            "Schleuder"
+            "Improv Workshop by Yussef"
         ], 
         "Has duration": [
-            45
+            120
         ], 
         "GUID": [
-            "90e4dc9d-fa68-400a-a202-c0d2714d4c1c"
+            "676da24c-daf1-4f65-ba87-bf5ca3823a4b"
         ], 
         "Has color": [
             "#0099ab"
         ], 
-        "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:Schleuder", 
+        "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:Improv_Workshop_by_Yussef", 
         "Has end time": [
-            "1514469600"
+            "1514592000"
         ]
     }, 
     "Session:Alle Menschen sind gleich, aber manche sind gleicher.# 64e2d5ce5b1c1a5e67d7374f1ab8f690": {
@@ -12058,6 +12101,61 @@
             "1514575800"
         ]
     }, 
+    "Session:Schleuder# 333059041d8a4ce8d2cfa9b7e98eb45c": {
+        "Held in language": [
+            "en - English"
+        ], 
+        "Has start time": [
+            "1514466900"
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [
+            "https://schleuder.nadir.org/"
+        ], 
+        "Has description": [
+            "'''''UPDATE'': We changed the room, now 15 minutes later and in room 11!'''\n\nA workshop on the development of Schleuder, the crypto mailinglist manager: what's new in version 3, the new web-interface, what will be next, etc.\n\nDepending on the attendee's wishes, we can also take time to answer questions, discuss ideas, or provide practical help with problems."
+        ], 
+        "Has session type": [
+            "Workshop"
+        ], 
+        "Has session location": [
+            {
+                "fulltext": "Room:Lecture room 11", 
+                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Room:Lecture_room_11", 
+                "namespace": 516, 
+                "exists": true
+            }
+        ], 
+        "Has subtitle": [
+            "Last years development & discussion"
+        ], 
+        "Is organized by": [
+            {
+                "fulltext": "User:Paz", 
+                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/User:Paz", 
+                "namespace": 2, 
+                "exists": true
+            }
+        ], 
+        "Has title": [
+            "Schleuder"
+        ], 
+        "Has duration": [
+            45
+        ], 
+        "GUID": [
+            "90e4dc9d-fa68-400a-a202-c0d2714d4c1c"
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:Schleuder", 
+        "Has end time": [
+            "1514469600"
+        ]
+    }, 
     "Session:E-activism for NGOs# 616601d28a3d004a5468b515685c2c3e": {
         "Held in language": [
             "en - English"
@@ -12277,52 +12375,6 @@
         "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:VR-Workshop", 
         "Has end time": [
             "1514484000"
-        ]
-    }, 
-    "Session:Hackbases yearly meeting (coliving hackerspace projects)# 2e554dd138a2bf1b474855454fa42d19": {
-        "Held in language": [
-            "en - English"
-        ], 
-        "Has start time": [
-            "1514498400"
-        ], 
-        "Has event track": [
-            "Session"
-        ], 
-        "Has website": [
-            "http://board.net/p/34c3-hackbases"
-        ], 
-        "Has description": [
-            "Hackbases are similar to hackerspaces, but people also live in them. The 4th yearly self-org session will present the existing ones, common lessons, and the tools to organize new ones. You should come if you're interested in different ways of living to: have a job + pay rent."
-        ], 
-        "Has session type": [
-            "Discussion"
-        ], 
-        "Has session location": [
-            {
-                "fulltext": "Room:Komona Aquarius", 
-                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Room:Komona_Aquarius", 
-                "namespace": 516, 
-                "exists": true
-            }
-        ], 
-        "Has subtitle": [], 
-        "Is organized by": [], 
-        "Has title": [
-            "Hackbases yearly meeting (coliving hackerspace projects)"
-        ], 
-        "Has duration": [
-            60
-        ], 
-        "GUID": [
-            "0779a162-bc21-4309-95de-071c32035b5c"
-        ], 
-        "Has color": [
-            "#0099ab"
-        ], 
-        "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:Hackbases_yearly_meeting_(coliving_hackerspace_projects)", 
-        "Has end time": [
-            "1514502000"
         ]
     }, 
     "Session:Workshop on prison and justice system# aa4f232c54d5a527187a24da791a09b6": {
