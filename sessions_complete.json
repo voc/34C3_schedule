@@ -3199,52 +3199,6 @@
             "1514388600"
         ]
     }, 
-    "Session:Intro to Qubes OS# c2856bc7d086bea58ccf9bf947fa2ee5": {
-        "Held in language": [
-            "en - English"
-        ], 
-        "Has start time": [
-            "1514566800"
-        ], 
-        "Has event track": [
-            "Session"
-        ], 
-        "Has website": [
-            "https://www.qubes-os.org"
-        ], 
-        "Has description": [
-            "Come for an introduction to Qubes OS, the reasonably secure operating system. Core developers and contributors will be there to answer any questions you have!"
-        ], 
-        "Has session type": [
-            "Workshop"
-        ], 
-        "Has session location": [
-            {
-                "fulltext": "Room:Lecture room 12", 
-                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Room:Lecture_room_12", 
-                "namespace": 516, 
-                "exists": true
-            }
-        ], 
-        "Has subtitle": [], 
-        "Is organized by": [], 
-        "Has title": [
-            "Intro to Qubes OS"
-        ], 
-        "Has duration": [
-            60
-        ], 
-        "GUID": [
-            "c32c4ecb-8c2b-4519-9903-05a1061563e6"
-        ], 
-        "Has color": [
-            "#0099ab"
-        ], 
-        "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:Intro_to_Qubes_OS", 
-        "Has end time": [
-            "1514570400"
-        ]
-    }, 
     "Session:Daygame - meeting girls (and boys) in daily situations# 279ebcf9cd024d7c7732c2d6aceadb27": {
         "Held in language": [
             "en - English"
@@ -12051,39 +12005,6 @@
             "1514383200"
         ]
     }, 
-    "Session:Hackbases yearly meeting (coliving hackerspace projects)# 77661f4867e6abe32340601f203cdc6e": {
-        "Held in language": [
-            "en - English"
-        ], 
-        "Has start time": [], 
-        "Has event track": [
-            "Session"
-        ], 
-        "Has website": [
-            "http://board.net/p/34c3-hackbases"
-        ], 
-        "Has description": [
-            "Hackbases are similar to hackerspaces, but people also live in them. The 4th yearly self-org session will present the existing ones, common lessons, and the tools to organize new ones. You should come if you're interested in different ways of living to: have a job + pay rent."
-        ], 
-        "Has session type": [
-            "Discussion"
-        ], 
-        "Has session location": [], 
-        "Has subtitle": [], 
-        "Is organized by": [], 
-        "Has title": [
-            "Hackbases yearly meeting (coliving hackerspace projects)"
-        ], 
-        "Has duration": [], 
-        "GUID": [
-            "0779a162-bc21-4309-95de-071c32035b5c"
-        ], 
-        "Has color": [
-            "#0099ab"
-        ], 
-        "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:Hackbases_yearly_meeting_(coliving_hackerspace_projects)", 
-        "Has end time": []
-    }, 
     "Session:Interledger: Streaming Micropayments + Connecting (Crypto)Currencies# 9f635fe3df31648746cd829771b3b6b3": {
         "Held in language": [
             "en - English"
@@ -12356,6 +12277,52 @@
         "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:VR-Workshop", 
         "Has end time": [
             "1514484000"
+        ]
+    }, 
+    "Session:Hackbases yearly meeting (coliving hackerspace projects)# 2e554dd138a2bf1b474855454fa42d19": {
+        "Held in language": [
+            "en - English"
+        ], 
+        "Has start time": [
+            "1514498400"
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [
+            "http://board.net/p/34c3-hackbases"
+        ], 
+        "Has description": [
+            "Hackbases are similar to hackerspaces, but people also live in them. The 4th yearly self-org session will present the existing ones, common lessons, and the tools to organize new ones. You should come if you're interested in different ways of living to: have a job + pay rent."
+        ], 
+        "Has session type": [
+            "Discussion"
+        ], 
+        "Has session location": [
+            {
+                "fulltext": "Room:Komona Aquarius", 
+                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Room:Komona_Aquarius", 
+                "namespace": 516, 
+                "exists": true
+            }
+        ], 
+        "Has subtitle": [], 
+        "Is organized by": [], 
+        "Has title": [
+            "Hackbases yearly meeting (coliving hackerspace projects)"
+        ], 
+        "Has duration": [
+            60
+        ], 
+        "GUID": [
+            "0779a162-bc21-4309-95de-071c32035b5c"
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:Hackbases_yearly_meeting_(coliving_hackerspace_projects)", 
+        "Has end time": [
+            "1514502000"
         ]
     }, 
     "Session:Workshop on prison and justice system# aa4f232c54d5a527187a24da791a09b6": {
