@@ -1905,6 +1905,60 @@
             "1514499300"
         ]
     }, 
+    "Session:\"Pen&Paper\" Game Jam# dc94dc599a02da703ffaf6ddc56e5f4b": {
+        "Held in language": [
+            "de - German", 
+            "en - English"
+        ], 
+        "Has start time": [
+            "1514462400"
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [], 
+        "Has description": [
+            "Hi, wir wollen gemeinsam ein Spiel entwickeln.\nGenauer gesagt machen wir einen pen&paper mini \"Game Jam\".\nHierbei finden sich normalerweise aus allen Disziplinen der Gamesbranche Beteiligte zusammen um in einem lockeren Umfeld Spiele/Spielideen zu entwickeln.\nIch m\u00f6chte dieses Konzept gerne mit Kindern umsetzen; ohne Computer ;0)\nEs geht um Grundlegende Spielmechanismen und deren Kreative Umsetzung.\n\nIch freue mich auf viele motivierte Kinder ;o)"
+        ], 
+        "Has session type": [
+            "Game"
+        ], 
+        "Has session location": [
+            {
+                "fulltext": "Assembly:Kidspace", 
+                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Assembly:Kidspace", 
+                "namespace": 504, 
+                "exists": true
+            }
+        ], 
+        "Has subtitle": [
+            "Workshop"
+        ], 
+        "Is organized by": [
+            {
+                "fulltext": "User:Lydia", 
+                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/User:Lydia", 
+                "namespace": 2, 
+                "exists": true
+            }
+        ], 
+        "Has title": [
+            "\"Pen&Paper\" Game Jam"
+        ], 
+        "Has duration": [
+            60
+        ], 
+        "GUID": [
+            "1145687b-1da9-4200-bdbf-80614032f9af"
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:%22Pen%26Paper%22_Game_Jam", 
+        "Has end time": [
+            "1514466000"
+        ]
+    }, 
     "Session:Child Growth Monitor# 8698ef9c0ab16f4cbda6bb9fdf132925": {
         "Held in language": [
             "de - German", 
@@ -3006,51 +3060,57 @@
             "1514496600"
         ]
     }, 
-    "Session:Rights&Freedoms# 3063e1754502aed3fa8b11094252bb49": {
+    "Session:Surface mount electronics assembly for terrified beginners# a601f7f02aa688555befe8124c7cc032": {
         "Held in language": [
-            "de - German", 
             "en - English"
         ], 
         "Has start time": [
-            "1514383200"
+            "1514386800"
         ], 
         "Has event track": [
             "Session"
         ], 
         "Has website": [], 
         "Has description": [
-            "Rights & Freedoms Cluster Stage Programme"
+            "Surface mount electronics for terrified beginners. Learn to assemble tiny parts on circuit boards by building a working power supply. Anyone can do it. Yes, even you who never touched anything electronic before. 90-100mins, 20\u20ac/kit, avoid caffeine immediately before. Max 20 participants per session, there will be a PAPER!!1! signup list in the hardware hacking area."
         ], 
         "Has session type": [
-            "Talk"
+            "Workshop"
         ], 
         "Has session location": [
             {
-                "fulltext": "Room:CCL Hall 3", 
-                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Room:CCL_Hall_3", 
-                "namespace": 516, 
+                "fulltext": "Assembly:HardwareHackingArea", 
+                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Assembly:HardwareHackingArea", 
+                "namespace": 504, 
                 "exists": true
             }
         ], 
         "Has subtitle": [
-            "[https://events.ccc.de/congress/2017/wiki/index.php/Session:Newpipe Newpipe] (Chris Schabesberger)"
+            "Day 1 Session 2"
         ], 
-        "Is organized by": [], 
+        "Is organized by": [
+            {
+                "fulltext": "User:Kliment", 
+                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/User:Kliment", 
+                "namespace": 2, 
+                "exists": true
+            }
+        ], 
         "Has title": [
-            "Rights&Freedoms"
+            "Surface mount electronics assembly for terrified beginners"
         ], 
         "Has duration": [
-            60
+            90
         ], 
         "GUID": [
-            "b9ea5336-f739-4170-a424-208041a7e313"
+            "106c752f-7697-4981-b5f5-c5821d1f9cf4"
         ], 
         "Has color": [
             "#0099ab"
         ], 
-        "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:Rights%26Freedoms", 
+        "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:Surface_mount_electronics_assembly_for_terrified_beginners", 
         "Has end time": [
-            "1514386800"
+            "1514392200"
         ]
     }, 
     "Session:TeaHouse# 7ba0aa55eaffb89b77ee77e479b6d115": {
@@ -3906,57 +3966,51 @@
             "1514575380"
         ]
     }, 
-    "Session:Surface mount electronics assembly for terrified beginners# a601f7f02aa688555befe8124c7cc032": {
+    "Session:Rights&Freedoms# 3063e1754502aed3fa8b11094252bb49": {
         "Held in language": [
+            "de - German", 
             "en - English"
         ], 
         "Has start time": [
-            "1514386800"
+            "1514383200"
         ], 
         "Has event track": [
             "Session"
         ], 
         "Has website": [], 
         "Has description": [
-            "Surface mount electronics for terrified beginners. Learn to assemble tiny parts on circuit boards by building a working power supply. Anyone can do it. Yes, even you who never touched anything electronic before. 90-100mins, 20\u20ac/kit, avoid caffeine immediately before. Max 20 participants per session, there will be a PAPER!!1! signup list in the hardware hacking area."
+            "Rights & Freedoms Cluster Stage Programme"
         ], 
         "Has session type": [
-            "Workshop"
+            "Talk"
         ], 
         "Has session location": [
             {
-                "fulltext": "Assembly:HardwareHackingArea", 
-                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Assembly:HardwareHackingArea", 
-                "namespace": 504, 
+                "fulltext": "Room:CCL Hall 3", 
+                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Room:CCL_Hall_3", 
+                "namespace": 516, 
                 "exists": true
             }
         ], 
         "Has subtitle": [
-            "Day 1 Session 2"
+            "[https://events.ccc.de/congress/2017/wiki/index.php/Session:Newpipe Newpipe] (Chris Schabesberger)"
         ], 
-        "Is organized by": [
-            {
-                "fulltext": "User:Kliment", 
-                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/User:Kliment", 
-                "namespace": 2, 
-                "exists": true
-            }
-        ], 
+        "Is organized by": [], 
         "Has title": [
-            "Surface mount electronics assembly for terrified beginners"
+            "Rights&Freedoms"
         ], 
         "Has duration": [
-            90
+            60
         ], 
         "GUID": [
-            "106c752f-7697-4981-b5f5-c5821d1f9cf4"
+            "b9ea5336-f739-4170-a424-208041a7e313"
         ], 
         "Has color": [
             "#0099ab"
         ], 
-        "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:Surface_mount_electronics_assembly_for_terrified_beginners", 
+        "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:Rights%26Freedoms", 
         "Has end time": [
-            "1514392200"
+            "1514386800"
         ]
     }, 
     "Session:Hosting Control Panels for self-managed infrastructure# 6fc614a23ab22c0955f698912e26e901": {
@@ -4502,7 +4556,10 @@
         ]
     }, 
     "Session:\"Pen&Paper\" Game Jam# 10928c30e28d8033fa0ff229def0486e": {
-        "Held in language": [], 
+        "Held in language": [
+            "de - German", 
+            "en - English"
+        ], 
         "Has start time": [
             "1514548800"
         ], 
@@ -4511,7 +4568,7 @@
         ], 
         "Has website": [], 
         "Has description": [
-            "Ich w\u00fcrde gernen einen Workshop organisieren, genauer einen pen&paper mini \"Game Jam\".\nHierbei finden sich normalerweise aus allen Disziplinen der Gamesbranche Beteiligte zusammen um in einem lockeren Umfeld Spiele/Spielideen zu entwickeln.\nIch m\u00f6chte dieses Konzept gerne mit Kindern umsetzen; ohne Computer ;0)"
+            "Hi, wir wollen gemeinsam ein Spiel entwickeln.\nGenauer gesagt machen wir einen pen&paper mini \"Game Jam\".\nHierbei finden sich normalerweise aus allen Disziplinen der Gamesbranche Beteiligte zusammen um in einem lockeren Umfeld Spiele/Spielideen zu entwickeln.\nIch m\u00f6chte dieses Konzept gerne mit Kindern umsetzen; ohne Computer ;0)\nEs geht um Grundlegende Spielmechanismen und deren Kreative Umsetzung.\n\nIch freue mich auf viele motivierte Kinder ;o)"
         ], 
         "Has session type": [
             "Game"
@@ -4527,7 +4584,14 @@
         "Has subtitle": [
             "Workshop"
         ], 
-        "Is organized by": [], 
+        "Is organized by": [
+            {
+                "fulltext": "User:Lydia", 
+                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/User:Lydia", 
+                "namespace": 2, 
+                "exists": true
+            }
+        ], 
         "Has title": [
             "\"Pen&Paper\" Game Jam"
         ], 
@@ -9759,6 +9823,54 @@
         "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:Tongue_twisters_(Zungenbrecher)", 
         "Has end time": [
             "1514458800"
+        ]
+    }, 
+    "Session:Revolutionizing Large-scale Digital Activism with Barrett Brown's Pursuance Project# bc645ffbd0d1fe35edf97ec752be18bd": {
+        "Held in language": [
+            "en - English"
+        ], 
+        "Has start time": [
+            "1514484000"
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [
+            "https://PursuanceProject.org"
+        ], 
+        "Has description": [
+            "Interested in harnessing the power of the internet to enable large numbers of like-minded individuals -- especially activists journalists, and non-profits -- to join forces to solve important world problems? Come to this session to learn how the Pursuance Project is building open source, end-to-end encrypted software based on the experiences and vision of our founder, formerly-imprisoned activist and journalist Barrett Brown!"
+        ], 
+        "Has session type": [
+            "Talk"
+        ], 
+        "Has session location": [
+            {
+                "fulltext": "Room:Hive Stage", 
+                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Room:Hive_Stage", 
+                "namespace": 516, 
+                "exists": true
+            }
+        ], 
+        "Has subtitle": [
+            "The vision and master plan"
+        ], 
+        "Is organized by": [], 
+        "Has title": [
+            "Revolutionizing Large-scale Digital Activism with Barrett Brown's Pursuance Project"
+        ], 
+        "Has duration": [
+            60
+        ], 
+        "GUID": [
+            "559f5019-001e-4cad-b294-ddde04d7a856"
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:Revolutionizing_Large-scale_Digital_Activism_with_Barrett_Brown%27s_Pursuance_Project", 
+        "Has end time": [
+            "1514487600"
         ]
     }, 
     "Session:Ybti+wefixthenet# 8ce7e131453197869935c912de1b35bf": {
@@ -15123,6 +15235,60 @@
             "1514467800"
         ]
     }, 
+    "Session:\"Pen&Paper\" Game Jam# fd49d2f48930874624f62d1f2b105005": {
+        "Held in language": [
+            "de - German", 
+            "en - English"
+        ], 
+        "Has start time": [
+            "1514458800"
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [], 
+        "Has description": [
+            "Hi, wir wollen gemeinsam ein Spiel entwickeln.\nGenauer gesagt machen wir einen pen&paper mini \"Game Jam\".\nHierbei finden sich normalerweise aus allen Disziplinen der Gamesbranche Beteiligte zusammen um in einem lockeren Umfeld Spiele/Spielideen zu entwickeln.\nIch m\u00f6chte dieses Konzept gerne mit Kindern umsetzen; ohne Computer ;0)\nEs geht um Grundlegende Spielmechanismen und deren Kreative Umsetzung.\n\nIch freue mich auf viele motivierte Kinder ;o)"
+        ], 
+        "Has session type": [
+            "Game"
+        ], 
+        "Has session location": [
+            {
+                "fulltext": "Assembly:Kidspace", 
+                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Assembly:Kidspace", 
+                "namespace": 504, 
+                "exists": true
+            }
+        ], 
+        "Has subtitle": [
+            "Workshop"
+        ], 
+        "Is organized by": [
+            {
+                "fulltext": "User:Lydia", 
+                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/User:Lydia", 
+                "namespace": 2, 
+                "exists": true
+            }
+        ], 
+        "Has title": [
+            "\"Pen&Paper\" Game Jam"
+        ], 
+        "Has duration": [
+            60
+        ], 
+        "GUID": [
+            "1145687b-1da9-4200-bdbf-80614032f9af"
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:%22Pen%26Paper%22_Game_Jam", 
+        "Has end time": [
+            "1514462400"
+        ]
+    }, 
     "Session:Gehen drei Wissenschaftler in eine Kneipe# 157d388e68b6991f3ede11bce79201f2": {
         "Held in language": [
             "de - German"
@@ -15598,54 +15764,6 @@
         "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:TeaHouse", 
         "Has end time": [
             "1514474100"
-        ]
-    }, 
-    "Session:Revolutionizing Large-scale Digital Activism with Barrett Brown's Pursuance Project# 016a851042ca121e781b80fded0e477e": {
-        "Held in language": [
-            "en - English"
-        ], 
-        "Has start time": [
-            "1514484000"
-        ], 
-        "Has event track": [
-            "Session"
-        ], 
-        "Has website": [
-            "https://PursuanceProject.org"
-        ], 
-        "Has description": [
-            "Interested in harnessing the power of the internet to enable large numbers of like-minded individuals -- especially activists journalists, and non-profits -- to join forces to solve important world problems? Come to this session to learn how the Pursuance Project is building open source, end-to-end encrypted software based on the experiences and vision of our founder, formerly-imprisoned activist and journalist Barrett Brown!"
-        ], 
-        "Has session type": [
-            "Talk"
-        ], 
-        "Has session location": [
-            {
-                "fulltext": "Assembly:Hive", 
-                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Assembly:Hive", 
-                "namespace": 504, 
-                "exists": true
-            }
-        ], 
-        "Has subtitle": [
-            "The vision and master plan"
-        ], 
-        "Is organized by": [], 
-        "Has title": [
-            "Revolutionizing Large-scale Digital Activism with Barrett Brown's Pursuance Project"
-        ], 
-        "Has duration": [
-            60
-        ], 
-        "GUID": [
-            "559f5019-001e-4cad-b294-ddde04d7a856"
-        ], 
-        "Has color": [
-            "#0099ab"
-        ], 
-        "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:Revolutionizing_Large-scale_Digital_Activism_with_Barrett_Brown%27s_Pursuance_Project", 
-        "Has end time": [
-            "1514487600"
         ]
     }, 
     "Session:Food Hacking: Kefir Making# 8752ad3b2d6b623949558bffb3022e5c": {
@@ -17591,7 +17709,10 @@
         ]
     }, 
     "Session:\"Pen&Paper\" Game Jam# eec53af46aac3187e8d93b805bf562a4": {
-        "Held in language": [], 
+        "Held in language": [
+            "de - German", 
+            "en - English"
+        ], 
         "Has start time": [
             "1514631600"
         ], 
@@ -17600,7 +17721,7 @@
         ], 
         "Has website": [], 
         "Has description": [
-            "Ich w\u00fcrde gernen einen Workshop organisieren, genauer einen pen&paper mini \"Game Jam\".\nHierbei finden sich normalerweise aus allen Disziplinen der Gamesbranche Beteiligte zusammen um in einem lockeren Umfeld Spiele/Spielideen zu entwickeln.\nIch m\u00f6chte dieses Konzept gerne mit Kindern umsetzen; ohne Computer ;0)"
+            "Hi, wir wollen gemeinsam ein Spiel entwickeln.\nGenauer gesagt machen wir einen pen&paper mini \"Game Jam\".\nHierbei finden sich normalerweise aus allen Disziplinen der Gamesbranche Beteiligte zusammen um in einem lockeren Umfeld Spiele/Spielideen zu entwickeln.\nIch m\u00f6chte dieses Konzept gerne mit Kindern umsetzen; ohne Computer ;0)\nEs geht um Grundlegende Spielmechanismen und deren Kreative Umsetzung.\n\nIch freue mich auf viele motivierte Kinder ;o)"
         ], 
         "Has session type": [
             "Game"
@@ -17616,7 +17737,14 @@
         "Has subtitle": [
             "Workshop"
         ], 
-        "Is organized by": [], 
+        "Is organized by": [
+            {
+                "fulltext": "User:Lydia", 
+                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/User:Lydia", 
+                "namespace": 2, 
+                "exists": true
+            }
+        ], 
         "Has title": [
             "\"Pen&Paper\" Game Jam"
         ], 
@@ -19736,7 +19864,10 @@
         ]
     }, 
     "Session:\"Pen&Paper\" Game Jam# 33dbda9e61f8c463561dada21f411495": {
-        "Held in language": [], 
+        "Held in language": [
+            "de - German", 
+            "en - English"
+        ], 
         "Has start time": [
             "1514563200"
         ], 
@@ -19745,7 +19876,7 @@
         ], 
         "Has website": [], 
         "Has description": [
-            "Ich w\u00fcrde gernen einen Workshop organisieren, genauer einen pen&paper mini \"Game Jam\".\nHierbei finden sich normalerweise aus allen Disziplinen der Gamesbranche Beteiligte zusammen um in einem lockeren Umfeld Spiele/Spielideen zu entwickeln.\nIch m\u00f6chte dieses Konzept gerne mit Kindern umsetzen; ohne Computer ;0)"
+            "Hi, wir wollen gemeinsam ein Spiel entwickeln.\nGenauer gesagt machen wir einen pen&paper mini \"Game Jam\".\nHierbei finden sich normalerweise aus allen Disziplinen der Gamesbranche Beteiligte zusammen um in einem lockeren Umfeld Spiele/Spielideen zu entwickeln.\nIch m\u00f6chte dieses Konzept gerne mit Kindern umsetzen; ohne Computer ;0)\nEs geht um Grundlegende Spielmechanismen und deren Kreative Umsetzung.\n\nIch freue mich auf viele motivierte Kinder ;o)"
         ], 
         "Has session type": [
             "Game"
@@ -19761,7 +19892,14 @@
         "Has subtitle": [
             "Workshop"
         ], 
-        "Is organized by": [], 
+        "Is organized by": [
+            {
+                "fulltext": "User:Lydia", 
+                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/User:Lydia", 
+                "namespace": 2, 
+                "exists": true
+            }
+        ], 
         "Has title": [
             "\"Pen&Paper\" Game Jam"
         ], 
@@ -19917,6 +20055,60 @@
         "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:Food_Hacking:_Cheese_Rendez-vous", 
         "Has end time": [
             "1514498400"
+        ]
+    }, 
+    "Session:\"Pen&Paper\" Game Jam# 1a3fac93fe20b784d8758bf33e6f7a8b": {
+        "Held in language": [
+            "de - German", 
+            "en - English"
+        ], 
+        "Has start time": [
+            "1514476800"
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [], 
+        "Has description": [
+            "Hi, wir wollen gemeinsam ein Spiel entwickeln.\nGenauer gesagt machen wir einen pen&paper mini \"Game Jam\".\nHierbei finden sich normalerweise aus allen Disziplinen der Gamesbranche Beteiligte zusammen um in einem lockeren Umfeld Spiele/Spielideen zu entwickeln.\nIch m\u00f6chte dieses Konzept gerne mit Kindern umsetzen; ohne Computer ;0)\nEs geht um Grundlegende Spielmechanismen und deren Kreative Umsetzung.\n\nIch freue mich auf viele motivierte Kinder ;o)"
+        ], 
+        "Has session type": [
+            "Game"
+        ], 
+        "Has session location": [
+            {
+                "fulltext": "Assembly:Kidspace", 
+                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Assembly:Kidspace", 
+                "namespace": 504, 
+                "exists": true
+            }
+        ], 
+        "Has subtitle": [
+            "Workshop"
+        ], 
+        "Is organized by": [
+            {
+                "fulltext": "User:Lydia", 
+                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/User:Lydia", 
+                "namespace": 2, 
+                "exists": true
+            }
+        ], 
+        "Has title": [
+            "\"Pen&Paper\" Game Jam"
+        ], 
+        "Has duration": [
+            60
+        ], 
+        "GUID": [
+            "1145687b-1da9-4200-bdbf-80614032f9af"
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:%22Pen%26Paper%22_Game_Jam", 
+        "Has end time": [
+            "1514480400"
         ]
     }, 
     "Session:Die Drei Fragezeichen ??? - Fans treffen sich!# b5fb00afdadd6a15ab9a8c44cd7a88b4": {
