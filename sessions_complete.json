@@ -7425,6 +7425,52 @@
             "1514493000"
         ]
     }, 
+    "Session:Scuttlebutt introduction# 7c6d5a12233b8ce09772414e4b3cfb79": {
+        "Held in language": [
+            "en - English"
+        ], 
+        "Has start time": [
+            "1514638800"
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [
+            "https://www.scuttlebutt.nz/"
+        ], 
+        "Has description": [
+            "Secure Scuttlebutt is a database protocol for unforgeable append-only message feeds.\n\n\"Unforgeable\" means that only the owner of a feed can update that feed, as enforced by digital signing (see Security properties). This property makes Secure Scuttlebutt useful for peer-to-peer applications. Secure Scuttlebutt also makes it easy to encrypt messages."
+        ], 
+        "Has session type": [
+            "Talk"
+        ], 
+        "Has session location": [
+            {
+                "fulltext": "Room:Chaos West Stage", 
+                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Room:Chaos_West_Stage", 
+                "namespace": 516, 
+                "exists": true
+            }
+        ], 
+        "Has subtitle": [], 
+        "Is organized by": [], 
+        "Has title": [
+            "Scuttlebutt introduction"
+        ], 
+        "Has duration": [
+            30
+        ], 
+        "GUID": [
+            "d5db7ed9-fb20-454a-b542-cee73c2dc88b"
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:Scuttlebutt_introduction", 
+        "Has end time": [
+            "1514640600"
+        ]
+    }, 
     "Session:Hedonist International Networking Meeting Workshop for 2018s Congress Convoy# a313a6c777a457b002d8c3ed7dc13455": {
         "Held in language": [
             "en - English"
@@ -11418,6 +11464,61 @@
         "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:GNUnet_e.V._annual_meeting", 
         "Has end time": [
             "1514395800"
+        ]
+    }, 
+    "Session:Matrix and usable messaging, today# 8571aa4c2b6e81ecf56d2d7171902b7c": {
+        "Held in language": [
+            "en - English"
+        ], 
+        "Has start time": [
+            "1514566800"
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [], 
+        "Has description": [], 
+        "Has session type": [
+            "Discussion"
+        ], 
+        "Has session location": [
+            {
+                "fulltext": "Room:Lecture room 12", 
+                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Room:Lecture_room_12", 
+                "namespace": 516, 
+                "exists": true
+            }
+        ], 
+        "Has subtitle": [], 
+        "Is organized by": [
+            {
+                "fulltext": "User:Intelfx", 
+                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/User:Intelfx", 
+                "namespace": 2, 
+                "exists": true
+            }, 
+            {
+                "fulltext": "User:Wldhx", 
+                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/User:Wldhx", 
+                "namespace": 2, 
+                "exists": true
+            }
+        ], 
+        "Has title": [
+            "Matrix and usable messaging, today"
+        ], 
+        "Has duration": [
+            60
+        ], 
+        "GUID": [
+            "384ea850-03cc-466e-9049-94adb545e64a"
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:Matrix_and_usable_messaging,_today", 
+        "Has end time": [
+            "1514570400"
         ]
     }, 
     "Session:Polyamory - Toolbox# 969b1eefa30391e7ee71500b1bdabd6c": {
