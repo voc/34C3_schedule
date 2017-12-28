@@ -1,5 +1,5 @@
 <schedule>
-  <version>0.8</version>
+  <version>1.2</version>
   <conference>
     <title>34C3 – Jugend hackt</title>
     <acronym>34C3-jugend-hackt</acronym>
@@ -8,7 +8,7 @@
     <end>2017-12-30</end>
     <timeslot_duration>00:15</timeslot_duration>
   </conference>
-  <day index="1" date="2017-12-27" start="2017-12-27T10:00:00" end="2017-12-28T03:00:00">
+  <day index="0" date="2017-12-27" start="2017-12-27T10:00:00" end="2017-12-28T03:00:00">
     <room name="Esszimmer">
       <event id="1010" guid="8baea51d-6c66-55dc-ad37-92ec9ea924cb">
         <date>2017-12-27T13:00:00</date>
@@ -24,8 +24,8 @@
         <abstract/>
         <description/>
         <recording>
-          <optout>false</optout>
           <license/>
+          <optout>false</optout>
         </recording>
         <persons>
           <person id="0">Bernd</person>
@@ -47,8 +47,8 @@
         <abstract/>
         <description/>
         <recording>
-          <optout>false</optout>
           <license/>
+          <optout>false</optout>
         </recording>
         <persons>
           <person id="0">Léa</person>
@@ -69,8 +69,8 @@
         <abstract/>
         <description/>
         <recording>
-          <optout>false</optout>
           <license/>
+          <optout>false</optout>
         </recording>
         <persons>
           <person id="0">Lucas</person>
@@ -91,8 +91,8 @@
         <abstract/>
         <description/>
         <recording>
-          <optout>false</optout>
           <license/>
+          <optout>false</optout>
         </recording>
         <persons>
           <person id="0">Lucas</person>
@@ -113,8 +113,8 @@
         <abstract/>
         <description/>
         <recording>
-          <optout>false</optout>
           <license/>
+          <optout>false</optout>
         </recording>
         <persons>
           <person id="0">Robbi5</person>
@@ -138,8 +138,8 @@
         <abstract/>
         <description/>
         <recording>
-          <optout>false</optout>
           <license/>
+          <optout>false</optout>
         </recording>
         <persons>
           <person id="0">blinry</person>
@@ -148,15 +148,15 @@
       </event>
     </room>
   </day>
-  <day index="2" date="2017-12-28" start="2017-12-28T10:00:00" end="2017-12-29T03:00:00">
+  <day index="1" date="2017-12-28" start="2017-12-28T10:00:00" end="2017-12-29T03:00:00">
     <room name="Esszimmer">
       <event id="1020" guid="71d30e88-62ae-581d-a215-1775cc78b19f">
         <date>2017-12-28T12:00:00</date>
         <start>12:00</start>
         <duration>0:45</duration>
         <room>Esszimmer</room>
-        <slug>34C3-jugend-hackt-1020-calliope_workshops</slug>
-        <title>Calliope Workshops</title>
+        <slug>34C3-jugend-hackt-1020-calliope_workshop</slug>
+        <title>Calliope Workshop</title>
         <subtitle/>
         <track/>
         <type/>
@@ -164,8 +164,31 @@
         <abstract/>
         <description/>
         <recording>
-          <optout>false</optout>
           <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+          <person id="0">derMicha</person>
+          <person id="0">Steini</person>
+        </persons>
+        <links/>
+      </event>
+      <event id="1028" guid="76e3a2b8-ca69-57cc-a04c-daf964d2f1b1">
+        <date>2017-12-28T13:00:00</date>
+        <start>13:00</start>
+        <duration>1:00</duration>
+        <room>Esszimmer</room>
+        <slug>34C3-jugend-hackt-1028-calliope_workshop</slug>
+        <title>Calliope Workshop</title>
+        <subtitle/>
+        <track/>
+        <type/>
+        <language>de</language>
+        <abstract/>
+        <description/>
+        <recording>
+          <license/>
+          <optout>false</optout>
         </recording>
         <persons>
           <person id="0">derMicha</person>
@@ -187,8 +210,8 @@
         <abstract/>
         <description/>
         <recording>
-          <optout>false</optout>
           <license/>
+          <optout>false</optout>
         </recording>
         <persons>
           <person id="0">Jekaterina</person>
@@ -209,8 +232,8 @@
         <abstract/>
         <description/>
         <recording>
-          <optout>false</optout>
           <license/>
+          <optout>false</optout>
         </recording>
         <persons>
           <person id="0">Markus</person>
@@ -234,8 +257,8 @@
         <abstract/>
         <description/>
         <recording>
-          <optout>false</optout>
           <license/>
+          <optout>false</optout>
         </recording>
         <persons>
           <person id="0">OParl Team</person>
@@ -256,8 +279,8 @@
         <abstract/>
         <description/>
         <recording>
-          <optout>false</optout>
           <license/>
+          <optout>false</optout>
         </recording>
         <persons>
           <person id="0">John</person>
@@ -278,11 +301,59 @@
         <abstract/>
         <description/>
         <recording>
-          <optout>false</optout>
           <license/>
+          <optout>false</optout>
         </recording>
         <persons>
           <person id="0">John</person>
+        </persons>
+        <links/>
+      </event>
+    </room>
+    <room name="Hive Conference (cbase)">
+      <event id="1029" guid="04a1e968-4608-5365-bd16-5ff8c3b40b6b">
+        <date>2017-12-28T16:00:00</date>
+        <start>16:00</start>
+        <duration>1:00</duration>
+        <room>Hive Conference (cbase)</room>
+        <slug>34C3-jugend-hackt-1029-calliope_workshop</slug>
+        <title>Calliope Workshop</title>
+        <subtitle/>
+        <track/>
+        <type/>
+        <language>de</language>
+        <abstract/>
+        <description/>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+          <person id="0">derMicha</person>
+          <person id="0">Steini</person>
+        </persons>
+        <links/>
+      </event>
+      <event id="1030" guid="c57123a8-8586-5ab9-8fdb-960f0e5078d2">
+        <date>2017-12-28T17:00:00</date>
+        <start>17:00</start>
+        <duration>1:00</duration>
+        <room>Hive Conference (cbase)</room>
+        <slug>34C3-jugend-hackt-1030-calliope_workshop</slug>
+        <title>Calliope Workshop</title>
+        <subtitle/>
+        <track/>
+        <type/>
+        <language>de</language>
+        <abstract/>
+        <description/>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+          <person id="0">derMicha</person>
+          <person id="0">Steini</person>
         </persons>
         <links/>
       </event>
@@ -302,8 +373,8 @@
         <abstract/>
         <description/>
         <recording>
-          <optout>false</optout>
           <license/>
+          <optout>false</optout>
         </recording>
         <persons>
           <person id="0">Paula (rinhia)</person>
@@ -312,7 +383,7 @@
       </event>
     </room>
   </day>
-  <day index="3" date="2017-12-29" start="2017-12-29T10:00:00" end="2017-12-30T03:00:00">
+  <day index="2" date="2017-12-29" start="2017-12-29T10:00:00" end="2017-12-30T03:00:00">
     <room name="Esszimmer">
       <event id="1031" guid="d45ebf5f-fafd-5ac1-83ec-ef28fcbf84b5">
         <date>2017-12-29T12:00:00</date>
@@ -328,8 +399,8 @@
         <abstract/>
         <description/>
         <recording>
-          <optout>false</optout>
           <license/>
+          <optout>false</optout>
         </recording>
         <persons>
           <person id="0">Léa</person>
@@ -350,8 +421,8 @@
         <abstract/>
         <description/>
         <recording>
-          <optout>false</optout>
           <license/>
+          <optout>false</optout>
         </recording>
         <persons>
           <person id="0">Markus</person>
@@ -373,8 +444,8 @@
         <abstract/>
         <description/>
         <recording>
-          <optout>false</optout>
           <license/>
+          <optout>false</optout>
         </recording>
         <persons>
           <person id="0">Arne</person>
@@ -395,8 +466,8 @@
         <abstract/>
         <description/>
         <recording>
-          <optout>false</optout>
           <license/>
+          <optout>false</optout>
         </recording>
         <persons>
           <person id="0">Bernd</person>
@@ -418,8 +489,8 @@
         <abstract/>
         <description/>
         <recording>
-          <optout>false</optout>
           <license/>
+          <optout>false</optout>
         </recording>
         <persons>
           <person id="0">Léa</person>
@@ -440,8 +511,8 @@
         <abstract/>
         <description/>
         <recording>
-          <optout>false</optout>
           <license/>
+          <optout>false</optout>
         </recording>
         <persons>
           <person id="0">Lucas</person>
@@ -462,8 +533,8 @@
         <abstract/>
         <description/>
         <recording>
-          <optout>false</optout>
           <license/>
+          <optout>false</optout>
         </recording>
         <persons>
           <person id="0">Lucas</person>
@@ -484,17 +555,40 @@
         <abstract/>
         <description/>
         <recording>
-          <optout>false</optout>
           <license/>
+          <optout>false</optout>
         </recording>
         <persons>
           <person id="0">Daniel</person>
         </persons>
         <links/>
       </event>
+      <event id="1039" guid="8a9eb925-37b5-5483-9061-975474bb51e3">
+        <date>2017-12-29T21:00:00</date>
+        <start>21:00</start>
+        <duration>1:00</duration>
+        <room>Esszimmer</room>
+        <slug>34C3-jugend-hackt-1039-operation_mindfuck</slug>
+        <title>Operation Mindfuck</title>
+        <subtitle/>
+        <track/>
+        <type/>
+        <language>de</language>
+        <abstract/>
+        <description/>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+          <person id="0">Bine</person>
+          <person id="0">blinry</person>
+        </persons>
+        <links/>
+      </event>
     </room>
   </day>
-  <day index="4" date="2017-12-30" start="2017-12-30T10:00:00" end="2017-12-31T03:00:00">
+  <day index="3" date="2017-12-30" start="2017-12-30T10:00:00" end="2017-12-31T03:00:00">
     <room name="Esszimmer">
       <event id="1044" guid="106299f6-7d81-5343-9d55-7048cd51dcbf">
         <date>2017-12-30T14:00:00</date>
@@ -510,8 +604,8 @@
         <abstract/>
         <description/>
         <recording>
-          <optout>false</optout>
           <license/>
+          <optout>false</optout>
         </recording>
         <persons>
           <person id="0">Jens</person>

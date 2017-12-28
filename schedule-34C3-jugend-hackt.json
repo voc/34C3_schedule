@@ -1,6 +1,6 @@
 {
     "schedule": {
-        "version": "0.8",
+        "version": "1.2",
         "conference": {
             "title": "34C3 \u2013 Jugend hackt",
             "acronym": "34C3-jugend-hackt",
@@ -193,8 +193,36 @@
                                 "start": "12:00",
                                 "duration": "0:45",
                                 "room": "Esszimmer",
-                                "slug": "34C3-jugend-hackt-1020-calliope_workshops",
-                                "title": "Calliope Workshops",
+                                "slug": "34C3-jugend-hackt-1020-calliope_workshop",
+                                "title": "Calliope Workshop",
+                                "subtitle": "",
+                                "track": "",
+                                "type": "",
+                                "language": "de",
+                                "abstract": "",
+                                "description": "",
+                                "do_not_record": false,
+                                "persons": [
+                                    {
+                                        "id": 0,
+                                        "full_public_name": "derMicha"
+                                    },
+                                    {
+                                        "id": 0,
+                                        "full_public_name": "Steini"
+                                    }
+                                ],
+                                "links": []
+                            },
+                            {
+                                "id": "1028",
+                                "guid": "76e3a2b8-ca69-57cc-a04c-daf964d2f1b1",
+                                "date": "2017-12-28T13:00:00",
+                                "start": "13:00",
+                                "duration": "1:00",
+                                "room": "Esszimmer",
+                                "slug": "34C3-jugend-hackt-1028-calliope_workshop",
+                                "title": "Calliope Workshop",
                                 "subtitle": "",
                                 "track": "",
                                 "type": "",
@@ -342,6 +370,64 @@
                                     {
                                         "id": 0,
                                         "full_public_name": "John"
+                                    }
+                                ],
+                                "links": []
+                            }
+                        ],
+                        "Hive Conference (cbase)": [
+                            {
+                                "id": "1029",
+                                "guid": "04a1e968-4608-5365-bd16-5ff8c3b40b6b",
+                                "date": "2017-12-28T16:00:00",
+                                "start": "16:00",
+                                "duration": "1:00",
+                                "room": "Hive Conference (cbase)",
+                                "slug": "34C3-jugend-hackt-1029-calliope_workshop",
+                                "title": "Calliope Workshop",
+                                "subtitle": "",
+                                "track": "",
+                                "type": "",
+                                "language": "de",
+                                "abstract": "",
+                                "description": "",
+                                "do_not_record": false,
+                                "persons": [
+                                    {
+                                        "id": 0,
+                                        "full_public_name": "derMicha"
+                                    },
+                                    {
+                                        "id": 0,
+                                        "full_public_name": "Steini"
+                                    }
+                                ],
+                                "links": []
+                            },
+                            {
+                                "id": "1030",
+                                "guid": "c57123a8-8586-5ab9-8fdb-960f0e5078d2",
+                                "date": "2017-12-28T17:00:00",
+                                "start": "17:00",
+                                "duration": "1:00",
+                                "room": "Hive Conference (cbase)",
+                                "slug": "34C3-jugend-hackt-1030-calliope_workshop",
+                                "title": "Calliope Workshop",
+                                "subtitle": "",
+                                "track": "",
+                                "type": "",
+                                "language": "de",
+                                "abstract": "",
+                                "description": "",
+                                "do_not_record": false,
+                                "persons": [
+                                    {
+                                        "id": 0,
+                                        "full_public_name": "derMicha"
+                                    },
+                                    {
+                                        "id": 0,
+                                        "full_public_name": "Steini"
                                     }
                                 ],
                                 "links": []
@@ -578,6 +664,34 @@
                                     {
                                         "id": 0,
                                         "full_public_name": "Daniel"
+                                    }
+                                ],
+                                "links": []
+                            },
+                            {
+                                "id": "1039",
+                                "guid": "8a9eb925-37b5-5483-9061-975474bb51e3",
+                                "date": "2017-12-29T21:00:00",
+                                "start": "21:00",
+                                "duration": "1:00",
+                                "room": "Esszimmer",
+                                "slug": "34C3-jugend-hackt-1039-operation_mindfuck",
+                                "title": "Operation Mindfuck",
+                                "subtitle": "",
+                                "track": "",
+                                "type": "",
+                                "language": "de",
+                                "abstract": "",
+                                "description": "",
+                                "do_not_record": false,
+                                "persons": [
+                                    {
+                                        "id": 0,
+                                        "full_public_name": "Bine"
+                                    },
+                                    {
+                                        "id": 0,
+                                        "full_public_name": "blinry"
                                     }
                                 ],
                                 "links": []
