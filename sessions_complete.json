@@ -2056,52 +2056,6 @@
             "1514466000"
         ]
     }, 
-    "Session:Hackbases yearly meeting (coliving hackerspace projects)# c4533856f59bcc6a4054025e7f3381da": {
-        "Held in language": [
-            "en - English"
-        ], 
-        "Has start time": [
-            "1514499300"
-        ], 
-        "Has event track": [
-            "Session"
-        ], 
-        "Has website": [
-            "http://board.net/p/34c3-hackbases"
-        ], 
-        "Has description": [
-            "Hackbases are similar to hackerspaces, but people also live in them. The 4th yearly self-org session will present the existing ones, common lessons, and the tools to organize new ones. You should come if you're interested in different ways of living to: have a job + pay rent."
-        ], 
-        "Has session type": [
-            "Discussion"
-        ], 
-        "Has session location": [
-            {
-                "fulltext": "Room:Seminar room 14-15", 
-                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Room:Seminar_room_14-15", 
-                "namespace": 516, 
-                "exists": true
-            }
-        ], 
-        "Has subtitle": [], 
-        "Is organized by": [], 
-        "Has title": [
-            "Hackbases yearly meeting (coliving hackerspace projects)"
-        ], 
-        "Has duration": [
-            60
-        ], 
-        "GUID": [
-            "0779a162-bc21-4309-95de-071c32035b5c"
-        ], 
-        "Has color": [
-            "#0099ab"
-        ], 
-        "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:Hackbases_yearly_meeting_(coliving_hackerspace_projects)", 
-        "Has end time": [
-            "1514502900"
-        ]
-    }, 
     "Session:Child Growth Monitor# 8698ef9c0ab16f4cbda6bb9fdf132925": {
         "Held in language": [
             "de - German", 
@@ -2630,59 +2584,6 @@
         "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:Join_a_Task_Force_for_Civil_Coexistence,_Preventive_Justice_and_Liquid_Democracy", 
         "Has end time": [
             "1514655000"
-        ]
-    }, 
-    "Session:A-NOC: Tech-support for political events# 634073c3e33bcafdab2e39b331956896": {
-        "Held in language": [
-            "de - German", 
-            "en - English", 
-            "es - Spanish / Castilian"
-        ], 
-        "Has start time": [
-            "1514397600"
-        ], 
-        "Has event track": [
-            "Session"
-        ], 
-        "Has website": [], 
-        "Has description": [
-            "This meet-up is intended to bring people together and to check, how to form kind of a community, that connects and shares ideas, experiences and \nlessons-learned about bringing technical infrastructure to political activist and protest events."
-        ], 
-        "Has session type": [
-            "Meeting"
-        ], 
-        "Has session location": [
-            {
-                "fulltext": "Assembly:Anarchist", 
-                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Assembly:Anarchist", 
-                "namespace": 504, 
-                "exists": true
-            }
-        ], 
-        "Has subtitle": [], 
-        "Is organized by": [
-            {
-                "fulltext": "User:Revo", 
-                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/User:Revo", 
-                "namespace": 2, 
-                "exists": true
-            }
-        ], 
-        "Has title": [
-            "A-NOC: Tech-support for political events"
-        ], 
-        "Has duration": [
-            60
-        ], 
-        "GUID": [
-            "f8f53b2c-3eae-4f1c-9fec-188bd372ab70"
-        ], 
-        "Has color": [
-            "#0099ab"
-        ], 
-        "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:A-NOC:_Tech-support_for_political_events", 
-        "Has end time": [
-            "1514401200"
         ]
     }, 
     "Session:Namecoin for Tor Onion Service Naming (And Other Darknets?)# 26b1acef68b56a06ac7f0a21c002bbf5": {
@@ -5000,19 +4901,21 @@
             "1514480400"
         ]
     }, 
-    "Session:LearnToSolder# 7766fab88776d627083edf2937c733c9": {
+    "Session:Intro to Arduino Shield Soldering and Programing# 216dfe119e1e9d5f34f5441a7332f8ee": {
         "Held in language": [
             "en - English"
         ], 
         "Has start time": [
-            "1514545200"
+            "1514395800"
         ], 
         "Has event track": [
             "Session"
         ], 
-        "Has website": [], 
+        "Has website": [
+            "http://hammeshacks.com/intro/"
+        ], 
         "Has description": [
-            "Learn to Solder!  A large variety of way cool kits are available, all designed for total beginners to complete successfully -- and intriguing enough for the total hardware geek.<br />\n<br />\n<span style=\"color:orange\">'''''This ongoing workshop will be happening concurrently with lots of other way cool workshops at the Hardware Hacking Area!'''''</span>"
+            "The Intro to Arduino shield is a simple kit which plugs into an Arduino Uno or similar. It includes a button, light sensor (LDR) and red green blue LED. The LED can be controlled as a digitial or an analog output, the button is a digitial input and the sensor is an analog input."
         ], 
         "Has session type": [
             "Workshop"
@@ -5026,31 +4929,31 @@
             }
         ], 
         "Has subtitle": [
-            "Day 3"
+            "Day 1"
         ], 
         "Is organized by": [
             {
-                "fulltext": "User:Maltman23", 
-                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/User:Maltman23", 
+                "fulltext": "User:Hammes Hacks", 
+                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/User:Hammes_Hacks", 
                 "namespace": 2, 
                 "exists": true
             }
         ], 
         "Has title": [
-            "LearnToSolder"
+            "Intro to Arduino Shield Soldering and Programing"
         ], 
         "Has duration": [
-            779
+            150
         ], 
         "GUID": [
-            "950b4c24-8b9d-437b-bb2a-5c274e27221c"
+            "f5ebebb3-c53e-443e-82ee-080723b1f60e"
         ], 
         "Has color": [
             "#0099ab"
         ], 
-        "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:LearnToSolder", 
+        "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:Intro_to_Arduino_Shield_Soldering_and_Programing", 
         "Has end time": [
-            "1514591940"
+            "1514404800"
         ]
     }, 
     "Session:Initiate 34c3# 8ab81e64d32b3015a9dccfd6fdc36910": {
@@ -8345,61 +8248,6 @@
             "1514390400"
         ]
     }, 
-    "Session:Intro to Arduino Shield Soldering and Programing# 216dfe119e1e9d5f34f5441a7332f8ee": {
-        "Held in language": [
-            "en - English"
-        ], 
-        "Has start time": [
-            "1514395800"
-        ], 
-        "Has event track": [
-            "Session"
-        ], 
-        "Has website": [
-            "http://hammeshacks.com/intro/"
-        ], 
-        "Has description": [
-            "The Intro to Arduino shield is a simple kit which plugs into an Arduino Uno or similar. It includes a button, light sensor (LDR) and red green blue LED. The LED can be controlled as a digitial or an analog output, the button is a digitial input and the sensor is an analog input."
-        ], 
-        "Has session type": [
-            "Workshop"
-        ], 
-        "Has session location": [
-            {
-                "fulltext": "Assembly:HardwareHackingArea", 
-                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Assembly:HardwareHackingArea", 
-                "namespace": 504, 
-                "exists": true
-            }
-        ], 
-        "Has subtitle": [
-            "Day 1"
-        ], 
-        "Is organized by": [
-            {
-                "fulltext": "User:Hammes Hacks", 
-                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/User:Hammes_Hacks", 
-                "namespace": 2, 
-                "exists": true
-            }
-        ], 
-        "Has title": [
-            "Intro to Arduino Shield Soldering and Programing"
-        ], 
-        "Has duration": [
-            150
-        ], 
-        "GUID": [
-            "f5ebebb3-c53e-443e-82ee-080723b1f60e"
-        ], 
-        "Has color": [
-            "#0099ab"
-        ], 
-        "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:Intro_to_Arduino_Shield_Soldering_and_Programing", 
-        "Has end time": [
-            "1514404800"
-        ]
-    }, 
     "Session:TeaHouse# 0b017eecf65d3b03c95c2e945a79c9a2": {
         "Held in language": [
             "en - English"
@@ -8776,6 +8624,59 @@
         "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:34C3_CTF_Afterparty", 
         "Has end time": [
             "1514590200"
+        ]
+    }, 
+    "Session:LearnToSolder# 7766fab88776d627083edf2937c733c9": {
+        "Held in language": [
+            "en - English"
+        ], 
+        "Has start time": [
+            "1514545200"
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [], 
+        "Has description": [
+            "Learn to Solder!  A large variety of way cool kits are available, all designed for total beginners to complete successfully -- and intriguing enough for the total hardware geek.<br />\n<br />\n<span style=\"color:orange\">'''''This ongoing workshop will be happening concurrently with lots of other way cool workshops at the Hardware Hacking Area!'''''</span>"
+        ], 
+        "Has session type": [
+            "Workshop"
+        ], 
+        "Has session location": [
+            {
+                "fulltext": "Assembly:HardwareHackingArea", 
+                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Assembly:HardwareHackingArea", 
+                "namespace": 504, 
+                "exists": true
+            }
+        ], 
+        "Has subtitle": [
+            "Day 3"
+        ], 
+        "Is organized by": [
+            {
+                "fulltext": "User:Maltman23", 
+                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/User:Maltman23", 
+                "namespace": 2, 
+                "exists": true
+            }
+        ], 
+        "Has title": [
+            "LearnToSolder"
+        ], 
+        "Has duration": [
+            779
+        ], 
+        "GUID": [
+            "950b4c24-8b9d-437b-bb2a-5c274e27221c"
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:LearnToSolder", 
+        "Has end time": [
+            "1514591940"
         ]
     }, 
     "Session:How companies manage their security: Introduction into Information Security Management Systems# 669d2cd7fb5fe1e6c119c07a52676e74": {
@@ -15817,6 +15718,59 @@
             "1514578500"
         ]
     }, 
+    "Session:A-NOC: Handmade Shots# b180b2f99e85b6dfa211c4c19b35889b": {
+        "Held in language": [
+            "de - German", 
+            "en - English", 
+            "es - Spanish / Castilian"
+        ], 
+        "Has start time": [
+            "1514401200"
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [], 
+        "Has description": [
+            "Liquers for donation!"
+        ], 
+        "Has session type": [
+            "Meeting"
+        ], 
+        "Has session location": [
+            {
+                "fulltext": "Assembly:Anarchist", 
+                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Assembly:Anarchist", 
+                "namespace": 504, 
+                "exists": true
+            }
+        ], 
+        "Has subtitle": [], 
+        "Is organized by": [
+            {
+                "fulltext": "User:Revo", 
+                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/User:Revo", 
+                "namespace": 2, 
+                "exists": true
+            }
+        ], 
+        "Has title": [
+            "A-NOC: Handmade Shots"
+        ], 
+        "Has duration": [
+            180
+        ], 
+        "GUID": [
+            "0058232a-fc63-426e-87f5-35ec9796e40d"
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:A-NOC:_Handmade_Shots", 
+        "Has end time": [
+            "1514412000"
+        ]
+    }, 
     "Session:Sport f\u00fcr Nerds# 1ce624ea43e4878912362a38243d1a37": {
         "Held in language": [
             "de - German"
@@ -16377,6 +16331,52 @@
         "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:%E2%80%9CHow_To_Survice_34C3%E2%80%9D_CryptoParty", 
         "Has end time": [
             "1514653200"
+        ]
+    }, 
+    "Session:Hackbases yearly meeting (coliving hackerspace projects)# 145a209c108335b8913eaa6202569dd1": {
+        "Held in language": [
+            "en - English"
+        ], 
+        "Has start time": [
+            "1514584800"
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [
+            "http://board.net/p/34c3-hackbases"
+        ], 
+        "Has description": [
+            "Hackbases are similar to hackerspaces, but people also live in them. The 4th yearly self-org session will present the existing ones, common lessons, and the tools to organize new ones. You should come if you're interested in different ways of living to: have a job + pay rent."
+        ], 
+        "Has session type": [
+            "Discussion"
+        ], 
+        "Has session location": [
+            {
+                "fulltext": "Room:CCL Hall 3", 
+                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Room:CCL_Hall_3", 
+                "namespace": 516, 
+                "exists": true
+            }
+        ], 
+        "Has subtitle": [], 
+        "Is organized by": [], 
+        "Has title": [
+            "Hackbases yearly meeting (coliving hackerspace projects)"
+        ], 
+        "Has duration": [
+            60
+        ], 
+        "GUID": [
+            "0779a162-bc21-4309-95de-071c32035b5c"
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:Hackbases_yearly_meeting_(coliving_hackerspace_projects)", 
+        "Has end time": [
+            "1514588400"
         ]
     }, 
     "Session:BBS SysOP/User meetup# 37220e0e02ce0612189b22de8d70eb72": {
@@ -19289,6 +19289,59 @@
             "1514383200"
         ]
     }, 
+    "Session:A-NOC: Tech-support for political events# 8c279c93d1915e7c8d2bbbc2e9090104": {
+        "Held in language": [
+            "de - German", 
+            "en - English", 
+            "es - Spanish / Castilian"
+        ], 
+        "Has start time": [
+            "1514570400"
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [], 
+        "Has description": [
+            "This meet-up is intended to bring people together and to check, how to form kind of a community, that connects and shares ideas, experiences and \nlessons-learned about bringing technical infrastructure to political activist and protest events."
+        ], 
+        "Has session type": [
+            "Meeting"
+        ], 
+        "Has session location": [
+            {
+                "fulltext": "Assembly:Anarchist", 
+                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Assembly:Anarchist", 
+                "namespace": 504, 
+                "exists": true
+            }
+        ], 
+        "Has subtitle": [], 
+        "Is organized by": [
+            {
+                "fulltext": "User:Revo", 
+                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/User:Revo", 
+                "namespace": 2, 
+                "exists": true
+            }
+        ], 
+        "Has title": [
+            "A-NOC: Tech-support for political events"
+        ], 
+        "Has duration": [
+            60
+        ], 
+        "GUID": [
+            "f8f53b2c-3eae-4f1c-9fec-188bd372ab70"
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:A-NOC:_Tech-support_for_political_events", 
+        "Has end time": [
+            "1514574000"
+        ]
+    }, 
     "Session:Newpipe# 62971ab249abe3940f641223c29ed0ef": {
         "Held in language": [
             "en - English"
@@ -20663,6 +20716,57 @@
         "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:DLF", 
         "Has end time": [
             "1514375100"
+        ]
+    }, 
+    "Session:Einf\u00fchrung in Blockchain# 86fb9888d2505fed1f54fc3e43b1b5b5": {
+        "Held in language": [
+            "de - German"
+        ], 
+        "Has start time": [
+            "1514633400"
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [], 
+        "Has description": [
+            "Interaktiver Workshop (HandsOn) zur Unterscheidung von Kryotow\u00e4hrungen, von Beginnern f\u00fcr Beginner.\nFolgende Themen m\u00f6chten wir behandeln: Entwicklung, Fork/Vertrauen und Unterscheidungskriterien"
+        ], 
+        "Has session type": [
+            "Discussion"
+        ], 
+        "Has session location": [
+            {
+                "fulltext": "Room:Lecture room 12", 
+                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Room:Lecture_room_12", 
+                "namespace": 516, 
+                "exists": true
+            }
+        ], 
+        "Has subtitle": [], 
+        "Is organized by": [
+            {
+                "fulltext": "User:Mellon", 
+                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/User:Mellon", 
+                "namespace": 2, 
+                "exists": true
+            }
+        ], 
+        "Has title": [
+            "Einf\u00fchrung in Blockchain"
+        ], 
+        "Has duration": [
+            60
+        ], 
+        "GUID": [
+            "d9ed81fc-f626-474a-b318-f91a78bc71b0"
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:Einf%C3%BChrung_in_Blockchain", 
+        "Has end time": [
+            "1514637000"
         ]
     }, 
     "Session:Tuwat! gegen Fake News# deb6ebcd1de72c3b2faae1da66511a9a": {
