@@ -12722,44 +12722,6 @@
             "1514577600"
         ]
     }, 
-    "Session:Arduino-Workshop# 2fe464e476f593f5b59dc80a7f9085eb": {
-        "Held in language": [], 
-        "Has start time": [
-            "1514566800"
-        ], 
-        "Has event track": [
-            "Session"
-        ], 
-        "Has website": [], 
-        "Has description": [
-            "Arduino-Workshop for Beginners and for sharing your more advanced project"
-        ], 
-        "Has session type": [], 
-        "Has session location": [
-            {
-                "fulltext": "Room:Lecture room 12", 
-                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Room:Lecture_room_12", 
-                "namespace": 516, 
-                "exists": true
-            }
-        ], 
-        "Has subtitle": [], 
-        "Is organized by": [], 
-        "Has title": [
-            "Arduino-Workshop"
-        ], 
-        "Has duration": [
-            60
-        ], 
-        "GUID": [], 
-        "Has color": [
-            "#0099ab"
-        ], 
-        "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:Arduino-Workshop", 
-        "Has end time": [
-            "1514570400"
-        ]
-    }, 
     "Session:How does artificial intelligence accomplish the feat of learning? (Wondrous Mathematics)# 92d5dba90bd489895fba597a036bfb18": {
         "Held in language": [
             "en - English"
@@ -13045,6 +13007,57 @@
         "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:Rights%26Freedoms", 
         "Has end time": [
             "1514574000"
+        ]
+    }, 
+    "Session:Speed Nomic# a0b2d0d52754e81e75c39780f92f4667": {
+        "Held in language": [
+            "en - English"
+        ], 
+        "Has start time": [
+            "1514474100"
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [], 
+        "Has description": [
+            "We want to play a quick and fun game of Nomic. Nomic is a game where all the rules of the game can be changed by the players."
+        ], 
+        "Has session type": [
+            "Game"
+        ], 
+        "Has session location": [
+            {
+                "fulltext": "Assembly:Stratum 0", 
+                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Assembly:Stratum_0", 
+                "namespace": 504, 
+                "exists": true
+            }
+        ], 
+        "Has subtitle": [], 
+        "Is organized by": [
+            {
+                "fulltext": "User:MentalShirt", 
+                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/User:MentalShirt", 
+                "namespace": 2, 
+                "exists": true
+            }
+        ], 
+        "Has title": [
+            "Speed Nomic"
+        ], 
+        "Has duration": [
+            90
+        ], 
+        "GUID": [
+            "02e3087d-1697-4b1a-9c52-b10a3f749a89"
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:Speed_Nomic", 
+        "Has end time": [
+            "1514479500"
         ]
     }, 
     "Session:Meetup: hack your library# f4c0fe902795644053680290416a22b9": {
@@ -14057,50 +14070,6 @@
         "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:Intro_to_Arduino_Shield_Soldering_and_Programing", 
         "Has end time": [
             "1514577600"
-        ]
-    }, 
-    "Session:Speed Nomic# 7910cc35f8dc8d15379c521b1a81ef5c": {
-        "Held in language": [
-            "en - English"
-        ], 
-        "Has start time": [
-            "1514474100"
-        ], 
-        "Has event track": [
-            "Session"
-        ], 
-        "Has website": [], 
-        "Has description": [
-            "We want to play a quick and fun game of Nomic. Nomic is a game where all the rules of the game can be changed by the players."
-        ], 
-        "Has session type": [
-            "Game"
-        ], 
-        "Has session location": [], 
-        "Has subtitle": [], 
-        "Is organized by": [
-            {
-                "fulltext": "User:MentalShirt", 
-                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/User:MentalShirt", 
-                "namespace": 2, 
-                "exists": true
-            }
-        ], 
-        "Has title": [
-            "Speed Nomic"
-        ], 
-        "Has duration": [
-            90
-        ], 
-        "GUID": [
-            "02e3087d-1697-4b1a-9c52-b10a3f749a89"
-        ], 
-        "Has color": [
-            "#0099ab"
-        ], 
-        "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:Speed_Nomic", 
-        "Has end time": [
-            "1514479500"
         ]
     }, 
     "Session:Feedback! Marshall McLuhan and the Congress# 979f4a14fdc6441776d85aa9be87f6a7": {
