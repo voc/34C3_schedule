@@ -334,57 +334,6 @@
             "1514511000"
         ]
     }, 
-    "Session:Flashing (Fair-)phones with Custom Roms, F-Droid etc.# f97901b4e57fa8a9122ed599df784a34": {
-        "Held in language": [
-            "en - English"
-        ], 
-        "Has start time": [
-            "1514494800"
-        ], 
-        "Has event track": [
-            "Session"
-        ], 
-        "Has website": [], 
-        "Has description": [
-            "A session about ethics and technics on mobile phones, about flashing, modifying and taking back control by using Free Software.\n\nWe like to exchange latest knowledge about freedom on mobile devices and have 4 Fairphones 2 to hack and dissamble. Also bring your own device to showcase."
-        ], 
-        "Has session type": [
-            "Hands-On"
-        ], 
-        "Has session location": [
-            {
-                "fulltext": "Room:CCL Hall 3", 
-                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Room:CCL_Hall_3", 
-                "namespace": 516, 
-                "exists": true
-            }
-        ], 
-        "Has subtitle": [], 
-        "Is organized by": [
-            {
-                "fulltext": "User:Eal", 
-                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/User:Eal", 
-                "namespace": 2, 
-                "exists": true
-            }
-        ], 
-        "Has title": [
-            "Flashing (Fair-)phones with Custom Roms, F-Droid etc."
-        ], 
-        "Has duration": [
-            105
-        ], 
-        "GUID": [
-            "3fb92ba5-8a34-4596-94c7-7961c73d06e9"
-        ], 
-        "Has color": [
-            "#0099ab"
-        ], 
-        "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:Flashing_(Fair-)phones_with_Custom_Roms,_F-Droid_etc.", 
-        "Has end time": [
-            "1514501100"
-        ]
-    }, 
     "Session:Scalable and privacy-respectful distributed systems# 36b006e5cda02bb13640c0a9bb6d8063": {
         "Held in language": [
             "en - English"
@@ -4929,6 +4878,52 @@
             "1514399400"
         ]
     }, 
+    "Session:Smart Contract Hacking# 15cdab80cf785dd64c0b1e92aed36792": {
+        "Held in language": [
+            "en - English"
+        ], 
+        "Has start time": [
+            "1514476800"
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [
+            "https://ethernaut-devcon3.zeppelin.solutions/"
+        ], 
+        "Has description": [
+            "Exploit Smart Contracts on the Ethereum Blockchain. Capture the flag. Bring your Laptop."
+        ], 
+        "Has session type": [
+            "Hands-On"
+        ], 
+        "Has session location": [
+            {
+                "fulltext": "Assembly:Bitcoin", 
+                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Assembly:Bitcoin", 
+                "namespace": 504, 
+                "exists": true
+            }
+        ], 
+        "Has subtitle": [], 
+        "Is organized by": [], 
+        "Has title": [
+            "Smart Contract Hacking"
+        ], 
+        "Has duration": [
+            60
+        ], 
+        "GUID": [
+            "5d431bfa-4c6b-441b-849f-fe9778956fdb"
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:Smart_Contract_Hacking", 
+        "Has end time": [
+            "1514480400"
+        ]
+    }, 
     "Session:LearnToSolder# 7766fab88776d627083edf2937c733c9": {
         "Held in language": [
             "en - English"
@@ -5743,6 +5738,39 @@
             "1514476800"
         ]
     }, 
+    "Session:Elektrogruselkabinett# ec57a96d28f0d289f8d85e2bea92f740": {
+        "Held in language": [
+            "de - German"
+        ], 
+        "Has start time": [], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [], 
+        "Has description": [
+            "Fotosesseion \u00fcber falsch gemachte Elektroinstallationen (Gruselkabinett)"
+        ], 
+        "Has session type": [
+            "Talk"
+        ], 
+        "Has session location": [], 
+        "Has subtitle": [
+            "Elekroinstallation done wrong"
+        ], 
+        "Is organized by": [], 
+        "Has title": [
+            "Elektrogruselkabinett"
+        ], 
+        "Has duration": [], 
+        "GUID": [
+            "2ba1869d-80bf-464d-ad84-360c60517730"
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:Elektrogruselkabinett", 
+        "Has end time": []
+    }, 
     "Session:Sticker meet up# b376af90c0928260c3a85b18cd23c1b7": {
         "Held in language": [
             "de - German", 
@@ -6479,51 +6507,6 @@
             "1514568600"
         ]
     }, 
-    "Session:VR-Workshop# 757687d39294fa2bd7fd77dd7ae48e8c": {
-        "Held in language": [
-            "de - German", 
-            "en - English"
-        ], 
-        "Has start time": [
-            "1514386800"
-        ], 
-        "Has event track": [
-            "Session"
-        ], 
-        "Has website": [], 
-        "Has description": [
-            "Introduction into Mozilla A-Frame at the VR-Assembly"
-        ], 
-        "Has session type": [], 
-        "Has session location": [
-            {
-                "fulltext": "Assembly:VR", 
-                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Assembly:VR", 
-                "namespace": 504, 
-                "exists": true
-            }
-        ], 
-        "Has subtitle": [
-            "A-Frame Workshop"
-        ], 
-        "Is organized by": [], 
-        "Has title": [
-            "VR-Workshop"
-        ], 
-        "Has duration": [
-            180
-        ], 
-        "GUID": [
-            "41c17d4f-aebf-40a2-9702-73ef58f4d78c"
-        ], 
-        "Has color": [
-            "#0099ab"
-        ], 
-        "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:VR-Workshop", 
-        "Has end time": [
-            "1514397600"
-        ]
-    }, 
     "Session:NerfgunBattle# 50fd78bf87236ca5a673c341182a0b39": {
         "Held in language": [
             "en - English"
@@ -6842,52 +6825,6 @@
         "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:Rights%26Freedoms", 
         "Has end time": [
             "1514412000"
-        ]
-    }, 
-    "Session:Smart Contract Hacking# b494852ff8ede6bc5e66d2ef617f8c0d": {
-        "Held in language": [
-            "en - English"
-        ], 
-        "Has start time": [
-            "1514473200"
-        ], 
-        "Has event track": [
-            "Session"
-        ], 
-        "Has website": [
-            "https://ethernaut-devcon3.zeppelin.solutions/"
-        ], 
-        "Has description": [
-            "Exploit Smart Contracts on the Ethereum Blockchain. Capture the flag. Bring your Laptop."
-        ], 
-        "Has session type": [
-            "Hands-On"
-        ], 
-        "Has session location": [
-            {
-                "fulltext": "Assembly:Bitcoin", 
-                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Assembly:Bitcoin", 
-                "namespace": 504, 
-                "exists": true
-            }
-        ], 
-        "Has subtitle": [], 
-        "Is organized by": [], 
-        "Has title": [
-            "Smart Contract Hacking"
-        ], 
-        "Has duration": [
-            60
-        ], 
-        "GUID": [
-            "5d431bfa-4c6b-441b-849f-fe9778956fdb"
-        ], 
-        "Has color": [
-            "#0099ab"
-        ], 
-        "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:Smart_Contract_Hacking", 
-        "Has end time": [
-            "1514476800"
         ]
     }, 
     "Session:Endstation Meetup# aa3119d5061f7396ff894e0872219d20": {
@@ -12095,14 +12032,7 @@
         ], 
         "Has session location": [], 
         "Has subtitle": [], 
-        "Is organized by": [
-            {
-                "fulltext": "User:P", 
-                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/User:P", 
-                "namespace": 2, 
-                "exists": false
-            }
-        ], 
+        "Is organized by": [], 
         "Has title": [
             "Hear What You Like to Hear"
         ], 
@@ -12412,6 +12342,51 @@
             "#0099ab"
         ], 
         "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:Hedonist_International_Networking_Meeting%2BWorkshop_for_2018s_Congress_Convoy", 
+        "Has end time": [
+            "1514484000"
+        ]
+    }, 
+    "Session:VR-Workshop# 3c521ef65ce8738b0f20237a5ea6f256": {
+        "Held in language": [
+            "de - German", 
+            "en - English"
+        ], 
+        "Has start time": [
+            "1514473200"
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [], 
+        "Has description": [
+            "Introduction into Mozilla A-Frame at the VR-Assembly"
+        ], 
+        "Has session type": [], 
+        "Has session location": [
+            {
+                "fulltext": "Assembly:VR", 
+                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Assembly:VR", 
+                "namespace": 504, 
+                "exists": true
+            }
+        ], 
+        "Has subtitle": [
+            "A-Frame Workshop"
+        ], 
+        "Is organized by": [], 
+        "Has title": [
+            "VR-Workshop"
+        ], 
+        "Has duration": [
+            180
+        ], 
+        "GUID": [
+            "41c17d4f-aebf-40a2-9702-73ef58f4d78c"
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:VR-Workshop", 
         "Has end time": [
             "1514484000"
         ]
