@@ -5015,6 +5015,59 @@
             "1514637000"
         ]
     }, 
+    "Session:Gentoo e.V. Mitgliederversammlung# cbfd64853201eb7bd9d4557e78b707ed": {
+        "Held in language": [
+            "de - German"
+        ], 
+        "Has start time": [
+            "1514552400"
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [
+            "https://gentoo-ev.org/"
+        ], 
+        "Has description": [
+            "(German) Mitgliederversammlung des F\u00f6rdervereins Gentoo e.V."
+        ], 
+        "Has session type": [
+            "Meeting"
+        ], 
+        "Has session location": [
+            {
+                "fulltext": "Room:Seminar room 13", 
+                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Room:Seminar_room_13", 
+                "namespace": 516, 
+                "exists": true
+            }
+        ], 
+        "Has subtitle": [], 
+        "Is organized by": [
+            {
+                "fulltext": "User:Sping", 
+                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/User:Sping", 
+                "namespace": 2, 
+                "exists": true
+            }
+        ], 
+        "Has title": [
+            "Gentoo e.V. Mitgliederversammlung"
+        ], 
+        "Has duration": [
+            60
+        ], 
+        "GUID": [
+            "83fcbf78-e721-4570-ab1b-678cb03edf73"
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:Gentoo_e.V._Mitgliederversammlung", 
+        "Has end time": [
+            "1514556000"
+        ]
+    }, 
     "Session:Translation Team# 55e697d93308ec396f31c600434adf62": {
         "Held in language": [
             "en - English"
@@ -11890,57 +11943,51 @@
             "1514476800"
         ]
     }, 
-    "Session:Gentoo e.V. Mitgliederversammlung# cbfd64853201eb7bd9d4557e78b707ed": {
+    "Session:Dat, Beaker browser and decentralized web# 81fb12ee2b607213b5e8622c3b62ae6d": {
         "Held in language": [
-            "de - German"
+            "en - English"
         ], 
         "Has start time": [
-            "1514552400"
+            "1514577600"
         ], 
         "Has event track": [
             "Session"
         ], 
         "Has website": [
-            "https://gentoo-ev.org/"
+            "https://datproject.org", 
+            "https://beakerbrowser.com/"
         ], 
         "Has description": [
-            "(German) Mitgliederversammlung des F\u00f6rdervereins Gentoo e.V."
+            "Informal exchange for anyone interested in Dat project, Beaker browser and the decentralized web in general. We can get you started with hosting you own website via Dat and beaker browser and talks about all things related to the Dat ecosystem and the wider decentralized web."
         ], 
         "Has session type": [
             "Meeting"
         ], 
         "Has session location": [
             {
-                "fulltext": "Room:Seminar room 13", 
-                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Room:Seminar_room_13", 
+                "fulltext": "Room:Komona Coral Reef", 
+                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Room:Komona_Coral_Reef", 
                 "namespace": 516, 
                 "exists": true
             }
         ], 
         "Has subtitle": [], 
-        "Is organized by": [
-            {
-                "fulltext": "User:Sping", 
-                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/User:Sping", 
-                "namespace": 2, 
-                "exists": true
-            }
-        ], 
+        "Is organized by": [], 
         "Has title": [
-            "Gentoo e.V. Mitgliederversammlung"
+            "Dat, Beaker browser and decentralized web"
         ], 
         "Has duration": [
             60
         ], 
         "GUID": [
-            "83fcbf78-e721-4570-ab1b-678cb03edf73"
+            "2c195958-3cb3-436d-a665-095def085a07"
         ], 
         "Has color": [
             "#0099ab"
         ], 
-        "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:Gentoo_e.V._Mitgliederversammlung", 
+        "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:Dat,_Beaker_browser_and_decentralized_web", 
         "Has end time": [
-            "1514556000"
+            "1514581200"
         ]
     }, 
     "Session:Angel Meeting# 0b79bad7a661afbdc25c73a0d7835d4d": {
