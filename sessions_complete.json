@@ -452,48 +452,48 @@
             "1514414700"
         ]
     }, 
-    "Session:Usertesting TALEnet# edd7937f9237678afcc9eec3ba7d8fdb": {
+    "Session:Ethereum's WHG Tells All: The DAO Hack, Parity Hack and Giveth# 5c8056e30eb4596398d54c4e896bb2f4": {
         "Held in language": [
             "en - English"
         ], 
         "Has start time": [
-            "1514397600"
+            "1514646000"
         ], 
         "Has event track": [
             "Session"
         ], 
         "Has website": [], 
         "Has description": [
-            "Usertesting TALEnet (kathia)"
+            "Jordi Baylina & Griff Green tell the story of The DAO Hack, Giveth & Parity Hacks from the perspective of the WHG, Followed by Q&A"
         ], 
         "Has session type": [
-            "Workshop"
+            "Talk"
         ], 
         "Has session location": [
             {
-                "fulltext": "Room:Komona Blue Princess", 
-                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Room:Komona_Blue_Princess", 
-                "namespace": 516, 
+                "fulltext": "Assembly:Chaos West", 
+                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Assembly:Chaos_West", 
+                "namespace": 504, 
                 "exists": true
             }
         ], 
         "Has subtitle": [], 
         "Is organized by": [], 
         "Has title": [
-            "Usertesting TALEnet"
+            "Ethereum's WHG Tells All: The DAO Hack, Parity Hack and Giveth"
         ], 
         "Has duration": [
-            120
+            45
         ], 
         "GUID": [
-            "dd529f5f-4f94-4fda-a4dc-abe0a2f9f68a"
+            "8531dcea-d249-4504-b2f6-b85ebd3f6101"
         ], 
         "Has color": [
             "#0099ab"
         ], 
-        "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:Usertesting_TALEnet", 
+        "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:Ethereum%27s_WHG_Tells_All:_The_DAO_Hack,_Parity_Hack_and_Giveth", 
         "Has end time": [
-            "1514404800"
+            "1514648700"
         ]
     }, 
     "Session:Digitales Graffiti auf Facebook# 55ba01a3dbf974377c7b9d0394a6a228": {
@@ -7269,6 +7269,50 @@
             "1514484000"
         ]
     }, 
+    "Session:Usertesting TALEnet# edd7937f9237678afcc9eec3ba7d8fdb": {
+        "Held in language": [
+            "en - English"
+        ], 
+        "Has start time": [
+            "1514397600"
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [], 
+        "Has description": [
+            "Usertesting TALEnet (kathia)"
+        ], 
+        "Has session type": [
+            "Workshop"
+        ], 
+        "Has session location": [
+            {
+                "fulltext": "Room:Komona Blue Princess", 
+                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Room:Komona_Blue_Princess", 
+                "namespace": 516, 
+                "exists": true
+            }
+        ], 
+        "Has subtitle": [], 
+        "Is organized by": [], 
+        "Has title": [
+            "Usertesting TALEnet"
+        ], 
+        "Has duration": [
+            120
+        ], 
+        "GUID": [
+            "dd529f5f-4f94-4fda-a4dc-abe0a2f9f68a"
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:Usertesting_TALEnet", 
+        "Has end time": [
+            "1514404800"
+        ]
+    }, 
     "Session:Flashing (Fair-)phones with Custom Roms, F-Droid etc.# 4419b3a3fdcde17d90a8810e4939f462": {
         "Held in language": [
             "en - English"
@@ -7453,7 +7497,14 @@
             }
         ], 
         "Has subtitle": [], 
-        "Is organized by": [], 
+        "Is organized by": [
+            {
+                "fulltext": "User:Yangwao", 
+                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/User:Yangwao", 
+                "namespace": 2, 
+                "exists": true
+            }
+        ], 
         "Has title": [
             "Scuttlebutt introduction"
         ], 
