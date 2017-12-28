@@ -279,42 +279,55 @@
             "1514511000"
         ]
     }, 
-    "Session:Whisky# 2ad663eff9687e07f176548adda735f3": {
+    "Session:Flashing (Fair-)phones with Custom Roms, F-Droid etc.# f97901b4e57fa8a9122ed599df784a34": {
         "Held in language": [
-            "de - German", 
             "en - English"
         ], 
         "Has start time": [
-            "1514584800"
+            "1514494800"
         ], 
         "Has event track": [
             "Session"
         ], 
         "Has website": [], 
         "Has description": [
-            "This is the seventh incarnation of the popular whisky evening. It's fairly simple: If you enjoy good whisky with nice people, or are planing to do so, join us. We'll have the virtual chimney fire going."
+            "A session about ethics and technics on mobile phones, about flashing, modifying and taking back control by using Free Software.\n\nWe like to exchange latest knowledge about freedom on mobile devices and have 4 Fairphones 2 to hack and dissamble. Also bring your own device to showcase."
         ], 
         "Has session type": [
             "Hands-On"
         ], 
-        "Has session location": [], 
+        "Has session location": [
+            {
+                "fulltext": "Room:CCL Hall 3", 
+                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Room:CCL_Hall_3", 
+                "namespace": 516, 
+                "exists": true
+            }
+        ], 
         "Has subtitle": [], 
-        "Is organized by": [], 
+        "Is organized by": [
+            {
+                "fulltext": "User:Eal", 
+                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/User:Eal", 
+                "namespace": 2, 
+                "exists": true
+            }
+        ], 
         "Has title": [
-            "Whisky"
+            "Flashing (Fair-)phones with Custom Roms, F-Droid etc."
         ], 
         "Has duration": [
-            90
+            105
         ], 
         "GUID": [
-            "6b45706e-8625-4aa8-8a47-5ba016f04c87"
+            "3fb92ba5-8a34-4596-94c7-7961c73d06e9"
         ], 
         "Has color": [
             "#0099ab"
         ], 
-        "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:Whisky", 
+        "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:Flashing_(Fair-)phones_with_Custom_Roms,_F-Droid_etc.", 
         "Has end time": [
-            "1514590200"
+            "1514501100"
         ]
     }, 
     "Session:Scalable and privacy-respectful distributed systems# 36b006e5cda02bb13640c0a9bb6d8063": {
@@ -4961,57 +4974,6 @@
             "1514478600"
         ]
     }, 
-    "Session:Flashing (Fair-)phones with Custom Roms, F-Droid etc.# 2b3e9ff1600494fdd2b6b7eec0e96a9d": {
-        "Held in language": [
-            "en - English"
-        ], 
-        "Has start time": [
-            "1514493900"
-        ], 
-        "Has event track": [
-            "Session"
-        ], 
-        "Has website": [], 
-        "Has description": [
-            "A session about ethics and technics on mobile phones, about flashing, modifying and taking back control by using Free Software.\n\nWe like to exchange latest knowledge about freedom on mobile devices and have 4 Fairphones 2 to hack and dissamble. Also bring your own device to showcase."
-        ], 
-        "Has session type": [
-            "Hands-On"
-        ], 
-        "Has session location": [
-            {
-                "fulltext": "Room:Esszimmer", 
-                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Room:Esszimmer", 
-                "namespace": 516, 
-                "exists": true
-            }
-        ], 
-        "Has subtitle": [], 
-        "Is organized by": [
-            {
-                "fulltext": "User:Eal", 
-                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/User:Eal", 
-                "namespace": 2, 
-                "exists": true
-            }
-        ], 
-        "Has title": [
-            "Flashing (Fair-)phones with Custom Roms, F-Droid etc."
-        ], 
-        "Has duration": [
-            105
-        ], 
-        "GUID": [
-            "3fb92ba5-8a34-4596-94c7-7961c73d06e9"
-        ], 
-        "Has color": [
-            "#0099ab"
-        ], 
-        "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:Flashing_(Fair-)phones_with_Custom_Roms,_F-Droid_etc.", 
-        "Has end time": [
-            "1514500200"
-        ]
-    }, 
     "Session:Social Networking, powered by FreeSoftware# 3a7b94553b175a14b4972bc46cc19662": {
         "Held in language": [
             "en - English"
@@ -5433,52 +5395,6 @@
         "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:Schleuder", 
         "Has end time": [
             "1514469600"
-        ]
-    }, 
-    "Session:Throwies# e27ebec0de39dbae7585138a3b649bff": {
-        "Held in language": [
-            "de - German"
-        ], 
-        "Has start time": [
-            "1514376000"
-        ], 
-        "Has event track": [
-            "Session"
-        ], 
-        "Has website": [], 
-        "Has description": [
-            "Ein Throwie ist eine LED, die durch eine Knopfzellenbatterie zum Leuchten gebracht wird und an die man einen Magneten klebt."
-        ], 
-        "Has session type": [
-            "Hands-On"
-        ], 
-        "Has session location": [
-            {
-                "fulltext": "Room:Kidspace", 
-                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Room:Kidspace", 
-                "namespace": 516, 
-                "exists": true
-            }
-        ], 
-        "Has subtitle": [
-            "Throwies Basteln"
-        ], 
-        "Is organized by": [], 
-        "Has title": [
-            "Throwies"
-        ], 
-        "Has duration": [
-            360
-        ], 
-        "GUID": [
-            "970319ef-2202-480f-ab77-12ebd1a901c2"
-        ], 
-        "Has color": [
-            "#0099ab"
-        ], 
-        "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:Throwies", 
-        "Has end time": [
-            "1514397600"
         ]
     }, 
     "Session:Alle Menschen sind gleich, aber manche sind gleicher.# 64e2d5ce5b1c1a5e67d7374f1ab8f690": {
@@ -12567,6 +12483,52 @@
         "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:RettedeinenNahverkehr", 
         "Has end time": [
             "1514400300"
+        ]
+    }, 
+    "Session:Throwies# f8fd32e46ea3b96e99e9cc3611d91c70": {
+        "Held in language": [
+            "de - German"
+        ], 
+        "Has start time": [
+            "1514473200"
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [], 
+        "Has description": [
+            "Ein Throwie ist eine LED, die durch eine Knopfzellenbatterie zum Leuchten gebracht wird und an die man einen Magneten klebt."
+        ], 
+        "Has session type": [
+            "Hands-On"
+        ], 
+        "Has session location": [
+            {
+                "fulltext": "Room:Kidspace", 
+                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Room:Kidspace", 
+                "namespace": 516, 
+                "exists": true
+            }
+        ], 
+        "Has subtitle": [
+            "Throwies Basteln"
+        ], 
+        "Is organized by": [], 
+        "Has title": [
+            "Throwies"
+        ], 
+        "Has duration": [
+            120
+        ], 
+        "GUID": [
+            "970319ef-2202-480f-ab77-12ebd1a901c2"
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:Throwies", 
+        "Has end time": [
+            "1514480400"
         ]
     }, 
     "Session:Subtitles-Engelmeeting# 74d29b7a0698e108386090c4188f5011": {
