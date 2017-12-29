@@ -14990,41 +14990,6 @@
             "1514480400"
         ]
     }, 
-    "Session:Saunaclash - meetup for all Saunamakers and Mobile-Sauna-Fans# 9f4f4a6c6d3889232a0addb695aada2a": {
-        "Held in language": [
-            "en - English"
-        ], 
-        "Has start time": [
-            "1514651400"
-        ], 
-        "Has event track": [
-            "Session"
-        ], 
-        "Has website": [], 
-        "Has description": [
-            "We have build up an geodesic dome sauna in Berlin and organized already some mobile-sauna-events (Hedonistic Worldcongress, Saunaclash, Gardenfest in our Backyard) We want get connect to more Saunaenthusiasts and other Saunamakers and talk about past events and plan future events. We are open for all people who are interested and want to know how to build up a Sauna"
-        ], 
-        "Has session type": [], 
-        "Has session location": [], 
-        "Has subtitle": [], 
-        "Is organized by": [], 
-        "Has title": [
-            "Saunaclash - meetup for all Saunamakers and Mobile-Sauna-Fans"
-        ], 
-        "Has duration": [
-            60
-        ], 
-        "GUID": [
-            "3fd77d87-5e5c-4193-a44e-8fe5200b3d1c"
-        ], 
-        "Has color": [
-            "#0099ab"
-        ], 
-        "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:Saunaclash_-_meetup_for_all_Saunamakers_and_Mobile-Sauna-Fans", 
-        "Has end time": [
-            "1514655000"
-        ]
-    }, 
     "Session:Bitmask/LEAP workshop# e2df524a90bdfc10594f96e0b013a7e2": {
         "Held in language": [
             "en - English"
@@ -15999,6 +15964,52 @@
         "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:Organising_a_CryptoParty,_reports_and_experiences_from_the_field", 
         "Has end time": [
             "1514584800"
+        ]
+    }, 
+    "Session:Translation Team# a41561c278c52a12c5b6d9da37c98994": {
+        "Held in language": [
+            "en - English"
+        ], 
+        "Has start time": [
+            "1514641500"
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [], 
+        "Has description": [
+            "Daily orga meeting of the Translation Angel crew."
+        ], 
+        "Has session type": [
+            "Meeting"
+        ], 
+        "Has session location": [
+            {
+                "fulltext": "Room:Seminar room 13", 
+                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Room:Seminar_room_13", 
+                "namespace": 516, 
+                "exists": true
+            }
+        ], 
+        "Has subtitle": [
+            "Translation Team Wrapup"
+        ], 
+        "Is organized by": [], 
+        "Has title": [
+            "Translation Team"
+        ], 
+        "Has duration": [
+            45
+        ], 
+        "GUID": [
+            "a7828620-98db-4aff-8d42-3f8e0f464b9e"
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:Translation_Team", 
+        "Has end time": [
+            "1514644200"
         ]
     }, 
     "Session:Klangteppich# dc02cc5e64bee40965c128546b6767ae": {
@@ -22157,6 +22168,48 @@
         "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:%22Pen%26Paper%22_Game_Jam", 
         "Has end time": [
             "1514566800"
+        ]
+    }, 
+    "Session:Saunaclash - meetup for all Saunamakers and Mobile-Sauna-Fans# 6ca3bd88b002bf678164272c9337d768": {
+        "Held in language": [
+            "en - English"
+        ], 
+        "Has start time": [
+            "1514651400"
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [], 
+        "Has description": [
+            "We have build up an geodesic dome sauna in Berlin and organized already some mobile-sauna-events (Hedonistic Worldcongress, Saunaclash, Gardenfest in our Backyard) We want get connect to more Saunaenthusiasts and other Saunamakers and talk about past events and plan future events. We are open for all people who are interested and want to know how to build up a Sauna"
+        ], 
+        "Has session type": [], 
+        "Has session location": [
+            {
+                "fulltext": "Room:Lecture room 12", 
+                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Room:Lecture_room_12", 
+                "namespace": 516, 
+                "exists": true
+            }
+        ], 
+        "Has subtitle": [], 
+        "Is organized by": [], 
+        "Has title": [
+            "Saunaclash - meetup for all Saunamakers and Mobile-Sauna-Fans"
+        ], 
+        "Has duration": [
+            60
+        ], 
+        "GUID": [
+            "3fd77d87-5e5c-4193-a44e-8fe5200b3d1c"
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:Saunaclash_-_meetup_for_all_Saunamakers_and_Mobile-Sauna-Fans", 
+        "Has end time": [
+            "1514655000"
         ]
     }, 
     "Session:Namecoin as a Decentralized Alternative to Certificate Authorities for TLS# 31a3e2c344094be027320163d236c7d1": {
