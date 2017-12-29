@@ -10307,55 +10307,59 @@
             "1514475000"
         ]
     }, 
-    "Session:CCChoir Flashmob# aa32366b1597ca313b2a6e86fad4f0e0": {
+    "Session:Calliope Workshops# af1486109b20a326d421317052a0fa55": {
         "Held in language": [
             "de - German"
         ], 
         "Has start time": [
-            "1514651400"
+            "1514480400"
         ], 
         "Has event track": [
             "Session"
         ], 
-        "Has website": [], 
+        "Has website": [
+            "http://calliope.cc"
+        ], 
         "Has description": [
-            "SingWat - CCChoir in der Glashalle"
+            "Kinder ab 8 Jahren sind herzlich willkommen ihre ersten Erfahrungen mit dem Programmieren zu machen.\n\nWer an Tag 3 oder 4 noch Lust auf Calliope Workshops hat, der ruft einfach mal an: \nDECT: 8843 \noder \nmobile: null eins sechs drei 362 534 0"
         ], 
         "Has session type": [
-            "Other"
+            "Workshop"
         ], 
         "Has session location": [
             {
-                "fulltext": "Room:Lecture room 11", 
-                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Room:Lecture_room_11", 
+                "fulltext": "Room:Hive Conference", 
+                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Room:Hive_Conference", 
                 "namespace": 516, 
                 "exists": true
             }
         ], 
-        "Has subtitle": [], 
+        "Has subtitle": [
+            "Calliope Workshop 4"
+        ], 
         "Is organized by": [
             {
-                "fulltext": "User:Coco", 
-                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/User:Coco", 
+                "fulltext": "User:DerMicha", 
+                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/User:DerMicha", 
                 "namespace": 2, 
                 "exists": true
             }
         ], 
         "Has title": [
-            "CCChoir Flashmob"
+            "Calliope Workshops"
         ], 
         "Has duration": [
             60
         ], 
         "GUID": [
-            "5b0f9d88-36ba-49f2-b66b-731eaaab7b4c"
+            "6946c2f8-7ca0-4d95-a70a-20cec20e25fb"
         ], 
         "Has color": [
             "#0099ab"
         ], 
-        "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:CCChoir_Flashmob", 
+        "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:Calliope_Workshops", 
         "Has end time": [
-            "1514655000"
+            "1514484000"
         ]
     }, 
     "Session:SecureDrop# 69b671b72c08c38b86b56562d2772cb3": {
@@ -14112,6 +14116,49 @@
         "Has end time": [
             "1514405400"
         ]
+    }, 
+    "Session:A personal epiphany and endless inspection! Meet Sophia!# 9d2ced0651056c2524d43c2ed42aaf56": {
+        "Held in language": [
+            "de - German", 
+            "en - English"
+        ], 
+        "Has start time": [], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [
+            "https://www.youtube.com/user/thomasschoenberger/videos"
+        ], 
+        "Has description": [
+            "Thomas Schoenberger, Polymath, Composer and Historian has created the first ever YouTube treasure map.\n\nWhat began as a quest to gather some of the most interesting minds and souls on this planet has now become a garden we can all tend together. \n\nLet us share ideas and clues together.\n\n\ncryptographic puzzles, classical music, visuals, phi, privacy, golden ratio, leonardo da vinci, wisdom, history, alchemy, treasure map,"
+        ], 
+        "Has session type": [
+            "Workshop"
+        ], 
+        "Has session location": [
+            {
+                "fulltext": "Room:Komona D.Ressrosa", 
+                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Room:Komona_D.Ressrosa", 
+                "namespace": 516, 
+                "exists": true
+            }
+        ], 
+        "Has subtitle": [], 
+        "Is organized by": [], 
+        "Has title": [
+            "A personal epiphany and endless inspection! Meet Sophia!"
+        ], 
+        "Has duration": [
+            120
+        ], 
+        "GUID": [
+            "7d403585-2692-4528-a704-128181378780"
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:A_personal_epiphany_and_endless_inspection!_Meet_Sophia!", 
+        "Has end time": []
     }, 
     "Session:Rights&Freedoms# 0ac524fbf26666c2d2eeb13e7cbb6f2a": {
         "Held in language": [
@@ -18455,6 +18502,50 @@
             "1514385000"
         ]
     }, 
+    "Session:CCChoir Flashmob# 237232f77d630be3015de8aa58e1388b": {
+        "Held in language": [
+            "de - German"
+        ], 
+        "Has start time": [
+            "1514651400"
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [], 
+        "Has description": [
+            "SingWat - CCChoir in der Glashalle"
+        ], 
+        "Has session type": [
+            "Other"
+        ], 
+        "Has session location": [], 
+        "Has subtitle": [], 
+        "Is organized by": [
+            {
+                "fulltext": "User:Coco", 
+                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/User:Coco", 
+                "namespace": 2, 
+                "exists": true
+            }
+        ], 
+        "Has title": [
+            "CCChoir Flashmob"
+        ], 
+        "Has duration": [
+            60
+        ], 
+        "GUID": [
+            "5b0f9d88-36ba-49f2-b66b-731eaaab7b4c"
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:CCChoir_Flashmob", 
+        "Has end time": [
+            "1514655000"
+        ]
+    }, 
     "Session:TeaHouse# cf0a2a52d2dce7d7d19bd4d69ba6b5c6": {
         "Held in language": [
             "en - English"
@@ -18600,53 +18691,6 @@
         "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:Weisswurstfr%C3%BChst%C3%BCck", 
         "Has end time": [
             "1514460600"
-        ]
-    }, 
-    "Session:A personal epiphany and endless inspection! Meet Sophia!# ff435ae572c822a326aa37859b95a605": {
-        "Held in language": [
-            "de - German", 
-            "en - English"
-        ], 
-        "Has start time": [
-            "1514577600"
-        ], 
-        "Has event track": [
-            "Session"
-        ], 
-        "Has website": [
-            "https://www.youtube.com/user/thomasschoenberger/videos"
-        ], 
-        "Has description": [
-            "Thomas Schoenberger, Polymath, Composer and Historian has created the first ever YouTube treasure map.\n\nWhat began as a quest to gather some of the most interesting minds and souls on this planet has now become a garden we can all tend together. \n\nLet us share ideas and clues together.\n\n\ncryptographic puzzles, classical music, visuals, phi, privacy, golden ratio, leonardo da vinci, wisdom, history, alchemy, treasure map,"
-        ], 
-        "Has session type": [
-            "Workshop"
-        ], 
-        "Has session location": [
-            {
-                "fulltext": "Room:Komona D.Ressrosa", 
-                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Room:Komona_D.Ressrosa", 
-                "namespace": 516, 
-                "exists": true
-            }
-        ], 
-        "Has subtitle": [], 
-        "Is organized by": [], 
-        "Has title": [
-            "A personal epiphany and endless inspection! Meet Sophia!"
-        ], 
-        "Has duration": [
-            120
-        ], 
-        "GUID": [
-            "7d403585-2692-4528-a704-128181378780"
-        ], 
-        "Has color": [
-            "#0099ab"
-        ], 
-        "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:A_personal_epiphany_and_endless_inspection!_Meet_Sophia!", 
-        "Has end time": [
-            "1514584800"
         ]
     }, 
     "Session:Letter writing to prisoners, sitting in jail for hacking# 9d722a7b202a7853d8968feff1c15650": {
@@ -21865,61 +21909,6 @@
         "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:Einf%C3%BChrung_in_Blockchain", 
         "Has end time": [
             "1514637000"
-        ]
-    }, 
-    "Session:Calliope Workshops# af1486109b20a326d421317052a0fa55": {
-        "Held in language": [
-            "de - German"
-        ], 
-        "Has start time": [
-            "1514480400"
-        ], 
-        "Has event track": [
-            "Session"
-        ], 
-        "Has website": [
-            "http://calliope.cc"
-        ], 
-        "Has description": [
-            "Kinder ab 8 Jahren sind herzlich willkommen ihre ersten Erfahrungen mit dem Programmieren zu machen.\n\nWer an Tag 3 oder 4 noch Lust auf Calliope Workshops hat, der ruft einfach mal an: \nDECT: 8843 \noder \nmobile: null eins sechs drei 362 534 0"
-        ], 
-        "Has session type": [
-            "Workshop"
-        ], 
-        "Has session location": [
-            {
-                "fulltext": "Room:Hive Conference", 
-                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Room:Hive_Conference", 
-                "namespace": 516, 
-                "exists": true
-            }
-        ], 
-        "Has subtitle": [
-            "Calliope Workshop 4"
-        ], 
-        "Is organized by": [
-            {
-                "fulltext": "User:DerMicha", 
-                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/User:DerMicha", 
-                "namespace": 2, 
-                "exists": true
-            }
-        ], 
-        "Has title": [
-            "Calliope Workshops"
-        ], 
-        "Has duration": [
-            60
-        ], 
-        "GUID": [
-            "6946c2f8-7ca0-4d95-a70a-20cec20e25fb"
-        ], 
-        "Has color": [
-            "#0099ab"
-        ], 
-        "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:Calliope_Workshops", 
-        "Has end time": [
-            "1514484000"
         ]
     }, 
     "Session:On Scripting# 05d28d1ceb860ec57a025c18017cdbcf": {
