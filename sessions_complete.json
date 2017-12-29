@@ -3992,51 +3992,55 @@
             "1514409300"
         ]
     }, 
-    "Session:Rights&Freedoms# f7e9bee8a00f1bf00988106eb108e45e": {
+    "Session:Faith in mathematics (Wondrous Mathematics)# a088dd9c036046ce5ae7685bcc6f2842": {
         "Held in language": [
-            "de - German", 
             "en - English"
         ], 
         "Has start time": [
-            "1514466000"
+            "1514547000"
         ], 
         "Has event track": [
             "Session"
         ], 
         "Has website": [], 
         "Has description": [
-            "Rights & Freedoms Cluster Stage Programme"
+            "Since G\u00f6del's celebrated work we know: The rules of mathematics are incomplete. There are true statements for which we have proof that they don't have a proof and there are statements for which we can arbitrarily decide whether they are true or not. Learn more about this curious state of affairs in the session!"
         ], 
         "Has session type": [
             "Talk"
         ], 
         "Has session location": [
             {
-                "fulltext": "Room:CCL Hall 3", 
-                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Room:CCL_Hall_3", 
+                "fulltext": "Room:Lecture room 12", 
+                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Room:Lecture_room_12", 
                 "namespace": 516, 
                 "exists": true
             }
         ], 
-        "Has subtitle": [
-            "Take e-voting away from Europe (Hermes Center)"
+        "Has subtitle": [], 
+        "Is organized by": [
+            {
+                "fulltext": "User:IngoBlechschmidt", 
+                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/User:IngoBlechschmidt", 
+                "namespace": 2, 
+                "exists": true
+            }
         ], 
-        "Is organized by": [], 
         "Has title": [
-            "Rights&Freedoms"
+            "Faith in mathematics (Wondrous Mathematics)"
         ], 
         "Has duration": [
             60
         ], 
         "GUID": [
-            "cb719734-0650-4539-928a-ac4577eb588c"
+            "f8c99603-0459-4199-af0e-18a5c6c8528c"
         ], 
         "Has color": [
             "#0099ab"
         ], 
-        "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:Rights%26Freedoms", 
+        "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:Faith_in_mathematics_(Wondrous_Mathematics)", 
         "Has end time": [
-            "1514469600"
+            "1514550600"
         ]
     }, 
     "Session:Klangteppich# e3ae1cc334d20a23349a7303e72a0c3a": {
@@ -5482,57 +5486,57 @@
             "1514637000"
         ]
     }, 
-    "Session:Gentoo e.V. Mitgliederversammlung# cbfd64853201eb7bd9d4557e78b707ed": {
-        "Held in language": [
-            "de - German"
-        ], 
+    "Session:Packaging in Nixpkgs# 21cad775f5e8453f24d3161e35f1b8f3": {
+        "Held in language": [], 
         "Has start time": [
-            "1514552400"
+            "1514566800"
         ], 
         "Has event track": [
             "Session"
         ], 
         "Has website": [
-            "https://gentoo-ev.org/"
+            "https://nixos.org"
         ], 
         "Has description": [
-            "(German) Mitgliederversammlung des F\u00f6rdervereins Gentoo e.V."
+            "This Workshop will walk you through the whole process of performing a package update in nixpkgs.\nAfter this workshop you should be good to go to contribute to nixpkgs yourself."
         ], 
         "Has session type": [
-            "Meeting"
+            "Workshop"
         ], 
         "Has session location": [
             {
-                "fulltext": "Room:Seminar room 13", 
-                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Room:Seminar_room_13", 
+                "fulltext": "Room:Hive Stage", 
+                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Room:Hive_Stage", 
                 "namespace": 516, 
                 "exists": true
             }
         ], 
-        "Has subtitle": [], 
+        "Has subtitle": [
+            "from zero to upstream in 60 minutes"
+        ], 
         "Is organized by": [
             {
-                "fulltext": "User:Sping", 
-                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/User:Sping", 
+                "fulltext": "User:Mic92", 
+                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/User:Mic92", 
                 "namespace": 2, 
                 "exists": true
             }
         ], 
         "Has title": [
-            "Gentoo e.V. Mitgliederversammlung"
+            "Packaging in Nixpkgs"
         ], 
         "Has duration": [
             60
         ], 
         "GUID": [
-            "83fcbf78-e721-4570-ab1b-678cb03edf73"
+            "5fc474dd-2e37-4e68-87ed-41eeedbc9323"
         ], 
         "Has color": [
             "#0099ab"
         ], 
-        "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:Gentoo_e.V._Mitgliederversammlung", 
+        "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:Packaging_in_Nixpkgs", 
         "Has end time": [
-            "1514556000"
+            "1514570400"
         ]
     }, 
     "Session:Translation Team# 55e697d93308ec396f31c600434adf62": {
@@ -10981,6 +10985,59 @@
         "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:DLF", 
         "Has end time": [
             "1514392200"
+        ]
+    }, 
+    "Session:Gentoo e.V. Mitgliederversammlung# cbfd64853201eb7bd9d4557e78b707ed": {
+        "Held in language": [
+            "de - German"
+        ], 
+        "Has start time": [
+            "1514552400"
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [
+            "https://gentoo-ev.org/"
+        ], 
+        "Has description": [
+            "(German) Mitgliederversammlung des F\u00f6rdervereins Gentoo e.V."
+        ], 
+        "Has session type": [
+            "Meeting"
+        ], 
+        "Has session location": [
+            {
+                "fulltext": "Room:Seminar room 13", 
+                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Room:Seminar_room_13", 
+                "namespace": 516, 
+                "exists": true
+            }
+        ], 
+        "Has subtitle": [], 
+        "Is organized by": [
+            {
+                "fulltext": "User:Sping", 
+                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/User:Sping", 
+                "namespace": 2, 
+                "exists": true
+            }
+        ], 
+        "Has title": [
+            "Gentoo e.V. Mitgliederversammlung"
+        ], 
+        "Has duration": [
+            60
+        ], 
+        "GUID": [
+            "83fcbf78-e721-4570-ab1b-678cb03edf73"
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:Gentoo_e.V._Mitgliederversammlung", 
+        "Has end time": [
+            "1514556000"
         ]
     }, 
     "Session:Limlug: In der Weihnachtsb\u00e4ckerei - Data Science und Kekse# efb3c9f4043a34d4086d8f881549285a": {
@@ -22666,55 +22723,51 @@
             "1514662200"
         ]
     }, 
-    "Session:Faith in mathematics (Wondrous Mathematics)# a088dd9c036046ce5ae7685bcc6f2842": {
+    "Session:Rights&Freedoms# f7e9bee8a00f1bf00988106eb108e45e": {
         "Held in language": [
+            "de - German", 
             "en - English"
         ], 
         "Has start time": [
-            "1514547000"
+            "1514466000"
         ], 
         "Has event track": [
             "Session"
         ], 
         "Has website": [], 
         "Has description": [
-            "Since G\u00f6del's celebrated work we know: The rules of mathematics are incomplete. There are true statements for which we have proof that they don't have a proof and there are statements for which we can arbitrarily decide whether they are true or not. Learn more about this curious state of affairs in the session!"
+            "Rights & Freedoms Cluster Stage Programme"
         ], 
         "Has session type": [
             "Talk"
         ], 
         "Has session location": [
             {
-                "fulltext": "Room:Lecture room 12", 
-                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Room:Lecture_room_12", 
+                "fulltext": "Room:CCL Hall 3", 
+                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Room:CCL_Hall_3", 
                 "namespace": 516, 
                 "exists": true
             }
         ], 
-        "Has subtitle": [], 
-        "Is organized by": [
-            {
-                "fulltext": "User:IngoBlechschmidt", 
-                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/User:IngoBlechschmidt", 
-                "namespace": 2, 
-                "exists": true
-            }
+        "Has subtitle": [
+            "Take e-voting away from Europe (Hermes Center)"
         ], 
+        "Is organized by": [], 
         "Has title": [
-            "Faith in mathematics (Wondrous Mathematics)"
+            "Rights&Freedoms"
         ], 
         "Has duration": [
             60
         ], 
         "GUID": [
-            "f8c99603-0459-4199-af0e-18a5c6c8528c"
+            "cb719734-0650-4539-928a-ac4577eb588c"
         ], 
         "Has color": [
             "#0099ab"
         ], 
-        "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:Faith_in_mathematics_(Wondrous_Mathematics)", 
+        "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:Rights%26Freedoms", 
         "Has end time": [
-            "1514550600"
+            "1514469600"
         ]
     }, 
     "Session:RHIZOM festival: an intro to everything for everyone for nothing# 5f787719ed7e8dc844f7dac831271136": {
