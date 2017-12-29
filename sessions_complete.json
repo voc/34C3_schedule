@@ -2720,7 +2720,7 @@
             "https://codingdavinci.de/about/"
         ], 
         "Has description": [
-            "Many museums, archives and libraries are still reluctant to share their data. Actually it is our data as it is often public domain and or financed with public money. Yet many still hesitate. #openGLAM is an international movement to motivate Galleries, Libraries, Archives and Museums to share digitized cultural heritage and make it open for reuse.  GLAM data is so attractive for reuse. Events as Coding da Vinci (https://codingdavinci.de/about/) or happenings as GIF IT UP (http://blog.europeana.eu/2017/11/winners-of-gif-it-up-2017/) do show some examples. Where to find open GLAM data and how to convince GLAMs to open up."
+            "Many museums, archives and libraries are still reluctant to share their data. Actually it is our data as it is often public domain and or financed with public money. Yet many still hesitate. #openGLAM is an international movement to motivate Galleries, Libraries, Archives and Museums to share digitized cultural heritage and make it open for reuse.  GLAM data is so attractive for reuse. Events as Coding da Vinci (https://codingdavinci.de/about/) or happenings as GIF IT UP (http://blog.europeana.eu/2017/11/winners-of-gif-it-up-2017/) do show some examples. Where to find open GLAM data and how to convince GLAMs to open up. see presentation here (https://commons.wikimedia.org/wiki/File:34C3_CdV_OpenGLAM_(1).pdf)"
         ], 
         "Has session type": [
             "Talk"
@@ -4710,59 +4710,6 @@
         "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:D_Town,_Christopher:_Eigenes_HackLab_bauen!", 
         "Has end time": [
             "1514493900"
-        ]
-    }, 
-    "Session:The Tech that Drives Wikipedia# 0cab24338be09ab8c3801410bf29b9eb": {
-        "Held in language": [
-            "en - English"
-        ], 
-        "Has start time": [
-            "1514561400"
-        ], 
-        "Has event track": [
-            "Session"
-        ], 
-        "Has website": [
-            "https://wikitech.wikimedia.org/"
-        ], 
-        "Has description": [
-            "How does Wikimedia serve a hundred thousand Wikipedia pages second?"
-        ], 
-        "Has session type": [
-            "Talk"
-        ], 
-        "Has session location": [
-            {
-                "fulltext": "Room:Hive Stage", 
-                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Room:Hive_Stage", 
-                "namespace": 516, 
-                "exists": true
-            }
-        ], 
-        "Has subtitle": [], 
-        "Is organized by": [
-            {
-                "fulltext": "User:Brightbyte", 
-                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/User:Brightbyte", 
-                "namespace": 2, 
-                "exists": false
-            }
-        ], 
-        "Has title": [
-            "The Tech that Drives Wikipedia"
-        ], 
-        "Has duration": [
-            45
-        ], 
-        "GUID": [
-            "2ad598a6-2114-4526-b1ec-58102dec424f"
-        ], 
-        "Has color": [
-            "#0099ab"
-        ], 
-        "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:The_Tech_that_Drives_Wikipedia", 
-        "Has end time": [
-            "1514564100"
         ]
     }, 
     "Session:Hacking Sovereignty in Catalonia; 1st Step: Decentralized Infrastructure# 950f9da07aafca23566835988c9b611f": {
@@ -8680,6 +8627,50 @@
             "1514487600"
         ]
     }, 
+    "Session:Powers of Tau Contributions# 2c99212617618c742e0565ea68afa094": {
+        "Held in language": [], 
+        "Has start time": [
+            "1514570400"
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [
+            "https://z.cash.foundation/blog/powers-of-tau/"
+        ], 
+        "Has description": [
+            "Come learn how to participate in the Zcash Foundation's Powers of Tau ceremony, to generate the next Zcash parameters!"
+        ], 
+        "Has session type": [
+            "Hands-On"
+        ], 
+        "Has session location": [
+            {
+                "fulltext": "Room:Lecture room 11", 
+                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Room:Lecture_room_11", 
+                "namespace": 516, 
+                "exists": true
+            }
+        ], 
+        "Has subtitle": [], 
+        "Is organized by": [], 
+        "Has title": [
+            "Powers of Tau Contributions"
+        ], 
+        "Has duration": [
+            60
+        ], 
+        "GUID": [
+            "08faa0c7-6cb3-4f1e-aacd-d743b19ea52c"
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:Powers_of_Tau_Contributions", 
+        "Has end time": [
+            "1514574000"
+        ]
+    }, 
     "Session:Critical Mass Leipzig# 0ab179fd5df93b33cd726053086db8f4": {
         "Held in language": [], 
         "Has start time": [
@@ -10899,6 +10890,59 @@
         "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:Karaoke-Taxi", 
         "Has end time": [
             "1514588400"
+        ]
+    }, 
+    "Session:WikiTech# a0bf098dbb044a9ac22bed9acfdef77e": {
+        "Held in language": [
+            "en - English"
+        ], 
+        "Has start time": [
+            "1514561400"
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [
+            "https://wikitech.wikimedia.org/"
+        ], 
+        "Has description": [
+            "How does Wikimedia serve a hundred thousand Wikipedia pages second?"
+        ], 
+        "Has session type": [
+            "Talk"
+        ], 
+        "Has session location": [
+            {
+                "fulltext": "Room:Hive Stage", 
+                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Room:Hive_Stage", 
+                "namespace": 516, 
+                "exists": true
+            }
+        ], 
+        "Has subtitle": [], 
+        "Is organized by": [
+            {
+                "fulltext": "User:Brightbyte", 
+                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/User:Brightbyte", 
+                "namespace": 2, 
+                "exists": false
+            }
+        ], 
+        "Has title": [
+            "WikiTech"
+        ], 
+        "Has duration": [
+            45
+        ], 
+        "GUID": [
+            "2ad598a6-2114-4526-b1ec-58102dec424f"
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:WikiTech", 
+        "Has end time": [
+            "1514564100"
         ]
     }, 
     "Session:Mietsh\u00e4usersyndikat was ist das?# 6e24fb2d386c015174232a15d414d17d": {
@@ -15207,6 +15251,57 @@
         "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:Beer_Tasting_@_FHB", 
         "Has end time": [
             "1514502000"
+        ]
+    }, 
+    "Session:Chipmaking# 1d36138eba4f725a5b9a5a7719401c37": {
+        "Held in language": [
+            "en - English"
+        ], 
+        "Has start time": [
+            "1514575800"
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [], 
+        "Has description": [
+            "we're researching how we can fabricate integrated circuits ourself"
+        ], 
+        "Has session type": [
+            "Discussion"
+        ], 
+        "Has session location": [
+            {
+                "fulltext": "Room:Seminar room 14-15", 
+                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Room:Seminar_room_14-15", 
+                "namespace": 516, 
+                "exists": true
+            }
+        ], 
+        "Has subtitle": [], 
+        "Is organized by": [
+            {
+                "fulltext": "User:Ari", 
+                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/User:Ari", 
+                "namespace": 2, 
+                "exists": true
+            }
+        ], 
+        "Has title": [
+            "Chipmaking"
+        ], 
+        "Has duration": [
+            150
+        ], 
+        "GUID": [
+            "68b83d0b-a063-4f30-ab67-2c0218edc26d"
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:Chipmaking", 
+        "Has end time": [
+            "1514584800"
         ]
     }, 
     "Session:Nextcloud Dev Q&A# 909935d057a044949b2a170debc2b816": {
