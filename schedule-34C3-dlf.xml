@@ -24,8 +24,8 @@
         <abstract/>
         <description>Interviewer: Manfred Kloiber</description>
         <recording>
-          <optout>false</optout>
           <license/>
+          <optout>false</optout>
         </recording>
         <persons>
           <person id="0">Kloiber</person>
@@ -46,8 +46,8 @@
         <abstract/>
         <description>Interviewer: Adalbert Siniawski</description>
         <recording>
-          <optout>false</optout>
           <license/>
+          <optout>false</optout>
         </recording>
         <persons>
           <person id="0">Sinawski</person>
@@ -68,8 +68,8 @@
         <abstract/>
         <description>Interviewer: Jan Rähm, Gast: Daniel Wegemer, Dennis Giese</description>
         <recording>
-          <optout>false</optout>
           <license/>
+          <optout>false</optout>
         </recording>
         <persons>
           <person id="0">Rähm</person>
@@ -90,8 +90,8 @@
         <abstract/>
         <description>Interviewer: Jan Rähm, Gast: Daniel Wegemer, Jiska Classen</description>
         <recording>
-          <optout>false</optout>
           <license/>
+          <optout>false</optout>
         </recording>
         <persons>
           <person id="0">Rähm</person>
@@ -118,8 +118,8 @@ Mischa Woitscheck, Geschäftsführer des Sächsischen Städte- und Gemeindetages
 
 Moderation: Manfred Kloiber</description>
         <recording>
-          <optout>false</optout>
           <license/>
+          <optout>false</optout>
         </recording>
         <persons>
           <person id="0">Kloiber</person>
@@ -141,8 +141,8 @@ Moderation: Manfred Kloiber</description>
         <abstract/>
         <description>Reporter: Jan Rähm</description>
         <recording>
-          <optout>false</optout>
           <license/>
+          <optout>false</optout>
         </recording>
         <persons>
           <person id="0">Rähm</person>
@@ -163,8 +163,8 @@ Moderation: Manfred Kloiber</description>
         <abstract/>
         <description>Reporter: Manfred Kloiber</description>
         <recording>
-          <optout>false</optout>
           <license/>
+          <optout>false</optout>
         </recording>
         <persons>
           <person id="0">Kloiber</person>
@@ -185,8 +185,8 @@ Moderation: Manfred Kloiber</description>
         <abstract/>
         <description>Reporter: Manfred Kloiber</description>
         <recording>
-          <optout>false</optout>
           <license/>
+          <optout>false</optout>
         </recording>
         <persons>
           <person id="0">Kloiber</person>
@@ -220,8 +220,8 @@ Jan Rähm, IT-Journalist, Deutschlandfunk
 
 Moderation: Manfred Kloiber</description>
         <recording>
-          <optout>false</optout>
           <license/>
+          <optout>false</optout>
         </recording>
         <persons>
           <person id="0">Kloiber</person>
@@ -243,8 +243,8 @@ Moderation: Manfred Kloiber</description>
         <abstract/>
         <description>Interviewer: Peter Welchering</description>
         <recording>
-          <optout>false</optout>
           <license/>
+          <optout>false</optout>
         </recording>
         <persons>
           <person id="0">Welchering mit Meuthen von deloitte</person>
@@ -265,8 +265,8 @@ Moderation: Manfred Kloiber</description>
         <abstract/>
         <description>Live-Beitrag in Kompressor</description>
         <recording>
-          <optout>false</optout>
           <license/>
+          <optout>false</optout>
         </recording>
         <persons>
           <person id="0">Welchering</person>
@@ -287,8 +287,8 @@ Moderation: Manfred Kloiber</description>
         <abstract/>
         <description>Reporter: Peter Welchering</description>
         <recording>
-          <optout>false</optout>
           <license/>
+          <optout>false</optout>
         </recording>
         <persons>
           <person id="0">Welchering</person>
@@ -309,8 +309,8 @@ Moderation: Manfred Kloiber</description>
         <abstract/>
         <description>Reporter: Peter Welchering</description>
         <recording>
-          <optout>false</optout>
           <license/>
+          <optout>false</optout>
         </recording>
         <persons>
           <person id="0">Kloiber</person>
@@ -337,8 +337,8 @@ Moderation: Manfred Kloiber</description>
         <abstract/>
         <description>Reporter: Jan Rähm</description>
         <recording>
-          <optout>false</optout>
           <license/>
+          <optout>false</optout>
         </recording>
         <persons>
           <person id="0">Rähm</person>
@@ -359,12 +359,57 @@ Moderation: Manfred Kloiber</description>
         <abstract/>
         <description>Reporter: Jan Rähm</description>
         <recording>
-          <optout>false</optout>
           <license/>
+          <optout>false</optout>
         </recording>
         <persons>
           <person id="0">Kloiber</person>
           <person id="0">Welchering</person>
+          <person id="0">Rähm</person>
+        </persons>
+        <links/>
+      </event>
+      <event id="2018" guid="2bca6145-59e1-5d40-92f8-93ee165216b6">
+        <date>2017-12-29T14:25:00</date>
+        <start>14:25</start>
+        <duration>0:35</duration>
+        <room>CCL Hall 2</room>
+        <slug>34C3-dlf-2018-gespraech</slug>
+        <title>Gespräch</title>
+        <subtitle/>
+        <track/>
+        <type/>
+        <language>de</language>
+        <abstract/>
+        <description>Podcast meets Radio</description>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+          <person id="0">Kloiber</person>
+          <person id="0">Welchering</person>
+        </persons>
+        <links/>
+      </event>
+      <event id="2019" guid="710e50c7-73f1-5352-afe0-841911c0f527">
+        <date>2017-12-29T16:00:00</date>
+        <start>16:00</start>
+        <duration>0:15</duration>
+        <room>CCL Hall 2</room>
+        <slug>34C3-dlf-2019-interview</slug>
+        <title>Interview</title>
+        <subtitle/>
+        <track/>
+        <type/>
+        <language>de</language>
+        <abstract/>
+        <description>Netzneutralität in der EU - zu gast: Thomas Lohninger</description>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
           <person id="0">Rähm</person>
         </persons>
         <links/>
@@ -385,10 +430,10 @@ Moderation: Manfred Kloiber</description>
         <type/>
         <language>de</language>
         <abstract/>
-        <description>Reporter: Jan Rähm</description>
+        <description>Netzneutralität in der EU - zu gast: Thomas Lohninger</description>
         <recording>
-          <optout>false</optout>
           <license/>
+          <optout>false</optout>
         </recording>
         <persons>
           <person id="0">Wuttke</person>
@@ -414,8 +459,8 @@ Peter welchering, Deutschlandfunk
 
 Moderation: Manfred Kloiber</description>
         <recording>
-          <optout>false</optout>
           <license/>
+          <optout>false</optout>
         </recording>
         <persons>
           <person id="0">Kloiber</person>

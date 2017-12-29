@@ -427,6 +427,58 @@
                                     }
                                 ],
                                 "links": []
+                            },
+                            {
+                                "id": "2018",
+                                "guid": "2bca6145-59e1-5d40-92f8-93ee165216b6",
+                                "date": "2017-12-29T14:25:00",
+                                "start": "14:25",
+                                "duration": "0:35",
+                                "room": "CCL Hall 2",
+                                "slug": "34C3-dlf-2018-gespraech",
+                                "title": "Gespr\u00e4ch",
+                                "subtitle": "",
+                                "track": "",
+                                "type": "",
+                                "language": "de",
+                                "abstract": "",
+                                "description": "Podcast meets Radio",
+                                "do_not_record": false,
+                                "persons": [
+                                    {
+                                        "id": 0,
+                                        "full_public_name": "Kloiber"
+                                    },
+                                    {
+                                        "id": 0,
+                                        "full_public_name": "Welchering"
+                                    }
+                                ],
+                                "links": []
+                            },
+                            {
+                                "id": "2019",
+                                "guid": "710e50c7-73f1-5352-afe0-841911c0f527",
+                                "date": "2017-12-29T16:00:00",
+                                "start": "16:00",
+                                "duration": "0:15",
+                                "room": "CCL Hall 2",
+                                "slug": "34C3-dlf-2019-interview",
+                                "title": "Interview",
+                                "subtitle": "",
+                                "track": "",
+                                "type": "",
+                                "language": "de",
+                                "abstract": "",
+                                "description": "Netzneutralit\u00e4t in der EU - zu gast: Thomas Lohninger",
+                                "do_not_record": false,
+                                "persons": [
+                                    {
+                                        "id": 0,
+                                        "full_public_name": "R\u00e4hm"
+                                    }
+                                ],
+                                "links": []
                             }
                         ]
                     }
@@ -452,7 +504,7 @@
                                 "type": "",
                                 "language": "de",
                                 "abstract": "",
-                                "description": "Reporter: Jan R\u00e4hm",
+                                "description": "Netzneutralit\u00e4t in der EU - zu gast: Thomas Lohninger",
                                 "do_not_record": false,
                                 "persons": [
                                     {
