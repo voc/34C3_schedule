@@ -1825,6 +1825,52 @@
             "1514566800"
         ]
     }, 
+    "Session:Experience in dissecting malware# cc605679d4b72a95e511cdd0487188b1": {
+        "Held in language": [
+            "de - German"
+        ], 
+        "Has start time": [
+            "1514584800"
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [], 
+        "Has description": [
+            "Sharing some results from dissecting and re-implementing a rootkit. Aim was and is to understand the decisions of the orginal authors. Work is based on a re-implementation of a well-known implant. Previous Experience in Reversing Malware strongly recommended. Bring a Win7x64 system and IDA Pro."
+        ], 
+        "Has session type": [
+            "Workshop"
+        ], 
+        "Has session location": [
+            {
+                "fulltext": "Room:Seminar room 13", 
+                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Room:Seminar_room_13", 
+                "namespace": 516, 
+                "exists": true
+            }
+        ], 
+        "Has subtitle": [
+            "This driver is not one of ours."
+        ], 
+        "Is organized by": [], 
+        "Has title": [
+            "Experience in dissecting malware"
+        ], 
+        "Has duration": [
+            90
+        ], 
+        "GUID": [
+            "e7ea3871-030c-4138-be40-d0814410a298"
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:Experience_in_dissecting_malware", 
+        "Has end time": [
+            "1514590200"
+        ]
+    }, 
     "Session:Honigdachs-Podcast LIVE# b3f0d00a2b235d69d2394dc95acfb184": {
         "Held in language": [
             "de - German"
@@ -20000,6 +20046,50 @@
             "1514569500"
         ]
     }, 
+    "Session:Statebox - compositional smart contracts through category theory# 1ca6cc9538081cfc1e55d7efd562437b": {
+        "Held in language": [
+            "en - English"
+        ], 
+        "Has start time": [], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [
+            "http://statebox.org"
+        ], 
+        "Has description": [
+            "A short presentation on a new approach to writing programs inspired by graphical calculi developed for quantum protocols (amongst others)."
+        ], 
+        "Has session type": [
+            "Talk"
+        ], 
+        "Has session location": [
+            {
+                "fulltext": "Room:Chaos West Stage", 
+                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Room:Chaos_West_Stage", 
+                "namespace": 516, 
+                "exists": true
+            }
+        ], 
+        "Has subtitle": [], 
+        "Is organized by": [], 
+        "Has title": [
+            "Statebox - compositional smart contracts through category theory"
+        ], 
+        "Has duration": [
+            20
+        ], 
+        "GUID": [
+            "294ea052-2d76-4401-93fc-aef98c7ef6a2"
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:Statebox_-_compositional_smart_contracts_through_category_theory", 
+        "Has end time": [
+            "1512289200"
+        ]
+    }, 
     "Session:We don't need new texts - we need new languages# e81eb1a0046ff594780bc10fc150f2c7": {
         "Held in language": [], 
         "Has start time": [
@@ -21412,52 +21502,6 @@
         "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:TeaHouse", 
         "Has end time": [
             "1514566800"
-        ]
-    }, 
-    "Session:Experience in dissecting malware# a9252ecc165d9772dd43beeac152f158": {
-        "Held in language": [
-            "de - German"
-        ], 
-        "Has start time": [
-            "1514584800"
-        ], 
-        "Has event track": [
-            "Session"
-        ], 
-        "Has website": [], 
-        "Has description": [
-            "Sharing some results from dissecting and re-implementing a rootkit. Aim was and is to understand the decisions of the orginal authors. Work is based on a re-implementation of a well-known implant. Previous Experience in Reversing Malware strongly recommended. Bring a Win7x64 system and IDA Pro."
-        ], 
-        "Has session type": [
-            "Workshop"
-        ], 
-        "Has session location": [
-            {
-                "fulltext": "Room:Komona D.Ressrosa", 
-                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Room:Komona_D.Ressrosa", 
-                "namespace": 516, 
-                "exists": true
-            }
-        ], 
-        "Has subtitle": [
-            "This driver is not one of ours."
-        ], 
-        "Is organized by": [], 
-        "Has title": [
-            "Experience in dissecting malware"
-        ], 
-        "Has duration": [
-            90
-        ], 
-        "GUID": [
-            "e7ea3871-030c-4138-be40-d0814410a298"
-        ], 
-        "Has color": [
-            "#0099ab"
-        ], 
-        "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:Experience_in_dissecting_malware", 
-        "Has end time": [
-            "1514590200"
         ]
     }, 
     "Session:TeaHouse# 7693dc19e24497ef3c885347bbef9e3c": {
