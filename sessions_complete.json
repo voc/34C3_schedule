@@ -2150,6 +2150,52 @@
             "1514642400"
         ]
     }, 
+    "Session:Kadnode# 15b8624d7d20fe2a62feba240a7743e4": {
+        "Held in language": [
+            "en - English"
+        ], 
+        "Has start time": [
+            "1514590200"
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [
+            "https://github.com/mwarning/KadNode"
+        ], 
+        "Has description": [
+            "Short introduction of a simple P2P DNS resolver."
+        ], 
+        "Has session type": [
+            "Talk"
+        ], 
+        "Has session location": [], 
+        "Has subtitle": [], 
+        "Is organized by": [
+            {
+                "fulltext": "User:Mwarning", 
+                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/User:Mwarning", 
+                "namespace": 2, 
+                "exists": true
+            }
+        ], 
+        "Has title": [
+            "Kadnode"
+        ], 
+        "Has duration": [
+            20
+        ], 
+        "GUID": [
+            "ff0f9010-04dc-48bf-8982-735d89dd2653"
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:Kadnode", 
+        "Has end time": [
+            "1514591400"
+        ]
+    }, 
     "Session:Child Growth Monitor Meetup Day 3# d1c4b7c7ceb41d9da469964608d39416": {
         "Held in language": [
             "de - German", 
@@ -14492,41 +14538,53 @@
             "1514646000"
         ]
     }, 
-    "Session:QRNG - More Random than Pinkie Pie# 369dc3f0333b70829dbac8a392e2c5e8": {
+    "Session:Letter writing to prisoners, sitting in jail for hacking# 75e37cb1ed3b3c3575f6ede723879ba7": {
         "Held in language": [
-            "de - German"
+            "en - English"
         ], 
-        "Has start time": [], 
+        "Has start time": [
+            "1514548800"
+        ], 
         "Has event track": [
             "Session"
         ], 
-        "Has website": [], 
-        "Has description": [
-            "Short presentation of my Bachelor project about a quantum random number generator by homodyne measurement of the quadratures of the lowest energy vacuum state."
+        "Has website": [
+            "http://abcdd.org"
         ], 
-        "Has session type": [], 
-        "Has session location": [], 
-        "Has subtitle": [], 
-        "Is organized by": [
+        "Has description": [
+            "Hacktivism from time to time leads to imprisonment and repressions. There are several people right now siting in jail that consider themselves anarchist or did actions that are supported by anarchist community. Not to let those people alone in prison we would like to have every day 1 hour around the table, where we get to know the stories of imprisoned activists and write them some words of support with postcards/letters.  You don't need any special skills for that. The postcards will be there for you."
+        ], 
+        "Has session type": [
+            "Workshop"
+        ], 
+        "Has session location": [
             {
-                "fulltext": "User:Kaminazuki", 
-                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/User:Kaminazuki", 
-                "namespace": 2, 
+                "fulltext": "Room:Komona Coral Reef", 
+                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Room:Komona_Coral_Reef", 
+                "namespace": 516, 
                 "exists": true
             }
         ], 
-        "Has title": [
-            "QRNG - More Random than Pinkie Pie"
+        "Has subtitle": [
+            "Day 3"
         ], 
-        "Has duration": [], 
+        "Is organized by": [], 
+        "Has title": [
+            "Letter writing to prisoners, sitting in jail for hacking"
+        ], 
+        "Has duration": [
+            45
+        ], 
         "GUID": [
-            "b475f6c3-59d5-48ba-9863-457de1de207e"
+            "01830be1-2a28-424f-a6f4-5668b463b6e3"
         ], 
         "Has color": [
             "#0099ab"
         ], 
-        "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:QRNG_-_More_Random_than_Pinkie_Pie", 
-        "Has end time": []
+        "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:Letter_writing_to_prisoners,_sitting_in_jail_for_hacking", 
+        "Has end time": [
+            "1514551500"
+        ]
     }, 
     "Session:SecureDrop# 29d0205ce2803c2ac346bb6f24c7284c": {
         "Held in language": [
@@ -18145,53 +18203,41 @@
             "1514480400"
         ]
     }, 
-    "Session:Letter writing to prisoners, sitting in jail for hacking# 75e37cb1ed3b3c3575f6ede723879ba7": {
+    "Session:QRNG - More Random than Pinkie Pie# 369dc3f0333b70829dbac8a392e2c5e8": {
         "Held in language": [
-            "en - English"
+            "de - German"
         ], 
-        "Has start time": [
-            "1514548800"
-        ], 
+        "Has start time": [], 
         "Has event track": [
             "Session"
         ], 
-        "Has website": [
-            "http://abcdd.org"
-        ], 
+        "Has website": [], 
         "Has description": [
-            "Hacktivism from time to time leads to imprisonment and repressions. There are several people right now siting in jail that consider themselves anarchist or did actions that are supported by anarchist community. Not to let those people alone in prison we would like to have every day 1 hour around the table, where we get to know the stories of imprisoned activists and write them some words of support with postcards/letters.  You don't need any special skills for that. The postcards will be there for you."
+            "Short presentation of my Bachelor project about a quantum random number generator by homodyne measurement of the quadratures of the lowest energy vacuum state."
         ], 
-        "Has session type": [
-            "Workshop"
-        ], 
-        "Has session location": [
+        "Has session type": [], 
+        "Has session location": [], 
+        "Has subtitle": [], 
+        "Is organized by": [
             {
-                "fulltext": "Room:Komona Coral Reef", 
-                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Room:Komona_Coral_Reef", 
-                "namespace": 516, 
+                "fulltext": "User:Kaminazuki", 
+                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/User:Kaminazuki", 
+                "namespace": 2, 
                 "exists": true
             }
         ], 
-        "Has subtitle": [
-            "Day 3"
-        ], 
-        "Is organized by": [], 
         "Has title": [
-            "Letter writing to prisoners, sitting in jail for hacking"
+            "QRNG - More Random than Pinkie Pie"
         ], 
-        "Has duration": [
-            45
-        ], 
+        "Has duration": [], 
         "GUID": [
-            "01830be1-2a28-424f-a6f4-5668b463b6e3"
+            "b475f6c3-59d5-48ba-9863-457de1de207e"
         ], 
         "Has color": [
             "#0099ab"
         ], 
-        "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:Letter_writing_to_prisoners,_sitting_in_jail_for_hacking", 
-        "Has end time": [
-            "1514551500"
-        ]
+        "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:QRNG_-_More_Random_than_Pinkie_Pie", 
+        "Has end time": []
     }, 
     "Session:Hacks/Hackers Meetup# b5549a388ea619686591d6cbf886239a": {
         "Held in language": [], 
@@ -21037,6 +21083,48 @@
             "1514649600"
         ]
     }, 
+    "Session:Warum Trump tickt wie er tickt# 3f124b2c31df85af21a6265823001560": {
+        "Held in language": [
+            "de - German"
+        ], 
+        "Has start time": [
+            "1514577600"
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [], 
+        "Has description": [
+            "Warum D. Trump tickt wie er tickt  (Oskar)"
+        ], 
+        "Has session type": [
+            "Workshop"
+        ], 
+        "Has session location": [
+            {
+                "fulltext": "Room:Komona D.Ressrosa", 
+                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Room:Komona_D.Ressrosa", 
+                "namespace": 516, 
+                "exists": true
+            }
+        ], 
+        "Has subtitle": [], 
+        "Is organized by": [], 
+        "Has title": [
+            "Warum Trump tickt wie er tickt"
+        ], 
+        "Has duration": [
+            120
+        ], 
+        "GUID": [], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:Warum_Trump_tickt_wie_er_tickt", 
+        "Has end time": [
+            "1514584800"
+        ]
+    }, 
     "Session:Hive Stage Introduction# 328ccf3a2ec21b0a81f0a4692d8228da": {
         "Held in language": [
             "de - German"
@@ -21624,6 +21712,48 @@
         "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:%22Pen%26Paper%22_Game_Jam", 
         "Has end time": [
             "1514566800"
+        ]
+    }, 
+    "Session:Saunaclash - meetup for all Saunamakers and Mobile-Sauna-Fans# 6ca3bd88b002bf678164272c9337d768": {
+        "Held in language": [
+            "en - English"
+        ], 
+        "Has start time": [
+            "1514651400"
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [], 
+        "Has description": [
+            "We have build up an geodesic dome sauna in Berlin and organized already some mobile-sauna-events (Hedonistic Worldcongress, Saunaclash, Gardenfest in our Backyard) We want get connect to more Saunaenthusiasts and other Saunamakers and talk about past events and plan future events. We are open for all people who are interested and want to know how to build up a Sauna"
+        ], 
+        "Has session type": [], 
+        "Has session location": [
+            {
+                "fulltext": "Room:Lecture room 12", 
+                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Room:Lecture_room_12", 
+                "namespace": 516, 
+                "exists": true
+            }
+        ], 
+        "Has subtitle": [], 
+        "Is organized by": [], 
+        "Has title": [
+            "Saunaclash - meetup for all Saunamakers and Mobile-Sauna-Fans"
+        ], 
+        "Has duration": [
+            60
+        ], 
+        "GUID": [
+            "3fd77d87-5e5c-4193-a44e-8fe5200b3d1c"
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:Saunaclash_-_meetup_for_all_Saunamakers_and_Mobile-Sauna-Fans", 
+        "Has end time": [
+            "1514655000"
         ]
     }, 
     "Session:Namecoin as a Decentralized Alternative to Certificate Authorities for TLS# 31a3e2c344094be027320163d236c7d1": {
