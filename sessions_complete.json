@@ -11309,6 +11309,57 @@
             "1514570400"
         ]
     }, 
+    "Session:CCChoir Flashmob# f3d637a19f231af20aa263b00bbb68d0": {
+        "Held in language": [
+            "de - German"
+        ], 
+        "Has start time": [
+            "1514651400"
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [], 
+        "Has description": [
+            "SingWat - CCChoir in der Glashalle"
+        ], 
+        "Has session type": [
+            "Other"
+        ], 
+        "Has session location": [
+            {
+                "fulltext": "Room:Seminar room 13", 
+                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Room:Seminar_room_13", 
+                "namespace": 516, 
+                "exists": true
+            }
+        ], 
+        "Has subtitle": [], 
+        "Is organized by": [
+            {
+                "fulltext": "User:Coco", 
+                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/User:Coco", 
+                "namespace": 2, 
+                "exists": true
+            }
+        ], 
+        "Has title": [
+            "CCChoir Flashmob"
+        ], 
+        "Has duration": [
+            60
+        ], 
+        "GUID": [
+            "5b0f9d88-36ba-49f2-b66b-731eaaab7b4c"
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:CCChoir_Flashmob", 
+        "Has end time": [
+            "1514655000"
+        ]
+    }, 
     "Session:TransHackMeeting# a6239c2e0067b0a88031399dbbb03530": {
         "Held in language": [
             "en - English"
@@ -14882,6 +14933,48 @@
             "1514563200"
         ]
     }, 
+    "Session:Nitrokey Q&A# bd1c824bca9d4afffb9078581e10b29e": {
+        "Held in language": [
+            "en - English"
+        ], 
+        "Has start time": [
+            "1514566800"
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [
+            "https://www.nitrokey.com/"
+        ], 
+        "Has description": [
+            "Discuss how to use Nitrokey, GnuPG, email enryption, the Nitrokey device, roadmap"
+        ], 
+        "Has session type": [
+            "Discussion"
+        ], 
+        "Has session location": [
+            {
+                "fulltext": "Room:Lecture room 11", 
+                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Room:Lecture_room_11", 
+                "namespace": 516, 
+                "exists": true
+            }
+        ], 
+        "Has subtitle": [], 
+        "Is organized by": [], 
+        "Has title": [
+            "Nitrokey Q&A"
+        ], 
+        "Has duration": [], 
+        "GUID": [
+            "5a70ecbb-d05e-41b0-91c8-84f43244e556"
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:Nitrokey_Q%26A", 
+        "Has end time": []
+    }, 
     "Session:Beer Tasting @ FHB# ddfc9e70eb6f49f7d6c667cf42e38d0f": {
         "Held in language": [
             "de - German", 
@@ -16311,7 +16404,7 @@
         ], 
         "Has website": [], 
         "Has description": [
-            "A quick crossfire of nerdsniping topics \u2013 stuff we find interesting, stuff we think you will find interesting, as well!"
+            "Ein buntes Potpourri aus Kunst, Computer und Kuriosit\u00e4ten mit Bleeptrack und blinry. Lasst uns euch nerdsnipen!"
         ], 
         "Has session type": [], 
         "Has session location": [
@@ -16323,7 +16416,20 @@
             }
         ], 
         "Has subtitle": [], 
-        "Is organized by": [], 
+        "Is organized by": [
+            {
+                "fulltext": "User:Bleeptrack", 
+                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/User:Bleeptrack", 
+                "namespace": 2, 
+                "exists": true
+            }, 
+            {
+                "fulltext": "User:Blinry", 
+                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/User:Blinry", 
+                "namespace": 2, 
+                "exists": true
+            }
+        ], 
         "Has title": [
             "Operation Mindfuck"
         ], 
@@ -18732,57 +18838,6 @@
         ], 
         "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:Express_and_Extended_Taro_Sessions_with_Binaural_Music", 
         "Has end time": []
-    }, 
-    "Session:CCChoir Flashmob# b858c056ecafadde5e9e73d698e2d1c9": {
-        "Held in language": [
-            "de - German"
-        ], 
-        "Has start time": [
-            "1514651400"
-        ], 
-        "Has event track": [
-            "Session"
-        ], 
-        "Has website": [], 
-        "Has description": [
-            "SingWat - CCChoir in der Glashalle"
-        ], 
-        "Has session type": [
-            "Other"
-        ], 
-        "Has session location": [
-            {
-                "fulltext": "Room:Lecture room 12", 
-                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Room:Lecture_room_12", 
-                "namespace": 516, 
-                "exists": true
-            }
-        ], 
-        "Has subtitle": [], 
-        "Is organized by": [
-            {
-                "fulltext": "User:Coco", 
-                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/User:Coco", 
-                "namespace": 2, 
-                "exists": true
-            }
-        ], 
-        "Has title": [
-            "CCChoir Flashmob"
-        ], 
-        "Has duration": [
-            60
-        ], 
-        "GUID": [
-            "5b0f9d88-36ba-49f2-b66b-731eaaab7b4c"
-        ], 
-        "Has color": [
-            "#0099ab"
-        ], 
-        "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:CCChoir_Flashmob", 
-        "Has end time": [
-            "1514655000"
-        ]
     }, 
     "Session:TeaHouse# cf0a2a52d2dce7d7d19bd4d69ba6b5c6": {
         "Held in language": [

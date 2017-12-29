@@ -1,6 +1,6 @@
 {
     "schedule": {
-        "version": "CCH 2017-12-29 13:30", 
+        "version": "CCH 2017-12-29 13:40", 
         "base_url": "https://fahrplan.events.ccc.de/congress/2017/Fahrplan/", 
         "conference": {
             "acronym": "34c3", 
@@ -1951,7 +1951,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1362, 
+                                "id": 1361, 
                                 "guid": "b5b51e08-260a-5c3d-a507-556103837de6", 
                                 "logo": null, 
                                 "date": "2017-12-27T17:00:00+01:00", 
@@ -1975,27 +1975,6 @@
                         "Seminar room 14-15": [
                             {
                                 "id": 1029, 
-                                "guid": "579eab72-fbd6-5ba7-ad7a-59bcab0272ad", 
-                                "logo": null, 
-                                "date": "2017-12-27T12:45:00+01:00", 
-                                "start": "12:45", 
-                                "duration": "0:45", 
-                                "room": "Seminar room 14-15", 
-                                "slug": "", 
-                                "title": "Angel Meeting", 
-                                "subtitle": "Angel meeting Day 1", 
-                                "track": "self organized sessions", 
-                                "type": "meeting", 
-                                "language": "en", 
-                                "abstract": "", 
-                                "description": "Daily meetings of the Angel crew.", 
-                                "persons": [], 
-                                "links": [
-                                    "https://events.ccc.de/congress/2017/wiki/index.php/Session:Angel_Meeting"
-                                ]
-                            }, 
-                            {
-                                "id": 1030, 
                                 "guid": "a8254a36-ca09-5c68-8e0b-1399b8a94247", 
                                 "logo": null, 
                                 "date": "2017-12-27T16:30:00+01:00", 
@@ -2016,7 +1995,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1031, 
+                                "id": 1030, 
                                 "guid": "a7083f65-5e8b-52cb-b008-af59762bb115", 
                                 "logo": null, 
                                 "date": "2017-12-27T17:15:00+01:00", 
@@ -2026,6 +2005,27 @@
                                 "slug": "", 
                                 "title": "Angel Meeting", 
                                 "subtitle": "Introduction meeting for new angels Day 1", 
+                                "track": "self organized sessions", 
+                                "type": "meeting", 
+                                "language": "en", 
+                                "abstract": "", 
+                                "description": "Daily meetings of the Angel crew.", 
+                                "persons": [], 
+                                "links": [
+                                    "https://events.ccc.de/congress/2017/wiki/index.php/Session:Angel_Meeting"
+                                ]
+                            }, 
+                            {
+                                "id": 1034, 
+                                "guid": "579eab72-fbd6-5ba7-ad7a-59bcab0272ad", 
+                                "logo": null, 
+                                "date": "2017-12-27T12:45:00+01:00", 
+                                "start": "12:45", 
+                                "duration": "0:45", 
+                                "room": "Seminar room 14-15", 
+                                "slug": "", 
+                                "title": "Angel Meeting", 
+                                "subtitle": "Angel meeting Day 1", 
                                 "track": "self organized sessions", 
                                 "type": "meeting", 
                                 "language": "en", 
@@ -2174,7 +2174,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1336, 
+                                "id": 1335, 
                                 "guid": "9ed83d1d-7007-4bb8-9e65-22b1e9abd09b", 
                                 "logo": null, 
                                 "date": "2017-12-27T15:00:00+01:00", 
@@ -2196,7 +2196,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1398, 
+                                "id": 1399, 
                                 "guid": "def1b880-7e56-415c-a57b-73b5acda9b5a", 
                                 "logo": null, 
                                 "date": "2017-12-27T16:00:00+01:00", 
@@ -2226,7 +2226,7 @@
                         ], 
                         "Seminar room 13": [
                             {
-                                "id": 1009, 
+                                "id": 1008, 
                                 "guid": "42ad7b9a-63b4-4790-8c37-1966932d71d6", 
                                 "logo": null, 
                                 "date": "2017-12-27T09:00:00+01:00", 
@@ -3362,7 +3362,7 @@
                         ], 
                         "Kidspace": [
                             {
-                                "id": 1364, 
+                                "id": 1365, 
                                 "guid": "d75d1ea5-b3e1-4f52-ad73-3eb0e99b7dea", 
                                 "logo": null, 
                                 "date": "2017-12-27T13:00:00+01:00", 
@@ -3804,28 +3804,7 @@
                         ], 
                         "CCL Hall 2": [
                             {
-                                "id": 1080, 
-                                "guid": "31370b42-b65b-5860-8bd2-12dc9ccb7b5d", 
-                                "logo": null, 
-                                "date": "2017-12-27T12:15:00+01:00", 
-                                "start": "12:15", 
-                                "duration": "0:15", 
-                                "room": "CCL Hall 2", 
-                                "slug": "", 
-                                "title": "DLF", 
-                                "subtitle": "Interview", 
-                                "track": "self organized sessions", 
-                                "type": "", 
-                                "language": "de", 
-                                "abstract": "", 
-                                "description": "DLF", 
-                                "persons": [], 
-                                "links": [
-                                    "https://events.ccc.de/congress/2017/wiki/index.php/Session:DLF"
-                                ]
-                            }, 
-                            {
-                                "id": 1083, 
+                                "id": 1079, 
                                 "guid": "c7e392d4-78d7-501f-82e8-4ae026411861", 
                                 "logo": null, 
                                 "date": "2017-12-27T14:00:00+01:00", 
@@ -3846,7 +3825,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1086, 
+                                "id": 1082, 
                                 "guid": "616cbc52-8390-54ea-8839-3af7790e11d1", 
                                 "logo": null, 
                                 "date": "2017-12-27T16:05:00+01:00", 
@@ -3867,7 +3846,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1087, 
+                                "id": 1083, 
                                 "guid": "555f0cd8-0fe0-5213-a087-c1539138aa40", 
                                 "logo": null, 
                                 "date": "2017-12-27T11:00:00+01:00", 
@@ -3888,7 +3867,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1089, 
+                                "id": 1085, 
                                 "guid": "0e9a7526-0bf6-533d-8f83-94e4d1fb4d8f", 
                                 "logo": null, 
                                 "date": "2017-12-27T16:35:00+01:00", 
@@ -3909,7 +3888,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1090, 
+                                "id": 1086, 
                                 "guid": "f9e17ca9-0980-5070-aa6c-3b556ca66211", 
                                 "logo": null, 
                                 "date": "2017-12-27T11:20:00+01:00", 
@@ -3930,7 +3909,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1092, 
+                                "id": 1088, 
                                 "guid": "528e7ef5-72c6-55d1-9c21-3920add376a1", 
                                 "logo": null, 
                                 "date": "2017-12-27T17:00:00+01:00", 
@@ -3951,11 +3930,32 @@
                                 ]
                             }, 
                             {
-                                "id": 1093, 
+                                "id": 1089, 
                                 "guid": "26226d1d-a08d-55b3-b295-9434c811b24a", 
                                 "logo": null, 
                                 "date": "2017-12-27T12:00:00+01:00", 
                                 "start": "12:00", 
+                                "duration": "0:15", 
+                                "room": "CCL Hall 2", 
+                                "slug": "", 
+                                "title": "DLF", 
+                                "subtitle": "Interview", 
+                                "track": "self organized sessions", 
+                                "type": "", 
+                                "language": "de", 
+                                "abstract": "", 
+                                "description": "DLF", 
+                                "persons": [], 
+                                "links": [
+                                    "https://events.ccc.de/congress/2017/wiki/index.php/Session:DLF"
+                                ]
+                            }, 
+                            {
+                                "id": 1092, 
+                                "guid": "31370b42-b65b-5860-8bd2-12dc9ccb7b5d", 
+                                "logo": null, 
+                                "date": "2017-12-27T12:15:00+01:00", 
+                                "start": "12:15", 
                                 "duration": "0:15", 
                                 "room": "CCL Hall 2", 
                                 "slug": "", 
@@ -4094,7 +4094,7 @@
                         ], 
                         "Esszimmer": [
                             {
-                                "id": 1169, 
+                                "id": 1168, 
                                 "guid": "8baea51d-6c66-55dc-ad37-92ec9ea924cb", 
                                 "logo": null, 
                                 "date": "2017-12-27T13:00:00+01:00", 
@@ -4126,7 +4126,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1188, 
+                                "id": 1189, 
                                 "guid": "9afbee6b-dea2-57b5-86e6-f5c7064711c4", 
                                 "logo": null, 
                                 "date": "2017-12-27T15:00:00+01:00", 
@@ -4283,7 +4283,7 @@
                         ], 
                         "Assembly:HardwareHackingArea": [
                             {
-                                "id": 1184, 
+                                "id": 1183, 
                                 "guid": "f5ebebb3-c53e-443e-82ee-080723b1f60e", 
                                 "logo": null, 
                                 "date": "2017-12-27T17:30:00+01:00", 
@@ -4443,7 +4443,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1331, 
+                                "id": 1330, 
                                 "guid": "11272b21-acfc-424a-8860-4f62d80eac5c", 
                                 "logo": null, 
                                 "date": "2017-12-27T17:40:00+01:00", 
@@ -4473,34 +4473,6 @@
                         "Assembly:TeaHouse": [
                             {
                                 "id": 1343, 
-                                "guid": "2fe2c9a3-8e76-4542-afb8-6505fed72094", 
-                                "logo": null, 
-                                "date": "2017-12-27T13:00:00+01:00", 
-                                "start": "13:00", 
-                                "duration": "0:45", 
-                                "room": "Assembly:TeaHouse", 
-                                "slug": "", 
-                                "title": "TeaHouse", 
-                                "subtitle": "Welcome to the TeaHouse", 
-                                "track": "self organized sessions", 
-                                "type": "meeting", 
-                                "language": "en", 
-                                "abstract": "", 
-                                "description": "", 
-                                "persons": [
-                                    {
-                                        "id": 0, 
-                                        "url": "https://events.ccc.de/congress/2017/wiki/index.php/User:Sanpi", 
-                                        "public_name": "Sanpi"
-                                    }
-                                ], 
-                                "links": [
-                                    "https://teahouse.homecomputing.fr/", 
-                                    "https://events.ccc.de/congress/2017/wiki/index.php/Session:TeaHouse"
-                                ]
-                            }, 
-                            {
-                                "id": 1345, 
                                 "guid": "ef3bcca2-42bc-4bb0-a326-70e277316094", 
                                 "logo": null, 
                                 "date": "2017-12-27T14:30:00+01:00", 
@@ -4528,7 +4500,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1346, 
+                                "id": 1345, 
                                 "guid": "0684a69d-9796-4946-9955-84cfafe8cb64", 
                                 "logo": null, 
                                 "date": "2017-12-27T16:00:00+01:00", 
@@ -4556,7 +4528,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1346, 
+                                "id": 1345, 
                                 "guid": "0684a69d-9796-4946-9955-84cfafe8cb64", 
                                 "logo": null, 
                                 "date": "2017-12-27T17:00:00+01:00", 
@@ -4584,7 +4556,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1346, 
+                                "id": 1345, 
                                 "guid": "0684a69d-9796-4946-9955-84cfafe8cb64", 
                                 "logo": null, 
                                 "date": "2017-12-27T19:00:00+01:00", 
@@ -4594,6 +4566,34 @@
                                 "slug": "", 
                                 "title": "TeaHouse", 
                                 "subtitle": "Dr. Peng saves the world", 
+                                "track": "self organized sessions", 
+                                "type": "meeting", 
+                                "language": "en", 
+                                "abstract": "", 
+                                "description": "", 
+                                "persons": [
+                                    {
+                                        "id": 0, 
+                                        "url": "https://events.ccc.de/congress/2017/wiki/index.php/User:Sanpi", 
+                                        "public_name": "Sanpi"
+                                    }
+                                ], 
+                                "links": [
+                                    "https://teahouse.homecomputing.fr/", 
+                                    "https://events.ccc.de/congress/2017/wiki/index.php/Session:TeaHouse"
+                                ]
+                            }, 
+                            {
+                                "id": 1348, 
+                                "guid": "2fe2c9a3-8e76-4542-afb8-6505fed72094", 
+                                "logo": null, 
+                                "date": "2017-12-27T13:00:00+01:00", 
+                                "start": "13:00", 
+                                "duration": "0:45", 
+                                "room": "Assembly:TeaHouse", 
+                                "slug": "", 
+                                "title": "TeaHouse", 
+                                "subtitle": "Welcome to the TeaHouse", 
                                 "track": "self organized sessions", 
                                 "type": "meeting", 
                                 "language": "en", 
@@ -6545,7 +6545,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1363, 
+                                "id": 1362, 
                                 "guid": "9b5087f5-f903-5324-9672-50105ed38e1b", 
                                 "logo": null, 
                                 "date": "2017-12-28T17:00:00+01:00", 
@@ -6996,7 +6996,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1335, 
+                                "id": 1336, 
                                 "guid": "58d27c73-4a82-4199-b186-f939686353b2", 
                                 "logo": null, 
                                 "date": "2017-12-28T13:00:00+01:00", 
@@ -7020,7 +7020,7 @@
                         ], 
                         "Seminar room 13": [
                             {
-                                "id": 1008, 
+                                "id": 1009, 
                                 "guid": "4d2df78a-654b-48ec-b90b-ab100da126a6", 
                                 "logo": null, 
                                 "date": "2017-12-28T09:00:00+01:00", 
@@ -8627,7 +8627,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1365, 
+                                "id": 1364, 
                                 "guid": "478676ae-916e-4012-9cce-f71ef82aac04", 
                                 "logo": null, 
                                 "date": "2017-12-28T12:00:00+01:00", 
@@ -9414,7 +9414,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1183, 
+                                "id": 1184, 
                                 "guid": "e87a7b37-b57c-4367-957c-1ef2dcd3a606", 
                                 "logo": null, 
                                 "date": "2017-12-28T17:30:00+01:00", 
@@ -9803,28 +9803,7 @@
                         ], 
                         "CCL Hall 2": [
                             {
-                                "id": 1079, 
-                                "guid": "531e5d6b-bb6a-5f91-b3cc-ac67734ae70f", 
-                                "logo": null, 
-                                "date": "2017-12-28T10:10:00+01:00", 
-                                "start": "10:10", 
-                                "duration": "1:20", 
-                                "room": "CCL Hall 2", 
-                                "slug": "", 
-                                "title": "DLF", 
-                                "subtitle": "\"Progmmieren lernen mit Raspberry Pi und Co.\"", 
-                                "track": "self organized sessions", 
-                                "type": "", 
-                                "language": "de", 
-                                "abstract": "", 
-                                "description": "DLF", 
-                                "persons": [], 
-                                "links": [
-                                    "https://events.ccc.de/congress/2017/wiki/index.php/Session:DLF"
-                                ]
-                            }, 
-                            {
-                                "id": 1082, 
+                                "id": 1078, 
                                 "guid": "c722d326-9297-5528-a7dd-6645ead7e8b1", 
                                 "logo": null, 
                                 "date": "2017-12-28T13:00:00+01:00", 
@@ -9845,7 +9824,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1085, 
+                                "id": 1081, 
                                 "guid": "4f5a4ab1-ab30-5729-8b05-8865a475dd8e", 
                                 "logo": null, 
                                 "date": "2017-12-28T16:35:00+01:00", 
@@ -9866,7 +9845,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1088, 
+                                "id": 1084, 
                                 "guid": "3b865956-5400-5ec4-81b0-028abf9495aa", 
                                 "logo": null, 
                                 "date": "2017-12-28T17:00:00+01:00", 
@@ -9876,6 +9855,27 @@
                                 "slug": "", 
                                 "title": "DLF", 
                                 "subtitle": "Studiogespr\u00e4ch", 
+                                "track": "self organized sessions", 
+                                "type": "", 
+                                "language": "de", 
+                                "abstract": "", 
+                                "description": "DLF", 
+                                "persons": [], 
+                                "links": [
+                                    "https://events.ccc.de/congress/2017/wiki/index.php/Session:DLF"
+                                ]
+                            }, 
+                            {
+                                "id": 1091, 
+                                "guid": "531e5d6b-bb6a-5f91-b3cc-ac67734ae70f", 
+                                "logo": null, 
+                                "date": "2017-12-28T10:10:00+01:00", 
+                                "start": "10:10", 
+                                "duration": "1:20", 
+                                "room": "CCL Hall 2", 
+                                "slug": "", 
+                                "title": "DLF", 
+                                "subtitle": "\"Progmmieren lernen mit Raspberry Pi und Co.\"", 
                                 "track": "self organized sessions", 
                                 "type": "", 
                                 "language": "de", 
@@ -10226,90 +10226,6 @@
                                 "id": 1217, 
                                 "guid": "68c26941-115f-4ada-8ed5-d0e4217680cf", 
                                 "logo": null, 
-                                "date": "2017-12-28T13:00:00+01:00", 
-                                "start": "13:00", 
-                                "duration": "1:00", 
-                                "room": "Assembly:TeaHouse", 
-                                "slug": "", 
-                                "title": "TeaHouse", 
-                                "subtitle": "Meta Mate", 
-                                "track": "self organized sessions", 
-                                "type": "meeting", 
-                                "language": "en", 
-                                "abstract": "", 
-                                "description": "", 
-                                "persons": [
-                                    {
-                                        "id": 0, 
-                                        "url": "https://events.ccc.de/congress/2017/wiki/index.php/User:Sanpi", 
-                                        "public_name": "Sanpi"
-                                    }
-                                ], 
-                                "links": [
-                                    "https://teahouse.homecomputing.fr/", 
-                                    "https://events.ccc.de/congress/2017/wiki/index.php/Session:TeaHouse"
-                                ]
-                            }, 
-                            {
-                                "id": 1217, 
-                                "guid": "68c26941-115f-4ada-8ed5-d0e4217680cf", 
-                                "logo": null, 
-                                "date": "2017-12-28T23:00:00+01:00", 
-                                "start": "23:00", 
-                                "duration": "1:00", 
-                                "room": "Assembly:TeaHouse", 
-                                "slug": "", 
-                                "title": "TeaHouse", 
-                                "subtitle": "CiTiZEN KiNO #69 : Electric Sheep REvisited x2", 
-                                "track": "self organized sessions", 
-                                "type": "meeting", 
-                                "language": "en", 
-                                "abstract": "", 
-                                "description": "", 
-                                "persons": [
-                                    {
-                                        "id": 0, 
-                                        "url": "https://events.ccc.de/congress/2017/wiki/index.php/User:Sanpi", 
-                                        "public_name": "Sanpi"
-                                    }
-                                ], 
-                                "links": [
-                                    "https://teahouse.homecomputing.fr/", 
-                                    "https://events.ccc.de/congress/2017/wiki/index.php/Session:TeaHouse"
-                                ]
-                            }, 
-                            {
-                                "id": 1217, 
-                                "guid": "68c26941-115f-4ada-8ed5-d0e4217680cf", 
-                                "logo": null, 
-                                "date": "2017-12-28T14:30:00+01:00", 
-                                "start": "14:30", 
-                                "duration": "0:45", 
-                                "room": "Assembly:TeaHouse", 
-                                "slug": "", 
-                                "title": "TeaHouse", 
-                                "subtitle": "Glider Ink: hacker movement in the popular culture", 
-                                "track": "self organized sessions", 
-                                "type": "meeting", 
-                                "language": "en", 
-                                "abstract": "", 
-                                "description": "", 
-                                "persons": [
-                                    {
-                                        "id": 0, 
-                                        "url": "https://events.ccc.de/congress/2017/wiki/index.php/User:Sanpi", 
-                                        "public_name": "Sanpi"
-                                    }
-                                ], 
-                                "links": [
-                                    "https://teahouse.homecomputing.fr/", 
-                                    "https://events.ccc.de/congress/2017/wiki/index.php/Session:TeaHouse"
-                                ]
-                            }, 
-                            {
-                                "id": 1217, 
-                                "guid": "68c26941-115f-4ada-8ed5-d0e4217680cf", 
-                                "logo": null, 
                                 "date": "2017-12-28T16:00:00+01:00", 
                                 "start": "16:00", 
                                 "duration": "1:00", 
@@ -10335,7 +10251,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1347, 
+                                "id": 1346, 
                                 "guid": "fa3d8ee5-d1ff-4b29-a763-a49f7b882ceb", 
                                 "logo": null, 
                                 "date": "2017-12-28T17:30:00+01:00", 
@@ -10401,6 +10317,90 @@
                                 "slug": "", 
                                 "title": "TeaHouse", 
                                 "subtitle": "Radio Dabanga Massive audience engagement in (human rights/humanitarian) reporting", 
+                                "track": "self organized sessions", 
+                                "type": "meeting", 
+                                "language": "en", 
+                                "abstract": "", 
+                                "description": "", 
+                                "persons": [
+                                    {
+                                        "id": 0, 
+                                        "url": "https://events.ccc.de/congress/2017/wiki/index.php/User:Sanpi", 
+                                        "public_name": "Sanpi"
+                                    }
+                                ], 
+                                "links": [
+                                    "https://teahouse.homecomputing.fr/", 
+                                    "https://events.ccc.de/congress/2017/wiki/index.php/Session:TeaHouse"
+                                ]
+                            }, 
+                            {
+                                "id": 1217, 
+                                "guid": "68c26941-115f-4ada-8ed5-d0e4217680cf", 
+                                "logo": null, 
+                                "date": "2017-12-28T13:00:00+01:00", 
+                                "start": "13:00", 
+                                "duration": "1:00", 
+                                "room": "Assembly:TeaHouse", 
+                                "slug": "", 
+                                "title": "TeaHouse", 
+                                "subtitle": "Meta Mate", 
+                                "track": "self organized sessions", 
+                                "type": "meeting", 
+                                "language": "en", 
+                                "abstract": "", 
+                                "description": "", 
+                                "persons": [
+                                    {
+                                        "id": 0, 
+                                        "url": "https://events.ccc.de/congress/2017/wiki/index.php/User:Sanpi", 
+                                        "public_name": "Sanpi"
+                                    }
+                                ], 
+                                "links": [
+                                    "https://teahouse.homecomputing.fr/", 
+                                    "https://events.ccc.de/congress/2017/wiki/index.php/Session:TeaHouse"
+                                ]
+                            }, 
+                            {
+                                "id": 1217, 
+                                "guid": "68c26941-115f-4ada-8ed5-d0e4217680cf", 
+                                "logo": null, 
+                                "date": "2017-12-28T23:00:00+01:00", 
+                                "start": "23:00", 
+                                "duration": "1:00", 
+                                "room": "Assembly:TeaHouse", 
+                                "slug": "", 
+                                "title": "TeaHouse", 
+                                "subtitle": "CiTiZEN KiNO #69 : Electric Sheep REvisited x2", 
+                                "track": "self organized sessions", 
+                                "type": "meeting", 
+                                "language": "en", 
+                                "abstract": "", 
+                                "description": "", 
+                                "persons": [
+                                    {
+                                        "id": 0, 
+                                        "url": "https://events.ccc.de/congress/2017/wiki/index.php/User:Sanpi", 
+                                        "public_name": "Sanpi"
+                                    }
+                                ], 
+                                "links": [
+                                    "https://teahouse.homecomputing.fr/", 
+                                    "https://events.ccc.de/congress/2017/wiki/index.php/Session:TeaHouse"
+                                ]
+                            }, 
+                            {
+                                "id": 1217, 
+                                "guid": "68c26941-115f-4ada-8ed5-d0e4217680cf", 
+                                "logo": null, 
+                                "date": "2017-12-28T14:30:00+01:00", 
+                                "start": "14:30", 
+                                "duration": "0:45", 
+                                "room": "Assembly:TeaHouse", 
+                                "slug": "", 
+                                "title": "TeaHouse", 
+                                "subtitle": "Glider Ink: hacker movement in the popular culture", 
                                 "track": "self organized sessions", 
                                 "type": "meeting", 
                                 "language": "en", 
@@ -12753,7 +12753,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1361, 
+                                "id": 1360, 
                                 "guid": "f3a30985-fc90-51f2-baa3-a07d034bffcc", 
                                 "logo": null, 
                                 "date": "2017-12-29T17:30:00+01:00", 
@@ -13020,7 +13020,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1008, 
+                                "id": 1009, 
                                 "guid": "4d2df78a-654b-48ec-b90b-ab100da126a6", 
                                 "logo": null, 
                                 "date": "2017-12-29T09:00:00+01:00", 
@@ -13896,7 +13896,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1190, 
+                                "id": 1188, 
                                 "guid": "97c297e9-344d-4a68-bb70-cdbe88a6a7ee", 
                                 "logo": null, 
                                 "date": "2017-12-29T16:30:00+01:00", 
@@ -15019,7 +15019,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1183, 
+                                "id": 1184, 
                                 "guid": "e87a7b37-b57c-4367-957c-1ef2dcd3a606", 
                                 "logo": null, 
                                 "date": "2017-12-29T17:30:00+01:00", 
@@ -15077,33 +15077,6 @@
                                 "id": 1337, 
                                 "guid": "7b07e29a-77f7-492d-9633-ed5c0fd10b9a", 
                                 "logo": null, 
-                                "date": "2017-12-29T19:30:00+01:00", 
-                                "start": "19:30", 
-                                "duration": "1:30", 
-                                "room": "Assembly:HardwareHackingArea", 
-                                "slug": "", 
-                                "title": "Surface mount electronics assembly for terrified beginners", 
-                                "subtitle": "Day 3 Session 3", 
-                                "track": "self organized sessions", 
-                                "type": "workshop", 
-                                "language": "en", 
-                                "abstract": "", 
-                                "description": "Surface mount electronics for terrified beginners. Learn to assemble tiny parts on circuit boards by building a working power supply. Anyone can do it. Yes, even you who never touched anything electronic before. 90-100mins, 20\u20ac/kit, avoid caffeine immediately before. Max 20 participants per session, there will be a PAPER!!1! signup list in the hardware hacking area.", 
-                                "persons": [
-                                    {
-                                        "id": 0, 
-                                        "url": "https://events.ccc.de/congress/2017/wiki/index.php/User:Kliment", 
-                                        "public_name": "Kliment"
-                                    }
-                                ], 
-                                "links": [
-                                    "https://events.ccc.de/congress/2017/wiki/index.php/Session:Surface_mount_electronics_assembly_for_terrified_beginners"
-                                ]
-                            }, 
-                            {
-                                "id": 1337, 
-                                "guid": "7b07e29a-77f7-492d-9633-ed5c0fd10b9a", 
-                                "logo": null, 
                                 "date": "2017-12-29T11:00:00+01:00", 
                                 "start": "11:00", 
                                 "duration": "1:30", 
@@ -15138,6 +15111,33 @@
                                 "slug": "", 
                                 "title": "Surface mount electronics assembly for terrified beginners", 
                                 "subtitle": "Day 3 Session 2", 
+                                "track": "self organized sessions", 
+                                "type": "workshop", 
+                                "language": "en", 
+                                "abstract": "", 
+                                "description": "Surface mount electronics for terrified beginners. Learn to assemble tiny parts on circuit boards by building a working power supply. Anyone can do it. Yes, even you who never touched anything electronic before. 90-100mins, 20\u20ac/kit, avoid caffeine immediately before. Max 20 participants per session, there will be a PAPER!!1! signup list in the hardware hacking area.", 
+                                "persons": [
+                                    {
+                                        "id": 0, 
+                                        "url": "https://events.ccc.de/congress/2017/wiki/index.php/User:Kliment", 
+                                        "public_name": "Kliment"
+                                    }
+                                ], 
+                                "links": [
+                                    "https://events.ccc.de/congress/2017/wiki/index.php/Session:Surface_mount_electronics_assembly_for_terrified_beginners"
+                                ]
+                            }, 
+                            {
+                                "id": 1337, 
+                                "guid": "7b07e29a-77f7-492d-9633-ed5c0fd10b9a", 
+                                "logo": null, 
+                                "date": "2017-12-29T19:30:00+01:00", 
+                                "start": "19:30", 
+                                "duration": "1:30", 
+                                "room": "Assembly:HardwareHackingArea", 
+                                "slug": "", 
+                                "title": "Surface mount electronics assembly for terrified beginners", 
+                                "subtitle": "Day 3 Session 3", 
                                 "track": "self organized sessions", 
                                 "type": "workshop", 
                                 "language": "en", 
@@ -15254,7 +15254,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1330, 
+                                "id": 1331, 
                                 "guid": "2db364a3-1bd0-481c-bf8f-19b3e4dfca83", 
                                 "logo": null, 
                                 "date": "2017-12-29T17:40:00+01:00", 
@@ -15470,16 +15470,16 @@
                         ], 
                         "CCL Hall 2": [
                             {
-                                "id": 1078, 
-                                "guid": "996b43ab-9f4c-5e9e-bdb7-9c0b7ab7bf48", 
+                                "id": 1087, 
+                                "guid": "1481e306-80a7-5abd-842c-177422a47468", 
                                 "logo": null, 
-                                "date": "2017-12-29T17:00:00+01:00", 
-                                "start": "17:00", 
-                                "duration": "1:00", 
+                                "date": "2017-12-29T16:35:00+01:00", 
+                                "start": "16:35", 
+                                "duration": "0:25", 
                                 "room": "CCL Hall 2", 
                                 "slug": "", 
                                 "title": "DLF", 
-                                "subtitle": "Studiogespr\u00e4ch", 
+                                "subtitle": "Live-Beitrag in Forschung Aktuell", 
                                 "track": "self organized sessions", 
                                 "type": "", 
                                 "language": "de", 
@@ -15491,16 +15491,16 @@
                                 ]
                             }, 
                             {
-                                "id": 1091, 
-                                "guid": "1481e306-80a7-5abd-842c-177422a47468", 
+                                "id": 1090, 
+                                "guid": "996b43ab-9f4c-5e9e-bdb7-9c0b7ab7bf48", 
                                 "logo": null, 
-                                "date": "2017-12-29T16:35:00+01:00", 
-                                "start": "16:35", 
-                                "duration": "0:25", 
+                                "date": "2017-12-29T17:00:00+01:00", 
+                                "start": "17:00", 
+                                "duration": "1:00", 
                                 "room": "CCL Hall 2", 
                                 "slug": "", 
                                 "title": "DLF", 
-                                "subtitle": "Live-Beitrag in Forschung Aktuell", 
+                                "subtitle": "Studiogespr\u00e4ch", 
                                 "track": "self organized sessions", 
                                 "type": "", 
                                 "language": "de", 
@@ -15570,7 +15570,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1168, 
+                                "id": 1169, 
                                 "guid": "687e161b-8d94-5b1c-8915-bd921f8b0475", 
                                 "logo": null, 
                                 "date": "2017-12-29T16:00:00+01:00", 
@@ -15630,7 +15630,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1189, 
+                                "id": 1190, 
                                 "guid": "95d4a092-e0a5-5219-b11a-2c413a249d11", 
                                 "logo": null, 
                                 "date": "2017-12-29T17:00:00+01:00", 
@@ -15698,8 +15698,19 @@
                                 "type": "", 
                                 "language": "de", 
                                 "abstract": "", 
-                                "description": "A quick crossfire of nerdsniping topics \u2013 stuff we find interesting, stuff we think you will find interesting, as well!", 
-                                "persons": [], 
+                                "description": "Ein buntes Potpourri aus Kunst, Computer und Kuriosit\u00e4ten mit Bleeptrack und blinry. Lasst uns euch nerdsnipen!", 
+                                "persons": [
+                                    {
+                                        "id": 0, 
+                                        "url": "https://events.ccc.de/congress/2017/wiki/index.php/User:Bleeptrack", 
+                                        "public_name": "Bleeptrack"
+                                    }, 
+                                    {
+                                        "id": 0, 
+                                        "url": "https://events.ccc.de/congress/2017/wiki/index.php/User:Blinry", 
+                                        "public_name": "Blinry"
+                                    }
+                                ], 
                                 "links": [
                                     "https://events.ccc.de/congress/2017/wiki/index.php/Session:Operation_Mindfuck"
                                 ]
@@ -15971,7 +15982,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1348, 
+                                "id": 1347, 
                                 "guid": "bf53e3db-dcf4-4460-b5b4-4d397b264586", 
                                 "logo": null, 
                                 "date": "2017-12-29T16:00:00+01:00", 
@@ -17274,33 +17285,6 @@
                         ], 
                         "Lecture room 12": [
                             {
-                                "id": 1053, 
-                                "guid": "5b0f9d88-36ba-49f2-b66b-731eaaab7b4c", 
-                                "logo": null, 
-                                "date": "2017-12-30T16:30:00+01:00", 
-                                "start": "16:30", 
-                                "duration": "1:00", 
-                                "room": "Lecture room 12", 
-                                "slug": "", 
-                                "title": "CCChoir Flashmob", 
-                                "subtitle": "", 
-                                "track": "self organized sessions", 
-                                "type": "other", 
-                                "language": "de", 
-                                "abstract": "", 
-                                "description": "SingWat - CCChoir in der Glashalle", 
-                                "persons": [
-                                    {
-                                        "id": 0, 
-                                        "url": "https://events.ccc.de/congress/2017/wiki/index.php/User:Coco", 
-                                        "public_name": "Coco"
-                                    }
-                                ], 
-                                "links": [
-                                    "https://events.ccc.de/congress/2017/wiki/index.php/Session:CCChoir_Flashmob"
-                                ]
-                            }, 
-                            {
                                 "id": 1106, 
                                 "guid": "61179c1a-cda4-42ee-a102-5945a6ffeb59", 
                                 "logo": null, 
@@ -17388,7 +17372,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1399, 
+                                "id": 1398, 
                                 "guid": "dd59f0b8-212d-4978-8476-fffb4455bb25", 
                                 "logo": null, 
                                 "date": "2017-12-30T14:30:00+01:00", 
@@ -17446,7 +17430,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1008, 
+                                "id": 1009, 
                                 "guid": "4d2df78a-654b-48ec-b90b-ab100da126a6", 
                                 "logo": null, 
                                 "date": "2017-12-30T09:00:00+01:00", 
@@ -17471,6 +17455,33 @@
                                 "links": [
                                     "https://www.yogatoessfeld.ch/team/martin-voegeli-springer/", 
                                     "https://events.ccc.de/congress/2017/wiki/index.php/Session:42birds:_Hitchhiker%27s_Towel-Yoga"
+                                ]
+                            }, 
+                            {
+                                "id": 1053, 
+                                "guid": "5b0f9d88-36ba-49f2-b66b-731eaaab7b4c", 
+                                "logo": null, 
+                                "date": "2017-12-30T16:30:00+01:00", 
+                                "start": "16:30", 
+                                "duration": "1:00", 
+                                "room": "Seminar room 13", 
+                                "slug": "", 
+                                "title": "CCChoir Flashmob", 
+                                "subtitle": "", 
+                                "track": "self organized sessions", 
+                                "type": "other", 
+                                "language": "de", 
+                                "abstract": "", 
+                                "description": "SingWat - CCChoir in der Glashalle", 
+                                "persons": [
+                                    {
+                                        "id": 0, 
+                                        "url": "https://events.ccc.de/congress/2017/wiki/index.php/User:Coco", 
+                                        "public_name": "Coco"
+                                    }
+                                ], 
+                                "links": [
+                                    "https://events.ccc.de/congress/2017/wiki/index.php/Session:CCChoir_Flashmob"
                                 ]
                             }, 
                             {
@@ -18134,28 +18145,7 @@
                         ], 
                         "CCL Hall 2": [
                             {
-                                "id": 1081, 
-                                "guid": "1c73c759-0d3b-501e-a07d-82ea10e9f40c", 
-                                "logo": null, 
-                                "date": "2017-12-30T13:05:00+01:00", 
-                                "start": "13:05", 
-                                "duration": "0:55", 
-                                "room": "CCL Hall 2", 
-                                "slug": "", 
-                                "title": "DLF", 
-                                "subtitle": "Dlf Kultur - Breitband", 
-                                "track": "self organized sessions", 
-                                "type": "", 
-                                "language": "de", 
-                                "abstract": "", 
-                                "description": "DLF", 
-                                "persons": [], 
-                                "links": [
-                                    "https://events.ccc.de/congress/2017/wiki/index.php/Session:DLF"
-                                ]
-                            }, 
-                            {
-                                "id": 1084, 
+                                "id": 1080, 
                                 "guid": "bdf00168-ed69-5809-9916-a89d109c9b2c", 
                                 "logo": null, 
                                 "date": "2017-12-30T14:15:00+01:00", 
@@ -18174,11 +18164,32 @@
                                 "links": [
                                     "https://events.ccc.de/congress/2017/wiki/index.php/Session:DLF"
                                 ]
+                            }, 
+                            {
+                                "id": 1093, 
+                                "guid": "1c73c759-0d3b-501e-a07d-82ea10e9f40c", 
+                                "logo": null, 
+                                "date": "2017-12-30T13:05:00+01:00", 
+                                "start": "13:05", 
+                                "duration": "0:55", 
+                                "room": "CCL Hall 2", 
+                                "slug": "", 
+                                "title": "DLF", 
+                                "subtitle": "Dlf Kultur - Breitband", 
+                                "track": "self organized sessions", 
+                                "type": "", 
+                                "language": "de", 
+                                "abstract": "", 
+                                "description": "DLF", 
+                                "persons": [], 
+                                "links": [
+                                    "https://events.ccc.de/congress/2017/wiki/index.php/Session:DLF"
+                                ]
                             }
                         ], 
                         "Assembly:HardwareHackingArea": [
                             {
-                                "id": 1183, 
+                                "id": 1184, 
                                 "guid": "e87a7b37-b57c-4367-957c-1ef2dcd3a606", 
                                 "logo": null, 
                                 "date": "2017-12-30T13:00:00+01:00", 
@@ -18342,34 +18353,6 @@
                                 "id": 1344, 
                                 "guid": "622c5770-b9fc-45ef-b9fc-1533f661e3ec", 
                                 "logo": null, 
-                                "date": "2017-12-30T12:00:00+01:00", 
-                                "start": "12:00", 
-                                "duration": "0:30", 
-                                "room": "Assembly:TeaHouse", 
-                                "slug": "", 
-                                "title": "TeaHouse", 
-                                "subtitle": "Updating Security in a Box", 
-                                "track": "self organized sessions", 
-                                "type": "meeting", 
-                                "language": "en", 
-                                "abstract": "", 
-                                "description": "", 
-                                "persons": [
-                                    {
-                                        "id": 0, 
-                                        "url": "https://events.ccc.de/congress/2017/wiki/index.php/User:Sanpi", 
-                                        "public_name": "Sanpi"
-                                    }
-                                ], 
-                                "links": [
-                                    "https://teahouse.homecomputing.fr/", 
-                                    "https://events.ccc.de/congress/2017/wiki/index.php/Session:TeaHouse"
-                                ]
-                            }, 
-                            {
-                                "id": 1344, 
-                                "guid": "622c5770-b9fc-45ef-b9fc-1533f661e3ec", 
-                                "logo": null, 
                                 "date": "2017-12-30T13:00:00+01:00", 
                                 "start": "13:00", 
                                 "duration": "0:20", 
@@ -18433,6 +18416,34 @@
                                 "slug": "", 
                                 "title": "TeaHouse", 
                                 "subtitle": "want to talk about the new c.h.an.g.e. location", 
+                                "track": "self organized sessions", 
+                                "type": "meeting", 
+                                "language": "en", 
+                                "abstract": "", 
+                                "description": "", 
+                                "persons": [
+                                    {
+                                        "id": 0, 
+                                        "url": "https://events.ccc.de/congress/2017/wiki/index.php/User:Sanpi", 
+                                        "public_name": "Sanpi"
+                                    }
+                                ], 
+                                "links": [
+                                    "https://teahouse.homecomputing.fr/", 
+                                    "https://events.ccc.de/congress/2017/wiki/index.php/Session:TeaHouse"
+                                ]
+                            }, 
+                            {
+                                "id": 1344, 
+                                "guid": "622c5770-b9fc-45ef-b9fc-1533f661e3ec", 
+                                "logo": null, 
+                                "date": "2017-12-30T12:00:00+01:00", 
+                                "start": "12:00", 
+                                "duration": "0:30", 
+                                "room": "Assembly:TeaHouse", 
+                                "slug": "", 
+                                "title": "TeaHouse", 
+                                "subtitle": "Updating Security in a Box", 
                                 "track": "self organized sessions", 
                                 "type": "meeting", 
                                 "language": "en", 
