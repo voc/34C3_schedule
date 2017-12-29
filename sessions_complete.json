@@ -1231,57 +1231,55 @@
             "1514574000"
         ]
     }, 
-    "Session:\u201cHow To Survice 34C3\u201d CryptoParty# 315b9931c898bb6cf50b88ed7977a2b4": {
+    "Session:Whiskeyleaks# bd0fa9b0b5201c935b5064bafff7e571": {
         "Held in language": [
             "en - English"
         ], 
         "Has start time": [
-            "1514390400"
+            "1514584800"
         ], 
         "Has event track": [
             "Session"
         ], 
-        "Has website": [
-            "https://www.cryptoparty.in/34c3"
-        ], 
+        "Has website": [], 
         "Has description": [
-            "Privacy is the space in which ideas are developed, to retreat into whenever you want. This space is not only physical but digital as well. Governments and companies don't want to respect that so we become active ourselves.\n\nThe goal of this hands-on session is to pass on knowledge about protecting yourself in the digital space. This can include encrypted communication, preventing being tracked while browsing the web and general security advice for computers and smartphones."
+            "Bring whiskey to participate"
         ], 
         "Has session type": [
-            "Hands-On"
+            "Meeting"
         ], 
         "Has session location": [
             {
-                "fulltext": "Room:Lecture room 12", 
-                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Room:Lecture_room_12", 
-                "namespace": 516, 
+                "fulltext": "Assembly:Milliways", 
+                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Assembly:Milliways", 
+                "namespace": 504, 
                 "exists": true
             }
         ], 
         "Has subtitle": [], 
         "Is organized by": [
             {
-                "fulltext": "User:Dawning-sun", 
-                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/User:Dawning-sun", 
+                "fulltext": "User:Mc.fly", 
+                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/User:Mc.fly", 
                 "namespace": 2, 
                 "exists": true
             }
         ], 
         "Has title": [
-            "\u201cHow To Survice 34C3\u201d CryptoParty"
+            "Whiskeyleaks"
         ], 
         "Has duration": [
-            150
+            120
         ], 
         "GUID": [
-            "def1b880-7e56-415c-a57b-73b5acda9b5a"
+            "6f27b019-7d82-4d4e-8053-357fc34267d9"
         ], 
         "Has color": [
             "#0099ab"
         ], 
-        "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:%E2%80%9CHow_To_Survice_34C3%E2%80%9D_CryptoParty", 
+        "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:Whiskeyleaks", 
         "Has end time": [
-            "1514399400"
+            "1514592000"
         ]
     }, 
     "Session:Autocrypt# 471a747e1eb1fdcd0e0712088572ed2f": {
@@ -7974,57 +7972,6 @@
             "1514501100"
         ]
     }, 
-    "Session:Whiskeyleaks# 85b837d36455ffb75e1e27953ee5e977": {
-        "Held in language": [
-            "en - English"
-        ], 
-        "Has start time": [
-            "1514577600"
-        ], 
-        "Has event track": [
-            "Session"
-        ], 
-        "Has website": [], 
-        "Has description": [
-            "Bring whiskey to participate"
-        ], 
-        "Has session type": [
-            "Meeting"
-        ], 
-        "Has session location": [
-            {
-                "fulltext": "Assembly:Milliways", 
-                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Assembly:Milliways", 
-                "namespace": 504, 
-                "exists": true
-            }
-        ], 
-        "Has subtitle": [], 
-        "Is organized by": [
-            {
-                "fulltext": "User:Mc.fly", 
-                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/User:Mc.fly", 
-                "namespace": 2, 
-                "exists": true
-            }
-        ], 
-        "Has title": [
-            "Whiskeyleaks"
-        ], 
-        "Has duration": [
-            120
-        ], 
-        "GUID": [
-            "6f27b019-7d82-4d4e-8053-357fc34267d9"
-        ], 
-        "Has color": [
-            "#0099ab"
-        ], 
-        "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:Whiskeyleaks", 
-        "Has end time": [
-            "1514584800"
-        ]
-    }, 
     "Session:Pirate Parties Members Meetup# 51040241547a3cf32e88db92afc2241f": {
         "Held in language": [
             "de - German", 
@@ -8093,7 +8040,7 @@
             "https://www.scuttlebutt.nz/"
         ], 
         "Has description": [
-            "Secure Scuttlebutt is a database protocol for unforgeable append-only message feeds.\n\n\"Unforgeable\" means that only the owner of a feed can update that feed, as enforced by digital signing (see Security properties). This property makes Secure Scuttlebutt useful for peer-to-peer applications. Secure Scuttlebutt also makes it easy to encrypt messages."
+            "Secure Scuttlebutt is a database protocol for unforgeable append-only message feeds.\n\"Unforgeable\" means that only the owner of a feed can update that feed, as enforced by digital signing (see Security properties). This property makes Secure Scuttlebutt useful for peer-to-peer applications. Secure Scuttlebutt also makes it easy to encrypt messages.\ntl;dr instead of objectivity, singletons, and consensus, SSB (scuttlebutt) embraces subjectivity, social networks and local trust"
         ], 
         "Has session type": [
             "Talk"
@@ -8624,6 +8571,59 @@
         "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:IOSRE", 
         "Has end time": [
             "1514487600"
+        ]
+    }, 
+    "Session:\u201cHow To Survice 34C3\u201d CryptoParty# 315b9931c898bb6cf50b88ed7977a2b4": {
+        "Held in language": [
+            "en - English"
+        ], 
+        "Has start time": [
+            "1514390400"
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [
+            "https://www.cryptoparty.in/34c3"
+        ], 
+        "Has description": [
+            "Privacy is the space in which ideas are developed, to retreat into whenever you want. This space is not only physical but digital as well. Governments and companies don't want to respect that so we become active ourselves.\n\nThe goal of this hands-on session is to pass on knowledge about protecting yourself in the digital space. This can include encrypted communication, preventing being tracked while browsing the web and general security advice for computers and smartphones."
+        ], 
+        "Has session type": [
+            "Hands-On"
+        ], 
+        "Has session location": [
+            {
+                "fulltext": "Room:Lecture room 12", 
+                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Room:Lecture_room_12", 
+                "namespace": 516, 
+                "exists": true
+            }
+        ], 
+        "Has subtitle": [], 
+        "Is organized by": [
+            {
+                "fulltext": "User:Dawning-sun", 
+                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/User:Dawning-sun", 
+                "namespace": 2, 
+                "exists": true
+            }
+        ], 
+        "Has title": [
+            "\u201cHow To Survice 34C3\u201d CryptoParty"
+        ], 
+        "Has duration": [
+            150
+        ], 
+        "GUID": [
+            "def1b880-7e56-415c-a57b-73b5acda9b5a"
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:%E2%80%9CHow_To_Survice_34C3%E2%80%9D_CryptoParty", 
+        "Has end time": [
+            "1514399400"
         ]
     }, 
     "Session:Critical Mass Leipzig# 0ab179fd5df93b33cd726053086db8f4": {
