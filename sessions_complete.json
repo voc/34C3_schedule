@@ -3312,52 +3312,57 @@
             "1514486700"
         ]
     }, 
-    "Session:Giveth: Decentralizing the Non-Profit World# 2741f237ee262ba55df271f1fbd878e6": {
+    "Session:XMPP# 1f9837aeb62417d57d9d03e3cde34205": {
         "Held in language": [
             "en - English"
         ], 
         "Has start time": [
-            "1514656800"
+            "1514581200"
         ], 
         "Has event track": [
             "Session"
         ], 
-        "Has website": [
-            "https://giveth.io/join/"
-        ], 
+        "Has website": [], 
         "Has description": [
-            "Giveth is a radically transparent, not-for-profit community developing open source projects aimed at DAO-fying the non-profit world and building the future of giving. Q&A after a short talk."
+            "Gathering of XMPP developers"
         ], 
         "Has session type": [
-            "Talk"
+            "Meeting"
         ], 
         "Has session location": [
             {
-                "fulltext": "Room:Chaos West Stage", 
-                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Room:Chaos_West_Stage", 
+                "fulltext": "Room:Seminar room 13", 
+                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Room:Seminar_room_13", 
                 "namespace": 516, 
                 "exists": true
             }
         ], 
         "Has subtitle": [
-            "Building Transparent Communities with Smart Contracts"
+            "Gathering of XMPP developers"
         ], 
-        "Is organized by": [], 
+        "Is organized by": [
+            {
+                "fulltext": "User:Marvin", 
+                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/User:Marvin", 
+                "namespace": 2, 
+                "exists": true
+            }
+        ], 
         "Has title": [
-            "Giveth: Decentralizing the Non-Profit World"
+            "XMPP"
         ], 
         "Has duration": [
-            45
+            60
         ], 
         "GUID": [
-            "ea42e0f6-0320-4c0e-b8c4-db01151ce6b4"
+            "c6c07046-00a5-4f1e-96b3-2b02d30d154d"
         ], 
         "Has color": [
             "#0099ab"
         ], 
-        "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:Giveth:_Decentralizing_the_Non-Profit_World", 
+        "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:XMPP", 
         "Has end time": [
-            "1514659500"
+            "1514584800"
         ]
     }, 
     "Session:CMS Tutoren Briefing# 9b1b229bc4229efaef2ff1a45665410b": {
@@ -3559,52 +3564,6 @@
         "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:TeaHouse", 
         "Has end time": [
             "1514388600"
-        ]
-    }, 
-    "Session:Yet another cryptocurrency portfolio application (looking for contributors)# 07044f2a6c0333383a28bd1e4eb27107": {
-        "Held in language": [
-            "en - English"
-        ], 
-        "Has start time": [
-            "1514660400"
-        ], 
-        "Has event track": [
-            "Session"
-        ], 
-        "Has website": [
-            "http://cryptounicorns.io/"
-        ], 
-        "Has description": [
-            "A brief talk about cryptocurrency portfolio application we are working on.\n\nhttp://cryptounicorns.io/talks/c34c3.html"
-        ], 
-        "Has session type": [
-            "Talk"
-        ], 
-        "Has session location": [
-            {
-                "fulltext": "Room:Chaos West Stage", 
-                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Room:Chaos_West_Stage", 
-                "namespace": 516, 
-                "exists": true
-            }
-        ], 
-        "Has subtitle": [], 
-        "Is organized by": [], 
-        "Has title": [
-            "Yet another cryptocurrency portfolio application (looking for contributors)"
-        ], 
-        "Has duration": [
-            20
-        ], 
-        "GUID": [
-            "cfa29b52-9c12-4a7a-9a5c-10615dfb4373"
-        ], 
-        "Has color": [
-            "#0099ab"
-        ], 
-        "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:Yet_another_cryptocurrency_portfolio_application_(looking_for_contributors)", 
-        "Has end time": [
-            "1514661600"
         ]
     }, 
     "Session:Intro to Qubes OS# c2856bc7d086bea58ccf9bf947fa2ee5": {
@@ -10221,59 +10180,6 @@
             "1514494800"
         ]
     }, 
-    "Session:XMPP# 1f9837aeb62417d57d9d03e3cde34205": {
-        "Held in language": [
-            "en - English"
-        ], 
-        "Has start time": [
-            "1514581200"
-        ], 
-        "Has event track": [
-            "Session"
-        ], 
-        "Has website": [], 
-        "Has description": [
-            "Gathering of XMPP developers"
-        ], 
-        "Has session type": [
-            "Meeting"
-        ], 
-        "Has session location": [
-            {
-                "fulltext": "Room:Seminar room 13", 
-                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Room:Seminar_room_13", 
-                "namespace": 516, 
-                "exists": true
-            }
-        ], 
-        "Has subtitle": [
-            "Gathering of XMPP developers"
-        ], 
-        "Is organized by": [
-            {
-                "fulltext": "User:Marvin", 
-                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/User:Marvin", 
-                "namespace": 2, 
-                "exists": true
-            }
-        ], 
-        "Has title": [
-            "XMPP"
-        ], 
-        "Has duration": [
-            60
-        ], 
-        "GUID": [
-            "c6c07046-00a5-4f1e-96b3-2b02d30d154d"
-        ], 
-        "Has color": [
-            "#0099ab"
-        ], 
-        "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:XMPP", 
-        "Has end time": [
-            "1514584800"
-        ]
-    }, 
     "Session:Food Hacking: Korean healing table prep# 07c47aa508f2919639237b0e8ccfe543": {
         "Held in language": [
             "cs - Czech", 
@@ -10819,57 +10725,57 @@
         "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:Hear_What_You_Like_To_Hear", 
         "Has end time": []
     }, 
-    "Session:CCC-CH GV# e8905a7d60e1dfd1c16bb98773955cae": {
+    "Session:Cryptoparty# 3d80e5d4f5e14f9d3afdf15acff751f5": {
         "Held in language": [
-            "de - German", 
-            "en - English", 
-            "fr - French"
+            "en - English"
         ], 
         "Has start time": [
-            "1514559600"
+            "1514390400"
         ], 
         "Has event track": [
             "Session"
         ], 
-        "Has website": [
-            "https://www.ccc-ch.ch/gettogether.html"
-        ], 
+        "Has website": [], 
         "Has description": [
-            "CCC-CH GV / Gettogether"
+            "How to use OpenPGP with Enigmail and Thunderbird. If there is time left we can do keysigning afterwards. Bring your laptops"
         ], 
         "Has session type": [
-            "Meeting"
+            "Workshop"
         ], 
         "Has session location": [
             {
-                "fulltext": "Room:Seminar room 14-15", 
-                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Room:Seminar_room_14-15", 
+                "fulltext": "Room:Komona Coral Reef", 
+                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Room:Komona_Coral_Reef", 
                 "namespace": 516, 
                 "exists": true
             }
         ], 
-        "Has subtitle": [], 
+        "Has subtitle": [
+            "Hands-On"
+        ], 
         "Is organized by": [
             {
-                "fulltext": "User:Vimja", 
-                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/User:Vimja", 
+                "fulltext": "User:Bobo PK", 
+                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/User:Bobo_PK", 
                 "namespace": 2, 
                 "exists": true
             }
         ], 
         "Has title": [
-            "CCC-CH GV"
+            "Cryptoparty"
         ], 
         "Has duration": [
-            90
+            120
         ], 
-        "GUID": [], 
+        "GUID": [
+            "f9f6c980-43ad-4ca5-b0ce-af9306f514a7"
+        ], 
         "Has color": [
             "#0099ab"
         ], 
-        "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:CCC-CH_GV", 
+        "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:Cryptoparty", 
         "Has end time": [
-            "1514565000"
+            "1514397600"
         ]
     }, 
     "Session:Karaoke-Taxi# 95e759b544189a13f996c855094069a3": {
@@ -14914,6 +14820,41 @@
             "1514480400"
         ]
     }, 
+    "Session:Saunaclash - meetup for all Saunamakers and Mobile-Sauna-Fans# 9f4f4a6c6d3889232a0addb695aada2a": {
+        "Held in language": [
+            "en - English"
+        ], 
+        "Has start time": [
+            "1514651400"
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [], 
+        "Has description": [
+            "We have build up an geodesic dome sauna in Berlin and organized already some mobile-sauna-events (Hedonistic Worldcongress, Saunaclash, Gardenfest in our Backyard) We want get connect to more Saunaenthusiasts and other Saunamakers and talk about past events and plan future events. We are open for all people who are interested and want to know how to build up a Sauna"
+        ], 
+        "Has session type": [], 
+        "Has session location": [], 
+        "Has subtitle": [], 
+        "Is organized by": [], 
+        "Has title": [
+            "Saunaclash - meetup for all Saunamakers and Mobile-Sauna-Fans"
+        ], 
+        "Has duration": [
+            60
+        ], 
+        "GUID": [
+            "3fd77d87-5e5c-4193-a44e-8fe5200b3d1c"
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:Saunaclash_-_meetup_for_all_Saunamakers_and_Mobile-Sauna-Fans", 
+        "Has end time": [
+            "1514655000"
+        ]
+    }, 
     "Session:Bitmask/LEAP workshop# e2df524a90bdfc10594f96e0b013a7e2": {
         "Held in language": [
             "en - English"
@@ -18488,52 +18429,6 @@
             "1514635200"
         ]
     }, 
-    "Session:Ethereum's WHG Tells All: The DAO Hack, Parity Hack and Giveth# 30c81789490aed7d479c7b5f34a527ac": {
-        "Held in language": [
-            "en - English"
-        ], 
-        "Has start time": [
-            "1514654100"
-        ], 
-        "Has event track": [
-            "Session"
-        ], 
-        "Has website": [
-            "https://giveth.io/join/"
-        ], 
-        "Has description": [
-            "Jordi Baylina & Griff Green tell the story of The DAO Hack, Giveth & Parity Hacks from the perspective of the WHG, Followed by Q&A"
-        ], 
-        "Has session type": [
-            "Talk"
-        ], 
-        "Has session location": [
-            {
-                "fulltext": "Room:Chaos West Stage", 
-                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Room:Chaos_West_Stage", 
-                "namespace": 516, 
-                "exists": true
-            }
-        ], 
-        "Has subtitle": [], 
-        "Is organized by": [], 
-        "Has title": [
-            "Ethereum's WHG Tells All: The DAO Hack, Parity Hack and Giveth"
-        ], 
-        "Has duration": [
-            45
-        ], 
-        "GUID": [
-            "8531dcea-d249-4504-b2f6-b85ebd3f6101"
-        ], 
-        "Has color": [
-            "#0099ab"
-        ], 
-        "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:Ethereum%27s_WHG_Tells_All:_The_DAO_Hack,_Parity_Hack_and_Giveth", 
-        "Has end time": [
-            "1514656800"
-        ]
-    }, 
     "Session:Food Hacking: Korean Healing Table# 65270498748d0803be54c0c9e8564de5": {
         "Held in language": [
             "cs - Czech", 
@@ -18793,6 +18688,52 @@
             "1514643600"
         ]
     }, 
+    "Session:Ethereum's WHG Tells All: The DAO Hack, Parity Hack and Giveth# b48ebbb067e00c10f8e36f9f2a1be742": {
+        "Held in language": [
+            "en - English"
+        ], 
+        "Has start time": [
+            "1514740500"
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [
+            "https://giveth.io/join/"
+        ], 
+        "Has description": [
+            "Jordi Baylina & Griff Green tell the story of The DAO Hack, Giveth & Parity Hacks from the perspective of the WHG, Followed by Q&A"
+        ], 
+        "Has session type": [
+            "Talk"
+        ], 
+        "Has session location": [
+            {
+                "fulltext": "Room:Chaos West Stage", 
+                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Room:Chaos_West_Stage", 
+                "namespace": 516, 
+                "exists": true
+            }
+        ], 
+        "Has subtitle": [], 
+        "Is organized by": [], 
+        "Has title": [
+            "Ethereum's WHG Tells All: The DAO Hack, Parity Hack and Giveth"
+        ], 
+        "Has duration": [
+            45
+        ], 
+        "GUID": [
+            "8531dcea-d249-4504-b2f6-b85ebd3f6101"
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:Ethereum%27s_WHG_Tells_All:_The_DAO_Hack,_Parity_Hack_and_Giveth", 
+        "Has end time": [
+            "1514743200"
+        ]
+    }, 
     "Session:Healthy food hack: Tasty food = Unhealthy food?# c07b494c61a7ab21143590584eb8104a": {
         "Held in language": [], 
         "Has start time": [
@@ -18893,6 +18834,60 @@
         "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:Surface_mount_electronics_assembly_for_terrified_beginners", 
         "Has end time": [
             "1514385000"
+        ]
+    }, 
+    "Session:Abschluss (sva) Streaming# 5f93f5958ccbd0d18ff581d214d62361": {
+        "Held in language": [
+            "de - German", 
+            "en - English"
+        ], 
+        "Has start time": [
+            "1514655000"
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [
+            "https://events.ccc.de/congress/2017/Fahrplan/events/9293.html"
+        ], 
+        "Has description": [
+            "https://events.ccc.de/congress/2017/Fahrplan/events/9293.html"
+        ], 
+        "Has session type": [
+            "Talk"
+        ], 
+        "Has session location": [
+            {
+                "fulltext": "Room:Chaos West Stage", 
+                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Room:Chaos_West_Stage", 
+                "namespace": 516, 
+                "exists": true
+            }
+        ], 
+        "Has subtitle": [], 
+        "Is organized by": [
+            {
+                "fulltext": "User:Nanooq", 
+                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/User:Nanooq", 
+                "namespace": 2, 
+                "exists": true
+            }
+        ], 
+        "Has title": [
+            "Abschluss (sva) Streaming"
+        ], 
+        "Has duration": [
+            45
+        ], 
+        "GUID": [
+            "d3efa9bf-682a-473d-aafa-2057f83001ac"
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:Abschluss_(sva)_Streaming", 
+        "Has end time": [
+            "1514657700"
         ]
     }, 
     "Session:Express and Extended Taro Sessions with Binaural Music# 15054bade8a885c57dea6d2736431574": {
@@ -19297,6 +19292,54 @@
             "1514394000"
         ]
     }, 
+    "Session:Giveth: Decentralizing the Non-Profit World# 668aa76e3acca053eea801cbd6388396": {
+        "Held in language": [
+            "en - English"
+        ], 
+        "Has start time": [
+            "1514743200"
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [
+            "https://giveth.io/join/"
+        ], 
+        "Has description": [
+            "Giveth is a radically transparent, not-for-profit community developing open source projects aimed at DAO-fying the non-profit world and building the future of giving. Q&A after a short talk."
+        ], 
+        "Has session type": [
+            "Talk"
+        ], 
+        "Has session location": [
+            {
+                "fulltext": "Room:Chaos West Stage", 
+                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Room:Chaos_West_Stage", 
+                "namespace": 516, 
+                "exists": true
+            }
+        ], 
+        "Has subtitle": [
+            "Building Transparent Communities with Smart Contracts"
+        ], 
+        "Is organized by": [], 
+        "Has title": [
+            "Giveth: Decentralizing the Non-Profit World"
+        ], 
+        "Has duration": [
+            45
+        ], 
+        "GUID": [
+            "ea42e0f6-0320-4c0e-b8c4-db01151ce6b4"
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:Giveth:_Decentralizing_the_Non-Profit_World", 
+        "Has end time": [
+            "1514745900"
+        ]
+    }, 
     "Session:DLF# 69f635029bc1ba823cfb6a84bea571a5": {
         "Held in language": [
             "de - German"
@@ -19339,6 +19382,52 @@
         "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:DLF", 
         "Has end time": [
             "1514377800"
+        ]
+    }, 
+    "Session:Yet another cryptocurrency portfolio application (looking for contributors)# ae70ee4d7e9a9cbdcd0ae5ac85a70173": {
+        "Held in language": [
+            "en - English"
+        ], 
+        "Has start time": [
+            "1514746800"
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [
+            "http://cryptounicorns.io/"
+        ], 
+        "Has description": [
+            "A brief talk about cryptocurrency portfolio application we are working on.\n\nhttp://cryptounicorns.io/talks/c34c3.html"
+        ], 
+        "Has session type": [
+            "Talk"
+        ], 
+        "Has session location": [
+            {
+                "fulltext": "Room:Chaos West Stage", 
+                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Room:Chaos_West_Stage", 
+                "namespace": 516, 
+                "exists": true
+            }
+        ], 
+        "Has subtitle": [], 
+        "Is organized by": [], 
+        "Has title": [
+            "Yet another cryptocurrency portfolio application (looking for contributors)"
+        ], 
+        "Has duration": [
+            20
+        ], 
+        "GUID": [
+            "cfa29b52-9c12-4a7a-9a5c-10615dfb4373"
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:Yet_another_cryptocurrency_portfolio_application_(looking_for_contributors)", 
+        "Has end time": [
+            "1514748000"
         ]
     }, 
     "Session:Let's talk about practicalities of internet censorship circumvention# a43dced3e5a61a2fd6fcb0d1a50170ca": {
@@ -19904,57 +19993,57 @@
             "1514476800"
         ]
     }, 
-    "Session:Cryptoparty# 3d80e5d4f5e14f9d3afdf15acff751f5": {
+    "Session:CCC-CH GV# e8905a7d60e1dfd1c16bb98773955cae": {
         "Held in language": [
-            "en - English"
+            "de - German", 
+            "en - English", 
+            "fr - French"
         ], 
         "Has start time": [
-            "1514390400"
+            "1514559600"
         ], 
         "Has event track": [
             "Session"
         ], 
-        "Has website": [], 
+        "Has website": [
+            "https://www.ccc-ch.ch/gettogether.html"
+        ], 
         "Has description": [
-            "How to use OpenPGP with Enigmail and Thunderbird. If there is time left we can do keysigning afterwards. Bring your laptops"
+            "CCC-CH GV / Gettogether"
         ], 
         "Has session type": [
-            "Workshop"
+            "Meeting"
         ], 
         "Has session location": [
             {
-                "fulltext": "Room:Komona Coral Reef", 
-                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Room:Komona_Coral_Reef", 
+                "fulltext": "Room:Seminar room 14-15", 
+                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Room:Seminar_room_14-15", 
                 "namespace": 516, 
                 "exists": true
             }
         ], 
-        "Has subtitle": [
-            "Hands-On"
-        ], 
+        "Has subtitle": [], 
         "Is organized by": [
             {
-                "fulltext": "User:Bobo PK", 
-                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/User:Bobo_PK", 
+                "fulltext": "User:Vimja", 
+                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/User:Vimja", 
                 "namespace": 2, 
                 "exists": true
             }
         ], 
         "Has title": [
-            "Cryptoparty"
+            "CCC-CH GV"
         ], 
         "Has duration": [
-            120
+            90
         ], 
-        "GUID": [
-            "f9f6c980-43ad-4ca5-b0ce-af9306f514a7"
-        ], 
+        "GUID": [], 
         "Has color": [
             "#0099ab"
         ], 
-        "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:Cryptoparty", 
+        "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:CCC-CH_GV", 
         "Has end time": [
-            "1514397600"
+            "1514565000"
         ]
     }, 
     "Session:Ethereum AMA# 0ce563cbe28e741b90985a8bedca9865": {
@@ -21763,48 +21852,6 @@
             "1514566800"
         ]
     }, 
-    "Session:Saunaclash - meetup for all Saunamakers and Mobile-Sauna-Fans# 6ca3bd88b002bf678164272c9337d768": {
-        "Held in language": [
-            "en - English"
-        ], 
-        "Has start time": [
-            "1514651400"
-        ], 
-        "Has event track": [
-            "Session"
-        ], 
-        "Has website": [], 
-        "Has description": [
-            "We have build up an geodesic dome sauna in Berlin and organized already some mobile-sauna-events (Hedonistic Worldcongress, Saunaclash, Gardenfest in our Backyard) We want get connect to more Saunaenthusiasts and other Saunamakers and talk about past events and plan future events. We are open for all people who are interested and want to know how to build up a Sauna"
-        ], 
-        "Has session type": [], 
-        "Has session location": [
-            {
-                "fulltext": "Room:Lecture room 12", 
-                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Room:Lecture_room_12", 
-                "namespace": 516, 
-                "exists": true
-            }
-        ], 
-        "Has subtitle": [], 
-        "Is organized by": [], 
-        "Has title": [
-            "Saunaclash - meetup for all Saunamakers and Mobile-Sauna-Fans"
-        ], 
-        "Has duration": [
-            60
-        ], 
-        "GUID": [
-            "3fd77d87-5e5c-4193-a44e-8fe5200b3d1c"
-        ], 
-        "Has color": [
-            "#0099ab"
-        ], 
-        "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:Saunaclash_-_meetup_for_all_Saunamakers_and_Mobile-Sauna-Fans", 
-        "Has end time": [
-            "1514655000"
-        ]
-    }, 
     "Session:Namecoin as a Decentralized Alternative to Certificate Authorities for TLS# 31a3e2c344094be027320163d236c7d1": {
         "Held in language": [
             "en - English"
@@ -22244,6 +22291,44 @@
         "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:DLF", 
         "Has end time": [
             "1514375100"
+        ]
+    }, 
+    "Session:Abbau / Disassembly# b3bbf8e28fec9d6a7f45b8ef329eb0e0": {
+        "Held in language": [], 
+        "Has start time": [
+            "1514657700"
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [], 
+        "Has description": [], 
+        "Has session type": [], 
+        "Has session location": [
+            {
+                "fulltext": "Room:Chaos West Stage", 
+                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Room:Chaos_West_Stage", 
+                "namespace": 516, 
+                "exists": true
+            }
+        ], 
+        "Has subtitle": [], 
+        "Is organized by": [], 
+        "Has title": [
+            "Abbau / Disassembly"
+        ], 
+        "Has duration": [
+            600
+        ], 
+        "GUID": [
+            "2a8e3d59-4862-48da-9075-f08de9d75ee3"
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:Abbau_/_Disassembly", 
+        "Has end time": [
+            "1514693700"
         ]
     }, 
     "Session:Einf\u00fchrung in Blockchain# 86fb9888d2505fed1f54fc3e43b1b5b5": {
