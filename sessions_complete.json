@@ -2150,52 +2150,6 @@
             "1514642400"
         ]
     }, 
-    "Session:Kadnode# 15b8624d7d20fe2a62feba240a7743e4": {
-        "Held in language": [
-            "en - English"
-        ], 
-        "Has start time": [
-            "1514590200"
-        ], 
-        "Has event track": [
-            "Session"
-        ], 
-        "Has website": [
-            "https://github.com/mwarning/KadNode"
-        ], 
-        "Has description": [
-            "Short introduction of a simple P2P DNS resolver."
-        ], 
-        "Has session type": [
-            "Talk"
-        ], 
-        "Has session location": [], 
-        "Has subtitle": [], 
-        "Is organized by": [
-            {
-                "fulltext": "User:Mwarning", 
-                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/User:Mwarning", 
-                "namespace": 2, 
-                "exists": true
-            }
-        ], 
-        "Has title": [
-            "Kadnode"
-        ], 
-        "Has duration": [
-            20
-        ], 
-        "GUID": [
-            "ff0f9010-04dc-48bf-8982-735d89dd2653"
-        ], 
-        "Has color": [
-            "#0099ab"
-        ], 
-        "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:Kadnode", 
-        "Has end time": [
-            "1514591400"
-        ]
-    }, 
     "Session:Child Growth Monitor Meetup Day 3# d1c4b7c7ceb41d9da469964608d39416": {
         "Held in language": [
             "de - German", 
@@ -7329,27 +7283,29 @@
             "1514572800"
         ]
     }, 
-    "Session:Video Game Development Meetup# 55b1c1ce1b633caca9a4b58ff6c3cdbc": {
+    "Session:Kadnode# 3e67e5cea26827e40c23823d24422f1c": {
         "Held in language": [
             "en - English"
         ], 
         "Has start time": [
-            "1514484000"
+            "1514590200"
         ], 
         "Has event track": [
             "Session"
         ], 
-        "Has website": [], 
+        "Has website": [
+            "https://github.com/mwarning/KadNode"
+        ], 
         "Has description": [
-            "We're a bunch of people who participated in the game jam \"Ludum Dare\" this year. Whether you're curious about video game development, or a seasoned indie game developer \u2013 let's meet, talk about our experiences, and play each others' games! :)"
+            "Short introduction of a simple P2P DNS resolver."
         ], 
         "Has session type": [
-            "Meeting"
+            "Talk"
         ], 
         "Has session location": [
             {
-                "fulltext": "Room:Seminar room 13", 
-                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Room:Seminar_room_13", 
+                "fulltext": "Room:Chaos West Stage", 
+                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Room:Chaos_West_Stage", 
                 "namespace": 516, 
                 "exists": true
             }
@@ -7357,27 +7313,27 @@
         "Has subtitle": [], 
         "Is organized by": [
             {
-                "fulltext": "User:Blinry", 
-                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/User:Blinry", 
+                "fulltext": "User:Mwarning", 
+                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/User:Mwarning", 
                 "namespace": 2, 
                 "exists": true
             }
         ], 
         "Has title": [
-            "Video Game Development Meetup"
+            "Kadnode"
         ], 
         "Has duration": [
-            60
+            20
         ], 
         "GUID": [
-            "77f34cbf-f0df-47b1-b235-b405c07ac7cd"
+            "ff0f9010-04dc-48bf-8982-735d89dd2653"
         ], 
         "Has color": [
             "#0099ab"
         ], 
-        "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:Video_Game_Development_Meetup", 
+        "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:Kadnode", 
         "Has end time": [
-            "1514487600"
+            "1514591400"
         ]
     }, 
     "Session:Translation Team# df5b7726546959f736beec38d2fc1c6d": {
@@ -10724,6 +10680,57 @@
         ], 
         "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:Hear_What_You_Like_To_Hear", 
         "Has end time": []
+    }, 
+    "Session:Video Game Development Meetup# 55b1c1ce1b633caca9a4b58ff6c3cdbc": {
+        "Held in language": [
+            "en - English"
+        ], 
+        "Has start time": [
+            "1514484000"
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [], 
+        "Has description": [
+            "We're a bunch of people who participated in the game jam \"Ludum Dare\" this year. Whether you're curious about video game development, or a seasoned indie game developer \u2013 let's meet, talk about our experiences, and play each others' games! :)"
+        ], 
+        "Has session type": [
+            "Meeting"
+        ], 
+        "Has session location": [
+            {
+                "fulltext": "Room:Seminar room 13", 
+                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Room:Seminar_room_13", 
+                "namespace": 516, 
+                "exists": true
+            }
+        ], 
+        "Has subtitle": [], 
+        "Is organized by": [
+            {
+                "fulltext": "User:Blinry", 
+                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/User:Blinry", 
+                "namespace": 2, 
+                "exists": true
+            }
+        ], 
+        "Has title": [
+            "Video Game Development Meetup"
+        ], 
+        "Has duration": [
+            60
+        ], 
+        "GUID": [
+            "77f34cbf-f0df-47b1-b235-b405c07ac7cd"
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:Video_Game_Development_Meetup", 
+        "Has end time": [
+            "1514487600"
+        ]
     }, 
     "Session:Cryptoparty# 3d80e5d4f5e14f9d3afdf15acff751f5": {
         "Held in language": [
@@ -14493,53 +14500,41 @@
             "1514646000"
         ]
     }, 
-    "Session:Letter writing to prisoners, sitting in jail for hacking# 75e37cb1ed3b3c3575f6ede723879ba7": {
+    "Session:QRNG - More Random than Pinkie Pie# 369dc3f0333b70829dbac8a392e2c5e8": {
         "Held in language": [
-            "en - English"
+            "de - German"
         ], 
-        "Has start time": [
-            "1514548800"
-        ], 
+        "Has start time": [], 
         "Has event track": [
             "Session"
         ], 
-        "Has website": [
-            "http://abcdd.org"
-        ], 
+        "Has website": [], 
         "Has description": [
-            "Hacktivism from time to time leads to imprisonment and repressions. There are several people right now siting in jail that consider themselves anarchist or did actions that are supported by anarchist community. Not to let those people alone in prison we would like to have every day 1 hour around the table, where we get to know the stories of imprisoned activists and write them some words of support with postcards/letters.  You don't need any special skills for that. The postcards will be there for you."
+            "Short presentation of my Bachelor project about a quantum random number generator by homodyne measurement of the quadratures of the lowest energy vacuum state."
         ], 
-        "Has session type": [
-            "Workshop"
-        ], 
-        "Has session location": [
+        "Has session type": [], 
+        "Has session location": [], 
+        "Has subtitle": [], 
+        "Is organized by": [
             {
-                "fulltext": "Room:Komona Coral Reef", 
-                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Room:Komona_Coral_Reef", 
-                "namespace": 516, 
+                "fulltext": "User:Kaminazuki", 
+                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/User:Kaminazuki", 
+                "namespace": 2, 
                 "exists": true
             }
         ], 
-        "Has subtitle": [
-            "Day 3"
-        ], 
-        "Is organized by": [], 
         "Has title": [
-            "Letter writing to prisoners, sitting in jail for hacking"
+            "QRNG - More Random than Pinkie Pie"
         ], 
-        "Has duration": [
-            45
-        ], 
+        "Has duration": [], 
         "GUID": [
-            "01830be1-2a28-424f-a6f4-5668b463b6e3"
+            "b475f6c3-59d5-48ba-9863-457de1de207e"
         ], 
         "Has color": [
             "#0099ab"
         ], 
-        "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:Letter_writing_to_prisoners,_sitting_in_jail_for_hacking", 
-        "Has end time": [
-            "1514551500"
-        ]
+        "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:QRNG_-_More_Random_than_Pinkie_Pie", 
+        "Has end time": []
     }, 
     "Session:SecureDrop# 29d0205ce2803c2ac346bb6f24c7284c": {
         "Held in language": [
@@ -18193,41 +18188,53 @@
             "1514480400"
         ]
     }, 
-    "Session:QRNG - More Random than Pinkie Pie# 369dc3f0333b70829dbac8a392e2c5e8": {
+    "Session:Letter writing to prisoners, sitting in jail for hacking# 75e37cb1ed3b3c3575f6ede723879ba7": {
         "Held in language": [
-            "de - German"
+            "en - English"
         ], 
-        "Has start time": [], 
+        "Has start time": [
+            "1514548800"
+        ], 
         "Has event track": [
             "Session"
         ], 
-        "Has website": [], 
-        "Has description": [
-            "Short presentation of my Bachelor project about a quantum random number generator by homodyne measurement of the quadratures of the lowest energy vacuum state."
+        "Has website": [
+            "http://abcdd.org"
         ], 
-        "Has session type": [], 
-        "Has session location": [], 
-        "Has subtitle": [], 
-        "Is organized by": [
+        "Has description": [
+            "Hacktivism from time to time leads to imprisonment and repressions. There are several people right now siting in jail that consider themselves anarchist or did actions that are supported by anarchist community. Not to let those people alone in prison we would like to have every day 1 hour around the table, where we get to know the stories of imprisoned activists and write them some words of support with postcards/letters.  You don't need any special skills for that. The postcards will be there for you."
+        ], 
+        "Has session type": [
+            "Workshop"
+        ], 
+        "Has session location": [
             {
-                "fulltext": "User:Kaminazuki", 
-                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/User:Kaminazuki", 
-                "namespace": 2, 
+                "fulltext": "Room:Komona Coral Reef", 
+                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Room:Komona_Coral_Reef", 
+                "namespace": 516, 
                 "exists": true
             }
         ], 
-        "Has title": [
-            "QRNG - More Random than Pinkie Pie"
+        "Has subtitle": [
+            "Day 3"
         ], 
-        "Has duration": [], 
+        "Is organized by": [], 
+        "Has title": [
+            "Letter writing to prisoners, sitting in jail for hacking"
+        ], 
+        "Has duration": [
+            45
+        ], 
         "GUID": [
-            "b475f6c3-59d5-48ba-9863-457de1de207e"
+            "01830be1-2a28-424f-a6f4-5668b463b6e3"
         ], 
         "Has color": [
             "#0099ab"
         ], 
-        "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:QRNG_-_More_Random_than_Pinkie_Pie", 
-        "Has end time": []
+        "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:Letter_writing_to_prisoners,_sitting_in_jail_for_hacking", 
+        "Has end time": [
+            "1514551500"
+        ]
     }, 
     "Session:Hacks/Hackers Meetup# b5549a388ea619686591d6cbf886239a": {
         "Held in language": [], 
