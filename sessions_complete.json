@@ -2653,6 +2653,55 @@
             "1514498400"
         ]
     }, 
+    "Session:How to be excellent to each other - a discussion# ba103e86104a8b96d3ae330879ca15fb": {
+        "Held in language": [
+            "de - German"
+        ], 
+        "Has start time": [
+            "1514635200"
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [], 
+        "Has description": [], 
+        "Has session type": [
+            "Discussion"
+        ], 
+        "Has session location": [
+            {
+                "fulltext": "Room:CCL Hall 3", 
+                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Room:CCL_Hall_3", 
+                "namespace": 516, 
+                "exists": true
+            }
+        ], 
+        "Has subtitle": [], 
+        "Is organized by": [
+            {
+                "fulltext": "User:Blackspear", 
+                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/User:Blackspear", 
+                "namespace": 2, 
+                "exists": true
+            }
+        ], 
+        "Has title": [
+            "How to be excellent to each other - a discussion"
+        ], 
+        "Has duration": [
+            60
+        ], 
+        "GUID": [
+            "ef00508d-af01-4b18-853f-d7cc3b4cdbd6"
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:How_to_be_excellent_to_each_other_-_a_discussion", 
+        "Has end time": [
+            "1514638800"
+        ]
+    }, 
     "Session:TeaHouse# 836a4f7f57e911781e64fc06fa1b5522": {
         "Held in language": [
             "en - English"
@@ -7210,29 +7259,27 @@
             "1514572800"
         ]
     }, 
-    "Session:Kadnode# 3e67e5cea26827e40c23823d24422f1c": {
+    "Session:Video Game Development Meetup# 55b1c1ce1b633caca9a4b58ff6c3cdbc": {
         "Held in language": [
             "en - English"
         ], 
         "Has start time": [
-            "1514590200"
+            "1514484000"
         ], 
         "Has event track": [
             "Session"
         ], 
-        "Has website": [
-            "https://github.com/mwarning/KadNode"
-        ], 
+        "Has website": [], 
         "Has description": [
-            "Short introduction of a simple P2P DNS resolver."
+            "We're a bunch of people who participated in the game jam \"Ludum Dare\" this year. Whether you're curious about video game development, or a seasoned indie game developer \u2013 let's meet, talk about our experiences, and play each others' games! :)"
         ], 
         "Has session type": [
-            "Talk"
+            "Meeting"
         ], 
         "Has session location": [
             {
-                "fulltext": "Room:Chaos West Stage", 
-                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Room:Chaos_West_Stage", 
+                "fulltext": "Room:Seminar room 13", 
+                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Room:Seminar_room_13", 
                 "namespace": 516, 
                 "exists": true
             }
@@ -7240,27 +7287,27 @@
         "Has subtitle": [], 
         "Is organized by": [
             {
-                "fulltext": "User:Mwarning", 
-                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/User:Mwarning", 
+                "fulltext": "User:Blinry", 
+                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/User:Blinry", 
                 "namespace": 2, 
                 "exists": true
             }
         ], 
         "Has title": [
-            "Kadnode"
+            "Video Game Development Meetup"
         ], 
         "Has duration": [
-            20
+            60
         ], 
         "GUID": [
-            "ff0f9010-04dc-48bf-8982-735d89dd2653"
+            "77f34cbf-f0df-47b1-b235-b405c07ac7cd"
         ], 
         "Has color": [
             "#0099ab"
         ], 
-        "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:Kadnode", 
+        "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:Video_Game_Development_Meetup", 
         "Has end time": [
-            "1514591400"
+            "1514487600"
         ]
     }, 
     "Session:Translation Team# df5b7726546959f736beec38d2fc1c6d": {
@@ -9223,6 +9270,59 @@
             "1514505600"
         ]
     }, 
+    "Session:Kadnode# f04df019ab37504860c8cfa5df6cb508": {
+        "Held in language": [
+            "en - English"
+        ], 
+        "Has start time": [
+            "1514763000"
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [
+            "https://github.com/mwarning/KadNode"
+        ], 
+        "Has description": [
+            "Short introduction of a simple P2P DNS resolver."
+        ], 
+        "Has session type": [
+            "Talk"
+        ], 
+        "Has session location": [
+            {
+                "fulltext": "Room:Chaos West Stage", 
+                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Room:Chaos_West_Stage", 
+                "namespace": 516, 
+                "exists": true
+            }
+        ], 
+        "Has subtitle": [], 
+        "Is organized by": [
+            {
+                "fulltext": "User:Mwarning", 
+                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/User:Mwarning", 
+                "namespace": 2, 
+                "exists": true
+            }
+        ], 
+        "Has title": [
+            "Kadnode"
+        ], 
+        "Has duration": [
+            20
+        ], 
+        "GUID": [
+            "ff0f9010-04dc-48bf-8982-735d89dd2653"
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:Kadnode", 
+        "Has end time": [
+            "1514764200"
+        ]
+    }, 
     "Session:DynDNS and DNS with DNSSEC, IPv6 and RESTful API# adc2f9782265fa63fd3b367fbeaf9efe": {
         "Held in language": [
             "de - German", 
@@ -9541,57 +9641,49 @@
             "1514419140"
         ]
     }, 
-    "Session:34C3 CTF Afterparty# b20ed29f0c1dcada15213dfdeddabe50": {
+    "Session:VR-Workshop# 3c521ef65ce8738b0f20237a5ea6f256": {
         "Held in language": [
+            "de - German", 
             "en - English"
         ], 
         "Has start time": [
-            "1514583000"
+            "1514473200"
         ], 
         "Has event track": [
             "Session"
         ], 
-        "Has website": [
-            "https://34c3ctf.ccc.ac/announcements/"
-        ], 
+        "Has website": [], 
         "Has description": [
-            "The 34C3 concludes and we will honor the first three teams. Then there will be ample opportunity to discuss challenges, CTF in general and\ndrink beer."
+            "Introduction into Mozilla A-Frame at the VR-Assembly"
         ], 
-        "Has session type": [
-            "Meeting"
-        ], 
+        "Has session type": [], 
         "Has session location": [
             {
-                "fulltext": "Room:Chaos West Stage", 
-                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Room:Chaos_West_Stage", 
-                "namespace": 516, 
+                "fulltext": "Assembly:VR", 
+                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Assembly:VR", 
+                "namespace": 504, 
                 "exists": true
             }
         ], 
-        "Has subtitle": [], 
-        "Is organized by": [
-            {
-                "fulltext": "User:Andy", 
-                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/User:Andy", 
-                "namespace": 2, 
-                "exists": true
-            }
+        "Has subtitle": [
+            "A-Frame Workshop"
         ], 
+        "Is organized by": [], 
         "Has title": [
-            "34C3 CTF Afterparty"
+            "VR-Workshop"
         ], 
         "Has duration": [
-            120
+            180
         ], 
         "GUID": [
-            "a0dbd284-c9dd-4522-80f8-39bf24e423c2"
+            "41c17d4f-aebf-40a2-9702-73ef58f4d78c"
         ], 
         "Has color": [
             "#0099ab"
         ], 
-        "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:34C3_CTF_Afterparty", 
+        "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:VR-Workshop", 
         "Has end time": [
-            "1514590200"
+            "1514484000"
         ]
     }, 
     "Session:LearnToSolder# 7766fab88776d627083edf2937c733c9": {
@@ -10706,57 +10798,6 @@
         ], 
         "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:Hear_What_You_Like_To_Hear", 
         "Has end time": []
-    }, 
-    "Session:Video Game Development Meetup# 55b1c1ce1b633caca9a4b58ff6c3cdbc": {
-        "Held in language": [
-            "en - English"
-        ], 
-        "Has start time": [
-            "1514484000"
-        ], 
-        "Has event track": [
-            "Session"
-        ], 
-        "Has website": [], 
-        "Has description": [
-            "We're a bunch of people who participated in the game jam \"Ludum Dare\" this year. Whether you're curious about video game development, or a seasoned indie game developer \u2013 let's meet, talk about our experiences, and play each others' games! :)"
-        ], 
-        "Has session type": [
-            "Meeting"
-        ], 
-        "Has session location": [
-            {
-                "fulltext": "Room:Seminar room 13", 
-                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Room:Seminar_room_13", 
-                "namespace": 516, 
-                "exists": true
-            }
-        ], 
-        "Has subtitle": [], 
-        "Is organized by": [
-            {
-                "fulltext": "User:Blinry", 
-                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/User:Blinry", 
-                "namespace": 2, 
-                "exists": true
-            }
-        ], 
-        "Has title": [
-            "Video Game Development Meetup"
-        ], 
-        "Has duration": [
-            60
-        ], 
-        "GUID": [
-            "77f34cbf-f0df-47b1-b235-b405c07ac7cd"
-        ], 
-        "Has color": [
-            "#0099ab"
-        ], 
-        "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:Video_Game_Development_Meetup", 
-        "Has end time": [
-            "1514487600"
-        ]
     }, 
     "Session:Cryptoparty# 3d80e5d4f5e14f9d3afdf15acff751f5": {
         "Held in language": [
@@ -13638,51 +13679,6 @@
             "#0099ab"
         ], 
         "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:Hedonist_International_Networking_Meeting%2BWorkshop_for_2018s_Congress_Convoy", 
-        "Has end time": [
-            "1514484000"
-        ]
-    }, 
-    "Session:VR-Workshop# 3c521ef65ce8738b0f20237a5ea6f256": {
-        "Held in language": [
-            "de - German", 
-            "en - English"
-        ], 
-        "Has start time": [
-            "1514473200"
-        ], 
-        "Has event track": [
-            "Session"
-        ], 
-        "Has website": [], 
-        "Has description": [
-            "Introduction into Mozilla A-Frame at the VR-Assembly"
-        ], 
-        "Has session type": [], 
-        "Has session location": [
-            {
-                "fulltext": "Assembly:VR", 
-                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Assembly:VR", 
-                "namespace": 504, 
-                "exists": true
-            }
-        ], 
-        "Has subtitle": [
-            "A-Frame Workshop"
-        ], 
-        "Is organized by": [], 
-        "Has title": [
-            "VR-Workshop"
-        ], 
-        "Has duration": [
-            180
-        ], 
-        "GUID": [
-            "41c17d4f-aebf-40a2-9702-73ef58f4d78c"
-        ], 
-        "Has color": [
-            "#0099ab"
-        ], 
-        "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:VR-Workshop", 
         "Has end time": [
             "1514484000"
         ]
@@ -18626,6 +18622,59 @@
             "1514645100"
         ]
     }, 
+    "Session:34C3 CTF Afterparty# 5443779f8382908bb6a63c7bb9e3c8a2": {
+        "Held in language": [
+            "en - English"
+        ], 
+        "Has start time": [
+            "1514583000"
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [
+            "https://34c3ctf.ccc.ac/announcements/"
+        ], 
+        "Has description": [
+            "The 34C3 concludes and we will honor the first three teams. Then there will be ample opportunity to discuss challenges, CTF in general and\ndrink beer."
+        ], 
+        "Has session type": [
+            "Meeting"
+        ], 
+        "Has session location": [
+            {
+                "fulltext": "Room:Chaos West Stage", 
+                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Room:Chaos_West_Stage", 
+                "namespace": 516, 
+                "exists": true
+            }
+        ], 
+        "Has subtitle": [], 
+        "Is organized by": [
+            {
+                "fulltext": "User:Andy", 
+                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/User:Andy", 
+                "namespace": 2, 
+                "exists": true
+            }
+        ], 
+        "Has title": [
+            "34C3 CTF Afterparty"
+        ], 
+        "Has duration": [
+            150
+        ], 
+        "GUID": [
+            "a0dbd284-c9dd-4522-80f8-39bf24e423c2"
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:34C3_CTF_Afterparty", 
+        "Has end time": [
+            "1514592000"
+        ]
+    }, 
     "Session:(what is) Transformative Justice for Communities# e06c52463becdef4b73bc2483ee73bb0": {
         "Held in language": [
             "en - English"
@@ -19617,10 +19666,10 @@
             "Session"
         ], 
         "Has website": [
-            "http://cryptounicorns.io/"
+            "https://cryptounicorns.io/"
         ], 
         "Has description": [
-            "A brief talk about cryptocurrency portfolio application we are working on.\n\nhttp://cryptounicorns.io/talks/c34c3.html"
+            "A brief talk about cryptocurrency portfolio application we are working on.\n\nhttps://cryptounicorns.io/talks/c34c3.html"
         ], 
         "Has session type": [
             "Talk"
