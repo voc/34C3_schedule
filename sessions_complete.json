@@ -1543,44 +1543,6 @@
             "1514505540"
         ]
     }, 
-    "Session:Biomimikry - von komplexen Systemen und Deepfakes# 6052f194c81865d0c9002baa9fc122b0": {
-        "Held in language": [], 
-        "Has start time": [
-            "1514649600"
-        ], 
-        "Has event track": [
-            "Session"
-        ], 
-        "Has website": [], 
-        "Has description": [], 
-        "Has session type": [], 
-        "Has session location": [
-            {
-                "fulltext": "Room:Komona Aquarius", 
-                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Room:Komona_Aquarius", 
-                "namespace": 516, 
-                "exists": true
-            }
-        ], 
-        "Has subtitle": [], 
-        "Is organized by": [], 
-        "Has title": [
-            "Biomimikry - von komplexen Systemen und Deepfakes"
-        ], 
-        "Has duration": [
-            120
-        ], 
-        "GUID": [
-            "a64d0200-3fc9-41d2-bd3c-5a0a423e7fca"
-        ], 
-        "Has color": [
-            "#0099ab"
-        ], 
-        "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:Biomimikry_-_von_komplexen_Systemen_und_Deepfakes", 
-        "Has end time": [
-            "1514656800"
-        ]
-    }, 
     "Session:Karaoke-Taxi# 00ce8484992c05a2672ae386a99df0d4": {
         "Held in language": [
             "de - German", 
@@ -2653,7 +2615,7 @@
     }, 
     "Session:How to be excellent to each other - a discussion# ba103e86104a8b96d3ae330879ca15fb": {
         "Held in language": [
-            "de - German"
+            "eu - Basque"
         ], 
         "Has start time": [
             "1514635200"
@@ -2662,7 +2624,9 @@
             "Session"
         ], 
         "Has website": [], 
-        "Has description": [], 
+        "Has description": [
+            "An open discussion on how to improve diversity at c3 events and on dealing with cases of harassment."
+        ], 
         "Has session type": [
             "Discussion"
         ], 
@@ -3405,52 +3369,57 @@
             "1514486700"
         ]
     }, 
-    "Session:Giveth: Decentralizing the Non-Profit World# 2741f237ee262ba55df271f1fbd878e6": {
+    "Session:XMPP# 1f9837aeb62417d57d9d03e3cde34205": {
         "Held in language": [
             "en - English"
         ], 
         "Has start time": [
-            "1514656800"
+            "1514581200"
         ], 
         "Has event track": [
             "Session"
         ], 
-        "Has website": [
-            "https://giveth.io/join/"
-        ], 
+        "Has website": [], 
         "Has description": [
-            "Giveth is a radically transparent, not-for-profit community developing open source projects aimed at DAO-fying the non-profit world and building the future of giving. Q&A after a short talk."
+            "Gathering of XMPP developers"
         ], 
         "Has session type": [
-            "Talk"
+            "Meeting"
         ], 
         "Has session location": [
             {
-                "fulltext": "Room:Chaos West Stage", 
-                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Room:Chaos_West_Stage", 
+                "fulltext": "Room:Seminar room 13", 
+                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Room:Seminar_room_13", 
                 "namespace": 516, 
                 "exists": true
             }
         ], 
         "Has subtitle": [
-            "Building Transparent Communities with Smart Contracts"
+            "Gathering of XMPP developers"
         ], 
-        "Is organized by": [], 
+        "Is organized by": [
+            {
+                "fulltext": "User:Marvin", 
+                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/User:Marvin", 
+                "namespace": 2, 
+                "exists": true
+            }
+        ], 
         "Has title": [
-            "Giveth: Decentralizing the Non-Profit World"
+            "XMPP"
         ], 
         "Has duration": [
-            45
+            60
         ], 
         "GUID": [
-            "ea42e0f6-0320-4c0e-b8c4-db01151ce6b4"
+            "c6c07046-00a5-4f1e-96b3-2b02d30d154d"
         ], 
         "Has color": [
             "#0099ab"
         ], 
-        "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:Giveth:_Decentralizing_the_Non-Profit_World", 
+        "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:XMPP", 
         "Has end time": [
-            "1514659500"
+            "1514584800"
         ]
     }, 
     "Session:CMS Tutoren Briefing# 9b1b229bc4229efaef2ff1a45665410b": {
@@ -6576,6 +6545,54 @@
         "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:Rights%26Freedoms", 
         "Has end time": [
             "1514476800"
+        ]
+    }, 
+    "Session:Giveth: Decentralizing the Non-Profit World# 67458fc3849f0cdc06091db0aeea907b": {
+        "Held in language": [
+            "en - English"
+        ], 
+        "Has start time": [
+            "1514653200"
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [
+            "https://giveth.io/join/"
+        ], 
+        "Has description": [
+            "Giveth is a radically transparent, not-for-profit community developing open source projects aimed at DAO-fying the non-profit world and building the future of giving. Q&A after a short talk."
+        ], 
+        "Has session type": [
+            "Talk"
+        ], 
+        "Has session location": [
+            {
+                "fulltext": "Room:Chaos West Stage", 
+                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Room:Chaos_West_Stage", 
+                "namespace": 516, 
+                "exists": true
+            }
+        ], 
+        "Has subtitle": [
+            "Building Transparent Communities with Smart Contracts"
+        ], 
+        "Is organized by": [], 
+        "Has title": [
+            "Giveth: Decentralizing the Non-Profit World"
+        ], 
+        "Has duration": [
+            30
+        ], 
+        "GUID": [
+            "ea42e0f6-0320-4c0e-b8c4-db01151ce6b4"
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:Giveth:_Decentralizing_the_Non-Profit_World", 
+        "Has end time": [
+            "1514655000"
         ]
     }, 
     "Session:Sticker meet up# b376af90c0928260c3a85b18cd23c1b7": {
@@ -10201,59 +10218,6 @@
             "1514494800"
         ]
     }, 
-    "Session:XMPP# 1f9837aeb62417d57d9d03e3cde34205": {
-        "Held in language": [
-            "en - English"
-        ], 
-        "Has start time": [
-            "1514581200"
-        ], 
-        "Has event track": [
-            "Session"
-        ], 
-        "Has website": [], 
-        "Has description": [
-            "Gathering of XMPP developers"
-        ], 
-        "Has session type": [
-            "Meeting"
-        ], 
-        "Has session location": [
-            {
-                "fulltext": "Room:Seminar room 13", 
-                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Room:Seminar_room_13", 
-                "namespace": 516, 
-                "exists": true
-            }
-        ], 
-        "Has subtitle": [
-            "Gathering of XMPP developers"
-        ], 
-        "Is organized by": [
-            {
-                "fulltext": "User:Marvin", 
-                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/User:Marvin", 
-                "namespace": 2, 
-                "exists": true
-            }
-        ], 
-        "Has title": [
-            "XMPP"
-        ], 
-        "Has duration": [
-            60
-        ], 
-        "GUID": [
-            "c6c07046-00a5-4f1e-96b3-2b02d30d154d"
-        ], 
-        "Has color": [
-            "#0099ab"
-        ], 
-        "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:XMPP", 
-        "Has end time": [
-            "1514584800"
-        ]
-    }, 
     "Session:Food Hacking: Korean healing table prep# 07c47aa508f2919639237b0e8ccfe543": {
         "Held in language": [
             "cs - Czech", 
@@ -13736,6 +13700,52 @@
             "1514397600"
         ]
     }, 
+    "Session:Throwies# f8fd32e46ea3b96e99e9cc3611d91c70": {
+        "Held in language": [
+            "de - German"
+        ], 
+        "Has start time": [
+            "1514473200"
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [], 
+        "Has description": [
+            "Ein Throwie ist eine LED, die durch eine Knopfzellenbatterie zum Leuchten gebracht wird und an die man einen Magneten klebt."
+        ], 
+        "Has session type": [
+            "Hands-On"
+        ], 
+        "Has session location": [
+            {
+                "fulltext": "Room:Kidspace", 
+                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Room:Kidspace", 
+                "namespace": 516, 
+                "exists": true
+            }
+        ], 
+        "Has subtitle": [
+            "Throwies Basteln"
+        ], 
+        "Is organized by": [], 
+        "Has title": [
+            "Throwies"
+        ], 
+        "Has duration": [
+            120
+        ], 
+        "GUID": [
+            "970319ef-2202-480f-ab77-12ebd1a901c2"
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:Throwies", 
+        "Has end time": [
+            "1514480400"
+        ]
+    }, 
     "Session:RettedeinenNahverkehr# de2bac5091db1b0f9c9190f74b45824d": {
         "Held in language": [
             "de - German"
@@ -13808,50 +13818,50 @@
             "1514400300"
         ]
     }, 
-    "Session:Throwies# f8fd32e46ea3b96e99e9cc3611d91c70": {
+    "Session:Heart of Code - Creating a feminist hackspace# 578c3f13fa7f5d12b832e201b4531fe0": {
         "Held in language": [
-            "de - German"
+            "en - English"
         ], 
         "Has start time": [
-            "1514473200"
+            "1514649600"
         ], 
         "Has event track": [
             "Session"
         ], 
-        "Has website": [], 
+        "Has website": [
+            "http://www.heartofcode.org"
+        ], 
         "Has description": [
-            "Ein Throwie ist eine LED, die durch eine Knopfzellenbatterie zum Leuchten gebracht wird und an die man einen Magneten klebt."
+            "Heart of Code: Creating a feminist Hackspace"
         ], 
         "Has session type": [
-            "Hands-On"
+            "Talk"
         ], 
         "Has session location": [
             {
-                "fulltext": "Room:Kidspace", 
-                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Room:Kidspace", 
+                "fulltext": "Room:Komona Aquarius", 
+                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Room:Komona_Aquarius", 
                 "namespace": 516, 
                 "exists": true
             }
         ], 
-        "Has subtitle": [
-            "Throwies Basteln"
-        ], 
+        "Has subtitle": [], 
         "Is organized by": [], 
         "Has title": [
-            "Throwies"
+            "Heart of Code - Creating a feminist hackspace"
         ], 
         "Has duration": [
-            120
+            60
         ], 
         "GUID": [
-            "970319ef-2202-480f-ab77-12ebd1a901c2"
+            "a64d0200-3fc9-41d2-bd3c-5a0a423e7fca"
         ], 
         "Has color": [
             "#0099ab"
         ], 
-        "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:Throwies", 
+        "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:Heart_of_Code_-_Creating_a_feminist_hackspace", 
         "Has end time": [
-            "1514480400"
+            "1514653200"
         ]
     }, 
     "Session:Subtitles-Engelmeeting# 74d29b7a0698e108386090c4188f5011": {
