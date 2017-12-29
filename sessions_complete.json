@@ -379,6 +379,57 @@
             "1514511000"
         ]
     }, 
+    "Session:Schauvorlesung Physik# 8498ecd2769824e7b9eb51cb3c5039ba": {
+        "Held in language": [
+            "de - German"
+        ], 
+        "Has start time": [
+            "1514559600"
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [], 
+        "Has description": [
+            "Was ist eine Schauvorlesung, was ist sie bei uns? Was soll das?"
+        ], 
+        "Has session type": [
+            "Talk"
+        ], 
+        "Has session location": [
+            {
+                "fulltext": "Assembly:Physikfachschaft Rostock", 
+                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Assembly:Physikfachschaft_Rostock", 
+                "namespace": 504, 
+                "exists": true
+            }
+        ], 
+        "Has subtitle": [], 
+        "Is organized by": [
+            {
+                "fulltext": "User:Kr\u00f6te", 
+                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/User:Kr%C3%B6te", 
+                "namespace": 2, 
+                "exists": true
+            }
+        ], 
+        "Has title": [
+            "Schauvorlesung Physik"
+        ], 
+        "Has duration": [
+            20
+        ], 
+        "GUID": [
+            "889d1d46-fbf3-4147-8a51-171b3d833eff"
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:Schauvorlesung_Physik", 
+        "Has end time": [
+            "1514560800"
+        ]
+    }, 
     "Session:Whisky# 2ad663eff9687e07f176548adda735f3": {
         "Held in language": [
             "de - German", 
@@ -1918,20 +1969,16 @@
             "1514563200"
         ]
     }, 
-    "Session:Schauvorlesung Physik# 8498ecd2769824e7b9eb51cb3c5039ba": {
+    "Session:QRNGesus# 9933e36496ba395d014495b2ec1939cc": {
         "Held in language": [
             "de - German"
         ], 
-        "Has start time": [
-            "1514559600"
-        ], 
+        "Has start time": [], 
         "Has event track": [
             "Session"
         ], 
         "Has website": [], 
-        "Has description": [
-            "Was ist eine Schauvorlesung, was ist sie bei uns? Was soll das?"
-        ], 
+        "Has description": [], 
         "Has session type": [
             "Talk"
         ], 
@@ -1944,30 +1991,21 @@
             }
         ], 
         "Has subtitle": [], 
-        "Is organized by": [
-            {
-                "fulltext": "User:Kr\u00f6te", 
-                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/User:Kr%C3%B6te", 
-                "namespace": 2, 
-                "exists": true
-            }
-        ], 
+        "Is organized by": [], 
         "Has title": [
-            "Schauvorlesung Physik"
+            "QRNGesus"
         ], 
         "Has duration": [
-            20
+            30
         ], 
         "GUID": [
-            "889d1d46-fbf3-4147-8a51-171b3d833eff"
+            "89546c3c-ad9b-42e5-b490-f8cdbf54dd5d"
         ], 
         "Has color": [
             "#0099ab"
         ], 
-        "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:Schauvorlesung_Physik", 
-        "Has end time": [
-            "1514560800"
-        ]
+        "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:QRNGesus", 
+        "Has end time": []
     }, 
     "Session:Workshop: Can Berlin benefit from a new hackerspace?# f4d1ae9ec48f497ef8f4190e332edd03": {
         "Held in language": [
@@ -3466,6 +3504,52 @@
         "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:Yet_another_cryptocurrency_portfolio_application_(looking_for_contributors)", 
         "Has end time": [
             "1514661600"
+        ]
+    }, 
+    "Session:Intro to Qubes OS# c2856bc7d086bea58ccf9bf947fa2ee5": {
+        "Held in language": [
+            "en - English"
+        ], 
+        "Has start time": [
+            "1514566800"
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [
+            "https://www.qubes-os.org"
+        ], 
+        "Has description": [
+            "Come for an introduction to Qubes OS, the reasonably secure operating system. Core developers and contributors will be there to answer any questions you have!"
+        ], 
+        "Has session type": [
+            "Workshop"
+        ], 
+        "Has session location": [
+            {
+                "fulltext": "Room:Lecture room 12", 
+                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Room:Lecture_room_12", 
+                "namespace": 516, 
+                "exists": true
+            }
+        ], 
+        "Has subtitle": [], 
+        "Is organized by": [], 
+        "Has title": [
+            "Intro to Qubes OS"
+        ], 
+        "Has duration": [
+            60
+        ], 
+        "GUID": [
+            "c32c4ecb-8c2b-4519-9903-05a1061563e6"
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:Intro_to_Qubes_OS", 
+        "Has end time": [
+            "1514570400"
         ]
     }, 
     "Session:A/V Angel Meeting# 445a1ffd26b65f861e78e209346f84d2": {
@@ -8103,6 +8187,59 @@
             "1514487600"
         ]
     }, 
+    "Session:Matrix and usable messaging, today# e6fc9712a4964a3b37e8cd945b1b88f5": {
+        "Held in language": [
+            "en - English"
+        ], 
+        "Has start time": [], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [], 
+        "Has description": [
+            "Messengers are the default contemporary communication tool; can we have something both libre and usable - that is, can be recommended instead of Signal?"
+        ], 
+        "Has session type": [
+            "Discussion"
+        ], 
+        "Has session location": [
+            {
+                "fulltext": "Room:Lecture room 12", 
+                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Room:Lecture_room_12", 
+                "namespace": 516, 
+                "exists": true
+            }
+        ], 
+        "Has subtitle": [], 
+        "Is organized by": [
+            {
+                "fulltext": "User:Intelfx", 
+                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/User:Intelfx", 
+                "namespace": 2, 
+                "exists": true
+            }, 
+            {
+                "fulltext": "User:Wldhx", 
+                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/User:Wldhx", 
+                "namespace": 2, 
+                "exists": true
+            }
+        ], 
+        "Has title": [
+            "Matrix and usable messaging, today"
+        ], 
+        "Has duration": [
+            60
+        ], 
+        "GUID": [
+            "384ea850-03cc-466e-9049-94adb545e64a"
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:Matrix_and_usable_messaging,_today", 
+        "Has end time": []
+    }, 
     "Session:TeaHouse# f2c2fba8a69fee47a8f5f878d17fe759": {
         "Held in language": [
             "en - English"
@@ -10350,55 +10487,59 @@
             "1514475000"
         ]
     }, 
-    "Session:CCChoir Flashmob# aa32366b1597ca313b2a6e86fad4f0e0": {
+    "Session:Calliope Workshops# af1486109b20a326d421317052a0fa55": {
         "Held in language": [
             "de - German"
         ], 
         "Has start time": [
-            "1514651400"
+            "1514480400"
         ], 
         "Has event track": [
             "Session"
         ], 
-        "Has website": [], 
+        "Has website": [
+            "http://calliope.cc"
+        ], 
         "Has description": [
-            "SingWat - CCChoir in der Glashalle"
+            "Kinder ab 8 Jahren sind herzlich willkommen ihre ersten Erfahrungen mit dem Programmieren zu machen.\n\nWer an Tag 3 oder 4 noch Lust auf Calliope Workshops hat, der ruft einfach mal an: \nDECT: 8843 \noder \nmobile: null eins sechs drei 362 534 0"
         ], 
         "Has session type": [
-            "Other"
+            "Workshop"
         ], 
         "Has session location": [
             {
-                "fulltext": "Room:Lecture room 11", 
-                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Room:Lecture_room_11", 
+                "fulltext": "Room:Hive Conference", 
+                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Room:Hive_Conference", 
                 "namespace": 516, 
                 "exists": true
             }
         ], 
-        "Has subtitle": [], 
+        "Has subtitle": [
+            "Calliope Workshop 4"
+        ], 
         "Is organized by": [
             {
-                "fulltext": "User:Coco", 
-                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/User:Coco", 
+                "fulltext": "User:DerMicha", 
+                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/User:DerMicha", 
                 "namespace": 2, 
                 "exists": true
             }
         ], 
         "Has title": [
-            "CCChoir Flashmob"
+            "Calliope Workshops"
         ], 
         "Has duration": [
             60
         ], 
         "GUID": [
-            "5b0f9d88-36ba-49f2-b66b-731eaaab7b4c"
+            "6946c2f8-7ca0-4d95-a70a-20cec20e25fb"
         ], 
         "Has color": [
             "#0099ab"
         ], 
-        "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:CCChoir_Flashmob", 
+        "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:Calliope_Workshops", 
         "Has end time": [
-            "1514655000"
+            "1514484000"
         ]
     }, 
     "Session:SecureDrop# 69b671b72c08c38b86b56562d2772cb3": {
@@ -10672,43 +10813,53 @@
             "1514588400"
         ]
     }, 
-    "Session:QRNGesus# 9933e36496ba395d014495b2ec1939cc": {
+    "Session:Letter writing to prisoners, sitting in jail for hacking# 9d722a7b202a7853d8968feff1c15650": {
         "Held in language": [
-            "de - German"
+            "en - English"
         ], 
-        "Has start time": [], 
+        "Has start time": [
+            "1514635200"
+        ], 
         "Has event track": [
             "Session"
         ], 
-        "Has website": [], 
-        "Has description": [], 
+        "Has website": [
+            "http://abcdd.org"
+        ], 
+        "Has description": [
+            "Hacktivism from time to time leads to imprisonment and repressions. There are several people right now siting in jail that consider themselves anarchist or did actions that are supported by anarchist community. Not to let those people alone in prison we would like to have every day 1 hour around the table, where we get to know the stories of imprisoned activists and write them some words of support with postcards/letters.  You don't need any special skills for that. The postcards will be there for you."
+        ], 
         "Has session type": [
-            "Talk"
+            "Workshop"
         ], 
         "Has session location": [
             {
-                "fulltext": "Assembly:Physikfachschaft Rostock", 
-                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Assembly:Physikfachschaft_Rostock", 
-                "namespace": 504, 
+                "fulltext": "Room:Komona Coral Reef", 
+                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Room:Komona_Coral_Reef", 
+                "namespace": 516, 
                 "exists": true
             }
         ], 
-        "Has subtitle": [], 
+        "Has subtitle": [
+            "Day 4"
+        ], 
         "Is organized by": [], 
         "Has title": [
-            "QRNGesus"
+            "Letter writing to prisoners, sitting in jail for hacking"
         ], 
         "Has duration": [
-            30
+            45
         ], 
         "GUID": [
-            "89546c3c-ad9b-42e5-b490-f8cdbf54dd5d"
+            "a3026239-aef4-4d20-bdc5-003bfbbff970"
         ], 
         "Has color": [
             "#0099ab"
         ], 
-        "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:QRNGesus", 
-        "Has end time": []
+        "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:Letter_writing_to_prisoners,_sitting_in_jail_for_hacking", 
+        "Has end time": [
+            "1514637900"
+        ]
     }, 
     "Session:DLF# 39586741ed45eeae1d2d308db6fc0c4b": {
         "Held in language": [
@@ -18582,6 +18733,57 @@
         "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:Express_and_Extended_Taro_Sessions_with_Binaural_Music", 
         "Has end time": []
     }, 
+    "Session:CCChoir Flashmob# b858c056ecafadde5e9e73d698e2d1c9": {
+        "Held in language": [
+            "de - German"
+        ], 
+        "Has start time": [
+            "1514651400"
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [], 
+        "Has description": [
+            "SingWat - CCChoir in der Glashalle"
+        ], 
+        "Has session type": [
+            "Other"
+        ], 
+        "Has session location": [
+            {
+                "fulltext": "Room:Lecture room 12", 
+                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Room:Lecture_room_12", 
+                "namespace": 516, 
+                "exists": true
+            }
+        ], 
+        "Has subtitle": [], 
+        "Is organized by": [
+            {
+                "fulltext": "User:Coco", 
+                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/User:Coco", 
+                "namespace": 2, 
+                "exists": true
+            }
+        ], 
+        "Has title": [
+            "CCChoir Flashmob"
+        ], 
+        "Has duration": [
+            60
+        ], 
+        "GUID": [
+            "5b0f9d88-36ba-49f2-b66b-731eaaab7b4c"
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:CCChoir_Flashmob", 
+        "Has end time": [
+            "1514655000"
+        ]
+    }, 
     "Session:TeaHouse# cf0a2a52d2dce7d7d19bd4d69ba6b5c6": {
         "Held in language": [
             "en - English"
@@ -18727,54 +18929,6 @@
         "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:Weisswurstfr%C3%BChst%C3%BCck", 
         "Has end time": [
             "1514460600"
-        ]
-    }, 
-    "Session:Letter writing to prisoners, sitting in jail for hacking# 9d722a7b202a7853d8968feff1c15650": {
-        "Held in language": [
-            "en - English"
-        ], 
-        "Has start time": [
-            "1514635200"
-        ], 
-        "Has event track": [
-            "Session"
-        ], 
-        "Has website": [
-            "http://abcdd.org"
-        ], 
-        "Has description": [
-            "Hacktivism from time to time leads to imprisonment and repressions. There are several people right now siting in jail that consider themselves anarchist or did actions that are supported by anarchist community. Not to let those people alone in prison we would like to have every day 1 hour around the table, where we get to know the stories of imprisoned activists and write them some words of support with postcards/letters.  You don't need any special skills for that. The postcards will be there for you."
-        ], 
-        "Has session type": [
-            "Workshop"
-        ], 
-        "Has session location": [
-            {
-                "fulltext": "Room:Komona Coral Reef", 
-                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Room:Komona_Coral_Reef", 
-                "namespace": 516, 
-                "exists": true
-            }
-        ], 
-        "Has subtitle": [
-            "Day 4"
-        ], 
-        "Is organized by": [], 
-        "Has title": [
-            "Letter writing to prisoners, sitting in jail for hacking"
-        ], 
-        "Has duration": [
-            45
-        ], 
-        "GUID": [
-            "a3026239-aef4-4d20-bdc5-003bfbbff970"
-        ], 
-        "Has color": [
-            "#0099ab"
-        ], 
-        "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:Letter_writing_to_prisoners,_sitting_in_jail_for_hacking", 
-        "Has end time": [
-            "1514637900"
         ]
     }, 
     "Session:A Solution To A Problem That Did Not Exist 50 Years Ago# 5fefb1fb8ca63d9aec5e96e1754e7d95": {
@@ -21945,61 +22099,6 @@
         "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:Einf%C3%BChrung_in_Blockchain", 
         "Has end time": [
             "1514637000"
-        ]
-    }, 
-    "Session:Calliope Workshops# af1486109b20a326d421317052a0fa55": {
-        "Held in language": [
-            "de - German"
-        ], 
-        "Has start time": [
-            "1514480400"
-        ], 
-        "Has event track": [
-            "Session"
-        ], 
-        "Has website": [
-            "http://calliope.cc"
-        ], 
-        "Has description": [
-            "Kinder ab 8 Jahren sind herzlich willkommen ihre ersten Erfahrungen mit dem Programmieren zu machen.\n\nWer an Tag 3 oder 4 noch Lust auf Calliope Workshops hat, der ruft einfach mal an: \nDECT: 8843 \noder \nmobile: null eins sechs drei 362 534 0"
-        ], 
-        "Has session type": [
-            "Workshop"
-        ], 
-        "Has session location": [
-            {
-                "fulltext": "Room:Hive Conference", 
-                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Room:Hive_Conference", 
-                "namespace": 516, 
-                "exists": true
-            }
-        ], 
-        "Has subtitle": [
-            "Calliope Workshop 4"
-        ], 
-        "Is organized by": [
-            {
-                "fulltext": "User:DerMicha", 
-                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/User:DerMicha", 
-                "namespace": 2, 
-                "exists": true
-            }
-        ], 
-        "Has title": [
-            "Calliope Workshops"
-        ], 
-        "Has duration": [
-            60
-        ], 
-        "GUID": [
-            "6946c2f8-7ca0-4d95-a70a-20cec20e25fb"
-        ], 
-        "Has color": [
-            "#0099ab"
-        ], 
-        "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:Calliope_Workshops", 
-        "Has end time": [
-            "1514484000"
         ]
     }, 
     "Session:On Scripting# 05d28d1ceb860ec57a025c18017cdbcf": {
