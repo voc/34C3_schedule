@@ -1,6 +1,6 @@
 {
     "schedule": {
-        "version": "CCH 2017-12-29 09:20", 
+        "version": "CCH 2017-12-29 09:30", 
         "base_url": "https://fahrplan.events.ccc.de/congress/2017/Fahrplan/", 
         "conference": {
             "acronym": "34c3", 
@@ -1924,7 +1924,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1358, 
+                                "id": 1357, 
                                 "guid": "57bf0ee7-7526-490d-9c83-375b932bb03c", 
                                 "logo": null, 
                                 "date": "2017-12-27T18:30:00+01:00", 
@@ -1951,7 +1951,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1362, 
+                                "id": 1359, 
                                 "guid": "b5b51e08-260a-5c3d-a507-556103837de6", 
                                 "logo": null, 
                                 "date": "2017-12-27T17:00:00+01:00", 
@@ -1975,6 +1975,27 @@
                         "Seminar room 14-15": [
                             {
                                 "id": 1030, 
+                                "guid": "a7083f65-5e8b-52cb-b008-af59762bb115", 
+                                "logo": null, 
+                                "date": "2017-12-27T17:15:00+01:00", 
+                                "start": "17:15", 
+                                "duration": "0:45", 
+                                "room": "Seminar room 14-15", 
+                                "slug": "", 
+                                "title": "Angel Meeting", 
+                                "subtitle": "Introduction meeting for new angels Day 1", 
+                                "track": "self organized sessions", 
+                                "type": "meeting", 
+                                "language": "en", 
+                                "abstract": "", 
+                                "description": "Daily meetings of the Angel crew.", 
+                                "persons": [], 
+                                "links": [
+                                    "https://events.ccc.de/congress/2017/wiki/index.php/Session:Angel_Meeting"
+                                ]
+                            }, 
+                            {
+                                "id": 1034, 
                                 "guid": "579eab72-fbd6-5ba7-ad7a-59bcab0272ad", 
                                 "logo": null, 
                                 "date": "2017-12-27T12:45:00+01:00", 
@@ -1995,7 +2016,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1031, 
+                                "id": 1035, 
                                 "guid": "a8254a36-ca09-5c68-8e0b-1399b8a94247", 
                                 "logo": null, 
                                 "date": "2017-12-27T16:30:00+01:00", 
@@ -2005,27 +2026,6 @@
                                 "slug": "", 
                                 "title": "Angel Meeting", 
                                 "subtitle": "Angel meeting Day 1", 
-                                "track": "self organized sessions", 
-                                "type": "meeting", 
-                                "language": "en", 
-                                "abstract": "", 
-                                "description": "Daily meetings of the Angel crew.", 
-                                "persons": [], 
-                                "links": [
-                                    "https://events.ccc.de/congress/2017/wiki/index.php/Session:Angel_Meeting"
-                                ]
-                            }, 
-                            {
-                                "id": 1032, 
-                                "guid": "a7083f65-5e8b-52cb-b008-af59762bb115", 
-                                "logo": null, 
-                                "date": "2017-12-27T17:15:00+01:00", 
-                                "start": "17:15", 
-                                "duration": "0:45", 
-                                "room": "Seminar room 14-15", 
-                                "slug": "", 
-                                "title": "Angel Meeting", 
-                                "subtitle": "Introduction meeting for new angels Day 1", 
                                 "track": "self organized sessions", 
                                 "type": "meeting", 
                                 "language": "en", 
@@ -2152,7 +2152,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1334, 
+                                "id": 1335, 
                                 "guid": "50cdec42-6f29-47e5-bdbe-e29d19ee2941", 
                                 "logo": null, 
                                 "date": "2017-12-27T21:00:00+01:00", 
@@ -2174,7 +2174,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1335, 
+                                "id": 1336, 
                                 "guid": "9ed83d1d-7007-4bb8-9e65-22b1e9abd09b", 
                                 "logo": null, 
                                 "date": "2017-12-27T15:00:00+01:00", 
@@ -2196,7 +2196,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1398, 
+                                "id": 1397, 
                                 "guid": "def1b880-7e56-415c-a57b-73b5acda9b5a", 
                                 "logo": null, 
                                 "date": "2017-12-27T16:00:00+01:00", 
@@ -2226,7 +2226,7 @@
                         ], 
                         "Seminar room 13": [
                             {
-                                "id": 1009, 
+                                "id": 1008, 
                                 "guid": "42ad7b9a-63b4-4790-8c37-1966932d71d6", 
                                 "logo": null, 
                                 "date": "2017-12-27T09:00:00+01:00", 
@@ -2546,16 +2546,16 @@
                                 ]
                             }, 
                             {
-                                "id": 1300, 
-                                "guid": "de3c670b-1478-4606-ad7f-cc781a5f6514", 
+                                "id": 1292, 
+                                "guid": "8f90513f-3cf8-4444-8b99-d376d70974c6", 
                                 "logo": null, 
-                                "date": "2017-12-27T15:00:00+01:00", 
-                                "start": "15:00", 
+                                "date": "2017-12-27T16:00:00+01:00", 
+                                "start": "16:00", 
                                 "duration": "1:00", 
                                 "room": "CCL Hall 3", 
                                 "slug": "", 
                                 "title": "Rights&Freedoms", 
-                                "subtitle": "BigBrotherAwards - a great tool to build awareness and have fun (Digitalcourage e.V.)", 
+                                "subtitle": "Will the monetary system change? Privacy and Risk implications of digital currencies, and decentralized digital monetary systems (nsb)", 
                                 "track": "self organized sessions", 
                                 "type": "talk", 
                                 "language": "de", 
@@ -2567,16 +2567,16 @@
                                 ]
                             }, 
                             {
-                                "id": 1306, 
-                                "guid": "8f90513f-3cf8-4444-8b99-d376d70974c6", 
+                                "id": 1302, 
+                                "guid": "de3c670b-1478-4606-ad7f-cc781a5f6514", 
                                 "logo": null, 
-                                "date": "2017-12-27T16:00:00+01:00", 
-                                "start": "16:00", 
+                                "date": "2017-12-27T15:00:00+01:00", 
+                                "start": "15:00", 
                                 "duration": "1:00", 
                                 "room": "CCL Hall 3", 
                                 "slug": "", 
                                 "title": "Rights&Freedoms", 
-                                "subtitle": "Will the monetary system change? Privacy and Risk implications of digital currencies, and decentralized digital monetary systems (nsb)", 
+                                "subtitle": "BigBrotherAwards - a great tool to build awareness and have fun (Digitalcourage e.V.)", 
                                 "track": "self organized sessions", 
                                 "type": "talk", 
                                 "language": "de", 
@@ -2696,16 +2696,16 @@
                                 ]
                             }, 
                             {
-                                "id": 1202, 
-                                "guid": "cbc32a2c-1f29-44a9-a232-0f458f979813", 
+                                "id": 1203, 
+                                "guid": "bc39559b-0b24-4b27-9e1f-4b76d52cb1a8", 
                                 "logo": null, 
-                                "date": "2017-12-28T03:30:00+01:00", 
-                                "start": "03:30", 
-                                "duration": "2:00", 
+                                "date": "2017-12-28T00:00:00+01:00", 
+                                "start": "00:00", 
+                                "duration": "3:30", 
                                 "room": "Chaos West Stage", 
                                 "slug": "", 
                                 "title": "Klangteppich", 
-                                "subtitle": "faheus DJ set", 
+                                "subtitle": "CouchSofa DJ set", 
                                 "track": "self organized sessions", 
                                 "type": "other", 
                                 "language": "de", 
@@ -2724,15 +2724,15 @@
                             }, 
                             {
                                 "id": 1204, 
-                                "guid": "bc39559b-0b24-4b27-9e1f-4b76d52cb1a8", 
+                                "guid": "cbc32a2c-1f29-44a9-a232-0f458f979813", 
                                 "logo": null, 
-                                "date": "2017-12-28T00:00:00+01:00", 
-                                "start": "00:00", 
-                                "duration": "3:30", 
+                                "date": "2017-12-28T03:30:00+01:00", 
+                                "start": "03:30", 
+                                "duration": "2:00", 
                                 "room": "Chaos West Stage", 
                                 "slug": "", 
                                 "title": "Klangteppich", 
-                                "subtitle": "CouchSofa DJ set", 
+                                "subtitle": "faheus DJ set", 
                                 "track": "self organized sessions", 
                                 "type": "other", 
                                 "language": "de", 
@@ -3103,7 +3103,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1370, 
+                                "id": 1369, 
                                 "guid": "5096ea2a-f75e-4223-9034-6c708dbfed76", 
                                 "logo": null, 
                                 "date": "2017-12-27T20:00:00+01:00", 
@@ -3234,7 +3234,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1380, 
+                                "id": 1379, 
                                 "guid": "9fc6cd55-ba06-46d1-8510-4723905f239d", 
                                 "logo": null, 
                                 "date": "2017-12-27T14:00:00+01:00", 
@@ -3339,7 +3339,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1372, 
+                                "id": 1371, 
                                 "guid": "dd529f5f-4f94-4fda-a4dc-abe0a2f9f68a", 
                                 "logo": null, 
                                 "date": "2017-12-27T18:00:00+01:00", 
@@ -3362,7 +3362,7 @@
                         ], 
                         "Kidspace": [
                             {
-                                "id": 1364, 
+                                "id": 1363, 
                                 "guid": "d75d1ea5-b3e1-4f52-ad73-3eb0e99b7dea", 
                                 "logo": null, 
                                 "date": "2017-12-27T13:00:00+01:00", 
@@ -3804,49 +3804,7 @@
                         ], 
                         "CCL Hall 2": [
                             {
-                                "id": 1078, 
-                                "guid": "26226d1d-a08d-55b3-b295-9434c811b24a", 
-                                "logo": null, 
-                                "date": "2017-12-27T12:00:00+01:00", 
-                                "start": "12:00", 
-                                "duration": "0:15", 
-                                "room": "CCL Hall 2", 
-                                "slug": "", 
-                                "title": "DLF", 
-                                "subtitle": "Interview", 
-                                "track": "self organized sessions", 
-                                "type": "", 
-                                "language": "de", 
-                                "abstract": "", 
-                                "description": "DLF", 
-                                "persons": [], 
-                                "links": [
-                                    "https://events.ccc.de/congress/2017/wiki/index.php/Session:DLF"
-                                ]
-                            }, 
-                            {
-                                "id": 1081, 
-                                "guid": "31370b42-b65b-5860-8bd2-12dc9ccb7b5d", 
-                                "logo": null, 
-                                "date": "2017-12-27T12:15:00+01:00", 
-                                "start": "12:15", 
-                                "duration": "0:15", 
-                                "room": "CCL Hall 2", 
-                                "slug": "", 
-                                "title": "DLF", 
-                                "subtitle": "Interview", 
-                                "track": "self organized sessions", 
-                                "type": "", 
-                                "language": "de", 
-                                "abstract": "", 
-                                "description": "DLF", 
-                                "persons": [], 
-                                "links": [
-                                    "https://events.ccc.de/congress/2017/wiki/index.php/Session:DLF"
-                                ]
-                            }, 
-                            {
-                                "id": 1084, 
+                                "id": 1080, 
                                 "guid": "c7e392d4-78d7-501f-82e8-4ae026411861", 
                                 "logo": null, 
                                 "date": "2017-12-27T14:00:00+01:00", 
@@ -3867,7 +3825,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1087, 
+                                "id": 1083, 
                                 "guid": "616cbc52-8390-54ea-8839-3af7790e11d1", 
                                 "logo": null, 
                                 "date": "2017-12-27T16:05:00+01:00", 
@@ -3888,7 +3846,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1088, 
+                                "id": 1084, 
                                 "guid": "555f0cd8-0fe0-5213-a087-c1539138aa40", 
                                 "logo": null, 
                                 "date": "2017-12-27T11:00:00+01:00", 
@@ -3909,7 +3867,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1090, 
+                                "id": 1086, 
                                 "guid": "0e9a7526-0bf6-533d-8f83-94e4d1fb4d8f", 
                                 "logo": null, 
                                 "date": "2017-12-27T16:35:00+01:00", 
@@ -3930,7 +3888,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1091, 
+                                "id": 1087, 
                                 "guid": "f9e17ca9-0980-5070-aa6c-3b556ca66211", 
                                 "logo": null, 
                                 "date": "2017-12-27T11:20:00+01:00", 
@@ -3951,7 +3909,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1093, 
+                                "id": 1089, 
                                 "guid": "528e7ef5-72c6-55d1-9c21-3920add376a1", 
                                 "logo": null, 
                                 "date": "2017-12-27T17:00:00+01:00", 
@@ -3961,6 +3919,48 @@
                                 "slug": "", 
                                 "title": "DLF", 
                                 "subtitle": "Studiogespr\u00e4ch", 
+                                "track": "self organized sessions", 
+                                "type": "", 
+                                "language": "de", 
+                                "abstract": "", 
+                                "description": "DLF", 
+                                "persons": [], 
+                                "links": [
+                                    "https://events.ccc.de/congress/2017/wiki/index.php/Session:DLF"
+                                ]
+                            }, 
+                            {
+                                "id": 1090, 
+                                "guid": "26226d1d-a08d-55b3-b295-9434c811b24a", 
+                                "logo": null, 
+                                "date": "2017-12-27T12:00:00+01:00", 
+                                "start": "12:00", 
+                                "duration": "0:15", 
+                                "room": "CCL Hall 2", 
+                                "slug": "", 
+                                "title": "DLF", 
+                                "subtitle": "Interview", 
+                                "track": "self organized sessions", 
+                                "type": "", 
+                                "language": "de", 
+                                "abstract": "", 
+                                "description": "DLF", 
+                                "persons": [], 
+                                "links": [
+                                    "https://events.ccc.de/congress/2017/wiki/index.php/Session:DLF"
+                                ]
+                            }, 
+                            {
+                                "id": 1093, 
+                                "guid": "31370b42-b65b-5860-8bd2-12dc9ccb7b5d", 
+                                "logo": null, 
+                                "date": "2017-12-27T12:15:00+01:00", 
+                                "start": "12:15", 
+                                "duration": "0:15", 
+                                "room": "CCL Hall 2", 
+                                "slug": "", 
+                                "title": "DLF", 
+                                "subtitle": "Interview", 
                                 "track": "self organized sessions", 
                                 "type": "", 
                                 "language": "de", 
@@ -4030,7 +4030,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1384, 
+                                "id": 1383, 
                                 "guid": "7323cf35-3bef-4245-96f1-37cc04112962", 
                                 "logo": null, 
                                 "date": "2017-12-27T22:00:00+01:00", 
@@ -4126,7 +4126,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1188, 
+                                "id": 1190, 
                                 "guid": "9afbee6b-dea2-57b5-86e6-f5c7064711c4", 
                                 "logo": null, 
                                 "date": "2017-12-27T15:00:00+01:00", 
@@ -4210,7 +4210,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1288, 
+                                "id": 1289, 
                                 "guid": "8a7bd529-29d2-554c-835f-3d689b7c9f4c", 
                                 "logo": null, 
                                 "date": "2017-12-27T17:00:00+01:00", 
@@ -4283,7 +4283,7 @@
                         ], 
                         "Assembly:HardwareHackingArea": [
                             {
-                                "id": 1185, 
+                                "id": 1184, 
                                 "guid": "f5ebebb3-c53e-443e-82ee-080723b1f60e", 
                                 "logo": null, 
                                 "date": "2017-12-27T17:30:00+01:00", 
@@ -4311,7 +4311,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1212, 
+                                "id": 1213, 
                                 "guid": "74b9a8fc-e4e3-4c29-a859-e3f94387a6c7", 
                                 "logo": null, 
                                 "date": "2017-12-27T17:00:00+01:00", 
@@ -4338,7 +4338,34 @@
                                 ]
                             }, 
                             {
-                                "id": 1338, 
+                                "id": 1337, 
+                                "guid": "7b07e29a-77f7-492d-9633-ed5c0fd10b9a", 
+                                "logo": null, 
+                                "date": "2017-12-27T17:00:00+01:00", 
+                                "start": "17:00", 
+                                "duration": "1:30", 
+                                "room": "Assembly:HardwareHackingArea", 
+                                "slug": "", 
+                                "title": "Surface mount electronics assembly for terrified beginners", 
+                                "subtitle": "Day 1 Session 3", 
+                                "track": "self organized sessions", 
+                                "type": "workshop", 
+                                "language": "en", 
+                                "abstract": "", 
+                                "description": "Surface mount electronics for terrified beginners. Learn to assemble tiny parts on circuit boards by building a working power supply. Anyone can do it. Yes, even you who never touched anything electronic before. 90-100mins, 20\u20ac/kit, avoid caffeine immediately before. Max 20 participants per session, there will be a PAPER!!1! signup list in the hardware hacking area.", 
+                                "persons": [
+                                    {
+                                        "id": 0, 
+                                        "url": "https://events.ccc.de/congress/2017/wiki/index.php/User:Kliment", 
+                                        "public_name": "Kliment"
+                                    }
+                                ], 
+                                "links": [
+                                    "https://events.ccc.de/congress/2017/wiki/index.php/Session:Surface_mount_electronics_assembly_for_terrified_beginners"
+                                ]
+                            }, 
+                            {
+                                "id": 1339, 
                                 "guid": "c30736d6-32aa-4a0b-b30c-4deef34327c2", 
                                 "logo": null, 
                                 "date": "2017-12-27T13:00:00+01:00", 
@@ -4365,7 +4392,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1339, 
+                                "id": 1340, 
                                 "guid": "106c752f-7697-4981-b5f5-c5821d1f9cf4", 
                                 "logo": null, 
                                 "date": "2017-12-27T15:00:00+01:00", 
@@ -4375,33 +4402,6 @@
                                 "slug": "", 
                                 "title": "Surface mount electronics assembly for terrified beginners", 
                                 "subtitle": "Day 1 Session 2", 
-                                "track": "self organized sessions", 
-                                "type": "workshop", 
-                                "language": "en", 
-                                "abstract": "", 
-                                "description": "Surface mount electronics for terrified beginners. Learn to assemble tiny parts on circuit boards by building a working power supply. Anyone can do it. Yes, even you who never touched anything electronic before. 90-100mins, 20\u20ac/kit, avoid caffeine immediately before. Max 20 participants per session, there will be a PAPER!!1! signup list in the hardware hacking area.", 
-                                "persons": [
-                                    {
-                                        "id": 0, 
-                                        "url": "https://events.ccc.de/congress/2017/wiki/index.php/User:Kliment", 
-                                        "public_name": "Kliment"
-                                    }
-                                ], 
-                                "links": [
-                                    "https://events.ccc.de/congress/2017/wiki/index.php/Session:Surface_mount_electronics_assembly_for_terrified_beginners"
-                                ]
-                            }, 
-                            {
-                                "id": 1337, 
-                                "guid": "7b07e29a-77f7-492d-9633-ed5c0fd10b9a", 
-                                "logo": null, 
-                                "date": "2017-12-27T17:00:00+01:00", 
-                                "start": "17:00", 
-                                "duration": "1:30", 
-                                "room": "Assembly:HardwareHackingArea", 
-                                "slug": "", 
-                                "title": "Surface mount electronics assembly for terrified beginners", 
-                                "subtitle": "Day 1 Session 3", 
                                 "track": "self organized sessions", 
                                 "type": "workshop", 
                                 "language": "en", 
@@ -4473,34 +4473,6 @@
                         "Assembly:TeaHouse": [
                             {
                                 "id": 1343, 
-                                "guid": "0684a69d-9796-4946-9955-84cfafe8cb64", 
-                                "logo": null, 
-                                "date": "2017-12-27T19:00:00+01:00", 
-                                "start": "19:00", 
-                                "duration": "1:30", 
-                                "room": "Assembly:TeaHouse", 
-                                "slug": "", 
-                                "title": "TeaHouse", 
-                                "subtitle": "Dr. Peng saves the world", 
-                                "track": "self organized sessions", 
-                                "type": "meeting", 
-                                "language": "en", 
-                                "abstract": "", 
-                                "description": "", 
-                                "persons": [
-                                    {
-                                        "id": 0, 
-                                        "url": "https://events.ccc.de/congress/2017/wiki/index.php/User:Sanpi", 
-                                        "public_name": "Sanpi"
-                                    }
-                                ], 
-                                "links": [
-                                    "https://teahouse.homecomputing.fr/", 
-                                    "https://events.ccc.de/congress/2017/wiki/index.php/Session:TeaHouse"
-                                ]
-                            }, 
-                            {
-                                "id": 1345, 
                                 "guid": "2fe2c9a3-8e76-4542-afb8-6505fed72094", 
                                 "logo": null, 
                                 "date": "2017-12-27T13:00:00+01:00", 
@@ -4528,7 +4500,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1346, 
+                                "id": 1345, 
                                 "guid": "ef3bcca2-42bc-4bb0-a326-70e277316094", 
                                 "logo": null, 
                                 "date": "2017-12-27T14:30:00+01:00", 
@@ -4556,7 +4528,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1343, 
+                                "id": 1346, 
                                 "guid": "0684a69d-9796-4946-9955-84cfafe8cb64", 
                                 "logo": null, 
                                 "date": "2017-12-27T16:00:00+01:00", 
@@ -4584,7 +4556,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1343, 
+                                "id": 1346, 
                                 "guid": "0684a69d-9796-4946-9955-84cfafe8cb64", 
                                 "logo": null, 
                                 "date": "2017-12-27T17:00:00+01:00", 
@@ -4594,6 +4566,34 @@
                                 "slug": "", 
                                 "title": "TeaHouse", 
                                 "subtitle": "HACKING ANXIETY!!1!11", 
+                                "track": "self organized sessions", 
+                                "type": "meeting", 
+                                "language": "en", 
+                                "abstract": "", 
+                                "description": "", 
+                                "persons": [
+                                    {
+                                        "id": 0, 
+                                        "url": "https://events.ccc.de/congress/2017/wiki/index.php/User:Sanpi", 
+                                        "public_name": "Sanpi"
+                                    }
+                                ], 
+                                "links": [
+                                    "https://teahouse.homecomputing.fr/", 
+                                    "https://events.ccc.de/congress/2017/wiki/index.php/Session:TeaHouse"
+                                ]
+                            }, 
+                            {
+                                "id": 1346, 
+                                "guid": "0684a69d-9796-4946-9955-84cfafe8cb64", 
+                                "logo": null, 
+                                "date": "2017-12-27T19:00:00+01:00", 
+                                "start": "19:00", 
+                                "duration": "1:30", 
+                                "room": "Assembly:TeaHouse", 
+                                "slug": "", 
+                                "title": "TeaHouse", 
+                                "subtitle": "Dr. Peng saves the world", 
                                 "track": "self organized sessions", 
                                 "type": "meeting", 
                                 "language": "en", 
@@ -4638,7 +4638,7 @@
                         ], 
                         "Assembly:Milliways": [
                             {
-                                "id": 1371, 
+                                "id": 1370, 
                                 "guid": "7f6d1d31-3870-4d11-a4f9-83f8ebaaad21", 
                                 "logo": null, 
                                 "date": "2017-12-27T15:30:00+01:00", 
@@ -6420,7 +6420,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1199, 
+                                "id": 1201, 
                                 "guid": "07142f3d-b450-4cac-94c7-9bb95f78339b", 
                                 "logo": null, 
                                 "date": "2017-12-28T15:00:00+01:00", 
@@ -6545,7 +6545,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1363, 
+                                "id": 1360, 
                                 "guid": "9b5087f5-f903-5324-9672-50105ed38e1b", 
                                 "logo": null, 
                                 "date": "2017-12-28T17:00:00+01:00", 
@@ -6566,7 +6566,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1366, 
+                                "id": 1365, 
                                 "guid": "7d45cd3d-32cd-4d4a-a231-fd1b7e61915f", 
                                 "logo": null, 
                                 "date": "2017-12-28T19:30:00+01:00", 
@@ -6593,7 +6593,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1381, 
+                                "id": 1380, 
                                 "guid": "e4264add-ccb6-46dd-8a9d-281f639ca1b3", 
                                 "logo": null, 
                                 "date": "2017-12-28T14:00:00+01:00", 
@@ -6996,7 +6996,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1336, 
+                                "id": 1334, 
                                 "guid": "58d27c73-4a82-4199-b186-f939686353b2", 
                                 "logo": null, 
                                 "date": "2017-12-28T13:00:00+01:00", 
@@ -7020,7 +7020,7 @@
                         ], 
                         "Seminar room 13": [
                             {
-                                "id": 1008, 
+                                "id": 1009, 
                                 "guid": "4d2df78a-654b-48ec-b90b-ab100da126a6", 
                                 "logo": null, 
                                 "date": "2017-12-28T09:00:00+01:00", 
@@ -7168,7 +7168,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1374, 
+                                "id": 1373, 
                                 "guid": "77f34cbf-f0df-47b1-b235-b405c07ac7cd", 
                                 "logo": null, 
                                 "date": "2017-12-28T18:00:00+01:00", 
@@ -7195,7 +7195,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1390, 
+                                "id": 1389, 
                                 "guid": "6e77d278-f184-4c70-83a0-6a2208d4d269", 
                                 "logo": null, 
                                 "date": "2017-12-28T19:00:00+01:00", 
@@ -7353,7 +7353,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1292, 
+                                "id": 1294, 
                                 "guid": "23c6fca0-a450-47cf-8e39-888514b76355", 
                                 "logo": null, 
                                 "date": "2017-12-28T19:30:00+01:00", 
@@ -7374,7 +7374,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1296, 
+                                "id": 1298, 
                                 "guid": "cb719734-0650-4539-928a-ac4577eb588c", 
                                 "logo": null, 
                                 "date": "2017-12-28T13:00:00+01:00", 
@@ -7395,7 +7395,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1299, 
+                                "id": 1301, 
                                 "guid": "add8feaa-74d7-44f2-acca-c6902671a1a6", 
                                 "logo": null, 
                                 "date": "2017-12-28T15:00:00+01:00", 
@@ -7416,7 +7416,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1301, 
+                                "id": 1303, 
                                 "guid": "24e0dbc4-0042-4cce-b648-86c3092b36a8", 
                                 "logo": null, 
                                 "date": "2017-12-28T19:00:00+01:00", 
@@ -7437,7 +7437,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1302, 
+                                "id": 1304, 
                                 "guid": "092ae74e-8fda-49c2-a247-f444f59864d0", 
                                 "logo": null, 
                                 "date": "2017-12-28T16:00:00+01:00", 
@@ -7458,7 +7458,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1303, 
+                                "id": 1305, 
                                 "guid": "d5e27e43-b64d-4166-8f5d-beb35700fd55", 
                                 "logo": null, 
                                 "date": "2017-12-28T14:00:00+01:00", 
@@ -7614,7 +7614,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1203, 
+                                "id": 1202, 
                                 "guid": "11832e8c-2e41-4c8d-8ed8-a908d5638480", 
                                 "logo": null, 
                                 "date": "2017-12-29T00:00:00+01:00", 
@@ -7641,7 +7641,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1203, 
+                                "id": 1202, 
                                 "guid": "11832e8c-2e41-4c8d-8ed8-a908d5638480", 
                                 "logo": null, 
                                 "date": "2017-12-29T02:00:00+01:00", 
@@ -7839,7 +7839,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1388, 
+                                "id": 1387, 
                                 "guid": "0d30238d-6ac6-4c17-aa28-23d42dff0508", 
                                 "logo": null, 
                                 "date": "2017-12-28T18:00:00+01:00", 
@@ -7992,7 +7992,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1359, 
+                                "id": 1358, 
                                 "guid": "90af669f-141e-4bda-ad03-3a2c0f754ede", 
                                 "logo": null, 
                                 "date": "2017-12-28T12:00:00+01:00", 
@@ -8140,7 +8140,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1220, 
+                                "id": 1219, 
                                 "guid": "78b6af67-7c9d-460a-ac37-0428a4178e00", 
                                 "logo": null, 
                                 "date": "2017-12-28T12:00:00+01:00", 
@@ -8211,7 +8211,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1378, 
+                                "id": 1377, 
                                 "guid": "580f142f-ac61-4002-82e9-cfae56219554", 
                                 "logo": null, 
                                 "date": "2017-12-28T14:00:00+01:00", 
@@ -8395,7 +8395,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1386, 
+                                "id": 1385, 
                                 "guid": "af1ca733-a445-4f6c-947b-a7e79b77f0ba", 
                                 "logo": null, 
                                 "date": "2017-12-28T14:00:00+01:00", 
@@ -8549,7 +8549,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1377, 
+                                "id": 1376, 
                                 "guid": "bcb7aed8-2d17-4481-8d47-20741a3b3cae", 
                                 "logo": null, 
                                 "date": "2017-12-28T14:00:00+01:00", 
@@ -8627,7 +8627,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1365, 
+                                "id": 1364, 
                                 "guid": "478676ae-916e-4012-9cce-f71ef82aac04", 
                                 "logo": null, 
                                 "date": "2017-12-28T12:00:00+01:00", 
@@ -9125,16 +9125,16 @@
                                 ]
                             }, 
                             {
-                                "id": 1056, 
-                                "guid": "5ebed7df-9716-4022-bb28-2b747e5cfbf1", 
+                                "id": 1058, 
+                                "guid": "71d30e88-62ae-581d-a215-1775cc78b19f", 
                                 "logo": null, 
-                                "date": "2017-12-28T13:00:00+01:00", 
-                                "start": "13:00", 
-                                "duration": "1:00", 
+                                "date": "2017-12-28T12:00:00+01:00", 
+                                "start": "12:00", 
+                                "duration": "0:45", 
                                 "room": "Esszimmer", 
                                 "slug": "", 
                                 "title": "Calliope Workshops", 
-                                "subtitle": "Calliope Workshop 2", 
+                                "subtitle": "Calliope Workshop 1", 
                                 "track": "self organized sessions", 
                                 "type": "workshop", 
                                 "language": "de", 
@@ -9154,15 +9154,15 @@
                             }, 
                             {
                                 "id": 1059, 
-                                "guid": "71d30e88-62ae-581d-a215-1775cc78b19f", 
+                                "guid": "5ebed7df-9716-4022-bb28-2b747e5cfbf1", 
                                 "logo": null, 
-                                "date": "2017-12-28T12:00:00+01:00", 
-                                "start": "12:00", 
-                                "duration": "0:45", 
+                                "date": "2017-12-28T13:00:00+01:00", 
+                                "start": "13:00", 
+                                "duration": "1:00", 
                                 "room": "Esszimmer", 
                                 "slug": "", 
                                 "title": "Calliope Workshops", 
-                                "subtitle": "Calliope Workshop 1", 
+                                "subtitle": "Calliope Workshop 2", 
                                 "track": "self organized sessions", 
                                 "type": "workshop", 
                                 "language": "de", 
@@ -9386,7 +9386,7 @@
                         ], 
                         "Assembly:HardwareHackingArea": [
                             {
-                                "id": 1038, 
+                                "id": 1037, 
                                 "guid": "7263f227-d3cc-45eb-b22a-808c40b0c511", 
                                 "logo": null, 
                                 "date": "2017-12-28T13:00:00+01:00", 
@@ -9414,7 +9414,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1184, 
+                                "id": 1185, 
                                 "guid": "e87a7b37-b57c-4367-957c-1ef2dcd3a606", 
                                 "logo": null, 
                                 "date": "2017-12-28T17:30:00+01:00", 
@@ -9442,7 +9442,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1213, 
+                                "id": 1212, 
                                 "guid": "950b4c24-8b9d-437b-bb2a-5c274e27221c", 
                                 "logo": null, 
                                 "date": "2017-12-28T11:00:00+01:00", 
@@ -9523,7 +9523,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1392, 
+                                "id": 1391, 
                                 "guid": "7d340ef2-3464-4545-be3f-302b427a543c", 
                                 "logo": null, 
                                 "date": "2017-12-28T20:00:00+01:00", 
@@ -9575,10 +9575,10 @@
                             }, 
                             {
                                 "id": 1126, 
-                                "guid": "ad64fdfc-31ea-4d5e-891e-5285c5e8f52e", 
+                                "guid": "f23af674-7de2-45cb-b605-036ab470954a", 
                                 "logo": null, 
-                                "date": "2017-12-28T19:00:00+01:00", 
-                                "start": "19:00", 
+                                "date": "2017-12-28T20:30:00+01:00", 
+                                "start": "20:30", 
                                 "duration": "1:30", 
                                 "room": "Assembly:Foodhackingbase", 
                                 "slug": "", 
@@ -9597,10 +9597,10 @@
                             }, 
                             {
                                 "id": 1127, 
-                                "guid": "f23af674-7de2-45cb-b605-036ab470954a", 
+                                "guid": "ad64fdfc-31ea-4d5e-891e-5285c5e8f52e", 
                                 "logo": null, 
-                                "date": "2017-12-28T20:30:00+01:00", 
-                                "start": "20:30", 
+                                "date": "2017-12-28T19:00:00+01:00", 
+                                "start": "19:00", 
                                 "duration": "1:30", 
                                 "room": "Assembly:Foodhackingbase", 
                                 "slug": "", 
@@ -9642,7 +9642,7 @@
                         ], 
                         "Assembly:Dolphin Emulator": [
                             {
-                                "id": 1052, 
+                                "id": 1051, 
                                 "guid": "ac4dea9f-e4f6-438c-9c9e-dc99c31dcf48", 
                                 "logo": null, 
                                 "date": "2017-12-28T14:00:00+01:00", 
@@ -9665,7 +9665,7 @@
                         ], 
                         "Hive Conference": [
                             {
-                                "id": 1057, 
+                                "id": 1056, 
                                 "guid": "9ef29ba5-4eb9-4d18-9f79-808570413595", 
                                 "logo": null, 
                                 "date": "2017-12-28T16:00:00+01:00", 
@@ -9693,7 +9693,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1058, 
+                                "id": 1057, 
                                 "guid": "6946c2f8-7ca0-4d95-a70a-20cec20e25fb", 
                                 "logo": null, 
                                 "date": "2017-12-28T17:00:00+01:00", 
@@ -9803,28 +9803,7 @@
                         ], 
                         "CCL Hall 2": [
                             {
-                                "id": 1080, 
-                                "guid": "531e5d6b-bb6a-5f91-b3cc-ac67734ae70f", 
-                                "logo": null, 
-                                "date": "2017-12-28T10:10:00+01:00", 
-                                "start": "10:10", 
-                                "duration": "1:20", 
-                                "room": "CCL Hall 2", 
-                                "slug": "", 
-                                "title": "DLF", 
-                                "subtitle": "\"Progmmieren lernen mit Raspberry Pi und Co.\"", 
-                                "track": "self organized sessions", 
-                                "type": "", 
-                                "language": "de", 
-                                "abstract": "", 
-                                "description": "DLF", 
-                                "persons": [], 
-                                "links": [
-                                    "https://events.ccc.de/congress/2017/wiki/index.php/Session:DLF"
-                                ]
-                            }, 
-                            {
-                                "id": 1083, 
+                                "id": 1079, 
                                 "guid": "c722d326-9297-5528-a7dd-6645ead7e8b1", 
                                 "logo": null, 
                                 "date": "2017-12-28T13:00:00+01:00", 
@@ -9845,7 +9824,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1086, 
+                                "id": 1082, 
                                 "guid": "4f5a4ab1-ab30-5729-8b05-8865a475dd8e", 
                                 "logo": null, 
                                 "date": "2017-12-28T16:35:00+01:00", 
@@ -9866,7 +9845,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1089, 
+                                "id": 1085, 
                                 "guid": "3b865956-5400-5ec4-81b0-028abf9495aa", 
                                 "logo": null, 
                                 "date": "2017-12-28T17:00:00+01:00", 
@@ -9876,6 +9855,27 @@
                                 "slug": "", 
                                 "title": "DLF", 
                                 "subtitle": "Studiogespr\u00e4ch", 
+                                "track": "self organized sessions", 
+                                "type": "", 
+                                "language": "de", 
+                                "abstract": "", 
+                                "description": "DLF", 
+                                "persons": [], 
+                                "links": [
+                                    "https://events.ccc.de/congress/2017/wiki/index.php/Session:DLF"
+                                ]
+                            }, 
+                            {
+                                "id": 1092, 
+                                "guid": "531e5d6b-bb6a-5f91-b3cc-ac67734ae70f", 
+                                "logo": null, 
+                                "date": "2017-12-28T10:10:00+01:00", 
+                                "start": "10:10", 
+                                "duration": "1:20", 
+                                "room": "CCL Hall 2", 
+                                "slug": "", 
+                                "title": "DLF", 
+                                "subtitle": "\"Progmmieren lernen mit Raspberry Pi und Co.\"", 
                                 "track": "self organized sessions", 
                                 "type": "", 
                                 "language": "de", 
@@ -10058,7 +10058,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1196, 
+                                "id": 1195, 
                                 "guid": "461ebb4b-0946-4b3d-92d2-82288dbcee75", 
                                 "logo": null, 
                                 "date": "2017-12-28T20:00:00+01:00", 
@@ -10123,7 +10123,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1369, 
+                                "id": 1368, 
                                 "guid": "bce8abc0-480d-4045-872c-eef18b10221f", 
                                 "logo": null, 
                                 "date": "2017-12-28T17:45:00+01:00", 
@@ -10220,62 +10220,6 @@
                                 "links": [
                                     "http://www.metamate.cc", 
                                     "https://events.ccc.de/congress/2017/wiki/index.php/Session:Mate_Making_%26_Drinking"
-                                ]
-                            }, 
-                            {
-                                "id": 1217, 
-                                "guid": "68c26941-115f-4ada-8ed5-d0e4217680cf", 
-                                "logo": null, 
-                                "date": "2017-12-28T20:30:00+01:00", 
-                                "start": "20:30", 
-                                "duration": "0:45", 
-                                "room": "Assembly:TeaHouse", 
-                                "slug": "", 
-                                "title": "TeaHouse", 
-                                "subtitle": "Radio Dabanga Massive audience engagement in (human rights/humanitarian) reporting", 
-                                "track": "self organized sessions", 
-                                "type": "meeting", 
-                                "language": "en", 
-                                "abstract": "", 
-                                "description": "", 
-                                "persons": [
-                                    {
-                                        "id": 0, 
-                                        "url": "https://events.ccc.de/congress/2017/wiki/index.php/User:Sanpi", 
-                                        "public_name": "Sanpi"
-                                    }
-                                ], 
-                                "links": [
-                                    "https://teahouse.homecomputing.fr/", 
-                                    "https://events.ccc.de/congress/2017/wiki/index.php/Session:TeaHouse"
-                                ]
-                            }, 
-                            {
-                                "id": 1217, 
-                                "guid": "68c26941-115f-4ada-8ed5-d0e4217680cf", 
-                                "logo": null, 
-                                "date": "2017-12-28T13:00:00+01:00", 
-                                "start": "13:00", 
-                                "duration": "1:00", 
-                                "room": "Assembly:TeaHouse", 
-                                "slug": "", 
-                                "title": "TeaHouse", 
-                                "subtitle": "Meta Mate", 
-                                "track": "self organized sessions", 
-                                "type": "meeting", 
-                                "language": "en", 
-                                "abstract": "", 
-                                "description": "", 
-                                "persons": [
-                                    {
-                                        "id": 0, 
-                                        "url": "https://events.ccc.de/congress/2017/wiki/index.php/User:Sanpi", 
-                                        "public_name": "Sanpi"
-                                    }
-                                ], 
-                                "links": [
-                                    "https://teahouse.homecomputing.fr/", 
-                                    "https://events.ccc.de/congress/2017/wiki/index.php/Session:TeaHouse"
                                 ]
                             }, 
                             {
@@ -10417,6 +10361,62 @@
                                     "https://teahouse.homecomputing.fr/", 
                                     "https://events.ccc.de/congress/2017/wiki/index.php/Session:TeaHouse"
                                 ]
+                            }, 
+                            {
+                                "id": 1217, 
+                                "guid": "68c26941-115f-4ada-8ed5-d0e4217680cf", 
+                                "logo": null, 
+                                "date": "2017-12-28T20:30:00+01:00", 
+                                "start": "20:30", 
+                                "duration": "0:45", 
+                                "room": "Assembly:TeaHouse", 
+                                "slug": "", 
+                                "title": "TeaHouse", 
+                                "subtitle": "Radio Dabanga Massive audience engagement in (human rights/humanitarian) reporting", 
+                                "track": "self organized sessions", 
+                                "type": "meeting", 
+                                "language": "en", 
+                                "abstract": "", 
+                                "description": "", 
+                                "persons": [
+                                    {
+                                        "id": 0, 
+                                        "url": "https://events.ccc.de/congress/2017/wiki/index.php/User:Sanpi", 
+                                        "public_name": "Sanpi"
+                                    }
+                                ], 
+                                "links": [
+                                    "https://teahouse.homecomputing.fr/", 
+                                    "https://events.ccc.de/congress/2017/wiki/index.php/Session:TeaHouse"
+                                ]
+                            }, 
+                            {
+                                "id": 1217, 
+                                "guid": "68c26941-115f-4ada-8ed5-d0e4217680cf", 
+                                "logo": null, 
+                                "date": "2017-12-28T13:00:00+01:00", 
+                                "start": "13:00", 
+                                "duration": "1:00", 
+                                "room": "Assembly:TeaHouse", 
+                                "slug": "", 
+                                "title": "TeaHouse", 
+                                "subtitle": "Meta Mate", 
+                                "track": "self organized sessions", 
+                                "type": "meeting", 
+                                "language": "en", 
+                                "abstract": "", 
+                                "description": "", 
+                                "persons": [
+                                    {
+                                        "id": 0, 
+                                        "url": "https://events.ccc.de/congress/2017/wiki/index.php/User:Sanpi", 
+                                        "public_name": "Sanpi"
+                                    }
+                                ], 
+                                "links": [
+                                    "https://teahouse.homecomputing.fr/", 
+                                    "https://events.ccc.de/congress/2017/wiki/index.php/Session:TeaHouse"
+                                ]
                             }
                         ], 
                         "Assembly:ChaosZone": [
@@ -10509,7 +10509,7 @@
                         ], 
                         "Assembly:VR": [
                             {
-                                "id": 1373, 
+                                "id": 1372, 
                                 "guid": "41c17d4f-aebf-40a2-9702-73ef58f4d78c", 
                                 "logo": null, 
                                 "date": "2017-12-28T15:00:00+01:00", 
@@ -10532,7 +10532,7 @@
                         ], 
                         "Assembly:VoidLinux": [
                             {
-                                "id": 1375, 
+                                "id": 1374, 
                                 "guid": "06bee313-647a-4463-8dcb-56889e3dec21", 
                                 "logo": null, 
                                 "date": "2017-12-28T19:30:00+01:00", 
@@ -10562,7 +10562,7 @@
                         ], 
                         "Assembly:Weisswurscht.is": [
                             {
-                                "id": 1379, 
+                                "id": 1378, 
                                 "guid": "6f219c2d-1b8c-47fd-a945-641740db81b6", 
                                 "logo": null, 
                                 "date": "2017-12-28T10:00:00+01:00", 
@@ -12444,15 +12444,15 @@
                             }, 
                             {
                                 "id": 1198, 
-                                "guid": "2cf16048-946e-4230-8c5a-332826ea14c6", 
+                                "guid": "e3d9d5b4-b35d-4828-b7af-6cdf33b438cf", 
                                 "logo": null, 
-                                "date": "2017-12-30T02:30:00+01:00", 
-                                "start": "02:30", 
-                                "duration": "2:00", 
+                                "date": "2017-12-29T23:59:00+01:00", 
+                                "start": "23:59", 
+                                "duration": "1:30", 
                                 "room": "Lecture room 11", 
                                 "slug": "", 
                                 "title": "KinkyGeeks Bondage Workshop", 
-                                "subtitle": "Open Rope Jam", 
+                                "subtitle": "Advanced", 
                                 "track": "self organized sessions", 
                                 "type": "workshop", 
                                 "language": "de", 
@@ -12471,16 +12471,16 @@
                                 ]
                             }, 
                             {
-                                "id": 1201, 
-                                "guid": "e3d9d5b4-b35d-4828-b7af-6cdf33b438cf", 
+                                "id": 1199, 
+                                "guid": "2cf16048-946e-4230-8c5a-332826ea14c6", 
                                 "logo": null, 
-                                "date": "2017-12-29T23:59:00+01:00", 
-                                "start": "23:59", 
-                                "duration": "1:30", 
+                                "date": "2017-12-30T02:30:00+01:00", 
+                                "start": "02:30", 
+                                "duration": "2:00", 
                                 "room": "Lecture room 11", 
                                 "slug": "", 
                                 "title": "KinkyGeeks Bondage Workshop", 
-                                "subtitle": "Advanced", 
+                                "subtitle": "Open Rope Jam", 
                                 "track": "self organized sessions", 
                                 "type": "workshop", 
                                 "language": "de", 
@@ -12543,7 +12543,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1357, 
+                                "id": 1356, 
                                 "guid": "af24303a-71b5-4887-a93d-e12f95ffbe22", 
                                 "logo": null, 
                                 "date": "2017-12-29T22:00:00+01:00", 
@@ -12571,7 +12571,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1389, 
+                                "id": 1388, 
                                 "guid": "dc1ce5c6-2b4a-4a3a-b46d-d14f5fc6b900", 
                                 "logo": null, 
                                 "date": "2017-12-29T15:00:00+01:00", 
@@ -12753,7 +12753,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1361, 
+                                "id": 1362, 
                                 "guid": "f3a30985-fc90-51f2-baa3-a07d034bffcc", 
                                 "logo": null, 
                                 "date": "2017-12-29T17:30:00+01:00", 
@@ -12774,7 +12774,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1368, 
+                                "id": 1367, 
                                 "guid": "96ba42dd-c65d-4644-a427-6b141b64ae06", 
                                 "logo": null, 
                                 "date": "2017-12-29T19:30:00+01:00", 
@@ -13030,7 +13030,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1008, 
+                                "id": 1009, 
                                 "guid": "4d2df78a-654b-48ec-b90b-ab100da126a6", 
                                 "logo": null, 
                                 "date": "2017-12-29T09:00:00+01:00", 
@@ -13245,7 +13245,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1367, 
+                                "id": 1366, 
                                 "guid": "b2d06017-ccdc-4772-bfb8-247b29bfa3b8", 
                                 "logo": null, 
                                 "date": "2017-12-29T14:00:00+01:00", 
@@ -13272,7 +13272,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1393, 
+                                "id": 1392, 
                                 "guid": "c6c07046-00a5-4f1e-96b3-2b02d30d154d", 
                                 "logo": null, 
                                 "date": "2017-12-29T21:00:00+01:00", 
@@ -13435,6 +13435,27 @@
                             }, 
                             {
                                 "id": 1293, 
+                                "guid": "48ea0d19-03cd-4cea-b436-46892ae393ad", 
+                                "logo": null, 
+                                "date": "2017-12-29T20:00:00+01:00", 
+                                "start": "20:00", 
+                                "duration": "1:00", 
+                                "room": "CCL Hall 3", 
+                                "slug": "", 
+                                "title": "Rights&Freedoms", 
+                                "subtitle": "Case study \u201cStaatstrojaner\u201d: strategic litigation against state hacking (Ulf Buermeyer, GFF)", 
+                                "track": "self organized sessions", 
+                                "type": "talk", 
+                                "language": "de", 
+                                "abstract": "", 
+                                "description": "Rights & Freedoms Cluster Stage Programme", 
+                                "persons": [], 
+                                "links": [
+                                    "https://events.ccc.de/congress/2017/wiki/index.php/Session:Rights%26Freedoms"
+                                ]
+                            }, 
+                            {
+                                "id": 1295, 
                                 "guid": "f8c6d10a-3129-4d2c-8806-d5c0732e2851", 
                                 "logo": null, 
                                 "date": "2017-12-29T17:30:00+01:00", 
@@ -13455,7 +13476,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1294, 
+                                "id": 1296, 
                                 "guid": "65ef56f8-c667-4b9f-8a28-843f8fe7bbf0", 
                                 "logo": null, 
                                 "date": "2017-12-29T21:00:00+01:00", 
@@ -13476,7 +13497,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1295, 
+                                "id": 1297, 
                                 "guid": "93fa9255-e0a0-457e-a569-cb6b88776793", 
                                 "logo": null, 
                                 "date": "2017-12-29T15:00:00+01:00", 
@@ -13497,7 +13518,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1298, 
+                                "id": 1300, 
                                 "guid": "2364a815-ad04-427d-8877-1c4e3931f4be", 
                                 "logo": null, 
                                 "date": "2017-12-29T14:00:00+01:00", 
@@ -13518,7 +13539,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1304, 
+                                "id": 1306, 
                                 "guid": "e205e42a-460e-4c11-b3a2-c764d06cb053", 
                                 "logo": null, 
                                 "date": "2017-12-29T18:00:00+01:00", 
@@ -13539,7 +13560,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1305, 
+                                "id": 1307, 
                                 "guid": "d7d75ccf-f380-4a59-a18b-92ae6083fb8a", 
                                 "logo": null, 
                                 "date": "2017-12-29T17:00:00+01:00", 
@@ -13549,27 +13570,6 @@
                                 "slug": "", 
                                 "title": "Rights&Freedoms", 
                                 "subtitle": "Strategic litigation in Germany- complaints to stop mass surveillance (Ulf Buermeyer, GFF)", 
-                                "track": "self organized sessions", 
-                                "type": "talk", 
-                                "language": "de", 
-                                "abstract": "", 
-                                "description": "Rights & Freedoms Cluster Stage Programme", 
-                                "persons": [], 
-                                "links": [
-                                    "https://events.ccc.de/congress/2017/wiki/index.php/Session:Rights%26Freedoms"
-                                ]
-                            }, 
-                            {
-                                "id": 1307, 
-                                "guid": "48ea0d19-03cd-4cea-b436-46892ae393ad", 
-                                "logo": null, 
-                                "date": "2017-12-29T20:00:00+01:00", 
-                                "start": "20:00", 
-                                "duration": "1:00", 
-                                "room": "CCL Hall 3", 
-                                "slug": "", 
-                                "title": "Rights&Freedoms", 
-                                "subtitle": "Case study \u201cStaatstrojaner\u201d: strategic litigation against state hacking (Ulf Buermeyer, GFF)", 
                                 "track": "self organized sessions", 
                                 "type": "talk", 
                                 "language": "de", 
@@ -13711,16 +13711,16 @@
                                 ]
                             }, 
                             {
-                                "id": 1203, 
+                                "id": 1202, 
                                 "guid": "11832e8c-2e41-4c8d-8ed8-a908d5638480", 
                                 "logo": null, 
-                                "date": "2017-12-30T00:00:00+01:00", 
-                                "start": "00:00", 
+                                "date": "2017-12-30T02:00:00+01:00", 
+                                "start": "02:00", 
                                 "duration": "2:00", 
                                 "room": "Chaos West Stage", 
                                 "slug": "", 
                                 "title": "Klangteppich", 
-                                "subtitle": "Raoul Funkler DJ set", 
+                                "subtitle": "Project Poltergeist DJ set (Alexeyan) Dark & Noisy Techno", 
                                 "track": "self organized sessions", 
                                 "type": "other", 
                                 "language": "de", 
@@ -13738,16 +13738,16 @@
                                 ]
                             }, 
                             {
-                                "id": 1203, 
+                                "id": 1202, 
                                 "guid": "11832e8c-2e41-4c8d-8ed8-a908d5638480", 
                                 "logo": null, 
-                                "date": "2017-12-30T02:00:00+01:00", 
-                                "start": "02:00", 
+                                "date": "2017-12-30T00:00:00+01:00", 
+                                "start": "00:00", 
                                 "duration": "2:00", 
                                 "room": "Chaos West Stage", 
                                 "slug": "", 
                                 "title": "Klangteppich", 
-                                "subtitle": "Project Poltergeist DJ set (Alexeyan) Dark & Noisy Techno", 
+                                "subtitle": "Raoul Funkler DJ set", 
                                 "track": "self organized sessions", 
                                 "type": "other", 
                                 "language": "de", 
@@ -13814,7 +13814,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1394, 
+                                "id": 1393, 
                                 "guid": "2908d355-9054-4c8f-8a7f-33e677435c1d", 
                                 "logo": null, 
                                 "date": "2017-12-29T14:00:00+01:00", 
@@ -13842,7 +13842,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1395, 
+                                "id": 1394, 
                                 "guid": "cc28d9e0-c2e8-4e48-862e-5e5f489eb214", 
                                 "logo": null, 
                                 "date": "2017-12-29T18:00:00+01:00", 
@@ -13870,7 +13870,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1396, 
+                                "id": 1395, 
                                 "guid": "668e730c-cdff-419e-9c92-074b1355448d", 
                                 "logo": null, 
                                 "date": "2017-12-29T18:30:00+01:00", 
@@ -13928,7 +13928,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1190, 
+                                "id": 1189, 
                                 "guid": "97c297e9-344d-4a68-bb70-cdbe88a6a7ee", 
                                 "logo": null, 
                                 "date": "2017-12-29T16:30:00+01:00", 
@@ -14340,7 +14340,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1376, 
+                                "id": 1375, 
                                 "guid": "151ec08c-5139-46fb-b1b6-180187577fb8", 
                                 "logo": null, 
                                 "date": "2017-12-29T20:00:00+01:00", 
@@ -14361,7 +14361,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1387, 
+                                "id": 1386, 
                                 "guid": "da930b1f-96d6-47fa-adad-d979ab30e241", 
                                 "logo": null, 
                                 "date": "2017-12-29T14:00:00+01:00", 
@@ -14382,7 +14382,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1391, 
+                                "id": 1390, 
                                 "guid": "257d3b9c-938d-44b3-9444-730641d2dd9e", 
                                 "logo": null, 
                                 "date": "2017-12-29T16:00:00+01:00", 
@@ -14469,10 +14469,10 @@
                         "Kidspace": [
                             {
                                 "id": 1001, 
-                                "guid": "53d056a4-aeb6-4814-ace4-a8a60345340d", 
+                                "guid": "d6665d6a-b44e-44f0-a0aa-31f5f716caf0", 
                                 "logo": null, 
-                                "date": "2017-12-29T16:00:00+01:00", 
-                                "start": "16:00", 
+                                "date": "2017-12-29T12:00:00+01:00", 
+                                "start": "12:00", 
                                 "duration": "1:00", 
                                 "room": "Kidspace", 
                                 "slug": "", 
@@ -14496,10 +14496,10 @@
                             }, 
                             {
                                 "id": 1002, 
-                                "guid": "d6665d6a-b44e-44f0-a0aa-31f5f716caf0", 
+                                "guid": "53d056a4-aeb6-4814-ace4-a8a60345340d", 
                                 "logo": null, 
-                                "date": "2017-12-29T12:00:00+01:00", 
-                                "start": "12:00", 
+                                "date": "2017-12-29T16:00:00+01:00", 
+                                "start": "16:00", 
                                 "duration": "1:00", 
                                 "room": "Kidspace", 
                                 "slug": "", 
@@ -15038,7 +15038,7 @@
                         ], 
                         "Assembly:HardwareHackingArea": [
                             {
-                                "id": 1037, 
+                                "id": 1038, 
                                 "guid": "c6c047b0-f177-4a0d-83dc-17c21cd89f3a", 
                                 "logo": null, 
                                 "date": "2017-12-29T13:00:00+01:00", 
@@ -15066,7 +15066,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1184, 
+                                "id": 1185, 
                                 "guid": "e87a7b37-b57c-4367-957c-1ef2dcd3a606", 
                                 "logo": null, 
                                 "date": "2017-12-29T17:30:00+01:00", 
@@ -15094,7 +15094,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1213, 
+                                "id": 1212, 
                                 "guid": "950b4c24-8b9d-437b-bb2a-5c274e27221c", 
                                 "logo": null, 
                                 "date": "2017-12-29T11:00:00+01:00", 
@@ -15231,7 +15231,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1195, 
+                                "id": 1196, 
                                 "guid": "7ea40660-5242-4929-9ee6-afa27a662643", 
                                 "logo": null, 
                                 "date": "2017-12-29T20:00:00+01:00", 
@@ -15300,7 +15300,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1383, 
+                                "id": 1382, 
                                 "guid": "6b45706e-8625-4aa8-8a47-5ba016f04c87", 
                                 "logo": null, 
                                 "date": "2017-12-29T22:00:00+01:00", 
@@ -15329,7 +15329,7 @@
                         ], 
                         "Assembly:Dolphin Emulator": [
                             {
-                                "id": 1051, 
+                                "id": 1052, 
                                 "guid": "ff78a8be-f2a7-47ca-a8ca-e56921177d9d", 
                                 "logo": null, 
                                 "date": "2017-12-29T14:00:00+01:00", 
@@ -15405,28 +15405,6 @@
                                 "links": [
                                     "https://events.ccc.de/congress/2017/wiki/index.php/Session:Maritime_Hackers"
                                 ]
-                            }, 
-                            {
-                                "id": 1356, 
-                                "guid": "1eead0ed-ed7f-473a-84d9-c03fb5ec9b4e", 
-                                "logo": null, 
-                                "date": "2017-12-29T10:00:00+01:00", 
-                                "start": "10:00", 
-                                "duration": "1:00", 
-                                "room": "Hive Conference", 
-                                "slug": "", 
-                                "title": "Tongue twisters (Zungenbrecher)", 
-                                "subtitle": "", 
-                                "track": "self organized sessions", 
-                                "type": "workshop", 
-                                "language": "en", 
-                                "abstract": "", 
-                                "description": "We will document tongue twisters by writing them down, recording them being spoken, and translating them into other languages.", 
-                                "persons": [], 
-                                "links": [
-                                    "https://thomaslevine.com/scm/langrompiloj/dir?ci=tip", 
-                                    "https://events.ccc.de/congress/2017/wiki/index.php/Session:Tongue_twisters_(Zungenbrecher)"
-                                ]
                             }
                         ], 
                         "In front of main entrance (at the pond)": [
@@ -15455,16 +15433,16 @@
                         ], 
                         "CCL Hall 2": [
                             {
-                                "id": 1079, 
-                                "guid": "996b43ab-9f4c-5e9e-bdb7-9c0b7ab7bf48", 
+                                "id": 1088, 
+                                "guid": "1481e306-80a7-5abd-842c-177422a47468", 
                                 "logo": null, 
-                                "date": "2017-12-29T17:00:00+01:00", 
-                                "start": "17:00", 
-                                "duration": "1:00", 
+                                "date": "2017-12-29T16:35:00+01:00", 
+                                "start": "16:35", 
+                                "duration": "0:25", 
                                 "room": "CCL Hall 2", 
                                 "slug": "", 
                                 "title": "DLF", 
-                                "subtitle": "Studiogespr\u00e4ch", 
+                                "subtitle": "Live-Beitrag in Forschung Aktuell", 
                                 "track": "self organized sessions", 
                                 "type": "", 
                                 "language": "de", 
@@ -15476,16 +15454,16 @@
                                 ]
                             }, 
                             {
-                                "id": 1092, 
-                                "guid": "1481e306-80a7-5abd-842c-177422a47468", 
+                                "id": 1091, 
+                                "guid": "996b43ab-9f4c-5e9e-bdb7-9c0b7ab7bf48", 
                                 "logo": null, 
-                                "date": "2017-12-29T16:35:00+01:00", 
-                                "start": "16:35", 
-                                "duration": "0:25", 
+                                "date": "2017-12-29T17:00:00+01:00", 
+                                "start": "17:00", 
+                                "duration": "1:00", 
                                 "room": "CCL Hall 2", 
                                 "slug": "", 
                                 "title": "DLF", 
-                                "subtitle": "Live-Beitrag in Forschung Aktuell", 
+                                "subtitle": "Studiogespr\u00e4ch", 
                                 "track": "self organized sessions", 
                                 "type": "", 
                                 "language": "de", 
@@ -15615,7 +15593,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1189, 
+                                "id": 1188, 
                                 "guid": "95d4a092-e0a5-5219-b11a-2c413a249d11", 
                                 "logo": null, 
                                 "date": "2017-12-29T17:00:00+01:00", 
@@ -15719,7 +15697,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1289, 
+                                "id": 1288, 
                                 "guid": "bb1c51dc-16f6-5e01-94e2-7123b6f8eb3b", 
                                 "logo": null, 
                                 "date": "2017-12-29T19:00:00+01:00", 
@@ -15903,34 +15881,6 @@
                                 "id": 1344, 
                                 "guid": "622c5770-b9fc-45ef-b9fc-1533f661e3ec", 
                                 "logo": null, 
-                                "date": "2017-12-29T19:00:00+01:00", 
-                                "start": "19:00", 
-                                "duration": "2:00", 
-                                "room": "Assembly:TeaHouse", 
-                                "slug": "", 
-                                "title": "TeaHouse", 
-                                "subtitle": "Breaking Bad Crypto", 
-                                "track": "self organized sessions", 
-                                "type": "meeting", 
-                                "language": "en", 
-                                "abstract": "", 
-                                "description": "", 
-                                "persons": [
-                                    {
-                                        "id": 0, 
-                                        "url": "https://events.ccc.de/congress/2017/wiki/index.php/User:Sanpi", 
-                                        "public_name": "Sanpi"
-                                    }
-                                ], 
-                                "links": [
-                                    "https://teahouse.homecomputing.fr/", 
-                                    "https://events.ccc.de/congress/2017/wiki/index.php/Session:TeaHouse"
-                                ]
-                            }, 
-                            {
-                                "id": 1344, 
-                                "guid": "622c5770-b9fc-45ef-b9fc-1533f661e3ec", 
-                                "logo": null, 
                                 "date": "2017-12-29T13:00:00+01:00", 
                                 "start": "13:00", 
                                 "duration": "0:45", 
@@ -15994,6 +15944,34 @@
                                 "slug": "", 
                                 "title": "TeaHouse", 
                                 "subtitle": "CryptOps: Moving to a world with encrypted VPSs only", 
+                                "track": "self organized sessions", 
+                                "type": "meeting", 
+                                "language": "en", 
+                                "abstract": "", 
+                                "description": "", 
+                                "persons": [
+                                    {
+                                        "id": 0, 
+                                        "url": "https://events.ccc.de/congress/2017/wiki/index.php/User:Sanpi", 
+                                        "public_name": "Sanpi"
+                                    }
+                                ], 
+                                "links": [
+                                    "https://teahouse.homecomputing.fr/", 
+                                    "https://events.ccc.de/congress/2017/wiki/index.php/Session:TeaHouse"
+                                ]
+                            }, 
+                            {
+                                "id": 1344, 
+                                "guid": "622c5770-b9fc-45ef-b9fc-1533f661e3ec", 
+                                "logo": null, 
+                                "date": "2017-12-29T19:00:00+01:00", 
+                                "start": "19:00", 
+                                "duration": "2:00", 
+                                "room": "Assembly:TeaHouse", 
+                                "slug": "", 
+                                "title": "TeaHouse", 
+                                "subtitle": "Breaking Bad Crypto", 
                                 "track": "self organized sessions", 
                                 "type": "meeting", 
                                 "language": "en", 
@@ -16170,7 +16148,7 @@
                         ], 
                         "Assembly:Milliways": [
                             {
-                                "id": 1382, 
+                                "id": 1381, 
                                 "guid": "6f27b019-7d82-4d4e-8053-357fc34267d9", 
                                 "logo": null, 
                                 "date": "2017-12-29T20:00:00+01:00", 
@@ -17373,7 +17351,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1397, 
+                                "id": 1396, 
                                 "guid": "dd59f0b8-212d-4978-8476-fffb4455bb25", 
                                 "logo": null, 
                                 "date": "2017-12-30T14:30:00+01:00", 
@@ -17431,7 +17409,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1008, 
+                                "id": 1009, 
                                 "guid": "4d2df78a-654b-48ec-b90b-ab100da126a6", 
                                 "logo": null, 
                                 "date": "2017-12-30T09:00:00+01:00", 
@@ -17482,7 +17460,7 @@
                         ], 
                         "CCL Hall 3": [
                             {
-                                "id": 1297, 
+                                "id": 1299, 
                                 "guid": "3402fbf1-545c-4b4f-abf3-7fa4afbfed9f", 
                                 "logo": null, 
                                 "date": "2017-12-30T14:00:00+01:00", 
@@ -17738,7 +17716,7 @@
                         ], 
                         "Komona Coral Reef": [
                             {
-                                "id": 1219, 
+                                "id": 1220, 
                                 "guid": "a3026239-aef4-4d20-bdc5-003bfbbff970", 
                                 "logo": null, 
                                 "date": "2017-12-30T12:00:00+01:00", 
@@ -17900,7 +17878,7 @@
                         ], 
                         "Kidspace": [
                             {
-                                "id": 1001, 
+                                "id": 1002, 
                                 "guid": "53d056a4-aeb6-4814-ace4-a8a60345340d", 
                                 "logo": null, 
                                 "date": "2017-12-30T11:00:00+01:00", 
@@ -18097,7 +18075,7 @@
                         ], 
                         "CCL Hall 2": [
                             {
-                                "id": 1082, 
+                                "id": 1078, 
                                 "guid": "1c73c759-0d3b-501e-a07d-82ea10e9f40c", 
                                 "logo": null, 
                                 "date": "2017-12-30T13:05:00+01:00", 
@@ -18118,7 +18096,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1085, 
+                                "id": 1081, 
                                 "guid": "bdf00168-ed69-5809-9916-a89d109c9b2c", 
                                 "logo": null, 
                                 "date": "2017-12-30T14:15:00+01:00", 
@@ -18141,7 +18119,7 @@
                         ], 
                         "Assembly:HardwareHackingArea": [
                             {
-                                "id": 1184, 
+                                "id": 1185, 
                                 "guid": "e87a7b37-b57c-4367-957c-1ef2dcd3a606", 
                                 "logo": null, 
                                 "date": "2017-12-30T13:00:00+01:00", 
@@ -18169,7 +18147,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1213, 
+                                "id": 1212, 
                                 "guid": "950b4c24-8b9d-437b-bb2a-5c274e27221c", 
                                 "logo": null, 
                                 "date": "2017-12-30T11:00:00+01:00", 
@@ -18223,7 +18201,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1340, 
+                                "id": 1338, 
                                 "guid": "a9061f0d-2b54-41c9-b4de-3f499804acfb", 
                                 "logo": null, 
                                 "date": "2017-12-30T11:00:00+01:00", 
@@ -18250,7 +18228,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1340, 
+                                "id": 1338, 
                                 "guid": "a9061f0d-2b54-41c9-b4de-3f499804acfb", 
                                 "logo": null, 
                                 "date": "2017-12-30T13:00:00+01:00", 
@@ -18414,33 +18392,9 @@
                                 ]
                             }
                         ], 
-                        "Hive Conference": [
-                            {
-                                "id": 1356, 
-                                "guid": "1eead0ed-ed7f-473a-84d9-c03fb5ec9b4e", 
-                                "logo": null, 
-                                "date": "2017-12-30T10:00:00+01:00", 
-                                "start": "10:00", 
-                                "duration": "1:00", 
-                                "room": "Hive Conference", 
-                                "slug": "", 
-                                "title": "Tongue twisters (Zungenbrecher)", 
-                                "subtitle": "", 
-                                "track": "self organized sessions", 
-                                "type": "workshop", 
-                                "language": "en", 
-                                "abstract": "", 
-                                "description": "We will document tongue twisters by writing them down, recording them being spoken, and translating them into other languages.", 
-                                "persons": [], 
-                                "links": [
-                                    "https://thomaslevine.com/scm/langrompiloj/dir?ci=tip", 
-                                    "https://events.ccc.de/congress/2017/wiki/index.php/Session:Tongue_twisters_(Zungenbrecher)"
-                                ]
-                            }
-                        ], 
                         "Esszimmer": [
                             {
-                                "id": 1385, 
+                                "id": 1384, 
                                 "guid": "aa57b1e7-8075-59b5-a018-d204e0f32c29", 
                                 "logo": null, 
                                 "date": "2017-12-30T14:00:00+01:00", 
