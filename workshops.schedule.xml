@@ -10,29 +10,7 @@
   <day date="2017-12-26" index="0" end="2017-12-27T04:00:00+01:00" start="2017-12-26T06:00:00+01:00">
     <room name="Komona Coral Reef"/>
     <room name="Lecture room 11">
-      <event id="1019" guid="3e6ca324-cc11-4403-b0ce-bd621d931cd6">
-        <logo/>
-        <date>2017-12-26T23:30:00+01:00</date>
-        <start>23:30</start>
-        <duration>0:30</duration>
-        <room>Lecture room 11</room>
-        <slug/>
-        <title>A/V Angel Meeting</title>
-        <subtitle>Shift Distribution for Day 1</subtitle>
-        <track>self organized sessions</track>
-        <type>meeting</type>
-        <language>de</language>
-        <abstract/>
-        <description>Daily A/V Angel Meeting: Feedback and Shift Distribution</description>
-        <persons>
-          <person id="0" href="https://events.ccc.de/congress/2017/wiki/index.php/User:Jwacalex">Jwacalex</person>
-        </persons>
-        <links>
-          <link>https://c3voc.de</link>
-          <link>https://events.ccc.de/congress/2017/wiki/index.php/Session:A/V_Angel_Meeting</link>
-        </links>
-      </event>
-      <event id="1020" guid="4e77ac4f-012b-4132-8079-c16fd0f600fd">
+      <event id="1019" guid="4e77ac4f-012b-4132-8079-c16fd0f600fd">
         <logo/>
         <date>2017-12-26T21:30:00+01:00</date>
         <start>21:30</start>
@@ -54,7 +32,29 @@
           <link>https://events.ccc.de/congress/2017/wiki/index.php/Session:A/V_Angel_Meeting</link>
         </links>
       </event>
-      <event id="1360" guid="2f8b0e3d-e4bc-56f3-a96d-3c7559fd753f">
+      <event id="1022" guid="3e6ca324-cc11-4403-b0ce-bd621d931cd6">
+        <logo/>
+        <date>2017-12-26T23:30:00+01:00</date>
+        <start>23:30</start>
+        <duration>0:30</duration>
+        <room>Lecture room 11</room>
+        <slug/>
+        <title>A/V Angel Meeting</title>
+        <subtitle>Shift Distribution for Day 1</subtitle>
+        <track>self organized sessions</track>
+        <type>meeting</type>
+        <language>de</language>
+        <abstract/>
+        <description>Daily A/V Angel Meeting: Feedback and Shift Distribution</description>
+        <persons>
+          <person id="0" href="https://events.ccc.de/congress/2017/wiki/index.php/User:Jwacalex">Jwacalex</person>
+        </persons>
+        <links>
+          <link>https://c3voc.de</link>
+          <link>https://events.ccc.de/congress/2017/wiki/index.php/Session:A/V_Angel_Meeting</link>
+        </links>
+      </event>
+      <event id="1361" guid="2f8b0e3d-e4bc-56f3-a96d-3c7559fd753f">
         <logo/>
         <date>2017-12-26T20:00:00+01:00</date>
         <start>20:00</start>
@@ -78,7 +78,7 @@
     <room name="Hive Stage"/>
     <room name="Chaos West Stage"/>
     <room name="Lecture room 12">
-      <event id="1330" guid="9d07fde4-75d1-460e-888d-7857c952beef">
+      <event id="1331" guid="9d07fde4-75d1-460e-888d-7857c952beef">
         <logo/>
         <date>2017-12-26T20:15:00+01:00</date>
         <start>20:15</start>
@@ -213,7 +213,7 @@ This meeting is mandatory if you want to be a Stagemanager during 34C3.</descrip
           <link>https://events.ccc.de/congress/2017/wiki/index.php/Session:Cryptoparty</link>
         </links>
       </event>
-      <event id="1370" guid="5096ea2a-f75e-4223-9034-6c708dbfed76">
+      <event id="1371" guid="5096ea2a-f75e-4223-9034-6c708dbfed76">
         <logo/>
         <date>2017-12-27T20:00:00+01:00</date>
         <start>20:00</start>
@@ -237,7 +237,7 @@ It takes about 30 minutes to copy a fullsize adult leg. We will have two hours s
       </event>
     </room>
     <room name="Hive Conference">
-      <event id="1355" guid="a261a670-da8b-47c8-a118-f45249ac0aea">
+      <event id="1356" guid="a261a670-da8b-47c8-a118-f45249ac0aea">
         <logo/>
         <date>2017-12-27T15:00:00+01:00</date>
         <start>15:00</start>
@@ -259,7 +259,7 @@ It takes about 30 minutes to copy a fullsize adult leg. We will have two hours s
       </event>
     </room>
     <room name="Lecture room 11">
-      <event id="1021" guid="f5f69c30-2863-4817-a663-b248274c87ac">
+      <event id="1020" guid="f5f69c30-2863-4817-a663-b248274c87ac">
         <logo/>
         <date>2017-12-27T20:15:00+01:00</date>
         <start>20:15</start>
@@ -281,7 +281,7 @@ It takes about 30 minutes to copy a fullsize adult leg. We will have two hours s
           <link>https://events.ccc.de/congress/2017/wiki/index.php/Session:A/V_Angel_Meeting</link>
         </links>
       </event>
-      <event id="1279" guid="2531e3ab-f5e9-43e4-993d-8f55f54cfd65">
+      <event id="1280" guid="2531e3ab-f5e9-43e4-993d-8f55f54cfd65">
         <logo/>
         <date>2017-12-27T15:30:00+01:00</date>
         <start>15:30</start>
@@ -302,7 +302,7 @@ It takes about 30 minutes to copy a fullsize adult leg. We will have two hours s
           <link>https://events.ccc.de/congress/2017/wiki/index.php/Session:Queer_Feminist_Geeks_Gathering</link>
         </links>
       </event>
-      <event id="1358" guid="57bf0ee7-7526-490d-9c83-375b932bb03c">
+      <event id="1359" guid="57bf0ee7-7526-490d-9c83-375b932bb03c">
         <logo/>
         <date>2017-12-27T18:30:00+01:00</date>
         <start>18:30</start>
@@ -323,7 +323,7 @@ It takes about 30 minutes to copy a fullsize adult leg. We will have two hours s
           <link>https://events.ccc.de/congress/2017/wiki/index.php/Session:Tor_relays_operators_meetup</link>
         </links>
       </event>
-      <event id="1362" guid="b5b51e08-260a-5c3d-a507-556103837de6">
+      <event id="1363" guid="b5b51e08-260a-5c3d-a507-556103837de6">
         <logo/>
         <date>2017-12-27T17:00:00+01:00</date>
         <start>17:00</start>
@@ -345,7 +345,7 @@ It takes about 30 minutes to copy a fullsize adult leg. We will have two hours s
     </room>
     <room name="Meetup Domo"/>
     <room name="Hive Stage">
-      <event id="1159" guid="48916eab-e41b-4b18-b46d-febbaee3f021">
+      <event id="1160" guid="48916eab-e41b-4b18-b46d-febbaee3f021">
         <logo/>
         <date>2017-12-27T16:00:00+01:00</date>
         <start>16:00</start>
@@ -385,28 +385,7 @@ It takes about 30 minutes to copy a fullsize adult leg. We will have two hours s
           <link>https://events.ccc.de/congress/2017/wiki/index.php/Session:Daygame_-_meeting_girls_(and_boys)_in_daily_situations</link>
         </links>
       </event>
-      <event id="1204" guid="bc39559b-0b24-4b27-9e1f-4b76d52cb1a8">
-        <logo/>
-        <date>2017-12-28T00:00:00+01:00</date>
-        <start>00:00</start>
-        <duration>3:30</duration>
-        <room>Chaos West Stage</room>
-        <slug/>
-        <title>Klangteppich</title>
-        <subtitle>CouchSofa DJ set</subtitle>
-        <track>self organized sessions</track>
-        <type>other</type>
-        <language>de</language>
-        <abstract/>
-        <description>Come over and meet us at our cozy music lounge in hall 2! Proudly presented by Chaos West</description>
-        <persons>
-          <person id="0" href="https://events.ccc.de/congress/2017/wiki/index.php/User:Bam">Bam</person>
-        </persons>
-        <links>
-          <link>https://events.ccc.de/congress/2017/wiki/index.php/Session:Klangteppich</link>
-        </links>
-      </event>
-      <event id="1205" guid="cbc32a2c-1f29-44a9-a232-0f458f979813">
+      <event id="1204" guid="cbc32a2c-1f29-44a9-a232-0f458f979813">
         <logo/>
         <date>2017-12-28T03:30:00+01:00</date>
         <start>03:30</start>
@@ -427,7 +406,28 @@ It takes about 30 minutes to copy a fullsize adult leg. We will have two hours s
           <link>https://events.ccc.de/congress/2017/wiki/index.php/Session:Klangteppich</link>
         </links>
       </event>
-      <event id="1241" guid="0d34f2e7-4595-408b-bac8-b762757c074d">
+      <event id="1206" guid="bc39559b-0b24-4b27-9e1f-4b76d52cb1a8">
+        <logo/>
+        <date>2017-12-28T00:00:00+01:00</date>
+        <start>00:00</start>
+        <duration>3:30</duration>
+        <room>Chaos West Stage</room>
+        <slug/>
+        <title>Klangteppich</title>
+        <subtitle>CouchSofa DJ set</subtitle>
+        <track>self organized sessions</track>
+        <type>other</type>
+        <language>de</language>
+        <abstract/>
+        <description>Come over and meet us at our cozy music lounge in hall 2! Proudly presented by Chaos West</description>
+        <persons>
+          <person id="0" href="https://events.ccc.de/congress/2017/wiki/index.php/User:Bam">Bam</person>
+        </persons>
+        <links>
+          <link>https://events.ccc.de/congress/2017/wiki/index.php/Session:Klangteppich</link>
+        </links>
+      </event>
+      <event id="1242" guid="0d34f2e7-4595-408b-bac8-b762757c074d">
         <logo/>
         <date>2017-12-27T15:00:00+01:00</date>
         <start>15:00</start>
@@ -449,7 +449,7 @@ It takes about 30 minutes to copy a fullsize adult leg. We will have two hours s
           <link>https://events.ccc.de/congress/2017/wiki/index.php/Session:Modeling_Trust_in_a_Distributed_Private_Social_Network</link>
         </links>
       </event>
-      <event id="1242" guid="0e398428-daf4-4dad-ae22-03d56e077a5a">
+      <event id="1243" guid="0e398428-daf4-4dad-ae22-03d56e077a5a">
         <logo/>
         <date>2017-12-27T19:30:00+01:00</date>
         <start>19:30</start>
@@ -469,7 +469,7 @@ It takes about 30 minutes to copy a fullsize adult leg. We will have two hours s
           <link>https://events.ccc.de/congress/2017/wiki/index.php/Session:Monero_Hardware_Development</link>
         </links>
       </event>
-      <event id="1243" guid="0b421059-3b80-4326-a450-854553825328">
+      <event id="1244" guid="0b421059-3b80-4326-a450-854553825328">
         <logo/>
         <date>2017-12-27T19:00:00+01:00</date>
         <start>19:00</start>
@@ -489,7 +489,7 @@ It takes about 30 minutes to copy a fullsize adult leg. We will have two hours s
           <link>https://events.ccc.de/congress/2017/wiki/index.php/Session:Monerujo_-_Android_Monero_Wallet</link>
         </links>
       </event>
-      <event id="1245" guid="be77b3bd-b39c-4fa3-bd56-30bd765bc208">
+      <event id="1246" guid="be77b3bd-b39c-4fa3-bd56-30bd765bc208">
         <logo/>
         <date>2017-12-27T16:00:00+01:00</date>
         <start>16:00</start>
@@ -510,7 +510,7 @@ It takes about 30 minutes to copy a fullsize adult leg. We will have two hours s
           <link>https://events.ccc.de/congress/2017/wiki/index.php/Session:Namecoin_as_a_Decentralized_Alternative_to_Certificate_Authorities_for_TLS</link>
         </links>
       </event>
-      <event id="1276" guid="eaad2e23-34f6-4711-8d68-6d497eea064b">
+      <event id="1277" guid="eaad2e23-34f6-4711-8d68-6d497eea064b">
         <logo/>
         <date>2017-12-27T21:00:00+01:00</date>
         <start>21:00</start>
@@ -533,7 +533,7 @@ It takes about 30 minutes to copy a fullsize adult leg. We will have two hours s
           <link>https://events.ccc.de/congress/2017/wiki/index.php/Session:Privacy-Oriented_Distributed_Networking_for_an_Ethical_Internet</link>
         </links>
       </event>
-      <event id="1311" guid="9b58c10d-8973-438f-ae19-50dde6321b5e">
+      <event id="1312" guid="9b58c10d-8973-438f-ae19-50dde6321b5e">
         <logo/>
         <date>2017-12-27T22:00:00+01:00</date>
         <start>22:00</start>
@@ -557,7 +557,7 @@ Let's scale up distributed systems while maintaining metadata protection and pri
           <link>https://events.ccc.de/congress/2017/wiki/index.php/Session:Scalable_and_privacy-respectful_distributed_systems</link>
         </links>
       </event>
-      <event id="1353" guid="95f73cd1-2284-4c7f-9139-02782ab39b61">
+      <event id="1354" guid="95f73cd1-2284-4c7f-9139-02782ab39b61">
         <logo/>
         <date>2017-12-27T14:30:00+01:00</date>
         <start>14:30</start>
@@ -583,7 +583,7 @@ Let's scale up distributed systems while maintaining metadata protection and pri
       </event>
     </room>
     <room name="Lecture room 12">
-      <event id="1216" guid="e0e9d627-5661-42a8-9b1c-f5619c3e2515">
+      <event id="1217" guid="e0e9d627-5661-42a8-9b1c-f5619c3e2515">
         <logo/>
         <date>2017-12-27T20:00:00+01:00</date>
         <start>20:00</start>
@@ -604,7 +604,7 @@ Let's scale up distributed systems while maintaining metadata protection and pri
           <link>https://events.ccc.de/congress/2017/wiki/index.php/Session:Lehrerstammtisch</link>
         </links>
       </event>
-      <event id="1335" guid="50cdec42-6f29-47e5-bdbe-e29d19ee2941">
+      <event id="1336" guid="50cdec42-6f29-47e5-bdbe-e29d19ee2941">
         <logo/>
         <date>2017-12-27T21:00:00+01:00</date>
         <start>21:00</start>
@@ -624,7 +624,7 @@ Let's scale up distributed systems while maintaining metadata protection and pri
           <link>https://events.ccc.de/congress/2017/wiki/index.php/Session:Subtitles-Engelmeeting</link>
         </links>
       </event>
-      <event id="1336" guid="9ed83d1d-7007-4bb8-9e65-22b1e9abd09b">
+      <event id="1337" guid="9ed83d1d-7007-4bb8-9e65-22b1e9abd09b">
         <logo/>
         <date>2017-12-27T15:00:00+01:00</date>
         <start>15:00</start>
@@ -644,7 +644,7 @@ Let's scale up distributed systems while maintaining metadata protection and pri
           <link>https://events.ccc.de/congress/2017/wiki/index.php/Session:Subtitles-Engelmeeting</link>
         </links>
       </event>
-      <event id="1397" guid="def1b880-7e56-415c-a57b-73b5acda9b5a">
+      <event id="1399" guid="def1b880-7e56-415c-a57b-73b5acda9b5a">
         <logo/>
         <date>2017-12-27T16:00:00+01:00</date>
         <start>16:00</start>
@@ -692,7 +692,7 @@ The Open Source Design collective pushes design in free software. We organize de
           <link>https://events.ccc.de/congress/2017/wiki/index.php/Session:Design_in_Free_Software_%26_Open_Source</link>
         </links>
       </event>
-      <event id="1192" guid="d1088faa-be44-487e-a11d-6019bb7f52d0">
+      <event id="1193" guid="d1088faa-be44-487e-a11d-6019bb7f52d0">
         <logo/>
         <date>2017-12-27T19:00:00+01:00</date>
         <start>19:00</start>
@@ -717,7 +717,7 @@ Finally, there are hints on what to do to get started with XMPP.</description>
           <link>https://events.ccc.de/congress/2017/wiki/index.php/Session:Jabber/XMPP:_the_past,_the_presence_and_the_future</link>
         </links>
       </event>
-      <event id="1251" guid="f4bcf778-9d7b-4a70-82ce-8fef17ea43ac">
+      <event id="1252" guid="f4bcf778-9d7b-4a70-82ce-8fef17ea43ac">
         <logo/>
         <date>2017-12-27T14:00:00+01:00</date>
         <start>14:00</start>
@@ -740,7 +740,7 @@ We will talk about the development this and next year, and do a little AMA after
           <link>https://events.ccc.de/congress/2017/wiki/index.php/Session:Newpipe</link>
         </links>
       </event>
-      <event id="1274" guid="db40be4f-65e2-4818-9922-e5383b5494a8">
+      <event id="1275" guid="db40be4f-65e2-4818-9922-e5383b5494a8">
         <logo/>
         <date>2017-12-27T18:00:00+01:00</date>
         <start>18:00</start>
@@ -777,26 +777,7 @@ the example of Thunderbird.</description>
           <link>https://events.ccc.de/congress/2017/wiki/index.php/Session:Pretty_Easy_privacy_(p%E2%89%A1p)_for_Thunderbird_via_Enigmail:_How_it_works!</link>
         </links>
       </event>
-      <event id="1293" guid="8f90513f-3cf8-4444-8b99-d376d70974c6">
-        <logo/>
-        <date>2017-12-27T16:00:00+01:00</date>
-        <start>16:00</start>
-        <duration>1:00</duration>
-        <room>CCL Hall 3</room>
-        <slug/>
-        <title>Rights&amp;Freedoms</title>
-        <subtitle>Will the monetary system change? Privacy and Risk implications of digital currencies, and decentralized digital monetary systems (nsb)</subtitle>
-        <track>self organized sessions</track>
-        <type>talk</type>
-        <language>de</language>
-        <abstract/>
-        <description>Rights &amp; Freedoms Cluster Stage Programme</description>
-        <persons/>
-        <links>
-          <link>https://events.ccc.de/congress/2017/wiki/index.php/Session:Rights%26Freedoms</link>
-        </links>
-      </event>
-      <event id="1303" guid="de3c670b-1478-4606-ad7f-cc781a5f6514">
+      <event id="1300" guid="de3c670b-1478-4606-ad7f-cc781a5f6514">
         <logo/>
         <date>2017-12-27T15:00:00+01:00</date>
         <start>15:00</start>
@@ -815,7 +796,26 @@ the example of Thunderbird.</description>
           <link>https://events.ccc.de/congress/2017/wiki/index.php/Session:Rights%26Freedoms</link>
         </links>
       </event>
-      <event id="1318" guid="0bae5bc6-440f-4b77-a00e-c7864c7962ea">
+      <event id="1306" guid="8f90513f-3cf8-4444-8b99-d376d70974c6">
+        <logo/>
+        <date>2017-12-27T16:00:00+01:00</date>
+        <start>16:00</start>
+        <duration>1:00</duration>
+        <room>CCL Hall 3</room>
+        <slug/>
+        <title>Rights&amp;Freedoms</title>
+        <subtitle>Will the monetary system change? Privacy and Risk implications of digital currencies, and decentralized digital monetary systems (nsb)</subtitle>
+        <track>self organized sessions</track>
+        <type>talk</type>
+        <language>de</language>
+        <abstract/>
+        <description>Rights &amp; Freedoms Cluster Stage Programme</description>
+        <persons/>
+        <links>
+          <link>https://events.ccc.de/congress/2017/wiki/index.php/Session:Rights%26Freedoms</link>
+        </links>
+      </event>
+      <event id="1319" guid="0bae5bc6-440f-4b77-a00e-c7864c7962ea">
         <logo/>
         <date>2017-12-27T13:00:00+01:00</date>
         <start>13:00</start>
@@ -839,7 +839,7 @@ the example of Thunderbird.</description>
           <link>https://events.ccc.de/congress/2017/wiki/index.php/Session:Self-host_your_visual_assets_with_Free_Software</link>
         </links>
       </event>
-      <event id="1325" guid="0b858e21-fefa-4d2c-bc3a-7e14436808a0">
+      <event id="1326" guid="0b858e21-fefa-4d2c-bc3a-7e14436808a0">
         <logo/>
         <date>2017-12-27T20:00:00+01:00</date>
         <start>20:00</start>
@@ -860,7 +860,7 @@ the example of Thunderbird.</description>
           <link>https://events.ccc.de/congress/2017/wiki/index.php/Session:Social_Networking,_powered_by_FreeSoftware</link>
         </links>
       </event>
-      <event id="1352" guid="fdb3606b-97ef-4496-a29b-a6a1e03c9796">
+      <event id="1353" guid="fdb3606b-97ef-4496-a29b-a6a1e03c9796">
         <logo/>
         <date>2017-12-27T21:00:00+01:00</date>
         <start>21:00</start>
@@ -1057,7 +1057,7 @@ the example of Thunderbird.</description>
           <link>https://events.ccc.de/congress/2017/wiki/index.php/Session:Clubkultur,_was_ist_das_eigentlich_und_wer_soll_denn_das_bezahlen%3F</link>
         </links>
       </event>
-      <event id="1151" guid="0024656e-5c20-4a14-b173-e97b77ec0b2e">
+      <event id="1152" guid="0024656e-5c20-4a14-b173-e97b77ec0b2e">
         <logo/>
         <date>2017-12-27T22:00:00+01:00</date>
         <start>22:00</start>
@@ -1076,7 +1076,7 @@ the example of Thunderbird.</description>
           <link>https://events.ccc.de/congress/2017/wiki/index.php/Session:Hauptsache_laut!</link>
         </links>
       </event>
-      <event id="1285" guid="535c8bc6-824c-4d00-93c1-c5d9eb9492fd">
+      <event id="1286" guid="535c8bc6-824c-4d00-93c1-c5d9eb9492fd">
         <logo/>
         <date>2017-12-27T12:00:00+01:00</date>
         <start>12:00</start>
@@ -1095,7 +1095,7 @@ the example of Thunderbird.</description>
           <link>https://events.ccc.de/congress/2017/wiki/index.php/Session:Reclaim_Club_Culture:_Privileges_in_and_through_Club_Culture</link>
         </links>
       </event>
-      <event id="1286" guid="cb60417e-6d98-4409-9495-8df6a6513dc9">
+      <event id="1287" guid="cb60417e-6d98-4409-9495-8df6a6513dc9">
         <logo/>
         <date>2017-12-27T16:00:00+01:00</date>
         <start>16:00</start>
@@ -1116,7 +1116,7 @@ the example of Thunderbird.</description>
           <link>https://events.ccc.de/congress/2017/wiki/index.php/Session:Reclaim_Club_Culture:_Soundradikalit%C3%A4t_und_Clubkommunalit%C3%A4t_(Jukebox_Utopia_(WiseUp)_und_Lukas_Fakegruber_(Shituationist_Institute))</link>
         </links>
       </event>
-      <event id="1310" guid="62018051-4a1e-454e-893b-8c022804f0ca">
+      <event id="1311" guid="62018051-4a1e-454e-893b-8c022804f0ca">
         <logo/>
         <date>2017-12-27T18:00:00+01:00</date>
         <start>18:00</start>
@@ -1135,7 +1135,7 @@ the example of Thunderbird.</description>
           <link>https://events.ccc.de/congress/2017/wiki/index.php/Session:SPREE:PUBLIK/Nonstop_Schwitzen</link>
         </links>
       </event>
-      <event id="1380" guid="9fc6cd55-ba06-46d1-8510-4723905f239d">
+      <event id="1381" guid="9fc6cd55-ba06-46d1-8510-4723905f239d">
         <logo/>
         <date>2017-12-27T14:00:00+01:00</date>
         <start>14:00</start>
@@ -1252,7 +1252,7 @@ the example of Thunderbird.</description>
           <link>https://events.ccc.de/congress/2017/wiki/index.php/Session:CMS_Tutoren_Briefing</link>
         </links>
       </event>
-      <event id="1162" guid="b7a26940-9f6e-43ad-b0ce-b90b23ee6a74">
+      <event id="1163" guid="b7a26940-9f6e-43ad-b0ce-b90b23ee6a74">
         <logo/>
         <date>2017-12-27T18:30:00+01:00</date>
         <start>18:30</start>
@@ -1272,7 +1272,7 @@ the example of Thunderbird.</description>
           <link>https://events.ccc.de/congress/2017/wiki/index.php/Session:How_companies_manage_their_security:_Introduction_into_Information_Security_Management_Systems</link>
         </links>
       </event>
-      <event id="1198" guid="cf5a1d0b-91b1-56af-a2ff-0ad16ab06330">
+      <event id="1199" guid="cf5a1d0b-91b1-56af-a2ff-0ad16ab06330">
         <logo/>
         <date>2017-12-27T20:00:00+01:00</date>
         <start>20:00</start>
@@ -1333,7 +1333,7 @@ This Session is about artificial intelligence and its philosophical implications
           <link>https://events.ccc.de/congress/2017/wiki/index.php/Session:Disrupt!</link>
         </links>
       </event>
-      <event id="1153" guid="99298b62-255d-41a8-80b0-3f34b7f85f16">
+      <event id="1154" guid="99298b62-255d-41a8-80b0-3f34b7f85f16">
         <logo/>
         <date>2017-12-27T14:00:00+01:00</date>
         <start>14:00</start>
@@ -1352,7 +1352,7 @@ This Session is about artificial intelligence and its philosophical implications
           <link>https://events.ccc.de/congress/2017/wiki/index.php/Session:Hedonist_International_Networking_Meeting</link>
         </links>
       </event>
-      <event id="1240" guid="990fb289-6bc4-4ea9-8c3d-a63ea6c2c93b">
+      <event id="1241" guid="990fb289-6bc4-4ea9-8c3d-a63ea6c2c93b">
         <logo/>
         <date>2017-12-27T12:00:00+01:00</date>
         <start>12:00</start>
@@ -1374,7 +1374,7 @@ This Session is about artificial intelligence and its philosophical implications
     </room>
     <room name="Open Infra Stage"/>
     <room name="Kidspace">
-      <event id="1364" guid="d75d1ea5-b3e1-4f52-ad73-3eb0e99b7dea">
+      <event id="1365" guid="d75d1ea5-b3e1-4f52-ad73-3eb0e99b7dea">
         <logo/>
         <date>2017-12-27T13:00:00+01:00</date>
         <start>13:00</start>
@@ -1427,7 +1427,7 @@ Die Webseite ist zusammen mit Trickmisch.de, einer Sprachschule von uns für Ank
           <link>https://events.ccc.de/congress/2017/wiki/index.php/Session:Anarchist_hackers_-_Hispagatos_International_anarchist-hacker_collective</link>
         </links>
       </event>
-      <event id="1138" guid="3a1610dc-4f63-4d3d-9ec1-1c3f8ed063e7">
+      <event id="1139" guid="3a1610dc-4f63-4d3d-9ec1-1c3f8ed063e7">
         <logo/>
         <date>2017-12-27T16:00:00+01:00</date>
         <start>16:00</start>
@@ -1450,7 +1450,7 @@ Die Webseite ist zusammen mit Trickmisch.de, einer Sprachschule von uns für Ank
           <link>https://events.ccc.de/congress/2017/wiki/index.php/Session:GNUnet_e.V._annual_meeting</link>
         </links>
       </event>
-      <event id="1244" guid="869d0350-7d7a-4c8d-b39f-b71ef39e1096">
+      <event id="1245" guid="869d0350-7d7a-4c8d-b39f-b71ef39e1096">
         <logo/>
         <date>2017-12-27T15:00:00+01:00</date>
         <start>15:00</start>
@@ -1470,7 +1470,7 @@ Dieses Treffen soll den am Thema Interessierten dazu dienen, sich gemeinsam auf 
           <link>https://events.ccc.de/congress/2017/wiki/index.php/Session:Musterpolizeigesetz</link>
         </links>
       </event>
-      <event id="1372" guid="dd529f5f-4f94-4fda-a4dc-abe0a2f9f68a">
+      <event id="1373" guid="dd529f5f-4f94-4fda-a4dc-abe0a2f9f68a">
         <logo/>
         <date>2017-12-27T18:00:00+01:00</date>
         <start>18:00</start>
@@ -1560,7 +1560,7 @@ LEAP's goal is to transform the existing frustration and failure into an automat
           <link>https://events.ccc.de/congress/2017/wiki/index.php/Session:Bitmask/LEAP_workshop</link>
         </links>
       </event>
-      <event id="1172" guid="2489f1d2-dfbe-4835-9603-be8f39b2b255">
+      <event id="1173" guid="2489f1d2-dfbe-4835-9603-be8f39b2b255">
         <logo/>
         <date>2017-12-27T21:00:00+01:00</date>
         <start>21:00</start>
@@ -1580,7 +1580,7 @@ LEAP's goal is to transform the existing frustration and failure into an automat
           <link>https://events.ccc.de/congress/2017/wiki/index.php/Session:IOS_Private_Frameworks:_Unboxing_your_iDevice</link>
         </links>
       </event>
-      <event id="1181" guid="322651e0-ad94-574b-b609-d5bc07ea5662">
+      <event id="1182" guid="322651e0-ad94-574b-b609-d5bc07ea5662">
         <logo/>
         <date>2017-12-27T15:30:00+01:00</date>
         <start>15:30</start>
@@ -1599,7 +1599,7 @@ LEAP's goal is to transform the existing frustration and failure into an automat
           <link>https://events.ccc.de/congress/2017/wiki/index.php/Session:Initiate_34c3</link>
         </links>
       </event>
-      <event id="1188" guid="c96846b3-f6bc-5c48-a542-d12e3bf4cc15">
+      <event id="1189" guid="c96846b3-f6bc-5c48-a542-d12e3bf4cc15">
         <logo/>
         <date>2017-12-27T16:30:00+01:00</date>
         <start>16:30</start>
@@ -1646,7 +1646,7 @@ This session will help you with any questions how to install an provider instanc
           <link>https://events.ccc.de/congress/2017/wiki/index.php/Projects:LEAP</link>
         </links>
       </event>
-      <event id="1317" guid="16098a31-339d-482a-9cac-55a2b174cbae">
+      <event id="1318" guid="16098a31-339d-482a-9cac-55a2b174cbae">
         <logo/>
         <date>2017-12-27T19:45:00+01:00</date>
         <start>19:45</start>
@@ -1670,7 +1670,7 @@ This session will help you with any questions how to install an provider instanc
       </event>
     </room>
     <room name="Esszimmer">
-      <event id="1170" guid="8baea51d-6c66-55dc-ad37-92ec9ea924cb">
+      <event id="1171" guid="8baea51d-6c66-55dc-ad37-92ec9ea924cb">
         <logo/>
         <date>2017-12-27T13:00:00+01:00</date>
         <start>13:00</start>
@@ -1692,7 +1692,7 @@ This session will help you with any questions how to install an provider instanc
           <link>https://events.ccc.de/congress/2017/wiki/index.php/Session:Howto_Let%27s_Play</link>
         </links>
       </event>
-      <event id="1189" guid="9afbee6b-dea2-57b5-86e6-f5c7064711c4">
+      <event id="1190" guid="9afbee6b-dea2-57b5-86e6-f5c7064711c4">
         <logo/>
         <date>2017-12-27T15:00:00+01:00</date>
         <start>15:00</start>
@@ -1713,7 +1713,7 @@ This session will help you with any questions how to install an provider instanc
           <link>https://events.ccc.de/congress/2017/wiki/index.php/Session:Introduction_to_Wikidata</link>
         </links>
       </event>
-      <event id="1268" guid="2816d473-c187-4fda-bc15-32de20e5ba65">
+      <event id="1269" guid="2816d473-c187-4fda-bc15-32de20e5ba65">
         <logo/>
         <date>2017-12-27T20:00:00+01:00</date>
         <start>20:00</start>
@@ -1735,7 +1735,7 @@ This session will help you with any questions how to install an provider instanc
           <link>https://events.ccc.de/congress/2017/wiki/index.php/Session:Pixel_Art_Workshop</link>
         </links>
       </event>
-      <event id="1280" guid="9d36bad8-60d8-55ca-829f-eccd6c65153d">
+      <event id="1281" guid="9d36bad8-60d8-55ca-829f-eccd6c65153d">
         <logo/>
         <date>2017-12-27T16:00:00+01:00</date>
         <start>16:00</start>
@@ -1758,7 +1758,7 @@ This session will help you with any questions how to install an provider instanc
           <link>https://events.ccc.de/congress/2017/wiki/index.php/Session:Query_Wikidata_in_SPARQL</link>
         </links>
       </event>
-      <event id="1289" guid="8a7bd529-29d2-554c-835f-3d689b7c9f4c">
+      <event id="1290" guid="8a7bd529-29d2-554c-835f-3d689b7c9f4c">
         <logo/>
         <date>2017-12-27T17:00:00+01:00</date>
         <start>17:00</start>
@@ -1779,7 +1779,7 @@ This session will help you with any questions how to install an provider instanc
           <link>https://events.ccc.de/congress/2017/wiki/index.php/Session:Request_a_query</link>
         </links>
       </event>
-      <event id="1291" guid="64be895b-faa3-5543-b6e0-06cf4b361229">
+      <event id="1292" guid="64be895b-faa3-5543-b6e0-06cf4b361229">
         <logo/>
         <date>2017-12-27T18:00:00+01:00</date>
         <start>18:00</start>
@@ -1856,7 +1856,7 @@ Contact best via twitter @ENDSTATIONSUEDX</description>
           <link>https://events.ccc.de/congress/2017/wiki/index.php/Session:Endstation_Meetup</link>
         </links>
       </event>
-      <event id="1156" guid="4f923383-61ee-4648-b40d-c66930b695a8">
+      <event id="1157" guid="4f923383-61ee-4648-b40d-c66930b695a8">
         <logo/>
         <date>2017-12-28T16:00:00+01:00</date>
         <start>16:00</start>
@@ -1875,7 +1875,7 @@ Contact best via twitter @ENDSTATIONSUEDX</description>
           <link>https://events.ccc.de/congress/2017/wiki/index.php/Session:Hedonist_International_Networking_Meeting%2BWorkshop_for_2018s_Congress_Convoy</link>
         </links>
       </event>
-      <event id="1206" guid="ffb5a08e-9d61-42e4-b5a3-002b140d652f">
+      <event id="1207" guid="ffb5a08e-9d61-42e4-b5a3-002b140d652f">
         <logo/>
         <date>2017-12-28T22:00:00+01:00</date>
         <start>22:00</start>
@@ -1896,7 +1896,7 @@ Contact best via twitter @ENDSTATIONSUEDX</description>
           <link>https://events.ccc.de/congress/2017/wiki/index.php/Session:Komona_networking_gathering</link>
         </links>
       </event>
-      <event id="1215" guid="472d9459-c8f9-4166-9678-cab5305e4eca">
+      <event id="1216" guid="472d9459-c8f9-4166-9678-cab5305e4eca">
         <logo/>
         <date>2017-12-28T12:45:00+01:00</date>
         <start>12:45</start>
@@ -1915,7 +1915,7 @@ Contact best via twitter @ENDSTATIONSUEDX</description>
           <link>https://events.ccc.de/congress/2017/wiki/index.php/Session:Learning_to_draw_for_techies</link>
         </links>
       </event>
-      <event id="1221" guid="78b6af67-7c9d-460a-ac37-0428a4178e00">
+      <event id="1222" guid="78b6af67-7c9d-460a-ac37-0428a4178e00">
         <logo/>
         <date>2017-12-28T12:00:00+01:00</date>
         <start>12:00</start>
@@ -1935,7 +1935,7 @@ Contact best via twitter @ENDSTATIONSUEDX</description>
           <link>https://events.ccc.de/congress/2017/wiki/index.php/Session:Letter_writing_to_prisoners,_sitting_in_jail_for_hacking</link>
         </links>
       </event>
-      <event id="1266" guid="bf00e71d-345b-428d-ba42-07d4acb3f212">
+      <event id="1267" guid="bf00e71d-345b-428d-ba42-07d4acb3f212">
         <logo/>
         <date>2017-12-28T22:00:00+01:00</date>
         <start>22:00</start>
@@ -1955,7 +1955,7 @@ Contact best via twitter @ENDSTATIONSUEDX</description>
           <link>https://events.ccc.de/congress/2017/wiki/index.php/Session:Paper_and_non-paper_libraries_exchange</link>
         </links>
       </event>
-      <event id="1334" guid="36605ace-ee29-4261-8b5b-0678e77440da">
+      <event id="1335" guid="36605ace-ee29-4261-8b5b-0678e77440da">
         <logo/>
         <date>2017-12-28T20:00:00+01:00</date>
         <start>20:00</start>
@@ -1976,7 +1976,7 @@ Contact best via twitter @ENDSTATIONSUEDX</description>
           <link>https://events.ccc.de/congress/2017/wiki/index.php/Session:Structures_for_self_organised_societies</link>
         </links>
       </event>
-      <event id="1378" guid="580f142f-ac61-4002-82e9-cfae56219554">
+      <event id="1379" guid="580f142f-ac61-4002-82e9-cfae56219554">
         <logo/>
         <date>2017-12-28T14:00:00+01:00</date>
         <start>14:00</start>
@@ -1997,7 +1997,7 @@ Contact best via twitter @ENDSTATIONSUEDX</description>
       </event>
     </room>
     <room name="Hive Conference">
-      <event id="1058" guid="9ef29ba5-4eb9-4d18-9f79-808570413595">
+      <event id="1057" guid="9ef29ba5-4eb9-4d18-9f79-808570413595">
         <logo/>
         <date>2017-12-28T16:00:00+01:00</date>
         <start>16:00</start>
@@ -2024,7 +2024,7 @@ mobile: null eins sechs drei 362 534 0</description>
           <link>https://events.ccc.de/congress/2017/wiki/index.php/Session:Calliope_Workshops</link>
         </links>
       </event>
-      <event id="1059" guid="6946c2f8-7ca0-4d95-a70a-20cec20e25fb">
+      <event id="1058" guid="6946c2f8-7ca0-4d95-a70a-20cec20e25fb">
         <logo/>
         <date>2017-12-28T17:00:00+01:00</date>
         <start>17:00</start>
@@ -2074,7 +2074,7 @@ Day 2, 14:00</description>
           <link>https://events.ccc.de/congress/2017/wiki/index.php/Session:Child_Growth_Monitor</link>
         </links>
       </event>
-      <event id="1356" guid="e3c21e66-1484-4ca0-a2a6-d27382508e55">
+      <event id="1357" guid="e3c21e66-1484-4ca0-a2a6-d27382508e55">
         <logo/>
         <date>2017-12-28T10:00:00+01:00</date>
         <start>10:00</start>
@@ -2096,7 +2096,7 @@ Day 2, 14:00</description>
       </event>
     </room>
     <room name="Lecture room 11">
-      <event id="1022" guid="2b6595ff-c32b-44aa-9bda-e411e5911162">
+      <event id="1021" guid="2b6595ff-c32b-44aa-9bda-e411e5911162">
         <logo/>
         <date>2017-12-28T20:15:00+01:00</date>
         <start>20:15</start>
@@ -2181,7 +2181,7 @@ In diesem talk möchte ich grob skizzieren, wie das System funktioniert und wie 
           <link>https://events.ccc.de/congress/2017/wiki/index.php/Session:E-activism_for_NGOs</link>
         </links>
       </event>
-      <event id="1199" guid="07142f3d-b450-4cac-94c7-9bb95f78339b">
+      <event id="1201" guid="07142f3d-b450-4cac-94c7-9bb95f78339b">
         <logo/>
         <date>2017-12-28T15:00:00+01:00</date>
         <start>15:00</start>
@@ -2203,7 +2203,7 @@ In diesem talk möchte ich grob skizzieren, wie das System funktioniert und wie 
           <link>https://events.ccc.de/congress/2017/wiki/index.php/Session:KinkyGeeks_Bondage_Workshop</link>
         </links>
       </event>
-      <event id="1313" guid="90e4dc9d-fa68-400a-a202-c0d2714d4c1c">
+      <event id="1314" guid="90e4dc9d-fa68-400a-a202-c0d2714d4c1c">
         <logo/>
         <date>2017-12-28T13:15:00+01:00</date>
         <start>13:15</start>
@@ -2229,7 +2229,7 @@ Depending on the attendee's wishes, we can also take time to answer questions, d
           <link>https://events.ccc.de/congress/2017/wiki/index.php/Session:Schleuder</link>
         </links>
       </event>
-      <event id="1328" guid="d28e4cdf-343c-4702-95ff-bdf328bde9fb">
+      <event id="1329" guid="d28e4cdf-343c-4702-95ff-bdf328bde9fb">
         <logo/>
         <date>2017-12-28T22:00:00+01:00</date>
         <start>22:00</start>
@@ -2253,7 +2253,7 @@ Depending on the attendee's wishes, we can also take time to answer questions, d
           <link>https://events.ccc.de/congress/2017/wiki/index.php/Session:Sport_f%C3%BCr_Nerds</link>
         </links>
       </event>
-      <event id="1363" guid="9b5087f5-f903-5324-9672-50105ed38e1b">
+      <event id="1364" guid="9b5087f5-f903-5324-9672-50105ed38e1b">
         <logo/>
         <date>2017-12-28T17:00:00+01:00</date>
         <start>17:00</start>
@@ -2272,7 +2272,7 @@ Depending on the attendee's wishes, we can also take time to answer questions, d
           <link>https://events.ccc.de/congress/2017/wiki/index.php/Session:Translation_Team</link>
         </links>
       </event>
-      <event id="1366" guid="7d45cd3d-32cd-4d4a-a231-fd1b7e61915f">
+      <event id="1367" guid="7d45cd3d-32cd-4d4a-a231-fd1b7e61915f">
         <logo/>
         <date>2017-12-28T19:30:00+01:00</date>
         <start>19:30</start>
@@ -2293,7 +2293,7 @@ Depending on the attendee's wishes, we can also take time to answer questions, d
           <link>https://events.ccc.de/congress/2017/wiki/index.php/Session:TrueOS_install_demo</link>
         </links>
       </event>
-      <event id="1381" guid="e4264add-ccb6-46dd-8a9d-281f639ca1b3">
+      <event id="1382" guid="e4264add-ccb6-46dd-8a9d-281f639ca1b3">
         <logo/>
         <date>2017-12-28T14:00:00+01:00</date>
         <start>14:00</start>
@@ -2317,7 +2317,7 @@ Depending on the attendee's wishes, we can also take time to answer questions, d
     </room>
     <room name="Meetup Domo"/>
     <room name="Hive Stage">
-      <event id="1148" guid="c468d30c-e1b3-4c66-bb62-0e133f48a4dd">
+      <event id="1149" guid="c468d30c-e1b3-4c66-bb62-0e133f48a4dd">
         <logo/>
         <date>2017-12-28T17:00:00+01:00</date>
         <start>17:00</start>
@@ -2336,7 +2336,7 @@ Depending on the attendee's wishes, we can also take time to answer questions, d
           <link>https://events.ccc.de/congress/2017/wiki/index.php/Session:Hacks/Hackers_Meetup</link>
         </links>
       </event>
-      <event id="1180" guid="e1887865-e2bf-4ba8-a986-658dae99255a">
+      <event id="1181" guid="e1887865-e2bf-4ba8-a986-658dae99255a">
         <logo/>
         <date>2017-12-28T14:00:00+01:00</date>
         <start>14:00</start>
@@ -2359,7 +2359,7 @@ Internals, Data models, APIs.</description>
           <link>https://events.ccc.de/congress/2017/wiki/index.php/Session:Infrastructure_of_Wikidata</link>
         </links>
       </event>
-      <event id="1210" guid="983f8c76-bccc-4706-8e1a-0aaee89623da">
+      <event id="1211" guid="983f8c76-bccc-4706-8e1a-0aaee89623da">
         <logo/>
         <date>2017-12-29T00:00:00+01:00</date>
         <start>00:00</start>
@@ -2379,7 +2379,7 @@ Internals, Data models, APIs.</description>
           <link>https://events.ccc.de/congress/2017/wiki/index.php/Session:Lain_Marathon</link>
         </links>
       </event>
-      <event id="1292" guid="559f5019-001e-4cad-b294-ddde04d7a856">
+      <event id="1293" guid="559f5019-001e-4cad-b294-ddde04d7a856">
         <logo/>
         <date>2017-12-28T18:00:00+01:00</date>
         <start>18:00</start>
@@ -2399,7 +2399,7 @@ Internals, Data models, APIs.</description>
           <link>https://events.ccc.de/congress/2017/wiki/index.php/Session:Revolutionizing_Large-scale_Digital_Activism_with_Barrett_Brown%27s_Pursuance_Project</link>
         </links>
       </event>
-      <event id="1388" guid="0d30238d-6ac6-4c17-aa28-23d42dff0508">
+      <event id="1389" guid="0d30238d-6ac6-4c17-aa28-23d42dff0508">
         <logo/>
         <date>2017-12-28T18:00:00+01:00</date>
         <start>18:00</start>
@@ -2508,7 +2508,7 @@ Bonus: FAQ - Was du schon immer über WikiP/Media wissen wolltest, aber dich nie
           <link>https://events.ccc.de/congress/2017/wiki/index.php/Session:D_Town,_Christopher:_Eigenes_HackLab_bauen!</link>
         </links>
       </event>
-      <event id="1149" guid="c8d51705-3289-4122-8389-e1d2b3ae17dc">
+      <event id="1150" guid="c8d51705-3289-4122-8389-e1d2b3ae17dc">
         <logo/>
         <date>2017-12-28T22:00:00+01:00</date>
         <start>22:00</start>
@@ -2530,7 +2530,7 @@ Bonus: FAQ - Was du schon immer über WikiP/Media wissen wolltest, aber dich nie
           <link>https://events.ccc.de/congress/2017/wiki/index.php/Session:Haecksen:_BringYourOwnBear_Happy_Hour</link>
         </links>
       </event>
-      <event id="1203" guid="11832e8c-2e41-4c8d-8ed8-a908d5638480">
+      <event id="1205" guid="11832e8c-2e41-4c8d-8ed8-a908d5638480">
         <logo/>
         <date>2017-12-29T00:00:00+01:00</date>
         <start>00:00</start>
@@ -2551,7 +2551,7 @@ Bonus: FAQ - Was du schon immer über WikiP/Media wissen wolltest, aber dich nie
           <link>https://events.ccc.de/congress/2017/wiki/index.php/Session:Klangteppich</link>
         </links>
       </event>
-      <event id="1203" guid="11832e8c-2e41-4c8d-8ed8-a908d5638480">
+      <event id="1205" guid="11832e8c-2e41-4c8d-8ed8-a908d5638480">
         <logo/>
         <date>2017-12-29T02:00:00+01:00</date>
         <start>02:00</start>
@@ -2572,7 +2572,7 @@ Bonus: FAQ - Was du schon immer über WikiP/Media wissen wolltest, aber dich nie
           <link>https://events.ccc.de/congress/2017/wiki/index.php/Session:Klangteppich</link>
         </links>
       </event>
-      <event id="1246" guid="91b1dd4f-f43a-43ee-b814-e78b6063539a">
+      <event id="1247" guid="91b1dd4f-f43a-43ee-b814-e78b6063539a">
         <logo/>
         <date>2017-12-28T17:30:00+01:00</date>
         <start>17:30</start>
@@ -2593,7 +2593,7 @@ Bonus: FAQ - Was du schon immer über WikiP/Media wissen wolltest, aber dich nie
           <link>https://events.ccc.de/congress/2017/wiki/index.php/Session:Namecoin_for_Tor_Onion_Service_Naming_(And_Other_Darknets%3F)</link>
         </links>
       </event>
-      <event id="1253" guid="163a21cb-1a61-4119-ae17-c5ca37edcb9f">
+      <event id="1254" guid="163a21cb-1a61-4119-ae17-c5ca37edcb9f">
         <logo/>
         <date>2017-12-28T19:15:00+01:00</date>
         <start>19:15</start>
@@ -2613,7 +2613,7 @@ Bonus: FAQ - Was du schon immer über WikiP/Media wissen wolltest, aber dich nie
           <link>https://events.ccc.de/congress/2017/wiki/index.php/Session:Nextcloud_End_to_End_Encryption</link>
         </links>
       </event>
-      <event id="1262" guid="c87d0656-fc11-45ab-bdec-a47dc75eecf4">
+      <event id="1263" guid="c87d0656-fc11-45ab-bdec-a47dc75eecf4">
         <logo/>
         <date>2017-12-28T15:30:00+01:00</date>
         <start>15:30</start>
@@ -2703,7 +2703,7 @@ We can have a hands on afterwards at the Bitcoin Assembly with Bitcoin Core Dev 
           <link>https://events.ccc.de/congress/2017/wiki/index.php/Session:Decentralized_Web</link>
         </links>
       </event>
-      <event id="1139" guid="966bca46-17e6-4136-a382-6ccf3fb51bbc">
+      <event id="1140" guid="966bca46-17e6-4136-a382-6ccf3fb51bbc">
         <logo/>
         <date>2017-12-28T14:00:00+01:00</date>
         <start>14:00</start>
@@ -2725,7 +2725,7 @@ We can have a hands on afterwards at the Bitcoin Assembly with Bitcoin Core Dev 
           <link>https://events.ccc.de/congress/2017/wiki/index.php/Session:Gehen_drei_Wissenschaftler_in_eine_Kneipe</link>
         </links>
       </event>
-      <event id="1141" guid="11858c32-44c9-5669-a970-5865207dab1d">
+      <event id="1142" guid="11858c32-44c9-5669-a970-5865207dab1d">
         <logo/>
         <date>2017-12-28T15:30:00+01:00</date>
         <start>15:30</start>
@@ -2744,7 +2744,7 @@ We can have a hands on afterwards at the Bitcoin Assembly with Bitcoin Core Dev 
           <link>https://events.ccc.de/congress/2017/wiki/index.php/Session:Geschichten_aus_dem_Krieg</link>
         </links>
       </event>
-      <event id="1143" guid="77132cab-30e6-5bff-94ba-15dc01ca0529">
+      <event id="1144" guid="77132cab-30e6-5bff-94ba-15dc01ca0529">
         <logo/>
         <date>2017-12-28T17:00:00+01:00</date>
         <start>17:00</start>
@@ -2763,7 +2763,7 @@ We can have a hands on afterwards at the Bitcoin Assembly with Bitcoin Core Dev 
           <link>https://events.ccc.de/congress/2017/wiki/index.php/Session:HTML,_CSS_and_a_little_bit</link>
         </links>
       </event>
-      <event id="1195" guid="e8540e23-bfa9-4635-a00e-d4f458ecb364">
+      <event id="1196" guid="e8540e23-bfa9-4635-a00e-d4f458ecb364">
         <logo/>
         <date>2017-12-28T11:00:00+01:00</date>
         <start>11:00</start>
@@ -2785,7 +2785,7 @@ We can have a hands on afterwards at the Bitcoin Assembly with Bitcoin Core Dev 
           <link>https://events.ccc.de/congress/2017/wiki/index.php/Session:Junghackertag_Wissenschaftsschnitzeljagd</link>
         </links>
       </event>
-      <event id="1337" guid="58d27c73-4a82-4199-b186-f939686353b2">
+      <event id="1338" guid="58d27c73-4a82-4199-b186-f939686353b2">
         <logo/>
         <date>2017-12-28T13:00:00+01:00</date>
         <start>13:00</start>
@@ -2807,7 +2807,7 @@ We can have a hands on afterwards at the Bitcoin Assembly with Bitcoin Core Dev 
       </event>
     </room>
     <room name="CCL Hall 3">
-      <event id="1147" guid="9fda5967-d77b-4921-8e5c-5bed196c6172">
+      <event id="1148" guid="9fda5967-d77b-4921-8e5c-5bed196c6172">
         <logo/>
         <date>2017-12-28T18:00:00+01:00</date>
         <start>18:00</start>
@@ -2830,7 +2830,7 @@ data.</description>
           <link>https://events.ccc.de/congress/2017/wiki/index.php/Session:Hacking_with_wget</link>
         </links>
       </event>
-      <event id="1223" guid="fea85335-9a8b-4b08-9b48-1080a81fe991">
+      <event id="1224" guid="fea85335-9a8b-4b08-9b48-1080a81fe991">
         <logo/>
         <date>2017-12-28T22:00:00+01:00</date>
         <start>22:00</start>
@@ -2851,7 +2851,7 @@ data.</description>
           <link>https://events.ccc.de/congress/2017/wiki/index.php/Session:Lightning_Talks_Self_Organized</link>
         </links>
       </event>
-      <event id="1233" guid="fd60fca4-e0d8-4c45-90bd-9435e6a56d5f">
+      <event id="1234" guid="fd60fca4-e0d8-4c45-90bd-9435e6a56d5f">
         <logo/>
         <date>2017-12-28T21:00:00+01:00</date>
         <start>21:00</start>
@@ -2871,7 +2871,7 @@ My name is Maurice Chiodo, and I am a postdoctoral researcher in mathematics at 
           <link>https://events.ccc.de/congress/2017/wiki/index.php/Session:Mathematicians_acting_amorally_-_how_they_harm_society</link>
         </links>
       </event>
-      <event id="1259" guid="55a51cb4-5304-4fd8-b917-afc83ede7400">
+      <event id="1260" guid="55a51cb4-5304-4fd8-b917-afc83ede7400">
         <logo/>
         <date>2017-12-28T11:00:00+01:00</date>
         <start>11:00</start>
@@ -2897,7 +2897,7 @@ Bring your own ideas and make sure to add them to https://hackmd.io/CYMwRgjApgxg
           <link>https://events.ccc.de/congress/2017/wiki/index.php/Session:Open_Science/Research_Workshop</link>
         </links>
       </event>
-      <event id="1275" guid="158cead9-fedc-4200-ac79-48e118c39244">
+      <event id="1276" guid="158cead9-fedc-4200-ac79-48e118c39244">
         <logo/>
         <date>2017-12-28T14:00:00+01:00</date>
         <start>14:00</start>
@@ -2935,26 +2935,7 @@ find physical POIs and buy goods without giving away your real identity.*</descr
           <link>https://events.ccc.de/congress/2017/wiki/index.php/Session:Privacy_aware_city_navigation_with_Free_Software</link>
         </links>
       </event>
-      <event id="1295" guid="23c6fca0-a450-47cf-8e39-888514b76355">
-        <logo/>
-        <date>2017-12-28T19:30:00+01:00</date>
-        <start>19:30</start>
-        <duration>0:30</duration>
-        <room>CCL Hall 3</room>
-        <slug/>
-        <title>Rights&amp;Freedoms</title>
-        <subtitle>Algorithmic transaprency (EFF)</subtitle>
-        <track>self organized sessions</track>
-        <type>talk</type>
-        <language>de</language>
-        <abstract/>
-        <description>Rights &amp; Freedoms Cluster Stage Programme</description>
-        <persons/>
-        <links>
-          <link>https://events.ccc.de/congress/2017/wiki/index.php/Session:Rights%26Freedoms</link>
-        </links>
-      </event>
-      <event id="1299" guid="cb719734-0650-4539-928a-ac4577eb588c">
+      <event id="1296" guid="cb719734-0650-4539-928a-ac4577eb588c">
         <logo/>
         <date>2017-12-28T13:00:00+01:00</date>
         <start>13:00</start>
@@ -2973,7 +2954,7 @@ find physical POIs and buy goods without giving away your real identity.*</descr
           <link>https://events.ccc.de/congress/2017/wiki/index.php/Session:Rights%26Freedoms</link>
         </links>
       </event>
-      <event id="1302" guid="add8feaa-74d7-44f2-acca-c6902671a1a6">
+      <event id="1299" guid="add8feaa-74d7-44f2-acca-c6902671a1a6">
         <logo/>
         <date>2017-12-28T15:00:00+01:00</date>
         <start>15:00</start>
@@ -2992,7 +2973,7 @@ find physical POIs and buy goods without giving away your real identity.*</descr
           <link>https://events.ccc.de/congress/2017/wiki/index.php/Session:Rights%26Freedoms</link>
         </links>
       </event>
-      <event id="1304" guid="24e0dbc4-0042-4cce-b648-86c3092b36a8">
+      <event id="1301" guid="24e0dbc4-0042-4cce-b648-86c3092b36a8">
         <logo/>
         <date>2017-12-28T19:00:00+01:00</date>
         <start>19:00</start>
@@ -3011,7 +2992,7 @@ find physical POIs and buy goods without giving away your real identity.*</descr
           <link>https://events.ccc.de/congress/2017/wiki/index.php/Session:Rights%26Freedoms</link>
         </links>
       </event>
-      <event id="1305" guid="092ae74e-8fda-49c2-a247-f444f59864d0">
+      <event id="1302" guid="092ae74e-8fda-49c2-a247-f444f59864d0">
         <logo/>
         <date>2017-12-28T16:00:00+01:00</date>
         <start>16:00</start>
@@ -3030,7 +3011,7 @@ find physical POIs and buy goods without giving away your real identity.*</descr
           <link>https://events.ccc.de/congress/2017/wiki/index.php/Session:Rights%26Freedoms</link>
         </links>
       </event>
-      <event id="1306" guid="d5e27e43-b64d-4166-8f5d-beb35700fd55">
+      <event id="1303" guid="d5e27e43-b64d-4166-8f5d-beb35700fd55">
         <logo/>
         <date>2017-12-28T14:00:00+01:00</date>
         <start>14:00</start>
@@ -3039,6 +3020,25 @@ find physical POIs and buy goods without giving away your real identity.*</descr
         <slug/>
         <title>Rights&amp;Freedoms</title>
         <subtitle>The upsurge of exceptional state politics and the downfall of digital human rights in Turkey (Alternatif Bilisim)</subtitle>
+        <track>self organized sessions</track>
+        <type>talk</type>
+        <language>de</language>
+        <abstract/>
+        <description>Rights &amp; Freedoms Cluster Stage Programme</description>
+        <persons/>
+        <links>
+          <link>https://events.ccc.de/congress/2017/wiki/index.php/Session:Rights%26Freedoms</link>
+        </links>
+      </event>
+      <event id="1308" guid="23c6fca0-a450-47cf-8e39-888514b76355">
+        <logo/>
+        <date>2017-12-28T19:30:00+01:00</date>
+        <start>19:30</start>
+        <duration>0:30</duration>
+        <room>CCL Hall 3</room>
+        <slug/>
+        <title>Rights&amp;Freedoms</title>
+        <subtitle>Algorithmic transaprency (EFF)</subtitle>
         <track>self organized sessions</track>
         <type>talk</type>
         <language>de</language>
@@ -3217,7 +3217,7 @@ Du bist ein Fan der drei Fragezeichen? Du suchst Gleichgesinnte oder hoffst, das
           <link>https://events.ccc.de/congress/2017/wiki/index.php/Session:Digitales_Graffiti_auf_Facebook</link>
         </links>
       </event>
-      <event id="1207" guid="44955fe7-7549-4190-bdea-2e694bf75c3c">
+      <event id="1208" guid="44955fe7-7549-4190-bdea-2e694bf75c3c">
         <logo/>
         <date>2017-12-28T22:00:00+01:00</date>
         <start>22:00</start>
@@ -3238,7 +3238,7 @@ Du bist ein Fan der drei Fragezeichen? Du suchst Gleichgesinnte oder hoffst, das
           <link>https://events.ccc.de/congress/2017/wiki/index.php/Session:Komona_networking_gathering</link>
         </links>
       </event>
-      <event id="1228" guid="1c5ded7d-1373-419f-a3f5-d087ed0c3970">
+      <event id="1229" guid="1c5ded7d-1373-419f-a3f5-d087ed0c3970">
         <logo/>
         <date>2017-12-28T18:00:00+01:00</date>
         <start>18:00</start>
@@ -3258,7 +3258,7 @@ Du bist ein Fan der drei Fragezeichen? Du suchst Gleichgesinnte oder hoffst, das
           <link>https://events.ccc.de/congress/2017/wiki/index.php/Session:MASKIERTE_GRUPPENDYNAMIK_(Henk)</link>
         </links>
       </event>
-      <event id="1320" guid="1c5ded7d-1373-419f-a3f5-d087ed0c3971">
+      <event id="1321" guid="1c5ded7d-1373-419f-a3f5-d087ed0c3971">
         <logo/>
         <date>2017-12-28T19:00:00+01:00</date>
         <start>19:00</start>
@@ -3277,7 +3277,7 @@ Du bist ein Fan der drei Fragezeichen? Du suchst Gleichgesinnte oder hoffst, das
           <link>https://events.ccc.de/congress/2017/wiki/index.php/Session:Sind_wir_schon_Cyborgs%3F</link>
         </links>
       </event>
-      <event id="1386" guid="af1ca733-a445-4f6c-947b-a7e79b77f0ba">
+      <event id="1387" guid="af1ca733-a445-4f6c-947b-a7e79b77f0ba">
         <logo/>
         <date>2017-12-28T14:00:00+01:00</date>
         <start>14:00</start>
@@ -3345,7 +3345,7 @@ Day 2 - 13:00 - Seminar Room 14-15</description>
           <link>https://events.ccc.de/congress/2017/wiki/index.php/Session:Chaos.social_and_mastodon_meetup</link>
         </links>
       </event>
-      <event id="1157" guid="01f41bb9-3dac-4445-baa1-89a4def018d8">
+      <event id="1158" guid="01f41bb9-3dac-4445-baa1-89a4def018d8">
         <logo/>
         <date>2017-12-28T17:30:00+01:00</date>
         <start>17:30</start>
@@ -3367,7 +3367,7 @@ Day 2 - 13:00 - Seminar Room 14-15</description>
           <link>https://events.ccc.de/congress/2017/wiki/index.php/Session:Hessentrojaner_Meetup</link>
         </links>
       </event>
-      <event id="1163" guid="5b9d681d-a0ad-4a3a-aa88-ab18d9c2927b">
+      <event id="1164" guid="5b9d681d-a0ad-4a3a-aa88-ab18d9c2927b">
         <logo/>
         <date>2017-12-28T11:30:00+01:00</date>
         <start>11:30</start>
@@ -3388,7 +3388,7 @@ Day 2 - 13:00 - Seminar Room 14-15</description>
           <link>https://events.ccc.de/congress/2017/wiki/index.php/Session:How_does_artificial_intelligence_accomplish_the_feat_of_learning%3F_(Wondrous_Mathematics)</link>
         </links>
       </event>
-      <event id="1187" guid="26fb04e5-0e55-4a74-9126-c251614367c9">
+      <event id="1188" guid="26fb04e5-0e55-4a74-9126-c251614367c9">
         <logo/>
         <date>2017-12-28T20:45:00+01:00</date>
         <start>20:45</start>
@@ -3408,7 +3408,7 @@ Day 2 - 13:00 - Seminar Room 14-15</description>
           <link>https://events.ccc.de/congress/2017/wiki/index.php/Session:Introduction_into_anarchism</link>
         </links>
       </event>
-      <event id="1256" guid="b8e83cf2-69fe-4880-9c19-b889b4e5d8d3">
+      <event id="1257" guid="b8e83cf2-69fe-4880-9c19-b889b4e5d8d3">
         <logo/>
         <date>2017-12-28T18:00:00+01:00</date>
         <start>18:00</start>
@@ -3428,7 +3428,7 @@ Day 2 - 13:00 - Seminar Room 14-15</description>
           <link>https://events.ccc.de/congress/2017/wiki/index.php/Session:OParl:_ein_Datenstandard,_um_politische_Entscheidungen_transparent_zu_machen</link>
         </links>
       </event>
-      <event id="1267" guid="3936de62-5b5b-4d2a-9a51-3a491418ced7">
+      <event id="1268" guid="3936de62-5b5b-4d2a-9a51-3a491418ced7">
         <logo/>
         <date>2017-12-28T19:30:00+01:00</date>
         <start>19:30</start>
@@ -3470,7 +3470,7 @@ Day 2 - 13:00 - Seminar Room 14-15</description>
           <link>https://events.ccc.de/congress/2017/wiki/index.php/Session:Bier_%26_Bass</link>
         </links>
       </event>
-      <event id="1114" guid="2ba1869d-80bf-464d-ad84-360c60517730">
+      <event id="1115" guid="2ba1869d-80bf-464d-ad84-360c60517730">
         <logo/>
         <date>2017-12-28T22:00:00+01:00</date>
         <start>22:00</start>
@@ -3491,7 +3491,7 @@ Day 2 - 13:00 - Seminar Room 14-15</description>
           <link>https://events.ccc.de/congress/2017/wiki/index.php/Session:Elektrogruselkabinett</link>
         </links>
       </event>
-      <event id="1168" guid="dd8a2a9a-8408-4dd9-a627-f2d2e585c26b">
+      <event id="1169" guid="dd8a2a9a-8408-4dd9-a627-f2d2e585c26b">
         <logo/>
         <date>2017-12-28T20:00:00+01:00</date>
         <start>20:00</start>
@@ -3513,7 +3513,7 @@ Day 2 - 13:00 - Seminar Room 14-15</description>
           <link>https://events.ccc.de/congress/2017/wiki/index.php/Session:How_to_make_chiptune_with_a_Game_Boy_DMG</link>
         </links>
       </event>
-      <event id="1174" guid="d61cdfa4-3ead-4326-ad8c-99eaa210bbb2">
+      <event id="1175" guid="d61cdfa4-3ead-4326-ad8c-99eaa210bbb2">
         <logo/>
         <date>2017-12-28T16:00:00+01:00</date>
         <start>16:00</start>
@@ -3534,7 +3534,7 @@ Day 2 - 13:00 - Seminar Room 14-15</description>
           <link>https://events.ccc.de/congress/2017/wiki/index.php/Session:IT_%E2%80%93_technological_offensive_and_social_revolution</link>
         </links>
       </event>
-      <event id="1261" guid="ec28e4b7-b47f-48c9-a944-d5045f8a0b96">
+      <event id="1262" guid="ec28e4b7-b47f-48c9-a944-d5045f8a0b96">
         <logo/>
         <date>2017-12-28T18:00:00+01:00</date>
         <start>18:00</start>
@@ -3553,7 +3553,7 @@ Day 2 - 13:00 - Seminar Room 14-15</description>
           <link>https://events.ccc.de/congress/2017/wiki/index.php/Session:Open_Source_DJing</link>
         </links>
       </event>
-      <event id="1359" guid="90af669f-141e-4bda-ad03-3a2c0f754ede">
+      <event id="1360" guid="90af669f-141e-4bda-ad03-3a2c0f754ede">
         <logo/>
         <date>2017-12-28T12:00:00+01:00</date>
         <start>12:00</start>
@@ -3605,7 +3605,7 @@ Bausätze Löten</description>
           <link>https://events.ccc.de/congress/2017/wiki/index.php/Session:Chaos_Macht_Schule_L%C3%B6tworkshop</link>
         </links>
       </event>
-      <event id="1354" guid="970319ef-2202-480f-ab77-12ebd1a901c2">
+      <event id="1355" guid="970319ef-2202-480f-ab77-12ebd1a901c2">
         <logo/>
         <date>2017-12-28T15:00:00+01:00</date>
         <start>15:00</start>
@@ -3624,7 +3624,7 @@ Bausätze Löten</description>
           <link>https://events.ccc.de/congress/2017/wiki/index.php/Session:Throwies</link>
         </links>
       </event>
-      <event id="1365" guid="478676ae-916e-4012-9cce-f71ef82aac04">
+      <event id="1366" guid="478676ae-916e-4012-9cce-f71ef82aac04">
         <logo/>
         <date>2017-12-28T12:00:00+01:00</date>
         <start>12:00</start>
@@ -3702,7 +3702,7 @@ The session will open with a general presentation, including data, of how the bi
           <link>https://events.ccc.de/congress/2017/wiki/index.php/Session:Anarchist_hackers_-_Hispagatos_International_anarchist-hacker_collective</link>
         </links>
       </event>
-      <event id="1161" guid="8d95795d-c437-450b-a149-c903f159d242">
+      <event id="1162" guid="8d95795d-c437-450b-a149-c903f159d242">
         <logo/>
         <date>2017-12-28T13:00:00+01:00</date>
         <start>13:00</start>
@@ -3723,7 +3723,7 @@ The session will open with a general presentation, including data, of how the bi
           <link>https://events.ccc.de/congress/2017/wiki/index.php/Session:Hosting_Control_Panels_for_self-managed_infrastructure</link>
         </links>
       </event>
-      <event id="1207" guid="44955fe7-7549-4190-bdea-2e694bf75c3c">
+      <event id="1208" guid="44955fe7-7549-4190-bdea-2e694bf75c3c">
         <logo/>
         <date>2017-12-28T22:00:00+01:00</date>
         <start>22:00</start>
@@ -3744,7 +3744,7 @@ The session will open with a general presentation, including data, of how the bi
           <link>https://events.ccc.de/congress/2017/wiki/index.php/Session:Komona_networking_gathering</link>
         </links>
       </event>
-      <event id="1283" guid="e1deb2cd-b1b7-450e-8535-55647bbca8a6">
+      <event id="1284" guid="e1deb2cd-b1b7-450e-8535-55647bbca8a6">
         <logo/>
         <date>2017-12-28T18:00:00+01:00</date>
         <start>18:00</start>
@@ -3763,7 +3763,7 @@ The session will open with a general presentation, including data, of how the bi
           <link>https://events.ccc.de/congress/2017/wiki/index.php/Session:Radio_Neu</link>
         </links>
       </event>
-      <event id="1324" guid="70ee38ff-7fc7-4a77-bff0-b6e800f21f81">
+      <event id="1325" guid="70ee38ff-7fc7-4a77-bff0-b6e800f21f81">
         <logo/>
         <date>2017-12-28T16:00:00+01:00</date>
         <start>16:00</start>
@@ -3785,7 +3785,7 @@ The session will open with a general presentation, including data, of how the bi
           <link>https://events.ccc.de/congress/2017/wiki/index.php/Session:Sobtec2launch</link>
         </links>
       </event>
-      <event id="1377" guid="bcb7aed8-2d17-4481-8d47-20741a3b3cae">
+      <event id="1378" guid="bcb7aed8-2d17-4481-8d47-20741a3b3cae">
         <logo/>
         <date>2017-12-28T14:00:00+01:00</date>
         <start>14:00</start>
@@ -3850,7 +3850,7 @@ The session will open with a general presentation, including data, of how the bi
           <link>https://events.ccc.de/congress/2017/wiki/index.php/Session:Commie_Curious</link>
         </links>
       </event>
-      <event id="1212" guid="b0893f0f-96be-5d0d-aa10-e994a631f2d6">
+      <event id="1213" guid="b0893f0f-96be-5d0d-aa10-e994a631f2d6">
         <logo/>
         <date>2017-12-28T13:00:00+01:00</date>
         <start>13:00</start>
@@ -3869,7 +3869,7 @@ The session will open with a general presentation, including data, of how the bi
           <link>https://events.ccc.de/congress/2017/wiki/index.php/Session:Language_Confusion</link>
         </links>
       </event>
-      <event id="1255" guid="3c6e963d-f1f7-4620-b8da-2e3dad27f51e">
+      <event id="1256" guid="3c6e963d-f1f7-4620-b8da-2e3dad27f51e">
         <logo/>
         <date>2017-12-28T10:00:00+01:00</date>
         <start>10:00</start>
@@ -3891,7 +3891,7 @@ The session will open with a general presentation, including data, of how the bi
           <link>https://events.ccc.de/congress/2017/wiki/index.php/Session:Numerical_Weather_Prediction_Tutorial</link>
         </links>
       </event>
-      <event id="1269" guid="806965c6-12da-5d0f-911d-716224940b6c">
+      <event id="1270" guid="806965c6-12da-5d0f-911d-716224940b6c">
         <logo/>
         <date>2017-12-28T17:00:00+01:00</date>
         <start>17:00</start>
@@ -3913,7 +3913,7 @@ The session will open with a general presentation, including data, of how the bi
           <link>https://events.ccc.de/congress/2017/wiki/index.php/Session:Polyamory_-_Guide</link>
         </links>
       </event>
-      <event id="1326" guid="d9e37733-add6-5977-84fa-fe995bb3bc0d">
+      <event id="1327" guid="d9e37733-add6-5977-84fa-fe995bb3bc0d">
         <logo/>
         <date>2017-12-28T14:00:00+01:00</date>
         <start>14:00</start>
@@ -3935,7 +3935,7 @@ wird in Englisch oder Deutsch abgehalten, abhänging von den Teilnehmern, wenn n
           <link>https://events.ccc.de/congress/2017/wiki/index.php/Session:Sorting_data_by_formulas</link>
         </links>
       </event>
-      <event id="1374" guid="77f34cbf-f0df-47b1-b235-b405c07ac7cd">
+      <event id="1375" guid="77f34cbf-f0df-47b1-b235-b405c07ac7cd">
         <logo/>
         <date>2017-12-28T18:00:00+01:00</date>
         <start>18:00</start>
@@ -3956,7 +3956,7 @@ wird in Englisch oder Deutsch abgehalten, abhänging von den Teilnehmern, wenn n
           <link>https://events.ccc.de/congress/2017/wiki/index.php/Session:Video_Game_Development_Meetup</link>
         </links>
       </event>
-      <event id="1390" guid="6e77d278-f184-4c70-83a0-6a2208d4d269">
+      <event id="1391" guid="6e77d278-f184-4c70-83a0-6a2208d4d269">
         <logo/>
         <date>2017-12-28T19:00:00+01:00</date>
         <start>19:00</start>
@@ -4015,15 +4015,15 @@ In this session we want to discuss whether and how the technology behind Audible
           <link>https://events.ccc.de/congress/2017/wiki/index.php/Session:(Wie)_Audible_Magic_hacken%3F</link>
         </links>
       </event>
-      <event id="1056" guid="71d30e88-62ae-581d-a215-1775cc78b19f">
+      <event id="1056" guid="5ebed7df-9716-4022-bb28-2b747e5cfbf1">
         <logo/>
-        <date>2017-12-28T12:00:00+01:00</date>
-        <start>12:00</start>
-        <duration>0:45</duration>
+        <date>2017-12-28T13:00:00+01:00</date>
+        <start>13:00</start>
+        <duration>1:00</duration>
         <room>Esszimmer</room>
         <slug/>
         <title>Calliope Workshops</title>
-        <subtitle>Calliope Workshop 1</subtitle>
+        <subtitle>Calliope Workshop 2</subtitle>
         <track>self organized sessions</track>
         <type>workshop</type>
         <language>de</language>
@@ -4042,15 +4042,15 @@ mobile: null eins sechs drei 362 534 0</description>
           <link>https://events.ccc.de/congress/2017/wiki/index.php/Session:Calliope_Workshops</link>
         </links>
       </event>
-      <event id="1057" guid="5ebed7df-9716-4022-bb28-2b747e5cfbf1">
+      <event id="1060" guid="71d30e88-62ae-581d-a215-1775cc78b19f">
         <logo/>
-        <date>2017-12-28T13:00:00+01:00</date>
-        <start>13:00</start>
-        <duration>1:00</duration>
+        <date>2017-12-28T12:00:00+01:00</date>
+        <start>12:00</start>
+        <duration>0:45</duration>
         <room>Esszimmer</room>
         <slug/>
         <title>Calliope Workshops</title>
-        <subtitle>Calliope Workshop 2</subtitle>
+        <subtitle>Calliope Workshop 1</subtitle>
         <track>self organized sessions</track>
         <type>workshop</type>
         <language>de</language>
@@ -4114,7 +4114,7 @@ mobile: null eins sechs drei 362 534 0</description>
           <link>https://events.ccc.de/congress/2017/wiki/index.php/Session:Edulabs-Workshop</link>
         </links>
       </event>
-      <event id="1257" guid="1268f73b-b992-5380-ab7a-31eee5e66240">
+      <event id="1258" guid="1268f73b-b992-5380-ab7a-31eee5e66240">
         <logo/>
         <date>2017-12-28T19:00:00+01:00</date>
         <start>19:00</start>
@@ -4159,7 +4159,7 @@ mobile: null eins sechs drei 362 534 0</description>
           <link>https://events.ccc.de/congress/2017/wiki/index.php/Session:Dat,_Beaker_browser_and_decentralized_web</link>
         </links>
       </event>
-      <event id="1155" guid="5827fd18-7bbf-4c9d-a2db-de0b5afb12d0">
+      <event id="1156" guid="5827fd18-7bbf-4c9d-a2db-de0b5afb12d0">
         <logo/>
         <date>2017-12-29T16:00:00+01:00</date>
         <start>16:00</start>
@@ -4178,7 +4178,7 @@ mobile: null eins sechs drei 362 534 0</description>
           <link>https://events.ccc.de/congress/2017/wiki/index.php/Session:Hedonist_International_Networking_Meeting_Workshop_for_2018s_Congress_Convoy</link>
         </links>
       </event>
-      <event id="1222" guid="01830be1-2a28-424f-a6f4-5668b463b6e3">
+      <event id="1223" guid="01830be1-2a28-424f-a6f4-5668b463b6e3">
         <logo/>
         <date>2017-12-29T12:00:00+01:00</date>
         <start>12:00</start>
@@ -4198,7 +4198,7 @@ mobile: null eins sechs drei 362 534 0</description>
           <link>https://events.ccc.de/congress/2017/wiki/index.php/Session:Letter_writing_to_prisoners,_sitting_in_jail_for_hacking</link>
         </links>
       </event>
-      <event id="1343" guid="7be53b3d-4e07-4327-a4de-62ffd4bc6ca8">
+      <event id="1344" guid="7be53b3d-4e07-4327-a4de-62ffd4bc6ca8">
         <logo/>
         <date>2017-12-29T18:00:00+01:00</date>
         <start>18:00</start>
@@ -4219,7 +4219,7 @@ mobile: null eins sechs drei 362 534 0</description>
       </event>
     </room>
     <room name="Hive Conference">
-      <event id="1060" guid="0f05a671-8cbd-4a88-9be6-0a7ea0f39973">
+      <event id="1059" guid="0f05a671-8cbd-4a88-9be6-0a7ea0f39973">
         <logo/>
         <date>2017-12-29T14:00:00+01:00</date>
         <start>14:00</start>
@@ -4268,7 +4268,7 @@ mobile: null eins sechs drei 362 534 0</description>
           <link>https://events.ccc.de/congress/2017/wiki/index.php/Session:Child_Growth_Monitor_Meetup_Day_3</link>
         </links>
       </event>
-      <event id="1231" guid="68ebc7af-8756-455a-8b59-01b51fdcd238">
+      <event id="1232" guid="68ebc7af-8756-455a-8b59-01b51fdcd238">
         <logo/>
         <date>2017-12-29T15:00:00+01:00</date>
         <start>15:00</start>
@@ -4291,7 +4291,7 @@ mobile: null eins sechs drei 362 534 0</description>
       </event>
     </room>
     <room name="Lecture room 11">
-      <event id="1022" guid="2b6595ff-c32b-44aa-9bda-e411e5911162">
+      <event id="1021" guid="2b6595ff-c32b-44aa-9bda-e411e5911162">
         <logo/>
         <date>2017-12-29T20:15:00+01:00</date>
         <start>20:15</start>
@@ -4333,7 +4333,7 @@ mobile: null eins sechs drei 362 534 0</description>
           <link>https://events.ccc.de/congress/2017/wiki/index.php/Session:Angewandte_konsensdemokratie</link>
         </links>
       </event>
-      <event id="1137" guid="7cfa0f1d-6bbb-419f-9dd9-f331e5b773b7">
+      <event id="1138" guid="7cfa0f1d-6bbb-419f-9dd9-f331e5b773b7">
         <logo/>
         <date>2017-12-29T19:00:00+01:00</date>
         <start>19:00</start>
@@ -4362,7 +4362,7 @@ A trip from CAcert over African Chamas through blockchains to Community</descrip
           <link>https://events.ccc.de/congress/2017/wiki/index.php/Session:Future_of_Communities_-_Unchained_Chamas!</link>
         </links>
       </event>
-      <event id="1150" guid="0ae5f121-5f8d-5d1e-bf6c-429be9ea00e1">
+      <event id="1151" guid="0ae5f121-5f8d-5d1e-bf6c-429be9ea00e1">
         <logo/>
         <date>2017-12-29T13:00:00+01:00</date>
         <start>13:00</start>
@@ -4403,7 +4403,7 @@ A trip from CAcert over African Chamas through blockchains to Community</descrip
           <link>https://events.ccc.de/congress/2017/wiki/index.php/Session:KinkyGeeks_Bondage_Workshop</link>
         </links>
       </event>
-      <event id="1201" guid="e3d9d5b4-b35d-4828-b7af-6cdf33b438cf">
+      <event id="1203" guid="e3d9d5b4-b35d-4828-b7af-6cdf33b438cf">
         <logo/>
         <date>2017-12-29T23:59:00+01:00</date>
         <start>23:59</start>
@@ -4425,7 +4425,7 @@ A trip from CAcert over African Chamas through blockchains to Community</descrip
           <link>https://events.ccc.de/congress/2017/wiki/index.php/Session:KinkyGeeks_Bondage_Workshop</link>
         </links>
       </event>
-      <event id="1271" guid="fc013695-5130-41ea-88cf-5b43ae74249e">
+      <event id="1272" guid="fc013695-5130-41ea-88cf-5b43ae74249e">
         <logo/>
         <date>2017-12-29T10:00:00+01:00</date>
         <start>10:00</start>
@@ -4445,7 +4445,7 @@ A trip from CAcert over African Chamas through blockchains to Community</descrip
           <link>https://events.ccc.de/congress/2017/wiki/index.php/Session:Polyamory_-_n2n_relationships_extended</link>
         </links>
       </event>
-      <event id="1287" guid="24916f94-82d4-5573-b831-f0cc81891754">
+      <event id="1288" guid="24916f94-82d4-5573-b831-f0cc81891754">
         <logo/>
         <date>2017-12-29T17:00:00+01:00</date>
         <start>17:00</start>
@@ -4465,7 +4465,7 @@ A trip from CAcert over African Chamas through blockchains to Community</descrip
           <link>https://events.ccc.de/congress/2017/wiki/index.php/Session:Regiotreffen</link>
         </links>
       </event>
-      <event id="1357" guid="af24303a-71b5-4887-a93d-e12f95ffbe22">
+      <event id="1358" guid="af24303a-71b5-4887-a93d-e12f95ffbe22">
         <logo/>
         <date>2017-12-29T22:00:00+01:00</date>
         <start>22:00</start>
@@ -4487,7 +4487,7 @@ A trip from CAcert over African Chamas through blockchains to Community</descrip
           <link>https://events.ccc.de/congress/2017/wiki/index.php/Session:Tor_Q%26A</link>
         </links>
       </event>
-      <event id="1389" guid="dc1ce5c6-2b4a-4a3a-b46d-d14f5fc6b900">
+      <event id="1390" guid="dc1ce5c6-2b4a-4a3a-b46d-d14f5fc6b900">
         <logo/>
         <date>2017-12-29T15:00:00+01:00</date>
         <start>15:00</start>
@@ -4510,7 +4510,7 @@ A trip from CAcert over African Chamas through blockchains to Community</descrip
     </room>
     <room name="Meetup Domo"/>
     <room name="Hive Stage">
-      <event id="1169" guid="17c4fddc-cfb3-4751-a298-f03a64686582">
+      <event id="1170" guid="17c4fddc-cfb3-4751-a298-f03a64686582">
         <logo/>
         <date>2017-12-29T14:30:00+01:00</date>
         <start>14:30</start>
@@ -4532,7 +4532,7 @@ A trip from CAcert over African Chamas through blockchains to Community</descrip
           <link>https://events.ccc.de/congress/2017/wiki/index.php/Session:How_to_turn_museums_into_open_data_hubs</link>
         </links>
       </event>
-      <event id="1191" guid="97c297e9-344d-4a68-bb70-cdbe88a6a7ee">
+      <event id="1192" guid="97c297e9-344d-4a68-bb70-cdbe88a6a7ee">
         <logo/>
         <date>2017-12-29T16:30:00+01:00</date>
         <start>16:30</start>
@@ -4620,7 +4620,7 @@ drink beer.</description>
           <link>https://events.ccc.de/congress/2017/wiki/index.php/Session:Express_and_Extended_Taro_Sessions_with_Binaural_Music</link>
         </links>
       </event>
-      <event id="1146" guid="7376362d-b662-4ea1-9538-008b14d2babb">
+      <event id="1147" guid="7376362d-b662-4ea1-9538-008b14d2babb">
         <logo/>
         <date>2017-12-29T13:00:00+01:00</date>
         <start>13:00</start>
@@ -4640,7 +4640,7 @@ drink beer.</description>
           <link>https://events.ccc.de/congress/2017/wiki/index.php/Session:Hacking_Worldviews_/_Hacking_Abstractions</link>
         </links>
       </event>
-      <event id="1182" guid="9b04713a-5181-44bf-aa1e-b89d4c4ca303">
+      <event id="1183" guid="9b04713a-5181-44bf-aa1e-b89d4c4ca303">
         <logo/>
         <date>2017-12-29T17:00:00+01:00</date>
         <start>17:00</start>
@@ -4662,28 +4662,7 @@ drink beer.</description>
           <link>https://events.ccc.de/congress/2017/wiki/index.php/Session:Inj4n:_Habitual_Automation_-_Because_we_have_to_script</link>
         </links>
       </event>
-      <event id="1203" guid="11832e8c-2e41-4c8d-8ed8-a908d5638480">
-        <logo/>
-        <date>2017-12-30T02:00:00+01:00</date>
-        <start>02:00</start>
-        <duration>2:00</duration>
-        <room>Chaos West Stage</room>
-        <slug/>
-        <title>Klangteppich</title>
-        <subtitle>Project Poltergeist DJ set (Alexeyan) Dark &amp; Noisy Techno</subtitle>
-        <track>self organized sessions</track>
-        <type>other</type>
-        <language>de</language>
-        <abstract/>
-        <description>Come over and meet us at our cozy music lounge in hall 2! Proudly presented by Chaos West</description>
-        <persons>
-          <person id="0" href="https://events.ccc.de/congress/2017/wiki/index.php/User:Bam">Bam</person>
-        </persons>
-        <links>
-          <link>https://events.ccc.de/congress/2017/wiki/index.php/Session:Klangteppich</link>
-        </links>
-      </event>
-      <event id="1203" guid="11832e8c-2e41-4c8d-8ed8-a908d5638480">
+      <event id="1205" guid="11832e8c-2e41-4c8d-8ed8-a908d5638480">
         <logo/>
         <date>2017-12-30T00:00:00+01:00</date>
         <start>00:00</start>
@@ -4704,7 +4683,28 @@ drink beer.</description>
           <link>https://events.ccc.de/congress/2017/wiki/index.php/Session:Klangteppich</link>
         </links>
       </event>
-      <event id="1224" guid="4ba2d739-a838-4c14-bf49-057095a649f5">
+      <event id="1205" guid="11832e8c-2e41-4c8d-8ed8-a908d5638480">
+        <logo/>
+        <date>2017-12-30T02:00:00+01:00</date>
+        <start>02:00</start>
+        <duration>2:00</duration>
+        <room>Chaos West Stage</room>
+        <slug/>
+        <title>Klangteppich</title>
+        <subtitle>Project Poltergeist DJ set (Alexeyan) Dark &amp; Noisy Techno</subtitle>
+        <track>self organized sessions</track>
+        <type>other</type>
+        <language>de</language>
+        <abstract/>
+        <description>Come over and meet us at our cozy music lounge in hall 2! Proudly presented by Chaos West</description>
+        <persons>
+          <person id="0" href="https://events.ccc.de/congress/2017/wiki/index.php/User:Bam">Bam</person>
+        </persons>
+        <links>
+          <link>https://events.ccc.de/congress/2017/wiki/index.php/Session:Klangteppich</link>
+        </links>
+      </event>
+      <event id="1225" guid="4ba2d739-a838-4c14-bf49-057095a649f5">
         <logo/>
         <date>2017-12-29T16:00:00+01:00</date>
         <start>16:00</start>
@@ -4726,7 +4726,7 @@ drink beer.</description>
           <link>https://events.ccc.de/congress/2017/wiki/index.php/Session:Limlug:_In_der_Weihnachtsb%C3%A4ckerei_-_Data_Science_und_Kekse</link>
         </links>
       </event>
-      <event id="1258" guid="68cb533a-0f47-44e4-ba2d-45bc4f405a70">
+      <event id="1259" guid="68cb533a-0f47-44e4-ba2d-45bc4f405a70">
         <logo/>
         <date>2017-12-29T20:20:00+01:00</date>
         <start>20:20</start>
@@ -4745,7 +4745,7 @@ drink beer.</description>
           <link>https://events.ccc.de/congress/2017/wiki/index.php/Session:On_Scripting</link>
         </links>
       </event>
-      <event id="1394" guid="2908d355-9054-4c8f-8a7f-33e677435c1d">
+      <event id="1395" guid="2908d355-9054-4c8f-8a7f-33e677435c1d">
         <logo/>
         <date>2017-12-29T14:00:00+01:00</date>
         <start>14:00</start>
@@ -4767,7 +4767,7 @@ drink beer.</description>
           <link>https://events.ccc.de/congress/2017/wiki/index.php/Session:Ybti%2Bwefixthenet</link>
         </links>
       </event>
-      <event id="1395" guid="cc28d9e0-c2e8-4e48-862e-5e5f489eb214">
+      <event id="1396" guid="cc28d9e0-c2e8-4e48-862e-5e5f489eb214">
         <logo/>
         <date>2017-12-29T18:00:00+01:00</date>
         <start>18:00</start>
@@ -4789,7 +4789,7 @@ drink beer.</description>
           <link>https://events.ccc.de/congress/2017/wiki/index.php/Session:Ybti%2Bwefixthenet</link>
         </links>
       </event>
-      <event id="1396" guid="668e730c-cdff-419e-9c92-074b1355448d">
+      <event id="1397" guid="668e730c-cdff-419e-9c92-074b1355448d">
         <logo/>
         <date>2017-12-29T18:30:00+01:00</date>
         <start>18:30</start>
@@ -4856,7 +4856,7 @@ drink beer.</description>
           <link>https://events.ccc.de/congress/2017/wiki/index.php/Session:Faith_in_mathematics_(Wondrous_Mathematics)</link>
         </links>
       </event>
-      <event id="1234" guid="384ea850-03cc-466e-9049-94adb545e64a">
+      <event id="1235" guid="384ea850-03cc-466e-9049-94adb545e64a">
         <logo/>
         <date>2017-12-29T17:00:00+01:00</date>
         <start>17:00</start>
@@ -4869,7 +4869,7 @@ drink beer.</description>
         <type>discussion</type>
         <language>en</language>
         <abstract/>
-        <description/>
+        <description>Messengers are the default contemporary communication tool; can we have something both libre and usable - that is, can be recommended instead of Signal?</description>
         <persons>
           <person id="0" href="https://events.ccc.de/congress/2017/wiki/index.php/User:Intelfx">Intelfx</person>
           <person id="0" href="https://events.ccc.de/congress/2017/wiki/index.php/User:Wldhx">Wldhx</person>
@@ -4878,7 +4878,7 @@ drink beer.</description>
           <link>https://events.ccc.de/congress/2017/wiki/index.php/Session:Matrix_and_usable_messaging,_today</link>
         </links>
       </event>
-      <event id="1239" guid="7eca5104-3a60-412d-904f-920285df3428">
+      <event id="1240" guid="7eca5104-3a60-412d-904f-920285df3428">
         <logo/>
         <date>2017-12-29T18:00:00+01:00</date>
         <start>18:00</start>
@@ -4897,7 +4897,7 @@ drink beer.</description>
           <link>https://events.ccc.de/congress/2017/wiki/index.php/Session:Microdosing_Psychedelics:roundtable_discussion</link>
         </links>
       </event>
-      <event id="1250" guid="250f6aec-1814-47b4-8396-c292ec198174">
+      <event id="1251" guid="250f6aec-1814-47b4-8396-c292ec198174">
         <logo/>
         <date>2017-12-29T19:30:00+01:00</date>
         <start>19:30</start>
@@ -4919,7 +4919,7 @@ drink beer.</description>
           <link>https://events.ccc.de/congress/2017/wiki/index.php/Session:Network_hacks_for_smart_attacks</link>
         </links>
       </event>
-      <event id="1264" guid="a0d9da38-a54a-4528-90fb-c4fd11223abf">
+      <event id="1265" guid="a0d9da38-a54a-4528-90fb-c4fd11223abf">
         <logo/>
         <date>2017-12-29T21:00:00+01:00</date>
         <start>21:00</start>
@@ -4941,7 +4941,7 @@ drink beer.</description>
           <link>https://events.ccc.de/congress/2017/wiki/index.php/Session:Organising_a_CryptoParty,_reports_and_experiences_from_the_field</link>
         </links>
       </event>
-      <event id="1288" guid="a4441595-d79f-4625-8f0d-037c8eb05877">
+      <event id="1289" guid="a4441595-d79f-4625-8f0d-037c8eb05877">
         <logo/>
         <date>2017-12-29T14:00:00+01:00</date>
         <start>14:00</start>
@@ -5017,7 +5017,7 @@ To do so let's have an overview of the measures' main elements that we tackle in
           <link>https://events.ccc.de/congress/2017/wiki/index.php/Session:Fixing_mass_surveillance:_one_court_case_at_a_time!</link>
         </links>
       </event>
-      <event id="1144" guid="0779a162-bc21-4309-95de-071c32035b5c">
+      <event id="1145" guid="0779a162-bc21-4309-95de-071c32035b5c">
         <logo/>
         <date>2017-12-29T22:00:00+01:00</date>
         <start>22:00</start>
@@ -5037,7 +5037,7 @@ To do so let's have an overview of the measures' main elements that we tackle in
           <link>https://events.ccc.de/congress/2017/wiki/index.php/Session:Hackbases_yearly_meeting_(coliving_hackerspace_projects)</link>
         </links>
       </event>
-      <event id="1178" guid="c682fa8a-045b-4a09-8164-1b33826b8e63">
+      <event id="1179" guid="c682fa8a-045b-4a09-8164-1b33826b8e63">
         <logo/>
         <date>2017-12-29T13:00:00+01:00</date>
         <start>13:00</start>
@@ -5062,7 +5062,7 @@ Having been involved in such policy discussions for many years, and having been 
           <link>https://events.ccc.de/congress/2017/wiki/index.php/Session:Information_security_theater_vs._Investigative_journalism</link>
         </links>
       </event>
-      <event id="1277" guid="e11a7802-f227-4ea0-90c8-b8491914b755">
+      <event id="1278" guid="e11a7802-f227-4ea0-90c8-b8491914b755">
         <logo/>
         <date>2017-12-29T19:00:00+01:00</date>
         <start>19:00</start>
@@ -5084,45 +5084,7 @@ Having been involved in such policy discussions for many years, and having been 
           <link>https://events.ccc.de/congress/2017/wiki/index.php/Session:Public_Money%3F_Public_Code!</link>
         </links>
       </event>
-      <event id="1294" guid="48ea0d19-03cd-4cea-b436-46892ae393ad">
-        <logo/>
-        <date>2017-12-29T20:00:00+01:00</date>
-        <start>20:00</start>
-        <duration>1:00</duration>
-        <room>CCL Hall 3</room>
-        <slug/>
-        <title>Rights&amp;Freedoms</title>
-        <subtitle>Case study “Staatstrojaner”: strategic litigation against state hacking (Ulf Buermeyer, GFF)</subtitle>
-        <track>self organized sessions</track>
-        <type>talk</type>
-        <language>de</language>
-        <abstract/>
-        <description>Rights &amp; Freedoms Cluster Stage Programme</description>
-        <persons/>
-        <links>
-          <link>https://events.ccc.de/congress/2017/wiki/index.php/Session:Rights%26Freedoms</link>
-        </links>
-      </event>
-      <event id="1296" guid="f8c6d10a-3129-4d2c-8806-d5c0732e2851">
-        <logo/>
-        <date>2017-12-29T17:30:00+01:00</date>
-        <start>17:30</start>
-        <duration>0:30</duration>
-        <room>CCL Hall 3</room>
-        <slug/>
-        <title>Rights&amp;Freedoms</title>
-        <subtitle>Are NAT translations respecting proportionality and data retention principles? (Hermes Center)</subtitle>
-        <track>self organized sessions</track>
-        <type>talk</type>
-        <language>de</language>
-        <abstract/>
-        <description>Rights &amp; Freedoms Cluster Stage Programme</description>
-        <persons/>
-        <links>
-          <link>https://events.ccc.de/congress/2017/wiki/index.php/Session:Rights%26Freedoms</link>
-        </links>
-      </event>
-      <event id="1297" guid="65ef56f8-c667-4b9f-8a28-843f8fe7bbf0">
+      <event id="1294" guid="65ef56f8-c667-4b9f-8a28-843f8fe7bbf0">
         <logo/>
         <date>2017-12-29T21:00:00+01:00</date>
         <start>21:00</start>
@@ -5141,7 +5103,7 @@ Having been involved in such policy discussions for many years, and having been 
           <link>https://events.ccc.de/congress/2017/wiki/index.php/Session:Rights%26Freedoms</link>
         </links>
       </event>
-      <event id="1298" guid="93fa9255-e0a0-457e-a569-cb6b88776793">
+      <event id="1295" guid="93fa9255-e0a0-457e-a569-cb6b88776793">
         <logo/>
         <date>2017-12-29T15:00:00+01:00</date>
         <start>15:00</start>
@@ -5160,7 +5122,7 @@ Having been involved in such policy discussions for many years, and having been 
           <link>https://events.ccc.de/congress/2017/wiki/index.php/Session:Rights%26Freedoms</link>
         </links>
       </event>
-      <event id="1301" guid="2364a815-ad04-427d-8877-1c4e3931f4be">
+      <event id="1298" guid="2364a815-ad04-427d-8877-1c4e3931f4be">
         <logo/>
         <date>2017-12-29T14:00:00+01:00</date>
         <start>14:00</start>
@@ -5179,7 +5141,7 @@ Having been involved in such policy discussions for many years, and having been 
           <link>https://events.ccc.de/congress/2017/wiki/index.php/Session:Rights%26Freedoms</link>
         </links>
       </event>
-      <event id="1307" guid="e205e42a-460e-4c11-b3a2-c764d06cb053">
+      <event id="1304" guid="e205e42a-460e-4c11-b3a2-c764d06cb053">
         <logo/>
         <date>2017-12-29T18:00:00+01:00</date>
         <start>18:00</start>
@@ -5198,7 +5160,7 @@ Having been involved in such policy discussions for many years, and having been 
           <link>https://events.ccc.de/congress/2017/wiki/index.php/Session:Rights%26Freedoms</link>
         </links>
       </event>
-      <event id="1308" guid="d7d75ccf-f380-4a59-a18b-92ae6083fb8a">
+      <event id="1305" guid="d7d75ccf-f380-4a59-a18b-92ae6083fb8a">
         <logo/>
         <date>2017-12-29T17:00:00+01:00</date>
         <start>17:00</start>
@@ -5207,6 +5169,44 @@ Having been involved in such policy discussions for many years, and having been 
         <slug/>
         <title>Rights&amp;Freedoms</title>
         <subtitle>Strategic litigation in Germany- complaints to stop mass surveillance (Ulf Buermeyer, GFF)</subtitle>
+        <track>self organized sessions</track>
+        <type>talk</type>
+        <language>de</language>
+        <abstract/>
+        <description>Rights &amp; Freedoms Cluster Stage Programme</description>
+        <persons/>
+        <links>
+          <link>https://events.ccc.de/congress/2017/wiki/index.php/Session:Rights%26Freedoms</link>
+        </links>
+      </event>
+      <event id="1307" guid="48ea0d19-03cd-4cea-b436-46892ae393ad">
+        <logo/>
+        <date>2017-12-29T20:00:00+01:00</date>
+        <start>20:00</start>
+        <duration>1:00</duration>
+        <room>CCL Hall 3</room>
+        <slug/>
+        <title>Rights&amp;Freedoms</title>
+        <subtitle>Case study “Staatstrojaner”: strategic litigation against state hacking (Ulf Buermeyer, GFF)</subtitle>
+        <track>self organized sessions</track>
+        <type>talk</type>
+        <language>de</language>
+        <abstract/>
+        <description>Rights &amp; Freedoms Cluster Stage Programme</description>
+        <persons/>
+        <links>
+          <link>https://events.ccc.de/congress/2017/wiki/index.php/Session:Rights%26Freedoms</link>
+        </links>
+      </event>
+      <event id="1309" guid="f8c6d10a-3129-4d2c-8806-d5c0732e2851">
+        <logo/>
+        <date>2017-12-29T17:30:00+01:00</date>
+        <start>17:30</start>
+        <duration>0:30</duration>
+        <room>CCL Hall 3</room>
+        <slug/>
+        <title>Rights&amp;Freedoms</title>
+        <subtitle>Are NAT translations respecting proportionality and data retention principles? (Hermes Center)</subtitle>
         <track>self organized sessions</track>
         <type>talk</type>
         <language>de</language>
@@ -5324,7 +5324,7 @@ cryptographic puzzles, classical music, visuals, phi, privacy, golden ratio, leo
           <link>https://events.ccc.de/congress/2017/wiki/index.php/Session:Experience_in_dissecting_malware</link>
         </links>
       </event>
-      <event id="1209" guid="6f1ecbd7-fa2a-4a61-a70b-2edd2055e061">
+      <event id="1210" guid="6f1ecbd7-fa2a-4a61-a70b-2edd2055e061">
         <logo/>
         <date>2017-12-29T12:00:00+01:00</date>
         <start>12:00</start>
@@ -5351,7 +5351,7 @@ This session will help you with any questions how to install an provider instanc
           <link>https://events.ccc.de/congress/2017/wiki/index.php/Projects:LEAP</link>
         </links>
       </event>
-      <event id="1209" guid="6f1ecbd7-fa2a-4a61-a70b-2edd2055e061">
+      <event id="1210" guid="6f1ecbd7-fa2a-4a61-a70b-2edd2055e061">
         <logo/>
         <date>2017-12-29T12:00:00+01:00</date>
         <start>12:00</start>
@@ -5373,7 +5373,7 @@ This session will help you with any questions how to install an provider instanc
           <link>https://events.ccc.de/congress/2017/wiki/index.php/Session:LEAP_Platform_for_VPN_and_email_providers</link>
         </links>
       </event>
-      <event id="1227" guid="e3785f2b-4bc8-4a8b-9e38-b57425503760">
+      <event id="1228" guid="e3785f2b-4bc8-4a8b-9e38-b57425503760">
         <logo/>
         <date>2017-12-29T18:00:00+01:00</date>
         <start>18:00</start>
@@ -5392,7 +5392,7 @@ This session will help you with any questions how to install an provider instanc
           <link>https://events.ccc.de/congress/2017/wiki/index.php/Session:MASKIERTE_GRUPPENDYNAMIK</link>
         </links>
       </event>
-      <event id="1376" guid="151ec08c-5139-46fb-b1b6-180187577fb8">
+      <event id="1377" guid="151ec08c-5139-46fb-b1b6-180187577fb8">
         <logo/>
         <date>2017-12-29T20:00:00+01:00</date>
         <start>20:00</start>
@@ -5411,7 +5411,7 @@ This session will help you with any questions how to install an provider instanc
           <link>https://events.ccc.de/congress/2017/wiki/index.php/Session:Warum_Trump_tickt_wie_er_tickt</link>
         </links>
       </event>
-      <event id="1387" guid="da930b1f-96d6-47fa-adad-d979ab30e241">
+      <event id="1388" guid="da930b1f-96d6-47fa-adad-d979ab30e241">
         <logo/>
         <date>2017-12-29T14:00:00+01:00</date>
         <start>14:00</start>
@@ -5430,7 +5430,7 @@ This session will help you with any questions how to install an provider instanc
           <link>https://events.ccc.de/congress/2017/wiki/index.php/Session:Wie_produziere_ich_mein_eigenes_H%C3%B6rspiel_mit_Hilfe_von_freeware_free_sounds</link>
         </links>
       </event>
-      <event id="1391" guid="257d3b9c-938d-44b3-9444-730641d2dd9e">
+      <event id="1392" guid="257d3b9c-938d-44b3-9444-730641d2dd9e">
         <logo/>
         <date>2017-12-29T16:00:00+01:00</date>
         <start>16:00</start>
@@ -5498,7 +5498,7 @@ Schon mit einfachen Materialien lassen sich Bücher herstellen. Ich werde zeigen
           <link>https://events.ccc.de/congress/2017/wiki/index.php/Session:Cryptoparties,_specialized_content,_and_creative_outreach</link>
         </links>
       </event>
-      <event id="1176" guid="676da24c-daf1-4f65-ba87-bf5ca3823a4b">
+      <event id="1177" guid="676da24c-daf1-4f65-ba87-bf5ca3823a4b">
         <logo/>
         <date>2017-12-29T22:00:00+01:00</date>
         <start>22:00</start>
@@ -5519,7 +5519,7 @@ Schon mit einfachen Materialien lassen sich Bücher herstellen. Ich werde zeigen
           <link>https://events.ccc.de/congress/2017/wiki/index.php/Session:Improv_Workshop_by_Yussef</link>
         </links>
       </event>
-      <event id="1183" guid="0dd4caa9-88c2-4eca-80e5-76aeac1389c3">
+      <event id="1184" guid="0dd4caa9-88c2-4eca-80e5-76aeac1389c3">
         <logo/>
         <date>2017-12-29T14:00:00+01:00</date>
         <start>14:00</start>
@@ -5540,7 +5540,7 @@ Schon mit einfachen Materialien lassen sich Bücher herstellen. Ich werde zeigen
           <link>https://events.ccc.de/congress/2017/wiki/index.php/Session:Insulin_hackers_meetup</link>
         </links>
       </event>
-      <event id="1184" guid="9723b386-1590-4df3-b629-5d1872722dfc">
+      <event id="1185" guid="9723b386-1590-4df3-b629-5d1872722dfc">
         <logo/>
         <date>2017-12-29T18:30:00+01:00</date>
         <start>18:30</start>
@@ -5562,7 +5562,7 @@ Schon mit einfachen Materialien lassen sich Bücher herstellen. Ich werde zeigen
           <link>https://events.ccc.de/congress/2017/wiki/index.php/Session:Interledger:_Streaming_Micropayments_%2B_Connecting_(Crypto)Currencies</link>
         </links>
       </event>
-      <event id="1225" guid="cc8c60bb-2c29-4bf7-8844-5470470c5935">
+      <event id="1226" guid="cc8c60bb-2c29-4bf7-8844-5470470c5935">
         <logo/>
         <date>2017-12-29T12:30:00+01:00</date>
         <start>12:30</start>
@@ -5583,7 +5583,7 @@ Schon mit einfachen Materialien lassen sich Bücher herstellen. Ich werde zeigen
           <link>https://events.ccc.de/congress/2017/wiki/index.php/Session:Lingua_Latina</link>
         </links>
       </event>
-      <event id="1361" guid="f3a30985-fc90-51f2-baa3-a07d034bffcc">
+      <event id="1362" guid="f3a30985-fc90-51f2-baa3-a07d034bffcc">
         <logo/>
         <date>2017-12-29T17:30:00+01:00</date>
         <start>17:30</start>
@@ -5602,7 +5602,7 @@ Schon mit einfachen Materialien lassen sich Bücher herstellen. Ich werde zeigen
           <link>https://events.ccc.de/congress/2017/wiki/index.php/Session:Translation_Team</link>
         </links>
       </event>
-      <event id="1368" guid="96ba42dd-c65d-4644-a427-6b141b64ae06">
+      <event id="1369" guid="96ba42dd-c65d-4644-a427-6b141b64ae06">
         <logo/>
         <date>2017-12-29T19:30:00+01:00</date>
         <start>19:30</start>
@@ -5626,7 +5626,7 @@ Am Anfang zeigen wir vermutlich, was wir bis jetzt so gemacht haben (digitale-fr
       </event>
     </room>
     <room name="Komona Aquarius">
-      <event id="1115" guid="a79abefc-096c-4f84-91c3-fa661bc86172">
+      <event id="1114" guid="a79abefc-096c-4f84-91c3-fa661bc86172">
         <logo/>
         <date>2017-12-29T23:00:00+01:00</date>
         <start>23:00</start>
@@ -5647,7 +5647,7 @@ Am Anfang zeigen wir vermutlich, was wir bis jetzt so gemacht haben (digitale-fr
           <link>https://events.ccc.de/congress/2017/wiki/index.php/Session:Elektrogruselkabinett</link>
         </links>
       </event>
-      <event id="1167" guid="6b5e45f7-bc89-48b4-b92a-b514dea70f90">
+      <event id="1168" guid="6b5e45f7-bc89-48b4-b92a-b514dea70f90">
         <logo/>
         <date>2017-12-29T14:00:00+01:00</date>
         <start>14:00</start>
@@ -5666,7 +5666,7 @@ Am Anfang zeigen wir vermutlich, was wir bis jetzt so gemacht haben (digitale-fr
           <link>https://events.ccc.de/congress/2017/wiki/index.php/Session:How_to_deal_with_the_law,_anarchist_perspective</link>
         </links>
       </event>
-      <event id="1208" guid="ad5a4bef-1192-4ba8-97c0-8cf03e82193b">
+      <event id="1209" guid="ad5a4bef-1192-4ba8-97c0-8cf03e82193b">
         <logo/>
         <date>2017-12-29T20:00:00+01:00</date>
         <start>20:00</start>
@@ -5685,7 +5685,7 @@ Am Anfang zeigen wir vermutlich, was wir bis jetzt so gemacht haben (digitale-fr
           <link>https://events.ccc.de/congress/2017/wiki/index.php/Session:Kreatives_Beschimpfen_Pt._2:_Es_gibt_kein_Battle</link>
         </links>
       </event>
-      <event id="1248" guid="c9c03008-b8bf-491f-8e35-17c111e2b3d3">
+      <event id="1249" guid="c9c03008-b8bf-491f-8e35-17c111e2b3d3">
         <logo/>
         <date>2017-12-29T15:00:00+01:00</date>
         <start>15:00</start>
@@ -5705,7 +5705,7 @@ Am Anfang zeigen wir vermutlich, was wir bis jetzt so gemacht haben (digitale-fr
           <link>https://events.ccc.de/congress/2017/wiki/index.php/Session:Nautik-1x1/Wie_fahre_ich_ein_Schiff</link>
         </links>
       </event>
-      <event id="1314" guid="49011248-141e-4210-a699-975f6e7a1a1b">
+      <event id="1315" guid="49011248-141e-4210-a699-975f6e7a1a1b">
         <logo/>
         <date>2017-12-29T12:00:00+01:00</date>
         <start>12:00</start>
@@ -5728,7 +5728,7 @@ The Tom Sachs films are often directed by Van Neistat (the brother of the youtub
           <link>https://events.ccc.de/congress/2017/wiki/index.php/Session:Screening:_Tom_Sachs_-_Color,_Love_Letter_To_Plywood,_How_To_Sweep,_Spacecamp</link>
         </links>
       </event>
-      <event id="1322" guid="d475f861-e899-42a7-835b-f5d70fdeeb6a">
+      <event id="1323" guid="d475f861-e899-42a7-835b-f5d70fdeeb6a">
         <logo/>
         <date>2017-12-29T16:00:00+01:00</date>
         <start>16:00</start>
@@ -5752,7 +5752,7 @@ The Tom Sachs films are often directed by Van Neistat (the brother of the youtub
     </room>
     <room name="Open Infra Stage"/>
     <room name="Kidspace">
-      <event id="1000" guid="53d056a4-aeb6-4814-ace4-a8a60345340d">
+      <event id="1001" guid="53d056a4-aeb6-4814-ace4-a8a60345340d">
         <logo/>
         <date>2017-12-29T16:00:00+01:00</date>
         <start>16:00</start>
@@ -5806,7 +5806,7 @@ Ich freue mich auf viele motivierte Kinder ;o)</description>
           <link>https://events.ccc.de/congress/2017/wiki/index.php/Session:%22Pen%26Paper%22_Game_Jam</link>
         </links>
       </event>
-      <event id="1319" guid="e9d483fc-b4fa-4712-b174-5b58321544cf">
+      <event id="1320" guid="e9d483fc-b4fa-4712-b174-5b58321544cf">
         <logo/>
         <date>2017-12-29T13:00:00+01:00</date>
         <start>13:00</start>
@@ -5853,7 +5853,7 @@ Der @dondario bringt Siebdruck zum @C3Kidspace Rocket Drucken mit. Sagt ihr mal 
           <link>https://events.ccc.de/congress/2017/wiki/index.php/Session:Delta_Chat</link>
         </links>
       </event>
-      <event id="1309" guid="85c61d7b-9a09-4a90-bae4-6959586f5744">
+      <event id="1310" guid="85c61d7b-9a09-4a90-bae4-6959586f5744">
         <logo/>
         <date>2017-12-29T16:00:00+01:00</date>
         <start>16:00</start>
@@ -5940,7 +5940,7 @@ Mach mit und werde Teil unserer Enzyklopädie.</description>
           <link>https://events.ccc.de/congress/2017/wiki/index.php/Session:Feedback!_Marshall_McLuhan_and_the_Congress</link>
         </links>
       </event>
-      <event id="1140" guid="83fcbf78-e721-4570-ab1b-678cb03edf73">
+      <event id="1141" guid="83fcbf78-e721-4570-ab1b-678cb03edf73">
         <logo/>
         <date>2017-12-29T13:00:00+01:00</date>
         <start>13:00</start>
@@ -5962,7 +5962,7 @@ Mach mit und werde Teil unserer Enzyklopädie.</description>
           <link>https://events.ccc.de/congress/2017/wiki/index.php/Session:Gentoo_e.V._Mitgliederversammlung</link>
         </links>
       </event>
-      <event id="1175" guid="500619ce-3e7f-4c8b-b458-8181952ec38a">
+      <event id="1176" guid="500619ce-3e7f-4c8b-b458-8181952ec38a">
         <logo/>
         <date>2017-12-29T19:00:00+01:00</date>
         <start>19:00</start>
@@ -5985,7 +5985,7 @@ Gathering can continue in the party area ;)</description>
           <link>https://events.ccc.de/congress/2017/wiki/index.php/Session:IT-Security_Meetup</link>
         </links>
       </event>
-      <event id="1217" guid="0d5446c8-3e00-4936-a635-f054adfb177a">
+      <event id="1218" guid="0d5446c8-3e00-4936-a635-f054adfb177a">
         <logo/>
         <date>2017-12-29T17:00:00+01:00</date>
         <start>17:00</start>
@@ -6006,7 +6006,7 @@ Gathering can continue in the party area ;)</description>
           <link>https://events.ccc.de/congress/2017/wiki/index.php/Session:Let%27s_hack_words</link>
         </links>
       </event>
-      <event id="1252" guid="fc0879a9-4dd5-4965-8d39-59d916c985b6">
+      <event id="1253" guid="fc0879a9-4dd5-4965-8d39-59d916c985b6">
         <logo/>
         <date>2017-12-29T18:00:00+01:00</date>
         <start>18:00</start>
@@ -6028,7 +6028,7 @@ Gathering can continue in the party area ;)</description>
           <link>https://events.ccc.de/congress/2017/wiki/index.php/Session:Nextcloud_Dev_Q%26A</link>
         </links>
       </event>
-      <event id="1270" guid="7b304f74-bdf9-576b-970c-920e8adcea4f">
+      <event id="1271" guid="7b304f74-bdf9-576b-970c-920e8adcea4f">
         <logo/>
         <date>2017-12-29T16:00:00+01:00</date>
         <start>16:00</start>
@@ -6050,7 +6050,7 @@ Gathering can continue in the party area ;)</description>
           <link>https://events.ccc.de/congress/2017/wiki/index.php/Session:Polyamory_-_Toolbox</link>
         </links>
       </event>
-      <event id="1351" guid="044193f8-1a18-441d-acba-2d4e32159a4a">
+      <event id="1352" guid="044193f8-1a18-441d-acba-2d4e32159a4a">
         <logo/>
         <date>2017-12-29T15:00:00+01:00</date>
         <start>15:00</start>
@@ -6071,7 +6071,7 @@ Gathering can continue in the party area ;)</description>
           <link>https://events.ccc.de/congress/2017/wiki/index.php/Session:The_Human_Rights_Footprint_of_Electronics</link>
         </links>
       </event>
-      <event id="1367" guid="b2d06017-ccdc-4772-bfb8-247b29bfa3b8">
+      <event id="1368" guid="b2d06017-ccdc-4772-bfb8-247b29bfa3b8">
         <logo/>
         <date>2017-12-29T14:00:00+01:00</date>
         <start>14:00</start>
@@ -6092,7 +6092,7 @@ Gathering can continue in the party area ;)</description>
           <link>https://events.ccc.de/congress/2017/wiki/index.php/Session:Tuwat!_gegen_Fake_News</link>
         </links>
       </event>
-      <event id="1393" guid="c6c07046-00a5-4f1e-96b3-2b02d30d154d">
+      <event id="1394" guid="c6c07046-00a5-4f1e-96b3-2b02d30d154d">
         <logo/>
         <date>2017-12-29T21:00:00+01:00</date>
         <start>21:00</start>
@@ -6115,7 +6115,7 @@ Gathering can continue in the party area ;)</description>
       </event>
     </room>
     <room name="Komona BIKINI">
-      <event id="1321" guid="dbad8017-1e66-4163-bf58-8b79076dc647">
+      <event id="1322" guid="dbad8017-1e66-4163-bf58-8b79076dc647">
         <logo/>
         <date>2017-12-29T16:00:00+01:00</date>
         <start>16:00</start>
@@ -6159,7 +6159,7 @@ Mach mit und besuche uns am 29.12.2017 von 16-22h im BIKINI/Blue Princess von Ko
           <link>https://events.ccc.de/congress/2017/wiki/index.php/Session:Deanonymization_and_Author_Recognition_with_Digital_Humanities-Tools</link>
         </links>
       </event>
-      <event id="1135" guid="a6283a1b-6e2f-587c-94d3-c8766c56d6f6">
+      <event id="1136" guid="a6283a1b-6e2f-587c-94d3-c8766c56d6f6">
         <logo/>
         <date>2017-12-29T15:00:00+01:00</date>
         <start>15:00</start>
@@ -6181,7 +6181,7 @@ Mach mit und besuche uns am 29.12.2017 von 16-22h im BIKINI/Blue Princess von Ko
           <link>https://events.ccc.de/congress/2017/wiki/index.php/Session:FragDenStaat-User-Treffen</link>
         </links>
       </event>
-      <event id="1171" guid="687e161b-8d94-5b1c-8915-bd921f8b0475">
+      <event id="1172" guid="687e161b-8d94-5b1c-8915-bd921f8b0475">
         <logo/>
         <date>2017-12-29T16:00:00+01:00</date>
         <start>16:00</start>
@@ -6203,7 +6203,7 @@ Mach mit und besuche uns am 29.12.2017 von 16-22h im BIKINI/Blue Princess von Ko
           <link>https://events.ccc.de/congress/2017/wiki/index.php/Session:Howto_Let%27s_Play</link>
         </links>
       </event>
-      <event id="1179" guid="04838098-b90c-54cf-ae82-e86cbdf2f708">
+      <event id="1180" guid="04838098-b90c-54cf-ae82-e86cbdf2f708">
         <logo/>
         <date>2017-12-29T20:00:00+01:00</date>
         <start>20:00</start>
@@ -6226,7 +6226,7 @@ Internals, Data models, APIs.</description>
           <link>https://events.ccc.de/congress/2017/wiki/index.php/Session:Infrastructure_of_Wikidata</link>
         </links>
       </event>
-      <event id="1190" guid="95d4a092-e0a5-5219-b11a-2c413a249d11">
+      <event id="1191" guid="95d4a092-e0a5-5219-b11a-2c413a249d11">
         <logo/>
         <date>2017-12-29T17:00:00+01:00</date>
         <start>17:00</start>
@@ -6247,7 +6247,7 @@ Internals, Data models, APIs.</description>
           <link>https://events.ccc.de/congress/2017/wiki/index.php/Session:Introduction_to_Wikidata</link>
         </links>
       </event>
-      <event id="1238" guid="15031e14-a6cb-4612-b7cf-d3472505028d">
+      <event id="1239" guid="15031e14-a6cb-4612-b7cf-d3472505028d">
         <logo/>
         <date>2017-12-29T12:00:00+01:00</date>
         <start>12:00</start>
@@ -6268,7 +6268,7 @@ Internals, Data models, APIs.</description>
           <link>https://events.ccc.de/congress/2017/wiki/index.php/Session:Meetup:_hack_your_library</link>
         </links>
       </event>
-      <event id="1263" guid="1660fdf4-e71d-403d-af93-4e95bf75c911">
+      <event id="1264" guid="1660fdf4-e71d-403d-af93-4e95bf75c911">
         <logo/>
         <date>2017-12-29T21:00:00+01:00</date>
         <start>21:00</start>
@@ -6287,7 +6287,7 @@ Internals, Data models, APIs.</description>
           <link>https://events.ccc.de/congress/2017/wiki/index.php/Session:Operation_Mindfuck</link>
         </links>
       </event>
-      <event id="1281" guid="a547ca07-306b-5214-bcab-5e84fa18505c">
+      <event id="1282" guid="a547ca07-306b-5214-bcab-5e84fa18505c">
         <logo/>
         <date>2017-12-29T18:00:00+01:00</date>
         <start>18:00</start>
@@ -6310,7 +6310,7 @@ Internals, Data models, APIs.</description>
           <link>https://events.ccc.de/congress/2017/wiki/index.php/Session:Query_Wikidata_in_SPARQL</link>
         </links>
       </event>
-      <event id="1290" guid="bb1c51dc-16f6-5e01-94e2-7123b6f8eb3b">
+      <event id="1291" guid="bb1c51dc-16f6-5e01-94e2-7123b6f8eb3b">
         <logo/>
         <date>2017-12-29T19:00:00+01:00</date>
         <start>19:00</start>
@@ -6335,7 +6335,7 @@ Internals, Data models, APIs.</description>
   </day>
   <day date="2017-12-30" index="4" end="2017-12-30T23:00:00+01:00" start="2017-12-30T06:00:00+01:00">
     <room name="Komona Coral Reef">
-      <event id="1220" guid="a3026239-aef4-4d20-bdc5-003bfbbff970">
+      <event id="1221" guid="a3026239-aef4-4d20-bdc5-003bfbbff970">
         <logo/>
         <date>2017-12-30T12:00:00+01:00</date>
         <start>12:00</start>
@@ -6402,7 +6402,7 @@ Learn the legal frame of self defence in Germany/Switzerland, the communication 
           <link>https://events.ccc.de/congress/2017/wiki/index.php/Session:Can%27t_touch_this_2:_Introduction_and_more_about_self_defense_and_communication_for_humans</link>
         </links>
       </event>
-      <event id="1152" guid="c44ea15b-230e-468d-b6cb-6f1cf3aa165b">
+      <event id="1153" guid="c44ea15b-230e-468d-b6cb-6f1cf3aa165b">
         <logo/>
         <date>2017-12-30T16:00:00+01:00</date>
         <start>16:00</start>
@@ -6445,7 +6445,7 @@ Learn the legal frame of self defence in Germany/Switzerland, the communication 
           <link>https://events.ccc.de/congress/2017/wiki/index.php/Session:KinkyGeeks_Bondage_Workshop</link>
         </links>
       </event>
-      <event id="1329" guid="79df79a6-96a9-42ba-83c6-c9f3db9cead3">
+      <event id="1330" guid="79df79a6-96a9-42ba-83c6-c9f3db9cead3">
         <logo/>
         <date>2017-12-30T10:30:00+01:00</date>
         <start>10:30</start>
@@ -6514,7 +6514,7 @@ Wir machen hier ein kleines alternativ nerdiges Workout. ;)</description>
           <link>https://events.ccc.de/congress/2017/wiki/index.php/Session:Ethereum%27s_WHG_Tells_All:_The_DAO_Hack,_Parity_Hack_and_Giveth</link>
         </links>
       </event>
-      <event id="1142" guid="ea42e0f6-0320-4c0e-b8c4-db01151ce6b4">
+      <event id="1143" guid="ea42e0f6-0320-4c0e-b8c4-db01151ce6b4">
         <logo/>
         <date>2017-12-30T18:00:00+01:00</date>
         <start>18:00</start>
@@ -6534,7 +6534,7 @@ Wir machen hier ein kleines alternativ nerdiges Workout. ;)</description>
           <link>https://events.ccc.de/congress/2017/wiki/index.php/Session:Giveth:_Decentralizing_the_Non-Profit_World</link>
         </links>
       </event>
-      <event id="1145" guid="c067e7ad-268e-455d-9991-01c905b74655">
+      <event id="1146" guid="c067e7ad-268e-455d-9991-01c905b74655">
         <logo/>
         <date>2017-12-30T13:30:00+01:00</date>
         <start>13:30</start>
@@ -6554,7 +6554,7 @@ Wir machen hier ein kleines alternativ nerdiges Workout. ;)</description>
           <link>https://events.ccc.de/congress/2017/wiki/index.php/Session:Hacking_Sovereignty_in_Catalonia;_1st_Step:_Decentralized_Infrastructure</link>
         </links>
       </event>
-      <event id="1160" guid="91c9f0f3-6e1f-4425-bc51-8aa2de19ef9e">
+      <event id="1161" guid="91c9f0f3-6e1f-4425-bc51-8aa2de19ef9e">
         <logo/>
         <date>2017-12-30T15:15:00+01:00</date>
         <start>15:15</start>
@@ -6578,7 +6578,7 @@ Auf dem 34C3 machen wir einen Rückblick über das Jahr und den Kongress und wag
           <link>https://events.ccc.de/congress/2017/wiki/index.php/Session:Honigdachs-Podcast_LIVE</link>
         </links>
       </event>
-      <event id="1229" guid="ad184c88-5ce6-4474-b31e-e9fd307e64e4">
+      <event id="1230" guid="ad184c88-5ce6-4474-b31e-e9fd307e64e4">
         <logo/>
         <date>2017-12-30T14:00:00+01:00</date>
         <start>14:00</start>
@@ -6601,7 +6601,7 @@ Instead of answering these questions directly, we will answer them and more, by 
           <link>https://events.ccc.de/congress/2017/wiki/index.php/Session:Magic_Internet_Money</link>
         </links>
       </event>
-      <event id="1315" guid="d5db7ed9-fb20-454a-b542-cee73c2dc88b">
+      <event id="1316" guid="d5db7ed9-fb20-454a-b542-cee73c2dc88b">
         <logo/>
         <date>2017-12-30T13:00:00+01:00</date>
         <start>13:00</start>
@@ -6673,7 +6673,7 @@ Folgende Themen möchten wir behandeln: Entwicklung, Fork/Vertrauen und Untersch
           <link>https://events.ccc.de/congress/2017/wiki/index.php/Session:Einf%C3%BChrung_in_Blockchain</link>
         </links>
       </event>
-      <event id="1177" guid="b9d21e1c-290d-4614-8d78-42f65d974ec8">
+      <event id="1178" guid="b9d21e1c-290d-4614-8d78-42f65d974ec8">
         <logo/>
         <date>2017-12-30T12:30:00+01:00</date>
         <start>12:30</start>
@@ -6721,7 +6721,7 @@ The goal of this hands-on session is to pass on knowledge about protecting yours
       </event>
     </room>
     <room name="CCL Hall 3">
-      <event id="1300" guid="3402fbf1-545c-4b4f-abf3-7fa4afbfed9f">
+      <event id="1297" guid="3402fbf1-545c-4b4f-abf3-7fa4afbfed9f">
         <logo/>
         <date>2017-12-30T14:00:00+01:00</date>
         <start>14:00</start>
@@ -6802,7 +6802,7 @@ The goal of this hands-on session is to pass on knowledge about protecting yours
           <link>https://events.ccc.de/congress/2017/wiki/index.php/Session:DHCP_Anonymity</link>
         </links>
       </event>
-      <event id="1136" guid="79dea198-50c1-471f-93b0-736bbe0c1f15">
+      <event id="1137" guid="79dea198-50c1-471f-93b0-736bbe0c1f15">
         <logo/>
         <date>2017-12-30T14:00:00+01:00</date>
         <start>14:00</start>
@@ -6821,7 +6821,7 @@ The goal of this hands-on session is to pass on knowledge about protecting yours
           <link>https://events.ccc.de/congress/2017/wiki/index.php/Session:Freedom,_Software_and_UserExperience_in_selforganised_housing_Projects</link>
         </links>
       </event>
-      <event id="1166" guid="e8c7105d-a71d-4930-a09f-a934a25cd6da">
+      <event id="1167" guid="e8c7105d-a71d-4930-a09f-a934a25cd6da">
         <logo/>
         <date>2017-12-30T18:00:00+01:00</date>
         <start>18:00</start>
@@ -6841,7 +6841,7 @@ First, i will give you an overview on all the important parts of a sound system 
           <link>https://events.ccc.de/congress/2017/wiki/index.php/Session:How_to_build_a_mobile_soundsystem_for_protests/raves</link>
         </links>
       </event>
-      <event id="1193" guid="8055aa7b-bb1a-4105-b576-c1511a420168">
+      <event id="1194" guid="8055aa7b-bb1a-4105-b576-c1511a420168">
         <logo/>
         <date>2017-12-30T16:00:00+01:00</date>
         <start>16:00</start>
@@ -6863,7 +6863,7 @@ First, i will give you an overview on all the important parts of a sound system 
           <link>https://events.ccc.de/congress/2017/wiki/index.php/Session:Join_a_Task_Force_for_Civil_Coexistence,_Preventive_Justice_and_Liquid_Democracy</link>
         </links>
       </event>
-      <event id="1333" guid="4539bbbe-bd6a-4baf-8322-3ed0eefbbd70">
+      <event id="1334" guid="4539bbbe-bd6a-4baf-8322-3ed0eefbbd70">
         <logo/>
         <date>2017-12-30T20:00:00+01:00</date>
         <start>20:00</start>
@@ -6933,7 +6933,7 @@ Der Vortrag dauert etwa 60min und wurde schon oft von mir gehalten. Im Anschluss
           <link>https://events.ccc.de/congress/2017/wiki/index.php/Session:Ecohackerfarm_a_cross_between_hackbase/hackerspace_and_permaculture_farm</link>
         </links>
       </event>
-      <event id="1230" guid="32edc79a-9fe4-4713-b29e-42e91ec3e233">
+      <event id="1231" guid="32edc79a-9fe4-4713-b29e-42e91ec3e233">
         <logo/>
         <date>2017-12-30T12:00:00+01:00</date>
         <start>12:00</start>
@@ -6955,7 +6955,7 @@ Der Vortrag dauert etwa 60min und wurde schon oft von mir gehalten. Im Anschluss
           <link>https://events.ccc.de/congress/2017/wiki/index.php/Session:Make_Mass_Surveillance_Impossible_Again</link>
         </links>
       </event>
-      <event id="1350" guid="afd17345-39e2-44ad-b303-a6595f78ac08">
+      <event id="1351" guid="afd17345-39e2-44ad-b303-a6595f78ac08">
         <logo/>
         <date>2017-12-30T14:00:00+01:00</date>
         <start>14:00</start>
@@ -6998,7 +6998,7 @@ Der Vortrag dauert etwa 60min und wurde schon oft von mir gehalten. Im Anschluss
           <link>https://events.ccc.de/congress/2017/wiki/index.php/Session:Biomimikry_-_von_komplexen_Systemen_und_Deepfakes</link>
         </links>
       </event>
-      <event id="1154" guid="9a0eb54a-058d-4d1b-93c2-d6d95ff295d1">
+      <event id="1155" guid="9a0eb54a-058d-4d1b-93c2-d6d95ff295d1">
         <logo/>
         <date>2017-12-30T14:00:00+01:00</date>
         <start>14:00</start>
@@ -7017,7 +7017,7 @@ Der Vortrag dauert etwa 60min und wurde schon oft von mir gehalten. Im Anschluss
           <link>https://events.ccc.de/congress/2017/wiki/index.php/Session:Hedonist_International_Networking_Meeting_%26_Workshop_for_2018s_Congress_Convoy_(All_Interested_Creatures_welcome!)</link>
         </links>
       </event>
-      <event id="1282" guid="cd37d0ce-53a0-437d-bd22-f953f964d943">
+      <event id="1283" guid="cd37d0ce-53a0-437d-bd22-f953f964d943">
         <logo/>
         <date>2017-12-30T18:00:00+01:00</date>
         <start>18:00</start>
@@ -7039,7 +7039,7 @@ Der Vortrag dauert etwa 60min und wurde schon oft von mir gehalten. Im Anschluss
     </room>
     <room name="Open Infra Stage"/>
     <room name="Kidspace">
-      <event id="1000" guid="53d056a4-aeb6-4814-ace4-a8a60345340d">
+      <event id="1001" guid="53d056a4-aeb6-4814-ace4-a8a60345340d">
         <logo/>
         <date>2017-12-30T11:00:00+01:00</date>
         <start>11:00</start>
@@ -7134,7 +7134,7 @@ Ich freue mich auf viele motivierte Kinder ;o)</description>
           <link>https://events.ccc.de/congress/2017/wiki/index.php/Session:42birds:_Hitchhiker%27s_Towel-Yoga</link>
         </links>
       </event>
-      <event id="1235" guid="615fe582-6437-414e-9346-f1899ea3d1b8">
+      <event id="1236" guid="615fe582-6437-414e-9346-f1899ea3d1b8">
         <logo/>
         <date>2017-12-30T14:00:00+01:00</date>
         <start>14:00</start>
@@ -7155,7 +7155,7 @@ Ich freue mich auf viele motivierte Kinder ;o)</description>
       </event>
     </room>
     <room name="Esszimmer">
-      <event id="1385" guid="aa57b1e7-8075-59b5-a018-d204e0f32c29">
+      <event id="1386" guid="aa57b1e7-8075-59b5-a018-d204e0f32c29">
         <logo/>
         <date>2017-12-30T14:00:00+01:00</date>
         <start>14:00</start>
@@ -7180,5 +7180,5 @@ Feel free to join us.</description>
       </event>
     </room>
   </day>
-  <version>2017-12-29 11:10</version>
+  <version>2017-12-29 11:20</version>
 </schedule>
