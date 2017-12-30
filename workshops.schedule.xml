@@ -104,7 +104,7 @@ This meeting is mandatory if you want to be a Stagemanager during 34C3.</descrip
     <room name="CCL Hall 3"/>
     <room name="Komona D.Ressrosa"/>
     <room name="Seminar room 14-15">
-      <event id="1035" guid="e54328ce-06f7-5578-bccb-0653404d932e">
+      <event id="1033" guid="e54328ce-06f7-5578-bccb-0653404d932e">
         <logo/>
         <date>2017-12-26T13:00:00+01:00</date>
         <start>13:00</start>
@@ -123,7 +123,7 @@ This meeting is mandatory if you want to be a Stagemanager during 34C3.</descrip
           <link>https://events.ccc.de/congress/2017/wiki/index.php/Session:Angel_Meeting</link>
         </links>
       </event>
-      <event id="1036" guid="3b5cf5d2-7d5d-51ba-8798-dc60e10c8985">
+      <event id="1034" guid="3b5cf5d2-7d5d-51ba-8798-dc60e10c8985">
         <logo/>
         <date>2017-12-26T19:30:00+01:00</date>
         <start>19:30</start>
@@ -142,7 +142,7 @@ This meeting is mandatory if you want to be a Stagemanager during 34C3.</descrip
           <link>https://events.ccc.de/congress/2017/wiki/index.php/Session:Angel_Meeting</link>
         </links>
       </event>
-      <event id="1037" guid="5e7bb2b0-f5ea-598b-9f57-a08f05420984">
+      <event id="1035" guid="5e7bb2b0-f5ea-598b-9f57-a08f05420984">
         <logo/>
         <date>2017-12-26T20:15:00+01:00</date>
         <start>20:15</start>
@@ -1156,7 +1156,26 @@ the example of Thunderbird.</description>
       </event>
     </room>
     <room name="Seminar room 14-15">
-      <event id="1032" guid="579eab72-fbd6-5ba7-ad7a-59bcab0272ad">
+      <event id="1032" guid="a7083f65-5e8b-52cb-b008-af59762bb115">
+        <logo/>
+        <date>2017-12-27T17:15:00+01:00</date>
+        <start>17:15</start>
+        <duration>0:45</duration>
+        <room>Seminar room 14-15</room>
+        <slug/>
+        <title>Angel Meeting</title>
+        <subtitle>Introduction meeting for new angels Day 1</subtitle>
+        <track>self organized sessions</track>
+        <type>meeting</type>
+        <language>en</language>
+        <abstract/>
+        <description>Daily meetings of the Angel crew.</description>
+        <persons/>
+        <links>
+          <link>https://events.ccc.de/congress/2017/wiki/index.php/Session:Angel_Meeting</link>
+        </links>
+      </event>
+      <event id="1036" guid="579eab72-fbd6-5ba7-ad7a-59bcab0272ad">
         <logo/>
         <date>2017-12-27T12:45:00+01:00</date>
         <start>12:45</start>
@@ -1175,7 +1194,7 @@ the example of Thunderbird.</description>
           <link>https://events.ccc.de/congress/2017/wiki/index.php/Session:Angel_Meeting</link>
         </links>
       </event>
-      <event id="1033" guid="a8254a36-ca09-5c68-8e0b-1399b8a94247">
+      <event id="1037" guid="a8254a36-ca09-5c68-8e0b-1399b8a94247">
         <logo/>
         <date>2017-12-27T16:30:00+01:00</date>
         <start>16:30</start>
@@ -1184,25 +1203,6 @@ the example of Thunderbird.</description>
         <slug/>
         <title>Angel Meeting</title>
         <subtitle>Angel meeting Day 1</subtitle>
-        <track>self organized sessions</track>
-        <type>meeting</type>
-        <language>en</language>
-        <abstract/>
-        <description>Daily meetings of the Angel crew.</description>
-        <persons/>
-        <links>
-          <link>https://events.ccc.de/congress/2017/wiki/index.php/Session:Angel_Meeting</link>
-        </links>
-      </event>
-      <event id="1034" guid="a7083f65-5e8b-52cb-b008-af59762bb115">
-        <logo/>
-        <date>2017-12-27T17:15:00+01:00</date>
-        <start>17:15</start>
-        <duration>0:45</duration>
-        <room>Seminar room 14-15</room>
-        <slug/>
-        <title>Angel Meeting</title>
-        <subtitle>Introduction meeting for new angels Day 1</subtitle>
         <track>self organized sessions</track>
         <type>meeting</type>
         <language>en</language>
@@ -1374,7 +1374,7 @@ This Session is about artificial intelligence and its philosophical implications
     </room>
     <room name="Open Infra Stage"/>
     <room name="Kidspace">
-      <event id="1378" guid="d75d1ea5-b3e1-4f52-ad73-3eb0e99b7dea">
+      <event id="1379" guid="d75d1ea5-b3e1-4f52-ad73-3eb0e99b7dea">
         <logo/>
         <date>2017-12-27T13:00:00+01:00</date>
         <start>13:00</start>
@@ -1405,7 +1405,7 @@ Die Webseite ist zusammen mit Trickmisch.de, einer Sprachschule von uns für Ank
     </room>
     <room name="Workshop Area"/>
     <room name="Komona Blue Princess">
-      <event id="1030" guid="604ff957-cc9f-4bde-b138-feae84fa0202">
+      <event id="1031" guid="604ff957-cc9f-4bde-b138-feae84fa0202">
         <logo/>
         <date>2017-12-27T20:00:00+01:00</date>
         <start>20:00</start>
@@ -2161,7 +2161,7 @@ In diesem talk möchte ich grob skizzieren, wie das System funktioniert und wie 
           <link>https://events.ccc.de/congress/2017/wiki/index.php/Session:E-activism_for_NGOs</link>
         </links>
       </event>
-      <event id="1205" guid="07142f3d-b450-4cac-94c7-9bb95f78339b">
+      <event id="1208" guid="07142f3d-b450-4cac-94c7-9bb95f78339b">
         <logo/>
         <date>2017-12-28T15:00:00+01:00</date>
         <start>15:00</start>
@@ -3586,7 +3586,7 @@ Bausätze Löten</description>
           <link>https://events.ccc.de/congress/2017/wiki/index.php/Session:Throwies</link>
         </links>
       </event>
-      <event id="1379" guid="478676ae-916e-4012-9cce-f71ef82aac04">
+      <event id="1378" guid="478676ae-916e-4012-9cce-f71ef82aac04">
         <logo/>
         <date>2017-12-28T12:00:00+01:00</date>
         <start>12:00</start>
@@ -3642,7 +3642,7 @@ The session will open with a general presentation, including data, of how the bi
       </event>
     </room>
     <room name="Komona Blue Princess">
-      <event id="1031" guid="7fb99fd0-8292-45d4-b4bb-43a32faa9549">
+      <event id="1030" guid="7fb99fd0-8292-45d4-b4bb-43a32faa9549">
         <logo/>
         <date>2017-12-28T20:00:00+01:00</date>
         <start>20:00</start>
@@ -4365,15 +4365,15 @@ A trip from CAcert over African Chamas through blockchains to Community</descrip
           <link>https://events.ccc.de/congress/2017/wiki/index.php/Session:Haecksenbreakfast</link>
         </links>
       </event>
-      <event id="1206" guid="2cf16048-946e-4230-8c5a-332826ea14c6">
+      <event id="1205" guid="e3d9d5b4-b35d-4828-b7af-6cdf33b438cf">
         <logo/>
-        <date>2017-12-30T02:30:00+01:00</date>
-        <start>02:30</start>
-        <duration>2:00</duration>
+        <date>2017-12-29T23:59:00+01:00</date>
+        <start>23:59</start>
+        <duration>1:30</duration>
         <room>Lecture room 11</room>
         <slug/>
         <title>KinkyGeeks Bondage Workshop</title>
-        <subtitle>Open Rope Jam</subtitle>
+        <subtitle>Advanced</subtitle>
         <track>self organized sessions</track>
         <type>workshop</type>
         <language>de</language>
@@ -4387,15 +4387,15 @@ A trip from CAcert over African Chamas through blockchains to Community</descrip
           <link>https://events.ccc.de/congress/2017/wiki/index.php/Session:KinkyGeeks_Bondage_Workshop</link>
         </links>
       </event>
-      <event id="1207" guid="e3d9d5b4-b35d-4828-b7af-6cdf33b438cf">
+      <event id="1206" guid="2cf16048-946e-4230-8c5a-332826ea14c6">
         <logo/>
-        <date>2017-12-29T23:59:00+01:00</date>
-        <start>23:59</start>
-        <duration>1:30</duration>
+        <date>2017-12-30T02:30:00+01:00</date>
+        <start>02:30</start>
+        <duration>2:00</duration>
         <room>Lecture room 11</room>
         <slug/>
         <title>KinkyGeeks Bondage Workshop</title>
-        <subtitle>Advanced</subtitle>
+        <subtitle>Open Rope Jam</subtitle>
         <track>self organized sessions</track>
         <type>workshop</type>
         <language>de</language>
@@ -6429,7 +6429,7 @@ Learn the legal frame of self defence in Germany/Switzerland, the communication 
           <link>https://events.ccc.de/congress/2017/wiki/index.php/Session:Healthy_food_hack:_Tasty_food_%3D_Unhealthy_food%3F</link>
         </links>
       </event>
-      <event id="1208" guid="98e116fa-62da-4392-98bd-e3d3b44f4342">
+      <event id="1207" guid="98e116fa-62da-4392-98bd-e3d3b44f4342">
         <logo/>
         <date>2017-12-30T12:00:00+01:00</date>
         <start>12:00</start>
@@ -7437,5 +7437,5 @@ Notes of the session: https://etherpad.wikimedia.org/p/tuwat</description>
       </event>
     </room>
   </day>
-  <version>2017-12-31 00:30</version>
+  <version>2017-12-31 00:40</version>
 </schedule>
