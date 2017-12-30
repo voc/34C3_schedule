@@ -1,5 +1,5 @@
 <schedule>
-  <version>Mildenberg 2017-12-30 11:00</version>
+  <version>Mildenberg 2017-12-30 11:10</version>
   <base_url>https://fahrplan.events.ccc.de/congress/2017/Fahrplan/</base_url>
   <conference>
     <acronym>34c3</acronym>
@@ -16099,6 +16099,55 @@ Ich freue mich auf viele motivierte Kinder ;o)</description>
         <persons>
           <person id="14">Peggy</person>
           <person id="13">Monic</person>
+        </persons>
+        <links/>
+        <attachments/>
+      </event>
+      <event id="47" guid="0aba4941-a853-4bb6-82e9-b169a892357e">
+        <logo/>
+        <date>2017-12-30T16:00:00+01:00</date>
+        <start>16:00</start>
+        <duration>00:15</duration>
+        <room>Open Infra Stage</room>
+        <slug>34c3-ffc-47-kadnode</slug>
+        <title>KadNode</title>
+        <subtitle/>
+        <track/>
+        <type>lecture</type>
+        <language>en</language>
+        <abstract>KadNode is a simple approach for a decentralized DNS system that builds on top of the established Public Key Infrastructure (PKI),&#13;
+but can also use public keys and content hashes as links.</abstract>
+        <description>KadNode is a P2P DNS resolver for decentralized DNS.</description>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+          <person id="24">mwarning</person>
+        </persons>
+        <links/>
+        <attachments/>
+      </event>
+      <event id="48" guid="d5afa965-4bfb-4d28-8ff9-ad5eef4bec3e">
+        <logo/>
+        <date>2017-12-30T16:15:00+01:00</date>
+        <start>16:15</start>
+        <duration>00:45</duration>
+        <room>Open Infra Stage</room>
+        <slug>34c3-ffc-48-freifunk_battlemesh</slug>
+        <title>Freifunk Battlemesh</title>
+        <subtitle>gamification show</subtitle>
+        <track/>
+        <type>performance</type>
+        <language>en</language>
+        <abstract/>
+        <description>we will have two teams with each up to 5 players (and aditionally their relative assisants) with wifi mesh nodes, to fight in teams to get first mesh contact to a far distance computer systems, just like the fairy dust skyrocket or the next dancefloor.</description>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+          <person id="66">Ufo</person>
         </persons>
         <links/>
         <attachments/>

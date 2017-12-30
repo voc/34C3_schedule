@@ -1,6 +1,6 @@
 {
     "schedule": {
-        "version": "Mildenberg 2017-12-30 11:00", 
+        "version": "Mildenberg 2017-12-30 11:10", 
         "base_url": "https://fahrplan.events.ccc.de/congress/2017/Fahrplan/", 
         "conference": {
             "acronym": "34c3", 
@@ -18357,6 +18357,60 @@
                                     {
                                         "id": 13, 
                                         "public_name": "Monic"
+                                    }
+                                ], 
+                                "links": [], 
+                                "attachments": []
+                            }, 
+                            {
+                                "id": 47, 
+                                "guid": "0aba4941-a853-4bb6-82e9-b169a892357e", 
+                                "logo": null, 
+                                "date": "2017-12-30T16:00:00+01:00", 
+                                "start": "16:00", 
+                                "duration": "00:15", 
+                                "room": "Open Infra Stage", 
+                                "slug": "34c3-ffc-47-kadnode", 
+                                "title": "KadNode", 
+                                "subtitle": "", 
+                                "track": null, 
+                                "type": "lecture", 
+                                "language": "en", 
+                                "abstract": "KadNode is a simple approach for a decentralized DNS system that builds on top of the established Public Key Infrastructure (PKI),\r\nbut can also use public keys and content hashes as links.", 
+                                "description": "KadNode is a P2P DNS resolver for decentralized DNS.", 
+                                "recording_license": "", 
+                                "do_not_record": false, 
+                                "persons": [
+                                    {
+                                        "id": 24, 
+                                        "public_name": "mwarning"
+                                    }
+                                ], 
+                                "links": [], 
+                                "attachments": []
+                            }, 
+                            {
+                                "id": 48, 
+                                "guid": "d5afa965-4bfb-4d28-8ff9-ad5eef4bec3e", 
+                                "logo": null, 
+                                "date": "2017-12-30T16:15:00+01:00", 
+                                "start": "16:15", 
+                                "duration": "00:45", 
+                                "room": "Open Infra Stage", 
+                                "slug": "34c3-ffc-48-freifunk_battlemesh", 
+                                "title": "Freifunk Battlemesh", 
+                                "subtitle": "gamification show", 
+                                "track": null, 
+                                "type": "performance", 
+                                "language": "en", 
+                                "abstract": "", 
+                                "description": "we will have two teams with each up to 5 players (and aditionally their relative assisants) with wifi mesh nodes, to fight in teams to get first mesh contact to a far distance computer systems, just like the fairy dust skyrocket or the next dancefloor.", 
+                                "recording_license": "", 
+                                "do_not_record": false, 
+                                "persons": [
+                                    {
+                                        "id": 66, 
+                                        "public_name": "Ufo"
                                     }
                                 ], 
                                 "links": [], 
