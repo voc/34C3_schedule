@@ -1,23 +1,25 @@
 {
-    "Session:Anarchist Aseembly of the Anarchist Assembly# 852ddd9f7dc093a2cbcf76a99350fcf8": {
+    "Session:Lehrerstammtisch VR# 8148e82733b1a7a7bf77c6523e43ce1f": {
         "Held in language": [
-            "en - English"
+            "de - German"
         ], 
         "Has start time": [
-            "1514660400"
+            "1514577600"
         ], 
         "Has event track": [
             "Session"
         ], 
         "Has website": [], 
         "Has description": [
-            "We will meet to discuss about these days during 34c3 and what we need for the (no)future"
+            "Is virtual reality the future of education? Come and find out! (Session is for Teachers/Educators)"
         ], 
-        "Has session type": [], 
+        "Has session type": [
+            "Hands-On"
+        ], 
         "Has session location": [
             {
-                "fulltext": "Assembly:Anarchist", 
-                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Assembly:Anarchist", 
+                "fulltext": "Assembly:VR", 
+                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Assembly:VR", 
                 "namespace": 504, 
                 "exists": true
             }
@@ -25,34 +27,24 @@
         "Has subtitle": [], 
         "Is organized by": [
             {
-                "fulltext": "User:Rama", 
-                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/User:Rama", 
-                "namespace": 2, 
-                "exists": true
-            }, 
-            {
-                "fulltext": "User:Maxigas", 
-                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/User:Maxigas", 
+                "fulltext": "User:Gigo", 
+                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/User:Gigo", 
                 "namespace": 2, 
                 "exists": true
             }
         ], 
         "Has title": [
-            "Anarchist Aseembly of the Anarchist Assembly"
+            "Lehrerstammtisch VR"
         ], 
-        "Has duration": [
-            60
-        ], 
+        "Has duration": [], 
         "GUID": [
-            "0fa827b9-21f0-48c5-879a-25346b477147"
+            "0b3eea51-3657-46d5-84b0-1f2fa0cf45b1"
         ], 
         "Has color": [
             "#0099ab"
         ], 
-        "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:Anarchist_Aseembly_of_the_Anarchist_Assembly", 
-        "Has end time": [
-            "1514664000"
-        ]
+        "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:Lehrerstammtisch_VR", 
+        "Has end time": []
     }, 
     "Session:Hacking with wget# 68066760b7c9155486b3ca3bfd2ea9fc": {
         "Held in language": [
@@ -142,53 +134,6 @@
         "Has end time": [
             "1514397600"
         ]
-    }, 
-    "Session:Lehrerstammtisch VR# 8148e82733b1a7a7bf77c6523e43ce1f": {
-        "Held in language": [
-            "de - German"
-        ], 
-        "Has start time": [
-            "1514577600"
-        ], 
-        "Has event track": [
-            "Session"
-        ], 
-        "Has website": [], 
-        "Has description": [
-            "Is virtual reality the future of education? Come and find out! (Session is for Teachers/Educators)"
-        ], 
-        "Has session type": [
-            "Hands-On"
-        ], 
-        "Has session location": [
-            {
-                "fulltext": "Assembly:VR", 
-                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Assembly:VR", 
-                "namespace": 504, 
-                "exists": true
-            }
-        ], 
-        "Has subtitle": [], 
-        "Is organized by": [
-            {
-                "fulltext": "User:Gigo", 
-                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/User:Gigo", 
-                "namespace": 2, 
-                "exists": true
-            }
-        ], 
-        "Has title": [
-            "Lehrerstammtisch VR"
-        ], 
-        "Has duration": [], 
-        "GUID": [
-            "0b3eea51-3657-46d5-84b0-1f2fa0cf45b1"
-        ], 
-        "Has color": [
-            "#0099ab"
-        ], 
-        "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:Lehrerstammtisch_VR", 
-        "Has end time": []
     }, 
     "Session:KinkyGeeks Bondage Workshop# 0c08ad498adc7bf885aa2ec72c632cc5": {
         "Held in language": [
@@ -2661,7 +2606,7 @@
     }, 
     "Session:How to be excellent to each other - a discussion# ba103e86104a8b96d3ae330879ca15fb": {
         "Held in language": [
-            "de - German"
+            "eu - Basque"
         ], 
         "Has start time": [
             "1514635200"
@@ -2670,7 +2615,9 @@
             "Session"
         ], 
         "Has website": [], 
-        "Has description": [], 
+        "Has description": [
+            "An open discussion on how to improve diversity at c3 events and on dealing with cases of harassment."
+        ], 
         "Has session type": [
             "Discussion"
         ], 
@@ -4088,55 +4035,51 @@
             "1514409300"
         ]
     }, 
-    "Session:Faith in mathematics (Wondrous Mathematics)# a088dd9c036046ce5ae7685bcc6f2842": {
+    "Session:Rights&Freedoms# f7e9bee8a00f1bf00988106eb108e45e": {
         "Held in language": [
+            "de - German", 
             "en - English"
         ], 
         "Has start time": [
-            "1514547000"
+            "1514466000"
         ], 
         "Has event track": [
             "Session"
         ], 
         "Has website": [], 
         "Has description": [
-            "Since G\u00f6del's celebrated work we know: The rules of mathematics are incomplete. There are true statements for which we have proof that they don't have a proof and there are statements for which we can arbitrarily decide whether they are true or not. Learn more about this curious state of affairs in the session!"
+            "Rights & Freedoms Cluster Stage Programme"
         ], 
         "Has session type": [
             "Talk"
         ], 
         "Has session location": [
             {
-                "fulltext": "Room:Lecture room 12", 
-                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Room:Lecture_room_12", 
+                "fulltext": "Room:CCL Hall 3", 
+                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Room:CCL_Hall_3", 
                 "namespace": 516, 
                 "exists": true
             }
         ], 
-        "Has subtitle": [], 
-        "Is organized by": [
-            {
-                "fulltext": "User:IngoBlechschmidt", 
-                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/User:IngoBlechschmidt", 
-                "namespace": 2, 
-                "exists": true
-            }
+        "Has subtitle": [
+            "Take e-voting away from Europe (Hermes Center)"
         ], 
+        "Is organized by": [], 
         "Has title": [
-            "Faith in mathematics (Wondrous Mathematics)"
+            "Rights&Freedoms"
         ], 
         "Has duration": [
             60
         ], 
         "GUID": [
-            "f8c99603-0459-4199-af0e-18a5c6c8528c"
+            "cb719734-0650-4539-928a-ac4577eb588c"
         ], 
         "Has color": [
             "#0099ab"
         ], 
-        "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:Faith_in_mathematics_(Wondrous_Mathematics)", 
+        "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:Rights%26Freedoms", 
         "Has end time": [
-            "1514550600"
+            "1514469600"
         ]
     }, 
     "Session:Klangteppich# e3ae1cc334d20a23349a7303e72a0c3a": {
@@ -6661,6 +6604,56 @@
         "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:Giveth:_Decentralizing_the_Non-Profit_World", 
         "Has end time": [
             "1514655000"
+        ]
+    }, 
+    "Session:Anarchist Aseembly of the Anarchist Assembly# 863109338e6e5ca4ca0a303daceaf968": {
+        "Held in language": [
+            "en - English"
+        ], 
+        "Has start time": [
+            "1514651400"
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [], 
+        "Has description": [
+            "We will meet to discuss about these days during 34c3 and what we need for the (no)future"
+        ], 
+        "Has session type": [], 
+        "Has session location": [], 
+        "Has subtitle": [
+            "First meeting, same topics, partly different people"
+        ], 
+        "Is organized by": [
+            {
+                "fulltext": "User:Rama", 
+                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/User:Rama", 
+                "namespace": 2, 
+                "exists": true
+            }, 
+            {
+                "fulltext": "User:Maxigas", 
+                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/User:Maxigas", 
+                "namespace": 2, 
+                "exists": true
+            }
+        ], 
+        "Has title": [
+            "Anarchist Aseembly of the Anarchist Assembly"
+        ], 
+        "Has duration": [
+            30
+        ], 
+        "GUID": [
+            "31286d98-3223-48a9-ad2d-c3cdb820be44"
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:Anarchist_Aseembly_of_the_Anarchist_Assembly", 
+        "Has end time": [
+            "1514653200"
         ]
     }, 
     "Session:Sticker meet up# b376af90c0928260c3a85b18cd23c1b7": {
@@ -18222,6 +18215,63 @@
             "1514651400"
         ]
     }, 
+    "Session:Anarchist Aseembly of the Anarchist Assembly# 4eecd2e1822ab91c138979847e6ab85f": {
+        "Held in language": [
+            "en - English"
+        ], 
+        "Has start time": [
+            "1514660400"
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [], 
+        "Has description": [
+            "We will meet to discuss about these days during 34c3 and what we need for the (no)future"
+        ], 
+        "Has session type": [], 
+        "Has session location": [
+            {
+                "fulltext": "Assembly:Anarchist", 
+                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Assembly:Anarchist", 
+                "namespace": 504, 
+                "exists": true
+            }
+        ], 
+        "Has subtitle": [
+            "Second meeting, same topics, partly different people"
+        ], 
+        "Is organized by": [
+            {
+                "fulltext": "User:Rama", 
+                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/User:Rama", 
+                "namespace": 2, 
+                "exists": true
+            }, 
+            {
+                "fulltext": "User:Maxigas", 
+                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/User:Maxigas", 
+                "namespace": 2, 
+                "exists": true
+            }
+        ], 
+        "Has title": [
+            "Anarchist Aseembly of the Anarchist Assembly"
+        ], 
+        "Has duration": [
+            60
+        ], 
+        "GUID": [
+            "0fa827b9-21f0-48c5-879a-25346b477147"
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:Anarchist_Aseembly_of_the_Anarchist_Assembly", 
+        "Has end time": [
+            "1514664000"
+        ]
+    }, 
     "Session:Hackbases yearly meeting (coliving hackerspace projects)# 145a209c108335b8913eaa6202569dd1": {
         "Held in language": [
             "en - English"
@@ -18366,57 +18416,51 @@
             "1514498400"
         ]
     }, 
-    "Session:Numerical Weather Prediction Tutorial# f6c1e9a8afa8b59448a312ac4b32a14d": {
+    "Session:Rights&Freedoms# fd7a7ff5f5f41b43551c8bf2c3a15530": {
         "Held in language": [
+            "de - German", 
             "en - English"
         ], 
         "Has start time": [
-            "1514455200"
+            "1514390400"
         ], 
         "Has event track": [
             "Session"
         ], 
-        "Has website": [
-            "https://www.hacknology.de/vortrag/2016/wrf/"
-        ], 
+        "Has website": [], 
         "Has description": [
-            "A workshop about running your own Numerical Weather Prediction (NWP) model."
+            "Rights & Freedoms Cluster Stage Programme"
         ], 
         "Has session type": [
-            "Workshop"
+            "Talk"
         ], 
         "Has session location": [
             {
-                "fulltext": "Room:Seminar room 13", 
-                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Room:Seminar_room_13", 
+                "fulltext": "Room:CCL Hall 3", 
+                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Room:CCL_Hall_3", 
                 "namespace": 516, 
                 "exists": true
             }
         ], 
-        "Has subtitle": [], 
-        "Is organized by": [
-            {
-                "fulltext": "User:Tecer", 
-                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/User:Tecer", 
-                "namespace": 2, 
-                "exists": true
-            }
+        "Has subtitle": [
+            "Will the monetary system change? Privacy and Risk implications of digital currencies, and decentralized digital monetary systems (nsb)"
         ], 
+        "Is organized by": [], 
         "Has title": [
-            "Numerical Weather Prediction Tutorial"
+            "Rights&Freedoms"
         ], 
         "Has duration": [
-            180
+            60
         ], 
         "GUID": [
-            "3c6e963d-f1f7-4620-b8da-2e3dad27f51e"
+            "8f90513f-3cf8-4444-8b99-d376d70974c6"
         ], 
         "Has color": [
             "#0099ab"
         ], 
-        "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:Numerical_Weather_Prediction_Tutorial", 
+        "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:Rights%26Freedoms", 
         "Has end time": [
-            "1514466000"
+            "1514394000"
         ]
     }, 
     "Session:Pretty Easy privacy (p\u2261p) for Thunderbird via Enigmail: How it works!# 1e912e5c48c4f4aca7e3c3c862a067bb": {
@@ -19118,57 +19162,44 @@
             "1514390400"
         ]
     }, 
-    "Session:Surface mount electronics assembly for terrified beginners# 6ff33d8db23dd8a5029232b0c4a66bc4": {
-        "Held in language": [
-            "en - English"
-        ], 
+    "Session:Responsible Packaging 2# 8e183b8bde1c1f956f480a34847e8574": {
+        "Held in language": [], 
         "Has start time": [
-            "1514394000"
+            "1514653200"
         ], 
         "Has event track": [
             "Session"
         ], 
         "Has website": [], 
-        "Has description": [
-            "Surface mount electronics for terrified beginners. Learn to assemble tiny parts on circuit boards by building a working power supply. Anyone can do it. Yes, even you who never touched anything electronic before. 90-100mins, 20\u20ac/kit, avoid caffeine immediately before. Max 20 participants per session, there will be a PAPER!!1! signup list in the hardware hacking area."
-        ], 
-        "Has session type": [
-            "Workshop"
-        ], 
+        "Has description": [], 
+        "Has session type": [], 
         "Has session location": [
             {
-                "fulltext": "Assembly:HardwareHackingArea", 
-                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Assembly:HardwareHackingArea", 
-                "namespace": 504, 
+                "fulltext": "Room:Seminar room 14-15", 
+                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Room:Seminar_room_14-15", 
+                "namespace": 516, 
                 "exists": true
             }
         ], 
         "Has subtitle": [
-            "Day 1 Session 3"
+            "round 2"
         ], 
-        "Is organized by": [
-            {
-                "fulltext": "User:Kliment", 
-                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/User:Kliment", 
-                "namespace": 2, 
-                "exists": true
-            }
-        ], 
+        "Is organized by": [], 
         "Has title": [
-            "Surface mount electronics assembly for terrified beginners"
+            "Responsible Packaging 2"
         ], 
         "Has duration": [
-            90
+            120
         ], 
         "GUID": [
-            "7b07e29a-77f7-492d-9633-ed5c0fd10b9a"
+            "18a95191-7874-4d0d-b8ff-674deb135399"
         ], 
         "Has color": [
             "#0099ab"
         ], 
-        "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:Surface_mount_electronics_assembly_for_terrified_beginners", 
+        "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:Responsible_Packaging_2", 
         "Has end time": [
-            "1514399400"
+            "1514660400"
         ]
     }, 
     "Session:TeaHouse# e788e3c0f2254f12fa205f14bcdfcb42": {
@@ -21722,6 +21753,59 @@
             "1514649600"
         ]
     }, 
+    "Session:Surface mount electronics assembly for terrified beginners# 6ff33d8db23dd8a5029232b0c4a66bc4": {
+        "Held in language": [
+            "en - English"
+        ], 
+        "Has start time": [
+            "1514394000"
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [], 
+        "Has description": [
+            "Surface mount electronics for terrified beginners. Learn to assemble tiny parts on circuit boards by building a working power supply. Anyone can do it. Yes, even you who never touched anything electronic before. 90-100mins, 20\u20ac/kit, avoid caffeine immediately before. Max 20 participants per session, there will be a PAPER!!1! signup list in the hardware hacking area."
+        ], 
+        "Has session type": [
+            "Workshop"
+        ], 
+        "Has session location": [
+            {
+                "fulltext": "Assembly:HardwareHackingArea", 
+                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Assembly:HardwareHackingArea", 
+                "namespace": 504, 
+                "exists": true
+            }
+        ], 
+        "Has subtitle": [
+            "Day 1 Session 3"
+        ], 
+        "Is organized by": [
+            {
+                "fulltext": "User:Kliment", 
+                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/User:Kliment", 
+                "namespace": 2, 
+                "exists": true
+            }
+        ], 
+        "Has title": [
+            "Surface mount electronics assembly for terrified beginners"
+        ], 
+        "Has duration": [
+            90
+        ], 
+        "GUID": [
+            "7b07e29a-77f7-492d-9633-ed5c0fd10b9a"
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:Surface_mount_electronics_assembly_for_terrified_beginners", 
+        "Has end time": [
+            "1514399400"
+        ]
+    }, 
     "Session:Warum Trump tickt wie er tickt# 3f124b2c31df85af21a6265823001560": {
         "Held in language": [
             "de - German"
@@ -22206,51 +22290,57 @@
             "1514489400"
         ]
     }, 
-    "Session:Rights&Freedoms# fd7a7ff5f5f41b43551c8bf2c3a15530": {
+    "Session:Numerical Weather Prediction Tutorial# f6c1e9a8afa8b59448a312ac4b32a14d": {
         "Held in language": [
-            "de - German", 
             "en - English"
         ], 
         "Has start time": [
-            "1514390400"
+            "1514455200"
         ], 
         "Has event track": [
             "Session"
         ], 
-        "Has website": [], 
+        "Has website": [
+            "https://www.hacknology.de/vortrag/2016/wrf/"
+        ], 
         "Has description": [
-            "Rights & Freedoms Cluster Stage Programme"
+            "A workshop about running your own Numerical Weather Prediction (NWP) model."
         ], 
         "Has session type": [
-            "Talk"
+            "Workshop"
         ], 
         "Has session location": [
             {
-                "fulltext": "Room:CCL Hall 3", 
-                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Room:CCL_Hall_3", 
+                "fulltext": "Room:Seminar room 13", 
+                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Room:Seminar_room_13", 
                 "namespace": 516, 
                 "exists": true
             }
         ], 
-        "Has subtitle": [
-            "Will the monetary system change? Privacy and Risk implications of digital currencies, and decentralized digital monetary systems (nsb)"
+        "Has subtitle": [], 
+        "Is organized by": [
+            {
+                "fulltext": "User:Tecer", 
+                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/User:Tecer", 
+                "namespace": 2, 
+                "exists": true
+            }
         ], 
-        "Is organized by": [], 
         "Has title": [
-            "Rights&Freedoms"
+            "Numerical Weather Prediction Tutorial"
         ], 
         "Has duration": [
-            60
+            180
         ], 
         "GUID": [
-            "8f90513f-3cf8-4444-8b99-d376d70974c6"
+            "3c6e963d-f1f7-4620-b8da-2e3dad27f51e"
         ], 
         "Has color": [
             "#0099ab"
         ], 
-        "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:Rights%26Freedoms", 
+        "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:Numerical_Weather_Prediction_Tutorial", 
         "Has end time": [
-            "1514394000"
+            "1514466000"
         ]
     }, 
     "Session:\"Pen&Paper\" Game Jam# 33dbda9e61f8c463561dada21f411495": {
@@ -23018,51 +23108,55 @@
             "1514662200"
         ]
     }, 
-    "Session:Rights&Freedoms# f7e9bee8a00f1bf00988106eb108e45e": {
+    "Session:Faith in mathematics (Wondrous Mathematics)# a088dd9c036046ce5ae7685bcc6f2842": {
         "Held in language": [
-            "de - German", 
             "en - English"
         ], 
         "Has start time": [
-            "1514466000"
+            "1514547000"
         ], 
         "Has event track": [
             "Session"
         ], 
         "Has website": [], 
         "Has description": [
-            "Rights & Freedoms Cluster Stage Programme"
+            "Since G\u00f6del's celebrated work we know: The rules of mathematics are incomplete. There are true statements for which we have proof that they don't have a proof and there are statements for which we can arbitrarily decide whether they are true or not. Learn more about this curious state of affairs in the session!"
         ], 
         "Has session type": [
             "Talk"
         ], 
         "Has session location": [
             {
-                "fulltext": "Room:CCL Hall 3", 
-                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Room:CCL_Hall_3", 
+                "fulltext": "Room:Lecture room 12", 
+                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Room:Lecture_room_12", 
                 "namespace": 516, 
                 "exists": true
             }
         ], 
-        "Has subtitle": [
-            "Take e-voting away from Europe (Hermes Center)"
+        "Has subtitle": [], 
+        "Is organized by": [
+            {
+                "fulltext": "User:IngoBlechschmidt", 
+                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/User:IngoBlechschmidt", 
+                "namespace": 2, 
+                "exists": true
+            }
         ], 
-        "Is organized by": [], 
         "Has title": [
-            "Rights&Freedoms"
+            "Faith in mathematics (Wondrous Mathematics)"
         ], 
         "Has duration": [
             60
         ], 
         "GUID": [
-            "cb719734-0650-4539-928a-ac4577eb588c"
+            "f8c99603-0459-4199-af0e-18a5c6c8528c"
         ], 
         "Has color": [
             "#0099ab"
         ], 
-        "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:Rights%26Freedoms", 
+        "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:Faith_in_mathematics_(Wondrous_Mathematics)", 
         "Has end time": [
-            "1514469600"
+            "1514550600"
         ]
     }, 
     "Session:RHIZOM festival: an intro to everything for everyone for nothing# 5f787719ed7e8dc844f7dac831271136": {
