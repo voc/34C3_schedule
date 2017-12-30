@@ -1,5 +1,5 @@
 <schedule>
-  <version>Mildenberg 2017-12-30 08:30</version>
+  <version>Mildenberg 2017-12-30 08:40</version>
   <base_url>https://fahrplan.events.ccc.de/congress/2017/Fahrplan/</base_url>
   <conference>
     <acronym>34c3</acronym>
@@ -1786,7 +1786,7 @@ For a Digitalization supporting freedom and social development, expectations of 
           <link>https://events.ccc.de/congress/2017/wiki/index.php/Session:Tor_relays_operators_meetup</link>
         </links>
       </event>
-      <event id="1372" guid="b5b51e08-260a-5c3d-a507-556103837de6">
+      <event id="1371" guid="b5b51e08-260a-5c3d-a507-556103837de6">
         <logo/>
         <date>2017-12-27T17:00:00+01:00</date>
         <start>17:00</start>
@@ -1807,26 +1807,7 @@ For a Digitalization supporting freedom and social development, expectations of 
       </event>
     </room>
     <room name="Seminar room 14-15">
-      <event id="1031" guid="579eab72-fbd6-5ba7-ad7a-59bcab0272ad">
-        <logo/>
-        <date>2017-12-27T12:45:00+01:00</date>
-        <start>12:45</start>
-        <duration>0:45</duration>
-        <room>Seminar room 14-15</room>
-        <slug/>
-        <title>Angel Meeting</title>
-        <subtitle>Angel meeting Day 1</subtitle>
-        <track>self organized sessions</track>
-        <type>meeting</type>
-        <language>en</language>
-        <abstract/>
-        <description>Daily meetings of the Angel crew.</description>
-        <persons/>
-        <links>
-          <link>https://events.ccc.de/congress/2017/wiki/index.php/Session:Angel_Meeting</link>
-        </links>
-      </event>
-      <event id="1032" guid="a8254a36-ca09-5c68-8e0b-1399b8a94247">
+      <event id="1031" guid="a8254a36-ca09-5c68-8e0b-1399b8a94247">
         <logo/>
         <date>2017-12-27T16:30:00+01:00</date>
         <start>16:30</start>
@@ -1845,7 +1826,7 @@ For a Digitalization supporting freedom and social development, expectations of 
           <link>https://events.ccc.de/congress/2017/wiki/index.php/Session:Angel_Meeting</link>
         </links>
       </event>
-      <event id="1033" guid="a7083f65-5e8b-52cb-b008-af59762bb115">
+      <event id="1032" guid="a7083f65-5e8b-52cb-b008-af59762bb115">
         <logo/>
         <date>2017-12-27T17:15:00+01:00</date>
         <start>17:15</start>
@@ -1854,6 +1835,25 @@ For a Digitalization supporting freedom and social development, expectations of 
         <slug/>
         <title>Angel Meeting</title>
         <subtitle>Introduction meeting for new angels Day 1</subtitle>
+        <track>self organized sessions</track>
+        <type>meeting</type>
+        <language>en</language>
+        <abstract/>
+        <description>Daily meetings of the Angel crew.</description>
+        <persons/>
+        <links>
+          <link>https://events.ccc.de/congress/2017/wiki/index.php/Session:Angel_Meeting</link>
+        </links>
+      </event>
+      <event id="1036" guid="579eab72-fbd6-5ba7-ad7a-59bcab0272ad">
+        <logo/>
+        <date>2017-12-27T12:45:00+01:00</date>
+        <start>12:45</start>
+        <duration>0:45</duration>
+        <room>Seminar room 14-15</room>
+        <slug/>
+        <title>Angel Meeting</title>
+        <subtitle>Angel meeting Day 1</subtitle>
         <track>self organized sessions</track>
         <type>meeting</type>
         <language>en</language>
@@ -2033,7 +2033,7 @@ The goal of this hands-on session is to pass on knowledge about protecting yours
       </event>
     </room>
     <room name="Seminar room 13">
-      <event id="1009" guid="42ad7b9a-63b4-4790-8c37-1966932d71d6">
+      <event id="1008" guid="42ad7b9a-63b4-4790-8c37-1966932d71d6">
         <logo/>
         <date>2017-12-27T09:00:00+01:00</date>
         <start>09:00</start>
@@ -2168,7 +2168,7 @@ This session will help you with any questions how to install an provider instanc
           <link>https://events.ccc.de/congress/2017/wiki/index.php/Projects:LEAP</link>
         </links>
       </event>
-      <event id="1323" guid="16098a31-339d-482a-9cac-55a2b174cbae">
+      <event id="1324" guid="16098a31-339d-482a-9cac-55a2b174cbae">
         <logo/>
         <date>2017-12-27T19:45:00+01:00</date>
         <start>19:45</start>
@@ -2906,7 +2906,7 @@ It takes about 30 minutes to copy a fullsize adult leg. We will have two hours s
       </event>
     </room>
     <room name="Komona Blue Princess">
-      <event id="1029" guid="604ff957-cc9f-4bde-b138-feae84fa0202">
+      <event id="1030" guid="604ff957-cc9f-4bde-b138-feae84fa0202">
         <logo/>
         <date>2017-12-27T20:00:00+01:00</date>
         <start>20:00</start>
@@ -3816,27 +3816,6 @@ Die Anmeldung erfolgt vor Ort und falls die Zeit im Jugendhack Assembly abgelauf
           <link>https://events.ccc.de/congress/2017/wiki/index.php/Session:LearnToSolder</link>
         </links>
       </event>
-      <event id="1347" guid="c30736d6-32aa-4a0b-b30c-4deef34327c2">
-        <logo/>
-        <date>2017-12-27T13:00:00+01:00</date>
-        <start>13:00</start>
-        <duration>1:30</duration>
-        <room>Assembly:HardwareHackingArea</room>
-        <slug/>
-        <title>Surface mount electronics assembly for terrified beginners</title>
-        <subtitle>Day 1 - Session 1</subtitle>
-        <track>self organized sessions</track>
-        <type>workshop</type>
-        <language>en</language>
-        <abstract/>
-        <description>Surface mount electronics for terrified beginners. Learn to assemble tiny parts on circuit boards by building a working power supply. Anyone can do it. Yes, even you who never touched anything electronic before. 90-100mins, 20€/kit, avoid caffeine immediately before. Max 20 participants per session, there will be a PAPER!!1! signup list in the hardware hacking area.</description>
-        <persons>
-          <person id="0" href="https://events.ccc.de/congress/2017/wiki/index.php/User:Kliment">Kliment</person>
-        </persons>
-        <links>
-          <link>https://events.ccc.de/congress/2017/wiki/index.php/Session:Surface_mount_electronics_assembly_for_terrified_beginners</link>
-        </links>
-      </event>
       <event id="1346" guid="7b07e29a-77f7-492d-9633-ed5c0fd10b9a">
         <logo/>
         <date>2017-12-27T17:00:00+01:00</date>
@@ -3858,7 +3837,7 @@ Die Anmeldung erfolgt vor Ort und falls die Zeit im Jugendhack Assembly abgelauf
           <link>https://events.ccc.de/congress/2017/wiki/index.php/Session:Surface_mount_electronics_assembly_for_terrified_beginners</link>
         </links>
       </event>
-      <event id="1348" guid="106c752f-7697-4981-b5f5-c5821d1f9cf4">
+      <event id="1347" guid="106c752f-7697-4981-b5f5-c5821d1f9cf4">
         <logo/>
         <date>2017-12-27T15:00:00+01:00</date>
         <start>15:00</start>
@@ -3867,6 +3846,27 @@ Die Anmeldung erfolgt vor Ort und falls die Zeit im Jugendhack Assembly abgelauf
         <slug/>
         <title>Surface mount electronics assembly for terrified beginners</title>
         <subtitle>Day 1 Session 2</subtitle>
+        <track>self organized sessions</track>
+        <type>workshop</type>
+        <language>en</language>
+        <abstract/>
+        <description>Surface mount electronics for terrified beginners. Learn to assemble tiny parts on circuit boards by building a working power supply. Anyone can do it. Yes, even you who never touched anything electronic before. 90-100mins, 20€/kit, avoid caffeine immediately before. Max 20 participants per session, there will be a PAPER!!1! signup list in the hardware hacking area.</description>
+        <persons>
+          <person id="0" href="https://events.ccc.de/congress/2017/wiki/index.php/User:Kliment">Kliment</person>
+        </persons>
+        <links>
+          <link>https://events.ccc.de/congress/2017/wiki/index.php/Session:Surface_mount_electronics_assembly_for_terrified_beginners</link>
+        </links>
+      </event>
+      <event id="1349" guid="c30736d6-32aa-4a0b-b30c-4deef34327c2">
+        <logo/>
+        <date>2017-12-27T13:00:00+01:00</date>
+        <start>13:00</start>
+        <duration>1:30</duration>
+        <room>Assembly:HardwareHackingArea</room>
+        <slug/>
+        <title>Surface mount electronics assembly for terrified beginners</title>
+        <subtitle>Day 1 - Session 1</subtitle>
         <track>self organized sessions</track>
         <type>workshop</type>
         <language>en</language>
@@ -5764,7 +5764,7 @@ In diesem talk möchte ich grob skizzieren, wie das System funktioniert und wie 
           <link>https://events.ccc.de/congress/2017/wiki/index.php/Session:E-activism_for_NGOs</link>
         </links>
       </event>
-      <event id="1203" guid="07142f3d-b450-4cac-94c7-9bb95f78339b">
+      <event id="1206" guid="07142f3d-b450-4cac-94c7-9bb95f78339b">
         <logo/>
         <date>2017-12-28T15:00:00+01:00</date>
         <start>15:00</start>
@@ -5857,7 +5857,7 @@ Depending on the attendee's wishes, we can also take time to answer questions, d
           <link>https://events.ccc.de/congress/2017/wiki/index.php/Session:Sport_f%C3%BCr_Nerds</link>
         </links>
       </event>
-      <event id="1373" guid="9b5087f5-f903-5324-9672-50105ed38e1b">
+      <event id="1372" guid="9b5087f5-f903-5324-9672-50105ed38e1b">
         <logo/>
         <date>2017-12-28T17:00:00+01:00</date>
         <start>17:00</start>
@@ -6242,7 +6242,7 @@ Day 2 - 13:00 - Seminar Room 14-15</description>
       </event>
     </room>
     <room name="Seminar room 13">
-      <event id="1008" guid="4d2df78a-654b-48ec-b90b-ab100da126a6">
+      <event id="1009" guid="4d2df78a-654b-48ec-b90b-ab100da126a6">
         <logo/>
         <date>2017-12-28T09:00:00+01:00</date>
         <start>09:00</start>
@@ -7459,7 +7459,7 @@ Du bist ein Fan der drei Fragezeichen? Du suchst Gleichgesinnte oder hoffst, das
       </event>
     </room>
     <room name="Komona Blue Princess">
-      <event id="1030" guid="7fb99fd0-8292-45d4-b4bb-43a32faa9549">
+      <event id="1029" guid="7fb99fd0-8292-45d4-b4bb-43a32faa9549">
         <logo/>
         <date>2017-12-28T20:00:00+01:00</date>
         <start>20:00</start>
@@ -7955,7 +7955,7 @@ Die Webseite ist zusammen mit Trickmisch.de, einer Sprachschule von uns für Ank
     </room>
     <room name="Workshop Area"/>
     <room name="Assembly:Kidspace">
-      <event id="1001" guid="1145687b-1da9-4200-bdbf-80614032f9af">
+      <event id="1002" guid="1145687b-1da9-4200-bdbf-80614032f9af">
         <logo/>
         <date>2017-12-28T11:00:00+01:00</date>
         <start>11:00</start>
@@ -7982,7 +7982,7 @@ Ich freue mich auf viele motivierte Kinder ;o)</description>
           <link>https://events.ccc.de/congress/2017/wiki/index.php/Session:%22Pen%26Paper%22_Game_Jam</link>
         </links>
       </event>
-      <event id="1001" guid="1145687b-1da9-4200-bdbf-80614032f9af">
+      <event id="1002" guid="1145687b-1da9-4200-bdbf-80614032f9af">
         <logo/>
         <date>2017-12-28T12:00:00+01:00</date>
         <start>12:00</start>
@@ -8009,7 +8009,7 @@ Ich freue mich auf viele motivierte Kinder ;o)</description>
           <link>https://events.ccc.de/congress/2017/wiki/index.php/Session:%22Pen%26Paper%22_Game_Jam</link>
         </links>
       </event>
-      <event id="1001" guid="1145687b-1da9-4200-bdbf-80614032f9af">
+      <event id="1002" guid="1145687b-1da9-4200-bdbf-80614032f9af">
         <logo/>
         <date>2017-12-28T16:00:00+01:00</date>
         <start>16:00</start>
@@ -10982,7 +10982,7 @@ A trip from CAcert over African Chamas through blockchains to Community</descrip
           <link>https://events.ccc.de/congress/2017/wiki/index.php/Session:Haecksenbreakfast</link>
         </links>
       </event>
-      <event id="1204" guid="e3d9d5b4-b35d-4828-b7af-6cdf33b438cf">
+      <event id="1203" guid="e3d9d5b4-b35d-4828-b7af-6cdf33b438cf">
         <logo/>
         <date>2017-12-29T23:59:00+01:00</date>
         <start>23:59</start>
@@ -11004,7 +11004,7 @@ A trip from CAcert over African Chamas through blockchains to Community</descrip
           <link>https://events.ccc.de/congress/2017/wiki/index.php/Session:KinkyGeeks_Bondage_Workshop</link>
         </links>
       </event>
-      <event id="1205" guid="2cf16048-946e-4230-8c5a-332826ea14c6">
+      <event id="1204" guid="2cf16048-946e-4230-8c5a-332826ea14c6">
         <logo/>
         <date>2017-12-30T02:30:00+01:00</date>
         <start>02:30</start>
@@ -11236,7 +11236,7 @@ A trip from CAcert over African Chamas through blockchains to Community</descrip
           <link>https://events.ccc.de/congress/2017/wiki/index.php/Session:Lingua_Latina</link>
         </links>
       </event>
-      <event id="1371" guid="f3a30985-fc90-51f2-baa3-a07d034bffcc">
+      <event id="1369" guid="f3a30985-fc90-51f2-baa3-a07d034bffcc">
         <logo/>
         <date>2017-12-29T17:30:00+01:00</date>
         <start>17:30</start>
@@ -11478,7 +11478,7 @@ You will learn how to install Replicant on variety compatible Android devices (r
           <link>https://events.ccc.de/congress/2017/wiki/index.php/Session:42birds:_Dreams_of_the_Future</link>
         </links>
       </event>
-      <event id="1008" guid="4d2df78a-654b-48ec-b90b-ab100da126a6">
+      <event id="1009" guid="4d2df78a-654b-48ec-b90b-ab100da126a6">
         <logo/>
         <date>2017-12-29T09:00:00+01:00</date>
         <start>09:00</start>
@@ -12717,7 +12717,7 @@ Mach mit und werde Teil unserer Enzyklopädie.</description>
       </event>
     </room>
     <room name="Kidspace">
-      <event id="1002" guid="d6665d6a-b44e-44f0-a0aa-31f5f716caf0">
+      <event id="1000" guid="d6665d6a-b44e-44f0-a0aa-31f5f716caf0">
         <logo/>
         <date>2017-12-29T12:00:00+01:00</date>
         <start>12:00</start>
@@ -12744,7 +12744,7 @@ Ich freue mich auf viele motivierte Kinder ;o)</description>
           <link>https://events.ccc.de/congress/2017/wiki/index.php/Session:%22Pen%26Paper%22_Game_Jam</link>
         </links>
       </event>
-      <event id="1000" guid="53d056a4-aeb6-4814-ace4-a8a60345340d">
+      <event id="1001" guid="53d056a4-aeb6-4814-ace4-a8a60345340d">
         <logo/>
         <date>2017-12-29T16:00:00+01:00</date>
         <start>16:00</start>
@@ -13292,27 +13292,6 @@ This workshop will be given twice&lt;br /&gt;(both identical):&lt;br /&gt;
       </event>
       <event id="1346" guid="7b07e29a-77f7-492d-9633-ed5c0fd10b9a">
         <logo/>
-        <date>2017-12-29T19:30:00+01:00</date>
-        <start>19:30</start>
-        <duration>1:30</duration>
-        <room>Assembly:HardwareHackingArea</room>
-        <slug/>
-        <title>Surface mount electronics assembly for terrified beginners</title>
-        <subtitle>Day 3 Session 3</subtitle>
-        <track>self organized sessions</track>
-        <type>workshop</type>
-        <language>en</language>
-        <abstract/>
-        <description>Surface mount electronics for terrified beginners. Learn to assemble tiny parts on circuit boards by building a working power supply. Anyone can do it. Yes, even you who never touched anything electronic before. 90-100mins, 20€/kit, avoid caffeine immediately before. Max 20 participants per session, there will be a PAPER!!1! signup list in the hardware hacking area.</description>
-        <persons>
-          <person id="0" href="https://events.ccc.de/congress/2017/wiki/index.php/User:Kliment">Kliment</person>
-        </persons>
-        <links>
-          <link>https://events.ccc.de/congress/2017/wiki/index.php/Session:Surface_mount_electronics_assembly_for_terrified_beginners</link>
-        </links>
-      </event>
-      <event id="1346" guid="7b07e29a-77f7-492d-9633-ed5c0fd10b9a">
-        <logo/>
         <date>2017-12-29T11:00:00+01:00</date>
         <start>11:00</start>
         <duration>1:30</duration>
@@ -13341,6 +13320,27 @@ This workshop will be given twice&lt;br /&gt;(both identical):&lt;br /&gt;
         <slug/>
         <title>Surface mount electronics assembly for terrified beginners</title>
         <subtitle>Day 3 Session 2</subtitle>
+        <track>self organized sessions</track>
+        <type>workshop</type>
+        <language>en</language>
+        <abstract/>
+        <description>Surface mount electronics for terrified beginners. Learn to assemble tiny parts on circuit boards by building a working power supply. Anyone can do it. Yes, even you who never touched anything electronic before. 90-100mins, 20€/kit, avoid caffeine immediately before. Max 20 participants per session, there will be a PAPER!!1! signup list in the hardware hacking area.</description>
+        <persons>
+          <person id="0" href="https://events.ccc.de/congress/2017/wiki/index.php/User:Kliment">Kliment</person>
+        </persons>
+        <links>
+          <link>https://events.ccc.de/congress/2017/wiki/index.php/Session:Surface_mount_electronics_assembly_for_terrified_beginners</link>
+        </links>
+      </event>
+      <event id="1346" guid="7b07e29a-77f7-492d-9633-ed5c0fd10b9a">
+        <logo/>
+        <date>2017-12-29T19:30:00+01:00</date>
+        <start>19:30</start>
+        <duration>1:30</duration>
+        <room>Assembly:HardwareHackingArea</room>
+        <slug/>
+        <title>Surface mount electronics assembly for terrified beginners</title>
+        <subtitle>Day 3 Session 3</subtitle>
         <track>self organized sessions</track>
         <type>workshop</type>
         <language>en</language>
@@ -15134,7 +15134,7 @@ Learn the legal frame of self defence in Germany/Switzerland, the communication 
           <link>https://events.ccc.de/congress/2017/wiki/index.php/Session:Healthy_food_hack:_Tasty_food_%3D_Unhealthy_food%3F</link>
         </links>
       </event>
-      <event id="1206" guid="98e116fa-62da-4392-98bd-e3d3b44f4342">
+      <event id="1205" guid="98e116fa-62da-4392-98bd-e3d3b44f4342">
         <logo/>
         <date>2017-12-30T12:00:00+01:00</date>
         <start>12:00</start>
@@ -15433,7 +15433,7 @@ The goal of this hands-on session is to pass on knowledge about protecting yours
           <link>https://events.ccc.de/congress/2017/wiki/index.php/Session:42birds:_Hacker%E2%80%99s_Digest</link>
         </links>
       </event>
-      <event id="1008" guid="4d2df78a-654b-48ec-b90b-ab100da126a6">
+      <event id="1009" guid="4d2df78a-654b-48ec-b90b-ab100da126a6">
         <logo/>
         <date>2017-12-30T09:00:00+01:00</date>
         <start>09:00</start>
@@ -15515,7 +15515,7 @@ The goal of this hands-on session is to pass on knowledge about protecting yours
           <link>https://events.ccc.de/congress/2017/wiki/index.php/Session:Mechanical_Keyboard_Meetup</link>
         </links>
       </event>
-      <event id="1324" guid="7371a2f9-75c6-4c01-9f8d-724c8c88d479">
+      <event id="1323" guid="7371a2f9-75c6-4c01-9f8d-724c8c88d479">
         <logo/>
         <date>2017-12-30T11:00:00+01:00</date>
         <start>11:00</start>
@@ -15590,9 +15590,9 @@ The goal of this hands-on session is to pass on knowledge about protecting yours
         <subtitle/>
         <track>self organized sessions</track>
         <type>discussion</type>
-        <language>de</language>
+        <language>eu</language>
         <abstract/>
-        <description/>
+        <description>An open discussion on how to improve diversity at c3 events and on dealing with cases of harassment.</description>
         <persons>
           <person id="0" href="https://events.ccc.de/congress/2017/wiki/index.php/User:Blackspear">Blackspear</person>
         </persons>
@@ -16025,7 +16025,7 @@ First, i will give you an overview on all the important parts of a sound system 
       </event>
     </room>
     <room name="Kidspace">
-      <event id="1000" guid="53d056a4-aeb6-4814-ace4-a8a60345340d">
+      <event id="1001" guid="53d056a4-aeb6-4814-ace4-a8a60345340d">
         <logo/>
         <date>2017-12-30T11:00:00+01:00</date>
         <start>11:00</start>
@@ -16306,7 +16306,7 @@ Ich freue mich auf viele motivierte Kinder ;o)</description>
           <link>https://events.ccc.de/congress/2017/wiki/index.php/Session:MAKERbuino_DIY_game_console_building_session</link>
         </links>
       </event>
-      <event id="1349" guid="a9061f0d-2b54-41c9-b4de-3f499804acfb">
+      <event id="1348" guid="a9061f0d-2b54-41c9-b4de-3f499804acfb">
         <logo/>
         <date>2017-12-30T11:00:00+01:00</date>
         <start>11:00</start>
@@ -16327,7 +16327,7 @@ Ich freue mich auf viele motivierte Kinder ;o)</description>
           <link>https://events.ccc.de/congress/2017/wiki/index.php/Session:Surface_mount_electronics_assembly_for_terrified_beginners</link>
         </links>
       </event>
-      <event id="1349" guid="a9061f0d-2b54-41c9-b4de-3f499804acfb">
+      <event id="1348" guid="a9061f0d-2b54-41c9-b4de-3f499804acfb">
         <logo/>
         <date>2017-12-30T13:00:00+01:00</date>
         <start>13:00</start>
