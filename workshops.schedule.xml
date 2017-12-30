@@ -54,7 +54,7 @@
           <link>https://events.ccc.de/congress/2017/wiki/index.php/Session:A/V_Angel_Meeting</link>
         </links>
       </event>
-      <event id="1370" guid="2f8b0e3d-e4bc-56f3-a96d-3c7559fd753f">
+      <event id="1373" guid="2f8b0e3d-e4bc-56f3-a96d-3c7559fd753f">
         <logo/>
         <date>2017-12-26T20:00:00+01:00</date>
         <start>20:00</start>
@@ -104,26 +104,7 @@ This meeting is mandatory if you want to be a Stagemanager during 34C3.</descrip
     <room name="CCL Hall 3"/>
     <room name="Komona D.Ressrosa"/>
     <room name="Seminar room 14-15">
-      <event id="1031" guid="5e7bb2b0-f5ea-598b-9f57-a08f05420984">
-        <logo/>
-        <date>2017-12-26T20:15:00+01:00</date>
-        <start>20:15</start>
-        <duration>0:45</duration>
-        <room>Seminar room 14-15</room>
-        <slug/>
-        <title>Angel Meeting</title>
-        <subtitle>Introduction meeting for new angels Day 0</subtitle>
-        <track>self organized sessions</track>
-        <type>meeting</type>
-        <language>en</language>
-        <abstract/>
-        <description>Daily meetings of the Angel crew.</description>
-        <persons/>
-        <links>
-          <link>https://events.ccc.de/congress/2017/wiki/index.php/Session:Angel_Meeting</link>
-        </links>
-      </event>
-      <event id="1035" guid="e54328ce-06f7-5578-bccb-0653404d932e">
+      <event id="1034" guid="e54328ce-06f7-5578-bccb-0653404d932e">
         <logo/>
         <date>2017-12-26T13:00:00+01:00</date>
         <start>13:00</start>
@@ -142,7 +123,7 @@ This meeting is mandatory if you want to be a Stagemanager during 34C3.</descrip
           <link>https://events.ccc.de/congress/2017/wiki/index.php/Session:Angel_Meeting</link>
         </links>
       </event>
-      <event id="1036" guid="3b5cf5d2-7d5d-51ba-8798-dc60e10c8985">
+      <event id="1035" guid="3b5cf5d2-7d5d-51ba-8798-dc60e10c8985">
         <logo/>
         <date>2017-12-26T19:30:00+01:00</date>
         <start>19:30</start>
@@ -151,6 +132,25 @@ This meeting is mandatory if you want to be a Stagemanager during 34C3.</descrip
         <slug/>
         <title>Angel Meeting</title>
         <subtitle>Welcome meeting Day 0</subtitle>
+        <track>self organized sessions</track>
+        <type>meeting</type>
+        <language>en</language>
+        <abstract/>
+        <description>Daily meetings of the Angel crew.</description>
+        <persons/>
+        <links>
+          <link>https://events.ccc.de/congress/2017/wiki/index.php/Session:Angel_Meeting</link>
+        </links>
+      </event>
+      <event id="1036" guid="5e7bb2b0-f5ea-598b-9f57-a08f05420984">
+        <logo/>
+        <date>2017-12-26T20:15:00+01:00</date>
+        <start>20:15</start>
+        <duration>0:45</duration>
+        <room>Seminar room 14-15</room>
+        <slug/>
+        <title>Angel Meeting</title>
+        <subtitle>Introduction meeting for new angels Day 0</subtitle>
         <track>self organized sessions</track>
         <type>meeting</type>
         <language>en</language>
@@ -323,7 +323,7 @@ It takes about 30 minutes to copy a fullsize adult leg. We will have two hours s
           <link>https://events.ccc.de/congress/2017/wiki/index.php/Session:Tor_relays_operators_meetup</link>
         </links>
       </event>
-      <event id="1371" guid="b5b51e08-260a-5c3d-a507-556103837de6">
+      <event id="1369" guid="b5b51e08-260a-5c3d-a507-556103837de6">
         <logo/>
         <date>2017-12-27T17:00:00+01:00</date>
         <start>17:00</start>
@@ -1156,7 +1156,7 @@ the example of Thunderbird.</description>
       </event>
     </room>
     <room name="Seminar room 14-15">
-      <event id="1032" guid="579eab72-fbd6-5ba7-ad7a-59bcab0272ad">
+      <event id="1031" guid="579eab72-fbd6-5ba7-ad7a-59bcab0272ad">
         <logo/>
         <date>2017-12-27T12:45:00+01:00</date>
         <start>12:45</start>
@@ -1175,7 +1175,7 @@ the example of Thunderbird.</description>
           <link>https://events.ccc.de/congress/2017/wiki/index.php/Session:Angel_Meeting</link>
         </links>
       </event>
-      <event id="1033" guid="a8254a36-ca09-5c68-8e0b-1399b8a94247">
+      <event id="1032" guid="a8254a36-ca09-5c68-8e0b-1399b8a94247">
         <logo/>
         <date>2017-12-27T16:30:00+01:00</date>
         <start>16:30</start>
@@ -1194,7 +1194,7 @@ the example of Thunderbird.</description>
           <link>https://events.ccc.de/congress/2017/wiki/index.php/Session:Angel_Meeting</link>
         </links>
       </event>
-      <event id="1034" guid="a7083f65-5e8b-52cb-b008-af59762bb115">
+      <event id="1033" guid="a7083f65-5e8b-52cb-b008-af59762bb115">
         <logo/>
         <date>2017-12-27T17:15:00+01:00</date>
         <start>17:15</start>
@@ -1491,7 +1491,7 @@ Dieses Treffen soll den am Thema Interessierten dazu dienen, sich gemeinsam auf 
       </event>
     </room>
     <room name="Seminar room 13">
-      <event id="1009" guid="42ad7b9a-63b4-4790-8c37-1966932d71d6">
+      <event id="1008" guid="42ad7b9a-63b4-4790-8c37-1966932d71d6">
         <logo/>
         <date>2017-12-27T09:00:00+01:00</date>
         <start>09:00</start>
@@ -2161,7 +2161,7 @@ In diesem talk möchte ich grob skizzieren, wie das System funktioniert und wie 
           <link>https://events.ccc.de/congress/2017/wiki/index.php/Session:E-activism_for_NGOs</link>
         </links>
       </event>
-      <event id="1204" guid="07142f3d-b450-4cac-94c7-9bb95f78339b">
+      <event id="1203" guid="07142f3d-b450-4cac-94c7-9bb95f78339b">
         <logo/>
         <date>2017-12-28T15:00:00+01:00</date>
         <start>15:00</start>
@@ -2233,7 +2233,7 @@ Depending on the attendee's wishes, we can also take time to answer questions, d
           <link>https://events.ccc.de/congress/2017/wiki/index.php/Session:Sport_f%C3%BCr_Nerds</link>
         </links>
       </event>
-      <event id="1372" guid="9b5087f5-f903-5324-9672-50105ed38e1b">
+      <event id="1370" guid="9b5087f5-f903-5324-9672-50105ed38e1b">
         <logo/>
         <date>2017-12-28T17:00:00+01:00</date>
         <start>17:00</start>
@@ -3369,7 +3369,7 @@ Day 2 - 13:00 - Seminar Room 14-15</description>
           <link>https://events.ccc.de/congress/2017/wiki/index.php/Session:Introduction_into_anarchism</link>
         </links>
       </event>
-      <event id="1261" guid="b8e83cf2-69fe-4880-9c19-b889b4e5d8d3">
+      <event id="1260" guid="b8e83cf2-69fe-4880-9c19-b889b4e5d8d3">
         <logo/>
         <date>2017-12-28T18:00:00+01:00</date>
         <start>18:00</start>
@@ -3770,7 +3770,7 @@ The session will open with a general presentation, including data, of how the bi
       </event>
     </room>
     <room name="Seminar room 13">
-      <event id="1008" guid="4d2df78a-654b-48ec-b90b-ab100da126a6">
+      <event id="1009" guid="4d2df78a-654b-48ec-b90b-ab100da126a6">
         <logo/>
         <date>2017-12-28T09:00:00+01:00</date>
         <start>09:00</start>
@@ -4076,7 +4076,7 @@ mobile: null eins sechs drei 362 534 0</description>
           <link>https://events.ccc.de/congress/2017/wiki/index.php/Session:Edulabs-Workshop</link>
         </links>
       </event>
-      <event id="1260" guid="1268f73b-b992-5380-ab7a-31eee5e66240">
+      <event id="1261" guid="1268f73b-b992-5380-ab7a-31eee5e66240">
         <logo/>
         <date>2017-12-28T19:00:00+01:00</date>
         <start>19:00</start>
@@ -5586,7 +5586,7 @@ Schon mit einfachen Materialien lassen sich Bücher herstellen. Ich werde zeigen
           <link>https://events.ccc.de/congress/2017/wiki/index.php/Session:Lingua_Latina</link>
         </links>
       </event>
-      <event id="1373" guid="f3a30985-fc90-51f2-baa3-a07d034bffcc">
+      <event id="1371" guid="f3a30985-fc90-51f2-baa3-a07d034bffcc">
         <logo/>
         <date>2017-12-29T17:30:00+01:00</date>
         <start>17:30</start>
@@ -5736,7 +5736,7 @@ The Tom Sachs films are often directed by Van Neistat (the brother of the youtub
     </room>
     <room name="Open Infra Stage"/>
     <room name="Kidspace">
-      <event id="1002" guid="d6665d6a-b44e-44f0-a0aa-31f5f716caf0">
+      <event id="1001" guid="d6665d6a-b44e-44f0-a0aa-31f5f716caf0">
         <logo/>
         <date>2017-12-29T12:00:00+01:00</date>
         <start>12:00</start>
@@ -5763,7 +5763,7 @@ Ich freue mich auf viele motivierte Kinder ;o)</description>
           <link>https://events.ccc.de/congress/2017/wiki/index.php/Session:%22Pen%26Paper%22_Game_Jam</link>
         </links>
       </event>
-      <event id="1001" guid="53d056a4-aeb6-4814-ace4-a8a60345340d">
+      <event id="1002" guid="53d056a4-aeb6-4814-ace4-a8a60345340d">
         <logo/>
         <date>2017-12-29T16:00:00+01:00</date>
         <start>16:00</start>
@@ -5903,7 +5903,7 @@ Mach mit und werde Teil unserer Enzyklopädie.</description>
           <link>https://events.ccc.de/congress/2017/wiki/index.php/Session:42birds:_Dreams_of_the_Future</link>
         </links>
       </event>
-      <event id="1008" guid="4d2df78a-654b-48ec-b90b-ab100da126a6">
+      <event id="1009" guid="4d2df78a-654b-48ec-b90b-ab100da126a6">
         <logo/>
         <date>2017-12-29T09:00:00+01:00</date>
         <start>09:00</start>
@@ -6429,7 +6429,7 @@ Learn the legal frame of self defence in Germany/Switzerland, the communication 
           <link>https://events.ccc.de/congress/2017/wiki/index.php/Session:Healthy_food_hack:_Tasty_food_%3D_Unhealthy_food%3F</link>
         </links>
       </event>
-      <event id="1203" guid="98e116fa-62da-4392-98bd-e3d3b44f4342">
+      <event id="1204" guid="98e116fa-62da-4392-98bd-e3d3b44f4342">
         <logo/>
         <date>2017-12-30T12:00:00+01:00</date>
         <start>12:00</start>
@@ -6695,6 +6695,7 @@ Also, learn about desec, an open-source DNS hosting stack with a RESTful API and
 Folgende Themen möchten wir behandeln: Entwicklung, Fork/Vertrauen und Unterscheidungskriterien</description>
         <persons>
           <person id="0" href="https://events.ccc.de/congress/2017/wiki/index.php/User:Mellon">Mellon</person>
+          <person id="0" href="https://events.ccc.de/congress/2017/wiki/index.php/User:SuitedDodo">SuitedDodo</person>
         </persons>
         <links>
           <link>https://events.ccc.de/congress/2017/wiki/index.php/Session:Einf%C3%BChrung_in_Blockchain</link>
@@ -6997,9 +6998,9 @@ First, i will give you an overview on all the important parts of a sound system 
       </event>
       <event id="1363" guid="613e6754-3020-48a1-ba64-5afcc70dcbfa">
         <logo/>
-        <date>2017-12-30T13:15:00+01:00</date>
-        <start>13:15</start>
-        <duration>0:45</duration>
+        <date>2017-12-30T13:20:00+01:00</date>
+        <start>13:20</start>
+        <duration>0:40</duration>
         <room>Komona D.Ressrosa</room>
         <slug/>
         <title>Tinder for Arguments – Rethinking everyday political opinion formation</title>
@@ -7173,7 +7174,7 @@ Der Vortrag dauert etwa 60min und wurde schon oft von mir gehalten. Im Anschluss
     </room>
     <room name="Open Infra Stage"/>
     <room name="Kidspace">
-      <event id="1001" guid="53d056a4-aeb6-4814-ace4-a8a60345340d">
+      <event id="1002" guid="53d056a4-aeb6-4814-ace4-a8a60345340d">
         <logo/>
         <date>2017-12-30T11:00:00+01:00</date>
         <start>11:00</start>
@@ -7246,7 +7247,7 @@ Ich freue mich auf viele motivierte Kinder ;o)</description>
           <link>https://events.ccc.de/congress/2017/wiki/index.php/Session:42birds:_Hacker%E2%80%99s_Digest</link>
         </links>
       </event>
-      <event id="1008" guid="4d2df78a-654b-48ec-b90b-ab100da126a6">
+      <event id="1009" guid="4d2df78a-654b-48ec-b90b-ab100da126a6">
         <logo/>
         <date>2017-12-30T09:00:00+01:00</date>
         <start>09:00</start>
@@ -7350,7 +7351,7 @@ Ich freue mich auf viele motivierte Kinder ;o)</description>
           <link>https://events.ccc.de/congress/2017/wiki/index.php/Session:Security_Without_Borders</link>
         </links>
       </event>
-      <event id="1369" guid="a7828620-98db-4aff-8d42-3f8e0f464b9e">
+      <event id="1372" guid="a7828620-98db-4aff-8d42-3f8e0f464b9e">
         <logo/>
         <date>2017-12-30T13:15:00+01:00</date>
         <start>13:15</start>
@@ -7396,5 +7397,5 @@ Feel free to join us.</description>
       </event>
     </room>
   </day>
-  <version>2017-12-30 13:20</version>
+  <version>2017-12-30 13:30</version>
 </schedule>
