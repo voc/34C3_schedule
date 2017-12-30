@@ -4046,55 +4046,51 @@
             "1514409300"
         ]
     }, 
-    "Session:Faith in mathematics (Wondrous Mathematics)# a088dd9c036046ce5ae7685bcc6f2842": {
+    "Session:Rights&Freedoms# f7e9bee8a00f1bf00988106eb108e45e": {
         "Held in language": [
+            "de - German", 
             "en - English"
         ], 
         "Has start time": [
-            "1514547000"
+            "1514466000"
         ], 
         "Has event track": [
             "Session"
         ], 
         "Has website": [], 
         "Has description": [
-            "Since G\u00f6del's celebrated work we know: The rules of mathematics are incomplete. There are true statements for which we have proof that they don't have a proof and there are statements for which we can arbitrarily decide whether they are true or not. Learn more about this curious state of affairs in the session!"
+            "Rights & Freedoms Cluster Stage Programme"
         ], 
         "Has session type": [
             "Talk"
         ], 
         "Has session location": [
             {
-                "fulltext": "Room:Lecture room 12", 
-                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Room:Lecture_room_12", 
+                "fulltext": "Room:CCL Hall 3", 
+                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Room:CCL_Hall_3", 
                 "namespace": 516, 
                 "exists": true
             }
         ], 
-        "Has subtitle": [], 
-        "Is organized by": [
-            {
-                "fulltext": "User:IngoBlechschmidt", 
-                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/User:IngoBlechschmidt", 
-                "namespace": 2, 
-                "exists": true
-            }
+        "Has subtitle": [
+            "Take e-voting away from Europe (Hermes Center)"
         ], 
+        "Is organized by": [], 
         "Has title": [
-            "Faith in mathematics (Wondrous Mathematics)"
+            "Rights&Freedoms"
         ], 
         "Has duration": [
             60
         ], 
         "GUID": [
-            "f8c99603-0459-4199-af0e-18a5c6c8528c"
+            "cb719734-0650-4539-928a-ac4577eb588c"
         ], 
         "Has color": [
             "#0099ab"
         ], 
-        "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:Faith_in_mathematics_(Wondrous_Mathematics)", 
+        "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:Rights%26Freedoms", 
         "Has end time": [
-            "1514550600"
+            "1514469600"
         ]
     }, 
     "Session:Klangteppich# e3ae1cc334d20a23349a7303e72a0c3a": {
@@ -6193,58 +6189,36 @@
             "1514403000"
         ]
     }, 
-    "Session:Synth Jam# 12327f63437d5dd09e447c587b2d8120": {
+    "Session:Saunaclash - meetup for all Saunamakers and Mobile-Sauna-Fans# 55e1b4f812157f06b42c5db55686c249": {
         "Held in language": [
             "en - English"
         ], 
-        "Has start time": [
-            "1514498400"
-        ], 
+        "Has start time": [], 
         "Has event track": [
             "Session"
         ], 
         "Has website": [], 
         "Has description": [
-            "Let's bring some synths, talk about them and have a fun jam session!"
+            "We have build up an geodesic dome sauna in Berlin and organized already some mobile-sauna-events (Hedonistic Worldcongress, Saunaclash, Gardenfest in our Backyard) We want get connect to more Saunaenthusiasts and other Saunamakers and talk about past events and plan future events. We are open for all people who are interested and want to know how to build up a Sauna"
         ], 
-        "Has session type": [
-            "Hands-On"
-        ], 
-        "Has session location": [
-            {
-                "fulltext": "Assembly:HardwareHackingArea", 
-                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Assembly:HardwareHackingArea", 
-                "namespace": 504, 
-                "exists": true
-            }
-        ], 
-        "Has subtitle": [
-            "Synth Meetup & Jam"
-        ], 
-        "Is organized by": [
-            {
-                "fulltext": "User:Tiefpunkt", 
-                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/User:Tiefpunkt", 
-                "namespace": 2, 
-                "exists": true
-            }
-        ], 
+        "Has session type": [], 
+        "Has session location": [], 
+        "Has subtitle": [], 
+        "Is organized by": [], 
         "Has title": [
-            "Synth Jam"
+            "Saunaclash - meetup for all Saunamakers and Mobile-Sauna-Fans"
         ], 
         "Has duration": [
             60
         ], 
         "GUID": [
-            "2e7b8f5d-ee65-47a6-bb39-03275dcebe92"
+            "3fd77d87-5e5c-4193-a44e-8fe5200b3d1c"
         ], 
         "Has color": [
             "#0099ab"
         ], 
-        "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:Synth_Jam", 
-        "Has end time": [
-            "1514502000"
-        ]
+        "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:Saunaclash_-_meetup_for_all_Saunamakers_and_Mobile-Sauna-Fans", 
+        "Has end time": []
     }, 
     "Session:Improv Workshop by Yussef# 97b4afea01c4d10fc28e2ea17d10edf1": {
         "Held in language": [
@@ -13328,6 +13302,59 @@
         "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:Bier_%26_Bass", 
         "Has end time": [
             "1514476800"
+        ]
+    }, 
+    "Session:Synth Jam# 12327f63437d5dd09e447c587b2d8120": {
+        "Held in language": [
+            "en - English"
+        ], 
+        "Has start time": [
+            "1514498400"
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [], 
+        "Has description": [
+            "Let's bring some synths, talk about them and have a fun jam session!"
+        ], 
+        "Has session type": [
+            "Hands-On"
+        ], 
+        "Has session location": [
+            {
+                "fulltext": "Assembly:HardwareHackingArea", 
+                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Assembly:HardwareHackingArea", 
+                "namespace": 504, 
+                "exists": true
+            }
+        ], 
+        "Has subtitle": [
+            "Synth Meetup & Jam"
+        ], 
+        "Is organized by": [
+            {
+                "fulltext": "User:Tiefpunkt", 
+                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/User:Tiefpunkt", 
+                "namespace": 2, 
+                "exists": true
+            }
+        ], 
+        "Has title": [
+            "Synth Jam"
+        ], 
+        "Has duration": [
+            60
+        ], 
+        "GUID": [
+            "2e7b8f5d-ee65-47a6-bb39-03275dcebe92"
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:Synth_Jam", 
+        "Has end time": [
+            "1514502000"
         ]
     }, 
     "Session:Hear What You Like to Hear# f273b334c2c757291e182e98d01ff6dd": {
@@ -22186,48 +22213,6 @@
             "1514566800"
         ]
     }, 
-    "Session:Saunaclash - meetup for all Saunamakers and Mobile-Sauna-Fans# 6ca3bd88b002bf678164272c9337d768": {
-        "Held in language": [
-            "en - English"
-        ], 
-        "Has start time": [
-            "1514651400"
-        ], 
-        "Has event track": [
-            "Session"
-        ], 
-        "Has website": [], 
-        "Has description": [
-            "We have build up an geodesic dome sauna in Berlin and organized already some mobile-sauna-events (Hedonistic Worldcongress, Saunaclash, Gardenfest in our Backyard) We want get connect to more Saunaenthusiasts and other Saunamakers and talk about past events and plan future events. We are open for all people who are interested and want to know how to build up a Sauna"
-        ], 
-        "Has session type": [], 
-        "Has session location": [
-            {
-                "fulltext": "Room:Lecture room 12", 
-                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Room:Lecture_room_12", 
-                "namespace": 516, 
-                "exists": true
-            }
-        ], 
-        "Has subtitle": [], 
-        "Is organized by": [], 
-        "Has title": [
-            "Saunaclash - meetup for all Saunamakers and Mobile-Sauna-Fans"
-        ], 
-        "Has duration": [
-            60
-        ], 
-        "GUID": [
-            "3fd77d87-5e5c-4193-a44e-8fe5200b3d1c"
-        ], 
-        "Has color": [
-            "#0099ab"
-        ], 
-        "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:Saunaclash_-_meetup_for_all_Saunamakers_and_Mobile-Sauna-Fans", 
-        "Has end time": [
-            "1514655000"
-        ]
-    }, 
     "Session:Namecoin as a Decentralized Alternative to Certificate Authorities for TLS# 31a3e2c344094be027320163d236c7d1": {
         "Held in language": [
             "en - English"
@@ -22887,51 +22872,55 @@
             "1514662200"
         ]
     }, 
-    "Session:Rights&Freedoms# f7e9bee8a00f1bf00988106eb108e45e": {
+    "Session:Faith in mathematics (Wondrous Mathematics)# a088dd9c036046ce5ae7685bcc6f2842": {
         "Held in language": [
-            "de - German", 
             "en - English"
         ], 
         "Has start time": [
-            "1514466000"
+            "1514547000"
         ], 
         "Has event track": [
             "Session"
         ], 
         "Has website": [], 
         "Has description": [
-            "Rights & Freedoms Cluster Stage Programme"
+            "Since G\u00f6del's celebrated work we know: The rules of mathematics are incomplete. There are true statements for which we have proof that they don't have a proof and there are statements for which we can arbitrarily decide whether they are true or not. Learn more about this curious state of affairs in the session!"
         ], 
         "Has session type": [
             "Talk"
         ], 
         "Has session location": [
             {
-                "fulltext": "Room:CCL Hall 3", 
-                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Room:CCL_Hall_3", 
+                "fulltext": "Room:Lecture room 12", 
+                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Room:Lecture_room_12", 
                 "namespace": 516, 
                 "exists": true
             }
         ], 
-        "Has subtitle": [
-            "Take e-voting away from Europe (Hermes Center)"
+        "Has subtitle": [], 
+        "Is organized by": [
+            {
+                "fulltext": "User:IngoBlechschmidt", 
+                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/User:IngoBlechschmidt", 
+                "namespace": 2, 
+                "exists": true
+            }
         ], 
-        "Is organized by": [], 
         "Has title": [
-            "Rights&Freedoms"
+            "Faith in mathematics (Wondrous Mathematics)"
         ], 
         "Has duration": [
             60
         ], 
         "GUID": [
-            "cb719734-0650-4539-928a-ac4577eb588c"
+            "f8c99603-0459-4199-af0e-18a5c6c8528c"
         ], 
         "Has color": [
             "#0099ab"
         ], 
-        "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:Rights%26Freedoms", 
+        "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:Faith_in_mathematics_(Wondrous_Mathematics)", 
         "Has end time": [
-            "1514469600"
+            "1514550600"
         ]
     }, 
     "Session:RHIZOM festival: an intro to everything for everyone for nothing# 5f787719ed7e8dc844f7dac831271136": {

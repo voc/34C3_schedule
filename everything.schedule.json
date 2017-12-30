@@ -1,6 +1,6 @@
 {
     "schedule": {
-        "version": "Mildenberg 2017-12-30 11:30", 
+        "version": "Mildenberg 2017-12-30 11:40", 
         "base_url": "https://fahrplan.events.ccc.de/congress/2017/Fahrplan/", 
         "conference": {
             "acronym": "34c3", 
@@ -1869,7 +1869,7 @@
                         ], 
                         "Lecture room 11": [
                             {
-                                "id": 1019, 
+                                "id": 1018, 
                                 "guid": "f5f69c30-2863-4817-a663-b248274c87ac", 
                                 "logo": null, 
                                 "date": "2017-12-27T20:15:00+01:00", 
@@ -1924,7 +1924,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1367, 
+                                "id": 1366, 
                                 "guid": "57bf0ee7-7526-490d-9c83-375b932bb03c", 
                                 "logo": null, 
                                 "date": "2017-12-27T18:30:00+01:00", 
@@ -1951,7 +1951,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1373, 
+                                "id": 1372, 
                                 "guid": "b5b51e08-260a-5c3d-a507-556103837de6", 
                                 "logo": null, 
                                 "date": "2017-12-27T17:00:00+01:00", 
@@ -1974,7 +1974,7 @@
                         ], 
                         "Seminar room 14-15": [
                             {
-                                "id": 1033, 
+                                "id": 1031, 
                                 "guid": "579eab72-fbd6-5ba7-ad7a-59bcab0272ad", 
                                 "logo": null, 
                                 "date": "2017-12-27T12:45:00+01:00", 
@@ -1995,7 +1995,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1034, 
+                                "id": 1032, 
                                 "guid": "a8254a36-ca09-5c68-8e0b-1399b8a94247", 
                                 "logo": null, 
                                 "date": "2017-12-27T16:30:00+01:00", 
@@ -2016,7 +2016,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1035, 
+                                "id": 1033, 
                                 "guid": "a7083f65-5e8b-52cb-b008-af59762bb115", 
                                 "logo": null, 
                                 "date": "2017-12-27T17:15:00+01:00", 
@@ -2152,7 +2152,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1343, 
+                                "id": 1342, 
                                 "guid": "9ed83d1d-7007-4bb8-9e65-22b1e9abd09b", 
                                 "logo": null, 
                                 "date": "2017-12-27T15:00:00+01:00", 
@@ -2174,7 +2174,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1344, 
+                                "id": 1343, 
                                 "guid": "50cdec42-6f29-47e5-bdbe-e29d19ee2941", 
                                 "logo": null, 
                                 "date": "2017-12-27T21:00:00+01:00", 
@@ -2196,7 +2196,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1409, 
+                                "id": 1407, 
                                 "guid": "def1b880-7e56-415c-a57b-73b5acda9b5a", 
                                 "logo": null, 
                                 "date": "2017-12-27T16:00:00+01:00", 
@@ -2391,7 +2391,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1324, 
+                                "id": 1322, 
                                 "guid": "16098a31-339d-482a-9cac-55a2b174cbae", 
                                 "logo": null, 
                                 "date": "2017-12-27T19:45:00+01:00", 
@@ -2525,27 +2525,6 @@
                             }, 
                             {
                                 "id": 1301, 
-                                "guid": "de3c670b-1478-4606-ad7f-cc781a5f6514", 
-                                "logo": null, 
-                                "date": "2017-12-27T15:00:00+01:00", 
-                                "start": "15:00", 
-                                "duration": "1:00", 
-                                "room": "CCL Hall 3", 
-                                "slug": "", 
-                                "title": "Rights&Freedoms", 
-                                "subtitle": "BigBrotherAwards - a great tool to build awareness and have fun (Digitalcourage e.V.)", 
-                                "track": "self organized sessions", 
-                                "type": "talk", 
-                                "language": "de", 
-                                "abstract": "", 
-                                "description": "Rights & Freedoms Cluster Stage Programme", 
-                                "persons": [], 
-                                "links": [
-                                    "https://events.ccc.de/congress/2017/wiki/index.php/Session:Rights%26Freedoms"
-                                ]
-                            }, 
-                            {
-                                "id": 1307, 
                                 "guid": "8f90513f-3cf8-4444-8b99-d376d70974c6", 
                                 "logo": null, 
                                 "date": "2017-12-27T16:00:00+01:00", 
@@ -2566,7 +2545,28 @@
                                 ]
                             }, 
                             {
-                                "id": 1325, 
+                                "id": 1310, 
+                                "guid": "de3c670b-1478-4606-ad7f-cc781a5f6514", 
+                                "logo": null, 
+                                "date": "2017-12-27T15:00:00+01:00", 
+                                "start": "15:00", 
+                                "duration": "1:00", 
+                                "room": "CCL Hall 3", 
+                                "slug": "", 
+                                "title": "Rights&Freedoms", 
+                                "subtitle": "BigBrotherAwards - a great tool to build awareness and have fun (Digitalcourage e.V.)", 
+                                "track": "self organized sessions", 
+                                "type": "talk", 
+                                "language": "de", 
+                                "abstract": "", 
+                                "description": "Rights & Freedoms Cluster Stage Programme", 
+                                "persons": [], 
+                                "links": [
+                                    "https://events.ccc.de/congress/2017/wiki/index.php/Session:Rights%26Freedoms"
+                                ]
+                            }, 
+                            {
+                                "id": 1324, 
                                 "guid": "0bae5bc6-440f-4b77-a00e-c7864c7962ea", 
                                 "logo": null, 
                                 "date": "2017-12-27T13:00:00+01:00", 
@@ -2596,7 +2596,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1332, 
+                                "id": 1331, 
                                 "guid": "0b858e21-fefa-4d2c-bc3a-7e14436808a0", 
                                 "logo": null, 
                                 "date": "2017-12-27T20:00:00+01:00", 
@@ -2623,7 +2623,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1361, 
+                                "id": 1360, 
                                 "guid": "fdb3606b-97ef-4496-a29b-a6a1e03c9796", 
                                 "logo": null, 
                                 "date": "2017-12-27T21:00:00+01:00", 
@@ -2674,16 +2674,16 @@
                                 ]
                             }, 
                             {
-                                "id": 1207, 
-                                "guid": "cbc32a2c-1f29-44a9-a232-0f458f979813", 
+                                "id": 1208, 
+                                "guid": "bc39559b-0b24-4b27-9e1f-4b76d52cb1a8", 
                                 "logo": null, 
-                                "date": "2017-12-28T03:30:00+01:00", 
-                                "start": "03:30", 
-                                "duration": "2:00", 
+                                "date": "2017-12-28T00:00:00+01:00", 
+                                "start": "00:00", 
+                                "duration": "3:30", 
                                 "room": "Chaos West Stage", 
                                 "slug": "", 
                                 "title": "Klangteppich", 
-                                "subtitle": "faheus DJ set", 
+                                "subtitle": "CouchSofa DJ set", 
                                 "track": "self organized sessions", 
                                 "type": "other", 
                                 "language": "de", 
@@ -2702,15 +2702,15 @@
                             }, 
                             {
                                 "id": 1209, 
-                                "guid": "bc39559b-0b24-4b27-9e1f-4b76d52cb1a8", 
+                                "guid": "cbc32a2c-1f29-44a9-a232-0f458f979813", 
                                 "logo": null, 
-                                "date": "2017-12-28T00:00:00+01:00", 
-                                "start": "00:00", 
-                                "duration": "3:30", 
+                                "date": "2017-12-28T03:30:00+01:00", 
+                                "start": "03:30", 
+                                "duration": "2:00", 
                                 "room": "Chaos West Stage", 
                                 "slug": "", 
                                 "title": "Klangteppich", 
-                                "subtitle": "CouchSofa DJ set", 
+                                "subtitle": "faheus DJ set", 
                                 "track": "self organized sessions", 
                                 "type": "other", 
                                 "language": "de", 
@@ -2860,7 +2860,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1317, 
+                                "id": 1316, 
                                 "guid": "9b58c10d-8973-438f-ae19-50dde6321b5e", 
                                 "logo": null, 
                                 "date": "2017-12-27T22:00:00+01:00", 
@@ -2888,7 +2888,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1362, 
+                                "id": 1361, 
                                 "guid": "95f73cd1-2284-4c7f-9139-02782ab39b61", 
                                 "logo": null, 
                                 "date": "2017-12-27T14:30:00+01:00", 
@@ -3081,7 +3081,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1380, 
+                                "id": 1379, 
                                 "guid": "5096ea2a-f75e-4223-9034-6c708dbfed76", 
                                 "logo": null, 
                                 "date": "2017-12-27T20:00:00+01:00", 
@@ -3212,7 +3212,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1390, 
+                                "id": 1389, 
                                 "guid": "9fc6cd55-ba06-46d1-8510-4723905f239d", 
                                 "logo": null, 
                                 "date": "2017-12-27T14:00:00+01:00", 
@@ -3317,7 +3317,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1382, 
+                                "id": 1381, 
                                 "guid": "dd529f5f-4f94-4fda-a4dc-abe0a2f9f68a", 
                                 "logo": null, 
                                 "date": "2017-12-27T18:00:00+01:00", 
@@ -3340,7 +3340,7 @@
                         ], 
                         "Kidspace": [
                             {
-                                "id": 1374, 
+                                "id": 1373, 
                                 "guid": "d75d1ea5-b3e1-4f52-ad73-3eb0e99b7dea", 
                                 "logo": null, 
                                 "date": "2017-12-27T13:00:00+01:00", 
@@ -4008,7 +4008,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1394, 
+                                "id": 1393, 
                                 "guid": "7323cf35-3bef-4245-96f1-37cc04112962", 
                                 "logo": null, 
                                 "date": "2017-12-27T22:00:00+01:00", 
@@ -4289,7 +4289,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1217, 
+                                "id": 1218, 
                                 "guid": "74b9a8fc-e4e3-4c29-a859-e3f94387a6c7", 
                                 "logo": null, 
                                 "date": "2017-12-27T17:00:00+01:00", 
@@ -4316,7 +4316,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1347, 
+                                "id": 1346, 
                                 "guid": "c30736d6-32aa-4a0b-b30c-4deef34327c2", 
                                 "logo": null, 
                                 "date": "2017-12-27T13:00:00+01:00", 
@@ -4343,7 +4343,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1346, 
+                                "id": 1345, 
                                 "guid": "7b07e29a-77f7-492d-9633-ed5c0fd10b9a", 
                                 "logo": null, 
                                 "date": "2017-12-27T17:00:00+01:00", 
@@ -4370,7 +4370,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1348, 
+                                "id": 1347, 
                                 "guid": "106c752f-7697-4981-b5f5-c5821d1f9cf4", 
                                 "logo": null, 
                                 "date": "2017-12-27T15:00:00+01:00", 
@@ -4421,7 +4421,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1339, 
+                                "id": 1338, 
                                 "guid": "11272b21-acfc-424a-8860-4f62d80eac5c", 
                                 "logo": null, 
                                 "date": "2017-12-27T17:40:00+01:00", 
@@ -4450,7 +4450,7 @@
                         ], 
                         "Assembly:TeaHouse": [
                             {
-                                "id": 1352, 
+                                "id": 1351, 
                                 "guid": "2fe2c9a3-8e76-4542-afb8-6505fed72094", 
                                 "logo": null, 
                                 "date": "2017-12-27T13:00:00+01:00", 
@@ -4478,7 +4478,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1354, 
+                                "id": 1353, 
                                 "guid": "ef3bcca2-42bc-4bb0-a326-70e277316094", 
                                 "logo": null, 
                                 "date": "2017-12-27T14:30:00+01:00", 
@@ -4506,7 +4506,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1355, 
+                                "id": 1354, 
                                 "guid": "0684a69d-9796-4946-9955-84cfafe8cb64", 
                                 "logo": null, 
                                 "date": "2017-12-27T16:00:00+01:00", 
@@ -4534,7 +4534,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1355, 
+                                "id": 1354, 
                                 "guid": "0684a69d-9796-4946-9955-84cfafe8cb64", 
                                 "logo": null, 
                                 "date": "2017-12-27T17:00:00+01:00", 
@@ -4562,7 +4562,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1355, 
+                                "id": 1354, 
                                 "guid": "0684a69d-9796-4946-9955-84cfafe8cb64", 
                                 "logo": null, 
                                 "date": "2017-12-27T19:00:00+01:00", 
@@ -4592,7 +4592,7 @@
                         ], 
                         "Hive Conference": [
                             {
-                                "id": 1364, 
+                                "id": 1363, 
                                 "guid": "a261a670-da8b-47c8-a118-f45249ac0aea", 
                                 "logo": null, 
                                 "date": "2017-12-27T15:00:00+01:00", 
@@ -4616,7 +4616,7 @@
                         ], 
                         "Assembly:Milliways": [
                             {
-                                "id": 1381, 
+                                "id": 1380, 
                                 "guid": "7f6d1d31-3870-4d11-a4f9-83f8ebaaad21", 
                                 "logo": null, 
                                 "date": "2017-12-27T15:30:00+01:00", 
@@ -6319,7 +6319,7 @@
                         ], 
                         "Lecture room 11": [
                             {
-                                "id": 1020, 
+                                "id": 1019, 
                                 "guid": "2b6595ff-c32b-44aa-9bda-e411e5911162", 
                                 "logo": null, 
                                 "date": "2017-12-28T20:15:00+01:00", 
@@ -6422,7 +6422,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1204, 
+                                "id": 1203, 
                                 "guid": "07142f3d-b450-4cac-94c7-9bb95f78339b", 
                                 "logo": null, 
                                 "date": "2017-12-28T15:00:00+01:00", 
@@ -6477,7 +6477,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1319, 
+                                "id": 1318, 
                                 "guid": "90e4dc9d-fa68-400a-a202-c0d2714d4c1c", 
                                 "logo": null, 
                                 "date": "2017-12-28T13:15:00+01:00", 
@@ -6505,7 +6505,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1335, 
+                                "id": 1334, 
                                 "guid": "d28e4cdf-343c-4702-95ff-bdf328bde9fb", 
                                 "logo": null, 
                                 "date": "2017-12-28T22:00:00+01:00", 
@@ -6547,7 +6547,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1369, 
+                                "id": 1368, 
                                 "guid": "9b5087f5-f903-5324-9672-50105ed38e1b", 
                                 "logo": null, 
                                 "date": "2017-12-28T17:00:00+01:00", 
@@ -6568,7 +6568,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1376, 
+                                "id": 1375, 
                                 "guid": "7d45cd3d-32cd-4d4a-a231-fd1b7e61915f", 
                                 "logo": null, 
                                 "date": "2017-12-28T19:30:00+01:00", 
@@ -6595,7 +6595,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1391, 
+                                "id": 1390, 
                                 "guid": "e4264add-ccb6-46dd-8a9d-281f639ca1b3", 
                                 "logo": null, 
                                 "date": "2017-12-28T14:00:00+01:00", 
@@ -6998,7 +6998,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1345, 
+                                "id": 1344, 
                                 "guid": "58d27c73-4a82-4199-b186-f939686353b2", 
                                 "logo": null, 
                                 "date": "2017-12-28T13:00:00+01:00", 
@@ -7149,7 +7149,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1333, 
+                                "id": 1332, 
                                 "guid": "d9e37733-add6-5977-84fa-fe995bb3bc0d", 
                                 "logo": null, 
                                 "date": "2017-12-28T14:00:00+01:00", 
@@ -7170,7 +7170,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1384, 
+                                "id": 1383, 
                                 "guid": "77f34cbf-f0df-47b1-b235-b405c07ac7cd", 
                                 "logo": null, 
                                 "date": "2017-12-28T18:00:00+01:00", 
@@ -7197,7 +7197,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1401, 
+                                "id": 1400, 
                                 "guid": "6e77d278-f184-4c70-83a0-6a2208d4d269", 
                                 "logo": null, 
                                 "date": "2017-12-28T19:00:00+01:00", 
@@ -7356,91 +7356,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1300, 
-                                "guid": "add8feaa-74d7-44f2-acca-c6902671a1a6", 
-                                "logo": null, 
-                                "date": "2017-12-28T15:00:00+01:00", 
-                                "start": "15:00", 
-                                "duration": "1:00", 
-                                "room": "CCL Hall 3", 
-                                "slug": "", 
-                                "title": "Rights&Freedoms", 
-                                "subtitle": "Digital security training for newbies (EFF)", 
-                                "track": "self organized sessions", 
-                                "type": "talk", 
-                                "language": "de", 
-                                "abstract": "", 
-                                "description": "Rights & Freedoms Cluster Stage Programme", 
-                                "persons": [], 
-                                "links": [
-                                    "https://events.ccc.de/congress/2017/wiki/index.php/Session:Rights%26Freedoms"
-                                ]
-                            }, 
-                            {
-                                "id": 1302, 
-                                "guid": "24e0dbc4-0042-4cce-b648-86c3092b36a8", 
-                                "logo": null, 
-                                "date": "2017-12-28T19:00:00+01:00", 
-                                "start": "19:00", 
-                                "duration": "0:30", 
-                                "room": "CCL Hall 3", 
-                                "slug": "", 
-                                "title": "Rights&Freedoms", 
-                                "subtitle": "Who has your back? An update on how companies protect user data (EFF)", 
-                                "track": "self organized sessions", 
-                                "type": "talk", 
-                                "language": "de", 
-                                "abstract": "", 
-                                "description": "Rights & Freedoms Cluster Stage Programme", 
-                                "persons": [], 
-                                "links": [
-                                    "https://events.ccc.de/congress/2017/wiki/index.php/Session:Rights%26Freedoms"
-                                ]
-                            }, 
-                            {
                                 "id": 1303, 
-                                "guid": "092ae74e-8fda-49c2-a247-f444f59864d0", 
-                                "logo": null, 
-                                "date": "2017-12-28T16:00:00+01:00", 
-                                "start": "16:00", 
-                                "duration": "2:00", 
-                                "room": "CCL Hall 3", 
-                                "slug": "", 
-                                "title": "Rights&Freedoms", 
-                                "subtitle": "Diskussion zur Netzpolitik in der Schweiz 2018 (Digitale Gesellschaft CH)", 
-                                "track": "self organized sessions", 
-                                "type": "talk", 
-                                "language": "de", 
-                                "abstract": "", 
-                                "description": "Rights & Freedoms Cluster Stage Programme", 
-                                "persons": [], 
-                                "links": [
-                                    "https://events.ccc.de/congress/2017/wiki/index.php/Session:Rights%26Freedoms"
-                                ]
-                            }, 
-                            {
-                                "id": 1304, 
-                                "guid": "d5e27e43-b64d-4166-8f5d-beb35700fd55", 
-                                "logo": null, 
-                                "date": "2017-12-28T14:00:00+01:00", 
-                                "start": "14:00", 
-                                "duration": "1:00", 
-                                "room": "CCL Hall 3", 
-                                "slug": "", 
-                                "title": "Rights&Freedoms", 
-                                "subtitle": "The upsurge of exceptional state politics and the downfall of digital human rights in Turkey (Alternatif Bilisim)", 
-                                "track": "self organized sessions", 
-                                "type": "talk", 
-                                "language": "de", 
-                                "abstract": "", 
-                                "description": "Rights & Freedoms Cluster Stage Programme", 
-                                "persons": [], 
-                                "links": [
-                                    "https://events.ccc.de/congress/2017/wiki/index.php/Session:Rights%26Freedoms"
-                                ]
-                            }, 
-                            {
-                                "id": 1309, 
                                 "guid": "23c6fca0-a450-47cf-8e39-888514b76355", 
                                 "logo": null, 
                                 "date": "2017-12-28T19:30:00+01:00", 
@@ -7461,7 +7377,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1313, 
+                                "id": 1307, 
                                 "guid": "cb719734-0650-4539-928a-ac4577eb588c", 
                                 "logo": null, 
                                 "date": "2017-12-28T13:00:00+01:00", 
@@ -7471,6 +7387,90 @@
                                 "slug": "", 
                                 "title": "Rights&Freedoms", 
                                 "subtitle": "Take e-voting away from Europe (Hermes Center)", 
+                                "track": "self organized sessions", 
+                                "type": "talk", 
+                                "language": "de", 
+                                "abstract": "", 
+                                "description": "Rights & Freedoms Cluster Stage Programme", 
+                                "persons": [], 
+                                "links": [
+                                    "https://events.ccc.de/congress/2017/wiki/index.php/Session:Rights%26Freedoms"
+                                ]
+                            }, 
+                            {
+                                "id": 1309, 
+                                "guid": "add8feaa-74d7-44f2-acca-c6902671a1a6", 
+                                "logo": null, 
+                                "date": "2017-12-28T15:00:00+01:00", 
+                                "start": "15:00", 
+                                "duration": "1:00", 
+                                "room": "CCL Hall 3", 
+                                "slug": "", 
+                                "title": "Rights&Freedoms", 
+                                "subtitle": "Digital security training for newbies (EFF)", 
+                                "track": "self organized sessions", 
+                                "type": "talk", 
+                                "language": "de", 
+                                "abstract": "", 
+                                "description": "Rights & Freedoms Cluster Stage Programme", 
+                                "persons": [], 
+                                "links": [
+                                    "https://events.ccc.de/congress/2017/wiki/index.php/Session:Rights%26Freedoms"
+                                ]
+                            }, 
+                            {
+                                "id": 1311, 
+                                "guid": "24e0dbc4-0042-4cce-b648-86c3092b36a8", 
+                                "logo": null, 
+                                "date": "2017-12-28T19:00:00+01:00", 
+                                "start": "19:00", 
+                                "duration": "0:30", 
+                                "room": "CCL Hall 3", 
+                                "slug": "", 
+                                "title": "Rights&Freedoms", 
+                                "subtitle": "Who has your back? An update on how companies protect user data (EFF)", 
+                                "track": "self organized sessions", 
+                                "type": "talk", 
+                                "language": "de", 
+                                "abstract": "", 
+                                "description": "Rights & Freedoms Cluster Stage Programme", 
+                                "persons": [], 
+                                "links": [
+                                    "https://events.ccc.de/congress/2017/wiki/index.php/Session:Rights%26Freedoms"
+                                ]
+                            }, 
+                            {
+                                "id": 1312, 
+                                "guid": "092ae74e-8fda-49c2-a247-f444f59864d0", 
+                                "logo": null, 
+                                "date": "2017-12-28T16:00:00+01:00", 
+                                "start": "16:00", 
+                                "duration": "2:00", 
+                                "room": "CCL Hall 3", 
+                                "slug": "", 
+                                "title": "Rights&Freedoms", 
+                                "subtitle": "Diskussion zur Netzpolitik in der Schweiz 2018 (Digitale Gesellschaft CH)", 
+                                "track": "self organized sessions", 
+                                "type": "talk", 
+                                "language": "de", 
+                                "abstract": "", 
+                                "description": "Rights & Freedoms Cluster Stage Programme", 
+                                "persons": [], 
+                                "links": [
+                                    "https://events.ccc.de/congress/2017/wiki/index.php/Session:Rights%26Freedoms"
+                                ]
+                            }, 
+                            {
+                                "id": 1313, 
+                                "guid": "d5e27e43-b64d-4166-8f5d-beb35700fd55", 
+                                "logo": null, 
+                                "date": "2017-12-28T14:00:00+01:00", 
+                                "start": "14:00", 
+                                "duration": "1:00", 
+                                "room": "CCL Hall 3", 
+                                "slug": "", 
+                                "title": "Rights&Freedoms", 
+                                "subtitle": "The upsurge of exceptional state politics and the downfall of digital human rights in Turkey (Alternatif Bilisim)", 
                                 "track": "self organized sessions", 
                                 "type": "talk", 
                                 "language": "de", 
@@ -7617,16 +7617,16 @@
                                 ]
                             }, 
                             {
-                                "id": 1208, 
+                                "id": 1207, 
                                 "guid": "11832e8c-2e41-4c8d-8ed8-a908d5638480", 
                                 "logo": null, 
-                                "date": "2017-12-29T00:00:00+01:00", 
-                                "start": "00:00", 
+                                "date": "2017-12-29T02:00:00+01:00", 
+                                "start": "02:00", 
                                 "duration": "2:00", 
                                 "room": "Chaos West Stage", 
                                 "slug": "", 
                                 "title": "Klangteppich", 
-                                "subtitle": "DJ PorCus DJ set", 
+                                "subtitle": "dray DJ set", 
                                 "track": "self organized sessions", 
                                 "type": "other", 
                                 "language": "de", 
@@ -7644,16 +7644,16 @@
                                 ]
                             }, 
                             {
-                                "id": 1208, 
+                                "id": 1207, 
                                 "guid": "11832e8c-2e41-4c8d-8ed8-a908d5638480", 
                                 "logo": null, 
-                                "date": "2017-12-29T02:00:00+01:00", 
-                                "start": "02:00", 
+                                "date": "2017-12-29T00:00:00+01:00", 
+                                "start": "00:00", 
                                 "duration": "2:00", 
                                 "room": "Chaos West Stage", 
                                 "slug": "", 
                                 "title": "Klangteppich", 
-                                "subtitle": "dray DJ set", 
+                                "subtitle": "DJ PorCus DJ set", 
                                 "track": "self organized sessions", 
                                 "type": "other", 
                                 "language": "de", 
@@ -7770,7 +7770,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1182, 
+                                "id": 1183, 
                                 "guid": "e1887865-e2bf-4ba8-a986-658dae99255a", 
                                 "logo": null, 
                                 "date": "2017-12-28T14:00:00+01:00", 
@@ -7820,7 +7820,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1399, 
+                                "id": 1398, 
                                 "guid": "0d30238d-6ac6-4c17-aa28-23d42dff0508", 
                                 "logo": null, 
                                 "date": "2017-12-28T18:00:00+01:00", 
@@ -7870,7 +7870,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1117, 
+                                "id": 1118, 
                                 "guid": "2ba1869d-80bf-464d-ad84-360c60517730", 
                                 "logo": null, 
                                 "date": "2017-12-28T22:00:00+01:00", 
@@ -7973,7 +7973,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1368, 
+                                "id": 1367, 
                                 "guid": "90af669f-141e-4bda-ad03-3a2c0f754ede", 
                                 "logo": null, 
                                 "date": "2017-12-28T12:00:00+01:00", 
@@ -8121,7 +8121,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1225, 
+                                "id": 1224, 
                                 "guid": "78b6af67-7c9d-460a-ac37-0428a4178e00", 
                                 "logo": null, 
                                 "date": "2017-12-28T12:00:00+01:00", 
@@ -8165,7 +8165,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1342, 
+                                "id": 1341, 
                                 "guid": "36605ace-ee29-4261-8b5b-0678e77440da", 
                                 "logo": null, 
                                 "date": "2017-12-28T20:00:00+01:00", 
@@ -8192,7 +8192,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1388, 
+                                "id": 1387, 
                                 "guid": "580f142f-ac61-4002-82e9-cfae56219554", 
                                 "logo": null, 
                                 "date": "2017-12-28T14:00:00+01:00", 
@@ -8355,7 +8355,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1327, 
+                                "id": 1326, 
                                 "guid": "1c5ded7d-1373-419f-a3f5-d087ed0c3971", 
                                 "logo": null, 
                                 "date": "2017-12-28T19:00:00+01:00", 
@@ -8376,7 +8376,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1396, 
+                                "id": 1395, 
                                 "guid": "af1ca733-a445-4f6c-947b-a7e79b77f0ba", 
                                 "logo": null, 
                                 "date": "2017-12-28T14:00:00+01:00", 
@@ -8502,7 +8502,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1331, 
+                                "id": 1330, 
                                 "guid": "70ee38ff-7fc7-4a77-bff0-b6e800f21f81", 
                                 "logo": null, 
                                 "date": "2017-12-28T16:00:00+01:00", 
@@ -8530,7 +8530,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1387, 
+                                "id": 1386, 
                                 "guid": "bcb7aed8-2d17-4481-8d47-20741a3b3cae", 
                                 "logo": null, 
                                 "date": "2017-12-28T14:00:00+01:00", 
@@ -8587,7 +8587,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1363, 
+                                "id": 1362, 
                                 "guid": "970319ef-2202-480f-ab77-12ebd1a901c2", 
                                 "logo": null, 
                                 "date": "2017-12-28T15:00:00+01:00", 
@@ -8608,7 +8608,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1375, 
+                                "id": 1374, 
                                 "guid": "478676ae-916e-4012-9cce-f71ef82aac04", 
                                 "logo": null, 
                                 "date": "2017-12-28T12:00:00+01:00", 
@@ -8974,34 +8974,7 @@
                         "Workshop Area": [], 
                         "Assembly:Kidspace": [
                             {
-                                "id": 1000, 
-                                "guid": "1145687b-1da9-4200-bdbf-80614032f9af", 
-                                "logo": null, 
-                                "date": "2017-12-28T11:00:00+01:00", 
-                                "start": "11:00", 
-                                "duration": "1:00", 
-                                "room": "Assembly:Kidspace", 
-                                "slug": "", 
-                                "title": "\"Pen&Paper\" Game Jam", 
-                                "subtitle": "Workshop", 
-                                "track": "self organized sessions", 
-                                "type": "game", 
-                                "language": "de", 
-                                "abstract": "", 
-                                "description": "Hi, wir wollen gemeinsam ein Spiel entwickeln.\nGenauer gesagt machen wir einen pen&paper mini \"Game Jam\".\nHierbei finden sich normalerweise aus allen Disziplinen der Gamesbranche Beteiligte zusammen um in einem lockeren Umfeld Spiele/Spielideen zu entwickeln.\nIch m\u00f6chte dieses Konzept gerne mit Kindern umsetzen; ohne Computer ;0)\nEs geht um Grundlegende Spielmechanismen und deren Kreative Umsetzung.\n\nIch freue mich auf viele motivierte Kinder ;o)", 
-                                "persons": [
-                                    {
-                                        "id": 0, 
-                                        "url": "https://events.ccc.de/congress/2017/wiki/index.php/User:Lydia", 
-                                        "public_name": "Lydia"
-                                    }
-                                ], 
-                                "links": [
-                                    "https://events.ccc.de/congress/2017/wiki/index.php/Session:%22Pen%26Paper%22_Game_Jam"
-                                ]
-                            }, 
-                            {
-                                "id": 1000, 
+                                "id": 1001, 
                                 "guid": "1145687b-1da9-4200-bdbf-80614032f9af", 
                                 "logo": null, 
                                 "date": "2017-12-28T12:00:00+01:00", 
@@ -9028,7 +9001,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1000, 
+                                "id": 1001, 
                                 "guid": "1145687b-1da9-4200-bdbf-80614032f9af", 
                                 "logo": null, 
                                 "date": "2017-12-28T16:00:00+01:00", 
@@ -9055,7 +9028,34 @@
                                 ]
                             }, 
                             {
-                                "id": 1278, 
+                                "id": 1001, 
+                                "guid": "1145687b-1da9-4200-bdbf-80614032f9af", 
+                                "logo": null, 
+                                "date": "2017-12-28T11:00:00+01:00", 
+                                "start": "11:00", 
+                                "duration": "1:00", 
+                                "room": "Assembly:Kidspace", 
+                                "slug": "", 
+                                "title": "\"Pen&Paper\" Game Jam", 
+                                "subtitle": "Workshop", 
+                                "track": "self organized sessions", 
+                                "type": "game", 
+                                "language": "de", 
+                                "abstract": "", 
+                                "description": "Hi, wir wollen gemeinsam ein Spiel entwickeln.\nGenauer gesagt machen wir einen pen&paper mini \"Game Jam\".\nHierbei finden sich normalerweise aus allen Disziplinen der Gamesbranche Beteiligte zusammen um in einem lockeren Umfeld Spiele/Spielideen zu entwickeln.\nIch m\u00f6chte dieses Konzept gerne mit Kindern umsetzen; ohne Computer ;0)\nEs geht um Grundlegende Spielmechanismen und deren Kreative Umsetzung.\n\nIch freue mich auf viele motivierte Kinder ;o)", 
+                                "persons": [
+                                    {
+                                        "id": 0, 
+                                        "url": "https://events.ccc.de/congress/2017/wiki/index.php/User:Lydia", 
+                                        "public_name": "Lydia"
+                                    }
+                                ], 
+                                "links": [
+                                    "https://events.ccc.de/congress/2017/wiki/index.php/Session:%22Pen%26Paper%22_Game_Jam"
+                                ]
+                            }, 
+                            {
+                                "id": 1277, 
                                 "guid": "e8dec555-2fda-4ff0-817f-bec07a6b847e", 
                                 "logo": null, 
                                 "date": "2017-12-28T16:00:00+01:00", 
@@ -9106,7 +9106,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1057, 
+                                "id": 1056, 
                                 "guid": "71d30e88-62ae-581d-a215-1775cc78b19f", 
                                 "logo": null, 
                                 "date": "2017-12-28T12:00:00+01:00", 
@@ -9134,7 +9134,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1058, 
+                                "id": 1057, 
                                 "guid": "5ebed7df-9716-4022-bb28-2b747e5cfbf1", 
                                 "logo": null, 
                                 "date": "2017-12-28T13:00:00+01:00", 
@@ -9367,7 +9367,7 @@
                         ], 
                         "Assembly:HardwareHackingArea": [
                             {
-                                "id": 1039, 
+                                "id": 1038, 
                                 "guid": "7263f227-d3cc-45eb-b22a-808c40b0c511", 
                                 "logo": null, 
                                 "date": "2017-12-28T13:00:00+01:00", 
@@ -9423,7 +9423,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1218, 
+                                "id": 1217, 
                                 "guid": "950b4c24-8b9d-437b-bb2a-5c274e27221c", 
                                 "logo": null, 
                                 "date": "2017-12-28T11:00:00+01:00", 
@@ -9450,7 +9450,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1346, 
+                                "id": 1345, 
                                 "guid": "7b07e29a-77f7-492d-9633-ed5c0fd10b9a", 
                                 "logo": null, 
                                 "date": "2017-12-28T11:00:00+01:00", 
@@ -9477,7 +9477,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1350, 
+                                "id": 1349, 
                                 "guid": "2e7b8f5d-ee65-47a6-bb39-03275dcebe92", 
                                 "logo": null, 
                                 "date": "2017-12-28T22:00:00+01:00", 
@@ -9504,7 +9504,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1403, 
+                                "id": 1402, 
                                 "guid": "7d340ef2-3464-4545-be3f-302b427a543c", 
                                 "logo": null, 
                                 "date": "2017-12-28T20:00:00+01:00", 
@@ -9646,7 +9646,7 @@
                         ], 
                         "Hive Conference": [
                             {
-                                "id": 1059, 
+                                "id": 1058, 
                                 "guid": "9ef29ba5-4eb9-4d18-9f79-808570413595", 
                                 "logo": null, 
                                 "date": "2017-12-28T16:00:00+01:00", 
@@ -9674,7 +9674,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1060, 
+                                "id": 1059, 
                                 "guid": "6946c2f8-7ca0-4d95-a70a-20cec20e25fb", 
                                 "logo": null, 
                                 "date": "2017-12-28T17:00:00+01:00", 
@@ -9730,7 +9730,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1365, 
+                                "id": 1364, 
                                 "guid": "e3c21e66-1484-4ca0-a2a6-d27382508e55", 
                                 "logo": null, 
                                 "date": "2017-12-28T10:00:00+01:00", 
@@ -10039,7 +10039,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1201, 
+                                "id": 1200, 
                                 "guid": "461ebb4b-0946-4b3d-92d2-82288dbcee75", 
                                 "logo": null, 
                                 "date": "2017-12-28T20:00:00+01:00", 
@@ -10104,7 +10104,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1379, 
+                                "id": 1378, 
                                 "guid": "bce8abc0-480d-4045-872c-eef18b10221f", 
                                 "logo": null, 
                                 "date": "2017-12-28T17:45:00+01:00", 
@@ -10344,7 +10344,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1356, 
+                                "id": 1355, 
                                 "guid": "fa3d8ee5-d1ff-4b29-a763-a49f7b882ceb", 
                                 "logo": null, 
                                 "date": "2017-12-28T17:30:00+01:00", 
@@ -10437,7 +10437,7 @@
                         ], 
                         "Assembly:Bitcoin": [
                             {
-                                "id": 1330, 
+                                "id": 1329, 
                                 "guid": "5d431bfa-4c6b-441b-849f-fe9778956fdb", 
                                 "logo": null, 
                                 "date": "2017-12-28T16:00:00+01:00", 
@@ -10461,7 +10461,7 @@
                         ], 
                         "Assembly:Stratum 0": [
                             {
-                                "id": 1334, 
+                                "id": 1333, 
                                 "guid": "02e3087d-1697-4b1a-9c52-b10a3f749a89", 
                                 "logo": null, 
                                 "date": "2017-12-28T15:15:00+01:00", 
@@ -10490,7 +10490,7 @@
                         ], 
                         "Assembly:VR": [
                             {
-                                "id": 1383, 
+                                "id": 1382, 
                                 "guid": "41c17d4f-aebf-40a2-9702-73ef58f4d78c", 
                                 "logo": null, 
                                 "date": "2017-12-28T15:00:00+01:00", 
@@ -10513,7 +10513,7 @@
                         ], 
                         "Assembly:VoidLinux": [
                             {
-                                "id": 1385, 
+                                "id": 1384, 
                                 "guid": "06bee313-647a-4463-8dcb-56889e3dec21", 
                                 "logo": null, 
                                 "date": "2017-12-28T19:30:00+01:00", 
@@ -10543,7 +10543,7 @@
                         ], 
                         "Assembly:Weisswurscht.is": [
                             {
-                                "id": 1389, 
+                                "id": 1388, 
                                 "guid": "6f219c2d-1b8c-47fd-a945-641740db81b6", 
                                 "logo": null, 
                                 "date": "2017-12-28T10:00:00+01:00", 
@@ -12333,7 +12333,7 @@
                         ], 
                         "Lecture room 11": [
                             {
-                                "id": 1020, 
+                                "id": 1019, 
                                 "guid": "2b6595ff-c32b-44aa-9bda-e411e5911162", 
                                 "logo": null, 
                                 "date": "2017-12-29T20:15:00+01:00", 
@@ -12437,7 +12437,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1205, 
+                                "id": 1204, 
                                 "guid": "e3d9d5b4-b35d-4828-b7af-6cdf33b438cf", 
                                 "logo": null, 
                                 "date": "2017-12-29T23:59:00+01:00", 
@@ -12465,7 +12465,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1206, 
+                                "id": 1205, 
                                 "guid": "2cf16048-946e-4230-8c5a-332826ea14c6", 
                                 "logo": null, 
                                 "date": "2017-12-30T02:30:00+01:00", 
@@ -12537,7 +12537,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1366, 
+                                "id": 1365, 
                                 "guid": "af24303a-71b5-4887-a93d-e12f95ffbe22", 
                                 "logo": null, 
                                 "date": "2017-12-29T22:00:00+01:00", 
@@ -12565,7 +12565,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1400, 
+                                "id": 1399, 
                                 "guid": "dc1ce5c6-2b4a-4a3a-b46d-d14f5fc6b900", 
                                 "logo": null, 
                                 "date": "2017-12-29T15:00:00+01:00", 
@@ -12747,7 +12747,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1371, 
+                                "id": 1370, 
                                 "guid": "f3a30985-fc90-51f2-baa3-a07d034bffcc", 
                                 "logo": null, 
                                 "date": "2017-12-29T17:30:00+01:00", 
@@ -12768,7 +12768,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1378, 
+                                "id": 1377, 
                                 "guid": "96ba42dd-c65d-4644-a427-6b141b64ae06", 
                                 "logo": null, 
                                 "date": "2017-12-29T19:30:00+01:00", 
@@ -13250,7 +13250,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1359, 
+                                "id": 1358, 
                                 "guid": "044193f8-1a18-441d-acba-2d4e32159a4a", 
                                 "logo": null, 
                                 "date": "2017-12-29T15:00:00+01:00", 
@@ -13277,7 +13277,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1377, 
+                                "id": 1376, 
                                 "guid": "b2d06017-ccdc-4772-bfb8-247b29bfa3b8", 
                                 "logo": null, 
                                 "date": "2017-12-29T14:00:00+01:00", 
@@ -13304,7 +13304,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1404, 
+                                "id": 1403, 
                                 "guid": "c6c07046-00a5-4f1e-96b3-2b02d30d154d", 
                                 "logo": null, 
                                 "date": "2017-12-29T21:00:00+01:00", 
@@ -13467,27 +13467,6 @@
                             }, 
                             {
                                 "id": 1299, 
-                                "guid": "2364a815-ad04-427d-8877-1c4e3931f4be", 
-                                "logo": null, 
-                                "date": "2017-12-29T14:00:00+01:00", 
-                                "start": "14:00", 
-                                "duration": "1:00", 
-                                "room": "CCL Hall 3", 
-                                "slug": "", 
-                                "title": "Rights&Freedoms", 
-                                "subtitle": "Digital Anonimity for Whistleblowing (Hermes Center)", 
-                                "track": "self organized sessions", 
-                                "type": "talk", 
-                                "language": "de", 
-                                "abstract": "", 
-                                "description": "Rights & Freedoms Cluster Stage Programme", 
-                                "persons": [], 
-                                "links": [
-                                    "https://events.ccc.de/congress/2017/wiki/index.php/Session:Rights%26Freedoms"
-                                ]
-                            }, 
-                            {
-                                "id": 1305, 
                                 "guid": "e205e42a-460e-4c11-b3a2-c764d06cb053", 
                                 "logo": null, 
                                 "date": "2017-12-29T18:00:00+01:00", 
@@ -13508,7 +13487,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1306, 
+                                "id": 1300, 
                                 "guid": "d7d75ccf-f380-4a59-a18b-92ae6083fb8a", 
                                 "logo": null, 
                                 "date": "2017-12-29T17:00:00+01:00", 
@@ -13529,7 +13508,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1308, 
+                                "id": 1302, 
                                 "guid": "65ef56f8-c667-4b9f-8a28-843f8fe7bbf0", 
                                 "logo": null, 
                                 "date": "2017-12-29T21:00:00+01:00", 
@@ -13550,7 +13529,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1310, 
+                                "id": 1304, 
                                 "guid": "f8c6d10a-3129-4d2c-8806-d5c0732e2851", 
                                 "logo": null, 
                                 "date": "2017-12-29T17:30:00+01:00", 
@@ -13571,7 +13550,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1312, 
+                                "id": 1306, 
                                 "guid": "93fa9255-e0a0-457e-a569-cb6b88776793", 
                                 "logo": null, 
                                 "date": "2017-12-29T15:00:00+01:00", 
@@ -13581,6 +13560,27 @@
                                 "slug": "", 
                                 "title": "Rights&Freedoms", 
                                 "subtitle": "Onlincensorship.org: social media content takedowns (EFF)", 
+                                "track": "self organized sessions", 
+                                "type": "talk", 
+                                "language": "de", 
+                                "abstract": "", 
+                                "description": "Rights & Freedoms Cluster Stage Programme", 
+                                "persons": [], 
+                                "links": [
+                                    "https://events.ccc.de/congress/2017/wiki/index.php/Session:Rights%26Freedoms"
+                                ]
+                            }, 
+                            {
+                                "id": 1308, 
+                                "guid": "2364a815-ad04-427d-8877-1c4e3931f4be", 
+                                "logo": null, 
+                                "date": "2017-12-29T14:00:00+01:00", 
+                                "start": "14:00", 
+                                "duration": "1:00", 
+                                "room": "CCL Hall 3", 
+                                "slug": "", 
+                                "title": "Rights&Freedoms", 
+                                "subtitle": "Digital Anonimity for Whistleblowing (Hermes Center)", 
                                 "track": "self organized sessions", 
                                 "type": "talk", 
                                 "language": "de", 
@@ -13700,7 +13700,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1208, 
+                                "id": 1207, 
                                 "guid": "11832e8c-2e41-4c8d-8ed8-a908d5638480", 
                                 "logo": null, 
                                 "date": "2017-12-30T00:00:00+01:00", 
@@ -13727,7 +13727,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1208, 
+                                "id": 1207, 
                                 "guid": "11832e8c-2e41-4c8d-8ed8-a908d5638480", 
                                 "logo": null, 
                                 "date": "2017-12-30T02:00:00+01:00", 
@@ -13803,7 +13803,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1322, 
+                                "id": 1321, 
                                 "guid": "c74e43dc-c115-41c7-8e5a-1e881565593a", 
                                 "logo": null, 
                                 "date": "2017-12-29T14:00:00+01:00", 
@@ -13825,7 +13825,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1338, 
+                                "id": 1337, 
                                 "guid": "294ea052-2d76-4401-93fc-aef98c7ef6a2", 
                                 "logo": null, 
                                 "date": "2017-12-29T21:00:00+01:00", 
@@ -13847,35 +13847,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1405, 
-                                "guid": "668e730c-cdff-419e-9c92-074b1355448d", 
-                                "logo": null, 
-                                "date": "2017-12-29T18:30:00+01:00", 
-                                "start": "18:30", 
-                                "duration": "0:30", 
-                                "room": "Chaos West Stage", 
-                                "slug": "", 
-                                "title": "Ybti+wefixthenet", 
-                                "subtitle": "Die Programmiersprache Forth", 
-                                "track": "self organized sessions", 
-                                "type": "talk", 
-                                "language": "en", 
-                                "abstract": "", 
-                                "description": "youbroketheinternet/wefixthenet session to discuss and report progress on a secure, private post-Snowden era Internet", 
-                                "persons": [
-                                    {
-                                        "id": 0, 
-                                        "url": "https://events.ccc.de/congress/2017/wiki/index.php/User:Forthy", 
-                                        "public_name": "Forthy"
-                                    }
-                                ], 
-                                "links": [
-                                    "http://youbroketheinternet.org/", 
-                                    "https://events.ccc.de/congress/2017/wiki/index.php/Session:Ybti%2Bwefixthenet"
-                                ]
-                            }, 
-                            {
-                                "id": 1406, 
+                                "id": 1404, 
                                 "guid": "2908d355-9054-4c8f-8a7f-33e677435c1d", 
                                 "logo": null, 
                                 "date": "2017-12-29T14:45:00+01:00", 
@@ -13903,7 +13875,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1407, 
+                                "id": 1405, 
                                 "guid": "cc28d9e0-c2e8-4e48-862e-5e5f489eb214", 
                                 "logo": null, 
                                 "date": "2017-12-29T18:00:00+01:00", 
@@ -13913,6 +13885,34 @@
                                 "slug": "", 
                                 "title": "Ybti+wefixthenet", 
                                 "subtitle": "Peer-to-Peer in JavaScript Against the Centralization of the Internet", 
+                                "track": "self organized sessions", 
+                                "type": "talk", 
+                                "language": "en", 
+                                "abstract": "", 
+                                "description": "youbroketheinternet/wefixthenet session to discuss and report progress on a secure, private post-Snowden era Internet", 
+                                "persons": [
+                                    {
+                                        "id": 0, 
+                                        "url": "https://events.ccc.de/congress/2017/wiki/index.php/User:Forthy", 
+                                        "public_name": "Forthy"
+                                    }
+                                ], 
+                                "links": [
+                                    "http://youbroketheinternet.org/", 
+                                    "https://events.ccc.de/congress/2017/wiki/index.php/Session:Ybti%2Bwefixthenet"
+                                ]
+                            }, 
+                            {
+                                "id": 1406, 
+                                "guid": "668e730c-cdff-419e-9c92-074b1355448d", 
+                                "logo": null, 
+                                "date": "2017-12-29T18:30:00+01:00", 
+                                "start": "18:30", 
+                                "duration": "0:30", 
+                                "room": "Chaos West Stage", 
+                                "slug": "", 
+                                "title": "Ybti+wefixthenet", 
+                                "subtitle": "Die Programmiersprache Forth", 
                                 "track": "self organized sessions", 
                                 "type": "talk", 
                                 "language": "en", 
@@ -14016,7 +14016,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1398, 
+                                "id": 1397, 
                                 "guid": "2ad598a6-2114-4526-b1ec-58102dec424f", 
                                 "logo": null, 
                                 "date": "2017-12-29T15:30:00+01:00", 
@@ -14046,7 +14046,7 @@
                         ], 
                         "Komona Aquarius": [
                             {
-                                "id": 1118, 
+                                "id": 1117, 
                                 "guid": "a79abefc-096c-4f84-91c3-fa661bc86172", 
                                 "logo": null, 
                                 "date": "2017-12-29T23:00:00+01:00", 
@@ -14116,7 +14116,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1320, 
+                                "id": 1319, 
                                 "guid": "49011248-141e-4210-a699-975f6e7a1a1b", 
                                 "logo": null, 
                                 "date": "2017-12-29T12:00:00+01:00", 
@@ -14144,7 +14144,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1329, 
+                                "id": 1328, 
                                 "guid": "d475f861-e899-42a7-835b-f5d70fdeeb6a", 
                                 "logo": null, 
                                 "date": "2017-12-29T16:00:00+01:00", 
@@ -14217,7 +14217,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1226, 
+                                "id": 1225, 
                                 "guid": "01830be1-2a28-424f-a6f4-5668b463b6e3", 
                                 "logo": null, 
                                 "date": "2017-12-29T12:00:00+01:00", 
@@ -14239,7 +14239,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1351, 
+                                "id": 1350, 
                                 "guid": "7be53b3d-4e07-4327-a4de-62ffd4bc6ca8", 
                                 "logo": null, 
                                 "date": "2017-12-29T18:00:00+01:00", 
@@ -14365,7 +14365,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1386, 
+                                "id": 1385, 
                                 "guid": "09214919-2a1a-5e58-ac8f-cf733ad06d7f", 
                                 "logo": null, 
                                 "date": "2017-12-29T20:00:00+01:00", 
@@ -14386,7 +14386,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1397, 
+                                "id": 1396, 
                                 "guid": "da930b1f-96d6-47fa-adad-d979ab30e241", 
                                 "logo": null, 
                                 "date": "2017-12-29T14:00:00+01:00", 
@@ -14407,7 +14407,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1402, 
+                                "id": 1401, 
                                 "guid": "257d3b9c-938d-44b3-9444-730641d2dd9e", 
                                 "logo": null, 
                                 "date": "2017-12-29T16:00:00+01:00", 
@@ -14515,33 +14515,6 @@
                         ], 
                         "Kidspace": [
                             {
-                                "id": 1001, 
-                                "guid": "53d056a4-aeb6-4814-ace4-a8a60345340d", 
-                                "logo": null, 
-                                "date": "2017-12-29T16:00:00+01:00", 
-                                "start": "16:00", 
-                                "duration": "1:00", 
-                                "room": "Kidspace", 
-                                "slug": "", 
-                                "title": "\"Pen&Paper\" Game Jam", 
-                                "subtitle": "Workshop", 
-                                "track": "self organized sessions", 
-                                "type": "game", 
-                                "language": "de", 
-                                "abstract": "", 
-                                "description": "Hi, wir wollen gemeinsam ein Spiel entwickeln.\nGenauer gesagt machen wir einen pen&paper mini \"Game Jam\".\nHierbei finden sich normalerweise aus allen Disziplinen der Gamesbranche Beteiligte zusammen um in einem lockeren Umfeld Spiele/Spielideen zu entwickeln.\nIch m\u00f6chte dieses Konzept gerne mit Kindern umsetzen; ohne Computer ;0)\nEs geht um Grundlegende Spielmechanismen und deren Kreative Umsetzung.\n\nIch freue mich auf viele motivierte Kinder ;o)", 
-                                "persons": [
-                                    {
-                                        "id": 0, 
-                                        "url": "https://events.ccc.de/congress/2017/wiki/index.php/User:Lydia", 
-                                        "public_name": "Lydia"
-                                    }
-                                ], 
-                                "links": [
-                                    "https://events.ccc.de/congress/2017/wiki/index.php/Session:%22Pen%26Paper%22_Game_Jam"
-                                ]
-                            }, 
-                            {
                                 "id": 1002, 
                                 "guid": "d6665d6a-b44e-44f0-a0aa-31f5f716caf0", 
                                 "logo": null, 
@@ -14569,7 +14542,34 @@
                                 ]
                             }, 
                             {
-                                "id": 1326, 
+                                "id": 1000, 
+                                "guid": "53d056a4-aeb6-4814-ace4-a8a60345340d", 
+                                "logo": null, 
+                                "date": "2017-12-29T16:00:00+01:00", 
+                                "start": "16:00", 
+                                "duration": "1:00", 
+                                "room": "Kidspace", 
+                                "slug": "", 
+                                "title": "\"Pen&Paper\" Game Jam", 
+                                "subtitle": "Workshop", 
+                                "track": "self organized sessions", 
+                                "type": "game", 
+                                "language": "de", 
+                                "abstract": "", 
+                                "description": "Hi, wir wollen gemeinsam ein Spiel entwickeln.\nGenauer gesagt machen wir einen pen&paper mini \"Game Jam\".\nHierbei finden sich normalerweise aus allen Disziplinen der Gamesbranche Beteiligte zusammen um in einem lockeren Umfeld Spiele/Spielideen zu entwickeln.\nIch m\u00f6chte dieses Konzept gerne mit Kindern umsetzen; ohne Computer ;0)\nEs geht um Grundlegende Spielmechanismen und deren Kreative Umsetzung.\n\nIch freue mich auf viele motivierte Kinder ;o)", 
+                                "persons": [
+                                    {
+                                        "id": 0, 
+                                        "url": "https://events.ccc.de/congress/2017/wiki/index.php/User:Lydia", 
+                                        "public_name": "Lydia"
+                                    }
+                                ], 
+                                "links": [
+                                    "https://events.ccc.de/congress/2017/wiki/index.php/Session:%22Pen%26Paper%22_Game_Jam"
+                                ]
+                            }, 
+                            {
+                                "id": 1325, 
                                 "guid": "e9d483fc-b4fa-4712-b174-5b58321544cf", 
                                 "logo": null, 
                                 "date": "2017-12-29T13:00:00+01:00", 
@@ -15085,7 +15085,7 @@
                         ], 
                         "Assembly:HardwareHackingArea": [
                             {
-                                "id": 1038, 
+                                "id": 1039, 
                                 "guid": "c6c047b0-f177-4a0d-83dc-17c21cd89f3a", 
                                 "logo": null, 
                                 "date": "2017-12-29T13:00:00+01:00", 
@@ -15141,7 +15141,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1218, 
+                                "id": 1217, 
                                 "guid": "950b4c24-8b9d-437b-bb2a-5c274e27221c", 
                                 "logo": null, 
                                 "date": "2017-12-29T11:00:00+01:00", 
@@ -15168,34 +15168,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1346, 
-                                "guid": "7b07e29a-77f7-492d-9633-ed5c0fd10b9a", 
-                                "logo": null, 
-                                "date": "2017-12-29T17:30:00+01:00", 
-                                "start": "17:30", 
-                                "duration": "1:30", 
-                                "room": "Assembly:HardwareHackingArea", 
-                                "slug": "", 
-                                "title": "Surface mount electronics assembly for terrified beginners", 
-                                "subtitle": "Day 3 Session 2", 
-                                "track": "self organized sessions", 
-                                "type": "workshop", 
-                                "language": "en", 
-                                "abstract": "", 
-                                "description": "Surface mount electronics for terrified beginners. Learn to assemble tiny parts on circuit boards by building a working power supply. Anyone can do it. Yes, even you who never touched anything electronic before. 90-100mins, 20\u20ac/kit, avoid caffeine immediately before. Max 20 participants per session, there will be a PAPER!!1! signup list in the hardware hacking area.", 
-                                "persons": [
-                                    {
-                                        "id": 0, 
-                                        "url": "https://events.ccc.de/congress/2017/wiki/index.php/User:Kliment", 
-                                        "public_name": "Kliment"
-                                    }
-                                ], 
-                                "links": [
-                                    "https://events.ccc.de/congress/2017/wiki/index.php/Session:Surface_mount_electronics_assembly_for_terrified_beginners"
-                                ]
-                            }, 
-                            {
-                                "id": 1346, 
+                                "id": 1345, 
                                 "guid": "7b07e29a-77f7-492d-9633-ed5c0fd10b9a", 
                                 "logo": null, 
                                 "date": "2017-12-29T19:30:00+01:00", 
@@ -15222,7 +15195,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1346, 
+                                "id": 1345, 
                                 "guid": "7b07e29a-77f7-492d-9633-ed5c0fd10b9a", 
                                 "logo": null, 
                                 "date": "2017-12-29T11:00:00+01:00", 
@@ -15232,6 +15205,33 @@
                                 "slug": "", 
                                 "title": "Surface mount electronics assembly for terrified beginners", 
                                 "subtitle": "Day 3 Session 1", 
+                                "track": "self organized sessions", 
+                                "type": "workshop", 
+                                "language": "en", 
+                                "abstract": "", 
+                                "description": "Surface mount electronics for terrified beginners. Learn to assemble tiny parts on circuit boards by building a working power supply. Anyone can do it. Yes, even you who never touched anything electronic before. 90-100mins, 20\u20ac/kit, avoid caffeine immediately before. Max 20 participants per session, there will be a PAPER!!1! signup list in the hardware hacking area.", 
+                                "persons": [
+                                    {
+                                        "id": 0, 
+                                        "url": "https://events.ccc.de/congress/2017/wiki/index.php/User:Kliment", 
+                                        "public_name": "Kliment"
+                                    }
+                                ], 
+                                "links": [
+                                    "https://events.ccc.de/congress/2017/wiki/index.php/Session:Surface_mount_electronics_assembly_for_terrified_beginners"
+                                ]
+                            }, 
+                            {
+                                "id": 1345, 
+                                "guid": "7b07e29a-77f7-492d-9633-ed5c0fd10b9a", 
+                                "logo": null, 
+                                "date": "2017-12-29T17:30:00+01:00", 
+                                "start": "17:30", 
+                                "duration": "1:30", 
+                                "room": "Assembly:HardwareHackingArea", 
+                                "slug": "", 
+                                "title": "Surface mount electronics assembly for terrified beginners", 
+                                "subtitle": "Day 3 Session 2", 
                                 "track": "self organized sessions", 
                                 "type": "workshop", 
                                 "language": "en", 
@@ -15333,7 +15333,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1200, 
+                                "id": 1201, 
                                 "guid": "7ea40660-5242-4929-9ee6-afa27a662643", 
                                 "logo": null, 
                                 "date": "2017-12-29T20:00:00+01:00", 
@@ -15375,7 +15375,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1340, 
+                                "id": 1339, 
                                 "guid": "2db364a3-1bd0-481c-bf8f-19b3e4dfca83", 
                                 "logo": null, 
                                 "date": "2017-12-29T17:40:00+01:00", 
@@ -15402,7 +15402,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1393, 
+                                "id": 1392, 
                                 "guid": "6b45706e-8625-4aa8-8a47-5ba016f04c87", 
                                 "logo": null, 
                                 "date": "2017-12-29T22:00:00+01:00", 
@@ -15454,7 +15454,7 @@
                         ], 
                         "Hive Conference": [
                             {
-                                "id": 1056, 
+                                "id": 1060, 
                                 "guid": "0f05a671-8cbd-4a88-9be6-0a7ea0f39973", 
                                 "logo": null, 
                                 "date": "2017-12-29T14:00:00+01:00", 
@@ -15723,7 +15723,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1183, 
+                                "id": 1182, 
                                 "guid": "04838098-b90c-54cf-ae82-e86cbdf2f708", 
                                 "logo": null, 
                                 "date": "2017-12-29T20:00:00+01:00", 
@@ -16071,7 +16071,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1353, 
+                                "id": 1352, 
                                 "guid": "622c5770-b9fc-45ef-b9fc-1533f661e3ec", 
                                 "logo": null, 
                                 "date": "2017-12-29T13:00:00+01:00", 
@@ -16099,7 +16099,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1353, 
+                                "id": 1352, 
                                 "guid": "622c5770-b9fc-45ef-b9fc-1533f661e3ec", 
                                 "logo": null, 
                                 "date": "2017-12-29T14:30:00+01:00", 
@@ -16127,7 +16127,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1357, 
+                                "id": 1356, 
                                 "guid": "bf53e3db-dcf4-4460-b5b4-4d397b264586", 
                                 "logo": null, 
                                 "date": "2017-12-29T16:00:00+01:00", 
@@ -16155,7 +16155,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1353, 
+                                "id": 1352, 
                                 "guid": "622c5770-b9fc-45ef-b9fc-1533f661e3ec", 
                                 "logo": null, 
                                 "date": "2017-12-29T19:00:00+01:00", 
@@ -16185,7 +16185,7 @@
                         ], 
                         "Assembly:Kidspace": [
                             {
-                                "id": 1277, 
+                                "id": 1278, 
                                 "guid": "7855b445-4986-4d70-b114-521f675ce5e4", 
                                 "logo": null, 
                                 "date": "2017-12-29T18:18:00+01:00", 
@@ -16236,7 +16236,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1318, 
+                                "id": 1317, 
                                 "guid": "889d1d46-fbf3-4147-8a51-171b3d833eff", 
                                 "logo": null, 
                                 "date": "2017-12-29T15:00:00+01:00", 
@@ -16294,7 +16294,7 @@
                         ], 
                         "Komona BIKINI": [
                             {
-                                "id": 1328, 
+                                "id": 1327, 
                                 "guid": "dbad8017-1e66-4163-bf58-8b79076dc647", 
                                 "logo": null, 
                                 "date": "2017-12-29T16:00:00+01:00", 
@@ -16317,7 +16317,7 @@
                         ], 
                         "Assembly:Milliways": [
                             {
-                                "id": 1392, 
+                                "id": 1391, 
                                 "guid": "6f27b019-7d82-4d4e-8053-357fc34267d9", 
                                 "logo": null, 
                                 "date": "2017-12-29T22:00:00+01:00", 
@@ -17237,7 +17237,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1203, 
+                                "id": 1206, 
                                 "guid": "98e116fa-62da-4392-98bd-e3d3b44f4342", 
                                 "logo": null, 
                                 "date": "2017-12-30T12:00:00+01:00", 
@@ -17265,7 +17265,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1336, 
+                                "id": 1335, 
                                 "guid": "79df79a6-96a9-42ba-83c6-c9f3db9cead3", 
                                 "logo": null, 
                                 "date": "2017-12-30T10:30:00+01:00", 
@@ -17381,7 +17381,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1358, 
+                                "id": 1357, 
                                 "guid": "afd17345-39e2-44ad-b303-a6595f78ac08", 
                                 "logo": null, 
                                 "date": "2017-12-30T14:00:00+01:00", 
@@ -17495,27 +17495,6 @@
                                 ], 
                                 "links": [
                                     "https://events.ccc.de/congress/2017/wiki/index.php/Session:Inflationsph%C3%A4nomene_und_-probleme_in_MMORPGs"
-                                ]
-                            }, 
-                            {
-                                "id": 1316, 
-                                "guid": "3fd77d87-5e5c-4193-a44e-8fe5200b3d1c", 
-                                "logo": null, 
-                                "date": "2017-12-30T16:30:00+01:00", 
-                                "start": "16:30", 
-                                "duration": "1:00", 
-                                "room": "Lecture room 12", 
-                                "slug": "", 
-                                "title": "Saunaclash - meetup for all Saunamakers and Mobile-Sauna-Fans", 
-                                "subtitle": "", 
-                                "track": "self organized sessions", 
-                                "type": "", 
-                                "language": "en", 
-                                "abstract": "", 
-                                "description": "We have build up an geodesic dome sauna in Berlin and organized already some mobile-sauna-events (Hedonistic Worldcongress, Saunaclash, Gardenfest in our Backyard) We want get connect to more Saunaenthusiasts and other Saunamakers and talk about past events and plan future events. We are open for all people who are interested and want to know how to build up a Sauna", 
-                                "persons": [], 
-                                "links": [
-                                    "https://events.ccc.de/congress/2017/wiki/index.php/Session:Saunaclash_-_meetup_for_all_Saunamakers_and_Mobile-Sauna-Fans"
                                 ]
                             }, 
                             {
@@ -17725,7 +17704,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1372, 
+                                "id": 1371, 
                                 "guid": "a7828620-98db-4aff-8d42-3f8e0f464b9e", 
                                 "logo": null, 
                                 "date": "2017-12-30T13:45:00+01:00", 
@@ -17830,7 +17809,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1311, 
+                                "id": 1305, 
                                 "guid": "3402fbf1-545c-4b4f-abf3-7fa4afbfed9f", 
                                 "logo": null, 
                                 "date": "2017-12-30T14:00:00+01:00", 
@@ -17995,7 +17974,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1321, 
+                                "id": 1320, 
                                 "guid": "d5db7ed9-fb20-454a-b542-cee73c2dc88b", 
                                 "logo": null, 
                                 "date": "2017-12-30T13:00:00+01:00", 
@@ -18023,7 +18002,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1360, 
+                                "id": 1359, 
                                 "guid": "c067e7ad-268e-455d-9991-01c905b74655", 
                                 "logo": null, 
                                 "date": "2017-12-30T13:30:00+01:00", 
@@ -18114,7 +18093,7 @@
                         ], 
                         "Komona Coral Reef": [
                             {
-                                "id": 1224, 
+                                "id": 1226, 
                                 "guid": "a3026239-aef4-4d20-bdc5-003bfbbff970", 
                                 "logo": null, 
                                 "date": "2017-12-30T12:00:00+01:00", 
@@ -18230,7 +18209,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1341, 
+                                "id": 1340, 
                                 "guid": "4539bbbe-bd6a-4baf-8322-3ed0eefbbd70", 
                                 "logo": null, 
                                 "date": "2017-12-30T20:00:00+01:00", 
@@ -18276,7 +18255,7 @@
                         ], 
                         "Kidspace": [
                             {
-                                "id": 1001, 
+                                "id": 1000, 
                                 "guid": "53d056a4-aeb6-4814-ace4-a8a60345340d", 
                                 "logo": null, 
                                 "date": "2017-12-30T11:00:00+01:00", 
@@ -18599,7 +18578,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1218, 
+                                "id": 1217, 
                                 "guid": "950b4c24-8b9d-437b-bb2a-5c274e27221c", 
                                 "logo": null, 
                                 "date": "2017-12-30T11:00:00+01:00", 
@@ -18653,7 +18632,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1349, 
+                                "id": 1348, 
                                 "guid": "a9061f0d-2b54-41c9-b4de-3f499804acfb", 
                                 "logo": null, 
                                 "date": "2017-12-30T11:00:00+01:00", 
@@ -18680,7 +18659,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1349, 
+                                "id": 1348, 
                                 "guid": "a9061f0d-2b54-41c9-b4de-3f499804acfb", 
                                 "logo": null, 
                                 "date": "2017-12-30T13:00:00+01:00", 
@@ -18732,7 +18711,7 @@
                         ], 
                         "Assembly:TeaHouse": [
                             {
-                                "id": 1353, 
+                                "id": 1352, 
                                 "guid": "622c5770-b9fc-45ef-b9fc-1533f661e3ec", 
                                 "logo": null, 
                                 "date": "2017-12-30T12:00:00+01:00", 
@@ -18760,7 +18739,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1353, 
+                                "id": 1352, 
                                 "guid": "622c5770-b9fc-45ef-b9fc-1533f661e3ec", 
                                 "logo": null, 
                                 "date": "2017-12-30T13:00:00+01:00", 
@@ -18788,7 +18767,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1353, 
+                                "id": 1352, 
                                 "guid": "622c5770-b9fc-45ef-b9fc-1533f661e3ec", 
                                 "logo": null, 
                                 "date": "2017-12-30T14:00:00+01:00", 
@@ -18816,7 +18795,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1353, 
+                                "id": 1352, 
                                 "guid": "622c5770-b9fc-45ef-b9fc-1533f661e3ec", 
                                 "logo": null, 
                                 "date": "2017-12-30T15:00:00+01:00", 
@@ -18846,7 +18825,7 @@
                         ], 
                         "Esszimmer": [
                             {
-                                "id": 1395, 
+                                "id": 1394, 
                                 "guid": "aa57b1e7-8075-59b5-a018-d204e0f32c29", 
                                 "logo": null, 
                                 "date": "2017-12-30T14:00:00+01:00", 
