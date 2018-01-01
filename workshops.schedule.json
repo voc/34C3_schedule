@@ -129,7 +129,28 @@
                         "Komona D.Ressrosa": [], 
                         "Seminar room 14-15": [
                             {
-                                "id": 1032, 
+                                "id": 1033, 
+                                "guid": "e54328ce-06f7-5578-bccb-0653404d932e", 
+                                "logo": null, 
+                                "date": "2017-12-26T13:00:00+01:00", 
+                                "start": "13:00", 
+                                "duration": "0:45", 
+                                "room": "Seminar room 14-15", 
+                                "slug": "", 
+                                "title": "Angel Meeting", 
+                                "subtitle": "Build-up and welcome meeting Day 0", 
+                                "track": "self organized sessions", 
+                                "type": "meeting", 
+                                "language": "en", 
+                                "abstract": "", 
+                                "description": "Daily meetings of the Angel crew.", 
+                                "persons": [], 
+                                "links": [
+                                    "https://events.ccc.de/congress/2017/wiki/index.php/Session:Angel_Meeting"
+                                ]
+                            }, 
+                            {
+                                "id": 1034, 
                                 "guid": "3b5cf5d2-7d5d-51ba-8798-dc60e10c8985", 
                                 "logo": null, 
                                 "date": "2017-12-26T19:30:00+01:00", 
@@ -150,7 +171,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1033, 
+                                "id": 1035, 
                                 "guid": "5e7bb2b0-f5ea-598b-9f57-a08f05420984", 
                                 "logo": null, 
                                 "date": "2017-12-26T20:15:00+01:00", 
@@ -160,27 +181,6 @@
                                 "slug": "", 
                                 "title": "Angel Meeting", 
                                 "subtitle": "Introduction meeting for new angels Day 0", 
-                                "track": "self organized sessions", 
-                                "type": "meeting", 
-                                "language": "en", 
-                                "abstract": "", 
-                                "description": "Daily meetings of the Angel crew.", 
-                                "persons": [], 
-                                "links": [
-                                    "https://events.ccc.de/congress/2017/wiki/index.php/Session:Angel_Meeting"
-                                ]
-                            }, 
-                            {
-                                "id": 1037, 
-                                "guid": "e54328ce-06f7-5578-bccb-0653404d932e", 
-                                "logo": null, 
-                                "date": "2017-12-26T13:00:00+01:00", 
-                                "start": "13:00", 
-                                "duration": "0:45", 
-                                "room": "Seminar room 14-15", 
-                                "slug": "", 
-                                "title": "Angel Meeting", 
-                                "subtitle": "Build-up and welcome meeting Day 0", 
                                 "track": "self organized sessions", 
                                 "type": "meeting", 
                                 "language": "en", 
@@ -731,29 +731,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1347, 
-                                "guid": "9ed83d1d-7007-4bb8-9e65-22b1e9abd09b", 
-                                "logo": null, 
-                                "date": "2017-12-27T15:00:00+01:00", 
-                                "start": "15:00", 
-                                "duration": "0:30", 
-                                "room": "Lecture room 12", 
-                                "slug": "", 
-                                "title": "Subtitles-Engelmeeting", 
-                                "subtitle": "", 
-                                "track": "self organized sessions", 
-                                "type": "meeting", 
-                                "language": "en", 
-                                "abstract": "", 
-                                "description": "Meeting for new subtitles angels. This is the one you need to be confirmed as a subtitles angel.", 
-                                "persons": [], 
-                                "links": [
-                                    "http://c3subtitles.de", 
-                                    "https://events.ccc.de/congress/2017/wiki/index.php/Session:Subtitles-Engelmeeting"
-                                ]
-                            }, 
-                            {
-                                "id": 1348, 
+                                "id": 1346, 
                                 "guid": "50cdec42-6f29-47e5-bdbe-e29d19ee2941", 
                                 "logo": null, 
                                 "date": "2017-12-27T21:00:00+01:00", 
@@ -775,7 +753,29 @@
                                 ]
                             }, 
                             {
-                                "id": 1412, 
+                                "id": 1348, 
+                                "guid": "9ed83d1d-7007-4bb8-9e65-22b1e9abd09b", 
+                                "logo": null, 
+                                "date": "2017-12-27T15:00:00+01:00", 
+                                "start": "15:00", 
+                                "duration": "0:30", 
+                                "room": "Lecture room 12", 
+                                "slug": "", 
+                                "title": "Subtitles-Engelmeeting", 
+                                "subtitle": "", 
+                                "track": "self organized sessions", 
+                                "type": "meeting", 
+                                "language": "en", 
+                                "abstract": "", 
+                                "description": "Meeting for new subtitles angels. This is the one you need to be confirmed as a subtitles angel.", 
+                                "persons": [], 
+                                "links": [
+                                    "http://c3subtitles.de", 
+                                    "https://events.ccc.de/congress/2017/wiki/index.php/Session:Subtitles-Engelmeeting"
+                                ]
+                            }, 
+                            {
+                                "id": 1413, 
                                 "guid": "def1b880-7e56-415c-a57b-73b5acda9b5a", 
                                 "logo": null, 
                                 "date": "2017-12-27T16:00:00+01:00", 
@@ -1037,28 +1037,7 @@
                         ], 
                         "CCL Hall 2": [
                             {
-                                "id": 1083, 
-                                "guid": "c7e392d4-78d7-501f-82e8-4ae026411861", 
-                                "logo": null, 
-                                "date": "2017-12-27T14:00:00+01:00", 
-                                "start": "14:00", 
-                                "duration": "1:00", 
-                                "room": "CCL Hall 2", 
-                                "slug": "", 
-                                "title": "DLF", 
-                                "subtitle": "Erfolgsstory oder Armutszeugnis - Breitbandpolitik in Deutschland", 
-                                "track": "self organized sessions", 
-                                "type": "", 
-                                "language": "de", 
-                                "abstract": "", 
-                                "description": "DLF", 
-                                "persons": [], 
-                                "links": [
-                                    "https://events.ccc.de/congress/2017/wiki/index.php/Session:DLF"
-                                ]
-                            }, 
-                            {
-                                "id": 1086, 
+                                "id": 1082, 
                                 "guid": "616cbc52-8390-54ea-8839-3af7790e11d1", 
                                 "logo": null, 
                                 "date": "2017-12-27T16:05:00+01:00", 
@@ -1079,7 +1058,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1087, 
+                                "id": 1083, 
                                 "guid": "555f0cd8-0fe0-5213-a087-c1539138aa40", 
                                 "logo": null, 
                                 "date": "2017-12-27T11:00:00+01:00", 
@@ -1100,7 +1079,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1089, 
+                                "id": 1085, 
                                 "guid": "0e9a7526-0bf6-533d-8f83-94e4d1fb4d8f", 
                                 "logo": null, 
                                 "date": "2017-12-27T16:35:00+01:00", 
@@ -1121,7 +1100,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1090, 
+                                "id": 1086, 
                                 "guid": "f9e17ca9-0980-5070-aa6c-3b556ca66211", 
                                 "logo": null, 
                                 "date": "2017-12-27T11:20:00+01:00", 
@@ -1142,7 +1121,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1092, 
+                                "id": 1088, 
                                 "guid": "528e7ef5-72c6-55d1-9c21-3920add376a1", 
                                 "logo": null, 
                                 "date": "2017-12-27T17:00:00+01:00", 
@@ -1163,7 +1142,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1093, 
+                                "id": 1089, 
                                 "guid": "26226d1d-a08d-55b3-b295-9434c811b24a", 
                                 "logo": null, 
                                 "date": "2017-12-27T12:00:00+01:00", 
@@ -1184,7 +1163,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1096, 
+                                "id": 1092, 
                                 "guid": "31370b42-b65b-5860-8bd2-12dc9ccb7b5d", 
                                 "logo": null, 
                                 "date": "2017-12-27T12:15:00+01:00", 
@@ -1194,6 +1173,27 @@
                                 "slug": "", 
                                 "title": "DLF", 
                                 "subtitle": "Interview", 
+                                "track": "self organized sessions", 
+                                "type": "", 
+                                "language": "de", 
+                                "abstract": "", 
+                                "description": "DLF", 
+                                "persons": [], 
+                                "links": [
+                                    "https://events.ccc.de/congress/2017/wiki/index.php/Session:DLF"
+                                ]
+                            }, 
+                            {
+                                "id": 1095, 
+                                "guid": "c7e392d4-78d7-501f-82e8-4ae026411861", 
+                                "logo": null, 
+                                "date": "2017-12-27T14:00:00+01:00", 
+                                "start": "14:00", 
+                                "duration": "1:00", 
+                                "room": "CCL Hall 2", 
+                                "slug": "", 
+                                "title": "DLF", 
+                                "subtitle": "Erfolgsstory oder Armutszeugnis - Breitbandpolitik in Deutschland", 
                                 "track": "self organized sessions", 
                                 "type": "", 
                                 "language": "de", 
@@ -1337,7 +1337,28 @@
                         ], 
                         "Seminar room 14-15": [
                             {
-                                "id": 1034, 
+                                "id": 1032, 
+                                "guid": "a7083f65-5e8b-52cb-b008-af59762bb115", 
+                                "logo": null, 
+                                "date": "2017-12-27T17:15:00+01:00", 
+                                "start": "17:15", 
+                                "duration": "0:45", 
+                                "room": "Seminar room 14-15", 
+                                "slug": "", 
+                                "title": "Angel Meeting", 
+                                "subtitle": "Introduction meeting for new angels Day 1", 
+                                "track": "self organized sessions", 
+                                "type": "meeting", 
+                                "language": "en", 
+                                "abstract": "", 
+                                "description": "Daily meetings of the Angel crew.", 
+                                "persons": [], 
+                                "links": [
+                                    "https://events.ccc.de/congress/2017/wiki/index.php/Session:Angel_Meeting"
+                                ]
+                            }, 
+                            {
+                                "id": 1036, 
                                 "guid": "579eab72-fbd6-5ba7-ad7a-59bcab0272ad", 
                                 "logo": null, 
                                 "date": "2017-12-27T12:45:00+01:00", 
@@ -1358,7 +1379,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1035, 
+                                "id": 1037, 
                                 "guid": "a8254a36-ca09-5c68-8e0b-1399b8a94247", 
                                 "logo": null, 
                                 "date": "2017-12-27T16:30:00+01:00", 
@@ -1368,27 +1389,6 @@
                                 "slug": "", 
                                 "title": "Angel Meeting", 
                                 "subtitle": "Angel meeting Day 1", 
-                                "track": "self organized sessions", 
-                                "type": "meeting", 
-                                "language": "en", 
-                                "abstract": "", 
-                                "description": "Daily meetings of the Angel crew.", 
-                                "persons": [], 
-                                "links": [
-                                    "https://events.ccc.de/congress/2017/wiki/index.php/Session:Angel_Meeting"
-                                ]
-                            }, 
-                            {
-                                "id": 1036, 
-                                "guid": "a7083f65-5e8b-52cb-b008-af59762bb115", 
-                                "logo": null, 
-                                "date": "2017-12-27T17:15:00+01:00", 
-                                "start": "17:15", 
-                                "duration": "0:45", 
-                                "room": "Seminar room 14-15", 
-                                "slug": "", 
-                                "title": "Angel Meeting", 
-                                "subtitle": "Introduction meeting for new angels Day 1", 
                                 "track": "self organized sessions", 
                                 "type": "meeting", 
                                 "language": "en", 
@@ -1601,7 +1601,7 @@
                         "Workshop Area": [], 
                         "Komona Blue Princess": [
                             {
-                                "id": 1030, 
+                                "id": 1031, 
                                 "guid": "604ff957-cc9f-4bde-b138-feae84fa0202", 
                                 "logo": null, 
                                 "date": "2017-12-27T20:00:00+01:00", 
@@ -1871,7 +1871,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1326, 
+                                "id": 1327, 
                                 "guid": "16098a31-339d-482a-9cac-55a2b174cbae", 
                                 "logo": null, 
                                 "date": "2017-12-27T19:45:00+01:00", 
@@ -1988,7 +1988,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1287, 
+                                "id": 1288, 
                                 "guid": "9d36bad8-60d8-55ca-829f-eccd6c65153d", 
                                 "logo": null, 
                                 "date": "2017-12-27T16:00:00+01:00", 
@@ -2168,7 +2168,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1212, 
+                                "id": 1213, 
                                 "guid": "ffb5a08e-9d61-42e4-b5a3-002b140d652f", 
                                 "logo": null, 
                                 "date": "2017-12-28T22:00:00+01:00", 
@@ -2216,7 +2216,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1227, 
+                                "id": 1228, 
                                 "guid": "78b6af67-7c9d-460a-ac37-0428a4178e00", 
                                 "logo": null, 
                                 "date": "2017-12-28T12:00:00+01:00", 
@@ -2521,7 +2521,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1206, 
+                                "id": 1208, 
                                 "guid": "07142f3d-b450-4cac-94c7-9bb95f78339b", 
                                 "logo": null, 
                                 "date": "2017-12-28T15:00:00+01:00", 
@@ -3243,7 +3243,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1346, 
+                                "id": 1347, 
                                 "guid": "58d27c73-4a82-4199-b186-f939686353b2", 
                                 "logo": null, 
                                 "date": "2017-12-28T13:00:00+01:00", 
@@ -3531,49 +3531,7 @@
                         ], 
                         "CCL Hall 2": [
                             {
-                                "id": 1082, 
-                                "guid": "c722d326-9297-5528-a7dd-6645ead7e8b1", 
-                                "logo": null, 
-                                "date": "2017-12-28T13:00:00+01:00", 
-                                "start": "13:00", 
-                                "duration": "0:30", 
-                                "room": "CCL Hall 2", 
-                                "slug": "", 
-                                "title": "DLF", 
-                                "subtitle": "Interview mit Kathrin Meuthen von deloitte", 
-                                "track": "self organized sessions", 
-                                "type": "", 
-                                "language": "de", 
-                                "abstract": "", 
-                                "description": "DLF", 
-                                "persons": [], 
-                                "links": [
-                                    "https://events.ccc.de/congress/2017/wiki/index.php/Session:DLF"
-                                ]
-                            }, 
-                            {
-                                "id": 1085, 
-                                "guid": "4f5a4ab1-ab30-5729-8b05-8865a475dd8e", 
-                                "logo": null, 
-                                "date": "2017-12-28T16:35:00+01:00", 
-                                "start": "16:35", 
-                                "duration": "0:25", 
-                                "room": "CCL Hall 2", 
-                                "slug": "", 
-                                "title": "DLF", 
-                                "subtitle": "Live-Beitrag in Forschung Aktuell", 
-                                "track": "self organized sessions", 
-                                "type": "", 
-                                "language": "de", 
-                                "abstract": "", 
-                                "description": "DLF", 
-                                "persons": [], 
-                                "links": [
-                                    "https://events.ccc.de/congress/2017/wiki/index.php/Session:DLF"
-                                ]
-                            }, 
-                            {
-                                "id": 1088, 
+                                "id": 1084, 
                                 "guid": "3b865956-5400-5ec4-81b0-028abf9495aa", 
                                 "logo": null, 
                                 "date": "2017-12-28T17:00:00+01:00", 
@@ -3594,7 +3552,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1095, 
+                                "id": 1091, 
                                 "guid": "531e5d6b-bb6a-5f91-b3cc-ac67734ae70f", 
                                 "logo": null, 
                                 "date": "2017-12-28T10:10:00+01:00", 
@@ -3604,6 +3562,48 @@
                                 "slug": "", 
                                 "title": "DLF", 
                                 "subtitle": "\"Progmmieren lernen mit Raspberry Pi und Co.\"", 
+                                "track": "self organized sessions", 
+                                "type": "", 
+                                "language": "de", 
+                                "abstract": "", 
+                                "description": "DLF", 
+                                "persons": [], 
+                                "links": [
+                                    "https://events.ccc.de/congress/2017/wiki/index.php/Session:DLF"
+                                ]
+                            }, 
+                            {
+                                "id": 1094, 
+                                "guid": "c722d326-9297-5528-a7dd-6645ead7e8b1", 
+                                "logo": null, 
+                                "date": "2017-12-28T13:00:00+01:00", 
+                                "start": "13:00", 
+                                "duration": "0:30", 
+                                "room": "CCL Hall 2", 
+                                "slug": "", 
+                                "title": "DLF", 
+                                "subtitle": "Interview mit Kathrin Meuthen von deloitte", 
+                                "track": "self organized sessions", 
+                                "type": "", 
+                                "language": "de", 
+                                "abstract": "", 
+                                "description": "DLF", 
+                                "persons": [], 
+                                "links": [
+                                    "https://events.ccc.de/congress/2017/wiki/index.php/Session:DLF"
+                                ]
+                            }, 
+                            {
+                                "id": 1097, 
+                                "guid": "4f5a4ab1-ab30-5729-8b05-8865a475dd8e", 
+                                "logo": null, 
+                                "date": "2017-12-28T16:35:00+01:00", 
+                                "start": "16:35", 
+                                "duration": "0:25", 
+                                "room": "CCL Hall 2", 
+                                "slug": "", 
+                                "title": "DLF", 
+                                "subtitle": "Live-Beitrag in Forschung Aktuell", 
                                 "track": "self organized sessions", 
                                 "type": "", 
                                 "language": "de", 
@@ -3708,7 +3708,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1213, 
+                                "id": 1212, 
                                 "guid": "44955fe7-7549-4190-bdea-2e694bf75c3c", 
                                 "logo": null, 
                                 "date": "2017-12-28T22:00:00+01:00", 
@@ -4253,7 +4253,7 @@
                         ], 
                         "Komona Blue Princess": [
                             {
-                                "id": 1031, 
+                                "id": 1030, 
                                 "guid": "7fb99fd0-8292-45d4-b4bb-43a32faa9549", 
                                 "logo": null, 
                                 "date": "2017-12-28T20:00:00+01:00", 
@@ -4308,7 +4308,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1213, 
+                                "id": 1212, 
                                 "guid": "44955fe7-7549-4190-bdea-2e694bf75c3c", 
                                 "logo": null, 
                                 "date": "2017-12-28T22:00:00+01:00", 
@@ -4831,7 +4831,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1228, 
+                                "id": 1226, 
                                 "guid": "01830be1-2a28-424f-a6f4-5668b463b6e3", 
                                 "logo": null, 
                                 "date": "2017-12-29T12:00:00+01:00", 
@@ -5094,15 +5094,15 @@
                             }, 
                             {
                                 "id": 1205, 
-                                "guid": "2cf16048-946e-4230-8c5a-332826ea14c6", 
+                                "guid": "e3d9d5b4-b35d-4828-b7af-6cdf33b438cf", 
                                 "logo": null, 
-                                "date": "2017-12-30T02:30:00+01:00", 
-                                "start": "02:30", 
-                                "duration": "2:00", 
+                                "date": "2017-12-29T23:59:00+01:00", 
+                                "start": "23:59", 
+                                "duration": "1:30", 
                                 "room": "Lecture room 11", 
                                 "slug": "", 
                                 "title": "KinkyGeeks Bondage Workshop", 
-                                "subtitle": "Open Rope Jam", 
+                                "subtitle": "Advanced", 
                                 "track": "self organized sessions", 
                                 "type": "workshop", 
                                 "language": "de", 
@@ -5121,16 +5121,16 @@
                                 ]
                             }, 
                             {
-                                "id": 1208, 
-                                "guid": "e3d9d5b4-b35d-4828-b7af-6cdf33b438cf", 
+                                "id": 1206, 
+                                "guid": "2cf16048-946e-4230-8c5a-332826ea14c6", 
                                 "logo": null, 
-                                "date": "2017-12-29T23:59:00+01:00", 
-                                "start": "23:59", 
-                                "duration": "1:30", 
+                                "date": "2017-12-30T02:30:00+01:00", 
+                                "start": "02:30", 
+                                "duration": "2:00", 
                                 "room": "Lecture room 11", 
                                 "slug": "", 
                                 "title": "KinkyGeeks Bondage Workshop", 
-                                "subtitle": "Advanced", 
+                                "subtitle": "Open Rope Jam", 
                                 "track": "self organized sessions", 
                                 "type": "workshop", 
                                 "language": "de", 
@@ -6180,7 +6180,7 @@
                         ], 
                         "CCL Hall 2": [
                             {
-                                "id": 1091, 
+                                "id": 1087, 
                                 "guid": "1481e306-80a7-5abd-842c-177422a47468", 
                                 "logo": null, 
                                 "date": "2017-12-29T16:35:00+01:00", 
@@ -6201,7 +6201,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1094, 
+                                "id": 1090, 
                                 "guid": "996b43ab-9f4c-5e9e-bdb7-9c0b7ab7bf48", 
                                 "logo": null, 
                                 "date": "2017-12-29T17:00:00+01:00", 
@@ -6729,11 +6729,11 @@
                         "Open Infra Stage": [], 
                         "Kidspace": [
                             {
-                                "id": 1000, 
-                                "guid": "53d056a4-aeb6-4814-ace4-a8a60345340d", 
+                                "id": 1001, 
+                                "guid": "d6665d6a-b44e-44f0-a0aa-31f5f716caf0", 
                                 "logo": null, 
-                                "date": "2017-12-29T16:00:00+01:00", 
-                                "start": "16:00", 
+                                "date": "2017-12-29T12:00:00+01:00", 
+                                "start": "12:00", 
                                 "duration": "1:00", 
                                 "room": "Kidspace", 
                                 "slug": "", 
@@ -6757,10 +6757,10 @@
                             }, 
                             {
                                 "id": 1002, 
-                                "guid": "d6665d6a-b44e-44f0-a0aa-31f5f716caf0", 
+                                "guid": "53d056a4-aeb6-4814-ace4-a8a60345340d", 
                                 "logo": null, 
-                                "date": "2017-12-29T12:00:00+01:00", 
-                                "start": "12:00", 
+                                "date": "2017-12-29T16:00:00+01:00", 
+                                "start": "16:00", 
                                 "duration": "1:00", 
                                 "room": "Kidspace", 
                                 "slug": "", 
@@ -7431,7 +7431,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1288, 
+                                "id": 1287, 
                                 "guid": "a547ca07-306b-5214-bcab-5e84fa18505c", 
                                 "logo": null, 
                                 "date": "2017-12-29T18:00:00+01:00", 
@@ -7497,7 +7497,7 @@
                     "rooms": {
                         "Komona Coral Reef": [
                             {
-                                "id": 1226, 
+                                "id": 1227, 
                                 "guid": "a3026239-aef4-4d20-bdc5-003bfbbff970", 
                                 "logo": null, 
                                 "date": "2017-12-30T12:00:00+01:00", 
@@ -7957,7 +7957,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1413, 
+                                "id": 1412, 
                                 "guid": "dd59f0b8-212d-4978-8476-fffb4455bb25", 
                                 "logo": null, 
                                 "date": "2017-12-30T14:30:00+01:00", 
@@ -8092,16 +8092,16 @@
                         ], 
                         "CCL Hall 2": [
                             {
-                                "id": 1084, 
-                                "guid": "bdf00168-ed69-5809-9916-a89d109c9b2c", 
+                                "id": 1093, 
+                                "guid": "1c73c759-0d3b-501e-a07d-82ea10e9f40c", 
                                 "logo": null, 
-                                "date": "2017-12-30T14:15:00+01:00", 
-                                "start": "14:15", 
-                                "duration": "0:30", 
+                                "date": "2017-12-30T13:05:00+01:00", 
+                                "start": "13:05", 
+                                "duration": "0:55", 
                                 "room": "CCL Hall 2", 
                                 "slug": "", 
                                 "title": "DLF", 
-                                "subtitle": "\"tuwat!\" - Der 34C3 in Leipzig", 
+                                "subtitle": "Dlf Kultur - Breitband", 
                                 "track": "self organized sessions", 
                                 "type": "", 
                                 "language": "de", 
@@ -8113,16 +8113,16 @@
                                 ]
                             }, 
                             {
-                                "id": 1097, 
-                                "guid": "1c73c759-0d3b-501e-a07d-82ea10e9f40c", 
+                                "id": 1096, 
+                                "guid": "bdf00168-ed69-5809-9916-a89d109c9b2c", 
                                 "logo": null, 
-                                "date": "2017-12-30T13:05:00+01:00", 
-                                "start": "13:05", 
-                                "duration": "0:55", 
+                                "date": "2017-12-30T14:15:00+01:00", 
+                                "start": "14:15", 
+                                "duration": "0:30", 
                                 "room": "CCL Hall 2", 
                                 "slug": "", 
                                 "title": "DLF", 
-                                "subtitle": "Dlf Kultur - Breitband", 
+                                "subtitle": "\"tuwat!\" - Der 34C3 in Leipzig", 
                                 "track": "self organized sessions", 
                                 "type": "", 
                                 "language": "de", 
@@ -8462,7 +8462,7 @@
                         "Open Infra Stage": [], 
                         "Kidspace": [
                             {
-                                "id": 1000, 
+                                "id": 1002, 
                                 "guid": "53d056a4-aeb6-4814-ace4-a8a60345340d", 
                                 "logo": null, 
                                 "date": "2017-12-30T11:00:00+01:00", 
@@ -8662,7 +8662,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1327, 
+                                "id": 1326, 
                                 "guid": "7371a2f9-75c6-4c01-9f8d-724c8c88d479", 
                                 "logo": null, 
                                 "date": "2017-12-30T11:00:00+01:00", 
@@ -8745,6 +8745,6 @@
                 }
             ]
         }, 
-        "version": "2018-01-01 07:10"
+        "version": "2018-01-01 07:20"
     }
 }
