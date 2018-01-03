@@ -16,7 +16,7 @@
                         "Komona Coral Reef": [], 
                         "Lecture room 11": [
                             {
-                                "id": 1020, 
+                                "id": 1018, 
                                 "guid": "3e6ca324-cc11-4403-b0ce-bd621d931cd6", 
                                 "logo": null, 
                                 "date": "2017-12-26T23:30:00+01:00", 
@@ -44,7 +44,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1021, 
+                                "id": 1019, 
                                 "guid": "4e77ac4f-012b-4132-8079-c16fd0f600fd", 
                                 "logo": null, 
                                 "date": "2017-12-26T21:30:00+01:00", 
@@ -72,7 +72,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1376, 
+                                "id": 1377, 
                                 "guid": "2f8b0e3d-e4bc-56f3-a96d-3c7559fd753f", 
                                 "logo": null, 
                                 "date": "2017-12-26T20:00:00+01:00", 
@@ -310,7 +310,7 @@
                         ], 
                         "Lecture room 11": [
                             {
-                                "id": 1018, 
+                                "id": 1020, 
                                 "guid": "f5f69c30-2863-4817-a663-b248274c87ac", 
                                 "logo": null, 
                                 "date": "2017-12-27T20:15:00+01:00", 
@@ -392,7 +392,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1377, 
+                                "id": 1373, 
                                 "guid": "b5b51e08-260a-5c3d-a507-556103837de6", 
                                 "logo": null, 
                                 "date": "2017-12-27T17:00:00+01:00", 
@@ -460,16 +460,16 @@
                                 ]
                             }, 
                             {
-                                "id": 1210, 
-                                "guid": "bc39559b-0b24-4b27-9e1f-4b76d52cb1a8", 
+                                "id": 1209, 
+                                "guid": "cbc32a2c-1f29-44a9-a232-0f458f979813", 
                                 "logo": null, 
-                                "date": "2017-12-28T00:00:00+01:00", 
-                                "start": "00:00", 
-                                "duration": "3:30", 
+                                "date": "2017-12-28T03:30:00+01:00", 
+                                "start": "03:30", 
+                                "duration": "2:00", 
                                 "room": "Chaos West Stage", 
                                 "slug": "", 
                                 "title": "Klangteppich", 
-                                "subtitle": "CouchSofa DJ set", 
+                                "subtitle": "faheus DJ set", 
                                 "track": "self organized sessions", 
                                 "type": "other", 
                                 "language": "de", 
@@ -488,15 +488,15 @@
                             }, 
                             {
                                 "id": 1211, 
-                                "guid": "cbc32a2c-1f29-44a9-a232-0f458f979813", 
+                                "guid": "bc39559b-0b24-4b27-9e1f-4b76d52cb1a8", 
                                 "logo": null, 
-                                "date": "2017-12-28T03:30:00+01:00", 
-                                "start": "03:30", 
-                                "duration": "2:00", 
+                                "date": "2017-12-28T00:00:00+01:00", 
+                                "start": "00:00", 
+                                "duration": "3:30", 
                                 "room": "Chaos West Stage", 
                                 "slug": "", 
                                 "title": "Klangteppich", 
-                                "subtitle": "faheus DJ set", 
+                                "subtitle": "CouchSofa DJ set", 
                                 "track": "self organized sessions", 
                                 "type": "other", 
                                 "language": "de", 
@@ -731,11 +731,11 @@
                                 ]
                             }, 
                             {
-                                "id": 1347, 
-                                "guid": "9ed83d1d-7007-4bb8-9e65-22b1e9abd09b", 
+                                "id": 1346, 
+                                "guid": "50cdec42-6f29-47e5-bdbe-e29d19ee2941", 
                                 "logo": null, 
-                                "date": "2017-12-27T15:00:00+01:00", 
-                                "start": "15:00", 
+                                "date": "2017-12-27T21:00:00+01:00", 
+                                "start": "21:00", 
                                 "duration": "0:30", 
                                 "room": "Lecture room 12", 
                                 "slug": "", 
@@ -754,10 +754,10 @@
                             }, 
                             {
                                 "id": 1348, 
-                                "guid": "50cdec42-6f29-47e5-bdbe-e29d19ee2941", 
+                                "guid": "9ed83d1d-7007-4bb8-9e65-22b1e9abd09b", 
                                 "logo": null, 
-                                "date": "2017-12-27T21:00:00+01:00", 
-                                "start": "21:00", 
+                                "date": "2017-12-27T15:00:00+01:00", 
+                                "start": "15:00", 
                                 "duration": "0:30", 
                                 "room": "Lecture room 12", 
                                 "slug": "", 
@@ -908,7 +908,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1304, 
+                                "id": 1308, 
                                 "guid": "8f90513f-3cf8-4444-8b99-d376d70974c6", 
                                 "logo": null, 
                                 "date": "2017-12-27T16:00:00+01:00", 
@@ -929,7 +929,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1313, 
+                                "id": 1317, 
                                 "guid": "de3c670b-1478-4606-ad7f-cc781a5f6514", 
                                 "logo": null, 
                                 "date": "2017-12-27T15:00:00+01:00", 
@@ -1037,91 +1037,7 @@
                         ], 
                         "CCL Hall 2": [
                             {
-                                "id": 1083, 
-                                "guid": "c7e392d4-78d7-501f-82e8-4ae026411861", 
-                                "logo": null, 
-                                "date": "2017-12-27T14:00:00+01:00", 
-                                "start": "14:00", 
-                                "duration": "1:00", 
-                                "room": "CCL Hall 2", 
-                                "slug": "", 
-                                "title": "DLF", 
-                                "subtitle": "Erfolgsstory oder Armutszeugnis - Breitbandpolitik in Deutschland", 
-                                "track": "self organized sessions", 
-                                "type": "", 
-                                "language": "de", 
-                                "abstract": "", 
-                                "description": "DLF", 
-                                "persons": [], 
-                                "links": [
-                                    "https://events.ccc.de/congress/2017/wiki/index.php/Session:DLF"
-                                ]
-                            }, 
-                            {
-                                "id": 1086, 
-                                "guid": "616cbc52-8390-54ea-8839-3af7790e11d1", 
-                                "logo": null, 
-                                "date": "2017-12-27T16:05:00+01:00", 
-                                "start": "16:05", 
-                                "duration": "0:25", 
-                                "room": "CCL Hall 2", 
-                                "slug": "", 
-                                "title": "DLF", 
-                                "subtitle": "Live-Beitrag in Leonardo", 
-                                "track": "self organized sessions", 
-                                "type": "", 
-                                "language": "de", 
-                                "abstract": "", 
-                                "description": "DLF", 
-                                "persons": [], 
-                                "links": [
-                                    "https://events.ccc.de/congress/2017/wiki/index.php/Session:DLF"
-                                ]
-                            }, 
-                            {
-                                "id": 1087, 
-                                "guid": "555f0cd8-0fe0-5213-a087-c1539138aa40", 
-                                "logo": null, 
-                                "date": "2017-12-27T11:00:00+01:00", 
-                                "start": "11:00", 
-                                "duration": "0:20", 
-                                "room": "CCL Hall 2", 
-                                "slug": "", 
-                                "title": "DLF", 
-                                "subtitle": "Der 34C3", 
-                                "track": "self organized sessions", 
-                                "type": "", 
-                                "language": "de", 
-                                "abstract": "", 
-                                "description": "DLF", 
-                                "persons": [], 
-                                "links": [
-                                    "https://events.ccc.de/congress/2017/wiki/index.php/Session:DLF"
-                                ]
-                            }, 
-                            {
-                                "id": 1089, 
-                                "guid": "0e9a7526-0bf6-533d-8f83-94e4d1fb4d8f", 
-                                "logo": null, 
-                                "date": "2017-12-27T16:35:00+01:00", 
-                                "start": "16:35", 
-                                "duration": "0:25", 
-                                "room": "CCL Hall 2", 
-                                "slug": "", 
-                                "title": "DLF", 
-                                "subtitle": "Live-Beitrag in Forschung Aktuell", 
-                                "track": "self organized sessions", 
-                                "type": "", 
-                                "language": "de", 
-                                "abstract": "", 
-                                "description": "DLF", 
-                                "persons": [], 
-                                "links": [
-                                    "https://events.ccc.de/congress/2017/wiki/index.php/Session:DLF"
-                                ]
-                            }, 
-                            {
-                                "id": 1090, 
+                                "id": 1082, 
                                 "guid": "f9e17ca9-0980-5070-aa6c-3b556ca66211", 
                                 "logo": null, 
                                 "date": "2017-12-27T11:20:00+01:00", 
@@ -1142,7 +1058,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1092, 
+                                "id": 1084, 
                                 "guid": "528e7ef5-72c6-55d1-9c21-3920add376a1", 
                                 "logo": null, 
                                 "date": "2017-12-27T17:00:00+01:00", 
@@ -1163,7 +1079,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1093, 
+                                "id": 1085, 
                                 "guid": "26226d1d-a08d-55b3-b295-9434c811b24a", 
                                 "logo": null, 
                                 "date": "2017-12-27T12:00:00+01:00", 
@@ -1184,7 +1100,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1096, 
+                                "id": 1088, 
                                 "guid": "31370b42-b65b-5860-8bd2-12dc9ccb7b5d", 
                                 "logo": null, 
                                 "date": "2017-12-27T12:15:00+01:00", 
@@ -1194,6 +1110,90 @@
                                 "slug": "", 
                                 "title": "DLF", 
                                 "subtitle": "Interview", 
+                                "track": "self organized sessions", 
+                                "type": "", 
+                                "language": "de", 
+                                "abstract": "", 
+                                "description": "DLF", 
+                                "persons": [], 
+                                "links": [
+                                    "https://events.ccc.de/congress/2017/wiki/index.php/Session:DLF"
+                                ]
+                            }, 
+                            {
+                                "id": 1091, 
+                                "guid": "c7e392d4-78d7-501f-82e8-4ae026411861", 
+                                "logo": null, 
+                                "date": "2017-12-27T14:00:00+01:00", 
+                                "start": "14:00", 
+                                "duration": "1:00", 
+                                "room": "CCL Hall 2", 
+                                "slug": "", 
+                                "title": "DLF", 
+                                "subtitle": "Erfolgsstory oder Armutszeugnis - Breitbandpolitik in Deutschland", 
+                                "track": "self organized sessions", 
+                                "type": "", 
+                                "language": "de", 
+                                "abstract": "", 
+                                "description": "DLF", 
+                                "persons": [], 
+                                "links": [
+                                    "https://events.ccc.de/congress/2017/wiki/index.php/Session:DLF"
+                                ]
+                            }, 
+                            {
+                                "id": 1094, 
+                                "guid": "616cbc52-8390-54ea-8839-3af7790e11d1", 
+                                "logo": null, 
+                                "date": "2017-12-27T16:05:00+01:00", 
+                                "start": "16:05", 
+                                "duration": "0:25", 
+                                "room": "CCL Hall 2", 
+                                "slug": "", 
+                                "title": "DLF", 
+                                "subtitle": "Live-Beitrag in Leonardo", 
+                                "track": "self organized sessions", 
+                                "type": "", 
+                                "language": "de", 
+                                "abstract": "", 
+                                "description": "DLF", 
+                                "persons": [], 
+                                "links": [
+                                    "https://events.ccc.de/congress/2017/wiki/index.php/Session:DLF"
+                                ]
+                            }, 
+                            {
+                                "id": 1095, 
+                                "guid": "555f0cd8-0fe0-5213-a087-c1539138aa40", 
+                                "logo": null, 
+                                "date": "2017-12-27T11:00:00+01:00", 
+                                "start": "11:00", 
+                                "duration": "0:20", 
+                                "room": "CCL Hall 2", 
+                                "slug": "", 
+                                "title": "DLF", 
+                                "subtitle": "Der 34C3", 
+                                "track": "self organized sessions", 
+                                "type": "", 
+                                "language": "de", 
+                                "abstract": "", 
+                                "description": "DLF", 
+                                "persons": [], 
+                                "links": [
+                                    "https://events.ccc.de/congress/2017/wiki/index.php/Session:DLF"
+                                ]
+                            }, 
+                            {
+                                "id": 1097, 
+                                "guid": "0e9a7526-0bf6-533d-8f83-94e4d1fb4d8f", 
+                                "logo": null, 
+                                "date": "2017-12-27T16:35:00+01:00", 
+                                "start": "16:35", 
+                                "duration": "0:25", 
+                                "room": "CCL Hall 2", 
+                                "slug": "", 
+                                "title": "DLF", 
+                                "subtitle": "Live-Beitrag in Forschung Aktuell", 
                                 "track": "self organized sessions", 
                                 "type": "", 
                                 "language": "de", 
@@ -1871,7 +1871,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1326, 
+                                "id": 1327, 
                                 "guid": "16098a31-339d-482a-9cac-55a2b174cbae", 
                                 "logo": null, 
                                 "date": "2017-12-27T19:45:00+01:00", 
@@ -2310,16 +2310,16 @@
                         ], 
                         "Hive Conference": [
                             {
-                                "id": 1059, 
-                                "guid": "9ef29ba5-4eb9-4d18-9f79-808570413595", 
+                                "id": 1057, 
+                                "guid": "6946c2f8-7ca0-4d95-a70a-20cec20e25fb", 
                                 "logo": null, 
-                                "date": "2017-12-28T16:00:00+01:00", 
-                                "start": "16:00", 
+                                "date": "2017-12-28T17:00:00+01:00", 
+                                "start": "17:00", 
                                 "duration": "1:00", 
                                 "room": "Hive Conference", 
                                 "slug": "", 
                                 "title": "Calliope Workshops", 
-                                "subtitle": "Calliope Workshop 3", 
+                                "subtitle": "Calliope Workshop 4", 
                                 "track": "self organized sessions", 
                                 "type": "workshop", 
                                 "language": "de", 
@@ -2338,16 +2338,16 @@
                                 ]
                             }, 
                             {
-                                "id": 1060, 
-                                "guid": "6946c2f8-7ca0-4d95-a70a-20cec20e25fb", 
+                                "id": 1061, 
+                                "guid": "9ef29ba5-4eb9-4d18-9f79-808570413595", 
                                 "logo": null, 
-                                "date": "2017-12-28T17:00:00+01:00", 
-                                "start": "17:00", 
+                                "date": "2017-12-28T16:00:00+01:00", 
+                                "start": "16:00", 
                                 "duration": "1:00", 
                                 "room": "Hive Conference", 
                                 "slug": "", 
                                 "title": "Calliope Workshops", 
-                                "subtitle": "Calliope Workshop 4", 
+                                "subtitle": "Calliope Workshop 3", 
                                 "track": "self organized sessions", 
                                 "type": "workshop", 
                                 "language": "de", 
@@ -2418,7 +2418,7 @@
                         ], 
                         "Lecture room 11": [
                             {
-                                "id": 1019, 
+                                "id": 1021, 
                                 "guid": "2b6595ff-c32b-44aa-9bda-e411e5911162", 
                                 "logo": null, 
                                 "date": "2017-12-28T20:15:00+01:00", 
@@ -2521,7 +2521,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1205, 
+                                "id": 1207, 
                                 "guid": "07142f3d-b450-4cac-94c7-9bb95f78339b", 
                                 "logo": null, 
                                 "date": "2017-12-28T15:00:00+01:00", 
@@ -2619,7 +2619,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1373, 
+                                "id": 1374, 
                                 "guid": "9b5087f5-f903-5324-9672-50105ed38e1b", 
                                 "logo": null, 
                                 "date": "2017-12-28T17:00:00+01:00", 
@@ -2930,7 +2930,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1209, 
+                                "id": 1210, 
                                 "guid": "11832e8c-2e41-4c8d-8ed8-a908d5638480", 
                                 "logo": null, 
                                 "date": "2017-12-29T00:00:00+01:00", 
@@ -2957,7 +2957,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1209, 
+                                "id": 1210, 
                                 "guid": "11832e8c-2e41-4c8d-8ed8-a908d5638480", 
                                 "logo": null, 
                                 "date": "2017-12-29T02:00:00+01:00", 
@@ -3243,7 +3243,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1346, 
+                                "id": 1347, 
                                 "guid": "58d27c73-4a82-4199-b186-f939686353b2", 
                                 "logo": null, 
                                 "date": "2017-12-28T13:00:00+01:00", 
@@ -3403,70 +3403,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1306, 
-                                "guid": "23c6fca0-a450-47cf-8e39-888514b76355", 
-                                "logo": null, 
-                                "date": "2017-12-28T19:30:00+01:00", 
-                                "start": "19:30", 
-                                "duration": "0:30", 
-                                "room": "CCL Hall 3", 
-                                "slug": "", 
-                                "title": "Rights&Freedoms", 
-                                "subtitle": "Algorithmic transaprency (EFF)", 
-                                "track": "self organized sessions", 
-                                "type": "talk", 
-                                "language": "de", 
-                                "abstract": "", 
-                                "description": "Rights & Freedoms Cluster Stage Programme", 
-                                "persons": [], 
-                                "links": [
-                                    "https://events.ccc.de/congress/2017/wiki/index.php/Session:Rights%26Freedoms"
-                                ]
-                            }, 
-                            {
-                                "id": 1310, 
-                                "guid": "cb719734-0650-4539-928a-ac4577eb588c", 
-                                "logo": null, 
-                                "date": "2017-12-28T13:00:00+01:00", 
-                                "start": "13:00", 
-                                "duration": "1:00", 
-                                "room": "CCL Hall 3", 
-                                "slug": "", 
-                                "title": "Rights&Freedoms", 
-                                "subtitle": "Take e-voting away from Europe (Hermes Center)", 
-                                "track": "self organized sessions", 
-                                "type": "talk", 
-                                "language": "de", 
-                                "abstract": "", 
-                                "description": "Rights & Freedoms Cluster Stage Programme", 
-                                "persons": [], 
-                                "links": [
-                                    "https://events.ccc.de/congress/2017/wiki/index.php/Session:Rights%26Freedoms"
-                                ]
-                            }, 
-                            {
-                                "id": 1312, 
-                                "guid": "add8feaa-74d7-44f2-acca-c6902671a1a6", 
-                                "logo": null, 
-                                "date": "2017-12-28T15:00:00+01:00", 
-                                "start": "15:00", 
-                                "duration": "1:00", 
-                                "room": "CCL Hall 3", 
-                                "slug": "", 
-                                "title": "Rights&Freedoms", 
-                                "subtitle": "Digital security training for newbies (EFF)", 
-                                "track": "self organized sessions", 
-                                "type": "talk", 
-                                "language": "de", 
-                                "abstract": "", 
-                                "description": "Rights & Freedoms Cluster Stage Programme", 
-                                "persons": [], 
-                                "links": [
-                                    "https://events.ccc.de/congress/2017/wiki/index.php/Session:Rights%26Freedoms"
-                                ]
-                            }, 
-                            {
-                                "id": 1314, 
+                                "id": 1303, 
                                 "guid": "24e0dbc4-0042-4cce-b648-86c3092b36a8", 
                                 "logo": null, 
                                 "date": "2017-12-28T19:00:00+01:00", 
@@ -3487,7 +3424,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1315, 
+                                "id": 1304, 
                                 "guid": "092ae74e-8fda-49c2-a247-f444f59864d0", 
                                 "logo": null, 
                                 "date": "2017-12-28T16:00:00+01:00", 
@@ -3508,7 +3445,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1316, 
+                                "id": 1305, 
                                 "guid": "d5e27e43-b64d-4166-8f5d-beb35700fd55", 
                                 "logo": null, 
                                 "date": "2017-12-28T14:00:00+01:00", 
@@ -3527,11 +3464,95 @@
                                 "links": [
                                     "https://events.ccc.de/congress/2017/wiki/index.php/Session:Rights%26Freedoms"
                                 ]
+                            }, 
+                            {
+                                "id": 1310, 
+                                "guid": "23c6fca0-a450-47cf-8e39-888514b76355", 
+                                "logo": null, 
+                                "date": "2017-12-28T19:30:00+01:00", 
+                                "start": "19:30", 
+                                "duration": "0:30", 
+                                "room": "CCL Hall 3", 
+                                "slug": "", 
+                                "title": "Rights&Freedoms", 
+                                "subtitle": "Algorithmic transaprency (EFF)", 
+                                "track": "self organized sessions", 
+                                "type": "talk", 
+                                "language": "de", 
+                                "abstract": "", 
+                                "description": "Rights & Freedoms Cluster Stage Programme", 
+                                "persons": [], 
+                                "links": [
+                                    "https://events.ccc.de/congress/2017/wiki/index.php/Session:Rights%26Freedoms"
+                                ]
+                            }, 
+                            {
+                                "id": 1314, 
+                                "guid": "cb719734-0650-4539-928a-ac4577eb588c", 
+                                "logo": null, 
+                                "date": "2017-12-28T13:00:00+01:00", 
+                                "start": "13:00", 
+                                "duration": "1:00", 
+                                "room": "CCL Hall 3", 
+                                "slug": "", 
+                                "title": "Rights&Freedoms", 
+                                "subtitle": "Take e-voting away from Europe (Hermes Center)", 
+                                "track": "self organized sessions", 
+                                "type": "talk", 
+                                "language": "de", 
+                                "abstract": "", 
+                                "description": "Rights & Freedoms Cluster Stage Programme", 
+                                "persons": [], 
+                                "links": [
+                                    "https://events.ccc.de/congress/2017/wiki/index.php/Session:Rights%26Freedoms"
+                                ]
+                            }, 
+                            {
+                                "id": 1316, 
+                                "guid": "add8feaa-74d7-44f2-acca-c6902671a1a6", 
+                                "logo": null, 
+                                "date": "2017-12-28T15:00:00+01:00", 
+                                "start": "15:00", 
+                                "duration": "1:00", 
+                                "room": "CCL Hall 3", 
+                                "slug": "", 
+                                "title": "Rights&Freedoms", 
+                                "subtitle": "Digital security training for newbies (EFF)", 
+                                "track": "self organized sessions", 
+                                "type": "talk", 
+                                "language": "de", 
+                                "abstract": "", 
+                                "description": "Rights & Freedoms Cluster Stage Programme", 
+                                "persons": [], 
+                                "links": [
+                                    "https://events.ccc.de/congress/2017/wiki/index.php/Session:Rights%26Freedoms"
+                                ]
                             }
                         ], 
                         "CCL Hall 2": [
                             {
-                                "id": 1082, 
+                                "id": 1087, 
+                                "guid": "531e5d6b-bb6a-5f91-b3cc-ac67734ae70f", 
+                                "logo": null, 
+                                "date": "2017-12-28T10:10:00+01:00", 
+                                "start": "10:10", 
+                                "duration": "1:20", 
+                                "room": "CCL Hall 2", 
+                                "slug": "", 
+                                "title": "DLF", 
+                                "subtitle": "\"Progmmieren lernen mit Raspberry Pi und Co.\"", 
+                                "track": "self organized sessions", 
+                                "type": "", 
+                                "language": "de", 
+                                "abstract": "", 
+                                "description": "DLF", 
+                                "persons": [], 
+                                "links": [
+                                    "https://events.ccc.de/congress/2017/wiki/index.php/Session:DLF"
+                                ]
+                            }, 
+                            {
+                                "id": 1090, 
                                 "guid": "c722d326-9297-5528-a7dd-6645ead7e8b1", 
                                 "logo": null, 
                                 "date": "2017-12-28T13:00:00+01:00", 
@@ -3552,7 +3573,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1085, 
+                                "id": 1093, 
                                 "guid": "4f5a4ab1-ab30-5729-8b05-8865a475dd8e", 
                                 "logo": null, 
                                 "date": "2017-12-28T16:35:00+01:00", 
@@ -3573,7 +3594,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1088, 
+                                "id": 1096, 
                                 "guid": "3b865956-5400-5ec4-81b0-028abf9495aa", 
                                 "logo": null, 
                                 "date": "2017-12-28T17:00:00+01:00", 
@@ -3583,27 +3604,6 @@
                                 "slug": "", 
                                 "title": "DLF", 
                                 "subtitle": "Studiogespr\u00e4ch", 
-                                "track": "self organized sessions", 
-                                "type": "", 
-                                "language": "de", 
-                                "abstract": "", 
-                                "description": "DLF", 
-                                "persons": [], 
-                                "links": [
-                                    "https://events.ccc.de/congress/2017/wiki/index.php/Session:DLF"
-                                ]
-                            }, 
-                            {
-                                "id": 1095, 
-                                "guid": "531e5d6b-bb6a-5f91-b3cc-ac67734ae70f", 
-                                "logo": null, 
-                                "date": "2017-12-28T10:10:00+01:00", 
-                                "start": "10:10", 
-                                "duration": "1:20", 
-                                "room": "CCL Hall 2", 
-                                "slug": "", 
-                                "title": "DLF", 
-                                "subtitle": "\"Progmmieren lernen mit Raspberry Pi und Co.\"", 
                                 "track": "self organized sessions", 
                                 "type": "", 
                                 "language": "de", 
@@ -4638,7 +4638,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1057, 
+                                "id": 1059, 
                                 "guid": "71d30e88-62ae-581d-a215-1775cc78b19f", 
                                 "logo": null, 
                                 "date": "2017-12-28T12:00:00+01:00", 
@@ -4666,7 +4666,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1058, 
+                                "id": 1060, 
                                 "guid": "5ebed7df-9716-4022-bb28-2b747e5cfbf1", 
                                 "logo": null, 
                                 "date": "2017-12-28T13:00:00+01:00", 
@@ -4876,7 +4876,7 @@
                         ], 
                         "Hive Conference": [
                             {
-                                "id": 1061, 
+                                "id": 1058, 
                                 "guid": "0f05a671-8cbd-4a88-9be6-0a7ea0f39973", 
                                 "logo": null, 
                                 "date": "2017-12-29T14:00:00+01:00", 
@@ -4989,7 +4989,7 @@
                         ], 
                         "Lecture room 11": [
                             {
-                                "id": 1019, 
+                                "id": 1021, 
                                 "guid": "2b6595ff-c32b-44aa-9bda-e411e5911162", 
                                 "logo": null, 
                                 "date": "2017-12-29T20:15:00+01:00", 
@@ -5093,7 +5093,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1206, 
+                                "id": 1205, 
                                 "guid": "2cf16048-946e-4230-8c5a-332826ea14c6", 
                                 "logo": null, 
                                 "date": "2017-12-30T02:30:00+01:00", 
@@ -5121,7 +5121,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1207, 
+                                "id": 1208, 
                                 "guid": "e3d9d5b4-b35d-4828-b7af-6cdf33b438cf", 
                                 "logo": null, 
                                 "date": "2017-12-29T23:59:00+01:00", 
@@ -5465,7 +5465,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1209, 
+                                "id": 1210, 
                                 "guid": "11832e8c-2e41-4c8d-8ed8-a908d5638480", 
                                 "logo": null, 
                                 "date": "2017-12-30T00:00:00+01:00", 
@@ -5492,7 +5492,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1209, 
+                                "id": 1210, 
                                 "guid": "11832e8c-2e41-4c8d-8ed8-a908d5638480", 
                                 "logo": null, 
                                 "date": "2017-12-30T02:00:00+01:00", 
@@ -5613,34 +5613,6 @@
                             }, 
                             {
                                 "id": 1409, 
-                                "guid": "2908d355-9054-4c8f-8a7f-33e677435c1d", 
-                                "logo": null, 
-                                "date": "2017-12-29T14:45:00+01:00", 
-                                "start": "14:45", 
-                                "duration": "1:15", 
-                                "room": "Chaos West Stage", 
-                                "slug": "", 
-                                "title": "Ybti+wefixthenet", 
-                                "subtitle": "", 
-                                "track": "self organized sessions", 
-                                "type": "talk", 
-                                "language": "en", 
-                                "abstract": "", 
-                                "description": "youbroketheinternet/wefixthenet session to discuss and report progress on a secure, private post-Snowden era Internet", 
-                                "persons": [
-                                    {
-                                        "id": 0, 
-                                        "url": "https://events.ccc.de/congress/2017/wiki/index.php/User:Forthy", 
-                                        "public_name": "Forthy"
-                                    }
-                                ], 
-                                "links": [
-                                    "http://youbroketheinternet.org/", 
-                                    "https://events.ccc.de/congress/2017/wiki/index.php/Session:Ybti%2Bwefixthenet"
-                                ]
-                            }, 
-                            {
-                                "id": 1410, 
                                 "guid": "cc28d9e0-c2e8-4e48-862e-5e5f489eb214", 
                                 "logo": null, 
                                 "date": "2017-12-29T18:00:00+01:00", 
@@ -5668,7 +5640,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1411, 
+                                "id": 1410, 
                                 "guid": "668e730c-cdff-419e-9c92-074b1355448d", 
                                 "logo": null, 
                                 "date": "2017-12-29T18:30:00+01:00", 
@@ -5678,6 +5650,34 @@
                                 "slug": "", 
                                 "title": "Ybti+wefixthenet", 
                                 "subtitle": "Die Programmiersprache Forth", 
+                                "track": "self organized sessions", 
+                                "type": "talk", 
+                                "language": "en", 
+                                "abstract": "", 
+                                "description": "youbroketheinternet/wefixthenet session to discuss and report progress on a secure, private post-Snowden era Internet", 
+                                "persons": [
+                                    {
+                                        "id": 0, 
+                                        "url": "https://events.ccc.de/congress/2017/wiki/index.php/User:Forthy", 
+                                        "public_name": "Forthy"
+                                    }
+                                ], 
+                                "links": [
+                                    "http://youbroketheinternet.org/", 
+                                    "https://events.ccc.de/congress/2017/wiki/index.php/Session:Ybti%2Bwefixthenet"
+                                ]
+                            }, 
+                            {
+                                "id": 1411, 
+                                "guid": "2908d355-9054-4c8f-8a7f-33e677435c1d", 
+                                "logo": null, 
+                                "date": "2017-12-29T14:45:00+01:00", 
+                                "start": "14:45", 
+                                "duration": "1:15", 
+                                "room": "Chaos West Stage", 
+                                "slug": "", 
+                                "title": "Ybti+wefixthenet", 
+                                "subtitle": "", 
                                 "track": "self organized sessions", 
                                 "type": "talk", 
                                 "language": "en", 
@@ -6052,7 +6052,28 @@
                                 ]
                             }, 
                             {
-                                "id": 1303, 
+                                "id": 1306, 
+                                "guid": "e205e42a-460e-4c11-b3a2-c764d06cb053", 
+                                "logo": null, 
+                                "date": "2017-12-29T18:00:00+01:00", 
+                                "start": "18:00", 
+                                "duration": "1:00", 
+                                "room": "CCL Hall 3", 
+                                "slug": "", 
+                                "title": "Rights&Freedoms", 
+                                "subtitle": "DYI: Net Neutrality enforcement in the EU (Epicenter.works)", 
+                                "track": "self organized sessions", 
+                                "type": "talk", 
+                                "language": "de", 
+                                "abstract": "", 
+                                "description": "Rights & Freedoms Cluster Stage Programme", 
+                                "persons": [], 
+                                "links": [
+                                    "https://events.ccc.de/congress/2017/wiki/index.php/Session:Rights%26Freedoms"
+                                ]
+                            }, 
+                            {
+                                "id": 1307, 
                                 "guid": "d7d75ccf-f380-4a59-a18b-92ae6083fb8a", 
                                 "logo": null, 
                                 "date": "2017-12-29T17:00:00+01:00", 
@@ -6073,7 +6094,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1305, 
+                                "id": 1309, 
                                 "guid": "65ef56f8-c667-4b9f-8a28-843f8fe7bbf0", 
                                 "logo": null, 
                                 "date": "2017-12-29T21:00:00+01:00", 
@@ -6094,7 +6115,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1307, 
+                                "id": 1311, 
                                 "guid": "f8c6d10a-3129-4d2c-8806-d5c0732e2851", 
                                 "logo": null, 
                                 "date": "2017-12-29T17:30:00+01:00", 
@@ -6115,7 +6136,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1309, 
+                                "id": 1313, 
                                 "guid": "93fa9255-e0a0-457e-a569-cb6b88776793", 
                                 "logo": null, 
                                 "date": "2017-12-29T15:00:00+01:00", 
@@ -6136,7 +6157,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1311, 
+                                "id": 1315, 
                                 "guid": "2364a815-ad04-427d-8877-1c4e3931f4be", 
                                 "logo": null, 
                                 "date": "2017-12-29T14:00:00+01:00", 
@@ -6155,32 +6176,11 @@
                                 "links": [
                                     "https://events.ccc.de/congress/2017/wiki/index.php/Session:Rights%26Freedoms"
                                 ]
-                            }, 
-                            {
-                                "id": 1317, 
-                                "guid": "e205e42a-460e-4c11-b3a2-c764d06cb053", 
-                                "logo": null, 
-                                "date": "2017-12-29T18:00:00+01:00", 
-                                "start": "18:00", 
-                                "duration": "1:00", 
-                                "room": "CCL Hall 3", 
-                                "slug": "", 
-                                "title": "Rights&Freedoms", 
-                                "subtitle": "DYI: Net Neutrality enforcement in the EU (Epicenter.works)", 
-                                "track": "self organized sessions", 
-                                "type": "talk", 
-                                "language": "de", 
-                                "abstract": "", 
-                                "description": "Rights & Freedoms Cluster Stage Programme", 
-                                "persons": [], 
-                                "links": [
-                                    "https://events.ccc.de/congress/2017/wiki/index.php/Session:Rights%26Freedoms"
-                                ]
                             }
                         ], 
                         "CCL Hall 2": [
                             {
-                                "id": 1091, 
+                                "id": 1083, 
                                 "guid": "1481e306-80a7-5abd-842c-177422a47468", 
                                 "logo": null, 
                                 "date": "2017-12-29T16:35:00+01:00", 
@@ -6201,7 +6201,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1094, 
+                                "id": 1086, 
                                 "guid": "996b43ab-9f4c-5e9e-bdb7-9c0b7ab7bf48", 
                                 "logo": null, 
                                 "date": "2017-12-29T17:00:00+01:00", 
@@ -6556,7 +6556,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1374, 
+                                "id": 1375, 
                                 "guid": "f3a30985-fc90-51f2-baa3-a07d034bffcc", 
                                 "logo": null, 
                                 "date": "2017-12-29T17:30:00+01:00", 
@@ -7575,7 +7575,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1208, 
+                                "id": 1206, 
                                 "guid": "98e116fa-62da-4392-98bd-e3d3b44f4342", 
                                 "logo": null, 
                                 "date": "2017-12-30T12:00:00+01:00", 
@@ -8069,7 +8069,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1308, 
+                                "id": 1312, 
                                 "guid": "3402fbf1-545c-4b4f-abf3-7fa4afbfed9f", 
                                 "logo": null, 
                                 "date": "2017-12-30T14:00:00+01:00", 
@@ -8092,16 +8092,16 @@
                         ], 
                         "CCL Hall 2": [
                             {
-                                "id": 1084, 
-                                "guid": "bdf00168-ed69-5809-9916-a89d109c9b2c", 
+                                "id": 1089, 
+                                "guid": "1c73c759-0d3b-501e-a07d-82ea10e9f40c", 
                                 "logo": null, 
-                                "date": "2017-12-30T14:15:00+01:00", 
-                                "start": "14:15", 
-                                "duration": "0:30", 
+                                "date": "2017-12-30T13:05:00+01:00", 
+                                "start": "13:05", 
+                                "duration": "0:55", 
                                 "room": "CCL Hall 2", 
                                 "slug": "", 
                                 "title": "DLF", 
-                                "subtitle": "\"tuwat!\" - Der 34C3 in Leipzig", 
+                                "subtitle": "Dlf Kultur - Breitband", 
                                 "track": "self organized sessions", 
                                 "type": "", 
                                 "language": "de", 
@@ -8113,16 +8113,16 @@
                                 ]
                             }, 
                             {
-                                "id": 1097, 
-                                "guid": "1c73c759-0d3b-501e-a07d-82ea10e9f40c", 
+                                "id": 1092, 
+                                "guid": "bdf00168-ed69-5809-9916-a89d109c9b2c", 
                                 "logo": null, 
-                                "date": "2017-12-30T13:05:00+01:00", 
-                                "start": "13:05", 
-                                "duration": "0:55", 
+                                "date": "2017-12-30T14:15:00+01:00", 
+                                "start": "14:15", 
+                                "duration": "0:30", 
                                 "room": "CCL Hall 2", 
                                 "slug": "", 
                                 "title": "DLF", 
-                                "subtitle": "Dlf Kultur - Breitband", 
+                                "subtitle": "\"tuwat!\" - Der 34C3 in Leipzig", 
                                 "track": "self organized sessions", 
                                 "type": "", 
                                 "language": "de", 
@@ -8662,7 +8662,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1327, 
+                                "id": 1326, 
                                 "guid": "7371a2f9-75c6-4c01-9f8d-724c8c88d479", 
                                 "logo": null, 
                                 "date": "2017-12-30T11:00:00+01:00", 
@@ -8690,7 +8690,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1375, 
+                                "id": 1376, 
                                 "guid": "a7828620-98db-4aff-8d42-3f8e0f464b9e", 
                                 "logo": null, 
                                 "date": "2017-12-30T13:15:00+01:00", 
@@ -8745,6 +8745,6 @@
                 }
             ]
         }, 
-        "version": "2018-01-03 09:50"
+        "version": "2018-01-03 10:00"
     }
 }
