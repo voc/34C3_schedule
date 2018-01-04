@@ -1,6 +1,6 @@
 {
     "schedule": {
-        "version": "Mildenberg 2018-01-04 04:20", 
+        "version": "Mildenberg 2018-01-04 04:30", 
         "base_url": "https://fahrplan.events.ccc.de/congress/2017/Fahrplan/", 
         "conference": {
             "acronym": "34c3", 
@@ -18029,9 +18029,9 @@
                                 "subtitle": "", 
                                 "track": "self organized sessions", 
                                 "type": "discussion", 
-                                "language": "en", 
+                                "language": "de", 
                                 "abstract": "", 
-                                "description": "An open discussion on how to improve diversity at c3 events and on dealing with cases of harassment.", 
+                                "description": "", 
                                 "persons": [
                                     {
                                         "id": 0, 
@@ -18754,18 +18754,18 @@
                             }
                         ], 
                         "Workshop Area": [], 
-                        "Assembly:Anarchist": [
+                        "": [
                             {
                                 "id": 1028, 
-                                "guid": "0fa827b9-21f0-48c5-879a-25346b477147", 
+                                "guid": "31286d98-3223-48a9-ad2d-c3cdb820be44", 
                                 "logo": null, 
-                                "date": "2017-12-30T19:00:00+01:00", 
-                                "start": "19:00", 
-                                "duration": "1:00", 
-                                "room": "Assembly:Anarchist", 
+                                "date": "2017-12-30T16:30:00+01:00", 
+                                "start": "16:30", 
+                                "duration": "0:30", 
+                                "room": "", 
                                 "slug": "", 
                                 "title": "Anarchist Aseembly of the Anarchist Assembly", 
-                                "subtitle": "Second meeting, same topics, partly different people", 
+                                "subtitle": "First meeting, same topics, partly different people", 
                                 "track": "self organized sessions", 
                                 "type": "", 
                                 "language": "en", 
@@ -18788,18 +18788,18 @@
                                 ]
                             }
                         ], 
-                        "": [
+                        "Assembly:Anarchist": [
                             {
                                 "id": 1029, 
-                                "guid": "31286d98-3223-48a9-ad2d-c3cdb820be44", 
+                                "guid": "0fa827b9-21f0-48c5-879a-25346b477147", 
                                 "logo": null, 
-                                "date": "2017-12-30T16:30:00+01:00", 
-                                "start": "16:30", 
-                                "duration": "0:30", 
-                                "room": "", 
+                                "date": "2017-12-30T19:00:00+01:00", 
+                                "start": "19:00", 
+                                "duration": "1:00", 
+                                "room": "Assembly:Anarchist", 
                                 "slug": "", 
                                 "title": "Anarchist Aseembly of the Anarchist Assembly", 
-                                "subtitle": "First meeting, same topics, partly different people", 
+                                "subtitle": "Second meeting, same topics, partly different people", 
                                 "track": "self organized sessions", 
                                 "type": "", 
                                 "language": "en", 

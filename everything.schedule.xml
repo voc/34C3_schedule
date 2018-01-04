@@ -1,5 +1,5 @@
 <schedule>
-  <version>Mildenberg 2018-01-04 04:20</version>
+  <version>Mildenberg 2018-01-04 04:30</version>
   <base_url>https://fahrplan.events.ccc.de/congress/2017/Fahrplan/</base_url>
   <conference>
     <acronym>34c3</acronym>
@@ -15678,9 +15678,9 @@ The goal of this hands-on session is to pass on knowledge about protecting yours
         <subtitle/>
         <track>self organized sessions</track>
         <type>discussion</type>
-        <language>en</language>
+        <language>de</language>
         <abstract/>
-        <description>An open discussion on how to improve diversity at c3 events and on dealing with cases of harassment.</description>
+        <description/>
         <persons>
           <person id="0" href="https://events.ccc.de/congress/2017/wiki/index.php/User:Blackspear">Blackspear</person>
         </persons>
@@ -16336,16 +16336,16 @@ but can also use public keys and content hashes as links.</abstract>
       </event>
     </room>
     <room name="Workshop Area"/>
-    <room name="Assembly:Anarchist">
-      <event id="1028" guid="0fa827b9-21f0-48c5-879a-25346b477147">
+    <room name="">
+      <event id="1028" guid="31286d98-3223-48a9-ad2d-c3cdb820be44">
         <logo/>
-        <date>2017-12-30T19:00:00+01:00</date>
-        <start>19:00</start>
-        <duration>1:00</duration>
-        <room>Assembly:Anarchist</room>
+        <date>2017-12-30T16:30:00+01:00</date>
+        <start>16:30</start>
+        <duration>0:30</duration>
+        <room/>
         <slug/>
         <title>Anarchist Aseembly of the Anarchist Assembly</title>
-        <subtitle>Second meeting, same topics, partly different people</subtitle>
+        <subtitle>First meeting, same topics, partly different people</subtitle>
         <track>self organized sessions</track>
         <type/>
         <language>en</language>
@@ -16360,16 +16360,16 @@ but can also use public keys and content hashes as links.</abstract>
         </links>
       </event>
     </room>
-    <room name="">
-      <event id="1029" guid="31286d98-3223-48a9-ad2d-c3cdb820be44">
+    <room name="Assembly:Anarchist">
+      <event id="1029" guid="0fa827b9-21f0-48c5-879a-25346b477147">
         <logo/>
-        <date>2017-12-30T16:30:00+01:00</date>
-        <start>16:30</start>
-        <duration>0:30</duration>
-        <room/>
+        <date>2017-12-30T19:00:00+01:00</date>
+        <start>19:00</start>
+        <duration>1:00</duration>
+        <room>Assembly:Anarchist</room>
         <slug/>
         <title>Anarchist Aseembly of the Anarchist Assembly</title>
-        <subtitle>First meeting, same topics, partly different people</subtitle>
+        <subtitle>Second meeting, same topics, partly different people</subtitle>
         <track>self organized sessions</track>
         <type/>
         <language>en</language>
