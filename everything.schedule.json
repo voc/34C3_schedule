@@ -1,6 +1,6 @@
 {
     "schedule": {
-        "version": "Mildenberg 2018-01-05 23:20", 
+        "version": "Mildenberg 2018-01-05 23:30", 
         "base_url": "https://fahrplan.events.ccc.de/congress/2017/Fahrplan/", 
         "conference": {
             "acronym": "34c3", 
@@ -4515,7 +4515,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1359, 
+                                "id": 1360, 
                                 "guid": "0684a69d-9796-4946-9955-84cfafe8cb64", 
                                 "logo": null, 
                                 "date": "2017-12-27T16:00:00+01:00", 
@@ -4543,7 +4543,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1359, 
+                                "id": 1360, 
                                 "guid": "0684a69d-9796-4946-9955-84cfafe8cb64", 
                                 "logo": null, 
                                 "date": "2017-12-27T17:00:00+01:00", 
@@ -4571,7 +4571,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1359, 
+                                "id": 1360, 
                                 "guid": "0684a69d-9796-4946-9955-84cfafe8cb64", 
                                 "logo": null, 
                                 "date": "2017-12-27T19:00:00+01:00", 
@@ -10325,7 +10325,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1360, 
+                                "id": 1361, 
                                 "guid": "fa3d8ee5-d1ff-4b29-a763-a49f7b882ceb", 
                                 "logo": null, 
                                 "date": "2017-12-28T17:30:00+01:00", 
@@ -12533,15 +12533,15 @@
                             }, 
                             {
                                 "id": 1207, 
-                                "guid": "2cf16048-946e-4230-8c5a-332826ea14c6", 
+                                "guid": "e3d9d5b4-b35d-4828-b7af-6cdf33b438cf", 
                                 "logo": null, 
-                                "date": "2017-12-30T02:30:00+01:00", 
-                                "start": "02:30", 
-                                "duration": "2:00", 
+                                "date": "2017-12-29T23:59:00+01:00", 
+                                "start": "23:59", 
+                                "duration": "1:30", 
                                 "room": "Lecture room 11", 
                                 "slug": "", 
                                 "title": "KinkyGeeks Bondage Workshop", 
-                                "subtitle": "Open Rope Jam", 
+                                "subtitle": "Advanced", 
                                 "track": "self organized sessions", 
                                 "type": "workshop", 
                                 "language": "de", 
@@ -12561,15 +12561,15 @@
                             }, 
                             {
                                 "id": 1208, 
-                                "guid": "e3d9d5b4-b35d-4828-b7af-6cdf33b438cf", 
+                                "guid": "2cf16048-946e-4230-8c5a-332826ea14c6", 
                                 "logo": null, 
-                                "date": "2017-12-29T23:59:00+01:00", 
-                                "start": "23:59", 
-                                "duration": "1:30", 
+                                "date": "2017-12-30T02:30:00+01:00", 
+                                "start": "02:30", 
+                                "duration": "2:00", 
                                 "room": "Lecture room 11", 
                                 "slug": "", 
                                 "title": "KinkyGeeks Bondage Workshop", 
-                                "subtitle": "Advanced", 
+                                "subtitle": "Open Rope Jam", 
                                 "track": "self organized sessions", 
                                 "type": "workshop", 
                                 "language": "de", 
@@ -15757,16 +15757,16 @@
                                 ]
                             }, 
                             {
-                                "id": 1357, 
-                                "guid": "622c5770-b9fc-45ef-b9fc-1533f661e3ec", 
+                                "id": 1359, 
+                                "guid": "bf53e3db-dcf4-4460-b5b4-4d397b264586", 
                                 "logo": null, 
-                                "date": "2017-12-29T14:30:00+01:00", 
-                                "start": "14:30", 
+                                "date": "2017-12-29T16:00:00+01:00", 
+                                "start": "16:00", 
                                 "duration": "1:00", 
                                 "room": "Assembly:TeaHouse", 
                                 "slug": "", 
                                 "title": "TeaHouse", 
-                                "subtitle": "Fuck Off Google! \"Google campus\" out of Kreuzberg", 
+                                "subtitle": "[https://events.ccc.de/congress/2017/wiki/index.php/Session:CryptOps:_Moving_to_a_world_with_encrypted_VPSs_only CryptOps: Moving to a world with encrypted VPSs only]", 
                                 "track": "self organized sessions", 
                                 "type": "meeting", 
                                 "language": "en", 
@@ -15785,16 +15785,16 @@
                                 ]
                             }, 
                             {
-                                "id": 1361, 
-                                "guid": "bf53e3db-dcf4-4460-b5b4-4d397b264586", 
+                                "id": 1357, 
+                                "guid": "622c5770-b9fc-45ef-b9fc-1533f661e3ec", 
                                 "logo": null, 
-                                "date": "2017-12-29T16:00:00+01:00", 
-                                "start": "16:00", 
+                                "date": "2017-12-29T14:30:00+01:00", 
+                                "start": "14:30", 
                                 "duration": "1:00", 
                                 "room": "Assembly:TeaHouse", 
                                 "slug": "", 
                                 "title": "TeaHouse", 
-                                "subtitle": "[https://events.ccc.de/congress/2017/wiki/index.php/Session:CryptOps:_Moving_to_a_world_with_encrypted_VPSs_only CryptOps: Moving to a world with encrypted VPSs only]", 
+                                "subtitle": "Fuck Off Google! \"Google campus\" out of Kreuzberg", 
                                 "track": "self organized sessions", 
                                 "type": "meeting", 
                                 "language": "en", 
@@ -18051,9 +18051,9 @@
                                 "subtitle": "", 
                                 "track": "self organized sessions", 
                                 "type": "discussion", 
-                                "language": "en", 
+                                "language": "de", 
                                 "abstract": "", 
-                                "description": "An open discussion on how to improve diversity at c3 events and on dealing with cases of harassment.", 
+                                "description": "", 
                                 "persons": [
                                     {
                                         "id": 0, 
@@ -19083,62 +19083,6 @@
                                 "id": 1357, 
                                 "guid": "622c5770-b9fc-45ef-b9fc-1533f661e3ec", 
                                 "logo": null, 
-                                "date": "2017-12-30T12:00:00+01:00", 
-                                "start": "12:00", 
-                                "duration": "0:30", 
-                                "room": "Assembly:TeaHouse", 
-                                "slug": "", 
-                                "title": "TeaHouse", 
-                                "subtitle": "Updating Security in a Box", 
-                                "track": "self organized sessions", 
-                                "type": "meeting", 
-                                "language": "en", 
-                                "abstract": "", 
-                                "description": "", 
-                                "persons": [
-                                    {
-                                        "id": 0, 
-                                        "url": "https://events.ccc.de/congress/2017/wiki/index.php/User:Sanpi", 
-                                        "public_name": "Sanpi"
-                                    }
-                                ], 
-                                "links": [
-                                    "https://teahouse.homecomputing.fr/", 
-                                    "https://events.ccc.de/congress/2017/wiki/index.php/Session:TeaHouse"
-                                ]
-                            }, 
-                            {
-                                "id": 1357, 
-                                "guid": "622c5770-b9fc-45ef-b9fc-1533f661e3ec", 
-                                "logo": null, 
-                                "date": "2017-12-30T13:00:00+01:00", 
-                                "start": "13:00", 
-                                "duration": "0:20", 
-                                "room": "Assembly:TeaHouse", 
-                                "slug": "", 
-                                "title": "TeaHouse", 
-                                "subtitle": "\u03b5xodus reveals hidden trackers in Android applications", 
-                                "track": "self organized sessions", 
-                                "type": "meeting", 
-                                "language": "en", 
-                                "abstract": "", 
-                                "description": "", 
-                                "persons": [
-                                    {
-                                        "id": 0, 
-                                        "url": "https://events.ccc.de/congress/2017/wiki/index.php/User:Sanpi", 
-                                        "public_name": "Sanpi"
-                                    }
-                                ], 
-                                "links": [
-                                    "https://teahouse.homecomputing.fr/", 
-                                    "https://events.ccc.de/congress/2017/wiki/index.php/Session:TeaHouse"
-                                ]
-                            }, 
-                            {
-                                "id": 1357, 
-                                "guid": "622c5770-b9fc-45ef-b9fc-1533f661e3ec", 
-                                "logo": null, 
                                 "date": "2017-12-30T14:00:00+01:00", 
                                 "start": "14:00", 
                                 "duration": "0:20", 
@@ -19174,6 +19118,62 @@
                                 "slug": "", 
                                 "title": "TeaHouse", 
                                 "subtitle": "want to talk about the new c.h.an.g.e. location", 
+                                "track": "self organized sessions", 
+                                "type": "meeting", 
+                                "language": "en", 
+                                "abstract": "", 
+                                "description": "", 
+                                "persons": [
+                                    {
+                                        "id": 0, 
+                                        "url": "https://events.ccc.de/congress/2017/wiki/index.php/User:Sanpi", 
+                                        "public_name": "Sanpi"
+                                    }
+                                ], 
+                                "links": [
+                                    "https://teahouse.homecomputing.fr/", 
+                                    "https://events.ccc.de/congress/2017/wiki/index.php/Session:TeaHouse"
+                                ]
+                            }, 
+                            {
+                                "id": 1357, 
+                                "guid": "622c5770-b9fc-45ef-b9fc-1533f661e3ec", 
+                                "logo": null, 
+                                "date": "2017-12-30T12:00:00+01:00", 
+                                "start": "12:00", 
+                                "duration": "0:30", 
+                                "room": "Assembly:TeaHouse", 
+                                "slug": "", 
+                                "title": "TeaHouse", 
+                                "subtitle": "Updating Security in a Box", 
+                                "track": "self organized sessions", 
+                                "type": "meeting", 
+                                "language": "en", 
+                                "abstract": "", 
+                                "description": "", 
+                                "persons": [
+                                    {
+                                        "id": 0, 
+                                        "url": "https://events.ccc.de/congress/2017/wiki/index.php/User:Sanpi", 
+                                        "public_name": "Sanpi"
+                                    }
+                                ], 
+                                "links": [
+                                    "https://teahouse.homecomputing.fr/", 
+                                    "https://events.ccc.de/congress/2017/wiki/index.php/Session:TeaHouse"
+                                ]
+                            }, 
+                            {
+                                "id": 1357, 
+                                "guid": "622c5770-b9fc-45ef-b9fc-1533f661e3ec", 
+                                "logo": null, 
+                                "date": "2017-12-30T13:00:00+01:00", 
+                                "start": "13:00", 
+                                "duration": "0:20", 
+                                "room": "Assembly:TeaHouse", 
+                                "slug": "", 
+                                "title": "TeaHouse", 
+                                "subtitle": "\u03b5xodus reveals hidden trackers in Android applications", 
                                 "track": "self organized sessions", 
                                 "type": "meeting", 
                                 "language": "en", 

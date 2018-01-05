@@ -4364,15 +4364,15 @@ A trip from CAcert over African Chamas through blockchains to Community</descrip
           <link>https://events.ccc.de/congress/2017/wiki/index.php/Session:Haecksenbreakfast</link>
         </links>
       </event>
-      <event id="1207" guid="2cf16048-946e-4230-8c5a-332826ea14c6">
+      <event id="1207" guid="e3d9d5b4-b35d-4828-b7af-6cdf33b438cf">
         <logo/>
-        <date>2017-12-30T02:30:00+01:00</date>
-        <start>02:30</start>
-        <duration>2:00</duration>
+        <date>2017-12-29T23:59:00+01:00</date>
+        <start>23:59</start>
+        <duration>1:30</duration>
         <room>Lecture room 11</room>
         <slug/>
         <title>KinkyGeeks Bondage Workshop</title>
-        <subtitle>Open Rope Jam</subtitle>
+        <subtitle>Advanced</subtitle>
         <track>self organized sessions</track>
         <type>workshop</type>
         <language>de</language>
@@ -4386,15 +4386,15 @@ A trip from CAcert over African Chamas through blockchains to Community</descrip
           <link>https://events.ccc.de/congress/2017/wiki/index.php/Session:KinkyGeeks_Bondage_Workshop</link>
         </links>
       </event>
-      <event id="1208" guid="e3d9d5b4-b35d-4828-b7af-6cdf33b438cf">
+      <event id="1208" guid="2cf16048-946e-4230-8c5a-332826ea14c6">
         <logo/>
-        <date>2017-12-29T23:59:00+01:00</date>
-        <start>23:59</start>
-        <duration>1:30</duration>
+        <date>2017-12-30T02:30:00+01:00</date>
+        <start>02:30</start>
+        <duration>2:00</duration>
         <room>Lecture room 11</room>
         <slug/>
         <title>KinkyGeeks Bondage Workshop</title>
-        <subtitle>Advanced</subtitle>
+        <subtitle>Open Rope Jam</subtitle>
         <track>self organized sessions</track>
         <type>workshop</type>
         <language>de</language>
@@ -6800,9 +6800,9 @@ The goal of this hands-on session is to pass on knowledge about protecting yours
         <subtitle/>
         <track>self organized sessions</track>
         <type>discussion</type>
-        <language>en</language>
+        <language>de</language>
         <abstract/>
-        <description>An open discussion on how to improve diversity at c3 events and on dealing with cases of harassment.</description>
+        <description/>
         <persons>
           <person id="0" href="https://events.ccc.de/congress/2017/wiki/index.php/User:Blackspear">Blackspear</person>
         </persons>
@@ -7442,5 +7442,5 @@ Notes of the session: https://etherpad.wikimedia.org/p/tuwat</description>
       </event>
     </room>
   </day>
-  <version>2018-01-05 23:20</version>
+  <version>2018-01-05 23:30</version>
 </schedule>

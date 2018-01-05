@@ -5094,15 +5094,15 @@
                             }, 
                             {
                                 "id": 1207, 
-                                "guid": "2cf16048-946e-4230-8c5a-332826ea14c6", 
+                                "guid": "e3d9d5b4-b35d-4828-b7af-6cdf33b438cf", 
                                 "logo": null, 
-                                "date": "2017-12-30T02:30:00+01:00", 
-                                "start": "02:30", 
-                                "duration": "2:00", 
+                                "date": "2017-12-29T23:59:00+01:00", 
+                                "start": "23:59", 
+                                "duration": "1:30", 
                                 "room": "Lecture room 11", 
                                 "slug": "", 
                                 "title": "KinkyGeeks Bondage Workshop", 
-                                "subtitle": "Open Rope Jam", 
+                                "subtitle": "Advanced", 
                                 "track": "self organized sessions", 
                                 "type": "workshop", 
                                 "language": "de", 
@@ -5122,15 +5122,15 @@
                             }, 
                             {
                                 "id": 1208, 
-                                "guid": "e3d9d5b4-b35d-4828-b7af-6cdf33b438cf", 
+                                "guid": "2cf16048-946e-4230-8c5a-332826ea14c6", 
                                 "logo": null, 
-                                "date": "2017-12-29T23:59:00+01:00", 
-                                "start": "23:59", 
-                                "duration": "1:30", 
+                                "date": "2017-12-30T02:30:00+01:00", 
+                                "start": "02:30", 
+                                "duration": "2:00", 
                                 "room": "Lecture room 11", 
                                 "slug": "", 
                                 "title": "KinkyGeeks Bondage Workshop", 
-                                "subtitle": "Advanced", 
+                                "subtitle": "Open Rope Jam", 
                                 "track": "self organized sessions", 
                                 "type": "workshop", 
                                 "language": "de", 
@@ -8026,9 +8026,9 @@
                                 "subtitle": "", 
                                 "track": "self organized sessions", 
                                 "type": "discussion", 
-                                "language": "en", 
+                                "language": "de", 
                                 "abstract": "", 
-                                "description": "An open discussion on how to improve diversity at c3 events and on dealing with cases of harassment.", 
+                                "description": "", 
                                 "persons": [
                                     {
                                         "id": 0, 
@@ -8745,6 +8745,6 @@
                 }
             ]
         }, 
-        "version": "2018-01-05 23:20"
+        "version": "2018-01-05 23:30"
     }
 }
