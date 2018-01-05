@@ -104,26 +104,7 @@ This meeting is mandatory if you want to be a Stagemanager during 34C3.</descrip
     <room name="CCL Hall 3"/>
     <room name="Komona D.Ressrosa"/>
     <room name="Seminar room 14-15">
-      <event id="1032" guid="3b5cf5d2-7d5d-51ba-8798-dc60e10c8985">
-        <logo/>
-        <date>2017-12-26T19:30:00+01:00</date>
-        <start>19:30</start>
-        <duration>0:45</duration>
-        <room>Seminar room 14-15</room>
-        <slug/>
-        <title>Angel Meeting</title>
-        <subtitle>Welcome meeting Day 0</subtitle>
-        <track>self organized sessions</track>
-        <type>meeting</type>
-        <language>en</language>
-        <abstract/>
-        <description>Daily meetings of the Angel crew.</description>
-        <persons/>
-        <links>
-          <link>https://events.ccc.de/congress/2017/wiki/index.php/Session:Angel_Meeting</link>
-        </links>
-      </event>
-      <event id="1033" guid="5e7bb2b0-f5ea-598b-9f57-a08f05420984">
+      <event id="1032" guid="5e7bb2b0-f5ea-598b-9f57-a08f05420984">
         <logo/>
         <date>2017-12-26T20:15:00+01:00</date>
         <start>20:15</start>
@@ -142,7 +123,7 @@ This meeting is mandatory if you want to be a Stagemanager during 34C3.</descrip
           <link>https://events.ccc.de/congress/2017/wiki/index.php/Session:Angel_Meeting</link>
         </links>
       </event>
-      <event id="1037" guid="e54328ce-06f7-5578-bccb-0653404d932e">
+      <event id="1036" guid="e54328ce-06f7-5578-bccb-0653404d932e">
         <logo/>
         <date>2017-12-26T13:00:00+01:00</date>
         <start>13:00</start>
@@ -151,6 +132,25 @@ This meeting is mandatory if you want to be a Stagemanager during 34C3.</descrip
         <slug/>
         <title>Angel Meeting</title>
         <subtitle>Build-up and welcome meeting Day 0</subtitle>
+        <track>self organized sessions</track>
+        <type>meeting</type>
+        <language>en</language>
+        <abstract/>
+        <description>Daily meetings of the Angel crew.</description>
+        <persons/>
+        <links>
+          <link>https://events.ccc.de/congress/2017/wiki/index.php/Session:Angel_Meeting</link>
+        </links>
+      </event>
+      <event id="1037" guid="3b5cf5d2-7d5d-51ba-8798-dc60e10c8985">
+        <logo/>
+        <date>2017-12-26T19:30:00+01:00</date>
+        <start>19:30</start>
+        <duration>0:45</duration>
+        <room>Seminar room 14-15</room>
+        <slug/>
+        <title>Angel Meeting</title>
+        <subtitle>Welcome meeting Day 0</subtitle>
         <track>self organized sessions</track>
         <type>meeting</type>
         <language>en</language>
@@ -644,7 +644,7 @@ Let's scale up distributed systems while maintaining metadata protection and pri
           <link>https://events.ccc.de/congress/2017/wiki/index.php/Session:Subtitles-Engelmeeting</link>
         </links>
       </event>
-      <event id="1413" guid="def1b880-7e56-415c-a57b-73b5acda9b5a">
+      <event id="1414" guid="def1b880-7e56-415c-a57b-73b5acda9b5a">
         <logo/>
         <date>2017-12-27T16:00:00+01:00</date>
         <start>16:00</start>
@@ -1156,7 +1156,7 @@ the example of Thunderbird.</description>
       </event>
     </room>
     <room name="Seminar room 14-15">
-      <event id="1034" guid="579eab72-fbd6-5ba7-ad7a-59bcab0272ad">
+      <event id="1033" guid="579eab72-fbd6-5ba7-ad7a-59bcab0272ad">
         <logo/>
         <date>2017-12-27T12:45:00+01:00</date>
         <start>12:45</start>
@@ -1175,7 +1175,7 @@ the example of Thunderbird.</description>
           <link>https://events.ccc.de/congress/2017/wiki/index.php/Session:Angel_Meeting</link>
         </links>
       </event>
-      <event id="1035" guid="a8254a36-ca09-5c68-8e0b-1399b8a94247">
+      <event id="1034" guid="a8254a36-ca09-5c68-8e0b-1399b8a94247">
         <logo/>
         <date>2017-12-27T16:30:00+01:00</date>
         <start>16:30</start>
@@ -1194,7 +1194,7 @@ the example of Thunderbird.</description>
           <link>https://events.ccc.de/congress/2017/wiki/index.php/Session:Angel_Meeting</link>
         </links>
       </event>
-      <event id="1036" guid="a7083f65-5e8b-52cb-b008-af59762bb115">
+      <event id="1035" guid="a7083f65-5e8b-52cb-b008-af59762bb115">
         <logo/>
         <date>2017-12-27T17:15:00+01:00</date>
         <start>17:15</start>
@@ -1895,7 +1895,7 @@ Contact best via twitter @ENDSTATIONSUEDX</description>
           <link>https://events.ccc.de/congress/2017/wiki/index.php/Session:Learning_to_draw_for_techies</link>
         </links>
       </event>
-      <event id="1228" guid="78b6af67-7c9d-460a-ac37-0428a4178e00">
+      <event id="1227" guid="78b6af67-7c9d-460a-ac37-0428a4178e00">
         <logo/>
         <date>2017-12-28T12:00:00+01:00</date>
         <start>12:00</start>
@@ -4139,7 +4139,7 @@ mobile: null eins sechs drei 362 534 0</description>
           <link>https://events.ccc.de/congress/2017/wiki/index.php/Session:Hedonist_International_Networking_Meeting_Workshop_for_2018s_Congress_Convoy</link>
         </links>
       </event>
-      <event id="1229" guid="01830be1-2a28-424f-a6f4-5668b463b6e3">
+      <event id="1228" guid="01830be1-2a28-424f-a6f4-5668b463b6e3">
         <logo/>
         <date>2017-12-29T12:00:00+01:00</date>
         <start>12:00</start>
@@ -5735,10 +5735,10 @@ The Tom Sachs films are often directed by Van Neistat (the brother of the youtub
     </room>
     <room name="Open Infra Stage"/>
     <room name="Kidspace">
-      <event id="1000" guid="53d056a4-aeb6-4814-ace4-a8a60345340d">
+      <event id="1001" guid="d6665d6a-b44e-44f0-a0aa-31f5f716caf0">
         <logo/>
-        <date>2017-12-29T16:00:00+01:00</date>
-        <start>16:00</start>
+        <date>2017-12-29T12:00:00+01:00</date>
+        <start>12:00</start>
         <duration>1:00</duration>
         <room>Kidspace</room>
         <slug/>
@@ -5762,10 +5762,10 @@ Ich freue mich auf viele motivierte Kinder ;o)</description>
           <link>https://events.ccc.de/congress/2017/wiki/index.php/Session:%22Pen%26Paper%22_Game_Jam</link>
         </links>
       </event>
-      <event id="1002" guid="d6665d6a-b44e-44f0-a0aa-31f5f716caf0">
+      <event id="1002" guid="53d056a4-aeb6-4814-ace4-a8a60345340d">
         <logo/>
-        <date>2017-12-29T12:00:00+01:00</date>
-        <start>12:00</start>
+        <date>2017-12-29T16:00:00+01:00</date>
+        <start>16:00</start>
         <duration>1:00</duration>
         <room>Kidspace</room>
         <slug/>
@@ -6361,7 +6361,7 @@ Internals, Data models, APIs.</description>
   </day>
   <day date="2017-12-30" index="4" end="2017-12-30T23:00:00+01:00" start="2017-12-30T06:00:00+01:00">
     <room name="Komona Coral Reef">
-      <event id="1227" guid="a3026239-aef4-4d20-bdc5-003bfbbff970">
+      <event id="1229" guid="a3026239-aef4-4d20-bdc5-003bfbbff970">
         <logo/>
         <date>2017-12-30T12:00:00+01:00</date>
         <start>12:00</start>
@@ -6742,7 +6742,7 @@ Folgende Themen möchten wir behandeln: Entwicklung, Fork/Vertrauen und Untersch
           <link>https://events.ccc.de/congress/2017/wiki/index.php/Session:Sharding_and_Proof_of_Stake_-_Vlad_Zamfir</link>
         </links>
       </event>
-      <event id="1414" guid="dd59f0b8-212d-4978-8476-fffb4455bb25">
+      <event id="1413" guid="dd59f0b8-212d-4978-8476-fffb4455bb25">
         <logo/>
         <date>2017-12-30T14:30:00+01:00</date>
         <start>14:30</start>
@@ -7198,7 +7198,7 @@ Kontakt: k.g@luana-augsburg.de</description>
     </room>
     <room name="Open Infra Stage"/>
     <room name="Kidspace">
-      <event id="1000" guid="53d056a4-aeb6-4814-ace4-a8a60345340d">
+      <event id="1002" guid="53d056a4-aeb6-4814-ace4-a8a60345340d">
         <logo/>
         <date>2017-12-30T11:00:00+01:00</date>
         <start>11:00</start>
@@ -7442,5 +7442,5 @@ Notes of the session: https://etherpad.wikimedia.org/p/tuwat</description>
       </event>
     </room>
   </day>
-  <version>2018-01-05 10:10</version>
+  <version>2018-01-05 10:20</version>
 </schedule>
