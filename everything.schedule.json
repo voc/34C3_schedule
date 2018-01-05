@@ -1,6 +1,6 @@
 {
     "schedule": {
-        "version": "Mildenberg 2018-01-05 01:10", 
+        "version": "Mildenberg 2018-01-05 01:20", 
         "base_url": "https://fahrplan.events.ccc.de/congress/2017/Fahrplan/", 
         "conference": {
             "acronym": "34c3", 
@@ -1983,7 +1983,7 @@
                         ], 
                         "Seminar room 14-15": [
                             {
-                                "id": 1034, 
+                                "id": 1033, 
                                 "guid": "579eab72-fbd6-5ba7-ad7a-59bcab0272ad", 
                                 "logo": null, 
                                 "date": "2017-12-27T12:45:00+01:00", 
@@ -2004,7 +2004,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1035, 
+                                "id": 1034, 
                                 "guid": "a8254a36-ca09-5c68-8e0b-1399b8a94247", 
                                 "logo": null, 
                                 "date": "2017-12-27T16:30:00+01:00", 
@@ -2025,7 +2025,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1036, 
+                                "id": 1035, 
                                 "guid": "a7083f65-5e8b-52cb-b008-af59762bb115", 
                                 "logo": null, 
                                 "date": "2017-12-27T17:15:00+01:00", 
@@ -2161,7 +2161,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1347, 
+                                "id": 1348, 
                                 "guid": "50cdec42-6f29-47e5-bdbe-e29d19ee2941", 
                                 "logo": null, 
                                 "date": "2017-12-27T21:00:00+01:00", 
@@ -2183,7 +2183,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1348, 
+                                "id": 1349, 
                                 "guid": "9ed83d1d-7007-4bb8-9e65-22b1e9abd09b", 
                                 "logo": null, 
                                 "date": "2017-12-27T15:00:00+01:00", 
@@ -2205,7 +2205,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1413, 
+                                "id": 1414, 
                                 "guid": "def1b880-7e56-415c-a57b-73b5acda9b5a", 
                                 "logo": null, 
                                 "date": "2017-12-27T16:00:00+01:00", 
@@ -3792,111 +3792,6 @@
                         "CCL Hall 2": [
                             {
                                 "id": 1083, 
-                                "guid": "f9e17ca9-0980-5070-aa6c-3b556ca66211", 
-                                "logo": null, 
-                                "date": "2017-12-27T11:20:00+01:00", 
-                                "start": "11:20", 
-                                "duration": "0:25", 
-                                "room": "CCL Hall 2", 
-                                "slug": "", 
-                                "title": "DLF", 
-                                "subtitle": "Der 34C3", 
-                                "track": "self organized sessions", 
-                                "type": "", 
-                                "language": "de", 
-                                "abstract": "", 
-                                "description": "DLF", 
-                                "persons": [], 
-                                "links": [
-                                    "https://events.ccc.de/congress/2017/wiki/index.php/Session:DLF"
-                                ]
-                            }, 
-                            {
-                                "id": 1085, 
-                                "guid": "528e7ef5-72c6-55d1-9c21-3920add376a1", 
-                                "logo": null, 
-                                "date": "2017-12-27T17:00:00+01:00", 
-                                "start": "17:00", 
-                                "duration": "1:00", 
-                                "room": "CCL Hall 2", 
-                                "slug": "", 
-                                "title": "DLF", 
-                                "subtitle": "Studiogespr\u00e4ch", 
-                                "track": "self organized sessions", 
-                                "type": "", 
-                                "language": "de", 
-                                "abstract": "", 
-                                "description": "DLF", 
-                                "persons": [], 
-                                "links": [
-                                    "https://events.ccc.de/congress/2017/wiki/index.php/Session:DLF"
-                                ]
-                            }, 
-                            {
-                                "id": 1086, 
-                                "guid": "26226d1d-a08d-55b3-b295-9434c811b24a", 
-                                "logo": null, 
-                                "date": "2017-12-27T12:00:00+01:00", 
-                                "start": "12:00", 
-                                "duration": "0:15", 
-                                "room": "CCL Hall 2", 
-                                "slug": "", 
-                                "title": "DLF", 
-                                "subtitle": "Interview", 
-                                "track": "self organized sessions", 
-                                "type": "", 
-                                "language": "de", 
-                                "abstract": "", 
-                                "description": "DLF", 
-                                "persons": [], 
-                                "links": [
-                                    "https://events.ccc.de/congress/2017/wiki/index.php/Session:DLF"
-                                ]
-                            }, 
-                            {
-                                "id": 1089, 
-                                "guid": "31370b42-b65b-5860-8bd2-12dc9ccb7b5d", 
-                                "logo": null, 
-                                "date": "2017-12-27T12:15:00+01:00", 
-                                "start": "12:15", 
-                                "duration": "0:15", 
-                                "room": "CCL Hall 2", 
-                                "slug": "", 
-                                "title": "DLF", 
-                                "subtitle": "Interview", 
-                                "track": "self organized sessions", 
-                                "type": "", 
-                                "language": "de", 
-                                "abstract": "", 
-                                "description": "DLF", 
-                                "persons": [], 
-                                "links": [
-                                    "https://events.ccc.de/congress/2017/wiki/index.php/Session:DLF"
-                                ]
-                            }, 
-                            {
-                                "id": 1092, 
-                                "guid": "c7e392d4-78d7-501f-82e8-4ae026411861", 
-                                "logo": null, 
-                                "date": "2017-12-27T14:00:00+01:00", 
-                                "start": "14:00", 
-                                "duration": "1:00", 
-                                "room": "CCL Hall 2", 
-                                "slug": "", 
-                                "title": "DLF", 
-                                "subtitle": "Erfolgsstory oder Armutszeugnis - Breitbandpolitik in Deutschland", 
-                                "track": "self organized sessions", 
-                                "type": "", 
-                                "language": "de", 
-                                "abstract": "", 
-                                "description": "DLF", 
-                                "persons": [], 
-                                "links": [
-                                    "https://events.ccc.de/congress/2017/wiki/index.php/Session:DLF"
-                                ]
-                            }, 
-                            {
-                                "id": 1095, 
                                 "guid": "616cbc52-8390-54ea-8839-3af7790e11d1", 
                                 "logo": null, 
                                 "date": "2017-12-27T16:05:00+01:00", 
@@ -3917,7 +3812,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1096, 
+                                "id": 1084, 
                                 "guid": "555f0cd8-0fe0-5213-a087-c1539138aa40", 
                                 "logo": null, 
                                 "date": "2017-12-27T11:00:00+01:00", 
@@ -3938,7 +3833,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1098, 
+                                "id": 1086, 
                                 "guid": "0e9a7526-0bf6-533d-8f83-94e4d1fb4d8f", 
                                 "logo": null, 
                                 "date": "2017-12-27T16:35:00+01:00", 
@@ -3948,6 +3843,111 @@
                                 "slug": "", 
                                 "title": "DLF", 
                                 "subtitle": "Live-Beitrag in Forschung Aktuell", 
+                                "track": "self organized sessions", 
+                                "type": "", 
+                                "language": "de", 
+                                "abstract": "", 
+                                "description": "DLF", 
+                                "persons": [], 
+                                "links": [
+                                    "https://events.ccc.de/congress/2017/wiki/index.php/Session:DLF"
+                                ]
+                            }, 
+                            {
+                                "id": 1087, 
+                                "guid": "f9e17ca9-0980-5070-aa6c-3b556ca66211", 
+                                "logo": null, 
+                                "date": "2017-12-27T11:20:00+01:00", 
+                                "start": "11:20", 
+                                "duration": "0:25", 
+                                "room": "CCL Hall 2", 
+                                "slug": "", 
+                                "title": "DLF", 
+                                "subtitle": "Der 34C3", 
+                                "track": "self organized sessions", 
+                                "type": "", 
+                                "language": "de", 
+                                "abstract": "", 
+                                "description": "DLF", 
+                                "persons": [], 
+                                "links": [
+                                    "https://events.ccc.de/congress/2017/wiki/index.php/Session:DLF"
+                                ]
+                            }, 
+                            {
+                                "id": 1089, 
+                                "guid": "528e7ef5-72c6-55d1-9c21-3920add376a1", 
+                                "logo": null, 
+                                "date": "2017-12-27T17:00:00+01:00", 
+                                "start": "17:00", 
+                                "duration": "1:00", 
+                                "room": "CCL Hall 2", 
+                                "slug": "", 
+                                "title": "DLF", 
+                                "subtitle": "Studiogespr\u00e4ch", 
+                                "track": "self organized sessions", 
+                                "type": "", 
+                                "language": "de", 
+                                "abstract": "", 
+                                "description": "DLF", 
+                                "persons": [], 
+                                "links": [
+                                    "https://events.ccc.de/congress/2017/wiki/index.php/Session:DLF"
+                                ]
+                            }, 
+                            {
+                                "id": 1090, 
+                                "guid": "26226d1d-a08d-55b3-b295-9434c811b24a", 
+                                "logo": null, 
+                                "date": "2017-12-27T12:00:00+01:00", 
+                                "start": "12:00", 
+                                "duration": "0:15", 
+                                "room": "CCL Hall 2", 
+                                "slug": "", 
+                                "title": "DLF", 
+                                "subtitle": "Interview", 
+                                "track": "self organized sessions", 
+                                "type": "", 
+                                "language": "de", 
+                                "abstract": "", 
+                                "description": "DLF", 
+                                "persons": [], 
+                                "links": [
+                                    "https://events.ccc.de/congress/2017/wiki/index.php/Session:DLF"
+                                ]
+                            }, 
+                            {
+                                "id": 1093, 
+                                "guid": "31370b42-b65b-5860-8bd2-12dc9ccb7b5d", 
+                                "logo": null, 
+                                "date": "2017-12-27T12:15:00+01:00", 
+                                "start": "12:15", 
+                                "duration": "0:15", 
+                                "room": "CCL Hall 2", 
+                                "slug": "", 
+                                "title": "DLF", 
+                                "subtitle": "Interview", 
+                                "track": "self organized sessions", 
+                                "type": "", 
+                                "language": "de", 
+                                "abstract": "", 
+                                "description": "DLF", 
+                                "persons": [], 
+                                "links": [
+                                    "https://events.ccc.de/congress/2017/wiki/index.php/Session:DLF"
+                                ]
+                            }, 
+                            {
+                                "id": 1096, 
+                                "guid": "c7e392d4-78d7-501f-82e8-4ae026411861", 
+                                "logo": null, 
+                                "date": "2017-12-27T14:00:00+01:00", 
+                                "start": "14:00", 
+                                "duration": "1:00", 
+                                "room": "CCL Hall 2", 
+                                "slug": "", 
+                                "title": "DLF", 
+                                "subtitle": "Erfolgsstory oder Armutszeugnis - Breitbandpolitik in Deutschland", 
                                 "track": "self organized sessions", 
                                 "type": "", 
                                 "language": "de", 
@@ -4047,7 +4047,7 @@
                         ], 
                         "Assembly:Jugend hackt": [
                             {
-                                "id": 1170, 
+                                "id": 1171, 
                                 "guid": "6c4c6c03-560e-4e1a-ad89-a859a57b3cdb", 
                                 "logo": null, 
                                 "date": "2017-12-27T13:00:00+01:00", 
@@ -4168,7 +4168,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1288, 
+                                "id": 1289, 
                                 "guid": "9d36bad8-60d8-55ca-829f-eccd6c65153d", 
                                 "logo": null, 
                                 "date": "2017-12-27T16:00:00+01:00", 
@@ -4270,7 +4270,7 @@
                         ], 
                         "Assembly:HardwareHackingArea": [
                             {
-                                "id": 1192, 
+                                "id": 1191, 
                                 "guid": "f5ebebb3-c53e-443e-82ee-080723b1f60e", 
                                 "logo": null, 
                                 "date": "2017-12-27T17:30:00+01:00", 
@@ -4298,7 +4298,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1220, 
+                                "id": 1221, 
                                 "guid": "74b9a8fc-e4e3-4c29-a859-e3f94387a6c7", 
                                 "logo": null, 
                                 "date": "2017-12-27T17:00:00+01:00", 
@@ -4430,7 +4430,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1343, 
+                                "id": 1344, 
                                 "guid": "11272b21-acfc-424a-8860-4f62d80eac5c", 
                                 "logo": null, 
                                 "date": "2017-12-27T17:40:00+01:00", 
@@ -4459,7 +4459,7 @@
                         ], 
                         "Assembly:TeaHouse": [
                             {
-                                "id": 1357, 
+                                "id": 1356, 
                                 "guid": "2fe2c9a3-8e76-4542-afb8-6505fed72094", 
                                 "logo": null, 
                                 "date": "2017-12-27T13:00:00+01:00", 
@@ -7035,7 +7035,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1349, 
+                                "id": 1347, 
                                 "guid": "58d27c73-4a82-4199-b186-f939686353b2", 
                                 "logo": null, 
                                 "date": "2017-12-28T13:00:00+01:00", 
@@ -8110,7 +8110,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1213, 
+                                "id": 1214, 
                                 "guid": "ffb5a08e-9d61-42e4-b5a3-002b140d652f", 
                                 "logo": null, 
                                 "date": "2017-12-28T22:00:00+01:00", 
@@ -8158,7 +8158,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1228, 
+                                "id": 1227, 
                                 "guid": "78b6af67-7c9d-460a-ac37-0428a4178e00", 
                                 "logo": null, 
                                 "date": "2017-12-28T12:00:00+01:00", 
@@ -8343,7 +8343,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1214, 
+                                "id": 1213, 
                                 "guid": "44955fe7-7549-4190-bdea-2e694bf75c3c", 
                                 "logo": null, 
                                 "date": "2017-12-28T22:00:00+01:00", 
@@ -8491,7 +8491,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1214, 
+                                "id": 1213, 
                                 "guid": "44955fe7-7549-4190-bdea-2e694bf75c3c", 
                                 "logo": null, 
                                 "date": "2017-12-28T22:00:00+01:00", 
@@ -9432,7 +9432,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1191, 
+                                "id": 1192, 
                                 "guid": "e87a7b37-b57c-4367-957c-1ef2dcd3a606", 
                                 "logo": null, 
                                 "date": "2017-12-28T17:30:00+01:00", 
@@ -9460,7 +9460,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1221, 
+                                "id": 1220, 
                                 "guid": "950b4c24-8b9d-437b-bb2a-5c274e27221c", 
                                 "logo": null, 
                                 "date": "2017-12-28T11:00:00+01:00", 
@@ -9821,7 +9821,28 @@
                         ], 
                         "CCL Hall 2": [
                             {
-                                "id": 1088, 
+                                "id": 1085, 
+                                "guid": "3b865956-5400-5ec4-81b0-028abf9495aa", 
+                                "logo": null, 
+                                "date": "2017-12-28T17:00:00+01:00", 
+                                "start": "17:00", 
+                                "duration": "1:00", 
+                                "room": "CCL Hall 2", 
+                                "slug": "", 
+                                "title": "DLF", 
+                                "subtitle": "Studiogespr\u00e4ch", 
+                                "track": "self organized sessions", 
+                                "type": "", 
+                                "language": "de", 
+                                "abstract": "", 
+                                "description": "DLF", 
+                                "persons": [], 
+                                "links": [
+                                    "https://events.ccc.de/congress/2017/wiki/index.php/Session:DLF"
+                                ]
+                            }, 
+                            {
+                                "id": 1092, 
                                 "guid": "531e5d6b-bb6a-5f91-b3cc-ac67734ae70f", 
                                 "logo": null, 
                                 "date": "2017-12-28T10:10:00+01:00", 
@@ -9842,7 +9863,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1091, 
+                                "id": 1095, 
                                 "guid": "c722d326-9297-5528-a7dd-6645ead7e8b1", 
                                 "logo": null, 
                                 "date": "2017-12-28T13:00:00+01:00", 
@@ -9863,7 +9884,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1094, 
+                                "id": 1098, 
                                 "guid": "4f5a4ab1-ab30-5729-8b05-8865a475dd8e", 
                                 "logo": null, 
                                 "date": "2017-12-28T16:35:00+01:00", 
@@ -9873,27 +9894,6 @@
                                 "slug": "", 
                                 "title": "DLF", 
                                 "subtitle": "Live-Beitrag in Forschung Aktuell", 
-                                "track": "self organized sessions", 
-                                "type": "", 
-                                "language": "de", 
-                                "abstract": "", 
-                                "description": "DLF", 
-                                "persons": [], 
-                                "links": [
-                                    "https://events.ccc.de/congress/2017/wiki/index.php/Session:DLF"
-                                ]
-                            }, 
-                            {
-                                "id": 1097, 
-                                "guid": "3b865956-5400-5ec4-81b0-028abf9495aa", 
-                                "logo": null, 
-                                "date": "2017-12-28T17:00:00+01:00", 
-                                "start": "17:00", 
-                                "duration": "1:00", 
-                                "room": "CCL Hall 2", 
-                                "slug": "", 
-                                "title": "DLF", 
-                                "subtitle": "Studiogespr\u00e4ch", 
                                 "track": "self organized sessions", 
                                 "type": "", 
                                 "language": "de", 
@@ -12533,15 +12533,15 @@
                             }, 
                             {
                                 "id": 1207, 
-                                "guid": "2cf16048-946e-4230-8c5a-332826ea14c6", 
+                                "guid": "e3d9d5b4-b35d-4828-b7af-6cdf33b438cf", 
                                 "logo": null, 
-                                "date": "2017-12-30T02:30:00+01:00", 
-                                "start": "02:30", 
-                                "duration": "2:00", 
+                                "date": "2017-12-29T23:59:00+01:00", 
+                                "start": "23:59", 
+                                "duration": "1:30", 
                                 "room": "Lecture room 11", 
                                 "slug": "", 
                                 "title": "KinkyGeeks Bondage Workshop", 
-                                "subtitle": "Open Rope Jam", 
+                                "subtitle": "Advanced", 
                                 "track": "self organized sessions", 
                                 "type": "workshop", 
                                 "language": "de", 
@@ -12561,15 +12561,15 @@
                             }, 
                             {
                                 "id": 1208, 
-                                "guid": "e3d9d5b4-b35d-4828-b7af-6cdf33b438cf", 
+                                "guid": "2cf16048-946e-4230-8c5a-332826ea14c6", 
                                 "logo": null, 
-                                "date": "2017-12-29T23:59:00+01:00", 
-                                "start": "23:59", 
-                                "duration": "1:30", 
+                                "date": "2017-12-30T02:30:00+01:00", 
+                                "start": "02:30", 
+                                "duration": "2:00", 
                                 "room": "Lecture room 11", 
                                 "slug": "", 
                                 "title": "KinkyGeeks Bondage Workshop", 
-                                "subtitle": "Advanced", 
+                                "subtitle": "Open Rope Jam", 
                                 "track": "self organized sessions", 
                                 "type": "workshop", 
                                 "language": "de", 
@@ -14312,7 +14312,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1229, 
+                                "id": 1228, 
                                 "guid": "01830be1-2a28-424f-a6f4-5668b463b6e3", 
                                 "logo": null, 
                                 "date": "2017-12-29T12:00:00+01:00", 
@@ -14611,10 +14611,10 @@
                         "Kidspace": [
                             {
                                 "id": 1001, 
-                                "guid": "53d056a4-aeb6-4814-ace4-a8a60345340d", 
+                                "guid": "d6665d6a-b44e-44f0-a0aa-31f5f716caf0", 
                                 "logo": null, 
-                                "date": "2017-12-29T16:00:00+01:00", 
-                                "start": "16:00", 
+                                "date": "2017-12-29T12:00:00+01:00", 
+                                "start": "12:00", 
                                 "duration": "1:00", 
                                 "room": "Kidspace", 
                                 "slug": "", 
@@ -14638,10 +14638,10 @@
                             }, 
                             {
                                 "id": 1002, 
-                                "guid": "d6665d6a-b44e-44f0-a0aa-31f5f716caf0", 
+                                "guid": "53d056a4-aeb6-4814-ace4-a8a60345340d", 
                                 "logo": null, 
-                                "date": "2017-12-29T12:00:00+01:00", 
-                                "start": "12:00", 
+                                "date": "2017-12-29T16:00:00+01:00", 
+                                "start": "16:00", 
                                 "duration": "1:00", 
                                 "room": "Kidspace", 
                                 "slug": "", 
@@ -15208,7 +15208,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1191, 
+                                "id": 1192, 
                                 "guid": "e87a7b37-b57c-4367-957c-1ef2dcd3a606", 
                                 "logo": null, 
                                 "date": "2017-12-29T17:30:00+01:00", 
@@ -15236,7 +15236,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1221, 
+                                "id": 1220, 
                                 "guid": "950b4c24-8b9d-437b-bb2a-5c274e27221c", 
                                 "logo": null, 
                                 "date": "2017-12-29T11:00:00+01:00", 
@@ -15260,33 +15260,6 @@
                                 ], 
                                 "links": [
                                     "https://events.ccc.de/congress/2017/wiki/index.php/Session:LearnToSolder"
-                                ]
-                            }, 
-                            {
-                                "id": 1350, 
-                                "guid": "7b07e29a-77f7-492d-9633-ed5c0fd10b9a", 
-                                "logo": null, 
-                                "date": "2017-12-29T17:30:00+01:00", 
-                                "start": "17:30", 
-                                "duration": "1:30", 
-                                "room": "Assembly:HardwareHackingArea", 
-                                "slug": "", 
-                                "title": "Surface mount electronics assembly for terrified beginners", 
-                                "subtitle": "Day 3 Session 2", 
-                                "track": "self organized sessions", 
-                                "type": "workshop", 
-                                "language": "en", 
-                                "abstract": "", 
-                                "description": "Surface mount electronics for terrified beginners. Learn to assemble tiny parts on circuit boards by building a working power supply. Anyone can do it. Yes, even you who never touched anything electronic before. 90-100mins, 20\u20ac/kit, avoid caffeine immediately before. Max 20 participants per session, there will be a PAPER!!1! signup list in the hardware hacking area.", 
-                                "persons": [
-                                    {
-                                        "id": 0, 
-                                        "url": "https://events.ccc.de/congress/2017/wiki/index.php/User:Kliment", 
-                                        "public_name": "Kliment"
-                                    }
-                                ], 
-                                "links": [
-                                    "https://events.ccc.de/congress/2017/wiki/index.php/Session:Surface_mount_electronics_assembly_for_terrified_beginners"
                                 ]
                             }, 
                             {
@@ -15327,6 +15300,33 @@
                                 "slug": "", 
                                 "title": "Surface mount electronics assembly for terrified beginners", 
                                 "subtitle": "Day 3 Session 1", 
+                                "track": "self organized sessions", 
+                                "type": "workshop", 
+                                "language": "en", 
+                                "abstract": "", 
+                                "description": "Surface mount electronics for terrified beginners. Learn to assemble tiny parts on circuit boards by building a working power supply. Anyone can do it. Yes, even you who never touched anything electronic before. 90-100mins, 20\u20ac/kit, avoid caffeine immediately before. Max 20 participants per session, there will be a PAPER!!1! signup list in the hardware hacking area.", 
+                                "persons": [
+                                    {
+                                        "id": 0, 
+                                        "url": "https://events.ccc.de/congress/2017/wiki/index.php/User:Kliment", 
+                                        "public_name": "Kliment"
+                                    }
+                                ], 
+                                "links": [
+                                    "https://events.ccc.de/congress/2017/wiki/index.php/Session:Surface_mount_electronics_assembly_for_terrified_beginners"
+                                ]
+                            }, 
+                            {
+                                "id": 1350, 
+                                "guid": "7b07e29a-77f7-492d-9633-ed5c0fd10b9a", 
+                                "logo": null, 
+                                "date": "2017-12-29T17:30:00+01:00", 
+                                "start": "17:30", 
+                                "duration": "1:30", 
+                                "room": "Assembly:HardwareHackingArea", 
+                                "slug": "", 
+                                "title": "Surface mount electronics assembly for terrified beginners", 
+                                "subtitle": "Day 3 Session 2", 
                                 "track": "self organized sessions", 
                                 "type": "workshop", 
                                 "language": "en", 
@@ -15470,7 +15470,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1344, 
+                                "id": 1343, 
                                 "guid": "2db364a3-1bd0-481c-bf8f-19b3e4dfca83", 
                                 "logo": null, 
                                 "date": "2017-12-29T17:40:00+01:00", 
@@ -15729,7 +15729,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1356, 
+                                "id": 1357, 
                                 "guid": "622c5770-b9fc-45ef-b9fc-1533f661e3ec", 
                                 "logo": null, 
                                 "date": "2017-12-29T13:00:00+01:00", 
@@ -15757,7 +15757,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1356, 
+                                "id": 1357, 
                                 "guid": "622c5770-b9fc-45ef-b9fc-1533f661e3ec", 
                                 "logo": null, 
                                 "date": "2017-12-29T14:30:00+01:00", 
@@ -15813,7 +15813,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1356, 
+                                "id": 1357, 
                                 "guid": "622c5770-b9fc-45ef-b9fc-1533f661e3ec", 
                                 "logo": null, 
                                 "date": "2017-12-29T19:00:00+01:00", 
@@ -15843,7 +15843,7 @@
                         ], 
                         "CCL Hall 2": [
                             {
-                                "id": 1084, 
+                                "id": 1088, 
                                 "guid": "1481e306-80a7-5abd-842c-177422a47468", 
                                 "logo": null, 
                                 "date": "2017-12-29T16:35:00+01:00", 
@@ -15864,7 +15864,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1087, 
+                                "id": 1091, 
                                 "guid": "996b43ab-9f4c-5e9e-bdb7-9c0b7ab7bf48", 
                                 "logo": null, 
                                 "date": "2017-12-29T17:00:00+01:00", 
@@ -16089,7 +16089,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1289, 
+                                "id": 1288, 
                                 "guid": "a547ca07-306b-5214-bcab-5e84fa18505c", 
                                 "logo": null, 
                                 "date": "2017-12-29T18:00:00+01:00", 
@@ -16215,7 +16215,7 @@
                         ], 
                         "Assembly:Jugend hackt": [
                             {
-                                "id": 1171, 
+                                "id": 1170, 
                                 "guid": "65e70b8c-02a5-41ff-936c-44052c9ee6f0", 
                                 "logo": null, 
                                 "date": "2017-12-29T16:00:00+01:00", 
@@ -17784,7 +17784,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1414, 
+                                "id": 1413, 
                                 "guid": "dd59f0b8-212d-4978-8476-fffb4455bb25", 
                                 "logo": null, 
                                 "date": "2017-12-30T14:30:00+01:00", 
@@ -18378,7 +18378,7 @@
                         ], 
                         "Komona Coral Reef": [
                             {
-                                "id": 1227, 
+                                "id": 1229, 
                                 "guid": "a3026239-aef4-4d20-bdc5-003bfbbff970", 
                                 "logo": null, 
                                 "date": "2017-12-30T12:00:00+01:00", 
@@ -18561,7 +18561,7 @@
                         ], 
                         "Kidspace": [
                             {
-                                "id": 1001, 
+                                "id": 1002, 
                                 "guid": "53d056a4-aeb6-4814-ace4-a8a60345340d", 
                                 "logo": null, 
                                 "date": "2017-12-30T11:00:00+01:00", 
@@ -18846,7 +18846,7 @@
                         ], 
                         "CCL Hall 2": [
                             {
-                                "id": 1090, 
+                                "id": 1094, 
                                 "guid": "1c73c759-0d3b-501e-a07d-82ea10e9f40c", 
                                 "logo": null, 
                                 "date": "2017-12-30T13:05:00+01:00", 
@@ -18867,7 +18867,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1093, 
+                                "id": 1097, 
                                 "guid": "bdf00168-ed69-5809-9916-a89d109c9b2c", 
                                 "logo": null, 
                                 "date": "2017-12-30T14:15:00+01:00", 
@@ -18919,7 +18919,7 @@
                         ], 
                         "Assembly:HardwareHackingArea": [
                             {
-                                "id": 1191, 
+                                "id": 1192, 
                                 "guid": "e87a7b37-b57c-4367-957c-1ef2dcd3a606", 
                                 "logo": null, 
                                 "date": "2017-12-30T13:00:00+01:00", 
@@ -18947,7 +18947,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1221, 
+                                "id": 1220, 
                                 "guid": "950b4c24-8b9d-437b-bb2a-5c274e27221c", 
                                 "logo": null, 
                                 "date": "2017-12-30T11:00:00+01:00", 
@@ -19080,7 +19080,7 @@
                         ], 
                         "Assembly:TeaHouse": [
                             {
-                                "id": 1356, 
+                                "id": 1357, 
                                 "guid": "622c5770-b9fc-45ef-b9fc-1533f661e3ec", 
                                 "logo": null, 
                                 "date": "2017-12-30T12:00:00+01:00", 
@@ -19108,7 +19108,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1356, 
+                                "id": 1357, 
                                 "guid": "622c5770-b9fc-45ef-b9fc-1533f661e3ec", 
                                 "logo": null, 
                                 "date": "2017-12-30T13:00:00+01:00", 
@@ -19136,7 +19136,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1356, 
+                                "id": 1357, 
                                 "guid": "622c5770-b9fc-45ef-b9fc-1533f661e3ec", 
                                 "logo": null, 
                                 "date": "2017-12-30T14:00:00+01:00", 
@@ -19164,7 +19164,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1356, 
+                                "id": 1357, 
                                 "guid": "622c5770-b9fc-45ef-b9fc-1533f661e3ec", 
                                 "logo": null, 
                                 "date": "2017-12-30T15:00:00+01:00", 
