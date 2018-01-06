@@ -129,7 +129,28 @@
                         "Komona D.Ressrosa": [], 
                         "Seminar room 14-15": [
                             {
-                                "id": 1032, 
+                                "id": 1035, 
+                                "guid": "e54328ce-06f7-5578-bccb-0653404d932e", 
+                                "logo": null, 
+                                "date": "2017-12-26T13:00:00+01:00", 
+                                "start": "13:00", 
+                                "duration": "0:45", 
+                                "room": "Seminar room 14-15", 
+                                "slug": "", 
+                                "title": "Angel Meeting", 
+                                "subtitle": "Build-up and welcome meeting Day 0", 
+                                "track": "self organized sessions", 
+                                "type": "meeting", 
+                                "language": "en", 
+                                "abstract": "", 
+                                "description": "Daily meetings of the Angel crew.", 
+                                "persons": [], 
+                                "links": [
+                                    "https://events.ccc.de/congress/2017/wiki/index.php/Session:Angel_Meeting"
+                                ]
+                            }, 
+                            {
+                                "id": 1036, 
                                 "guid": "3b5cf5d2-7d5d-51ba-8798-dc60e10c8985", 
                                 "logo": null, 
                                 "date": "2017-12-26T19:30:00+01:00", 
@@ -150,7 +171,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1033, 
+                                "id": 1037, 
                                 "guid": "5e7bb2b0-f5ea-598b-9f57-a08f05420984", 
                                 "logo": null, 
                                 "date": "2017-12-26T20:15:00+01:00", 
@@ -160,27 +181,6 @@
                                 "slug": "", 
                                 "title": "Angel Meeting", 
                                 "subtitle": "Introduction meeting for new angels Day 0", 
-                                "track": "self organized sessions", 
-                                "type": "meeting", 
-                                "language": "en", 
-                                "abstract": "", 
-                                "description": "Daily meetings of the Angel crew.", 
-                                "persons": [], 
-                                "links": [
-                                    "https://events.ccc.de/congress/2017/wiki/index.php/Session:Angel_Meeting"
-                                ]
-                            }, 
-                            {
-                                "id": 1037, 
-                                "guid": "e54328ce-06f7-5578-bccb-0653404d932e", 
-                                "logo": null, 
-                                "date": "2017-12-26T13:00:00+01:00", 
-                                "start": "13:00", 
-                                "duration": "0:45", 
-                                "room": "Seminar room 14-15", 
-                                "slug": "", 
-                                "title": "Angel Meeting", 
-                                "subtitle": "Build-up and welcome meeting Day 0", 
                                 "track": "self organized sessions", 
                                 "type": "meeting", 
                                 "language": "en", 
@@ -731,7 +731,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1347, 
+                                "id": 1348, 
                                 "guid": "50cdec42-6f29-47e5-bdbe-e29d19ee2941", 
                                 "logo": null, 
                                 "date": "2017-12-27T21:00:00+01:00", 
@@ -753,7 +753,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1348, 
+                                "id": 1349, 
                                 "guid": "9ed83d1d-7007-4bb8-9e65-22b1e9abd09b", 
                                 "logo": null, 
                                 "date": "2017-12-27T15:00:00+01:00", 
@@ -775,7 +775,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1413, 
+                                "id": 1414, 
                                 "guid": "def1b880-7e56-415c-a57b-73b5acda9b5a", 
                                 "logo": null, 
                                 "date": "2017-12-27T16:00:00+01:00", 
@@ -1037,49 +1037,7 @@
                         ], 
                         "CCL Hall 2": [
                             {
-                                "id": 1085, 
-                                "guid": "31370b42-b65b-5860-8bd2-12dc9ccb7b5d", 
-                                "logo": null, 
-                                "date": "2017-12-27T12:15:00+01:00", 
-                                "start": "12:15", 
-                                "duration": "0:15", 
-                                "room": "CCL Hall 2", 
-                                "slug": "", 
-                                "title": "DLF", 
-                                "subtitle": "Interview", 
-                                "track": "self organized sessions", 
-                                "type": "", 
-                                "language": "de", 
-                                "abstract": "", 
-                                "description": "DLF", 
-                                "persons": [], 
-                                "links": [
-                                    "https://events.ccc.de/congress/2017/wiki/index.php/Session:DLF"
-                                ]
-                            }, 
-                            {
-                                "id": 1088, 
-                                "guid": "c7e392d4-78d7-501f-82e8-4ae026411861", 
-                                "logo": null, 
-                                "date": "2017-12-27T14:00:00+01:00", 
-                                "start": "14:00", 
-                                "duration": "1:00", 
-                                "room": "CCL Hall 2", 
-                                "slug": "", 
-                                "title": "DLF", 
-                                "subtitle": "Erfolgsstory oder Armutszeugnis - Breitbandpolitik in Deutschland", 
-                                "track": "self organized sessions", 
-                                "type": "", 
-                                "language": "de", 
-                                "abstract": "", 
-                                "description": "DLF", 
-                                "persons": [], 
-                                "links": [
-                                    "https://events.ccc.de/congress/2017/wiki/index.php/Session:DLF"
-                                ]
-                            }, 
-                            {
-                                "id": 1091, 
+                                "id": 1083, 
                                 "guid": "616cbc52-8390-54ea-8839-3af7790e11d1", 
                                 "logo": null, 
                                 "date": "2017-12-27T16:05:00+01:00", 
@@ -1100,7 +1058,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1092, 
+                                "id": 1084, 
                                 "guid": "555f0cd8-0fe0-5213-a087-c1539138aa40", 
                                 "logo": null, 
                                 "date": "2017-12-27T11:00:00+01:00", 
@@ -1121,7 +1079,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1094, 
+                                "id": 1086, 
                                 "guid": "0e9a7526-0bf6-533d-8f83-94e4d1fb4d8f", 
                                 "logo": null, 
                                 "date": "2017-12-27T16:35:00+01:00", 
@@ -1142,7 +1100,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1095, 
+                                "id": 1087, 
                                 "guid": "f9e17ca9-0980-5070-aa6c-3b556ca66211", 
                                 "logo": null, 
                                 "date": "2017-12-27T11:20:00+01:00", 
@@ -1163,7 +1121,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1097, 
+                                "id": 1089, 
                                 "guid": "528e7ef5-72c6-55d1-9c21-3920add376a1", 
                                 "logo": null, 
                                 "date": "2017-12-27T17:00:00+01:00", 
@@ -1184,7 +1142,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1098, 
+                                "id": 1090, 
                                 "guid": "26226d1d-a08d-55b3-b295-9434c811b24a", 
                                 "logo": null, 
                                 "date": "2017-12-27T12:00:00+01:00", 
@@ -1194,6 +1152,48 @@
                                 "slug": "", 
                                 "title": "DLF", 
                                 "subtitle": "Interview", 
+                                "track": "self organized sessions", 
+                                "type": "", 
+                                "language": "de", 
+                                "abstract": "", 
+                                "description": "DLF", 
+                                "persons": [], 
+                                "links": [
+                                    "https://events.ccc.de/congress/2017/wiki/index.php/Session:DLF"
+                                ]
+                            }, 
+                            {
+                                "id": 1093, 
+                                "guid": "31370b42-b65b-5860-8bd2-12dc9ccb7b5d", 
+                                "logo": null, 
+                                "date": "2017-12-27T12:15:00+01:00", 
+                                "start": "12:15", 
+                                "duration": "0:15", 
+                                "room": "CCL Hall 2", 
+                                "slug": "", 
+                                "title": "DLF", 
+                                "subtitle": "Interview", 
+                                "track": "self organized sessions", 
+                                "type": "", 
+                                "language": "de", 
+                                "abstract": "", 
+                                "description": "DLF", 
+                                "persons": [], 
+                                "links": [
+                                    "https://events.ccc.de/congress/2017/wiki/index.php/Session:DLF"
+                                ]
+                            }, 
+                            {
+                                "id": 1096, 
+                                "guid": "c7e392d4-78d7-501f-82e8-4ae026411861", 
+                                "logo": null, 
+                                "date": "2017-12-27T14:00:00+01:00", 
+                                "start": "14:00", 
+                                "duration": "1:00", 
+                                "room": "CCL Hall 2", 
+                                "slug": "", 
+                                "title": "DLF", 
+                                "subtitle": "Erfolgsstory oder Armutszeugnis - Breitbandpolitik in Deutschland", 
                                 "track": "self organized sessions", 
                                 "type": "", 
                                 "language": "de", 
@@ -1337,7 +1337,7 @@
                         ], 
                         "Seminar room 14-15": [
                             {
-                                "id": 1034, 
+                                "id": 1032, 
                                 "guid": "579eab72-fbd6-5ba7-ad7a-59bcab0272ad", 
                                 "logo": null, 
                                 "date": "2017-12-27T12:45:00+01:00", 
@@ -1358,7 +1358,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1035, 
+                                "id": 1033, 
                                 "guid": "a8254a36-ca09-5c68-8e0b-1399b8a94247", 
                                 "logo": null, 
                                 "date": "2017-12-27T16:30:00+01:00", 
@@ -1379,7 +1379,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1036, 
+                                "id": 1034, 
                                 "guid": "a7083f65-5e8b-52cb-b008-af59762bb115", 
                                 "logo": null, 
                                 "date": "2017-12-27T17:15:00+01:00", 
@@ -1575,7 +1575,7 @@
                         "Open Infra Stage": [], 
                         "Kidspace": [
                             {
-                                "id": 1379, 
+                                "id": 1380, 
                                 "guid": "d75d1ea5-b3e1-4f52-ad73-3eb0e99b7dea", 
                                 "logo": null, 
                                 "date": "2017-12-27T13:00:00+01:00", 
@@ -1706,7 +1706,7 @@
                         ], 
                         "Seminar room 13": [
                             {
-                                "id": 1009, 
+                                "id": 1008, 
                                 "guid": "42ad7b9a-63b4-4790-8c37-1966932d71d6", 
                                 "logo": null, 
                                 "date": "2017-12-27T09:00:00+01:00", 
@@ -1901,7 +1901,7 @@
                         ], 
                         "Esszimmer": [
                             {
-                                "id": 1177, 
+                                "id": 1176, 
                                 "guid": "8baea51d-6c66-55dc-ad37-92ec9ea924cb", 
                                 "logo": null, 
                                 "date": "2017-12-27T13:00:00+01:00", 
@@ -1988,7 +1988,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1288, 
+                                "id": 1289, 
                                 "guid": "9d36bad8-60d8-55ca-829f-eccd6c65153d", 
                                 "logo": null, 
                                 "date": "2017-12-27T16:00:00+01:00", 
@@ -2168,7 +2168,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1213, 
+                                "id": 1214, 
                                 "guid": "ffb5a08e-9d61-42e4-b5a3-002b140d652f", 
                                 "logo": null, 
                                 "date": "2017-12-28T22:00:00+01:00", 
@@ -2216,7 +2216,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1228, 
+                                "id": 1227, 
                                 "guid": "78b6af67-7c9d-460a-ac37-0428a4178e00", 
                                 "logo": null, 
                                 "date": "2017-12-28T12:00:00+01:00", 
@@ -2521,7 +2521,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1208, 
+                                "id": 1206, 
                                 "guid": "07142f3d-b450-4cac-94c7-9bb95f78339b", 
                                 "logo": null, 
                                 "date": "2017-12-28T15:00:00+01:00", 
@@ -3243,7 +3243,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1349, 
+                                "id": 1347, 
                                 "guid": "58d27c73-4a82-4199-b186-f939686353b2", 
                                 "logo": null, 
                                 "date": "2017-12-28T13:00:00+01:00", 
@@ -3531,7 +3531,28 @@
                         ], 
                         "CCL Hall 2": [
                             {
-                                "id": 1084, 
+                                "id": 1085, 
+                                "guid": "3b865956-5400-5ec4-81b0-028abf9495aa", 
+                                "logo": null, 
+                                "date": "2017-12-28T17:00:00+01:00", 
+                                "start": "17:00", 
+                                "duration": "1:00", 
+                                "room": "CCL Hall 2", 
+                                "slug": "", 
+                                "title": "DLF", 
+                                "subtitle": "Studiogespr\u00e4ch", 
+                                "track": "self organized sessions", 
+                                "type": "", 
+                                "language": "de", 
+                                "abstract": "", 
+                                "description": "DLF", 
+                                "persons": [], 
+                                "links": [
+                                    "https://events.ccc.de/congress/2017/wiki/index.php/Session:DLF"
+                                ]
+                            }, 
+                            {
+                                "id": 1092, 
                                 "guid": "531e5d6b-bb6a-5f91-b3cc-ac67734ae70f", 
                                 "logo": null, 
                                 "date": "2017-12-28T10:10:00+01:00", 
@@ -3552,7 +3573,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1087, 
+                                "id": 1095, 
                                 "guid": "c722d326-9297-5528-a7dd-6645ead7e8b1", 
                                 "logo": null, 
                                 "date": "2017-12-28T13:00:00+01:00", 
@@ -3573,7 +3594,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1090, 
+                                "id": 1098, 
                                 "guid": "4f5a4ab1-ab30-5729-8b05-8865a475dd8e", 
                                 "logo": null, 
                                 "date": "2017-12-28T16:35:00+01:00", 
@@ -3583,27 +3604,6 @@
                                 "slug": "", 
                                 "title": "DLF", 
                                 "subtitle": "Live-Beitrag in Forschung Aktuell", 
-                                "track": "self organized sessions", 
-                                "type": "", 
-                                "language": "de", 
-                                "abstract": "", 
-                                "description": "DLF", 
-                                "persons": [], 
-                                "links": [
-                                    "https://events.ccc.de/congress/2017/wiki/index.php/Session:DLF"
-                                ]
-                            }, 
-                            {
-                                "id": 1093, 
-                                "guid": "3b865956-5400-5ec4-81b0-028abf9495aa", 
-                                "logo": null, 
-                                "date": "2017-12-28T17:00:00+01:00", 
-                                "start": "17:00", 
-                                "duration": "1:00", 
-                                "room": "CCL Hall 2", 
-                                "slug": "", 
-                                "title": "DLF", 
-                                "subtitle": "Studiogespr\u00e4ch", 
                                 "track": "self organized sessions", 
                                 "type": "", 
                                 "language": "de", 
@@ -3708,7 +3708,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1214, 
+                                "id": 1213, 
                                 "guid": "44955fe7-7549-4190-bdea-2e694bf75c3c", 
                                 "logo": null, 
                                 "date": "2017-12-28T22:00:00+01:00", 
@@ -3943,7 +3943,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1263, 
+                                "id": 1264, 
                                 "guid": "b8e83cf2-69fe-4880-9c19-b889b4e5d8d3", 
                                 "logo": null, 
                                 "date": "2017-12-28T18:00:00+01:00", 
@@ -4198,7 +4198,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1380, 
+                                "id": 1379, 
                                 "guid": "478676ae-916e-4012-9cce-f71ef82aac04", 
                                 "logo": null, 
                                 "date": "2017-12-28T12:00:00+01:00", 
@@ -4308,7 +4308,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1214, 
+                                "id": 1213, 
                                 "guid": "44955fe7-7549-4190-bdea-2e694bf75c3c", 
                                 "logo": null, 
                                 "date": "2017-12-28T22:00:00+01:00", 
@@ -4413,7 +4413,7 @@
                         ], 
                         "Seminar room 13": [
                             {
-                                "id": 1008, 
+                                "id": 1009, 
                                 "guid": "4d2df78a-654b-48ec-b90b-ab100da126a6", 
                                 "logo": null, 
                                 "date": "2017-12-28T09:00:00+01:00", 
@@ -4755,7 +4755,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1264, 
+                                "id": 1263, 
                                 "guid": "1268f73b-b992-5380-ab7a-31eee5e66240", 
                                 "logo": null, 
                                 "date": "2017-12-28T19:00:00+01:00", 
@@ -4831,7 +4831,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1229, 
+                                "id": 1228, 
                                 "guid": "01830be1-2a28-424f-a6f4-5668b463b6e3", 
                                 "logo": null, 
                                 "date": "2017-12-29T12:00:00+01:00", 
@@ -5093,7 +5093,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1206, 
+                                "id": 1207, 
                                 "guid": "2cf16048-946e-4230-8c5a-332826ea14c6", 
                                 "logo": null, 
                                 "date": "2017-12-30T02:30:00+01:00", 
@@ -5121,7 +5121,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1209, 
+                                "id": 1208, 
                                 "guid": "e3d9d5b4-b35d-4828-b7af-6cdf33b438cf", 
                                 "logo": null, 
                                 "date": "2017-12-29T23:59:00+01:00", 
@@ -6180,16 +6180,16 @@
                         ], 
                         "CCL Hall 2": [
                             {
-                                "id": 1083, 
-                                "guid": "996b43ab-9f4c-5e9e-bdb7-9c0b7ab7bf48", 
+                                "id": 1088, 
+                                "guid": "1481e306-80a7-5abd-842c-177422a47468", 
                                 "logo": null, 
-                                "date": "2017-12-29T17:00:00+01:00", 
-                                "start": "17:00", 
-                                "duration": "1:00", 
+                                "date": "2017-12-29T16:35:00+01:00", 
+                                "start": "16:35", 
+                                "duration": "0:25", 
                                 "room": "CCL Hall 2", 
                                 "slug": "", 
                                 "title": "DLF", 
-                                "subtitle": "Studiogespr\u00e4ch", 
+                                "subtitle": "Live-Beitrag in Forschung Aktuell", 
                                 "track": "self organized sessions", 
                                 "type": "", 
                                 "language": "de", 
@@ -6201,16 +6201,16 @@
                                 ]
                             }, 
                             {
-                                "id": 1096, 
-                                "guid": "1481e306-80a7-5abd-842c-177422a47468", 
+                                "id": 1091, 
+                                "guid": "996b43ab-9f4c-5e9e-bdb7-9c0b7ab7bf48", 
                                 "logo": null, 
-                                "date": "2017-12-29T16:35:00+01:00", 
-                                "start": "16:35", 
-                                "duration": "0:25", 
+                                "date": "2017-12-29T17:00:00+01:00", 
+                                "start": "17:00", 
+                                "duration": "1:00", 
                                 "room": "CCL Hall 2", 
                                 "slug": "", 
                                 "title": "DLF", 
-                                "subtitle": "Live-Beitrag in Forschung Aktuell", 
+                                "subtitle": "Studiogespr\u00e4ch", 
                                 "track": "self organized sessions", 
                                 "type": "", 
                                 "language": "de", 
@@ -6729,11 +6729,11 @@
                         "Open Infra Stage": [], 
                         "Kidspace": [
                             {
-                                "id": 1000, 
-                                "guid": "53d056a4-aeb6-4814-ace4-a8a60345340d", 
+                                "id": 1001, 
+                                "guid": "d6665d6a-b44e-44f0-a0aa-31f5f716caf0", 
                                 "logo": null, 
-                                "date": "2017-12-29T16:00:00+01:00", 
-                                "start": "16:00", 
+                                "date": "2017-12-29T12:00:00+01:00", 
+                                "start": "12:00", 
                                 "duration": "1:00", 
                                 "room": "Kidspace", 
                                 "slug": "", 
@@ -6757,10 +6757,10 @@
                             }, 
                             {
                                 "id": 1002, 
-                                "guid": "d6665d6a-b44e-44f0-a0aa-31f5f716caf0", 
+                                "guid": "53d056a4-aeb6-4814-ace4-a8a60345340d", 
                                 "logo": null, 
-                                "date": "2017-12-29T12:00:00+01:00", 
-                                "start": "12:00", 
+                                "date": "2017-12-29T16:00:00+01:00", 
+                                "start": "16:00", 
                                 "duration": "1:00", 
                                 "room": "Kidspace", 
                                 "slug": "", 
@@ -6914,7 +6914,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1008, 
+                                "id": 1009, 
                                 "guid": "4d2df78a-654b-48ec-b90b-ab100da126a6", 
                                 "logo": null, 
                                 "date": "2017-12-29T09:00:00+01:00", 
@@ -7285,7 +7285,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1176, 
+                                "id": 1177, 
                                 "guid": "687e161b-8d94-5b1c-8915-bd921f8b0475", 
                                 "logo": null, 
                                 "date": "2017-12-29T16:00:00+01:00", 
@@ -7431,7 +7431,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1289, 
+                                "id": 1288, 
                                 "guid": "a547ca07-306b-5214-bcab-5e84fa18505c", 
                                 "logo": null, 
                                 "date": "2017-12-29T18:00:00+01:00", 
@@ -7497,7 +7497,7 @@
                     "rooms": {
                         "Komona Coral Reef": [
                             {
-                                "id": 1227, 
+                                "id": 1229, 
                                 "guid": "a3026239-aef4-4d20-bdc5-003bfbbff970", 
                                 "logo": null, 
                                 "date": "2017-12-30T12:00:00+01:00", 
@@ -7575,7 +7575,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1207, 
+                                "id": 1209, 
                                 "guid": "98e116fa-62da-4392-98bd-e3d3b44f4342", 
                                 "logo": null, 
                                 "date": "2017-12-30T12:00:00+01:00", 
@@ -7957,7 +7957,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1414, 
+                                "id": 1413, 
                                 "guid": "dd59f0b8-212d-4978-8476-fffb4455bb25", 
                                 "logo": null, 
                                 "date": "2017-12-30T14:30:00+01:00", 
@@ -8026,9 +8026,9 @@
                                 "subtitle": "", 
                                 "track": "self organized sessions", 
                                 "type": "discussion", 
-                                "language": "de", 
+                                "language": "en", 
                                 "abstract": "", 
-                                "description": "", 
+                                "description": "An open discussion on how to improve diversity at c3 events and on dealing with cases of harassment.", 
                                 "persons": [
                                     {
                                         "id": 0, 
@@ -8092,7 +8092,7 @@
                         ], 
                         "CCL Hall 2": [
                             {
-                                "id": 1086, 
+                                "id": 1094, 
                                 "guid": "1c73c759-0d3b-501e-a07d-82ea10e9f40c", 
                                 "logo": null, 
                                 "date": "2017-12-30T13:05:00+01:00", 
@@ -8113,7 +8113,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1089, 
+                                "id": 1097, 
                                 "guid": "bdf00168-ed69-5809-9916-a89d109c9b2c", 
                                 "logo": null, 
                                 "date": "2017-12-30T14:15:00+01:00", 
@@ -8462,7 +8462,7 @@
                         "Open Infra Stage": [], 
                         "Kidspace": [
                             {
-                                "id": 1000, 
+                                "id": 1002, 
                                 "guid": "53d056a4-aeb6-4814-ace4-a8a60345340d", 
                                 "logo": null, 
                                 "date": "2017-12-30T11:00:00+01:00", 
@@ -8543,7 +8543,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1008, 
+                                "id": 1009, 
                                 "guid": "4d2df78a-654b-48ec-b90b-ab100da126a6", 
                                 "logo": null, 
                                 "date": "2017-12-30T09:00:00+01:00", 
@@ -8745,6 +8745,6 @@
                 }
             ]
         }, 
-        "version": "2018-01-06 13:10"
+        "version": "2018-01-06 13:20"
     }
 }
