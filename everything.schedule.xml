@@ -1,5 +1,5 @@
 <schedule>
-  <version>Mildenberg 2018-01-08 03:50</version>
+  <version>Mildenberg 2018-01-08 04:00</version>
   <base_url>https://fahrplan.events.ccc.de/congress/2017/Fahrplan/</base_url>
   <conference>
     <acronym>34c3</acronym>
@@ -13719,6 +13719,28 @@ mobile: null eins sechs drei 362 534 0</description>
       </event>
       <event id="1357" guid="622c5770-b9fc-45ef-b9fc-1533f661e3ec">
         <logo/>
+        <date>2017-12-29T19:00:00+01:00</date>
+        <start>19:00</start>
+        <duration>2:00</duration>
+        <room>Assembly:TeaHouse</room>
+        <slug/>
+        <title>TeaHouse</title>
+        <subtitle>Breaking Bad Crypto</subtitle>
+        <track>self organized sessions</track>
+        <type>meeting</type>
+        <language>en</language>
+        <abstract/>
+        <description/>
+        <persons>
+          <person id="0" href="https://events.ccc.de/congress/2017/wiki/index.php/User:Sanpi">Sanpi</person>
+        </persons>
+        <links>
+          <link>https://teahouse.homecomputing.fr/</link>
+          <link>https://events.ccc.de/congress/2017/wiki/index.php/Session:TeaHouse</link>
+        </links>
+      </event>
+      <event id="1357" guid="622c5770-b9fc-45ef-b9fc-1533f661e3ec">
+        <logo/>
         <date>2017-12-29T13:00:00+01:00</date>
         <start>13:00</start>
         <duration>0:45</duration>
@@ -13748,28 +13770,6 @@ mobile: null eins sechs drei 362 534 0</description>
         <slug/>
         <title>TeaHouse</title>
         <subtitle>Fuck Off Google! "Google campus" out of Kreuzberg</subtitle>
-        <track>self organized sessions</track>
-        <type>meeting</type>
-        <language>en</language>
-        <abstract/>
-        <description/>
-        <persons>
-          <person id="0" href="https://events.ccc.de/congress/2017/wiki/index.php/User:Sanpi">Sanpi</person>
-        </persons>
-        <links>
-          <link>https://teahouse.homecomputing.fr/</link>
-          <link>https://events.ccc.de/congress/2017/wiki/index.php/Session:TeaHouse</link>
-        </links>
-      </event>
-      <event id="1357" guid="622c5770-b9fc-45ef-b9fc-1533f661e3ec">
-        <logo/>
-        <date>2017-12-29T19:00:00+01:00</date>
-        <start>19:00</start>
-        <duration>2:00</duration>
-        <room>Assembly:TeaHouse</room>
-        <slug/>
-        <title>TeaHouse</title>
-        <subtitle>Breaking Bad Crypto</subtitle>
         <track>self organized sessions</track>
         <type>meeting</type>
         <language>en</language>
