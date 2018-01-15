@@ -129,7 +129,28 @@
                         "Komona D.Ressrosa": [], 
                         "Seminar room 14-15": [
                             {
-                                "id": 1032, 
+                                "id": 1035, 
+                                "guid": "e54328ce-06f7-5578-bccb-0653404d932e", 
+                                "logo": null, 
+                                "date": "2017-12-26T13:00:00+01:00", 
+                                "start": "13:00", 
+                                "duration": "0:45", 
+                                "room": "Seminar room 14-15", 
+                                "slug": "", 
+                                "title": "Angel Meeting", 
+                                "subtitle": "Build-up and welcome meeting Day 0", 
+                                "track": "self organized sessions", 
+                                "type": "meeting", 
+                                "language": "en", 
+                                "abstract": "", 
+                                "description": "Daily meetings of the Angel crew.", 
+                                "persons": [], 
+                                "links": [
+                                    "https://events.ccc.de/congress/2017/wiki/index.php/Session:Angel_Meeting"
+                                ]
+                            }, 
+                            {
+                                "id": 1036, 
                                 "guid": "3b5cf5d2-7d5d-51ba-8798-dc60e10c8985", 
                                 "logo": null, 
                                 "date": "2017-12-26T19:30:00+01:00", 
@@ -150,7 +171,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1033, 
+                                "id": 1037, 
                                 "guid": "5e7bb2b0-f5ea-598b-9f57-a08f05420984", 
                                 "logo": null, 
                                 "date": "2017-12-26T20:15:00+01:00", 
@@ -160,27 +181,6 @@
                                 "slug": "", 
                                 "title": "Angel Meeting", 
                                 "subtitle": "Introduction meeting for new angels Day 0", 
-                                "track": "self organized sessions", 
-                                "type": "meeting", 
-                                "language": "en", 
-                                "abstract": "", 
-                                "description": "Daily meetings of the Angel crew.", 
-                                "persons": [], 
-                                "links": [
-                                    "https://events.ccc.de/congress/2017/wiki/index.php/Session:Angel_Meeting"
-                                ]
-                            }, 
-                            {
-                                "id": 1037, 
-                                "guid": "e54328ce-06f7-5578-bccb-0653404d932e", 
-                                "logo": null, 
-                                "date": "2017-12-26T13:00:00+01:00", 
-                                "start": "13:00", 
-                                "duration": "0:45", 
-                                "room": "Seminar room 14-15", 
-                                "slug": "", 
-                                "title": "Angel Meeting", 
-                                "subtitle": "Build-up and welcome meeting Day 0", 
                                 "track": "self organized sessions", 
                                 "type": "meeting", 
                                 "language": "en", 
@@ -775,7 +775,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1413, 
+                                "id": 1414, 
                                 "guid": "def1b880-7e56-415c-a57b-73b5acda9b5a", 
                                 "logo": null, 
                                 "date": "2017-12-27T16:00:00+01:00", 
@@ -1337,7 +1337,7 @@
                         ], 
                         "Seminar room 14-15": [
                             {
-                                "id": 1034, 
+                                "id": 1032, 
                                 "guid": "579eab72-fbd6-5ba7-ad7a-59bcab0272ad", 
                                 "logo": null, 
                                 "date": "2017-12-27T12:45:00+01:00", 
@@ -1358,7 +1358,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1035, 
+                                "id": 1033, 
                                 "guid": "a8254a36-ca09-5c68-8e0b-1399b8a94247", 
                                 "logo": null, 
                                 "date": "2017-12-27T16:30:00+01:00", 
@@ -1379,7 +1379,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1036, 
+                                "id": 1034, 
                                 "guid": "a7083f65-5e8b-52cb-b008-af59762bb115", 
                                 "logo": null, 
                                 "date": "2017-12-27T17:15:00+01:00", 
@@ -1575,7 +1575,7 @@
                         "Open Infra Stage": [], 
                         "Kidspace": [
                             {
-                                "id": 1379, 
+                                "id": 1380, 
                                 "guid": "d75d1ea5-b3e1-4f52-ad73-3eb0e99b7dea", 
                                 "logo": null, 
                                 "date": "2017-12-27T13:00:00+01:00", 
@@ -1706,7 +1706,7 @@
                         ], 
                         "Seminar room 13": [
                             {
-                                "id": 1009, 
+                                "id": 1008, 
                                 "guid": "42ad7b9a-63b4-4790-8c37-1966932d71d6", 
                                 "logo": null, 
                                 "date": "2017-12-27T09:00:00+01:00", 
@@ -1871,7 +1871,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1327, 
+                                "id": 1328, 
                                 "guid": "16098a31-339d-482a-9cac-55a2b174cbae", 
                                 "logo": null, 
                                 "date": "2017-12-27T19:45:00+01:00", 
@@ -2216,7 +2216,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1228, 
+                                "id": 1227, 
                                 "guid": "78b6af67-7c9d-460a-ac37-0428a4178e00", 
                                 "logo": null, 
                                 "date": "2017-12-28T12:00:00+01:00", 
@@ -3943,7 +3943,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1263, 
+                                "id": 1264, 
                                 "guid": "b8e83cf2-69fe-4880-9c19-b889b4e5d8d3", 
                                 "logo": null, 
                                 "date": "2017-12-28T18:00:00+01:00", 
@@ -4198,7 +4198,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1380, 
+                                "id": 1379, 
                                 "guid": "478676ae-916e-4012-9cce-f71ef82aac04", 
                                 "logo": null, 
                                 "date": "2017-12-28T12:00:00+01:00", 
@@ -4413,7 +4413,7 @@
                         ], 
                         "Seminar room 13": [
                             {
-                                "id": 1008, 
+                                "id": 1009, 
                                 "guid": "4d2df78a-654b-48ec-b90b-ab100da126a6", 
                                 "logo": null, 
                                 "date": "2017-12-28T09:00:00+01:00", 
@@ -4755,7 +4755,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1264, 
+                                "id": 1263, 
                                 "guid": "1268f73b-b992-5380-ab7a-31eee5e66240", 
                                 "logo": null, 
                                 "date": "2017-12-28T19:00:00+01:00", 
@@ -4831,7 +4831,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1229, 
+                                "id": 1228, 
                                 "guid": "01830be1-2a28-424f-a6f4-5668b463b6e3", 
                                 "logo": null, 
                                 "date": "2017-12-29T12:00:00+01:00", 
@@ -6729,11 +6729,11 @@
                         "Open Infra Stage": [], 
                         "Kidspace": [
                             {
-                                "id": 1000, 
-                                "guid": "53d056a4-aeb6-4814-ace4-a8a60345340d", 
+                                "id": 1001, 
+                                "guid": "d6665d6a-b44e-44f0-a0aa-31f5f716caf0", 
                                 "logo": null, 
-                                "date": "2017-12-29T16:00:00+01:00", 
-                                "start": "16:00", 
+                                "date": "2017-12-29T12:00:00+01:00", 
+                                "start": "12:00", 
                                 "duration": "1:00", 
                                 "room": "Kidspace", 
                                 "slug": "", 
@@ -6757,10 +6757,10 @@
                             }, 
                             {
                                 "id": 1002, 
-                                "guid": "d6665d6a-b44e-44f0-a0aa-31f5f716caf0", 
+                                "guid": "53d056a4-aeb6-4814-ace4-a8a60345340d", 
                                 "logo": null, 
-                                "date": "2017-12-29T12:00:00+01:00", 
-                                "start": "12:00", 
+                                "date": "2017-12-29T16:00:00+01:00", 
+                                "start": "16:00", 
                                 "duration": "1:00", 
                                 "room": "Kidspace", 
                                 "slug": "", 
@@ -6914,7 +6914,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1008, 
+                                "id": 1009, 
                                 "guid": "4d2df78a-654b-48ec-b90b-ab100da126a6", 
                                 "logo": null, 
                                 "date": "2017-12-29T09:00:00+01:00", 
@@ -7497,7 +7497,7 @@
                     "rooms": {
                         "Komona Coral Reef": [
                             {
-                                "id": 1227, 
+                                "id": 1229, 
                                 "guid": "a3026239-aef4-4d20-bdc5-003bfbbff970", 
                                 "logo": null, 
                                 "date": "2017-12-30T12:00:00+01:00", 
@@ -7957,7 +7957,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1414, 
+                                "id": 1413, 
                                 "guid": "dd59f0b8-212d-4978-8476-fffb4455bb25", 
                                 "logo": null, 
                                 "date": "2017-12-30T14:30:00+01:00", 
@@ -8026,9 +8026,9 @@
                                 "subtitle": "", 
                                 "track": "self organized sessions", 
                                 "type": "discussion", 
-                                "language": "de", 
+                                "language": "en", 
                                 "abstract": "", 
-                                "description": "", 
+                                "description": "An open discussion on how to improve diversity at c3 events and on dealing with cases of harassment.", 
                                 "persons": [
                                     {
                                         "id": 0, 
@@ -8462,7 +8462,7 @@
                         "Open Infra Stage": [], 
                         "Kidspace": [
                             {
-                                "id": 1000, 
+                                "id": 1002, 
                                 "guid": "53d056a4-aeb6-4814-ace4-a8a60345340d", 
                                 "logo": null, 
                                 "date": "2017-12-30T11:00:00+01:00", 
@@ -8543,7 +8543,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1008, 
+                                "id": 1009, 
                                 "guid": "4d2df78a-654b-48ec-b90b-ab100da126a6", 
                                 "logo": null, 
                                 "date": "2017-12-30T09:00:00+01:00", 
@@ -8662,7 +8662,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1328, 
+                                "id": 1327, 
                                 "guid": "7371a2f9-75c6-4c01-9f8d-724c8c88d479", 
                                 "logo": null, 
                                 "date": "2017-12-30T11:00:00+01:00", 
@@ -8745,6 +8745,6 @@
                 }
             ]
         }, 
-        "version": "2018-01-15 02:50"
+        "version": "2018-01-15 03:00"
     }
 }
