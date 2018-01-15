@@ -1,5 +1,5 @@
 <schedule>
-  <version>Mildenberg 2018-01-15 01:40</version>
+  <version>Mildenberg 2018-01-15 01:50</version>
   <base_url>https://fahrplan.events.ccc.de/congress/2017/Fahrplan/</base_url>
   <conference>
     <acronym>34c3</acronym>
@@ -1970,10 +1970,10 @@ This Session is about artificial intelligence and its philosophical implications
           <link>https://events.ccc.de/congress/2017/wiki/index.php/Session:Lehrerstammtisch</link>
         </links>
       </event>
-      <event id="1347" guid="9ed83d1d-7007-4bb8-9e65-22b1e9abd09b">
+      <event id="1347" guid="50cdec42-6f29-47e5-bdbe-e29d19ee2941">
         <logo/>
-        <date>2017-12-27T15:00:00+01:00</date>
-        <start>15:00</start>
+        <date>2017-12-27T21:00:00+01:00</date>
+        <start>21:00</start>
         <duration>0:30</duration>
         <room>Lecture room 12</room>
         <slug/>
@@ -1990,10 +1990,10 @@ This Session is about artificial intelligence and its philosophical implications
           <link>https://events.ccc.de/congress/2017/wiki/index.php/Session:Subtitles-Engelmeeting</link>
         </links>
       </event>
-      <event id="1349" guid="50cdec42-6f29-47e5-bdbe-e29d19ee2941">
+      <event id="1348" guid="9ed83d1d-7007-4bb8-9e65-22b1e9abd09b">
         <logo/>
-        <date>2017-12-27T21:00:00+01:00</date>
-        <start>21:00</start>
+        <date>2017-12-27T15:00:00+01:00</date>
+        <start>15:00</start>
         <duration>0:30</duration>
         <room>Lecture room 12</room>
         <slug/>
@@ -3380,7 +3380,26 @@ https://re-publica.com/en/session/sketchnotes-einsteiger-1</description>
       </event>
     </room>
     <room name="CCL Hall 2">
-      <event id="1084" guid="c7e392d4-78d7-501f-82e8-4ae026411861">
+      <event id="1085" guid="31370b42-b65b-5860-8bd2-12dc9ccb7b5d">
+        <logo/>
+        <date>2017-12-27T12:15:00+01:00</date>
+        <start>12:15</start>
+        <duration>0:15</duration>
+        <room>CCL Hall 2</room>
+        <slug/>
+        <title>DLF</title>
+        <subtitle>Interview</subtitle>
+        <track>self organized sessions</track>
+        <type/>
+        <language>de</language>
+        <abstract/>
+        <description>DLF</description>
+        <persons/>
+        <links>
+          <link>https://events.ccc.de/congress/2017/wiki/index.php/Session:DLF</link>
+        </links>
+      </event>
+      <event id="1088" guid="c7e392d4-78d7-501f-82e8-4ae026411861">
         <logo/>
         <date>2017-12-27T14:00:00+01:00</date>
         <start>14:00</start>
@@ -3399,7 +3418,7 @@ https://re-publica.com/en/session/sketchnotes-einsteiger-1</description>
           <link>https://events.ccc.de/congress/2017/wiki/index.php/Session:DLF</link>
         </links>
       </event>
-      <event id="1087" guid="616cbc52-8390-54ea-8839-3af7790e11d1">
+      <event id="1091" guid="616cbc52-8390-54ea-8839-3af7790e11d1">
         <logo/>
         <date>2017-12-27T16:05:00+01:00</date>
         <start>16:05</start>
@@ -3418,7 +3437,7 @@ https://re-publica.com/en/session/sketchnotes-einsteiger-1</description>
           <link>https://events.ccc.de/congress/2017/wiki/index.php/Session:DLF</link>
         </links>
       </event>
-      <event id="1088" guid="555f0cd8-0fe0-5213-a087-c1539138aa40">
+      <event id="1092" guid="555f0cd8-0fe0-5213-a087-c1539138aa40">
         <logo/>
         <date>2017-12-27T11:00:00+01:00</date>
         <start>11:00</start>
@@ -3437,7 +3456,7 @@ https://re-publica.com/en/session/sketchnotes-einsteiger-1</description>
           <link>https://events.ccc.de/congress/2017/wiki/index.php/Session:DLF</link>
         </links>
       </event>
-      <event id="1090" guid="0e9a7526-0bf6-533d-8f83-94e4d1fb4d8f">
+      <event id="1094" guid="0e9a7526-0bf6-533d-8f83-94e4d1fb4d8f">
         <logo/>
         <date>2017-12-27T16:35:00+01:00</date>
         <start>16:35</start>
@@ -3456,7 +3475,7 @@ https://re-publica.com/en/session/sketchnotes-einsteiger-1</description>
           <link>https://events.ccc.de/congress/2017/wiki/index.php/Session:DLF</link>
         </links>
       </event>
-      <event id="1091" guid="f9e17ca9-0980-5070-aa6c-3b556ca66211">
+      <event id="1095" guid="f9e17ca9-0980-5070-aa6c-3b556ca66211">
         <logo/>
         <date>2017-12-27T11:20:00+01:00</date>
         <start>11:20</start>
@@ -3475,7 +3494,7 @@ https://re-publica.com/en/session/sketchnotes-einsteiger-1</description>
           <link>https://events.ccc.de/congress/2017/wiki/index.php/Session:DLF</link>
         </links>
       </event>
-      <event id="1093" guid="528e7ef5-72c6-55d1-9c21-3920add376a1">
+      <event id="1097" guid="528e7ef5-72c6-55d1-9c21-3920add376a1">
         <logo/>
         <date>2017-12-27T17:00:00+01:00</date>
         <start>17:00</start>
@@ -3494,29 +3513,10 @@ https://re-publica.com/en/session/sketchnotes-einsteiger-1</description>
           <link>https://events.ccc.de/congress/2017/wiki/index.php/Session:DLF</link>
         </links>
       </event>
-      <event id="1094" guid="26226d1d-a08d-55b3-b295-9434c811b24a">
+      <event id="1098" guid="26226d1d-a08d-55b3-b295-9434c811b24a">
         <logo/>
         <date>2017-12-27T12:00:00+01:00</date>
         <start>12:00</start>
-        <duration>0:15</duration>
-        <room>CCL Hall 2</room>
-        <slug/>
-        <title>DLF</title>
-        <subtitle>Interview</subtitle>
-        <track>self organized sessions</track>
-        <type/>
-        <language>de</language>
-        <abstract/>
-        <description>DLF</description>
-        <persons/>
-        <links>
-          <link>https://events.ccc.de/congress/2017/wiki/index.php/Session:DLF</link>
-        </links>
-      </event>
-      <event id="1097" guid="31370b42-b65b-5860-8bd2-12dc9ccb7b5d">
-        <logo/>
-        <date>2017-12-27T12:15:00+01:00</date>
-        <start>12:15</start>
         <duration>0:15</duration>
         <room>CCL Hall 2</room>
         <slug/>
@@ -3637,7 +3637,7 @@ Die Anmeldung erfolgt vor Ort und falls die Zeit im Jugendhack Assembly abgelauf
       </event>
     </room>
     <room name="Esszimmer">
-      <event id="1176" guid="8baea51d-6c66-55dc-ad37-92ec9ea924cb">
+      <event id="1177" guid="8baea51d-6c66-55dc-ad37-92ec9ea924cb">
         <logo/>
         <date>2017-12-27T13:00:00+01:00</date>
         <start>13:00</start>
@@ -3774,7 +3774,7 @@ Die Anmeldung erfolgt vor Ort und falls die Zeit im Jugendhack Assembly abgelauf
       </event>
     </room>
     <room name="Assembly:HardwareHackingArea">
-      <event id="1191" guid="f5ebebb3-c53e-443e-82ee-080723b1f60e">
+      <event id="1192" guid="f5ebebb3-c53e-443e-82ee-080723b1f60e">
         <logo/>
         <date>2017-12-27T17:30:00+01:00</date>
         <start>17:30</start>
@@ -6233,7 +6233,7 @@ Day 2 - 13:00 - Seminar Room 14-15</description>
           <link>https://events.ccc.de/congress/2017/wiki/index.php/Session:Junghackertag_Wissenschaftsschnitzeljagd</link>
         </links>
       </event>
-      <event id="1348" guid="58d27c73-4a82-4199-b186-f939686353b2">
+      <event id="1349" guid="58d27c73-4a82-4199-b186-f939686353b2">
         <logo/>
         <date>2017-12-28T13:00:00+01:00</date>
         <start>13:00</start>
@@ -7968,61 +7968,7 @@ Die Webseite ist zusammen mit Trickmisch.de, einer Sprachschule von uns für Ank
     </room>
     <room name="Workshop Area"/>
     <room name="Assembly:Kidspace">
-      <event id="1002" guid="1145687b-1da9-4200-bdbf-80614032f9af">
-        <logo/>
-        <date>2017-12-28T11:00:00+01:00</date>
-        <start>11:00</start>
-        <duration>1:00</duration>
-        <room>Assembly:Kidspace</room>
-        <slug/>
-        <title>"Pen&amp;Paper" Game Jam</title>
-        <subtitle>Workshop</subtitle>
-        <track>self organized sessions</track>
-        <type>game</type>
-        <language>de</language>
-        <abstract/>
-        <description>Hi, wir wollen gemeinsam ein Spiel entwickeln.
-Genauer gesagt machen wir einen pen&amp;paper mini "Game Jam".
-Hierbei finden sich normalerweise aus allen Disziplinen der Gamesbranche Beteiligte zusammen um in einem lockeren Umfeld Spiele/Spielideen zu entwickeln.
-Ich möchte dieses Konzept gerne mit Kindern umsetzen; ohne Computer ;0)
-Es geht um Grundlegende Spielmechanismen und deren Kreative Umsetzung.
-
-Ich freue mich auf viele motivierte Kinder ;o)</description>
-        <persons>
-          <person id="0" href="https://events.ccc.de/congress/2017/wiki/index.php/User:Lydia">Lydia</person>
-        </persons>
-        <links>
-          <link>https://events.ccc.de/congress/2017/wiki/index.php/Session:%22Pen%26Paper%22_Game_Jam</link>
-        </links>
-      </event>
-      <event id="1002" guid="1145687b-1da9-4200-bdbf-80614032f9af">
-        <logo/>
-        <date>2017-12-28T12:00:00+01:00</date>
-        <start>12:00</start>
-        <duration>1:00</duration>
-        <room>Assembly:Kidspace</room>
-        <slug/>
-        <title>"Pen&amp;Paper" Game Jam</title>
-        <subtitle>Workshop</subtitle>
-        <track>self organized sessions</track>
-        <type>game</type>
-        <language>de</language>
-        <abstract/>
-        <description>Hi, wir wollen gemeinsam ein Spiel entwickeln.
-Genauer gesagt machen wir einen pen&amp;paper mini "Game Jam".
-Hierbei finden sich normalerweise aus allen Disziplinen der Gamesbranche Beteiligte zusammen um in einem lockeren Umfeld Spiele/Spielideen zu entwickeln.
-Ich möchte dieses Konzept gerne mit Kindern umsetzen; ohne Computer ;0)
-Es geht um Grundlegende Spielmechanismen und deren Kreative Umsetzung.
-
-Ich freue mich auf viele motivierte Kinder ;o)</description>
-        <persons>
-          <person id="0" href="https://events.ccc.de/congress/2017/wiki/index.php/User:Lydia">Lydia</person>
-        </persons>
-        <links>
-          <link>https://events.ccc.de/congress/2017/wiki/index.php/Session:%22Pen%26Paper%22_Game_Jam</link>
-        </links>
-      </event>
-      <event id="1002" guid="1145687b-1da9-4200-bdbf-80614032f9af">
+      <event id="1001" guid="1145687b-1da9-4200-bdbf-80614032f9af">
         <logo/>
         <date>2017-12-28T16:00:00+01:00</date>
         <start>16:00</start>
@@ -8049,7 +7995,61 @@ Ich freue mich auf viele motivierte Kinder ;o)</description>
           <link>https://events.ccc.de/congress/2017/wiki/index.php/Session:%22Pen%26Paper%22_Game_Jam</link>
         </links>
       </event>
-      <event id="1280" guid="e8dec555-2fda-4ff0-817f-bec07a6b847e">
+      <event id="1001" guid="1145687b-1da9-4200-bdbf-80614032f9af">
+        <logo/>
+        <date>2017-12-28T11:00:00+01:00</date>
+        <start>11:00</start>
+        <duration>1:00</duration>
+        <room>Assembly:Kidspace</room>
+        <slug/>
+        <title>"Pen&amp;Paper" Game Jam</title>
+        <subtitle>Workshop</subtitle>
+        <track>self organized sessions</track>
+        <type>game</type>
+        <language>de</language>
+        <abstract/>
+        <description>Hi, wir wollen gemeinsam ein Spiel entwickeln.
+Genauer gesagt machen wir einen pen&amp;paper mini "Game Jam".
+Hierbei finden sich normalerweise aus allen Disziplinen der Gamesbranche Beteiligte zusammen um in einem lockeren Umfeld Spiele/Spielideen zu entwickeln.
+Ich möchte dieses Konzept gerne mit Kindern umsetzen; ohne Computer ;0)
+Es geht um Grundlegende Spielmechanismen und deren Kreative Umsetzung.
+
+Ich freue mich auf viele motivierte Kinder ;o)</description>
+        <persons>
+          <person id="0" href="https://events.ccc.de/congress/2017/wiki/index.php/User:Lydia">Lydia</person>
+        </persons>
+        <links>
+          <link>https://events.ccc.de/congress/2017/wiki/index.php/Session:%22Pen%26Paper%22_Game_Jam</link>
+        </links>
+      </event>
+      <event id="1001" guid="1145687b-1da9-4200-bdbf-80614032f9af">
+        <logo/>
+        <date>2017-12-28T12:00:00+01:00</date>
+        <start>12:00</start>
+        <duration>1:00</duration>
+        <room>Assembly:Kidspace</room>
+        <slug/>
+        <title>"Pen&amp;Paper" Game Jam</title>
+        <subtitle>Workshop</subtitle>
+        <track>self organized sessions</track>
+        <type>game</type>
+        <language>de</language>
+        <abstract/>
+        <description>Hi, wir wollen gemeinsam ein Spiel entwickeln.
+Genauer gesagt machen wir einen pen&amp;paper mini "Game Jam".
+Hierbei finden sich normalerweise aus allen Disziplinen der Gamesbranche Beteiligte zusammen um in einem lockeren Umfeld Spiele/Spielideen zu entwickeln.
+Ich möchte dieses Konzept gerne mit Kindern umsetzen; ohne Computer ;0)
+Es geht um Grundlegende Spielmechanismen und deren Kreative Umsetzung.
+
+Ich freue mich auf viele motivierte Kinder ;o)</description>
+        <persons>
+          <person id="0" href="https://events.ccc.de/congress/2017/wiki/index.php/User:Lydia">Lydia</person>
+        </persons>
+        <links>
+          <link>https://events.ccc.de/congress/2017/wiki/index.php/Session:%22Pen%26Paper%22_Game_Jam</link>
+        </links>
+      </event>
+      <event id="1281" guid="e8dec555-2fda-4ff0-817f-bec07a6b847e">
         <logo/>
         <date>2017-12-28T16:00:00+01:00</date>
         <start>16:00</start>
@@ -8342,7 +8342,7 @@ This workshop will be given twice&lt;br /&gt;(both identical):&lt;br /&gt;
           <link>https://events.ccc.de/congress/2017/wiki/index.php/Session:ArduinoForTotalNewbies</link>
         </links>
       </event>
-      <event id="1192" guid="e87a7b37-b57c-4367-957c-1ef2dcd3a606">
+      <event id="1191" guid="e87a7b37-b57c-4367-957c-1ef2dcd3a606">
         <logo/>
         <date>2017-12-28T17:30:00+01:00</date>
         <start>17:30</start>
@@ -8473,10 +8473,10 @@ Let us all discuss!</description>
           <link>https://events.ccc.de/congress/2017/wiki/index.php/Session:Beer_Tasting_@_FHB</link>
         </links>
       </event>
-      <event id="1133" guid="f23af674-7de2-45cb-b605-036ab470954a">
+      <event id="1133" guid="ad64fdfc-31ea-4d5e-891e-5285c5e8f52e">
         <logo/>
-        <date>2017-12-28T20:30:00+01:00</date>
-        <start>20:30</start>
+        <date>2017-12-28T19:00:00+01:00</date>
+        <start>19:00</start>
         <duration>1:30</duration>
         <room>Assembly:Foodhackingbase</room>
         <slug/>
@@ -8493,10 +8493,10 @@ Let us all discuss!</description>
           <link>https://events.ccc.de/congress/2017/wiki/index.php/Session:Food_Hacking:_Cheese_Rendez-vous</link>
         </links>
       </event>
-      <event id="1134" guid="ad64fdfc-31ea-4d5e-891e-5285c5e8f52e">
+      <event id="1134" guid="f23af674-7de2-45cb-b605-036ab470954a">
         <logo/>
-        <date>2017-12-28T19:00:00+01:00</date>
-        <start>19:00</start>
+        <date>2017-12-28T20:30:00+01:00</date>
+        <start>20:30</start>
         <duration>1:30</duration>
         <room>Assembly:Foodhackingbase</room>
         <slug/>
@@ -8681,7 +8681,26 @@ Day 2, 14:00</description>
       </event>
     </room>
     <room name="CCL Hall 2">
-      <event id="1083" guid="c722d326-9297-5528-a7dd-6645ead7e8b1">
+      <event id="1084" guid="531e5d6b-bb6a-5f91-b3cc-ac67734ae70f">
+        <logo/>
+        <date>2017-12-28T10:10:00+01:00</date>
+        <start>10:10</start>
+        <duration>1:20</duration>
+        <room>CCL Hall 2</room>
+        <slug/>
+        <title>DLF</title>
+        <subtitle>"Progmmieren lernen mit Raspberry Pi und Co."</subtitle>
+        <track>self organized sessions</track>
+        <type/>
+        <language>de</language>
+        <abstract/>
+        <description>DLF</description>
+        <persons/>
+        <links>
+          <link>https://events.ccc.de/congress/2017/wiki/index.php/Session:DLF</link>
+        </links>
+      </event>
+      <event id="1087" guid="c722d326-9297-5528-a7dd-6645ead7e8b1">
         <logo/>
         <date>2017-12-28T13:00:00+01:00</date>
         <start>13:00</start>
@@ -8700,7 +8719,7 @@ Day 2, 14:00</description>
           <link>https://events.ccc.de/congress/2017/wiki/index.php/Session:DLF</link>
         </links>
       </event>
-      <event id="1086" guid="4f5a4ab1-ab30-5729-8b05-8865a475dd8e">
+      <event id="1090" guid="4f5a4ab1-ab30-5729-8b05-8865a475dd8e">
         <logo/>
         <date>2017-12-28T16:35:00+01:00</date>
         <start>16:35</start>
@@ -8719,7 +8738,7 @@ Day 2, 14:00</description>
           <link>https://events.ccc.de/congress/2017/wiki/index.php/Session:DLF</link>
         </links>
       </event>
-      <event id="1089" guid="3b865956-5400-5ec4-81b0-028abf9495aa">
+      <event id="1093" guid="3b865956-5400-5ec4-81b0-028abf9495aa">
         <logo/>
         <date>2017-12-28T17:00:00+01:00</date>
         <start>17:00</start>
@@ -8728,25 +8747,6 @@ Day 2, 14:00</description>
         <slug/>
         <title>DLF</title>
         <subtitle>Studiogespräch</subtitle>
-        <track>self organized sessions</track>
-        <type/>
-        <language>de</language>
-        <abstract/>
-        <description>DLF</description>
-        <persons/>
-        <links>
-          <link>https://events.ccc.de/congress/2017/wiki/index.php/Session:DLF</link>
-        </links>
-      </event>
-      <event id="1096" guid="531e5d6b-bb6a-5f91-b3cc-ac67734ae70f">
-        <logo/>
-        <date>2017-12-28T10:10:00+01:00</date>
-        <start>10:10</start>
-        <duration>1:20</duration>
-        <room>CCL Hall 2</room>
-        <slug/>
-        <title>DLF</title>
-        <subtitle>"Progmmieren lernen mit Raspberry Pi und Co."</subtitle>
         <track>self organized sessions</track>
         <type/>
         <language>de</language>
@@ -11014,15 +11014,15 @@ A trip from CAcert over African Chamas through blockchains to Community</descrip
           <link>https://events.ccc.de/congress/2017/wiki/index.php/Session:Haecksenbreakfast</link>
         </links>
       </event>
-      <event id="1206" guid="2cf16048-946e-4230-8c5a-332826ea14c6">
+      <event id="1206" guid="e3d9d5b4-b35d-4828-b7af-6cdf33b438cf">
         <logo/>
-        <date>2017-12-30T02:30:00+01:00</date>
-        <start>02:30</start>
-        <duration>2:00</duration>
+        <date>2017-12-29T23:59:00+01:00</date>
+        <start>23:59</start>
+        <duration>1:30</duration>
         <room>Lecture room 11</room>
         <slug/>
         <title>KinkyGeeks Bondage Workshop</title>
-        <subtitle>Open Rope Jam</subtitle>
+        <subtitle>Advanced</subtitle>
         <track>self organized sessions</track>
         <type>workshop</type>
         <language>de</language>
@@ -11036,15 +11036,15 @@ A trip from CAcert over African Chamas through blockchains to Community</descrip
           <link>https://events.ccc.de/congress/2017/wiki/index.php/Session:KinkyGeeks_Bondage_Workshop</link>
         </links>
       </event>
-      <event id="1207" guid="e3d9d5b4-b35d-4828-b7af-6cdf33b438cf">
+      <event id="1207" guid="2cf16048-946e-4230-8c5a-332826ea14c6">
         <logo/>
-        <date>2017-12-29T23:59:00+01:00</date>
-        <start>23:59</start>
-        <duration>1:30</duration>
+        <date>2017-12-30T02:30:00+01:00</date>
+        <start>02:30</start>
+        <duration>2:00</duration>
         <room>Lecture room 11</room>
         <slug/>
         <title>KinkyGeeks Bondage Workshop</title>
-        <subtitle>Advanced</subtitle>
+        <subtitle>Open Rope Jam</subtitle>
         <track>self organized sessions</track>
         <type>workshop</type>
         <language>de</language>
@@ -12776,7 +12776,7 @@ Ich freue mich auf viele motivierte Kinder ;o)</description>
           <link>https://events.ccc.de/congress/2017/wiki/index.php/Session:%22Pen%26Paper%22_Game_Jam</link>
         </links>
       </event>
-      <event id="1001" guid="53d056a4-aeb6-4814-ace4-a8a60345340d">
+      <event id="1002" guid="53d056a4-aeb6-4814-ace4-a8a60345340d">
         <logo/>
         <date>2017-12-29T16:00:00+01:00</date>
         <start>16:00</start>
@@ -13277,7 +13277,7 @@ This workshop will be given twice&lt;br /&gt;(both identical):&lt;br /&gt;
           <link>https://events.ccc.de/congress/2017/wiki/index.php/Session:ArduinoForTotalNewbies</link>
         </links>
       </event>
-      <event id="1192" guid="e87a7b37-b57c-4367-957c-1ef2dcd3a606">
+      <event id="1191" guid="e87a7b37-b57c-4367-957c-1ef2dcd3a606">
         <logo/>
         <date>2017-12-29T17:30:00+01:00</date>
         <start>17:30</start>
@@ -13807,15 +13807,15 @@ mobile: null eins sechs drei 362 534 0</description>
       </event>
     </room>
     <room name="CCL Hall 2">
-      <event id="1092" guid="1481e306-80a7-5abd-842c-177422a47468">
+      <event id="1083" guid="996b43ab-9f4c-5e9e-bdb7-9c0b7ab7bf48">
         <logo/>
-        <date>2017-12-29T16:35:00+01:00</date>
-        <start>16:35</start>
-        <duration>0:25</duration>
+        <date>2017-12-29T17:00:00+01:00</date>
+        <start>17:00</start>
+        <duration>1:00</duration>
         <room>CCL Hall 2</room>
         <slug/>
         <title>DLF</title>
-        <subtitle>Live-Beitrag in Forschung Aktuell</subtitle>
+        <subtitle>Studiogespräch</subtitle>
         <track>self organized sessions</track>
         <type/>
         <language>de</language>
@@ -13826,15 +13826,15 @@ mobile: null eins sechs drei 362 534 0</description>
           <link>https://events.ccc.de/congress/2017/wiki/index.php/Session:DLF</link>
         </links>
       </event>
-      <event id="1095" guid="996b43ab-9f4c-5e9e-bdb7-9c0b7ab7bf48">
+      <event id="1096" guid="1481e306-80a7-5abd-842c-177422a47468">
         <logo/>
-        <date>2017-12-29T17:00:00+01:00</date>
-        <start>17:00</start>
-        <duration>1:00</duration>
+        <date>2017-12-29T16:35:00+01:00</date>
+        <start>16:35</start>
+        <duration>0:25</duration>
         <room>CCL Hall 2</room>
         <slug/>
         <title>DLF</title>
-        <subtitle>Studiogespräch</subtitle>
+        <subtitle>Live-Beitrag in Forschung Aktuell</subtitle>
         <track>self organized sessions</track>
         <type/>
         <language>de</language>
@@ -13891,7 +13891,7 @@ mobile: null eins sechs drei 362 534 0</description>
           <link>https://events.ccc.de/congress/2017/wiki/index.php/Session:FragDenStaat-User-Treffen</link>
         </links>
       </event>
-      <event id="1177" guid="687e161b-8d94-5b1c-8915-bd921f8b0475">
+      <event id="1176" guid="687e161b-8d94-5b1c-8915-bd921f8b0475">
         <logo/>
         <date>2017-12-29T16:00:00+01:00</date>
         <start>16:00</start>
@@ -14188,7 +14188,7 @@ Die Anmeldung erfolgt vor Ort und falls die Zeit im Jugendhack Assembly abgelauf
       </event>
     </room>
     <room name="Assembly:Kidspace">
-      <event id="1281" guid="7855b445-4986-4d70-b114-521f675ce5e4">
+      <event id="1280" guid="7855b445-4986-4d70-b114-521f675ce5e4">
         <logo/>
         <date>2017-12-29T18:18:00+01:00</date>
         <start>18:18</start>
@@ -15698,9 +15698,9 @@ The goal of this hands-on session is to pass on knowledge about protecting yours
         <subtitle/>
         <track>self organized sessions</track>
         <type>discussion</type>
-        <language>en</language>
+        <language>de</language>
         <abstract/>
-        <description>An open discussion on how to improve diversity at c3 events and on dealing with cases of harassment.</description>
+        <description/>
         <persons>
           <person id="0" href="https://events.ccc.de/congress/2017/wiki/index.php/User:Blackspear">Blackspear</person>
         </persons>
@@ -16157,7 +16157,7 @@ Bring in your own thoughts, ideas, questions.</description>
       </event>
     </room>
     <room name="Kidspace">
-      <event id="1001" guid="53d056a4-aeb6-4814-ace4-a8a60345340d">
+      <event id="1002" guid="53d056a4-aeb6-4814-ace4-a8a60345340d">
         <logo/>
         <date>2017-12-30T11:00:00+01:00</date>
         <start>11:00</start>
@@ -16405,15 +16405,15 @@ but can also use public keys and content hashes as links.</abstract>
       </event>
     </room>
     <room name="CCL Hall 2">
-      <event id="1085" guid="bdf00168-ed69-5809-9916-a89d109c9b2c">
+      <event id="1086" guid="1c73c759-0d3b-501e-a07d-82ea10e9f40c">
         <logo/>
-        <date>2017-12-30T14:15:00+01:00</date>
-        <start>14:15</start>
-        <duration>0:30</duration>
+        <date>2017-12-30T13:05:00+01:00</date>
+        <start>13:05</start>
+        <duration>0:55</duration>
         <room>CCL Hall 2</room>
         <slug/>
         <title>DLF</title>
-        <subtitle>"tuwat!" - Der 34C3 in Leipzig</subtitle>
+        <subtitle>Dlf Kultur - Breitband</subtitle>
         <track>self organized sessions</track>
         <type/>
         <language>de</language>
@@ -16424,15 +16424,15 @@ but can also use public keys and content hashes as links.</abstract>
           <link>https://events.ccc.de/congress/2017/wiki/index.php/Session:DLF</link>
         </links>
       </event>
-      <event id="1098" guid="1c73c759-0d3b-501e-a07d-82ea10e9f40c">
+      <event id="1089" guid="bdf00168-ed69-5809-9916-a89d109c9b2c">
         <logo/>
-        <date>2017-12-30T13:05:00+01:00</date>
-        <start>13:05</start>
-        <duration>0:55</duration>
+        <date>2017-12-30T14:15:00+01:00</date>
+        <start>14:15</start>
+        <duration>0:30</duration>
         <room>CCL Hall 2</room>
         <slug/>
         <title>DLF</title>
-        <subtitle>Dlf Kultur - Breitband</subtitle>
+        <subtitle>"tuwat!" - Der 34C3 in Leipzig</subtitle>
         <track>self organized sessions</track>
         <type/>
         <language>de</language>
@@ -16468,7 +16468,7 @@ but can also use public keys and content hashes as links.</abstract>
       </event>
     </room>
     <room name="Assembly:HardwareHackingArea">
-      <event id="1192" guid="e87a7b37-b57c-4367-957c-1ef2dcd3a606">
+      <event id="1191" guid="e87a7b37-b57c-4367-957c-1ef2dcd3a606">
         <logo/>
         <date>2017-12-30T13:00:00+01:00</date>
         <start>13:00</start>
