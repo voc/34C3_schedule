@@ -591,59 +591,58 @@
             "1514484000"
         ]
     }, 
-    "Session:Intro to Arduino Shield Soldering and Programing# 9c986f80fce7aa40460e060da65ae06b": {
+    "Session:Klangteppich# e3ae1cc334d20a23349a7303e72a0c3a": {
         "Held in language": [
+            "de - German", 
             "en - English"
         ], 
         "Has start time": [
-            "1514638800"
+            "1514505600"
         ], 
         "Has event track": [
             "Session"
         ], 
-        "Has website": [
-            "http://hammeshacks.com/intro/"
-        ], 
+        "Has website": [], 
         "Has description": [
-            "The Intro to Arduino shield is a simple kit which plugs into an Arduino Uno or similar. It includes a button, light sensor (LDR) and red green blue LED. The LED can be controlled as a digitial or an analog output, the button is a digitial input and the sensor is an analog input."
+            "Come over and meet us at our cozy music lounge in hall 2! Proudly presented by Chaos West"
         ], 
         "Has session type": [
-            "Workshop"
+            "Other"
         ], 
         "Has session location": [
             {
-                "fulltext": "Assembly:HardwareHackingArea", 
-                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Assembly:HardwareHackingArea", 
-                "namespace": 504, 
+                "fulltext": "Room:Chaos West Stage", 
+                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Room:Chaos_West_Stage", 
+                "namespace": 516, 
                 "exists": true
             }
         ], 
         "Has subtitle": [
-            "Day 4"
+            "DJ PorCus DJ set"
         ], 
         "Is organized by": [
             {
-                "fulltext": "User:Hammes Hacks", 
-                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/User:Hammes_Hacks", 
+                "fulltext": "User:Bam", 
+                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/User:Bam", 
                 "namespace": 2, 
                 "exists": true
             }
         ], 
         "Has title": [
-            "Intro to Arduino Shield Soldering and Programing"
+            "Klangteppich"
         ], 
         "Has duration": [
-            150
+            120
         ], 
         "GUID": [
-            "e87a7b37-b57c-4367-957c-1ef2dcd3a606"
+            "11832e8c-2e41-4c8d-8ed8-a908d5638480"
         ], 
         "Has color": [
             "#0099ab"
         ], 
-        "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:Intro_to_Arduino_Shield_Soldering_and_Programing", 
+        "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:Klangteppich", 
         "Has end time": [
-            "1514647800"
+            "1514512800"
         ]
     }, 
     "Session:MAKERbuino DIY game console building session# 1e631ce6c3e35f98dc9b43aea3081a28": {
@@ -2606,7 +2605,7 @@
     }, 
     "Session:How to be excellent to each other - a discussion# ba103e86104a8b96d3ae330879ca15fb": {
         "Held in language": [
-            "en - English"
+            "de - German"
         ], 
         "Has start time": [
             "1514635200"
@@ -2615,9 +2614,7 @@
             "Session"
         ], 
         "Has website": [], 
-        "Has description": [
-            "An open discussion on how to improve diversity at c3 events and on dealing with cases of harassment."
-        ], 
+        "Has description": [], 
         "Has session type": [
             "Discussion"
         ], 
@@ -4082,58 +4079,58 @@
             "1514469600"
         ]
     }, 
-    "Session:Klangteppich# e3ae1cc334d20a23349a7303e72a0c3a": {
+    "Session:Real Life Magic: Tesla Coils# e8eb091ac3bbe1378b8faea8ccb421e3": {
         "Held in language": [
             "de - German", 
             "en - English"
         ], 
         "Has start time": [
-            "1514505600"
+            "1514563200"
         ], 
         "Has event track": [
             "Session"
         ], 
         "Has website": [], 
         "Has description": [
-            "Come over and meet us at our cozy music lounge in hall 2! Proudly presented by Chaos West"
+            "Small demos of small Tesla Coils that create small lightnings and plasma flames."
         ], 
         "Has session type": [
-            "Other"
+            "Meeting"
         ], 
         "Has session location": [
             {
-                "fulltext": "Room:Chaos West Stage", 
-                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Room:Chaos_West_Stage", 
-                "namespace": 516, 
+                "fulltext": "Assembly:CCC-CH", 
+                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Assembly:CCC-CH", 
+                "namespace": 504, 
                 "exists": true
             }
         ], 
         "Has subtitle": [
-            "DJ PorCus DJ set"
+            "(Or whenever I am around)"
         ], 
         "Is organized by": [
             {
-                "fulltext": "User:Bam", 
-                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/User:Bam", 
+                "fulltext": "User:Ceemos", 
+                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/User:Ceemos", 
                 "namespace": 2, 
-                "exists": true
+                "exists": false
             }
         ], 
         "Has title": [
-            "Klangteppich"
+            "Real Life Magic: Tesla Coils"
         ], 
         "Has duration": [
-            120
+            60
         ], 
         "GUID": [
-            "11832e8c-2e41-4c8d-8ed8-a908d5638480"
+            "4f1c4bc6-b135-4198-8295-2dce7e454ee8"
         ], 
         "Has color": [
             "#0099ab"
         ], 
-        "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:Klangteppich", 
+        "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:Real_Life_Magic:_Tesla_Coils", 
         "Has end time": [
-            "1514512800"
+            "1514566800"
         ]
     }, 
     "Session:We dont need new texts - we need new languages# 7464d54515aa241fcc4816370a22ee96": {
@@ -5569,21 +5566,19 @@
             "1514480400"
         ]
     }, 
-    "Session:Intro to Arduino Shield Soldering and Programing# 216dfe119e1e9d5f34f5441a7332f8ee": {
+    "Session:LearnToSolder# 7766fab88776d627083edf2937c733c9": {
         "Held in language": [
             "en - English"
         ], 
         "Has start time": [
-            "1514395800"
+            "1514545200"
         ], 
         "Has event track": [
             "Session"
         ], 
-        "Has website": [
-            "http://hammeshacks.com/intro/"
-        ], 
+        "Has website": [], 
         "Has description": [
-            "The Intro to Arduino shield is a simple kit which plugs into an Arduino Uno or similar. It includes a button, light sensor (LDR) and red green blue LED. The LED can be controlled as a digitial or an analog output, the button is a digitial input and the sensor is an analog input."
+            "Learn to Solder!  A large variety of way cool kits are available, all designed for total beginners to complete successfully -- and intriguing enough for the total hardware geek.<br />\n<br />\n<span style=\"color:orange\">'''''This ongoing workshop will be happening concurrently with lots of other way cool workshops at the Hardware Hacking Area!'''''</span>"
         ], 
         "Has session type": [
             "Workshop"
@@ -5597,31 +5592,31 @@
             }
         ], 
         "Has subtitle": [
-            "Day 1"
+            "Day 3"
         ], 
         "Is organized by": [
             {
-                "fulltext": "User:Hammes Hacks", 
-                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/User:Hammes_Hacks", 
+                "fulltext": "User:Maltman23", 
+                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/User:Maltman23", 
                 "namespace": 2, 
                 "exists": true
             }
         ], 
         "Has title": [
-            "Intro to Arduino Shield Soldering and Programing"
+            "LearnToSolder"
         ], 
         "Has duration": [
-            150
+            779
         ], 
         "GUID": [
-            "f5ebebb3-c53e-443e-82ee-080723b1f60e"
+            "950b4c24-8b9d-437b-bb2a-5c274e27221c"
         ], 
         "Has color": [
             "#0099ab"
         ], 
-        "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:Intro_to_Arduino_Shield_Soldering_and_Programing", 
+        "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:LearnToSolder", 
         "Has end time": [
-            "1514404800"
+            "1514591940"
         ]
     }, 
     "Session:Initiate 34c3# 8ab81e64d32b3015a9dccfd6fdc36910": {
@@ -7081,61 +7076,6 @@
         "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:ArduinoForTotalNewbies", 
         "Has end time": [
             "1514565000"
-        ]
-    }, 
-    "Session:Intro to Arduino Shield Soldering and Programing# 690287796b275fbbb45c999f36cac790": {
-        "Held in language": [
-            "en - English"
-        ], 
-        "Has start time": [
-            "1514482200"
-        ], 
-        "Has event track": [
-            "Session"
-        ], 
-        "Has website": [
-            "http://hammeshacks.com/intro/"
-        ], 
-        "Has description": [
-            "The Intro to Arduino shield is a simple kit which plugs into an Arduino Uno or similar. It includes a button, light sensor (LDR) and red green blue LED. The LED can be controlled as a digitial or an analog output, the button is a digitial input and the sensor is an analog input."
-        ], 
-        "Has session type": [
-            "Workshop"
-        ], 
-        "Has session location": [
-            {
-                "fulltext": "Assembly:HardwareHackingArea", 
-                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Assembly:HardwareHackingArea", 
-                "namespace": 504, 
-                "exists": true
-            }
-        ], 
-        "Has subtitle": [
-            "Day 2"
-        ], 
-        "Is organized by": [
-            {
-                "fulltext": "User:Hammes Hacks", 
-                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/User:Hammes_Hacks", 
-                "namespace": 2, 
-                "exists": true
-            }
-        ], 
-        "Has title": [
-            "Intro to Arduino Shield Soldering and Programing"
-        ], 
-        "Has duration": [
-            150
-        ], 
-        "GUID": [
-            "e87a7b37-b57c-4367-957c-1ef2dcd3a606"
-        ], 
-        "Has color": [
-            "#0099ab"
-        ], 
-        "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:Intro_to_Arduino_Shield_Soldering_and_Programing", 
-        "Has end time": [
-            "1514491200"
         ]
     }, 
     "Session:TeaHouse# 88753d0fd65bce60209e43d810409e84": {
@@ -9757,59 +9697,6 @@
         "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:VR-Workshop", 
         "Has end time": [
             "1514484000"
-        ]
-    }, 
-    "Session:LearnToSolder# 7766fab88776d627083edf2937c733c9": {
-        "Held in language": [
-            "en - English"
-        ], 
-        "Has start time": [
-            "1514545200"
-        ], 
-        "Has event track": [
-            "Session"
-        ], 
-        "Has website": [], 
-        "Has description": [
-            "Learn to Solder!  A large variety of way cool kits are available, all designed for total beginners to complete successfully -- and intriguing enough for the total hardware geek.<br />\n<br />\n<span style=\"color:orange\">'''''This ongoing workshop will be happening concurrently with lots of other way cool workshops at the Hardware Hacking Area!'''''</span>"
-        ], 
-        "Has session type": [
-            "Workshop"
-        ], 
-        "Has session location": [
-            {
-                "fulltext": "Assembly:HardwareHackingArea", 
-                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Assembly:HardwareHackingArea", 
-                "namespace": 504, 
-                "exists": true
-            }
-        ], 
-        "Has subtitle": [
-            "Day 3"
-        ], 
-        "Is organized by": [
-            {
-                "fulltext": "User:Maltman23", 
-                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/User:Maltman23", 
-                "namespace": 2, 
-                "exists": true
-            }
-        ], 
-        "Has title": [
-            "LearnToSolder"
-        ], 
-        "Has duration": [
-            779
-        ], 
-        "GUID": [
-            "950b4c24-8b9d-437b-bb2a-5c274e27221c"
-        ], 
-        "Has color": [
-            "#0099ab"
-        ], 
-        "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:LearnToSolder", 
-        "Has end time": [
-            "1514591940"
         ]
     }, 
     "Session:How companies manage their security: Introduction into Information Security Management Systems# 669d2cd7fb5fe1e6c119c07a52676e74": {
@@ -15630,61 +15517,6 @@
             "1514390400"
         ]
     }, 
-    "Session:Intro to Arduino Shield Soldering and Programing# f8c3e2d579d6d46cadf867527d704b50": {
-        "Held in language": [
-            "en - English"
-        ], 
-        "Has start time": [
-            "1514568600"
-        ], 
-        "Has event track": [
-            "Session"
-        ], 
-        "Has website": [
-            "http://hammeshacks.com/intro/"
-        ], 
-        "Has description": [
-            "The Intro to Arduino shield is a simple kit which plugs into an Arduino Uno or similar. It includes a button, light sensor (LDR) and red green blue LED. The LED can be controlled as a digitial or an analog output, the button is a digitial input and the sensor is an analog input."
-        ], 
-        "Has session type": [
-            "Workshop"
-        ], 
-        "Has session location": [
-            {
-                "fulltext": "Assembly:HardwareHackingArea", 
-                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Assembly:HardwareHackingArea", 
-                "namespace": 504, 
-                "exists": true
-            }
-        ], 
-        "Has subtitle": [
-            "Day 3"
-        ], 
-        "Is organized by": [
-            {
-                "fulltext": "User:Hammes Hacks", 
-                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/User:Hammes_Hacks", 
-                "namespace": 2, 
-                "exists": true
-            }
-        ], 
-        "Has title": [
-            "Intro to Arduino Shield Soldering and Programing"
-        ], 
-        "Has duration": [
-            150
-        ], 
-        "GUID": [
-            "e87a7b37-b57c-4367-957c-1ef2dcd3a606"
-        ], 
-        "Has color": [
-            "#0099ab"
-        ], 
-        "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:Intro_to_Arduino_Shield_Soldering_and_Programing", 
-        "Has end time": [
-            "1514577600"
-        ]
-    }, 
     "Session:Lightning Talks Self Organized# 10f186e4a0bcfa407b672d1b237649c7": {
         "Held in language": [], 
         "Has start time": [
@@ -17152,60 +16984,6 @@
             "1514599200"
         ]
     }, 
-    "Session:Real Life Magic: Tesla Coils# e8eb091ac3bbe1378b8faea8ccb421e3": {
-        "Held in language": [
-            "de - German", 
-            "en - English"
-        ], 
-        "Has start time": [
-            "1514563200"
-        ], 
-        "Has event track": [
-            "Session"
-        ], 
-        "Has website": [], 
-        "Has description": [
-            "Small demos of small Tesla Coils that create small lightnings and plasma flames."
-        ], 
-        "Has session type": [
-            "Meeting"
-        ], 
-        "Has session location": [
-            {
-                "fulltext": "Assembly:CCC-CH", 
-                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Assembly:CCC-CH", 
-                "namespace": 504, 
-                "exists": true
-            }
-        ], 
-        "Has subtitle": [
-            "(Or whenever I am around)"
-        ], 
-        "Is organized by": [
-            {
-                "fulltext": "User:Ceemos", 
-                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/User:Ceemos", 
-                "namespace": 2, 
-                "exists": false
-            }
-        ], 
-        "Has title": [
-            "Real Life Magic: Tesla Coils"
-        ], 
-        "Has duration": [
-            60
-        ], 
-        "GUID": [
-            "4f1c4bc6-b135-4198-8295-2dce7e454ee8"
-        ], 
-        "Has color": [
-            "#0099ab"
-        ], 
-        "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:Real_Life_Magic:_Tesla_Coils", 
-        "Has end time": [
-            "1514566800"
-        ]
-    }, 
     "Session:Anarchist hackers - Hispagatos International anarchist-hacker collective# f4e3df0aa42144573fba6a03c70378e1": {
         "Held in language": [
             "en - English", 
@@ -18426,51 +18204,57 @@
             "1514498400"
         ]
     }, 
-    "Session:Rights&Freedoms# fd7a7ff5f5f41b43551c8bf2c3a15530": {
+    "Session:Numerical Weather Prediction Tutorial# f6c1e9a8afa8b59448a312ac4b32a14d": {
         "Held in language": [
-            "de - German", 
             "en - English"
         ], 
         "Has start time": [
-            "1514390400"
+            "1514455200"
         ], 
         "Has event track": [
             "Session"
         ], 
-        "Has website": [], 
+        "Has website": [
+            "https://www.hacknology.de/vortrag/2016/wrf/"
+        ], 
         "Has description": [
-            "Rights & Freedoms Cluster Stage Programme"
+            "A workshop about running your own Numerical Weather Prediction (NWP) model."
         ], 
         "Has session type": [
-            "Talk"
+            "Workshop"
         ], 
         "Has session location": [
             {
-                "fulltext": "Room:CCL Hall 3", 
-                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Room:CCL_Hall_3", 
+                "fulltext": "Room:Seminar room 13", 
+                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Room:Seminar_room_13", 
                 "namespace": 516, 
                 "exists": true
             }
         ], 
-        "Has subtitle": [
-            "Will the monetary system change? Privacy and Risk implications of digital currencies, and decentralized digital monetary systems (nsb)"
+        "Has subtitle": [], 
+        "Is organized by": [
+            {
+                "fulltext": "User:Tecer", 
+                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/User:Tecer", 
+                "namespace": 2, 
+                "exists": true
+            }
         ], 
-        "Is organized by": [], 
         "Has title": [
-            "Rights&Freedoms"
+            "Numerical Weather Prediction Tutorial"
         ], 
         "Has duration": [
-            60
+            180
         ], 
         "GUID": [
-            "8f90513f-3cf8-4444-8b99-d376d70974c6"
+            "3c6e963d-f1f7-4620-b8da-2e3dad27f51e"
         ], 
         "Has color": [
             "#0099ab"
         ], 
-        "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:Rights%26Freedoms", 
+        "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:Numerical_Weather_Prediction_Tutorial", 
         "Has end time": [
-            "1514394000"
+            "1514466000"
         ]
     }, 
     "Session:Pretty Easy privacy (p\u2261p) for Thunderbird via Enigmail: How it works!# 1e912e5c48c4f4aca7e3c3c862a067bb": {
@@ -22283,57 +22067,51 @@
             "1514489400"
         ]
     }, 
-    "Session:Numerical Weather Prediction Tutorial# f6c1e9a8afa8b59448a312ac4b32a14d": {
+    "Session:Rights&Freedoms# fd7a7ff5f5f41b43551c8bf2c3a15530": {
         "Held in language": [
+            "de - German", 
             "en - English"
         ], 
         "Has start time": [
-            "1514455200"
+            "1514390400"
         ], 
         "Has event track": [
             "Session"
         ], 
-        "Has website": [
-            "https://www.hacknology.de/vortrag/2016/wrf/"
-        ], 
+        "Has website": [], 
         "Has description": [
-            "A workshop about running your own Numerical Weather Prediction (NWP) model."
+            "Rights & Freedoms Cluster Stage Programme"
         ], 
         "Has session type": [
-            "Workshop"
+            "Talk"
         ], 
         "Has session location": [
             {
-                "fulltext": "Room:Seminar room 13", 
-                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Room:Seminar_room_13", 
+                "fulltext": "Room:CCL Hall 3", 
+                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Room:CCL_Hall_3", 
                 "namespace": 516, 
                 "exists": true
             }
         ], 
-        "Has subtitle": [], 
-        "Is organized by": [
-            {
-                "fulltext": "User:Tecer", 
-                "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/User:Tecer", 
-                "namespace": 2, 
-                "exists": true
-            }
+        "Has subtitle": [
+            "Will the monetary system change? Privacy and Risk implications of digital currencies, and decentralized digital monetary systems (nsb)"
         ], 
+        "Is organized by": [], 
         "Has title": [
-            "Numerical Weather Prediction Tutorial"
+            "Rights&Freedoms"
         ], 
         "Has duration": [
-            180
+            60
         ], 
         "GUID": [
-            "3c6e963d-f1f7-4620-b8da-2e3dad27f51e"
+            "8f90513f-3cf8-4444-8b99-d376d70974c6"
         ], 
         "Has color": [
             "#0099ab"
         ], 
-        "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:Numerical_Weather_Prediction_Tutorial", 
+        "fullurl": "https://events.ccc.de/congress/2017/wiki/index.php/Session:Rights%26Freedoms", 
         "Has end time": [
-            "1514466000"
+            "1514394000"
         ]
     }, 
     "Session:\"Pen&Paper\" Game Jam# 33dbda9e61f8c463561dada21f411495": {
