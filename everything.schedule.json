@@ -1,6 +1,6 @@
 {
     "schedule": {
-        "version": "Mildenberg 2018-01-16 06:10", 
+        "version": "Mildenberg 2018-01-16 06:20", 
         "base_url": "https://fahrplan.events.ccc.de/congress/2017/Fahrplan/", 
         "conference": {
             "acronym": "34c3", 
@@ -4270,7 +4270,7 @@
                         ], 
                         "Assembly:HardwareHackingArea": [
                             {
-                                "id": 1192, 
+                                "id": 1191, 
                                 "guid": "f5ebebb3-c53e-443e-82ee-080723b1f60e", 
                                 "logo": null, 
                                 "date": "2017-12-27T17:30:00+01:00", 
@@ -9432,7 +9432,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1191, 
+                                "id": 1192, 
                                 "guid": "e87a7b37-b57c-4367-957c-1ef2dcd3a606", 
                                 "logo": null, 
                                 "date": "2017-12-28T17:30:00+01:00", 
@@ -15208,7 +15208,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1191, 
+                                "id": 1192, 
                                 "guid": "e87a7b37-b57c-4367-957c-1ef2dcd3a606", 
                                 "logo": null, 
                                 "date": "2017-12-29T17:30:00+01:00", 
@@ -18051,9 +18051,9 @@
                                 "subtitle": "", 
                                 "track": "self organized sessions", 
                                 "type": "discussion", 
-                                "language": "de", 
+                                "language": "en", 
                                 "abstract": "", 
-                                "description": "", 
+                                "description": "An open discussion on how to improve diversity at c3 events and on dealing with cases of harassment.", 
                                 "persons": [
                                     {
                                         "id": 0, 
@@ -18919,7 +18919,7 @@
                         ], 
                         "Assembly:HardwareHackingArea": [
                             {
-                                "id": 1191, 
+                                "id": 1192, 
                                 "guid": "e87a7b37-b57c-4367-957c-1ef2dcd3a606", 
                                 "logo": null, 
                                 "date": "2017-12-30T13:00:00+01:00", 
@@ -19139,13 +19139,13 @@
                                 "id": 1357, 
                                 "guid": "622c5770-b9fc-45ef-b9fc-1533f661e3ec", 
                                 "logo": null, 
-                                "date": "2017-12-30T15:00:00+01:00", 
-                                "start": "15:00", 
-                                "duration": "0:30", 
+                                "date": "2017-12-30T14:00:00+01:00", 
+                                "start": "14:00", 
+                                "duration": "0:20", 
                                 "room": "Assembly:TeaHouse", 
                                 "slug": "", 
                                 "title": "TeaHouse", 
-                                "subtitle": "want to talk about the new c.h.an.g.e. location", 
+                                "subtitle": "Collection and clustering of 6,900 tweets censored in European countries in 2017", 
                                 "track": "self organized sessions", 
                                 "type": "meeting", 
                                 "language": "en", 
@@ -19167,13 +19167,13 @@
                                 "id": 1357, 
                                 "guid": "622c5770-b9fc-45ef-b9fc-1533f661e3ec", 
                                 "logo": null, 
-                                "date": "2017-12-30T14:00:00+01:00", 
-                                "start": "14:00", 
-                                "duration": "0:20", 
+                                "date": "2017-12-30T15:00:00+01:00", 
+                                "start": "15:00", 
+                                "duration": "0:30", 
                                 "room": "Assembly:TeaHouse", 
                                 "slug": "", 
                                 "title": "TeaHouse", 
-                                "subtitle": "Collection and clustering of 6,900 tweets censored in European countries in 2017", 
+                                "subtitle": "want to talk about the new c.h.an.g.e. location", 
                                 "track": "self organized sessions", 
                                 "type": "meeting", 
                                 "language": "en", 

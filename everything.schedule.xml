@@ -1,5 +1,5 @@
 <schedule>
-  <version>Mildenberg 2018-01-16 06:10</version>
+  <version>Mildenberg 2018-01-16 06:20</version>
   <base_url>https://fahrplan.events.ccc.de/congress/2017/Fahrplan/</base_url>
   <conference>
     <acronym>34c3</acronym>
@@ -3774,7 +3774,7 @@ Die Anmeldung erfolgt vor Ort und falls die Zeit im Jugendhack Assembly abgelauf
       </event>
     </room>
     <room name="Assembly:HardwareHackingArea">
-      <event id="1192" guid="f5ebebb3-c53e-443e-82ee-080723b1f60e">
+      <event id="1191" guid="f5ebebb3-c53e-443e-82ee-080723b1f60e">
         <logo/>
         <date>2017-12-27T17:30:00+01:00</date>
         <start>17:30</start>
@@ -8342,7 +8342,7 @@ This workshop will be given twice&lt;br /&gt;(both identical):&lt;br /&gt;
           <link>https://events.ccc.de/congress/2017/wiki/index.php/Session:ArduinoForTotalNewbies</link>
         </links>
       </event>
-      <event id="1191" guid="e87a7b37-b57c-4367-957c-1ef2dcd3a606">
+      <event id="1192" guid="e87a7b37-b57c-4367-957c-1ef2dcd3a606">
         <logo/>
         <date>2017-12-28T17:30:00+01:00</date>
         <start>17:30</start>
@@ -13277,7 +13277,7 @@ This workshop will be given twice&lt;br /&gt;(both identical):&lt;br /&gt;
           <link>https://events.ccc.de/congress/2017/wiki/index.php/Session:ArduinoForTotalNewbies</link>
         </links>
       </event>
-      <event id="1191" guid="e87a7b37-b57c-4367-957c-1ef2dcd3a606">
+      <event id="1192" guid="e87a7b37-b57c-4367-957c-1ef2dcd3a606">
         <logo/>
         <date>2017-12-29T17:30:00+01:00</date>
         <start>17:30</start>
@@ -15698,9 +15698,9 @@ The goal of this hands-on session is to pass on knowledge about protecting yours
         <subtitle/>
         <track>self organized sessions</track>
         <type>discussion</type>
-        <language>de</language>
+        <language>en</language>
         <abstract/>
-        <description/>
+        <description>An open discussion on how to improve diversity at c3 events and on dealing with cases of harassment.</description>
         <persons>
           <person id="0" href="https://events.ccc.de/congress/2017/wiki/index.php/User:Blackspear">Blackspear</person>
         </persons>
@@ -16468,7 +16468,7 @@ but can also use public keys and content hashes as links.</abstract>
       </event>
     </room>
     <room name="Assembly:HardwareHackingArea">
-      <event id="1191" guid="e87a7b37-b57c-4367-957c-1ef2dcd3a606">
+      <event id="1192" guid="e87a7b37-b57c-4367-957c-1ef2dcd3a606">
         <logo/>
         <date>2017-12-30T13:00:00+01:00</date>
         <start>13:00</start>
@@ -16645,13 +16645,13 @@ but can also use public keys and content hashes as links.</abstract>
       </event>
       <event id="1357" guid="622c5770-b9fc-45ef-b9fc-1533f661e3ec">
         <logo/>
-        <date>2017-12-30T15:00:00+01:00</date>
-        <start>15:00</start>
-        <duration>0:30</duration>
+        <date>2017-12-30T14:00:00+01:00</date>
+        <start>14:00</start>
+        <duration>0:20</duration>
         <room>Assembly:TeaHouse</room>
         <slug/>
         <title>TeaHouse</title>
-        <subtitle>want to talk about the new c.h.an.g.e. location</subtitle>
+        <subtitle>Collection and clustering of 6,900 tweets censored in European countries in 2017</subtitle>
         <track>self organized sessions</track>
         <type>meeting</type>
         <language>en</language>
@@ -16667,13 +16667,13 @@ but can also use public keys and content hashes as links.</abstract>
       </event>
       <event id="1357" guid="622c5770-b9fc-45ef-b9fc-1533f661e3ec">
         <logo/>
-        <date>2017-12-30T14:00:00+01:00</date>
-        <start>14:00</start>
-        <duration>0:20</duration>
+        <date>2017-12-30T15:00:00+01:00</date>
+        <start>15:00</start>
+        <duration>0:30</duration>
         <room>Assembly:TeaHouse</room>
         <slug/>
         <title>TeaHouse</title>
-        <subtitle>Collection and clustering of 6,900 tweets censored in European countries in 2017</subtitle>
+        <subtitle>want to talk about the new c.h.an.g.e. location</subtitle>
         <track>self organized sessions</track>
         <type>meeting</type>
         <language>en</language>
